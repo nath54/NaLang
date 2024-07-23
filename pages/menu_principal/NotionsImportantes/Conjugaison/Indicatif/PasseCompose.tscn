@@ -1,0 +1,140 @@
+[gd_scene load_steps=6 format=3 uid="uid://c7p41xdaq13lm"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Indicatif/PasseCompose.gd" id="1_v42vv"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="2_kav33"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="3_fe0mw"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="4_jx1g2"]
+[ext_resource type="FontFile" uid="uid://b4lyjsycmvjsi" path="res://res/Merriweather/Merriweather-BoldItalic.ttf" id="5_qxnbw"]
+
+[node name="PasseCompose" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_v42vv")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Le passé composé"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "Le passé composé espagnol (pretérito perfecto) est employé pour parler d’actions achevées qui ont encore une relation avec le moment présent. Son emploi diffère donc de celui passé composé français."
+autowrap_mode = 3
+
+[node name="Soustitre1" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_kav33")
+text = "  -- Quand utiliser le passé composé en espagnol ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="RichTextLabel2" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("4_jx1g2")
+theme_override_fonts/bold_font = ExtResource("2_kav33")
+theme_override_fonts/italics_font = ExtResource("3_fe0mw")
+theme_override_fonts/bold_italics_font = ExtResource("5_qxnbw")
+bbcode_enabled = true
+text = "- action qui s’est déroulée pendant une période de temps définie (semaine, mois...) qui n’est pas encore terminée au moment de l’énonciation (mots-clés : este/esta …, hoy)
+    [color=blue][i]Ex: Esta semana, Pablo ha empezado a seguir una dieta vegetariana. (Cette semaine, Pablo s'est mis à suivre un régime végétarien.)[/i][/color]
+  
+  - action achevée qui influence le présent ou le futur
+    [color=blue][i]Ex: Mi hermano pequeño ha nacido hace unos días. (Mon petit frère est né il y a quelques jours.)[/i][/color]
+
+"
+fit_content = true
+
+[node name="Soustitre2" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_kav33")
+text = "  -- Comment conjuguer les verbes espagnols au passé composé ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/bold_font = ExtResource("2_kav33")
+bbcode_enabled = true
+text = "Pour conjuguer les verbes au passé composé, on conjugue le verbe [b]haber[/b] au présent de l'indicatif et on met après le verbe à conjuguer sous sa forme de participe passé."
+fit_content = true
+
+[node name="RichTextLabel" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("4_jx1g2")
+theme_override_fonts/bold_font = ExtResource("2_kav33")
+theme_override_fonts/italics_font = ExtResource("3_fe0mw")
+theme_override_fonts/bold_italics_font = ExtResource("5_qxnbw")
+bbcode_enabled = true
+text = "
+   [i]yo[/i] : [b][color=red]he [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]tu[/i] : [b][color=red]has [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]ha [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]nosotros[/i] : [b][color=red]hemos [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]vosotros[/i] : [b][color=red]habéis [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]han [/color] [color=dark green]+ participe passé[/color][/b]
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]he tomado[/color][/b]
+   [i]tu[/i] : [b][color=blue]has tomado[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]ha tomado[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]hemos tomado[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]habéis tomado[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]han tomado[/color][/b] 
+"
+fit_content = true
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

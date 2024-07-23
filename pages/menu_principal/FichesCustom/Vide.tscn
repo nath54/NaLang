@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://biw2qcknjh4x"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/FichesCustom/Vide.gd" id="1_av8sf"]
+
+[node name="Vide" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_av8sf")

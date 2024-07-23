@@ -1,0 +1,659 @@
+{
+    "nom": "Animaux",
+    "elements": [
+        [
+            ["mamífero"],
+            ["mammifère"]
+        ],
+
+        [
+            ["burro", "asno"],
+            ["âne"]
+        ],
+
+        [
+            ["antílope"],
+            ["antilope"]
+        ],
+
+        [
+            ["ballena"],
+            ["baleine"]
+        ],
+
+        [
+            ["comadreja"],
+            ["belette"]
+        ],
+
+        [
+            ["bisonte", "búfalo"],
+            ["bison"]
+        ],
+
+        [
+            ["tejón"],
+            ["blaireau"]
+        ],
+
+        [
+            ["carne", "buey", "ternera"],
+            ["bœuf"]
+        ],
+
+        [
+            ["cabra montés", "íbice", "cabra montesa"],
+            ["bouquetin"]
+        ],
+
+        [
+            ["búfalo"],
+            ["buffle"]
+        ],
+
+        [
+            ["castor"],
+            ["castor"]
+        ],
+
+        [
+            ["ciervo", "venado"],
+            ["cerf"]
+        ],
+
+        [
+            ["chacal"],
+            ["chacal"]
+        ],
+
+        [
+            ["camello"],
+            ["chameau"]
+        ],
+
+        [
+            ["badana", "gamuza"],
+            ["chamois"]
+        ],
+
+        [
+            ["gato"],
+            ["chat"]
+        ],
+
+        [
+            ["murciélago"],
+            ["chauve-souris"]
+        ],
+
+        [
+            ["caballo"],
+            ["cheval"]
+        ],
+
+        [
+            ["cabra"],
+            ["chèvre"]
+        ],
+
+        [
+            ["ciervo", "corzo", "venado"],
+            ["chevreuil"]
+        ],
+
+        [
+            ["perro"],
+            ["chien"]
+        ],
+
+        [
+            ["chimpancé"],
+            ["chimpanzé"]
+        ],
+
+        [
+            ["cerdo", "cerdito"],
+            ["cochon", "porc"]
+        ],
+
+        [
+            ["gamuza", "ante", "ciervo"],
+            ["daim"]
+        ],
+
+        [
+            ["delfín"],
+            ["dauphin"]
+        ],
+
+        [
+            ["dromedario", "camello"],
+            ["dromadaire"]
+        ],
+
+        [
+            ["ardilla"],
+            ["écureuil"]
+        ],
+
+        [
+            ["elefante"],
+            ["éléphant"]
+        ],
+
+        [
+            ["hurón"],
+            ["furet"]
+        ],
+
+        [
+            ["jirafa"],
+            ["girafe"]
+        ],
+
+        [
+            ["gorila"],
+            ["gorille"]
+        ],
+
+        [
+            ["guepardo", "chita"],
+            ["guépard"]
+        ],
+
+        [
+            ["ñu"],
+            ["gnou"]
+        ],
+
+        [
+            ["erizo"],
+            ["hérisson"]
+        ],
+
+        [
+            ["hipopótamo"],
+            ["hippopotame"]
+        ],
+
+        [
+            ["humano"],
+            ["humain"]
+        ],
+
+        [
+            ["hiena"],
+            ["hyène"]
+        ],
+
+        [
+            ["canguro"],
+            ["kangourou"]
+        ],
+
+        [
+            ["llama", "lama"],
+            ["lama"]
+        ],
+
+        [
+            ["conejo", "conejito"],
+            ["lapin"]
+        ],
+
+        [
+            ["lémur"],
+            ["lémur"]
+        ],
+
+        [
+            ["leopardo"],
+            ["léopard"]
+        ],
+
+        [
+            ["pantera"],
+            ["panthère"]
+        ],
+
+        [
+            ["liebre"],
+            ["lièvre"]
+        ],
+
+        [
+            ["león"],
+            ["lion"]
+        ],
+
+        [
+            ["lobo"],
+            ["loup"]
+        ],
+
+        [
+            ["lince"],
+            ["lynx"]
+        ],
+
+        [
+            ["nutria"],
+            ["loutre"]
+        ],
+
+        [
+            ["marmota"],
+            ["marmotte"]
+        ],
+
+        [
+            ["oveja", "cordero", "ovina"],
+            ["mouton"]
+        ],
+
+        [
+            ["orca", "orco"],
+            ["orque"]
+        ],
+
+        [
+            ["león marino", "lobo marino", "foca"],
+            ["otarie"]
+        ],
+
+        [
+            ["tití", "mono", "monito"],
+            ["ouistiti"]
+        ],
+
+        [
+            ["oso"],
+            ["ours"]
+        ],
+
+        [
+            ["jabalí verrugoso", "facóquero"],
+            ["phacochère"]
+        ],
+
+        [
+            ["pony", "poni"],
+            ["poney"]
+        ],
+
+        [
+            ["rata"],
+            ["rat"]
+        ],
+
+        [
+            ["zorro"],
+            ["renard"]
+        ],
+
+        [
+            ["rinoceronte"],
+            ["rhinocéros"]
+        ],
+
+        [
+            ["jabalí"],
+            ["sanglier"]
+        ],
+
+        [
+            ["mono"],
+            ["singe"]
+        ],
+
+        [
+            ["ratón", "mouse"],
+            ["souris"]
+        ],
+
+        [
+            ["topo"],
+            ["taupe"]
+        ],
+
+        [
+            ["tigre"],
+            ["tigre"]
+        ],
+
+        [
+            ["vaca"],
+            ["vache"]
+        ],
+
+        [
+            ["cebra"],
+            ["zèbre"]
+        ],
+
+        [
+            ["pájaro", "ave", "pajarito"],
+            ["oiseau"]
+        ],
+
+        [
+            ["águila"],
+            ["aigle"]
+        ],
+
+        [
+            ["albatros"],
+            ["albatros"]
+        ],
+
+        [
+            ["alondra"],
+            ["alouette"]
+        ],
+
+        [
+            ["avestruz"],
+            ["autruche"]
+        ],
+
+        [
+            ["boquilla"],
+            ["buse"]
+        ],
+
+        [
+            ["codorniz"],
+            ["caille"]
+        ],
+
+        [
+            ["pato"],
+            ["canard"]
+        ],
+
+        [
+            ["búho"],
+            ["chouette"]
+        ],
+
+        [
+            ["cigüeña"],
+            ["cigogne"]
+        ],
+
+        [
+            ["colibrí"],
+            ["colibri"]
+        ],
+
+        [
+            ["paloma"],
+            ["colombe"]
+        ],
+
+        [
+            ["gallo"],
+            ["coq"]
+        ],
+
+        [
+            ["gallina", "pollo"],
+            ["poule"]
+        ],
+
+        [
+            ["pollito", "cariño"],
+            ["poussin"]
+        ],
+
+        [
+            ["pollo"],
+            ["poulet"]
+        ],
+
+        [
+            ["cisne"],
+            ["cygne"]
+        ],
+
+        [
+            ["pavo"],
+            ["dinde", "dindon"]
+        ],
+
+        [
+            ["halcón"],
+            ["faucon"]
+        ],
+
+        [
+            ["grúa"],
+            ["grue"]
+        ],
+
+        [
+            ["búho", "lechuza"],
+            ["hibou"]
+        ],
+
+        [
+            ["carbonero", "tit", "herrerillo"],
+            ["mésange"]
+        ],
+
+        [
+            ["gorrión"],
+            ["moineau"]
+        ],
+
+        [
+            ["ganso", "oca"],
+            ["oie"]
+        ],
+
+        [
+            ["pavo real"],
+            ["paon"]
+        ],
+
+        [
+            ["loro"],
+            ["perroquet"]
+        ],
+
+        [
+            ["paloma"],
+            ["pigeon"]
+        ],
+
+        [
+            ["pingüino"],
+            ["pingouin"]
+        ],
+
+        [
+            ["buitre"],
+            ["vautour"]
+        ],
+
+        [
+            ["insecto", "bicho"],
+            ["insecte"]
+        ],
+
+        [
+            ["abeja"],
+            ["abeille"]
+        ],
+
+        [
+            ["abejón", "abejorro"],
+            ["bourdon"]
+        ],
+
+        [
+            ["cigarra"],
+            ["cigale"]
+        ],
+
+        [
+            ["hormiga"],
+            ["fourmi"]
+        ],
+
+        [
+            ["avispa"],
+            ["guêpe"]
+        ],
+
+        [
+            ["mosca"],
+            ["mouche"]
+        ],
+
+        [
+            ["mariposa", "pajarita"],
+            ["papillon"]
+        ],
+
+        [
+            ["cariño"],
+            ["puce"]
+        ],
+
+        [
+            ["saltamontes"],
+            ["sauterelle"]
+        ],
+
+        [
+            ["chinche"],
+            ["punaise"]
+        ],
+
+        [
+            ["crustáceo"],
+            ["crustacé"]
+        ],
+
+        [
+            ["camarón", "gamba"],
+            ["crevette"]
+        ],
+
+        [
+            ["molusco"],
+            ["mollusque"]
+        ],
+
+        [
+            ["caracol"],
+            ["escargot"]
+        ],
+
+        [
+            ["ostra"],
+            ["huître"]
+        ],
+
+        [
+            ["molde"],
+            ["moule"]
+        ],
+
+        [
+            ["gusano"],
+            ["ver"]
+        ],
+
+        [
+            ["sanguijuela"],
+            ["sangsue"]
+        ],
+
+        [
+            ["pez", "pescado"],
+            ["poisson"]
+        ],
+
+        [
+            ["arenque"],
+            ["hareng"]
+        ],
+
+        [
+            ["caballa"],
+            ["maquereau"]
+        ],
+
+        [
+            ["sardina"],
+            ["sardine"]
+        ],
+
+        [
+            ["salmón"],
+            ["saumon"]
+        ],
+
+        [
+            ["trucha"],
+            ["truite"]
+        ],
+
+        [
+            ["reptil"],
+            ["reptile"]
+        ],
+
+        [
+            ["culebra"],
+            ["couleuvre"]
+        ],
+
+        [
+            ["cocodrilo"],
+            ["crocodile"]
+        ],
+
+        [
+            ["lagarto", "lagartija"],
+            ["lézard"]
+        ],
+
+        [
+            ["serpiente"],
+            ["serpent"]
+        ],
+
+        [
+            ["tortuga"],
+            ["tortue"]
+        ],
+
+        [
+            ["víbora"],
+            ["vipère"]
+        ],
+
+        [
+            ["anfibio"],
+            ["amphibien"]
+        ],
+
+        [
+            ["sapo"],
+            ["crapaud"]
+        ],
+
+        [
+            ["rana"],
+            ["grenouille"]
+        ],
+
+        [
+            ["salamandra"],
+            ["salamandre"]
+        ]
+    ]
+}

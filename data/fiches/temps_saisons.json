@@ -1,0 +1,109 @@
+{
+    "nom": "La météo et les saisons",
+    "elements": [
+        [
+            ["Las estaciones"],
+            ["Les saisons"]
+        ],
+
+        [
+            ["La primavera"],
+            ["Le printemps"]
+        ],
+
+        [
+            ["El verano"],
+            ["L’été"]
+        ],
+
+        [
+            ["El otoño"],
+            ["L’automne"]
+        ],
+
+        [
+            ["El invierno"],
+            ["L’hiver"]
+        ],
+
+        [
+            ["El tiempo"],
+            ["Le temps"]
+        ],
+
+        [
+            ["El clima"],
+            ["Le climat"]
+        ],
+
+        [
+            ["El pronóstico del tiempo"],
+            ["Le bulletin météo"]
+        ],
+
+        [
+            ["¿Qué tiempo hace?"],
+            ["Quel temps fait-il?"]
+        ],
+
+        [
+            ["Hace bueno"],
+            ["Il fait beau"]
+        ],
+
+        [
+            ["Brilla el sol"],
+            ["Le soleil brille"]
+        ],
+
+        [
+            ["Tener calor"],
+            ["Avoir chaud"]
+        ],
+
+        [
+            ["Sudar"],
+            ["Suer"]
+        ],
+
+        [
+            ["Llueve"],
+            ["Il pleut"]
+        ],
+
+        [
+            ["Estar calado", "Estar calada"],
+            ["Etre trempé", "Etre trempée"]
+        ],
+
+        [
+            ["Hace viento"],
+            ["Il y a du vent"]
+        ],
+
+        [
+            ["Hay niebla"],
+            ["Il y a du brouillard"]
+        ],
+
+        [
+            ["Nieva"],
+            ["Il neige"]
+        ],
+
+        [
+            ["Hace frío"],
+            ["Il fait froid"]
+        ],
+
+        [
+            ["Tener frío"],
+            ["Avoir froid"]
+        ],
+
+        [
+            ["Estar helado", "Estar helada"],
+            ["Etre gelé", "Etre gelée"]
+        ]
+    ]
+}

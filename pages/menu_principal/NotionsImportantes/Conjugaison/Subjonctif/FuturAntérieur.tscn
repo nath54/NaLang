@@ -1,0 +1,145 @@
+[gd_scene load_steps=6 format=3 uid="uid://cq7lv4gg5iddo"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Indicatif/Present.gd" id="1_y68wp"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="2_imum4"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="3_yjh3g"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="4_w4w16"]
+[ext_resource type="FontFile" uid="uid://b4lyjsycmvjsi" path="res://res/Merriweather/Merriweather-BoldItalic.ttf" id="5_olhel"]
+
+[node name="NotionsImportantes" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_y68wp")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Le futur antérieur du subjonctif"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_imum4")
+theme_override_fonts/bold_font = ExtResource("3_yjh3g")
+theme_override_fonts/italics_font = ExtResource("4_w4w16")
+theme_override_fonts/bold_italics_font = ExtResource("3_yjh3g")
+bbcode_enabled = true
+text = "En Espagnol, le futur antérieur du subjonctif [i](futuro perfecto de subjuntivo)[/i] est un temps verbal utilisé pour exprimer des actions qui auront eu lieu dans le futur par rapport à un point de référence spécifique. Il est principalement utilisé dans des phrases subordonnées introduites par des conjonctions temporelles telles que [i]“cuando” (quand)[/i], [i]“en cuanto” (dès que)[/i], [i]“tan pronto como” (aussitôt que)[/i], etc."
+fit_content = true
+
+[node name="Soustitre1" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_yjh3g")
+text = "  -- Quand utiliser le futur antérieur du subjonctif en espagnol ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Description2" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_imum4")
+theme_override_fonts/bold_font = ExtResource("3_yjh3g")
+theme_override_fonts/italics_font = ExtResource("4_w4w16")
+theme_override_fonts/bold_italics_font = ExtResource("3_yjh3g")
+bbcode_enabled = true
+text = "Le futur antérieur du subjonctif est principalement utilisé pour indiquer que l’action d’une phrase subordonnée aura eu lieu avant l’action de la phrase principale, à un moment futur par rapport à un point de référence. Voici quelques exemples d’utilisation du futur antérieur du subjonctif :
+
+  - Actions futures antérieures :
+      [i][color=blue]Ex: Te llamaré cuando hayas terminado tus deberes. (Je t’appellerai quand tu auras fini tes devoirs.)[/color][/i]
+
+  - Conditions futures antérieures : 
+      [i][color=blue]Ex: En cuanto ellos hayan llegado, empezaremos la reunión. (Dès qu’ils seront arrivés, nous commencerons la réunion.)[/color][/i]
+
+  - Réactions hypothétiques futures :
+      [i][color=blue]Ex: Tan pronto como hayamos recibido la noticia, nos alegraremos. (Dès que nous aurons reçu la nouvelle, nous serons contents.)[/color][/i]
+
+Le futur antérieur du subjonctif en espagnol est un temps verbal qui permet d’exprimer des actions qui auront eu lieu dans le futur par rapport à un point de référence. Il est principalement utilisé dans des phrases subordonnées temporelles et indique une antériorité par rapport à une autre action future."
+fit_content = true
+
+[node name="Soustitre2" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_yjh3g")
+text = "  -- Comment conjuguer les verbes espagnols au futur antérieur du subjonctif ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="RichTextLabel" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_imum4")
+theme_override_fonts/bold_font = ExtResource("3_yjh3g")
+theme_override_fonts/italics_font = ExtResource("4_w4w16")
+theme_override_fonts/bold_italics_font = ExtResource("5_olhel")
+bbcode_enabled = true
+text = "Le futur antérieur du subjonctif se forme avec l’auxiliaire HABER conjugué au futur simple du subjonctif et le participe passé du verbe principal.
+
+Haber avec la terminaison en [b]-ra[/b]:
+   [i]yo[/i] : [b][color=red]hubiere [/color] + [color=dark green]participe passé[/color][/b]
+   [i]tu[/i] : [b][color=red]hubieres [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]hubiere [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]nosotros[/i] : [b][color=red]hubiéremos [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]vosotros[/i] : [b][color=red]hubiereis [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]hubieren [/color]+ [color=dark green]participe passé[/color][/b]
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]hubiera tomado[/color][/b]
+   [i]tu[/i] : [b][color=blue]hubieres tomado[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]hubiere tomado[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]hubiéremos tomado[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]hubiereis tomado[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]hubieren tomado[/color][/b]
+"
+fit_content = true
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

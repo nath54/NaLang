@@ -1,0 +1,40 @@
+[gd_scene load_steps=6 format=3 uid="uid://bpoi6dfbwqqeb"]
+
+[ext_resource type="StyleBox" uid="uid://csy0b1cb3uevh" path="res://res/Theme/WBt_Normal.tres" id="1_0eqhp"]
+[ext_resource type="Script" path="res://pages/menu_principal/FichesCustom/Bt_Fiche.gd" id="1_slse0"]
+[ext_resource type="StyleBox" uid="uid://cd07p2it74hxu" path="res://res/Theme/WBt_Hover.tres" id="2_j2e8v"]
+[ext_resource type="StyleBox" uid="uid://dgp6vvl6fngov" path="res://res/Theme/WBt_pressed.tres" id="3_ei8yf"]
+[ext_resource type="StyleBox" uid="uid://j58gk6jfpypn" path="res://res/Theme/WBt_Disabled.tres" id="4_tgdfd"]
+
+[node name="Bt_Fiche" type="Button"]
+modulate = Color(0.960784, 0.431373, 0, 1)
+custom_minimum_size = Vector2(300, 55)
+mouse_filter = 1
+theme_override_styles/normal = ExtResource("1_0eqhp")
+theme_override_styles/hover = ExtResource("2_j2e8v")
+theme_override_styles/pressed = ExtResource("3_ei8yf")
+theme_override_styles/disabled = ExtResource("4_tgdfd")
+script = ExtResource("1_slse0")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 15
+
+[node name="Vide" type="Control" parent="HBoxContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer"]
+layout_mode = 2
+text = "Fiche interne à l'application"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Vide2" type="Control" parent="HBoxContainer"]
+layout_mode = 2
+
+[connection signal="ready" from="HBoxContainer/Label" to="." method="_on_label_ready"]

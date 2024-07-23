@@ -1,0 +1,33 @@
+
+[font_size=30][center][b]Le participe passé[/b][/center][/font_size]
+
+[center]__________[/center]
+
+Le participe passé est une forme non conjuguée du verbe.
+
+En espagnol, le participe passé sert souvent à abréger les propositions subordonnées relatives, et s'utilise dans les temps composés.
+
+[center][b]-- Quand former le participe passé en espagnol ? --[/b][/center]
+
+Le participe passé se construit avec la terminaison [b][color=red]-ado[/color][/b] pour les verbes en [b]-ar[/b] et avec [b][color=red]-ido[/color][/b] pour les verbes en [b]-er[/b] et en [b]-ir[/b].
+
+[b]Exceptions[/b]
+
+   - Si la terminaison [b][color=red]-ido[/color][/b] est précédé d'une voyelle, il faut un accent sur le [b][color=red]i[/color][/b] de la terminaison. Ceci indique que les deux voyelles sont prononcées séparément.
+
+    [color=blue]Ex :
+        [i]leer → leído[/i]
+        [i]traer → traído[/i][/color]
+
+   - Certains verbes ont des participes passés irréguliers. En voici la liste :
+
+ * [i][color=blue]abrir → abierto[/color] [color=dark green](ouvrir)[/color][/i]
+ * [i][color=blue]decir → dicho[/color] [color=dark green](dire)[/color][/i]
+ * [i][color=blue]escribir → escrito[/color] [color=dark green](écrire)[/color][/i]
+ * [i][color=blue]hacer → hecho[/color] [color=dark green](faire)[/color][/i]
+ * [i][color=blue]imprimir → impreso[/color] [color=dark green](imprimer)[/color][/i]
+ * [i][color=blue]morir → muerto[/color] [color=dark green](mourir)[/color][/i]
+ * [i][color=blue]poner → puesto[/color] [color=dark green](mettre)[/color][/i]
+ * [i][color=blue]romper → roto[/color] [color=dark green](casser)[/color][/i]
+ * [i][color=blue]ver → visto[/color] [color=dark green](voir)[/color][/i]
+ * [i][color=blue]volver → vuelto[/color] [color=dark green](retourner/revenir)[/color][/i]

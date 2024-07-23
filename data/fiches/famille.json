@@ -1,0 +1,269 @@
+{
+    "nom": "La famille",
+    "elements": [
+        [
+            ["La familia"],
+            ["La famille"]
+        ],
+
+        [
+            ["Familiares y parientes"],
+            ["Parents proches et éloignés"]
+        ],
+
+        [
+            ["La genealogía"],
+            ["La généalogie"]
+        ],
+
+        [
+            ["Los parientes"],
+            ["Les membres de la famille"]
+        ],
+
+        [
+            ["El parentesco"],
+            ["Le lien de parenté"]
+        ],
+
+        [
+            ["Un matrimonio"],
+            ["Un couple marié"]
+        ],
+
+        [
+            ["Una pareja "],
+            ["Un couple"]
+        ],
+
+        [
+            ["Fundar una familia"],
+            ["Fonder une famille"]
+        ],
+
+        [
+            ["Los padres"],
+            ["Les parents"]
+        ],
+
+        [
+            ["El padre"],
+            ["Le père"]
+        ],
+
+        [
+            ["La madre"],
+            ["La mère"]
+        ],
+
+        [
+            ["Los papás"],
+            ["Le papa et la maman"]
+        ],
+
+        [
+            ["El papá"],
+            ["Le papa"]
+        ],
+
+        [
+            ["La mamá"],
+            ["la maman"]
+        ],
+
+        [
+            ["Los hijos"],
+            ["Les enfants"]
+        ],
+
+        [
+            ["El hijo"],
+            ["Le fils"]
+        ],
+
+        [
+            ["La hija"],
+            ["La fille"]
+        ],
+
+        [
+            ["El hermano"],
+            ["Le frère"]
+        ],
+
+        [
+            ["La hermana"],
+            ["La soeur"]
+        ],
+
+        [
+            ["Los hermanos"],
+            ["Les frères et soeurs"]
+        ],
+
+        [
+            ["El primogénito"],
+            ["L’aîné"]
+        ],
+
+        [
+            ["Los gemelos"],
+            ["Les jumeaux"]
+        ],
+
+        [
+            ["Las gemelas"],
+            ["Les jumelles"]
+        ],
+
+        [
+            ["Los mellizos"],
+            ["Les faux jumeaux"]
+        ],
+
+        [
+            ["El abuelo"],
+            ["Le grand-père"]
+        ],
+
+        [
+            ["La abuela"],
+            ["La grand-mère"]
+        ],
+
+        [
+            ["Los abuelos"],
+            ["Les grands-parents "]
+        ],
+
+        [
+            ["El nieto"],
+            ["Le petit-fils"]
+        ],
+
+        [
+            ["La nieta"],
+            ["La petite-fille"]
+        ],
+
+        [
+            ["Los nietos"],
+            ["Les petits-enfants"]
+        ],
+
+        [
+            ["El tío"],
+            ["L’oncle"]
+        ],
+
+        [
+            ["La tía"],
+            ["La tante"]
+        ],
+
+        [
+            ["Los tíos", "Las tías"],
+            ["Les oncles et tantes"]
+        ],
+
+        [
+            ["El sobrino"],
+            ["Le neveu"]
+        ],
+
+        [
+            ["La sobrina"],
+            ["La nièce"]
+        ],
+
+        [
+            ["Los sobrinos", "Las sobrinas"],
+            ["Les neveux et nièces"]
+        ],
+
+        [
+            ["El primo"],
+            ["Le cousin"]
+        ],
+
+        [
+            ["La prima"],
+            ["La cousine"]
+        ],
+
+        [
+            ["Los primos", "Las primas"],
+            ["Les cousins et cousines"]
+        ],
+
+        [
+            ["El primo hermano"],
+            ["Le cousin germain"]
+        ],
+
+        [
+            ["La familia política", "Los suegros"],
+            ["La belle famille"]
+        ],
+
+        [
+            ["El padrastro", "El suegro"],
+            ["Le beau-père"]
+        ],
+
+        [
+            ["La madrastra", "La suegra"],
+            ["La belle-mère"]
+        ],
+
+        [
+            ["El hijastro"],
+            ["Le beau-fils"]
+        ],
+
+        [
+            ["La hijastra", "La nuera"],
+            ["La belle-fille"]
+        ],
+
+        [
+            ["El hermanastro"],
+            ["Le demi-frère"]
+        ],
+
+        [
+            ["La hermanastra"],
+            ["La demi-soeur"]
+        ],
+
+        [
+            ["La adopción"],
+            ["L’adoption"]
+        ],
+
+        [
+            ["Los hijos adoptivos"],
+            ["Les enfants adoptifs"]
+        ],
+
+        [
+            ["Los suegros"],
+            ["Les beaux-parents"]
+        ],
+
+        [
+            ["El yerno"],
+            ["Le gendre"]
+        ],
+
+        [
+            ["El cuñado"],
+            ["Le beau-frère"]
+        ],
+
+        [
+            ["La cuñada"],
+            ["La belle-soeur"]
+        ]
+    ]
+}

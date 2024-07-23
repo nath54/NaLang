@@ -1,0 +1,53 @@
+
+[font_size=30][center][b]L'imparfait du subjonctif[/b][/center][/font_size]
+
+[center]__________[/center]
+
+Le subjonctif imparfait [i](pretérito imperfecto subjuntivo)[/i] est employé dans certaines propositions subordonnées, et notamment dans les formules de politesse. Ce temps du subjonctif peut exprimer une action qui s’est déjà produite ou qui est en train de se produire (cela dépend du verbe de la proposition principale).
+
+[center][b]-- Quand utiliser l'imparfait du subjonctif en espagnol ? --[/b][/center]
+
+En espagnol, on emploie le subjonctif imparfait dans les cas suivants :
+
+  - verbe de la proposition principale à un temps du passé ou au conditionnel présent : [i]l’action de la subordonnée (subjonctif) se déroule en même temps ou plus tard que celle de la proposition principale[/i]
+      [i][color=blue]Ex: Aunque no sabías que la ayuda fuera necesaria... (Même si tu ne savais pas que l'aide était nécessaire...)[/color][/i]
+
+  - action de la proposition principale au présent : [i]l’action de la subordonnée a eu lieu précédemment et n’est plus liée au présent[/i]
+      [i][color=blue]Ex: Creo que el dueño se alegra de que tú colaboraras. (Je crois que le propriétaire se réjouit de ta collaboration.)[/color][/i]
+
+  - tournures polies avec des verbes tels que querer, poder, deber, etc.
+      [i][color=blue]Ex: El conductor quisiera tener todo listo para esta tarde. (Le conducteur aimerait que tout soit prêt cette après-midi.)[/color][/i]
+
+  - après l'expression como si dans le sens « comme si... »
+      [i][color=blue]Ex: Has trabajado como si fueras el jefe. (Tu as travaillé comme si tu étais le chef.) [/color][/i]
+
+
+[center][b]-- Comment conjuguer les verbes espagnols à l'imparfait du subjonctif ? --[/b][/center]
+
+Pour conjuguer les verbes espagnols au subjonctif imparfait, il faut prendre la 3e personne du pluriel au passé simple, et remplacer [color=red]-ron[/color], par les terminaisons du tableau, identiques pour tous les groupes de verbes. On a le choix entre les deux terminaisons [color=red]-ra[/color] ou [color=red]-se[/color], il s’agit juste d’une question de préférence.
+
+
+Terminaison en [b]-ra[/b]:
+   [i]yo[/i] : [b][color=red]-ra [/color][/b]
+   [i]tu[/i] : [b][color=red]-ras [/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-ra [/color][/b]
+   [i]nosotros[/i] : [b][color=red]-ramos [/color][/b]
+   [i]vosotros[/i] : [b][color=red]-rais [/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-ran [/color][/b]
+
+Terminaison en [b]-se[/b]:
+   [i]yo[/i] : [b][color=red]-se [/color][/b]
+   [i]tu[/i] : [b][color=red]-ses [/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-se [/color][/b]
+   [i]nosotros[/i] : [b][color=red]-semos [/color][/b]
+   [i]vosotros[/i] : [b][color=red]-seis [/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-sen [/color][/b]
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]tomara[/color][/b]    ou     [b][color=blue]tomase[/color][/b]
+   [i]tu[/i] : [b][color=blue]tomaras[/color][/b]    ou     [b][color=blue]tomases[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]tomara[/color][/b]    ou     [b][color=blue]tomase[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]tomáramos[/color][/b]    ou     [b][color=blue]tomásemos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]tomarais[/color][/b]    ou     [b][color=blue]tomaseis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]tomaran[/color][/b]     ou     [b][color=blue]tomasen[/color][/b]
+

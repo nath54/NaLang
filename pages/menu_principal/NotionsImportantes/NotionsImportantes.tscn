@@ -1,0 +1,83 @@
+[gd_scene load_steps=2 format=3 uid="uid://sr0ff3nyfv1o"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/NotionsImportantes.gd" id="1_rel67"]
+
+[node name="NotionsImportantes" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_rel67")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Notions Importantes"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "Vous pouvez trouver ici sur cette page et ses sous-pages les règles de bases de la langue espagnole."
+autowrap_mode = 2
+
+[node name="Bt_Conjugaison" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 75)
+layout_mode = 2
+text = "Conjugaison"
+
+[node name="Bt_Grammaire" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 75)
+layout_mode = 2
+disabled = true
+text = "Grammaire"
+
+[node name="Bt_Nombres" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 75)
+layout_mode = 2
+disabled = true
+text = "Les nombres"
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_Conjugaison" to="." method="_on_bt_conjugaison_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_Grammaire" to="." method="_on_bt_grammaire_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_Nombres" to="." method="_on_bt_nombres_pressed"]

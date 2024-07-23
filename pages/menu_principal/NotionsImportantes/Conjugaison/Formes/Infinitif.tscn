@@ -1,0 +1,104 @@
+[gd_scene load_steps=5 format=3 uid="uid://4ysg8tewbtvs"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Indicatif/Present.gd" id="1_a5w7f"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="2_0osk2"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="3_122ht"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="4_xs6it"]
+
+[node name="NotionsImportantes" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_a5w7f")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "L'infinitif"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_0osk2")
+theme_override_fonts/bold_font = ExtResource("3_122ht")
+theme_override_fonts/italics_font = ExtResource("4_xs6it")
+theme_override_fonts/bold_italics_font = ExtResource("3_122ht")
+bbcode_enabled = true
+text = "L’infinitif est une forme non conjuguée du verbe, c’est-à-dire une forme du verbe qui ne porte les marques ni de temps, ni de nombre, ni de personne. Les verbes à l’infinitif peuvent se terminer par [i]-ar[/i], [i]-er[/i] ou [i]-ir[/i].
+
+L’infinitif peut être employé en tant que forme verbale ou en tant que forme nominale.
+
+Les constructions infinitives espagnoles ne peuvent pas toujours se traduire par un infinitif en français. Parfois il faudra restructurer complètement les propositions en question."
+fit_content = true
+
+[node name="Soustitre1" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_122ht")
+text = "  -- Quand employer l’infinitif en espagnol ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Description2" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_0osk2")
+theme_override_fonts/bold_font = ExtResource("3_122ht")
+theme_override_fonts/italics_font = ExtResource("4_xs6it")
+theme_override_fonts/bold_italics_font = ExtResource("3_122ht")
+bbcode_enabled = true
+text = "Les constructions infinitives s’emploient avec certains mots, prépositions et locutions.
+
+L’infinitif peut se rapporter au sujet, au complément ou à une construction impersonnelle. "
+fit_content = true
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

@@ -1,0 +1,61 @@
+
+[font_size=30][center][b]Le présent du subjonctif[/b][/center][/font_size]
+
+[center]__________[/center]
+
+Le subjonctif présent [i](presente subjuntivo)[/i] est un temps verbal utilisé pour construire certaines formes de l’impératif, ainsi que dans certaines propositions indépendantes exprimant un souhait, un doute, une opinion personelle ou un sentiment dans le présent ou le futur.
+
+[center][b]-- Quand utiliser le présent du subjonctif en espagnol ? --[/b][/center]
+
+Le subjonctif présent est utilisé dans les cas suivants : 
+
+  - supposition négative à propos du présent ou du futur avec les locutions
+  [i]no + creer/pensar/parecer/considerar + que[/i]
+      [i][color=blue]Ex: No creo que esté sobrio. (Je ne pense pas être sobre.)[/color][/i]
+
+  - conditions hypothétiques/conséquences présentes ou futures avec des expressions telles que :
+  [i]como, aunque, a pesar de que, por más que, cuanto, de modo que … [/i]
+      [i][color=blue]Ex: Jugamos al baloncesto aunque llueva. (Nous jouons au basket bien qu'il pleuve.)[/color][/i]
+
+  - indication d’une probabilité présente ou future, avec des adverbes tels que :
+  [i]quizá(s), tal vez, probablemente, posiblemente, ojalá …[/i]
+      [i][color=blue]Ex: ¿Quizás Juan esté ahí? (Peut-être que Juan est là-bas?)[/color][/i]
+
+  - après les expressions suivantes :
+  [i]antes de que, sin que, cuando, apenas, después (de), en cuanto, hasta que, mientras, tan pronto como … [/i]
+      [i][color=blue]Ex: Sin que sea muy difícil, tienen cuidado. (Sans que ce soit bien difficile, ils font attention.)[/color][/i]
+
+  - les formes de l’impératif négatif (toutes ses formes) et la 1re personne du pluriel ainsi que les formes de politesse usted/ustedes de l’impératif affirmatif sont identiques à celles du subjonctif
+      [i][color=blue]Ex: ¡No llores! (Ne pleure pas!)[/color][/i]
+
+
+[center][b]-- Comment conjuguer les verbes espagnols au présent du subjonctif ? --[/b][/center]
+
+Pour conjuguer les verbes au subjonctif présent, on conjugue au présent tout en changeant la voyelle de terminaison : le subjonctif des verbes an -ar se forme avec un -e, celui des verbes en -er et -ir, avec un -a [i](seul cas particulier : 2e personne du pluriel en -ir → áis)[/i].
+
+[b]Verbes en -AR[/b] :
+   [i]yo[/i] : [b][color=red]-e[/color][/b]
+   [i]tu[/i] : [b][color=red]-es[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-e[/color][/b]
+   [i]nosotros[/i] : [b][color=red]-emos[/color][/b]
+   [i]vosotros[/i] : [b][color=red]-éis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-en[/color][/b] 
+
+
+[b]Verbes en -ER / IR[/b] :
+   [i]yo[/i] : [b][color=red]-a[/color][/b]
+   [i]tu[/i] : [b][color=red]-as[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-a[/color][/b]
+   [i]nosotros[/i] : [b][color=red]-amos[/color][/b]
+   [i]vosotros[/i] : [b][color=red]-áis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-an[/color][/b] 
+
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]tome[/color][/b]
+   [i]tu[/i] : [b][color=blue]tomes[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]tome[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]tomemos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]toméis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]tomen[/color][/b] 
+

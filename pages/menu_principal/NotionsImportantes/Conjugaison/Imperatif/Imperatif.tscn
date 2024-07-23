@@ -1,0 +1,168 @@
+[gd_scene load_steps=6 format=3 uid="uid://wc4e875yxb7x"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Indicatif/Present.gd" id="1_24j7m"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="2_j0bde"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="3_54r5d"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="4_ra7s2"]
+[ext_resource type="FontFile" uid="uid://b4lyjsycmvjsi" path="res://res/Merriweather/Merriweather-BoldItalic.ttf" id="5_qmkmn"]
+
+[node name="NotionsImportantes" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_24j7m")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "L'impératif"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_j0bde")
+theme_override_fonts/bold_font = ExtResource("3_54r5d")
+theme_override_fonts/italics_font = ExtResource("4_ra7s2")
+theme_override_fonts/bold_italics_font = ExtResource("3_54r5d")
+bbcode_enabled = true
+text = "L’impératif [i](imperativo)[/i] est un mode utilisé pour donner un ordre ou un conseil à une ou plusieurs personne(s). Il y a en espagnol différentes conjugaisons pour les formes [i]tú, usted, ustedes, nosotros et vosotros[/i]."
+fit_content = true
+
+[node name="Soustitre1" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_54r5d")
+text = "  -- Quand utiliser l'impératif en espagnol ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Description2" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_j0bde")
+theme_override_fonts/bold_font = ExtResource("3_54r5d")
+theme_override_fonts/italics_font = ExtResource("4_ra7s2")
+theme_override_fonts/bold_italics_font = ExtResource("3_54r5d")
+bbcode_enabled = true
+text = "L'impératif est utilisé dans les cas suivants : 
+
+  - faire une suggestion ou proposer quelque chose :
+      [i][color=blue]Ex :¡Vayamos a jugar baloncesto! (Allons jouer au basket !)[/color][/i]
+
+  - donner un ordre :
+     [i][color=blue]Ex :¡Daos tres vueltas al campo en un sprint! (Faites trois tours du terrain en sprint !)[/color][/i]
+
+  - donner un conseil :
+    [i][color=blue]Ex : Para mejorar tu resistencia, corre todos los días.(Pour améliorer ton endurance, coure tous les jours.)[/color][/i]
+
+  - exprimer une requête :
+    [i][color=blue]Ex : Dame tu copia. (Donnez-moi votre copie.)[/color][/i]"
+fit_content = true
+
+[node name="Soustitre2" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_54r5d")
+text = "  -- Comment conjuguer les verbes espagnols à l'impératif ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="RichTextLabel" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_j0bde")
+theme_override_fonts/bold_font = ExtResource("3_54r5d")
+theme_override_fonts/italics_font = ExtResource("4_ra7s2")
+theme_override_fonts/bold_italics_font = ExtResource("5_qmkmn")
+bbcode_enabled = true
+text = "
+Quand on utilise l'impératif en espagnol, on omet toujours le pronom sujet.
+
+Voici un tableau indiquant comment utiliser l'impératif à la [u][b]forme affirmative[/b][/u] :
+
+   [i]yo[/i] : [b][color=#6f1a8a]/[/color][/b]
+   [i]tu[/i] : [b][color=#6f1a8a]3eme personne du singulier au présent de l'indicatif[/color] [color=dark green](AR: a , ER/IR : e)[/color][/b]
+   [i]usted[/i] : [b][color=#6f1a8a]3eme personne du singulier au subjonctif présent[/color][color=dark green](AR: e , ER/IR : a)[/color][/b]
+   [i]nosotros[/i] : [b][color=#6f1a8a]1ere personne du pluriel au subjonctif présent[/color][color=dark green](AR: emos , ER/IR : amos)[/color][/b]
+   [i]vosotros[/i] : [b][color=#6f1a8a]prendre l’infinitif du verbe et remplacer le [i]r[/i] final par un [i]d[/i][/color][/b]
+   [i]ustedes[/i] : [b][color=#6f1a8a]3e personne du pluriel au subjonctif présent[/color][color=dark green](AR: en , ER/IR : an)[/color][/b] 
+
+
+Voici un tableau indiquant comment utiliser l'impératif à la [u][b]forme négative[/b][/u] :
+
+   [i]yo[/i] : [b][color=#6f1a8a]/[/color][/b]
+   [i]tu[/i] : [b][color=red]no[/color] + [color=#6f1a8a]2eme personne du singulier au subjonctif présent[/color][color=dark green](AR: es , ER/IR : as)[/color][/b]
+   [i]usted[/i] : [b][color=red]no[/color] + [color=#6f1a8a]3eme personne du singulier au subjonctif présent[/color][color=dark green](AR: e , ER/IR : a)[/color][/b]
+   [i]nosotros[/i] : [b][color=red]no[/color] + [color=#6f1a8a]1ere personne du pluriel au subjonctif présent[/color][color=dark green](AR: emos , ER/IR : amos)[/color][/b]
+   [i]vosotros[/i] : [b][color=red]no[/color] + [color=#6f1a8a]2eme personne du pluriel au subjonctif présent[/color][color=dark green](AR: éis , ER/IR : áís)[/color][/b]
+   [i]ustedes[/i] : [b][color=red]no[/color] + [color=#6f1a8a]3e personne du pluriel au subjonctif présent[/color][color=dark green](AR: en , ER/IR : an)[/color][/b] 
+
+
+[b]Exemple pour le verbe tomar à la [u]forme affirmative[/u] de l'impératif[/b] :
+   [i]yo[/i] : [b][color=blue]/[/color][/b]
+   [i]tu[/i] : [b][color=blue]toma[/color][/b]
+   [i]usted[/i] : [b][color=blue]tome[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]tomemos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]tomad[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]tomen[/color][/b] 
+
+
+[b]Exemple pour le verbe tomar à la [u]forme négative[/u] de l'impératif[/b] :
+   [i]yo[/i] : [b][color=blue]/[/color][/b]
+   [i]tu[/i] : [b][color=blue]no tomes[/color][/b]
+   [i]usted[/i] : [b][color=blue]no tome[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]no tomemos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]no toméis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]no tomen[/color][/b] 
+"
+fit_content = true
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

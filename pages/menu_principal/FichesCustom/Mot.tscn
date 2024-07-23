@@ -1,0 +1,22 @@
+[gd_scene load_steps=3 format=3 uid="uid://bw3h7kr7buvy6"]
+
+[ext_resource type="StyleBox" uid="uid://bvh8uxbgutuvy" path="res://res/Theme/fiches/pn_mot_bg.tres" id="1_ah80h"]
+[ext_resource type="Script" path="res://pages/menu_principal/FichesCustom/Mot.gd" id="1_i4ui2"]
+
+[node name="Mot" type="PanelContainer"]
+custom_minimum_size = Vector2(200, 30)
+size_flags_horizontal = 5
+size_flags_vertical = 4
+mouse_filter = 1
+theme_override_styles/panel = ExtResource("1_ah80h")
+script = ExtResource("1_i4ui2")
+
+[node name="texte" type="Label" parent="."]
+layout_mode = 2
+size_flags_vertical = 6
+text = "Mot"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 2
+
+[connection signal="ready" from="texte" to="." method="_on_texte_ready"]

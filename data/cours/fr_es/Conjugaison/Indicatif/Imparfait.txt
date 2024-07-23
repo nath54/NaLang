@@ -1,0 +1,53 @@
+
+[font_size=30][center][b]L'imparfait de l'indicatif[/b][/center][/font_size]
+
+[center]__________[/center]
+
+L’imparfait espagnol (pretérito imperfecto) permet de décrire une action, un événement qui se déroule dans le passé ou la répétition habituelle d’une action qui a eu lieu dans le passé. Son emploi est similaire à celui de l’imparfait en français.
+
+[center][b]-- Quand utiliser l'imparfait de l'indicatif en espagnol ? --[/b][/center]
+
+En espagnol, on emploie l’imparfait pour :
+
+  - décrire une situation passée.
+     [i][color=blue]Ex: Sara bailaba al ritmo de la música. (Sara dansait au rythme de la musique.)[/color][/i]
+
+  - décrire une action habituelle ou qui se répète dans le passé.
+     [i][color=blue]Ex: Pedro comía paella todos los días. (Pedro mangeait tout les jours de la Paella.)[/color][/i]
+
+  - décrire une action qui se prolonge dans le passé sans que ni le début ni la fin de cette action ne soient précisés. 
+     [i][color=blue]Ex: Sofía pasaba los días inmersa en sus libros. (Sofia passait ses journées la tête plongée dans ses bouquins.)[/color][/i]
+
+  - décrire une action en cours dans le passé lorsque celle-ci a été interrompue par une autre action. Cette seconde action est toujours conjuguée au passé simple.
+     [i][color=blue]Ex: Diego tocaba la flauta cuando María le saludó de repente. (Diego jouait de la flûte quand Maria l'a soudain salué.)[/color][/i]
+
+
+[center][b]-- Comment conjuguer les verbes espagnols l'imparfait de l'indicatif ? --[/b][/center]
+
+Pour conjuguer les verbes espagnols à l’imparfait, on élimine la terminaison de l’infinitif ar/er/ir et on la remplace par les terminaisons suivantes :
+
+
+[b] Verbes en -AR:[/b]
+   [i]yo[/i] : [b] -[color=red]aba [/color][/b]
+   [i]tu[/i] : [b] -[color=red]abas [/color][/b]
+   [i]el/ella/usted[/i] : [b] -[color=red]aba [/color][/b]
+   [i]nosotros[/i] : [b] -[color=red]ábamos [/color][/b]
+   [i]vosotros[/i] : [b] -[color=red]abais [/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b] -[color=red]aban [/color][/b]
+
+[b] Verbes en -ER/IR:[/b]
+   [i]yo[/i] : [b] -[color=red]ía [/color][/b]
+   [i]tu[/i] : [b] -[color=red]ías [/color][/b]
+   [i]el/ella/usted[/i] : [b] -[color=red]ía [/color][/b]
+   [i]nosotros[/i] : [b] -[color=red]íamos [/color][/b]
+   [i]vosotros[/i] : [b] -[color=red]íais [/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b] -[color=red]ían [/color][/b]
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]tomaba[/color][/b]
+   [i]tu[/i] : [b][color=blue]tomabas[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]tomaba[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]tomábamos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]tomabais[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]tomaban[/color][/b] 
+

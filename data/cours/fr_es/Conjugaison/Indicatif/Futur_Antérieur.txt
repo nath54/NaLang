@@ -1,0 +1,37 @@
+
+[font_size=30][center][b]Le futur antérieur de l'indicatif[/b][/center][/font_size]
+
+[center]__________[/center]
+
+Le futur antérieur espagnol [i](futuro perfecto)[/i] marque l’antériorité par rapport à un moment déterminé du futur (le fait qu’une action se sera produite avant ce moment futur). Il peut aussi exprimer la probabilité ou la supposition qu’une action se soit produite dans le passé.
+
+[center][b]-- Quand utiliser le futur antérieur de l'indicatif en espagnol ? --[/b][/center]
+
+En espagnol, on utilise le futur antérieur pour :
+
+  - une supposition par rapport à une action passée
+     [i][color=blue]Ex: Probablemente habrá olvidado sus cosas. (Il a probablement oublié ses affaires.)[/color][/i]
+
+  - une supposition qu’une action se sera produite à un moment donné du futur (il faut toujours un indicateur de temps pour savoir que l’on parle du futur)
+     [i][color=blue]Ex: Probablemente habrá llegado tarde esta noche. (Il sera probablement en retard ce soir.)[/color][/i]
+
+[center][b]-- Comment conjuguer les verbes espagnols au futur antérieur de l'indicatif ? --[/b][/center]
+
+Pour conjuguer les verbes espagnols au futur antérieur, on utilise l’auxiliaire haber conjugué au futur simple suivi du participe passé du verbe principal.
+
+   [i]yo[/i] : [b][color=red]habré [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]tu[/i] : [b][color=red]habrás [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]habrá [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]nosotros[/i] : [b][color=red]habremos [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]vosotros[/i] : [b][color=red]habréis [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]habrán [/color] [color=dark green]+ participe passé[/color][/b]
+
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]habré tomado[/color][/b]
+   [i]tu[/i] : [b][color=blue]habrás tomado[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]habrá tomado[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]habremos tomado[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]habréis tomado[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]habrán tomado[/color][/b] 
+

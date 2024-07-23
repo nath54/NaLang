@@ -1,0 +1,155 @@
+[gd_scene load_steps=6 format=3 uid="uid://cg26q56q7hux1"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Indicatif/Present.gd" id="1_5q2ec"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="2_26c22"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="3_wcclc"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="4_ascmt"]
+[ext_resource type="FontFile" uid="uid://b4lyjsycmvjsi" path="res://res/Merriweather/Merriweather-BoldItalic.ttf" id="5_edurl"]
+
+[node name="NotionsImportantes" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_5q2ec")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Le conditionnel présent"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+mouse_filter = 1
+layout_mode = 2
+theme_override_fonts/normal_font = ExtResource("2_26c22")
+theme_override_fonts/bold_font = ExtResource("3_wcclc")
+theme_override_fonts/italics_font = ExtResource("4_ascmt")
+theme_override_fonts/bold_italics_font = ExtResource("3_wcclc")
+bbcode_enabled = true
+text = "Le conditionnel présent espagnol (condicional simple) exprime des actions qui pourraient se produire en toute probabilité. Il est aussi employé dans des formules de politesse et pour exprimer des désirs."
+fit_content = true
+
+[node name="Soustitre1" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_wcclc")
+text = "  -- Quand utiliser le conditionnel présent en espagnol ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Description2" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+mouse_filter = 1
+layout_mode = 2
+theme_override_fonts/normal_font = ExtResource("2_26c22")
+theme_override_fonts/bold_font = ExtResource("3_wcclc")
+theme_override_fonts/italics_font = ExtResource("4_ascmt")
+theme_override_fonts/bold_italics_font = ExtResource("3_wcclc")
+bbcode_enabled = true
+text = "Le conditionnel présent est utilisé dans les cas suivants : 
+
+  - pour les invitations
+      [i][color=blue]Ex : ¿Te gustaría venir a ver una película esta noche conmigo? (Voudrais-tu venir voir un film avec moi ce soir ?)[/color][/i]
+
+  - pour une demande polie
+      [i][color=blue]Ex : ¿Podría darme un vaso de agua, por favor? (Puis-je avoir un verre d'eau, s'il vous plaît ?) [/color][/i]
+
+  - pour exprimer un désir
+      [i][color=blue]Ex : ¡Me encantaría que! (Cela me ferait plaisir!)[/color][/i]
+
+  - pour une suggestion
+      [i][color=blue]Ex : La nevera está vacía, ¿no debería ser hora de rellenarla? (Le réfrigérateur est vide, ne serait-il pas temps de le remplir ?)[/color][/i]
+
+  - pour une supposition ou l’expression d’une probabilité
+      [i][color=blue]Ex : Podría llover hoy. (Il pourrait pleuvoir aujourd'hui.) [/color][/i]
+
+  - pour exprimer un doute ou une incertitude du passé
+      [i][color=blue]Ex : ¡Pensé que estarías en casa! (Je pensais que tu serais chez toi!) [/color][/i]
+
+  - pour exprimer le futur dans le passé (une action future considérée par rapport à une action passée)
+      [i][color=blue]Ex : Albi había dicho que iría a otra parte. (Albi avait dit qu'elle irait ailleurs.) [/color][/i]
+"
+fit_content = true
+
+[node name="Soustitre2" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_wcclc")
+text = "  -- Comment conjuguer les verbes espagnols au conditionnel présent ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="RichTextLabel" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+mouse_filter = 1
+layout_mode = 2
+theme_override_fonts/normal_font = ExtResource("2_26c22")
+theme_override_fonts/bold_font = ExtResource("3_wcclc")
+theme_override_fonts/italics_font = ExtResource("4_ascmt")
+theme_override_fonts/bold_italics_font = ExtResource("5_edurl")
+bbcode_enabled = true
+text = "Pour conjuguer les verbes espagnols au conditionnel présent, on remplace la terminaison du verbe conjugué au futur simple par les terminaisons suivantes (terminaisons de l'imparfait de l'indicatif des verbes ER/IR) :
+
+   [i]yo[/i] : [b][color=red]-ía[/color][/b]
+   [i]tu[/i] : [b][color=red]-ías[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-ía[/color][/b]
+   [i]nosotros[/i] : [b][color=red]-íamos[/color][/b]
+   [i]vosotros[/i] : [b][color=red]-íais[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-ían[/color][/b]
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]tomaría[/color][/b]
+   [i]tu[/i] : [b][color=blue]tomarías[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]tomaría[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]tomaríamos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]tomaríais[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]tomarían[/color][/b] 
+"
+fit_content = true
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

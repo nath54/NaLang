@@ -1,0 +1,143 @@
+[gd_scene load_steps=6 format=3 uid="uid://bv5ibpkjcshoa"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Indicatif/PasseCompose.gd" id="1_cc25g"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="2_5re1i"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="3_clcxk"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="4_2f8tl"]
+[ext_resource type="FontFile" uid="uid://b4lyjsycmvjsi" path="res://res/Merriweather/Merriweather-BoldItalic.ttf" id="5_i5oat"]
+
+[node name="PasseCompose" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_cc25g")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Le plus-que-parfait"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+mouse_filter = 1
+layout_mode = 2
+theme_override_fonts/normal_font = ExtResource("3_clcxk")
+theme_override_fonts/bold_font = ExtResource("2_5re1i")
+theme_override_fonts/italics_font = ExtResource("4_2f8tl")
+theme_override_fonts/bold_italics_font = ExtResource("5_i5oat")
+bbcode_enabled = true
+text = "Le plus-que-parfait espagnol [i](pretérito pluscuamperfecto)[/i] s’emploie pour décrire des actions qui se sont produites avant un moment donné du passé. Il est ainsi similaire au plus-que-parfait français."
+fit_content = true
+
+[node name="Soustitre1" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_5re1i")
+text = "  -- Quand utiliser le plus-que-parfait en espagnol ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="RichTextLabel2" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+mouse_filter = 1
+layout_mode = 2
+theme_override_fonts/normal_font = ExtResource("3_clcxk")
+theme_override_fonts/bold_font = ExtResource("2_5re1i")
+theme_override_fonts/italics_font = ExtResource("4_2f8tl")
+theme_override_fonts/bold_italics_font = ExtResource("5_i5oat")
+bbcode_enabled = true
+text = "Le plus-que-parfait indique qu’une action précède une autre action dans le passé.
+     [i][color=blue]Ex: Paula había llorado mucho durante la mudanza. (Paula a beaucoup pleuré lors du déménagement.)[/color][/i]
+"
+fit_content = true
+
+[node name="Soustitre2" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_5re1i")
+text = "  -- Comment conjuguer les verbes espagnols au plus-que-parfait ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+mouse_filter = 1
+layout_mode = 2
+theme_override_fonts/bold_font = ExtResource("2_5re1i")
+bbcode_enabled = true
+text = "On utilise l’auxiliaire haber conjugué à l’imparfait et le participe passé du verbe principal."
+fit_content = true
+
+[node name="RichTextLabel" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+mouse_filter = 1
+layout_mode = 2
+theme_override_fonts/normal_font = ExtResource("3_clcxk")
+theme_override_fonts/bold_font = ExtResource("2_5re1i")
+theme_override_fonts/italics_font = ExtResource("4_2f8tl")
+theme_override_fonts/bold_italics_font = ExtResource("5_i5oat")
+bbcode_enabled = true
+text = "
+   [i]yo[/i] : [b][color=red]había [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]tu[/i] : [b][color=red]habías [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]había [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]nosotros[/i] : [b][color=red]habíamos [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]vosotros[/i] : [b][color=red]habíais [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]habían [/color] [color=dark green]+ participe passé[/color][/b]
+
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]había tomado[/color][/b]
+   [i]tu[/i] : [b][color=blue]habías tomado[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]había tomado[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]habíamos tomado[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]habíais tomado[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]habían tomado[/color][/b] 
+"
+fit_content = true
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

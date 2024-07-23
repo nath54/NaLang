@@ -1,0 +1,149 @@
+[gd_scene load_steps=4 format=3 uid="uid://cwqpr0d8co88j"]
+
+[ext_resource type="PackedScene" uid="uid://fn4oy0g4eyja" path="res://pages/menu_principal/Quiz/AjoutsFichesQuiz.tscn" id="1_5wikr"]
+[ext_resource type="Script" path="res://pages/menu_principal/Quiz/PrepareQuiz.gd" id="1_78kla"]
+[ext_resource type="PackedScene" uid="uid://b8loywylao3cp" path="res://pages/menu_principal/Quiz/PrepareFicheSelect.tscn" id="2_3jg8t"]
+
+[node name="PrepareQuiz" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_78kla")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Préparation du quiz	"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="DescrFiches" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "Sélectionnez les fiches sur lesquelles vous souhaitez vous interroger:"
+autowrap_mode = 3
+
+[node name="FicheBtSelecContainer" type="HFlowContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/h_separation = 15
+theme_override_constants/v_separation = 15
+
+[node name="Bt_plus" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/FicheBtSelecContainer"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+size_flags_horizontal = 0
+text = "+"
+
+[node name="PanelContainer" parent="ScrollContainer/CenterContainer/VBoxContainer/FicheBtSelecContainer" instance=ExtResource("2_3jg8t")]
+visible = false
+layout_mode = 2
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="DescrSens" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "Sélectionnez le sens de l'interrogation:"
+autowrap_mode = 3
+
+[node name="OptSens" type="OptionButton" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+alignment = 1
+item_count = 3
+selected = 0
+popup/item_0/text = "fr -> esp"
+popup/item_0/id = 0
+popup/item_1/text = "esp -> fr"
+popup/item_1/id = 1
+popup/item_2/text = "les deux sens"
+popup/item_2/id = 2
+
+[node name="HSeparator4" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="DescrType" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "Sélectionnez le type de quiz:"
+autowrap_mode = 3
+
+[node name="OptType" type="OptionButton" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+alignment = 1
+item_count = 2
+selected = 0
+popup/item_0/text = "cartes"
+popup/item_0/id = 0
+popup/item_1/text = "écrire le texte"
+popup/item_1/id = 1
+
+[node name="HSeparator5" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="BtStartQuiz" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 50)
+layout_mode = 2
+text = "Lancer le quiz"
+
+[node name="HSeparator6" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="AjoutFicheMenu" parent="." instance=ExtResource("1_5wikr")]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/FicheBtSelecContainer/Bt_plus" to="." method="_on_bt_plus_pressed"]
+[connection signal="item_selected" from="ScrollContainer/CenterContainer/VBoxContainer/OptSens" to="." method="_on_opt_sens_item_selected"]
+[connection signal="item_selected" from="ScrollContainer/CenterContainer/VBoxContainer/OptType" to="." method="_on_opt_type_item_selected"]
+[connection signal="on_fiche_selected" from="AjoutFicheMenu" to="." method="_on_ajout_fiche_menu_on_fiche_selected"]

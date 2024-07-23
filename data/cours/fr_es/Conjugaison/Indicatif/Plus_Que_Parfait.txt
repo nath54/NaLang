@@ -1,0 +1,32 @@
+
+[font_size=30][center][b]Le plus que parfait de l'indicatif[/b][/center][/font_size]
+
+[center]__________[/center]
+
+Le plus-que-parfait espagnol [i](pretérito pluscuamperfecto)[/i] s’emploie pour décrire des actions qui se sont produites avant un moment donné du passé. Il est ainsi similaire au plus-que-parfait français.
+
+[center][b]-- Quand utiliser le plus que parfait de l'indicatif en espagnol ? --[/b][/center]
+
+Le plus-que-parfait indique qu’une action précède une autre action dans le passé.
+     [i][color=blue]Ex: Paula había llorado mucho durante la mudanza. (Paula a beaucoup pleuré lors du déménagement.)[/color][/i]
+
+
+[center][b]-- Comment conjuguer les verbes espagnols au plus que parfait de l'indicatif ? --[/b][/center]
+
+On utilise l’auxiliaire haber conjugué à l’imparfait et le participe passé du verbe principal.
+
+   [i]yo[/i] : [b][color=red]había [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]tu[/i] : [b][color=red]habías [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]había [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]nosotros[/i] : [b][color=red]habíamos [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]vosotros[/i] : [b][color=red]habíais [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]habían [/color] [color=dark green]+ participe passé[/color][/b]
+
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]había tomado[/color][/b]
+   [i]tu[/i] : [b][color=blue]habías tomado[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]había tomado[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]habíamos tomado[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]habíais tomado[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]habían tomado[/color][/b] 

@@ -1,0 +1,157 @@
+[gd_scene load_steps=6 format=3 uid="uid://vq8bh5ig7jgu"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Indicatif/Present.gd" id="1_b8cm3"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="2_f41gk"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="3_jlmqp"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="4_tiodx"]
+[ext_resource type="FontFile" uid="uid://b4lyjsycmvjsi" path="res://res/Merriweather/Merriweather-BoldItalic.ttf" id="5_wkavq"]
+
+[node name="NotionsImportantes" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_b8cm3")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Le subjonctif Plus-Que-Parfait"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_f41gk")
+theme_override_fonts/bold_font = ExtResource("3_jlmqp")
+theme_override_fonts/italics_font = ExtResource("4_tiodx")
+theme_override_fonts/bold_italics_font = ExtResource("3_jlmqp")
+bbcode_enabled = true
+text = "En espagnol, on emploie le subjonctif plus-que parfait [i](pretérito pluscuamperfecto subjuntivo)[/i] après certains verbes et certaines expressions exprimant un doute, un souhait, un espoir, etc. pour parler d’actions qui ont eu lieu avant un moment donné du passé ou des actions qui pourraient s’être déroulées dans le passé si les circonstances avaient été autres."
+fit_content = true
+
+[node name="Soustitre1" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_jlmqp")
+text = "  -- Quand utiliser le subjonctif plus-que-parfait en espagnol ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Description2" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_f41gk")
+theme_override_fonts/bold_font = ExtResource("3_jlmqp")
+theme_override_fonts/italics_font = ExtResource("4_tiodx")
+theme_override_fonts/bold_italics_font = ExtResource("3_jlmqp")
+bbcode_enabled = true
+text = "En espagnol, on emploie le subjonctif plus-que-parfait dans les cas suivants :
+
+  - dans les subordonnées après certaines expressions, lorsque l’action de la subordonnée a précédé celle de la principale
+      [i][color=blue]Ex: Me extrañó mucho que me hubieras mandado una postal de la Cordillera Cantábrica. (J'ai été très surpris que tu m'aies envoyé une carte postable de la Cordillera Cantábrica.)[/color][/i]
+
+  - pour une action qui se serait déroulée ou aurait pu se dérouler dans le passé (mais ce n’est pas le cas)
+      [i][color=blue]Ex: Probablemente, me hubiera encantado la visita a la región. (J'aurais probablement adoré visiter cette region.)[/color][/i]
+
+  - dans les propositions conditionnelles de type III (condition irréelle du passé)
+      [i][color=blue]Ex: Si me lo hubieras dicho antes, habría ido contigo. (Si tu me l'avais dit avant, je serais partit avec toi.)[/color][/i]"
+fit_content = true
+
+[node name="Soustitre2" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_jlmqp")
+text = "  -- Comment conjuguer les verbes espagnols au subjonctif plus-que-parfait ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="RichTextLabel" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_f41gk")
+theme_override_fonts/bold_font = ExtResource("3_jlmqp")
+theme_override_fonts/italics_font = ExtResource("4_tiodx")
+theme_override_fonts/bold_italics_font = ExtResource("5_wkavq")
+bbcode_enabled = true
+text = "En espagnol, le subjonctif plus-que-parfait est formé à l’aide de l’auxiliaire haber au subjonctif imparfait auquel on ajoute le participe passé (participio) du verbe principal.
+
+Haber avec la terminaison en [b]-ra[/b]:
+   [i]yo[/i] : [b][color=red]hubiera [/color] + [color=dark green]participe passé[/color][/b]
+   [i]tu[/i] : [b][color=red]hubieras [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]hubiera [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]nosotros[/i] : [b][color=red]hubiéramos [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]vosotros[/i] : [b][color=red]hubierais [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]hubieran [/color]+ [color=dark green]participe passé[/color][/b]
+
+Haber avec la terminaison en [b]-se[/b]:
+   [i]yo[/i] : [b][color=red]hubiese [/color] + [color=dark green]participe passé[/color][/b]
+   [i]tu[/i] : [b][color=red]hubieses [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]hubiese [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]nosotros[/i] : [b][color=red]hubiésemos [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]vosotros[/i] : [b][color=red]hubieseis [/color]+ [color=dark green]participe passé[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]hubiesen [/color]+ [color=dark green]participe passé[/color][/b]
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]hubiera tomado[/color][/b]
+		   [i]ou[/i]     [b][color=blue]hubiese tomado[/color][/b]
+   [i]tu[/i] : [b][color=blue]hubieras tomado[/color][/b]
+		   [i]ou[/i]     [b][color=blue]hubieses tomado[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]hubiera tomado[/color][/b]
+		   [i]ou[/i]     [b][color=blue]hubiese tomado[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]hubiéramos tomado[/color][/b]
+		   [i]ou[/i]     [b][color=blue]hubiésemos tomado[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]hubierais tomado[/color][/b]
+		   [i]ou[/i]     [b][color=blue]hubieseis tomado[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]hubieran tomado[/color][/b]
+		   [i]ou[/i]     [b][color=blue]hubiesen tomado[/color][/b]
+"
+fit_content = true
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

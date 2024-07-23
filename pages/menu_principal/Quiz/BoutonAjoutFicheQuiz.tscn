@@ -1,0 +1,29 @@
+[gd_scene load_steps=2 format=3 uid="uid://53vcgsqbwpdm"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/Quiz/BoutonAjoutFicheQuiz.gd" id="1_2y6w5"]
+
+[node name="BoutonFiche" type="PanelContainer"]
+script = ExtResource("1_2y6w5")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+theme_override_constants/margin_left = 15
+theme_override_constants/margin_top = 15
+theme_override_constants/margin_right = 15
+theme_override_constants/margin_bottom = 15
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="Button" type="Button" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+text = "ajouter"
+
+[node name="Label" type="Label" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+text = "Nom de la fiche"
+
+[connection signal="pressed" from="MarginContainer/HBoxContainer/Button" to="." method="_on_button_pressed"]
+[connection signal="ready" from="MarginContainer/HBoxContainer/Button" to="." method="_on_button_ready"]
+[connection signal="ready" from="MarginContainer/HBoxContainer/Label" to="." method="_on_label_ready"]

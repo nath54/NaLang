@@ -1,0 +1,121 @@
+[gd_scene load_steps=5 format=3 uid="uid://8xd4bpc3p7st"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Indicatif/Present.gd" id="1_70rh4"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="2_krj53"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="3_lwp6k"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="4_ol8d0"]
+
+[node name="NotionsImportantes" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_70rh4")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Le Participe Passé"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_krj53")
+theme_override_fonts/bold_font = ExtResource("3_lwp6k")
+theme_override_fonts/italics_font = ExtResource("4_ol8d0")
+theme_override_fonts/bold_italics_font = ExtResource("3_lwp6k")
+bbcode_enabled = true
+text = "Le participe passé est une forme non conjuguée du verbe.
+
+En espagnol, le participe passé sert souvent à abréger les propositions subordonnées relatives, et s'utilise dans les temps composés."
+fit_content = true
+
+[node name="Soustitre1" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_lwp6k")
+text = "  -- Quand former le participe passé en espagnol ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Description2" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_krj53")
+theme_override_fonts/bold_font = ExtResource("3_lwp6k")
+theme_override_fonts/italics_font = ExtResource("4_ol8d0")
+theme_override_fonts/bold_italics_font = ExtResource("3_lwp6k")
+bbcode_enabled = true
+text = "Le participe passé se construit avec la terminaison [b][color=red]-ado[/color][/b] pour les verbes en [b]-ar[/b] et avec [b][color=red]-ido[/color][/b] pour les verbes en [b]-er[/b] et en [b]-ir[/b].
+
+[b]Exceptions[/b]
+
+   - Si la terminaison [b][color=red]-ido[/color][/b] est précédé d'une voyelle, il faut un accent sur le [b][color=red]i[/color][/b] de la terminaison. Ceci indique que les deux voyelles sont prononcées séparément.
+
+    [color=blue]Ex :
+        [i]leer → leído[/i]
+        [i]traer → traído[/i][/color]
+
+   - Certains verbes ont des participes passés irréguliers. En voici la liste :
+
+ * [i][color=blue]abrir → abierto[/color] [color=dark green](ouvrir)[/color][/i]
+ * [i][color=blue]decir → dicho[/color] [color=dark green](dire)[/color][/i]
+ * [i][color=blue]escribir → escrito[/color] [color=dark green](écrire)[/color][/i]
+ * [i][color=blue]hacer → hecho[/color] [color=dark green](faire)[/color][/i]
+ * [i][color=blue]imprimir → impreso[/color] [color=dark green](imprimer)[/color][/i]
+ * [i][color=blue]morir → muerto[/color] [color=dark green](mourir)[/color][/i]
+ * [i][color=blue]poner → puesto[/color] [color=dark green](mettre)[/color][/i]
+ * [i][color=blue]romper → roto[/color] [color=dark green](casser)[/color][/i]
+ * [i][color=blue]ver → visto[/color] [color=dark green](voir)[/color][/i]
+ * [i][color=blue]volver → vuelto[/color] [color=dark green](retourner/revenir)[/color][/i]"
+fit_content = true
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

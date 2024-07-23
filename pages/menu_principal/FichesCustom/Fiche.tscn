@@ -1,0 +1,88 @@
+[gd_scene load_steps=2 format=3 uid="uid://j70883r4l81e"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/FichesCustom/Fiche.gd" id="1_rkb5k"]
+
+[node name="Fiche" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_rkb5k")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Container" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/Container"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/Container"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/Container/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/Container"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="ScrollContainer/CenterContainer/Container"]
+layout_mode = 2
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/Container/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 25
+text = "Fiche"
+vertical_alignment = 1
+autowrap_mode = 2
+
+[node name="VSeparator" type="VSeparator" parent="ScrollContainer/CenterContainer/Container/HBoxContainer2"]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 2
+size_flags_stretch_ratio = 2.0
+
+[node name="Bt_modif" type="Button" parent="ScrollContainer/CenterContainer/Container/HBoxContainer2"]
+layout_mode = 2
+size_flags_vertical = 4
+text = "modifier"
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/Container"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Container" type="VBoxContainer" parent="ScrollContainer/CenterContainer/Container"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="HSeparator4" type="HSeparator" parent="ScrollContainer/CenterContainer/Container"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/Container/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

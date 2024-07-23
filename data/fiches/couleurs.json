@@ -1,0 +1,119 @@
+{
+    "nom": "Les couleurs",
+    "elements": [
+        [
+            ["El color"],
+            ["La couleur"]
+        ],
+
+        [
+            ["Azul"],
+            ["Bleu"]
+        ],
+
+        [
+            ["Azul marino"],
+            ["Bleu marine"]
+        ],
+
+        [
+            ["Celeste"],
+            ["Bleu ciel"]
+        ],
+
+        [
+            ["Añil"],
+            ["Indigo"]
+        ],
+
+        [
+            ["Turquesa"],
+            ["Turquoise"]
+        ],
+
+        [
+            ["Verde"],
+            ["Vert"]
+        ],
+
+        [
+            ["Amarillo"],
+            ["Jaune"]
+        ],
+
+        [
+            ["Rosa"],
+            ["Rose"]
+        ],
+
+        [
+            ["Naranja"],
+            ["Orange"]
+        ],
+
+        [
+            ["Rojo"],
+            ["Rouge"]
+        ],
+
+        [
+            ["Burdeos"],
+            ["Bordeaux"]
+        ],
+
+        [
+            ["Púrpura"],
+            ["Pourpre"]
+        ],
+
+        [
+            ["Violeta"],
+            ["Violet clair"]
+        ],
+
+        [
+            ["Morado"],
+            ["Violet"]
+        ],
+
+        [
+            ["Beige"],
+            ["Beige"]
+        ],
+
+        [
+            ["Marrón"],
+            ["Marron"]
+        ],
+
+        [
+            ["Negro"],
+            ["Noir"]
+        ],
+
+        [
+            ["Blanco"],
+            ["Blanc"]
+        ],
+
+        [
+            ["Gris"],
+            ["Gris"]
+        ],
+
+        [
+            ["Plateado"],
+            ["Argenté"]
+        ],
+
+        [
+            ["Dorado"],
+            ["Doré"]
+        ],
+
+        [
+            ["Cobrizo"],
+            ["Cuivré"]
+        ]
+    ]
+}

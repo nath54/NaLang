@@ -1,0 +1,84 @@
+[gd_scene load_steps=4 format=3 uid="uid://fn4oy0g4eyja"]
+
+[ext_resource type="PackedScene" uid="uid://53vcgsqbwpdm" path="res://pages/menu_principal/Quiz/BoutonAjoutFicheQuiz.tscn" id="1_3rkvh"]
+[ext_resource type="Script" path="res://pages/menu_principal/Quiz/AjoutsFichesQuiz.gd" id="1_vi5ln"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_8gkam"]
+bg_color = Color(0.843137, 0.545098, 0.423529, 1)
+corner_radius_top_left = 25
+corner_radius_top_right = 25
+corner_radius_bottom_right = 25
+corner_radius_bottom_left = 25
+shadow_size = 5
+shadow_offset = Vector2(4, 5)
+
+[node name="AjoutsFichesQuiz" type="CenterContainer"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_vi5ln")
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+custom_minimum_size = Vector2(520, 750)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_8gkam")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+theme_override_constants/margin_left = 15
+theme_override_constants/margin_top = 15
+theme_override_constants/margin_right = 15
+theme_override_constants/margin_bottom = 15
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="HSeparator2" type="HSeparator" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Sélectionner une fiche"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(400, 475)
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/VBoxContainer/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_constants/margin_left = 15
+theme_override_constants/margin_top = 15
+theme_override_constants/margin_right = 15
+theme_override_constants/margin_bottom = 15
+
+[node name="FichesBtContainer" type="VBoxContainer" parent="MarginContainer/VBoxContainer/ScrollContainer/MarginContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="PanelContainer" parent="MarginContainer/VBoxContainer/ScrollContainer/MarginContainer/FichesBtContainer" instance=ExtResource("1_3rkvh")]
+visible = false
+layout_mode = 2
+
+[node name="HSeparator3" type="HSeparator" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Annuler" type="Button" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+text = "annuler"
+
+[node name="HSeparator4" type="HSeparator" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Bt_Annuler" to="." method="_on_bt_annuler_pressed"]

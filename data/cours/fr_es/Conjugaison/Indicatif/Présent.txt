@@ -1,0 +1,62 @@
+
+[font_size=30][center][b]Le présent de l'indicatif[/b][/center][/font_size]
+
+[center]__________[/center]
+
+Le présent espagnol (presente de indicativo) correspond au présent français. On l'emploie généralement pour parler d’une situation présente ou futur.
+
+[center][b]-- Quand utiliser le présent de l'indicatif en espagnol ? --[/b][/center]
+
+Le présent est utilisé dans les cas suivants : 
+
+  - fait ou situation dans le présent
+      [i][color=blue]Ex : Este es Juan (C'est Juan)[/color][/i]
+
+  - action dans le présent
+     [i][color=blue]Ex : Juega al ajedrez. (Il joue aux échecs)[/color][/i]
+
+  - exprimer la durée d'une action qui continue au moment du discours
+    [i][color=blue]Ex : Practica este deporte desde hace mucho tiempo. (Il pratique ce sport depuis longtemps.)[/color][/i]
+
+  - action qui aura lieu dans le futur (toujours avec un indicateur du futur)
+    [i][color=blue]Ex : Mañana tiene su examen. (Demain, il a son examen.)[/color][/i]
+
+[center][b]-- Comment conjuguer les verbes espagnols au présent de l'indicatif ? --[/b][/center]
+
+Pour conjuguer les verbes au présent, on remplace les terminaisons ar/er/ir de l’infinitif par les terminaisons suivantes :
+
+[b]Verbes en -AR[/b] :
+   [i]yo[/i] : [b][color=red]-o[/color][/b]
+   [i]tu[/i] : [b][color=red]-as[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-a[/color][/b]
+   [i]nosotros[/i] : [b][color=red]-amos[/color][/b]
+   [i]vosotros[/i] : [b][color=red]-áis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-an[/color][/b] 
+
+
+[b]Verbes en -ER[/b] :
+   [i]yo[/i] : [b][color=red]-o[/color][/b]
+   [i]tu[/i] : [b][color=red]-es[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-e[/color][/b]
+   [i]nosotros[/i] : [b][color=red]-emos[/color][/b]
+   [i]vosotros[/i] : [b][color=red]-éis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-en[/color][/b] 
+
+
+[b]Verbes en -IR[/b] :
+   [i]yo[/i] : [b][color=red]-o[/color][/b]
+   [i]tu[/i] : [b][color=red]-es[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-e[/color][/b]
+   [i]nosotros[/i] : [b][color=red]-imos[/color][/b]
+   [i]vosotros[/i] : [b][color=red]-ís[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-en[/color][/b] 
+
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]tomo[/color][/b]
+   [i]tu[/i] : [b][color=blue]tomas[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]toma[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]tomamos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]tomáis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]toman[/color][/b] 
+

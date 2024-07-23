@@ -1,0 +1,32 @@
+
+[font_size=30][center][b]Le gérondif[/b][/center][/font_size]
+
+[center]__________[/center]
+
+Le gérondif est une forme non conjuguée du verbe.
+
+En espagnol, le gérondif sert souvent à abréger les propositions subordonnées relatives.
+
+[center][b]-- Quand former le gérondif en espagnol ? --[/b][/center]
+
+Le gérondif se forme avec la terminaison [b][color=red]-ando[/color][/b] pour les verbes en [b]-ar[/b] et avec [b][color=red]-iendo[/color][/b] pour les verbes en [b]-er[/b] et en [b]-ir[/b].
+
+[b]Exceptions :[/b]
+
+  - Si le radical du verbe finit par une voyelle, le [i][color=red]i[/color][/i] devient [i][color=red]y[/color][/i].
+
+    [color=blue]Ex :
+        [i]construir → construyendo[/i]
+        [i]leer → leyendo[/i]
+        [i]traer → trayendo[/i]
+        [i]oír → oyendo[/i][/color]
+
+- Après [i][color=red]ñ[/color][/i] et [i][color=red]ll[/color][/i], le [i][color=red]i[/color][/i] disparait.
+
+    [color=blue]Ex :
+        [i]gruñir → gruñendo[/i]
+        [i]bullir → bullendo[/i][/color]
+
+- Le gérondif du verbe [i]ir[/i] est irrégulier.
+
+    [color=blue]ir → yendo[/color]

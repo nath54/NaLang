@@ -1,0 +1,59 @@
+[gd_scene load_steps=3 format=3 uid="uid://brya431mhbnop"]
+
+[ext_resource type="StyleBox" uid="uid://bj6mcjml42tu4" path="res://res/Theme/fiches/pn_elt_bg.tres" id="1_ifmgj"]
+[ext_resource type="Script" path="res://pages/menu_principal/FichesCustom/EltFiche.gd" id="2_ukrfa"]
+
+[node name="ExElt1" type="PanelContainer"]
+custom_minimum_size = Vector2(50, 50)
+size_flags_vertical = 3
+mouse_filter = 1
+theme_override_styles/panel = ExtResource("1_ifmgj")
+script = ExtResource("2_ukrfa")
+
+[node name="Elt" type="HBoxContainer" parent="."]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Col1" type="VBoxContainer" parent="Elt"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+theme_override_constants/separation = 8
+
+[node name="Col2" type="VBoxContainer" parent="Elt"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+theme_override_constants/separation = 8
+
+[node name="Bts" type="VBoxContainer" parent="Elt"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Vide3" type="Control" parent="Elt/Bts"]
+layout_mode = 2
+
+[node name="Bt_edit" type="Button" parent="Elt/Bts"]
+layout_mode = 2
+size_flags_vertical = 4
+text = "e"
+
+[node name="Bt_supr" type="Button" parent="Elt/Bts"]
+layout_mode = 2
+size_flags_vertical = 4
+text = "s"
+
+[node name="Vide4" type="Control" parent="Elt/Bts"]
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_stretch_ratio = 0.0
+
+[node name="Vide5" type="Control" parent="Elt"]
+layout_mode = 2
+
+[connection signal="ready" from="Elt/Col1" to="." method="_on_col_1_ready"]
+[connection signal="ready" from="Elt/Col2" to="." method="_on_col_2_ready"]
+[connection signal="ready" from="Elt/Bts/Bt_edit" to="." method="_on_bt_edit_ready"]
+[connection signal="ready" from="Elt/Bts/Bt_supr" to="." method="_on_bt_supr_ready"]

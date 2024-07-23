@@ -1,0 +1,26 @@
+[gd_scene load_steps=2 format=3 uid="uid://b8loywylao3cp"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/Quiz/PrepareFicheSelect.gd" id="1_ecegw"]
+
+[node name="PrepareFicheSelect" type="PanelContainer"]
+script = ExtResource("1_ecegw")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="Label" type="Label" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+text = "Nom de fiche 1"
+
+[node name="Button" type="Button" parent="MarginContainer/HBoxContainer"]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+text = "x"

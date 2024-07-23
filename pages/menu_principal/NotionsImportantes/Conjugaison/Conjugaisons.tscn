@@ -1,0 +1,239 @@
+[gd_scene load_steps=3 format=3 uid="uid://ou6uc6drb1kl"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Conjugaisons.gd" id="1_ua836"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="2_w4td2"]
+
+[node name="NotionsImportantes" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_ua836")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "La conjugaison en Espagnol"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Intro" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "Les verbes sont des mots qui permettent d'exprimer une action, un processus ou un état se rapportant au sujet d'une phrase. Ils s'accordent en genre et en nombre avec le sujet de la phrase.
+
+Les verbes peuvent exister sous certaines formes particulières, ou bien être conjugués.
+Et lorsqu'ils sont conjugués, on utilise plusieurs modes selon ce que l'on veut exprimer."
+autowrap_mode = 3
+
+[node name="Mode de l\'indicatif" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_w4td2")
+text = "--  Mode de l'indicatif  --"
+horizontal_alignment = 1
+
+[node name="Description Indicatif" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "L’indicatif est le mode personnel le plus employé, il exprime une action, un événement ou un état certain ou vraisemblable, situé dans le réel. "
+autowrap_mode = 3
+
+[node name="Bt_present_indicatif" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Présent de l'indicatif"
+
+[node name="Bt_passe_compose" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Passé Composé"
+
+[node name="Bt_imparfait" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Imparfait"
+
+[node name="Bt_plusqueparfait" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Plus-que-parfait"
+
+[node name="Bt_passe_simple" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Passé Simple"
+
+[node name="Bt_futur_simple" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Futur Simple"
+
+[node name="Bt_futur_anterieur" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Futur de l'antérieur"
+
+[node name="Bt_conditionnel_present" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Conditionnel Présent"
+
+[node name="Bt_conditionnel_passe" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Conditionnel Passé"
+
+[node name="Mode du subjonctif" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_w4td2")
+text = "--  Mode du subjonctif  --"
+horizontal_alignment = 1
+
+[node name="Description subjonctif" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "Le subjonctif est le mode de l’irréel. Il est employé pour exprimer un doute, un souhait, un fait dont la réalisation n’est pas certaine. En espagnol, on utilise souvent le subjonctif dans les propositions subordonnées. "
+autowrap_mode = 3
+
+[node name="Bt_present_subjonctif" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Présent du subjonctif"
+
+[node name="Bt_passe_subonctif" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Subjonctif Passé"
+
+[node name="Bt_imparfait_subjonctif" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Imparfait"
+
+[node name="Bt_plusqueparfait_subjonctif3" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Plus-que-parfait"
+
+[node name="Bt_futur_subjonctif5" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Futur simple du subjonctif"
+
+[node name="Bt_futur_anterieur_subjonctif" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Futur antérieur du subjonctif"
+
+[node name="Mode impératif" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_w4td2")
+text = "--  Mode de l'impératif  --"
+horizontal_alignment = 1
+
+[node name="Description impératif" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "L’impératif est le mode utilisé pour donner un ordre ou un conseil. En espagnol, ce mode n’a qu’un seul temps verbal : l’impératif présent (pas d’impératif passé). L’impératif peut être utilisé aux formes affirmative et négative."
+autowrap_mode = 3
+
+[node name="Bt_imperatif" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Impératif"
+
+[node name="Forme Impersonnelles" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_w4td2")
+text = "-- Formes Impersonnelles  --"
+horizontal_alignment = 1
+
+[node name="Description formes" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+text = "Les verbes ont aussi des formes impersonnelles, qui d'après leurs noms, ne s'accordent pas avec le sujet."
+autowrap_mode = 3
+
+[node name="Bt_infinitif" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Infinitif"
+
+[node name="Bt_gérondif" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Gérondif"
+
+[node name="Bt_participe_present" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Participe présent"
+
+[node name="Bt_participe_passe" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 42)
+layout_mode = 2
+text = "Participe présent"
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_present_indicatif" to="." method="_on_bt_present_indicatif_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_passe_compose" to="." method="_on_bt_passe_compose_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_imparfait" to="." method="_on_bt_imparfait_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_plusqueparfait" to="." method="_on_bt_plusqueparfait_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_passe_simple" to="." method="_on_bt_passe_simple_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_futur_simple" to="." method="_on_bt_futur_simple_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_futur_anterieur" to="." method="_on_bt_futur_anterieur_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_conditionnel_present" to="." method="_on_bt_conditionnel_present_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_conditionnel_passe" to="." method="_on_bt_conditionnel_passe_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_present_subjonctif" to="." method="_on_bt_present_subjonctif_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_passe_subonctif" to="." method="_on_bt_passe_subonctif_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_imparfait_subjonctif" to="." method="_on_bt_imparfait_subjonctif_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_plusqueparfait_subjonctif3" to="." method="_on_bt_plusqueparfait_subjonctif_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_futur_subjonctif5" to="." method="_on_bt_futur_subjonctif_5_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_futur_anterieur_subjonctif" to="." method="_on_bt_futur_anterieur_subjonctif_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_imperatif" to="." method="_on_bt_present_impératif_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_infinitif" to="." method="_on_bt_infinitif_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_gérondif" to="." method="_on_bt_gérondif_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_participe_present" to="." method="_on_bt_participe_present_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Bt_participe_passe" to="." method="_on_bt_participe_passe_pressed"]

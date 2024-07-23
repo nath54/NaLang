@@ -1,0 +1,64 @@
+
+[font_size=30][center][b]L'impératif[/b][/center][/font_size]
+
+[center]__________[/center]
+
+L’impératif [i](imperativo)[/i] est un mode utilisé pour donner un ordre ou un conseil à une ou plusieurs personne(s). Il y a en espagnol différentes conjugaisons pour les formes [i]tú, usted, ustedes, nosotros et vosotros[/i].
+
+[center][b]-- Quand utiliser l'impératif en espagnol ? --[/b][/center]
+
+L'impératif est utilisé dans les cas suivants : 
+
+  - faire une suggestion ou proposer quelque chose :
+      [i][color=blue]Ex :¡Vayamos a jugar baloncesto! (Allons jouer au basket !)[/color][/i]
+
+  - donner un ordre :
+     [i][color=blue]Ex :¡Daos tres vueltas al campo en un sprint! (Faites trois tours du terrain en sprint !)[/color][/i]
+
+  - donner un conseil :
+    [i][color=blue]Ex : Para mejorar tu resistencia, corre todos los días.(Pour améliorer ton endurance, coure tous les jours.)[/color][/i]
+
+  - exprimer une requête :
+    [i][color=blue]Ex : Dame tu copia. (Donnez-moi votre copie.)[/color][/i]
+
+[center][b]-- Comment conjuguer les verbes espagnols à l'impératif ? --[/b][/center]
+
+Quand on utilise l'impératif en espagnol, on omet toujours le pronom sujet.
+
+Voici un tableau indiquant comment utiliser l'impératif à la [u][b]forme affirmative[/b][/u] :
+
+   [i]yo[/i] : [b][color=#6f1a8a]/[/color][/b]
+   [i]tu[/i] : [b][color=#6f1a8a]3eme personne du singulier au présent de l'indicatif[/color] [color=dark green](AR: a , ER/IR : e)[/color][/b]
+   [i]usted[/i] : [b][color=#6f1a8a]3eme personne du singulier au subjonctif présent[/color][color=dark green](AR: e , ER/IR : a)[/color][/b]
+   [i]nosotros[/i] : [b][color=#6f1a8a]1ere personne du pluriel au subjonctif présent[/color][color=dark green](AR: emos , ER/IR : amos)[/color][/b]
+   [i]vosotros[/i] : [b][color=#6f1a8a]prendre l’infinitif du verbe et remplacer le [i]r[/i] final par un [i]d[/i][/color][/b]
+   [i]ustedes[/i] : [b][color=#6f1a8a]3e personne du pluriel au subjonctif présent[/color][color=dark green](AR: en , ER/IR : an)[/color][/b] 
+
+
+Voici un tableau indiquant comment utiliser l'impératif à la [u][b]forme négative[/b][/u] :
+
+   [i]yo[/i] : [b][color=#6f1a8a]/[/color][/b]
+   [i]tu[/i] : [b][color=red]no[/color] + [color=#6f1a8a]2eme personne du singulier au subjonctif présent[/color][color=dark green](AR: es , ER/IR : as)[/color][/b]
+   [i]usted[/i] : [b][color=red]no[/color] + [color=#6f1a8a]3eme personne du singulier au subjonctif présent[/color][color=dark green](AR: e , ER/IR : a)[/color][/b]
+   [i]nosotros[/i] : [b][color=red]no[/color] + [color=#6f1a8a]1ere personne du pluriel au subjonctif présent[/color][color=dark green](AR: emos , ER/IR : amos)[/color][/b]
+   [i]vosotros[/i] : [b][color=red]no[/color] + [color=#6f1a8a]2eme personne du pluriel au subjonctif présent[/color][color=dark green](AR: éis , ER/IR : áís)[/color][/b]
+   [i]ustedes[/i] : [b][color=red]no[/color] + [color=#6f1a8a]3e personne du pluriel au subjonctif présent[/color][color=dark green](AR: en , ER/IR : an)[/color][/b] 
+
+
+[b]Exemple pour le verbe tomar à la [u]forme affirmative[/u] de l'impératif[/b] :
+   [i]yo[/i] : [b][color=blue]/[/color][/b]
+   [i]tu[/i] : [b][color=blue]toma[/color][/b]
+   [i]usted[/i] : [b][color=blue]tome[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]tomemos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]tomad[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]tomen[/color][/b] 
+
+
+[b]Exemple pour le verbe tomar à la [u]forme négative[/u] de l'impératif[/b] :
+   [i]yo[/i] : [b][color=blue]/[/color][/b]
+   [i]tu[/i] : [b][color=blue]no tomes[/color][/b]
+   [i]usted[/i] : [b][color=blue]no tome[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]no tomemos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]no toméis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]no tomen[/color][/b] 
+

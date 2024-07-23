@@ -1,0 +1,156 @@
+[gd_scene load_steps=6 format=3 uid="uid://kj0tjg1jcuv2"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Indicatif/Present.gd" id="1_8m0bo"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="2_361m4"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="3_mswiw"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="4_dnsfn"]
+[ext_resource type="FontFile" uid="uid://b4lyjsycmvjsi" path="res://res/Merriweather/Merriweather-BoldItalic.ttf" id="5_fbpcu"]
+
+[node name="NotionsImportantes" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_8m0bo")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Le subjonctif Imparfait"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_361m4")
+theme_override_fonts/bold_font = ExtResource("3_mswiw")
+theme_override_fonts/italics_font = ExtResource("4_dnsfn")
+theme_override_fonts/bold_italics_font = ExtResource("3_mswiw")
+bbcode_enabled = true
+text = "Le subjonctif imparfait [i](pretérito imperfecto subjuntivo)[/i] est employé dans certaines propositions subordonnées, et notamment dans les formules de politesse. Ce temps du subjonctif peut exprimer une action qui s’est déjà produite ou qui est en train de se produire (cela dépend du verbe de la proposition principale)."
+fit_content = true
+
+[node name="Soustitre1" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_mswiw")
+text = "  -- Quand utiliser le subjonctif imparfait en espagnol ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Description2" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_361m4")
+theme_override_fonts/bold_font = ExtResource("3_mswiw")
+theme_override_fonts/italics_font = ExtResource("4_dnsfn")
+theme_override_fonts/bold_italics_font = ExtResource("3_mswiw")
+bbcode_enabled = true
+text = "En espagnol, on emploie le subjonctif imparfait dans les cas suivants :
+
+  - verbe de la proposition principale à un temps du passé ou au conditionnel présent : [i]l’action de la subordonnée (subjonctif) se déroule en même temps ou plus tard que celle de la proposition principale[/i]
+      [i][color=blue]Ex: Aunque no sabías que la ayuda fuera necesaria... (Même si tu ne savais pas que l'aide était nécessaire...)[/color][/i]
+
+  - action de la proposition principale au présent : [i]l’action de la subordonnée a eu lieu précédemment et n’est plus liée au présent[/i]
+      [i][color=blue]Ex: Creo que el dueño se alegra de que tú colaboraras. (Je crois que le propriétaire se réjouit de ta collaboration.)[/color][/i]
+
+  - tournures polies avec des verbes tels que querer, poder, deber, etc.
+      [i][color=blue]Ex: El conductor quisiera tener todo listo para esta tarde. (Le conducteur aimerait que tout soit prêt cette après-midi.)[/color][/i]
+
+  - après l'expression como si dans le sens « comme si... »
+      [i][color=blue]Ex: Has trabajado como si fueras el jefe. (Tu as travaillé comme si tu étais le chef.) [/color][/i]
+"
+fit_content = true
+
+[node name="Soustitre2" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_mswiw")
+text = "  -- Comment conjuguer les verbes espagnols au subjonctif imparfait ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="RichTextLabel" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_361m4")
+theme_override_fonts/bold_font = ExtResource("3_mswiw")
+theme_override_fonts/italics_font = ExtResource("4_dnsfn")
+theme_override_fonts/bold_italics_font = ExtResource("5_fbpcu")
+bbcode_enabled = true
+text = "Pour conjuguer les verbes espagnols au subjonctif imparfait, il faut prendre la 3e personne du pluriel au passé simple, et remplacer [color=red]-ron[/color], par les terminaisons du tableau, identiques pour tous les groupes de verbes. On a le choix entre les deux terminaisons [color=red]-ra[/color] ou [color=red]-se[/color], il s’agit juste d’une question de préférence.
+
+
+Terminaison en [b]-ra[/b]:
+   [i]yo[/i] : [b][color=red]-ra [/color][/b]
+   [i]tu[/i] : [b][color=red]-ras [/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-ra [/color][/b]
+   [i]nosotros[/i] : [b][color=red]-ramos [/color][/b]
+   [i]vosotros[/i] : [b][color=red]-rais [/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-ran [/color][/b]
+
+Terminaison en [b]-se[/b]:
+   [i]yo[/i] : [b][color=red]-se [/color][/b]
+   [i]tu[/i] : [b][color=red]-ses [/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-se [/color][/b]
+   [i]nosotros[/i] : [b][color=red]-semos [/color][/b]
+   [i]vosotros[/i] : [b][color=red]-seis [/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-sen [/color][/b]
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]tomara[/color][/b]    ou     [b][color=blue]tomase[/color][/b]
+   [i]tu[/i] : [b][color=blue]tomaras[/color][/b]    ou     [b][color=blue]tomases[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]tomara[/color][/b]    ou     [b][color=blue]tomase[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]tomáramos[/color][/b]    ou     [b][color=blue]tomásemos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]tomarais[/color][/b]    ou     [b][color=blue]tomaseis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]tomaran[/color][/b]     ou     [b][color=blue]tomasen[/color][/b]
+"
+fit_content = true
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

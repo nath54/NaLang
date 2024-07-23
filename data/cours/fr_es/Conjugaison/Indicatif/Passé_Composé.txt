@@ -1,0 +1,35 @@
+
+[font_size=30][center][b]Le passé composé de l'indicatif[/b][/center][/font_size]
+
+[center]__________[/center]
+
+Le passé composé espagnol (pretérito perfecto) est employé pour parler d’actions achevées qui ont encore une relation avec le moment présent. Son emploi diffère donc de celui passé composé français.
+
+[center][b]-- Quand utiliser le passé composé de l'indicatif en espagnol ? --[/b][/center]
+
+- action qui s’est déroulée pendant une période de temps définie (semaine, mois...) qui n’est pas encore terminée au moment de l’énonciation (mots-clés : este/esta …, hoy)
+    [color=blue][i]Ex: Esta semana, Pablo ha empezado a seguir una dieta vegetariana. (Cette semaine, Pablo s'est mis à suivre un régime végétarien.)[/i][/color]
+  
+  - action achevée qui influence le présent ou le futur
+    [color=blue][i]Ex: Mi hermano pequeño ha nacido hace unos días. (Mon petit frère est né il y a quelques jours.)[/i][/color]
+
+
+
+[center][b]-- Comment conjuguer les verbes espagnols au passé composé de l'indicatif ? --[/b][/center]
+
+Pour conjuguer les verbes au passé composé, on conjugue le verbe [b]haber[/b] au présent de l'indicatif et on met après le verbe à conjuguer sous sa forme de participe passé.
+
+   [i]yo[/i] : [b][color=red]he [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]tu[/i] : [b][color=red]has [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]ha [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]nosotros[/i] : [b][color=red]hemos [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]vosotros[/i] : [b][color=red]habéis [/color] [color=dark green]+ participe passé[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]han [/color] [color=dark green]+ participe passé[/color][/b]
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]he tomado[/color][/b]
+   [i]tu[/i] : [b][color=blue]has tomado[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]ha tomado[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]hemos tomado[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]habéis tomado[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]han tomado[/color][/b] 

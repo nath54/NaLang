@@ -1,0 +1,39 @@
+
+[font_size=30][center][b]Le conditionnel passé de l'indicatif[/b][/center][/font_size]
+
+[center]__________[/center]
+
+Le conditionnel passé espagnol (condicional compuesto) s’utilise à peu près comme le conditionnel présent mais il décrit des faits qui sont déjà achevés. Il permet ainsi de parler de possibilités ou de faire des suppositions quant à des actions ou événements passés.
+
+[center][b]-- Quand utiliser le conditionnel passé de l'indicatif en espagnol ? --[/b][/center]
+
+Le conditionnel passé est utilisé dans les cas suivants : 
+
+  - pour des actions achevées : invitations, demandes, désirs, suggestions
+      [i][color=blue]Ex: ¡Habríamos podido estar más atentos en clase! (Nous aurions pu être plus attentifs en classe !)[/color][/i]
+
+  - suppositions à propos du passé (Qu’est-ce qui aurait pu se passer ?) 
+      [i][color=blue]Ex: Habríamos podido ser atropellado por este camión. (Nous aurions pu être heurtés par ce camion.)[/color][/i]
+
+  - action qui aurait eu lieu dans le passé dans d’autres circonstances 
+      [i][color=blue]Ex: Habríamos muerto si nos hubiera atropellado ese camión. (Nous serions morts si ce camion nous avait heurtés.)[/color][/i]
+
+[center][b]-- Comment conjuguer les verbes espagnols au conditionnel passé de l'indicatif ? --[/b][/center]
+
+Pour conjuguer les verbes espagnols au conditionnel passé, on utilise l’auxiliaire haber conjugué au conditionnel présent et le participe passé du verbe principal.
+
+   [i]yo[/i] : [b][color=red]habría[/color] [color=dark green]+ participe passé[/color][/b]
+   [i]tu[/i] : [b][color=red]habrías[/color] [color=dark green]+ participe passé[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]habría[/color] [color=dark green]+ participe passé[/color][/b]
+   [i]nosotros[/i] : [b][color=red]habríamos[/color] [color=dark green]+ participe passé[/color][/b]
+   [i]vosotros[/i] : [b][color=red]habríais[/color] [color=dark green]+ participe passé[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]habrían[/color] [color=dark green]+ participe passé[/color][/b]
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]habría tomado[/color][/b]
+   [i]tu[/i] : [b][color=blue]habrías tomado[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]habría tomado[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]habríamos tomado[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]habríais tomado[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]habrían tomado[/color][/b] 
+

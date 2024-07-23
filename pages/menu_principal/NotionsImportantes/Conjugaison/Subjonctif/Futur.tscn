@@ -1,0 +1,158 @@
+[gd_scene load_steps=6 format=3 uid="uid://q60ebl71ol40"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Conjugaison/Indicatif/Present.gd" id="1_h2jk6"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="2_vypmw"]
+[ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="3_c8a2u"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="4_hdter"]
+[ext_resource type="FontFile" uid="uid://b4lyjsycmvjsi" path="res://res/Merriweather/Merriweather-BoldItalic.ttf" id="5_ym25k"]
+
+[node name="NotionsImportantes" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_h2jk6")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+follow_focus = true
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Retour"
+
+[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Le subjonctif futur"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="Description" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_vypmw")
+theme_override_fonts/bold_font = ExtResource("3_c8a2u")
+theme_override_fonts/italics_font = ExtResource("4_hdter")
+theme_override_fonts/bold_italics_font = ExtResource("3_c8a2u")
+bbcode_enabled = true
+text = "En espagnol, le futur simple du subjonctif [i](futuro simple de subjuntivo)[/i] est un temps verbal utilisé pour exprimer des actions ou des événements futurs incertains, hypothétiques, ou souhaités. Il est souvent employé dans des phrases subordonnées qui expriment la volonté, le doute, la possibilité, ou des conditions."
+fit_content = true
+
+[node name="Soustitre1" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_c8a2u")
+text = "  -- Quand utiliser le subjonctif futur en espagnol ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Description2" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_vypmw")
+theme_override_fonts/bold_font = ExtResource("3_c8a2u")
+theme_override_fonts/italics_font = ExtResource("4_hdter")
+theme_override_fonts/bold_italics_font = ExtResource("3_c8a2u")
+bbcode_enabled = true
+text = "Le futur simple du subjonctif est principalement utilisé dans des phrases subordonnées pour exprimer des situations hypothétiques, des souhaits, des conditions futures incertaines ou encore des doutes. Voici quelques exemples d’utilisation du futur simple du subjonctif :
+
+  - Actions hypothétiques ou souhaitées:
+      [i][color=blue]Ex: Espero que ella hable con él mañana. (J’espère qu’elle parlera avec lui demain.)[/color][/i]
+
+  - Conditions hypothétiques dans le futur :
+      [i][color=blue]Ex: Si tú fueras, hablaras con él. (Si tu y étais, tu lui parlerais.)[/color][/i]
+
+  - Volonté ou intention
+      [i][color=blue]Ex: Quiero que ellos vengan a la fiesta. (Je veux qu’ils viennent à la fête.)[/color][/i]
+
+  - Doutes ou incertitudes :
+      [i][color=blue]Ex: No creo que lleguen a tiempo. (Je ne crois pas qu’ils arriveront à temps.)[/color][/i]
+
+Le futur simple du subjonctif en espagnol est un temps verbal qui permet d’exprimer des actions ou des événements futurs incertains, hypothétiques ou souhaités, notamment dans des contextes de subordination. Il reflète des situations qui ne sont pas encore certaines et qui dépendent souvent de conditions, de souhaits ou de possibilités."
+fit_content = true
+
+[node name="Soustitre2" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_c8a2u")
+text = "  -- Comment conjuguer les verbes espagnols au subjonctif futur ? --"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="RichTextLabel" type="RichTextLabel" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme_override_fonts/normal_font = ExtResource("2_vypmw")
+theme_override_fonts/bold_font = ExtResource("3_c8a2u")
+theme_override_fonts/italics_font = ExtResource("4_hdter")
+theme_override_fonts/bold_italics_font = ExtResource("5_ym25k")
+bbcode_enabled = true
+text = "Pour conjuguer les verbes réguliers au futur simple du subjonctif, il suffit de prendre le radical du verbe (l’infinitif sans la terminaison -AR, -ER ou -IR) et d’ajouter les terminaisons suivantes :
+
+[b]Verbes en -AR[/b] :
+   [i]yo[/i] : [b][color=red]-are[/color][/b]
+   [i]tu[/i] : [b][color=red]-ares[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-are[/color][/b]
+   [i]nosotros[/i] : [b][color=red]-áremos[/color][/b]
+   [i]vosotros[/i] : [b][color=red]-areis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-aren[/color][/b] 
+
+
+[b]Verbes en -ER / IR[/b] :
+   [i]yo[/i] : [b][color=red]-iere[/color][/b]
+   [i]tu[/i] : [b][color=red]-ieres[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=red]-iere[/color][/b]
+   [i]nosotros[/i] : [b][color=red]-iéremos[/color][/b]
+   [i]vosotros[/i] : [b][color=red]-iereis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=red]-ieren[/color][/b] 
+
+
+[b]Exemple pour le verbe tomar[/b] :
+   [i]yo[/i] : [b][color=blue]tomare[/color][/b]
+   [i]tu[/i] : [b][color=blue]tomares[/color][/b]
+   [i]el/ella/usted[/i] : [b][color=blue]tomare[/color][/b]
+   [i]nosotros[/i] : [b][color=blue]tomáremos[/color][/b]
+   [i]vosotros[/i] : [b][color=blue]tomareis[/color][/b]
+   [i]ellos/ellas/ustedes[/i] : [b][color=blue]tomaren[/color][/b] 
+"
+fit_content = true
+
+[node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

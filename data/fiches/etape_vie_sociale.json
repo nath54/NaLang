@@ -1,0 +1,229 @@
+{
+    "nom": "Les étapes de la vie sociale",
+    "elements": [
+        [
+            ["El estado civil"],
+            ["L’état civil"]
+        ],
+
+        [
+            ["El registro civil"],
+            ["Le registre civil"]
+        ],
+
+        [
+            ["La partida de matrimonio"],
+            ["L’acte de mariage"]
+        ],
+
+        [
+            ["El libro de familia"],
+            ["Le livret de famille"]
+        ],
+
+        [
+            ["El registro de nacimiento"],
+            ["La déclaration de naissance"]
+        ],
+
+        [
+            ["La partida de nacimiento"],
+            ["L’acte de naissance"]
+        ],
+
+        [
+            ["La soltería"],
+            ["Le célibat"]
+        ],
+
+        [
+            ["Un soltero"],
+            ["Un célibataire"]
+        ],
+
+        [
+            ["Una soltera"],
+            ["Une célibataire"]
+        ],
+
+        [
+            ["Enamorarse con"],
+            ["Tomber amoureux de"]
+        ],
+
+        [
+            ["Declararse"],
+            ["Se déclarer"]
+        ],
+
+        [
+            ["El noviazgo"],
+            ["Les fiançailles"]
+        ],
+
+        [
+            ["Los novios"],
+            ["Les fiancés", "Les jeunes mariés"]
+        ],
+
+        [
+            ["Casarse con"],
+            ["Se marier avec"]
+        ],
+
+        [
+            ["Casarse con alguien por lo civil"],
+            ["Se marier avec quelqu’un au civil"]
+        ],
+
+        [
+            ["Casarse con alguien por la Iglesia"],
+            ["Se marier avec quelqu’un à l’Eglise"]
+        ],
+
+        [
+            ["El matrimonio"],
+            ["Le mariage"]
+        ],
+
+        [
+            ["El matrimonio civil"],
+            ["Le mariage civil"]
+        ],
+
+        [
+            ["El matrimonio canónico"],
+            ["Le mariage religieux"]
+        ],
+
+        [
+            ["El marido"],
+            ["Le mari"]
+        ],
+
+        [
+            ["La mujer"],
+            ["La femme"]
+        ],
+
+        [
+            ["El esposo"],
+            ["L’époux"]
+        ],
+
+        [
+            ["La esposa"],
+            ["L’épouse"]
+        ],
+
+        [
+            ["Los cónyuges"],
+            ["Les conjoints"]
+        ],
+
+        [
+            ["Una pareja de hecho"],
+            ["Un PACS", "Un pacte civil de solidarité"]
+        ],
+
+        [
+            ["El concubinato"],
+            ["Le concubinage"]
+        ],
+
+        [
+            ["Quedarse embarazada"],
+            ["Tomber enceinte"]
+        ],
+
+        [
+            ["Estar en estado"],
+            ["Etre enceinte"]
+        ],
+
+        [
+            ["Estar de … meses"],
+            ["Entre enceinte de … mois"]
+        ],
+
+        [
+            ["El embarazo"],
+            ["La grossesse"]
+        ],
+
+        [
+            ["El nacimiento"],
+            ["La naissance"]
+        ],
+
+        [
+            ["Dar a luz"],
+            ["Accoucher"]
+        ],
+
+        [
+            ["Tener hijos"],
+            ["Avoir des enfants"]
+        ],
+
+        [
+            ["La familia numerosa"],
+            ["La famille nombreuse"]
+        ],
+
+        [
+            ["La familia pequeña"],
+            ["La petite famille"]
+        ],
+
+        [
+            ["La familia monoparental"],
+            ["La famille monoparentale"]
+        ],
+
+        [
+            ["La familia reconstituida"],
+            ["La famille recomposée"]
+        ],
+
+        [
+            ["La separación"],
+            ["La séparation"]
+        ],
+
+        [
+            ["Separarse"],
+            ["Se séparer"]
+        ],
+
+        [
+            ["El divorcio"],
+            ["Le divorce"]
+        ],
+
+        [
+            ["Divorciarse"],
+            ["Divorcer"]
+        ],
+
+        [
+            ["La vuidedad"],
+            ["Le veuvage"]
+        ],
+
+        [
+            ["Un viudo"],
+            ["Un veuf"]
+        ],
+
+        [
+            ["Una viuda"],
+            ["Une veuve"]
+        ],
+
+        [
+            ["Enviudar"],
+            ["Devenir veuf", "Devenir veuve"]
+        ]
+    ]
+}
