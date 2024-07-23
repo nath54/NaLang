@@ -28,6 +28,6 @@ func _ready() -> void:
 	#
 	for fp in Lib.list_files_in_directory(DATA_PATH):
 		if fp.ends_with(".json"):
-			var data = Lib.load_file(DATA_PATH+fp);
-			add_fiche_button(data["nom"], DATA_PATH+fp, true);
+			var data = Lib.load_file(fp);
+			add_fiche_button(data["nom"], fp, true);
 

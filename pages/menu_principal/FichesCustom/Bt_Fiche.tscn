@@ -7,7 +7,6 @@
 [ext_resource type="StyleBox" uid="uid://j58gk6jfpypn" path="res://res/Theme/WBt_Disabled.tres" id="4_tgdfd"]
 
 [node name="Bt_Fiche" type="Button"]
-modulate = Color(0.960784, 0.431373, 0, 1)
 custom_minimum_size = Vector2(300, 55)
 mouse_filter = 1
 theme_override_styles/normal = ExtResource("1_0eqhp")

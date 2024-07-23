@@ -1,7 +1,16 @@
-[gd_scene load_steps=4 format=3 uid="uid://d013h3og61ea2"]
+[gd_scene load_steps=8 format=3 uid="uid://d013h3og61ea2"]
 
 [ext_resource type="Script" path="res://pages/menu_principal/MainMenu.gd" id="1_ai6pd"]
 [ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="1_cuyiy"]
+[ext_resource type="Texture2D" uid="uid://csfumuixporbi" path="res://res/Flags/fr.svg" id="3_ihvs5"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="4_2f6tj"]
+[ext_resource type="Texture2D" uid="uid://bughjxo6wga5s" path="res://res/Flags/es.svg" id="4_625v4"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_irfoa"]
+font = ExtResource("4_2f6tj")
+font_size = 40
+outline_size = 5
+outline_color = Color(0, 0, 0, 1)
 
 [sub_resource type="StyleBoxLine" id="StyleBoxLine_fr8l7"]
 color = Color(0, 0, 0, 0.85098)
@@ -38,28 +47,77 @@ alignment = 1
 
 [node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/VBoxContainer"]
 layout_mode = 2
+theme_override_constants/separation = 10
 
 [node name="Titre" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer"]
 layout_mode = 2
-theme_override_colors/font_color = Color(1, 0, 0, 1)
+theme_override_colors/font_color = Color(0.74902, 0.705882, 1, 1)
 theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
 theme_override_constants/shadow_offset_x = 2
 theme_override_constants/shadow_offset_y = 2
 theme_override_constants/outline_size = 4
 theme_override_constants/shadow_outline_size = 2
 theme_override_font_sizes/font_size = 35
-text = "Aprender Español"
+text = "NaLang"
 horizontal_alignment = 1
 vertical_alignment = 1
 
 [node name="Signature" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer"]
 layout_mode = 2
 theme_override_fonts/font = ExtResource("1_cuyiy")
-text = "by nath54"
+text = "by Nathan Cerisara"
 horizontal_alignment = 2
 vertical_alignment = 1
 
 [node name="HSeparator" type="HSeparator" parent="CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 50
+
+[node name="RichTextLabel" type="RichTextLabel" parent="CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 52)
+layout_mode = 2
+text = "Apprenez de nouvelles langues plus facilement !"
+
+[node name="HSeparator3" type="HSeparator" parent="CenterContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 50
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer2"]
+layout_mode = 2
+text = "Langue d'apprentissage sélectionnée : "
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="CenterContainer/VBoxContainer/VBoxContainer2"]
+layout_mode = 2
+theme_override_constants/separation = 25
+alignment = 1
+
+[node name="Lang1" type="TextureRect" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 100)
+layout_mode = 2
+texture = ExtResource("3_ihvs5")
+expand_mode = 2
+stretch_mode = 5
+
+[node name="Label" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2"]
+layout_mode = 2
+text = "→"
+label_settings = SubResource("LabelSettings_irfoa")
+horizontal_alignment = 1
+vertical_alignment = 1
+text_direction = 1
+
+[node name="Lang2" type="TextureRect" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2"]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("4_625v4")
+expand_mode = 2
+stretch_mode = 5
+
+[node name="HSeparator4" type="HSeparator" parent="CenterContainer/VBoxContainer"]
 layout_mode = 2
 theme_override_constants/separation = 50
 
@@ -79,7 +137,8 @@ Importantes"
 custom_minimum_size = Vector2(200, 100)
 layout_mode = 2
 disabled = true
-text = "Mots & Phrases
+text = "Exemples de
+discussions
 en Espagnol"
 
 [node name="Bt_FichesCustoms" type="Button" parent="CenterContainer/VBoxContainer/GridContainer"]
@@ -102,11 +161,13 @@ layout_mode = 2
 alignment = 1
 
 [node name="Bt_Quitter" type="Button" parent="CenterContainer/VBoxContainer/HBoxContainer"]
+custom_minimum_size = Vector2(100, 40)
 layout_mode = 2
 size_flags_horizontal = 6
 text = "Quitter"
 
 [node name="Bt_Parametres" type="Button" parent="CenterContainer/VBoxContainer/HBoxContainer"]
+custom_minimum_size = Vector2(150, 40)
 layout_mode = 2
 size_flags_horizontal = 6
 disabled = true

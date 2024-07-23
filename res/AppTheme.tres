@@ -21,7 +21,7 @@ grow_end = 5.0
 thickness = 2
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_umf8s"]
-bg_color = Color(0.984314, 0.929412, 0.486275, 1)
+bg_color = Color(0.917647, 0.85098, 1, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_kspiw"]
 bg_color = Color(1, 1, 0, 1)
@@ -353,8 +353,8 @@ LineEdit/colors/font_color = Color(0, 0, 0, 1)
 LineEdit/colors/font_outline_color = Color(0, 0, 0, 1)
 LineEdit/colors/font_placeholder_color = Color(0, 0, 0, 1)
 LineEdit/colors/font_selected_color = Color(0, 0, 0, 1)
-LineEdit/colors/font_uneditable_color = Color(0.227451, 0.12549, 0.113725, 1)
-LineEdit/colors/selection_color = Color(0.266667, 0.819608, 0.992157, 0.847059)
+LineEdit/colors/font_uneditable_color = Color(0.0705882, 0.0705882, 0.0705882, 1)
+LineEdit/colors/selection_color = Color(0.447059, 0.266667, 0.988235, 0.847059)
 LineEdit/constants/caret_width = 2
 LineEdit/constants/minimum_character_width = 0
 LineEdit/constants/outline_size = 0
@@ -535,6 +535,7 @@ TabBar/icons/increment_highlight = null
 TabBar/styles/button_highlight = null
 TabBar/styles/button_pressed = null
 TabBar/styles/tab_disabled = null
+TabBar/styles/tab_focus = null
 TabBar/styles/tab_hovered = null
 TabBar/styles/tab_selected = null
 TabBar/styles/tab_unselected = null

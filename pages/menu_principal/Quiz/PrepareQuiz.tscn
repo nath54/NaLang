@@ -47,6 +47,7 @@ layout_mode = 2
 layout_mode = 2
 
 [node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer"]
+custom_minimum_size = Vector2(100, 40)
 layout_mode = 2
 text = "Retour"
 
@@ -93,6 +94,7 @@ autowrap_mode = 3
 
 [node name="OptSens" type="OptionButton" parent="ScrollContainer/CenterContainer/VBoxContainer"]
 unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 40)
 layout_mode = 2
 alignment = 1
 item_count = 3
@@ -115,6 +117,7 @@ autowrap_mode = 3
 
 [node name="OptType" type="OptionButton" parent="ScrollContainer/CenterContainer/VBoxContainer"]
 unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 40)
 layout_mode = 2
 alignment = 1
 item_count = 2

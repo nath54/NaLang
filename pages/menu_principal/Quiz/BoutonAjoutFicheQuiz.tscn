@@ -1,8 +1,17 @@
-[gd_scene load_steps=2 format=3 uid="uid://53vcgsqbwpdm"]
+[gd_scene load_steps=3 format=3 uid="uid://53vcgsqbwpdm"]
 
 [ext_resource type="Script" path="res://pages/menu_principal/Quiz/BoutonAjoutFicheQuiz.gd" id="1_2y6w5"]
 
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_s7pco"]
+bg_color = Color(0.494118, 0.505882, 0.639216, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0, 0, 0, 1)
+
 [node name="BoutonFiche" type="PanelContainer"]
+theme_override_styles/panel = SubResource("StyleBoxFlat_s7pco")
 script = ExtResource("1_2y6w5")
 
 [node name="MarginContainer" type="MarginContainer" parent="."]
@@ -17,6 +26,7 @@ layout_mode = 2
 theme_override_constants/separation = 15
 
 [node name="Button" type="Button" parent="MarginContainer/HBoxContainer"]
+custom_minimum_size = Vector2(100, 40)
 layout_mode = 2
 text = "ajouter"
 

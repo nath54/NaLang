@@ -21,3 +21,12 @@ var quiz_type: int = QUIZ_TYPE_CARTES;
 const MAX_LOADED_FICHES: int = 100;
 var loaded_fiches: Dictionary = {}; # "path" -> fiche dict
 var fiches_uses: Dictionary = {}; # "path" -> Nb access
+
+#
+
+var current_lang_src: String = "fr";
+var current_lang_dst: String = "es";
+
+#
+
+

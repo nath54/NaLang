@@ -1,0 +1,41 @@
+[gd_scene load_steps=3 format=3 uid="uid://v5vu3snk6ao5"]
+
+[ext_resource type="Texture2D" uid="uid://bvfw5jmvvx3e2" path="res://res/icons/folder.svg" id="1_5oe02"]
+[ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/ButtonDirectory.gd" id="1_osk13"]
+
+[node name="ButtonDirectory" type="Button"]
+self_modulate = Color(0.611765, 0.611765, 1, 1)
+custom_minimum_size = Vector2(300, 60)
+size_flags_horizontal = 3
+script = ExtResource("1_osk13")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 5
+theme_override_constants/margin_right = 5
+theme_override_constants/margin_bottom = 5
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+custom_minimum_size = Vector2(150, 40)
+layout_mode = 2
+theme_override_constants/separation = 5
+
+[node name="TextureRect" type="TextureRect" parent="MarginContainer/HBoxContainer"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+texture = ExtResource("1_5oe02")
+expand_mode = 3
+stretch_mode = 5
+
+[node name="Label" type="Label" parent="MarginContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Directory"
+vertical_alignment = 1
