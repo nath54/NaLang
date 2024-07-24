@@ -1,8 +1,20 @@
-[gd_scene load_steps=4 format=3 uid="uid://cwqpr0d8co88j"]
+[gd_scene load_steps=5 format=3 uid="uid://cwqpr0d8co88j"]
 
 [ext_resource type="PackedScene" uid="uid://fn4oy0g4eyja" path="res://pages/menu_principal/Quiz/AjoutsFichesQuiz.tscn" id="1_5wikr"]
 [ext_resource type="Script" path="res://pages/menu_principal/Quiz/PrepareQuiz.gd" id="1_78kla"]
 [ext_resource type="PackedScene" uid="uid://b8loywylao3cp" path="res://pages/menu_principal/Quiz/PrepareFicheSelect.tscn" id="2_3jg8t"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_f34ug"]
+bg_color = Color(0.694118, 0.682353, 0.909804, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(0, 0, 0, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
 
 [node name="PrepareQuiz" type="Control"]
 layout_mode = 3
@@ -63,6 +75,7 @@ custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
 
 [node name="DescrFiches" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
 text = "Sélectionnez les fiches sur lesquelles vous souhaitez vous interroger:"
 autowrap_mode = 3
@@ -88,6 +101,7 @@ custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
 
 [node name="DescrSens" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
 text = "Sélectionnez le sens de l'interrogation:"
 autowrap_mode = 3
@@ -111,6 +125,7 @@ custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
 
 [node name="DescrType" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
 text = "Sélectionnez le type de quiz:"
 autowrap_mode = 3
@@ -145,8 +160,67 @@ unique_name_in_owner = true
 visible = false
 layout_mode = 1
 
+[node name="PopUpNoFicheSelected" type="CenterContainer" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 0
+
+[node name="MarginContainer" type="MarginContainer" parent="PopUpNoFicheSelected"]
+custom_minimum_size = Vector2(600, 400)
+layout_mode = 2
+theme_override_constants/margin_left = 15
+theme_override_constants/margin_top = 15
+theme_override_constants/margin_right = 15
+theme_override_constants/margin_bottom = 15
+
+[node name="Control" type="Control" parent="PopUpNoFicheSelected/MarginContainer"]
+layout_mode = 2
+
+[node name="Panel" type="Panel" parent="PopUpNoFicheSelected/MarginContainer/Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_f34ug")
+
+[node name="CenterContainer" type="CenterContainer" parent="PopUpNoFicheSelected/MarginContainer/Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PopUpNoFicheSelected/MarginContainer/Control/CenterContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="Label" type="Label" parent="PopUpNoFicheSelected/MarginContainer/Control/CenterContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+text = "Attention, il n'y a pas de fiches sélectionnées pour lancer de quiz !"
+autowrap_mode = 2
+
+[node name="CenterContainer" type="CenterContainer" parent="PopUpNoFicheSelected/MarginContainer/Control/CenterContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Bt_ok" type="Button" parent="PopUpNoFicheSelected/MarginContainer/Control/CenterContainer/VBoxContainer/CenterContainer"]
+custom_minimum_size = Vector2(100, 50)
+layout_mode = 2
+text = "ok"
+
 [connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]
 [connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/FicheBtSelecContainer/Bt_plus" to="." method="_on_bt_plus_pressed"]
 [connection signal="item_selected" from="ScrollContainer/CenterContainer/VBoxContainer/OptSens" to="." method="_on_opt_sens_item_selected"]
 [connection signal="item_selected" from="ScrollContainer/CenterContainer/VBoxContainer/OptType" to="." method="_on_opt_type_item_selected"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/BtStartQuiz" to="." method="_on_bt_start_quiz_pressed"]
 [connection signal="on_fiche_selected" from="AjoutFicheMenu" to="." method="_on_ajout_fiche_menu_on_fiche_selected"]
+[connection signal="pressed" from="PopUpNoFicheSelected/MarginContainer/Control/CenterContainer/VBoxContainer/CenterContainer/Bt_ok" to="." method="_on_bt_ok_pressed"]

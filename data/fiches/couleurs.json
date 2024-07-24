@@ -1,119 +1,101 @@
 {
-    "nom": "Les couleurs",
-    "elements": [
-        [
-            ["El color"],
-            ["La couleur"]
-        ],
-
-        [
-            ["Azul"],
-            ["Bleu"]
-        ],
-
-        [
-            ["Azul marino"],
-            ["Bleu marine"]
-        ],
-
-        [
-            ["Celeste"],
-            ["Bleu ciel"]
-        ],
-
-        [
-            ["Añil"],
-            ["Indigo"]
-        ],
-
-        [
-            ["Turquesa"],
-            ["Turquoise"]
-        ],
-
-        [
-            ["Verde"],
-            ["Vert"]
-        ],
-
-        [
-            ["Amarillo"],
-            ["Jaune"]
-        ],
-
-        [
-            ["Rosa"],
-            ["Rose"]
-        ],
-
-        [
-            ["Naranja"],
-            ["Orange"]
-        ],
-
-        [
-            ["Rojo"],
-            ["Rouge"]
-        ],
-
-        [
-            ["Burdeos"],
-            ["Bordeaux"]
-        ],
-
-        [
-            ["Púrpura"],
-            ["Pourpre"]
-        ],
-
-        [
-            ["Violeta"],
-            ["Violet clair"]
-        ],
-
-        [
-            ["Morado"],
-            ["Violet"]
-        ],
-
-        [
-            ["Beige"],
-            ["Beige"]
-        ],
-
-        [
-            ["Marrón"],
-            ["Marron"]
-        ],
-
-        [
-            ["Negro"],
-            ["Noir"]
-        ],
-
-        [
-            ["Blanco"],
-            ["Blanc"]
-        ],
-
-        [
-            ["Gris"],
-            ["Gris"]
-        ],
-
-        [
-            ["Plateado"],
-            ["Argenté"]
-        ],
-
-        [
-            ["Dorado"],
-            ["Doré"]
-        ],
-
-        [
-            ["Cobrizo"],
-            ["Cuivré"]
-        ]
-    ]
+	"name": {
+		"es": "Los colores",
+		"fr": "Les couleurs",
+	},
+	"langs": ["es", "fr"],
+	"elements": [
+		{
+			"es": ["El color"],
+			"fr": ["La couleur"]
+		},
+		{
+			"es": ["Azul"],
+			"fr": ["Bleu"]
+		},
+		{
+			"es": ["Azul marino"],
+			"fr": ["Bleu marine"]
+		},
+		{
+			"es": ["Celeste"],
+			"fr": ["Bleu ciel"]
+		},
+		{
+			"es": ["Añil"],
+			"fr": ["Indigo"]
+		},
+		{
+			"es": ["Turquesa"],
+			"fr": ["Turquoise"]
+		},
+		{
+			"es": ["Verde"],
+			"fr": ["Vert"]
+		},
+		{
+			"es": ["Amarillo"],
+			"fr": ["Jaune"]
+		},
+		{
+			"es": ["Rosa"],
+			"fr": ["Rose"]
+		},
+		{
+			"es": ["Naranja"],
+			"fr": ["Orange"]
+		},
+		{
+			"es": ["Rojo"],
+			"fr": ["Rouge"]
+		},
+		{
+			"es": ["Burdeos"],
+			"fr": ["Bordeaux"]
+		},
+		{
+			"es": ["Púrpura"],
+			"fr": ["Pourpre"]
+		},
+		{
+			"es": ["Violeta"],
+			"fr": ["Violet clair"]
+		},
+		{
+			"es": ["Morado"],
+			"fr": ["Violet"]
+		},
+		{
+			"es": ["Beige"],
+			"fr": ["Beige"]
+		},
+		{
+			"es": ["Marrón"],
+			"fr": ["Marron"]
+		},
+		{
+			"es": ["Negro"],
+			"fr": ["Noir"]
+		},
+		{
+			"es": ["Blanco"],
+			"fr": ["Blanc"]
+		},
+		{
+			"es": ["Gris"],
+			"fr": ["Gris"]
+		},
+		{
+			"es": ["Plateado"],
+			"fr": ["Argenté"]
+		},
+		{
+			"es": ["Dorado"],
+			"fr": ["Doré"]
+		},
+		{
+			"es": ["Cobrizo"],
+			"fr": ["Cuivré"]
+		}
+	]
 }

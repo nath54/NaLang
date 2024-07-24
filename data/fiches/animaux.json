@@ -1,659 +1,535 @@
 {
-    "nom": "Animaux",
-    "elements": [
-        [
-            ["mamífero"],
-            ["mammifère"]
-        ],
-
-        [
-            ["burro", "asno"],
-            ["âne"]
-        ],
-
-        [
-            ["antílope"],
-            ["antilope"]
-        ],
-
-        [
-            ["ballena"],
-            ["baleine"]
-        ],
-
-        [
-            ["comadreja"],
-            ["belette"]
-        ],
-
-        [
-            ["bisonte", "búfalo"],
-            ["bison"]
-        ],
-
-        [
-            ["tejón"],
-            ["blaireau"]
-        ],
-
-        [
-            ["carne", "buey", "ternera"],
-            ["bœuf"]
-        ],
-
-        [
-            ["cabra montés", "íbice", "cabra montesa"],
-            ["bouquetin"]
-        ],
-
-        [
-            ["búfalo"],
-            ["buffle"]
-        ],
-
-        [
-            ["castor"],
-            ["castor"]
-        ],
-
-        [
-            ["ciervo", "venado"],
-            ["cerf"]
-        ],
-
-        [
-            ["chacal"],
-            ["chacal"]
-        ],
-
-        [
-            ["camello"],
-            ["chameau"]
-        ],
-
-        [
-            ["badana", "gamuza"],
-            ["chamois"]
-        ],
-
-        [
-            ["gato"],
-            ["chat"]
-        ],
-
-        [
-            ["murciélago"],
-            ["chauve-souris"]
-        ],
-
-        [
-            ["caballo"],
-            ["cheval"]
-        ],
-
-        [
-            ["cabra"],
-            ["chèvre"]
-        ],
-
-        [
-            ["ciervo", "corzo", "venado"],
-            ["chevreuil"]
-        ],
-
-        [
-            ["perro"],
-            ["chien"]
-        ],
-
-        [
-            ["chimpancé"],
-            ["chimpanzé"]
-        ],
-
-        [
-            ["cerdo", "cerdito"],
-            ["cochon", "porc"]
-        ],
-
-        [
-            ["gamuza", "ante", "ciervo"],
-            ["daim"]
-        ],
-
-        [
-            ["delfín"],
-            ["dauphin"]
-        ],
-
-        [
-            ["dromedario", "camello"],
-            ["dromadaire"]
-        ],
-
-        [
-            ["ardilla"],
-            ["écureuil"]
-        ],
-
-        [
-            ["elefante"],
-            ["éléphant"]
-        ],
-
-        [
-            ["hurón"],
-            ["furet"]
-        ],
-
-        [
-            ["jirafa"],
-            ["girafe"]
-        ],
-
-        [
-            ["gorila"],
-            ["gorille"]
-        ],
-
-        [
-            ["guepardo", "chita"],
-            ["guépard"]
-        ],
-
-        [
-            ["ñu"],
-            ["gnou"]
-        ],
-
-        [
-            ["erizo"],
-            ["hérisson"]
-        ],
-
-        [
-            ["hipopótamo"],
-            ["hippopotame"]
-        ],
-
-        [
-            ["humano"],
-            ["humain"]
-        ],
-
-        [
-            ["hiena"],
-            ["hyène"]
-        ],
-
-        [
-            ["canguro"],
-            ["kangourou"]
-        ],
-
-        [
-            ["llama", "lama"],
-            ["lama"]
-        ],
-
-        [
-            ["conejo", "conejito"],
-            ["lapin"]
-        ],
-
-        [
-            ["lémur"],
-            ["lémur"]
-        ],
-
-        [
-            ["leopardo"],
-            ["léopard"]
-        ],
-
-        [
-            ["pantera"],
-            ["panthère"]
-        ],
-
-        [
-            ["liebre"],
-            ["lièvre"]
-        ],
-
-        [
-            ["león"],
-            ["lion"]
-        ],
-
-        [
-            ["lobo"],
-            ["loup"]
-        ],
-
-        [
-            ["lince"],
-            ["lynx"]
-        ],
-
-        [
-            ["nutria"],
-            ["loutre"]
-        ],
-
-        [
-            ["marmota"],
-            ["marmotte"]
-        ],
-
-        [
-            ["oveja", "cordero", "ovina"],
-            ["mouton"]
-        ],
-
-        [
-            ["orca", "orco"],
-            ["orque"]
-        ],
-
-        [
-            ["león marino", "lobo marino", "foca"],
-            ["otarie"]
-        ],
-
-        [
-            ["tití", "mono", "monito"],
-            ["ouistiti"]
-        ],
-
-        [
-            ["oso"],
-            ["ours"]
-        ],
-
-        [
-            ["jabalí verrugoso", "facóquero"],
-            ["phacochère"]
-        ],
-
-        [
-            ["pony", "poni"],
-            ["poney"]
-        ],
-
-        [
-            ["rata"],
-            ["rat"]
-        ],
-
-        [
-            ["zorro"],
-            ["renard"]
-        ],
-
-        [
-            ["rinoceronte"],
-            ["rhinocéros"]
-        ],
-
-        [
-            ["jabalí"],
-            ["sanglier"]
-        ],
-
-        [
-            ["mono"],
-            ["singe"]
-        ],
-
-        [
-            ["ratón", "mouse"],
-            ["souris"]
-        ],
-
-        [
-            ["topo"],
-            ["taupe"]
-        ],
-
-        [
-            ["tigre"],
-            ["tigre"]
-        ],
-
-        [
-            ["vaca"],
-            ["vache"]
-        ],
-
-        [
-            ["cebra"],
-            ["zèbre"]
-        ],
-
-        [
-            ["pájaro", "ave", "pajarito"],
-            ["oiseau"]
-        ],
-
-        [
-            ["águila"],
-            ["aigle"]
-        ],
-
-        [
-            ["albatros"],
-            ["albatros"]
-        ],
-
-        [
-            ["alondra"],
-            ["alouette"]
-        ],
-
-        [
-            ["avestruz"],
-            ["autruche"]
-        ],
-
-        [
-            ["boquilla"],
-            ["buse"]
-        ],
-
-        [
-            ["codorniz"],
-            ["caille"]
-        ],
-
-        [
-            ["pato"],
-            ["canard"]
-        ],
-
-        [
-            ["búho"],
-            ["chouette"]
-        ],
-
-        [
-            ["cigüeña"],
-            ["cigogne"]
-        ],
-
-        [
-            ["colibrí"],
-            ["colibri"]
-        ],
-
-        [
-            ["paloma"],
-            ["colombe"]
-        ],
-
-        [
-            ["gallo"],
-            ["coq"]
-        ],
-
-        [
-            ["gallina", "pollo"],
-            ["poule"]
-        ],
-
-        [
-            ["pollito", "cariño"],
-            ["poussin"]
-        ],
-
-        [
-            ["pollo"],
-            ["poulet"]
-        ],
-
-        [
-            ["cisne"],
-            ["cygne"]
-        ],
-
-        [
-            ["pavo"],
-            ["dinde", "dindon"]
-        ],
-
-        [
-            ["halcón"],
-            ["faucon"]
-        ],
-
-        [
-            ["grúa"],
-            ["grue"]
-        ],
-
-        [
-            ["búho", "lechuza"],
-            ["hibou"]
-        ],
-
-        [
-            ["carbonero", "tit", "herrerillo"],
-            ["mésange"]
-        ],
-
-        [
-            ["gorrión"],
-            ["moineau"]
-        ],
-
-        [
-            ["ganso", "oca"],
-            ["oie"]
-        ],
-
-        [
-            ["pavo real"],
-            ["paon"]
-        ],
-
-        [
-            ["loro"],
-            ["perroquet"]
-        ],
-
-        [
-            ["paloma"],
-            ["pigeon"]
-        ],
-
-        [
-            ["pingüino"],
-            ["pingouin"]
-        ],
-
-        [
-            ["buitre"],
-            ["vautour"]
-        ],
-
-        [
-            ["insecto", "bicho"],
-            ["insecte"]
-        ],
-
-        [
-            ["abeja"],
-            ["abeille"]
-        ],
-
-        [
-            ["abejón", "abejorro"],
-            ["bourdon"]
-        ],
-
-        [
-            ["cigarra"],
-            ["cigale"]
-        ],
-
-        [
-            ["hormiga"],
-            ["fourmi"]
-        ],
-
-        [
-            ["avispa"],
-            ["guêpe"]
-        ],
-
-        [
-            ["mosca"],
-            ["mouche"]
-        ],
-
-        [
-            ["mariposa", "pajarita"],
-            ["papillon"]
-        ],
-
-        [
-            ["cariño"],
-            ["puce"]
-        ],
-
-        [
-            ["saltamontes"],
-            ["sauterelle"]
-        ],
-
-        [
-            ["chinche"],
-            ["punaise"]
-        ],
-
-        [
-            ["crustáceo"],
-            ["crustacé"]
-        ],
-
-        [
-            ["camarón", "gamba"],
-            ["crevette"]
-        ],
-
-        [
-            ["molusco"],
-            ["mollusque"]
-        ],
-
-        [
-            ["caracol"],
-            ["escargot"]
-        ],
-
-        [
-            ["ostra"],
-            ["huître"]
-        ],
-
-        [
-            ["molde"],
-            ["moule"]
-        ],
-
-        [
-            ["gusano"],
-            ["ver"]
-        ],
-
-        [
-            ["sanguijuela"],
-            ["sangsue"]
-        ],
-
-        [
-            ["pez", "pescado"],
-            ["poisson"]
-        ],
-
-        [
-            ["arenque"],
-            ["hareng"]
-        ],
-
-        [
-            ["caballa"],
-            ["maquereau"]
-        ],
-
-        [
-            ["sardina"],
-            ["sardine"]
-        ],
-
-        [
-            ["salmón"],
-            ["saumon"]
-        ],
-
-        [
-            ["trucha"],
-            ["truite"]
-        ],
-
-        [
-            ["reptil"],
-            ["reptile"]
-        ],
-
-        [
-            ["culebra"],
-            ["couleuvre"]
-        ],
-
-        [
-            ["cocodrilo"],
-            ["crocodile"]
-        ],
-
-        [
-            ["lagarto", "lagartija"],
-            ["lézard"]
-        ],
-
-        [
-            ["serpiente"],
-            ["serpent"]
-        ],
-
-        [
-            ["tortuga"],
-            ["tortue"]
-        ],
-
-        [
-            ["víbora"],
-            ["vipère"]
-        ],
-
-        [
-            ["anfibio"],
-            ["amphibien"]
-        ],
-
-        [
-            ["sapo"],
-            ["crapaud"]
-        ],
-
-        [
-            ["rana"],
-            ["grenouille"]
-        ],
-
-        [
-            ["salamandra"],
-            ["salamandre"]
-        ]
-    ]
+	"name": {
+		"es": "Los animales",
+		"fr": "Les animaux"
+	},
+	"langs": ["es", "fr"],
+	"elements": [
+		{
+			"es": ["mamífero"],
+			"fr": ["mammifère"]
+		},
+		{
+			"es": ["burro", "asno"],
+			"fr": ["âne"]
+		},
+		{
+			"es": ["antílope"],
+			"fr": ["antilope"]
+		},
+		{
+			"es": ["ballena"],
+			"fr": ["baleine"]
+		},
+		{
+			"es": ["comadreja"],
+			"fr": ["belette"]
+		},
+		{
+			"es": ["bisonte", "búfalo"],
+			"fr": ["bison"]
+		},
+		{
+			"es": ["tejón"],
+			"fr": ["blaireau"]
+		},
+		{
+			"es": ["carne", "buey", "ternera"],
+			"fr": ["bœuf"]
+		},
+		{
+			"es": ["cabra montés", "íbice", "cabra montesa"],
+			"fr": ["bouquetin"]
+		},
+		{
+			"es": ["búfalo"],
+			"fr": ["buffle"]
+		},
+		{
+			"es": ["castor"],
+			"fr": ["castor"]
+		},
+		{
+			"es": ["ciervo", "venado"],
+			"fr": ["cerf"]
+		},
+		{
+			"es": ["chacal"],
+			"fr": ["chacal"]
+		},
+		{
+			"es": ["camello"],
+			"fr": ["chameau"]
+		},
+		{
+			"es": ["badana", "gamuza"],
+			"fr": ["chamois"]
+		},
+		{
+			"es": ["gato"],
+			"fr": ["chat"]
+		},
+		{
+			"es": ["murciélago"],
+			"fr": ["chauve-souris"]
+		},
+		{
+			"es": ["caballo"],
+			"fr": ["cheval"]
+		},
+		{
+			"es": ["cabra"],
+			"fr": ["chèvre"]
+		},
+		{
+			"es": ["ciervo", "corzo", "venado"],
+			"fr": ["chevreuil"]
+		},
+		{
+			"es": ["perro"],
+			"fr": ["chien"]
+		},
+		{
+			"es": ["chimpancé"],
+			"fr": ["chimpanzé"]
+		},
+		{
+			"es": ["cerdo", "cerdito"],
+			"fr": ["cochon", "porc"]
+		},
+		{
+			"es": ["gamuza", "ante", "ciervo"],
+			"fr": ["daim"]
+		},
+		{
+			"es": ["delfín"],
+			"fr": ["dauphin"]
+		},
+		{
+			"es": ["dromedario", "camello"],
+			"fr": ["dromadaire"]
+		},
+		{
+			"es": ["ardilla"],
+			"fr": ["écureuil"]
+		},
+		{
+			"es": ["elefante"],
+			"fr": ["éléphant"]
+		},
+		{
+			"es": ["hurón"],
+			"fr": ["furet"]
+		},
+		{
+			"es": ["jirafa"],
+			"fr": ["girafe"]
+		},
+		{
+			"es": ["gorila"],
+			"fr": ["gorille"]
+		},
+		{
+			"es": ["guepardo", "chita"],
+			"fr": ["guépard"]
+		},
+		{
+			"es": ["ñu"],
+			"fr": ["gnou"]
+		},
+		{
+			"es": ["erizo"],
+			"fr": ["hérisson"]
+		},
+		{
+			"es": ["hipopótamo"],
+			"fr": ["hippopotame"]
+		},
+		{
+			"es": ["humano"],
+			"fr": ["humain"]
+		},
+		{
+			"es": ["hiena"],
+			"fr": ["hyène"]
+		},
+		{
+			"es": ["canguro"],
+			"fr": ["kangourou"]
+		},
+		{
+			"es": ["llama", "lama"],
+			"fr": ["lama"]
+		},
+		{
+			"es": ["conejo", "conejito"],
+			"fr": ["lapin"]
+		},
+		{
+			"es": ["lémur"],
+			"fr": ["lémur"]
+		},
+		{
+			"es": ["leopardo"],
+			"fr": ["léopard"]
+		},
+		{
+			"es": ["pantera"],
+			"fr": ["panthère"]
+		},
+		{
+			"es": ["liebre"],
+			"fr": ["lièvre"]
+		},
+		{
+			"es": ["león"],
+			"fr": ["lion"]
+		},
+		{
+			"es": ["lobo"],
+			"fr": ["loup"]
+		},
+		{
+			"es": ["lince"],
+			"fr": ["lynx"]
+		},
+		{
+			"es": ["nutria"],
+			"fr": ["loutre"]
+		},
+		{
+			"es": ["marmota"],
+			"fr": ["marmotte"]
+		},
+		{
+			"es": ["oveja", "cordero", "ovina"],
+			"fr": ["mouton"]
+		},
+		{
+			"es": ["orca", "orco"],
+			"fr": ["orque"]
+		},
+		{
+			"es": ["león marino", "lobo marino", "foca"],
+			"fr": ["otarie"]
+		},
+		{
+			"es": ["tití", "mono", "monito"],
+			"fr": ["ouistiti"]
+		},
+		{
+			"es": ["oso"],
+			"fr": ["ours"]
+		},
+		{
+			"es": ["jabalí verrugoso", "facóquero"],
+			"fr": ["phacochère"]
+		},
+		{
+			"es": ["pony", "poni"],
+			"fr": ["poney"]
+		},
+		{
+			"es": ["rata"],
+			"fr": ["rat"]
+		},
+		{
+			"es": ["zorro"],
+			"fr": ["renard"]
+		},
+		{
+			"es": ["rinoceronte"],
+			"fr": ["rhinocéros"]
+		},
+		{
+			"es": ["jabalí"],
+			"fr": ["sanglier"]
+		},
+		{
+			"es": ["mono"],
+			"fr": ["singe"]
+		},
+		{
+			"es": ["ratón", "mouse"],
+			"fr": ["souris"]
+		},
+		{
+			"es": ["topo"],
+			"fr": ["taupe"]
+		},
+		{
+			"es": ["tigre"],
+			"fr": ["tigre"]
+		},
+		{
+			"es": ["vaca"],
+			"fr": ["vache"]
+		},
+		{
+			"es": ["cebra"],
+			"fr": ["zèbre"]
+		},
+		{
+			"es": ["pájaro", "ave", "pajarito"],
+			"fr": ["oiseau"]
+		},
+		{
+			"es": ["águila"],
+			"fr": ["aigle"]
+		},
+		{
+			"es": ["albatros"],
+			"fr": ["albatros"]
+		},
+		{
+			"es": ["alondra"],
+			"fr": ["alouette"]
+		},
+		{
+			"es": ["avestruz"],
+			"fr": ["autruche"]
+		},
+		{
+			"es": ["boquilla"],
+			"fr": ["buse"]
+		},
+		{
+			"es": ["codorniz"],
+			"fr": ["caille"]
+		},
+		{
+			"es": ["pato"],
+			"fr": ["canard"]
+		},
+		{
+			"es": ["búho"],
+			"fr": ["chouette"]
+		},
+		{
+			"es": ["cigüeña"],
+			"fr": ["cigogne"]
+		},
+		{
+			"es": ["colibrí"],
+			"fr": ["colibri"]
+		},
+		{
+			"es": ["paloma"],
+			"fr": ["colombe"]
+		},
+		{
+			"es": ["gallo"],
+			"fr": ["coq"]
+		},
+		{
+			"es": ["gallina", "pollo"],
+			"fr": ["poule"]
+		},
+		{
+			"es": ["pollito", "cariño"],
+			"fr": ["poussin"]
+		},
+		{
+			"es": ["pollo"],
+			"fr": ["poulet"]
+		},
+		{
+			"es": ["cisne"],
+			"fr": ["cygne"]
+		},
+		{
+			"es": ["pavo"],
+			"fr": ["dinde", "dindon"]
+		},
+		{
+			"es": ["halcón"],
+			"fr": ["faucon"]
+		},
+		{
+			"es": ["grúa"],
+			"fr": ["grue"]
+		},
+		{
+			"es": ["búho", "lechuza"],
+			"fr": ["hibou"]
+		},
+		{
+			"es": ["carbonero", "tit", "herrerillo"],
+			"fr": ["mésange"]
+	   
+
+ },
+		{
+			"es": ["gorrión"],
+			"fr": ["moineau"]
+		},
+		{
+			"es": ["ganso", "oca"],
+			"fr": ["oie"]
+		},
+		{
+			"es": ["pavo real"],
+			"fr": ["paon"]
+		},
+		{
+			"es": ["loro"],
+			"fr": ["perroquet"]
+		},
+		{
+			"es": ["paloma"],
+			"fr": ["pigeon"]
+		},
+		{
+			"es": ["pingüino"],
+			"fr": ["pingouin"]
+		},
+		{
+			"es": ["buitre"],
+			"fr": ["vautour"]
+		},
+		{
+			"es": ["insecto", "bicho"],
+			"fr": ["insecte"]
+		},
+		{
+			"es": ["abeja"],
+			"fr": ["abeille"]
+		},
+		{
+			"es": ["abejón", "abejorro"],
+			"fr": ["bourdon"]
+		},
+		{
+			"es": ["cigarra"],
+			"fr": ["cigale"]
+		},
+		{
+			"es": ["hormiga"],
+			"fr": ["fourmi"]
+		},
+		{
+			"es": ["avispa"],
+			"fr": ["guêpe"]
+		},
+		{
+			"es": ["mosca"],
+			"fr": ["mouche"]
+		},
+		{
+			"es": ["mariposa", "pajarita"],
+			"fr": ["papillon"]
+		},
+		{
+			"es": ["cariño"],
+			"fr": ["puce"]
+		},
+		{
+			"es": ["saltamontes"],
+			"fr": ["sauterelle"]
+		},
+		{
+			"es": ["chinche"],
+			"fr": ["punaise"]
+		},
+		{
+			"es": ["crustáceo"],
+			"fr": ["crustacé"]
+		},
+		{
+			"es": ["camarón", "gamba"],
+			"fr": ["crevette"]
+		},
+		{
+			"es": ["molusco"],
+			"fr": ["mollusque"]
+		},
+		{
+			"es": ["caracol"],
+			"fr": ["escargot"]
+		},
+		{
+			"es": ["ostra"],
+			"fr": ["huître"]
+		},
+		{
+			"es": ["molde"],
+			"fr": ["moule"]
+		},
+		{
+			"es": ["gusano"],
+			"fr": ["ver"]
+		},
+		{
+			"es": ["sanguijuela"],
+			"fr": ["sangsue"]
+		},
+		{
+			"es": ["pez", "pescado"],
+			"fr": ["poisson"]
+		},
+		{
+			"es": ["arenque"],
+			"fr": ["hareng"]
+		},
+		{
+			"es": ["caballa"],
+			"fr": ["maquereau"]
+		},
+		{
+			"es": ["sardina"],
+			"fr": ["sardine"]
+		},
+		{
+			"es": ["salmón"],
+			"fr": ["saumon"]
+		},
+		{
+			"es": ["trucha"],
+			"fr": ["truite"]
+		},
+		{
+			"es": ["reptil"],
+			"fr": ["reptile"]
+		},
+		{
+			"es": ["culebra"],
+			"fr": ["couleuvre"]
+		},
+		{
+			"es": ["cocodrilo"],
+			"fr": ["crocodile"]
+		},
+		{
+			"es": ["lagarto", "lagartija"],
+			"fr": ["lézard"]
+		},
+		{
+			"es": ["serpiente"],
+			"fr": ["serpent"]
+		},
+		{
+			"es": ["tortuga"],
+			"fr": ["tortue"]
+		},
+		{
+			"es": ["víbora"],
+			"fr": ["vipère"]
+		},
+		{
+			"es": ["anfibio"],
+			"fr": ["amphibien"]
+		},
+		{
+			"es": ["sapo"],
+			"fr": ["crapaud"]
+		},
+		{
+			"es": ["rana"],
+			"fr": ["grenouille"]
+		},
+		{
+			"es": ["salamandra"],
+			"fr": ["salamandre"]
+		}
+	]
 }

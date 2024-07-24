@@ -138,8 +138,7 @@ custom_minimum_size = Vector2(200, 100)
 layout_mode = 2
 disabled = true
 text = "Exemples de
-discussions
-en Espagnol"
+discussions"
 
 [node name="Bt_FichesCustoms" type="Button" parent="CenterContainer/VBoxContainer/GridContainer"]
 custom_minimum_size = Vector2(200, 100)

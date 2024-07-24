@@ -28,6 +28,10 @@ func _ready() -> void:
 	#
 	for fp in Lib.list_files_in_directory(DATA_PATH):
 		if fp.ends_with(".json"):
-			var data = Lib.load_file(fp);
-			add_fiche_button(data["nom"], fp, true);
+			#
+			var langs: Array[String] = Lib.get_fiche_langs(fp);
+			#
+			if (Global.current_lang_src in langs) and (Global.current_lang_dst in langs):
+				#
+				add_fiche_button(Lib.get_fiche_nom(fp), fp, true);
 

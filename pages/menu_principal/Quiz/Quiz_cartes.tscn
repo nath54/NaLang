@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=3 uid="uid://pnip32i0k0jn"]
+[gd_scene load_steps=3 format=3 uid="uid://pnip32i0k0jn"]
 
 [ext_resource type="Script" path="res://pages/menu_principal/Quiz/Quiz_cartes.gd" id="1_d43y1"]
+[ext_resource type="PackedScene" uid="uid://cc8kdkafi5mkt" path="res://pages/menu_principal/Quiz/Card.tscn" id="2_4mndf"]
 
 [node name="Quiz_cartes" type="Control"]
 layout_mode = 3
@@ -40,6 +41,7 @@ theme_override_constants/separation = 15
 [node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
 custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
+theme_override_constants/separation = 50
 
 [node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
 layout_mode = 2
@@ -59,9 +61,96 @@ vertical_alignment = 1
 [node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
 custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
+theme_override_constants/separation = 50
+
+[node name="Quiz_State_0" type="VBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="Label" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_0"]
+layout_mode = 2
+text = "Essayez de deviner la traduction de cette carte."
+horizontal_alignment = 1
+
+[node name="Bt_start_quiz" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_0"]
+custom_minimum_size = Vector2(200, 40)
+layout_mode = 2
+text = "commencer le quiz"
+
+[node name="Quiz_State_1" type="VBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="Label" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_1"]
+layout_mode = 2
+text = "Essayez de deviner la traduction de cette carte."
+horizontal_alignment = 1
+
+[node name="Card1" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_1" instance=ExtResource("2_4mndf")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(100, 300)
+layout_mode = 2
+
+[node name="Quiz_State_2" type="VBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="Label" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_2"]
+layout_mode = 2
+text = "Voici la traduction."
+horizontal_alignment = 1
+
+[node name="Card2" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_2" instance=ExtResource("2_4mndf")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(100, 300)
+layout_mode = 2
+
+[node name="Result" type="VBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="Label" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer/Result"]
+layout_mode = 2
+text = "Quel étais votre ressenti sur cette carte ?"
+
+[node name="HFlowContainer" type="HFlowContainer" parent="ScrollContainer/CenterContainer/VBoxContainer/Result"]
+layout_mode = 2
+theme_override_constants/h_separation = 15
+theme_override_constants/v_separation = 15
+alignment = 1
+
+[node name="Bt_0" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/Result/HFlowContainer"]
+self_modulate = Color(1, 0, 0, 1)
+custom_minimum_size = Vector2(150, 40)
+layout_mode = 2
+text = "ne savais pas"
+
+[node name="Bt_5" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/Result/HFlowContainer"]
+self_modulate = Color(1, 0.458824, 0, 1)
+custom_minimum_size = Vector2(150, 40)
+layout_mode = 2
+text = "ça me revient"
+
+[node name="bt_10" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/Result/HFlowContainer"]
+self_modulate = Color(0, 1, 0, 1)
+custom_minimum_size = Vector2(150, 40)
+layout_mode = 2
+text = "le savais"
 
 [node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
 custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
+theme_override_constants/separation = 50
 
 [connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Stop_Quiz" to="." method="_on_bt_stop_quiz_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_0/Bt_start_quiz" to="." method="_on_bt_start_quiz_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Result/HFlowContainer/Bt_0" to="." method="_on_bt_0_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Result/HFlowContainer/Bt_5" to="." method="_on_bt_5_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Result/HFlowContainer/bt_10" to="." method="_on_bt_10_pressed"]

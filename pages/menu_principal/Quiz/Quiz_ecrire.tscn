@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cp4admkoxndm6"]
 
-[ext_resource type="Script" path="res://pages/menu_principal/Quiz/Quiz_cartes.gd" id="1_p213c"]
+[ext_resource type="Script" path="res://pages/menu_principal/Quiz/Quiz_ecrire.gd" id="1_hroky"]
 
 [node name="Quiz_ecrire" type="Control"]
 layout_mode = 3
@@ -9,7 +9,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_p213c")
+script = ExtResource("1_hroky")
 
 [node name="Panel" type="Panel" parent="."]
 layout_mode = 1
@@ -40,6 +40,7 @@ theme_override_constants/separation = 15
 [node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
 custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
+theme_override_constants/separation = 50
 
 [node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
 layout_mode = 2
@@ -59,9 +60,97 @@ vertical_alignment = 1
 [node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
 custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
+theme_override_constants/separation = 50
+
+[node name="Quiz_State_0" type="VBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 50
+
+[node name="Label" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_0"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+text = "Appuyez pour commencer le quiz"
+horizontal_alignment = 1
+autowrap_mode = 2
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_0"]
+layout_mode = 2
+
+[node name="Bt_Start_quiz" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_0/CenterContainer"]
+custom_minimum_size = Vector2(200, 40)
+layout_mode = 2
+text = "Commencer"
+
+[node name="Quiz_State_1" type="VBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 50
+
+[node name="Label_Question" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_1"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+text = "Veuillez traduire en __: _____"
+autowrap_mode = 2
+
+[node name="LineEdit" type="LineEdit" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_1"]
+unique_name_in_owner = true
+layout_mode = 2
+placeholder_text = "Votre réponse ici"
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_1"]
+layout_mode = 2
+
+[node name="Bt_Validate" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_1/CenterContainer"]
+custom_minimum_size = Vector2(100, 40)
+layout_mode = 2
+text = "valider"
+
+[node name="Quiz_State_2" type="VBoxContainer" parent="ScrollContainer/CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="Label_Reponse" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_2"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+text = "La traduction de __ (__) en (__) est : __"
+autowrap_mode = 2
+
+[node name="Label_Votre_Reponse" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_2"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+text = "Votre réponse était : "
+autowrap_mode = 2
+
+[node name="Label_Score" type="Label" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_2"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+text = "Score : 0"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 2
+
+[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_2"]
+layout_mode = 2
+
+[node name="Bt_Next_Question" type="Button" parent="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_2/CenterContainer"]
+custom_minimum_size = Vector2(200, 40)
+layout_mode = 2
+text = "question suivante"
 
 [node name="HSeparator3" type="HSeparator" parent="ScrollContainer/CenterContainer/VBoxContainer"]
 custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
+theme_override_constants/separation = 50
 
 [connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/HBoxContainer/Bt_Stop_Quiz" to="." method="_on_bt_stop_quiz_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_0/CenterContainer/Bt_Start_quiz" to="." method="_on_bt_start_quiz_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_1/CenterContainer/Bt_Validate" to="." method="_on_bt_validate_pressed"]
+[connection signal="pressed" from="ScrollContainer/CenterContainer/VBoxContainer/Quiz_State_2/CenterContainer/Bt_Next_Question" to="." method="_on_bt_next_question_pressed"]

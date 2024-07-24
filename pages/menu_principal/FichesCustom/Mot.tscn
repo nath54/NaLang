@@ -12,6 +12,7 @@ theme_override_styles/panel = ExtResource("1_ah80h")
 script = ExtResource("1_i4ui2")
 
 [node name="texte" type="Label" parent="."]
+custom_minimum_size = Vector2(50, 0)
 layout_mode = 2
 size_flags_vertical = 6
 text = "Mot"

@@ -4,9 +4,8 @@ extends Control
 """
 Quiz states:
 	0: non started
-	1: started, card 1 displayed
-	2: started, card 2 displayed
-	3: started, result buttons displayed
+	1: started, question with input displayed
+	2: started, answer with score displayed
 """
 var current_quiz_state: int = 0;
 
@@ -46,9 +45,37 @@ func next_stage_quiz() -> void:
 			init_quiz_display();
 	elif current_quiz_state == 1:
 		current_quiz_state = 2;
+		#
+		var user_input: String = %LineEdit.text;
+		var user_input_traited: String = Lib.traite_txt(user_input);
+		var score: float = 0.0;
+		# Affichage de votre réponse
+		%Label_Votre_Reponse.text = "Votre réponse était : %s" % [user_input];
+		#
+		var txt_src: String = "; ".join(PackedStringArray(Global.quiz_all_elements[Global.current_quiz_element][Global.current_lang_src]));
+		var txt_dst: String = "; ".join(PackedStringArray(Global.quiz_all_elements[Global.current_quiz_element][Global.current_lang_dst]));
+		#
+		if Global.current_quiz_question_sens == Global.QUIZ_SENS_SRC_DST:
+			# Calcul du score
+			for sol in Global.quiz_all_elements[Global.current_quiz_element][Global.current_lang_dst]:
+				var sol_score: float = 1.0 - Lib.normalized_levenshtein_distance(user_input_traited, Lib.traite_txt(sol));
+				if sol_score > score:
+					score = sol_score;
+			# Affichage de la bonne réponse
+			%Label_Reponse.text = "La traduction de %s (%s) en (%s) est : %s" % [txt_src, Global.current_lang_src, Global.current_lang_dst, txt_dst];
+		else:
+			# Calcul du score
+			for sol in Global.quiz_all_elements[Global.current_quiz_element][Global.current_lang_dst]:
+				var sol_score: float = 1.0 - Lib.normalized_levenshtein_distance(user_input_traited, Lib.traite_txt(sol));
+				if sol_score > score:
+					score = sol_score;
+			# Affichage de la bonne réponse
+			%Label_Reponse.text = "La traduction de %s (%s) en (%s) est : %s" % [txt_dst, Global.current_lang_dst, Global.current_lang_src, txt_src];
+		# Affichage du score
+		%Label_Score.text = "Score : %.1f" % [score];
+		Global.quiz_score += score;
+	#
 	elif current_quiz_state == 2:
-		current_quiz_state = 3;
-	elif current_quiz_state == 3:
 		if init_quiz_turn():
 			init_quiz_display();
 	#
@@ -60,12 +87,11 @@ func init_quiz_display() -> void:
 	var txt_src: String = "; ".join(PackedStringArray(Global.quiz_all_elements[Global.current_quiz_element][Global.current_lang_src]));
 	var txt_dst: String = "; ".join(PackedStringArray(Global.quiz_all_elements[Global.current_quiz_element][Global.current_lang_dst]));
 	#
+	%LineEdit.text = "";
 	if Global.current_quiz_question_sens == Global.QUIZ_SENS_SRC_DST:
-		%Card1.set_text_content(txt_src, Global.current_lang_src);
-		%Card2.set_text_content(txt_dst, Global.current_lang_dst);
+		%Label_Question.text = "Veuillez traduire en %s: %s" % [Global.current_lang_src, txt_src];
 	else:
-		%Card2.set_text_content(txt_src, Global.current_lang_src);
-		%Card1.set_text_content(txt_dst, Global.current_lang_dst);
+		%Label_Question.text = "Veuillez traduire en %s: %s" % [Global.current_lang_dst, txt_dst];
 
 #
 func update_display() -> void:
@@ -73,7 +99,6 @@ func update_display() -> void:
 	%Quiz_State_0.visible = false;
 	%Quiz_State_1.visible = false;
 	%Quiz_State_2.visible = false;
-	%Result.visible = false;
 	#
 	if current_quiz_state == 0:
 		%Quiz_State_0.visible = true;
@@ -81,30 +106,10 @@ func update_display() -> void:
 		%Quiz_State_1.visible = true;
 	elif current_quiz_state == 2:
 		%Quiz_State_2.visible = true;
-	elif current_quiz_state == 3:
-		%Result.visible = true;
 
 #
 func _on_bt_stop_quiz_pressed() -> void:
 	get_tree().change_scene_to_file("res://pages/menu_principal/Quiz/Quiz_result.tscn");
-
-#
-func _on_bt_0_pressed() -> void:
-	Global.current_quiz_done_elements[Global.current_quiz_element] = 0;
-	Global.quiz_score += 0.0;
-	next_stage_quiz();
-
-#
-func _on_bt_5_pressed() -> void:
-	Global.current_quiz_done_elements[Global.current_quiz_element] = 0.5;
-	Global.quiz_score += 0.5;
-	next_stage_quiz();
-
-#
-func _on_bt_10_pressed() -> void:
-	Global.current_quiz_done_elements[Global.current_quiz_element] = 1.0;
-	Global.quiz_score += 1.0;
-	next_stage_quiz();
 
 #
 func _on_bt_start_quiz_pressed():
@@ -112,6 +117,11 @@ func _on_bt_start_quiz_pressed():
 	Lib.init_quiz_variables();
 	#
 	next_stage_quiz();
-	#
-	%Card1.pressed.connect(next_stage_quiz);
-	%Card2.pressed.connect(next_stage_quiz);
+
+
+func _on_bt_validate_pressed():
+	next_stage_quiz();
+
+
+func _on_bt_next_question_pressed():
+	next_stage_quiz();

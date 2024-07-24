@@ -11,11 +11,11 @@ func _ready() -> void:
 		var data: Dictionary = Lib.load_file(Global.ouverture_fiche);
 		Global.ouverture_fiche = "";
 		#
-		$ScrollContainer/CenterContainer/Container/HBoxContainer2/Titre.text = "Fiche : "+data["nom"];
+		$ScrollContainer/CenterContainer/Container/HBoxContainer2/Titre.text = "Fiche : "+data["name"][Global.current_lang_src];
 		#
 		for elt in data["elements"]:
-			var wds1: Array = elt[0];
-			var wds2: Array = elt[1];
+			var wds1: Array = elt[Global.current_lang_src];
+			var wds2: Array = elt[Global.current_lang_dst];
 			#
 			var eltfiche: EltFiche = elt_node.instantiate();
 			eltfiche.words_1 = wds1;
