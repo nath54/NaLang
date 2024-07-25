@@ -15,9 +15,9 @@ Le participe passé se construit avec la terminaison [b][color=red]-ado[/color][
 
    - Si la terminaison [b][color=red]-ido[/color][/b] est précédé d'une voyelle, il faut un accent sur le [b][color=red]i[/color][/b] de la terminaison. Ceci indique que les deux voyelles sont prononcées séparément.
 
-    [color=blue]Ex :
-        [i]leer → leído[/i]
-        [i]traer → traído[/i][/color]
+	[color=blue]Ex :
+		[i]leer → leído[/i]
+		[i]traer → traído[/i][/color]
 
    - Certains verbes ont des participes passés irréguliers. En voici la liste :
 

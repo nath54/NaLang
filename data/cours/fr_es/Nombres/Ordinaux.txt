@@ -1,0 +1,110 @@
+
+[font_size=30][center][b][color=#0000FF]Les nombres ordinaux en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les nombres ordinaux sont utilisés pour exprimer la position ou le rang d'un élément dans une série. En espagnol, ils sont particulièrement utilisés pour indiquer les étages d'un bâtiment, les siècles, ou encore les positions dans une compétition.
+
+[font_size=24][color=#4B0082]1. Formation des nombres ordinaux[/color][/font_size]
+
+Les nombres ordinaux en espagnol sont similaires à ceux en français, mais avec des terminaisons et des accords différents.
+
+[b]a) Nombres ordinaux de 1 à 10[/b]
+[indent]Ces nombres sont généralement les plus utilisés. Ils s'accordent en genre et en nombre avec le nom qu'ils accompagnent.
+
+[code]
+1º primero / primera [color=#008000](premier / première)[/color]
+2º segundo / segunda [color=#008000](deuxième)[/color]
+3º tercero / tercera [color=#008000](troisième)[/color]
+4º cuarto / cuarta [color=#008000](quatrième)[/color]
+5º quinto / quinta [color=#008000](cinquième)[/color]
+6º sexto / sexta [color=#008000](sixième)[/color]
+7º séptimo / séptima [color=#008000](septième)[/color]
+8º octavo / octava [color=#008000](huitième)[/color]
+9º noveno / novena [color=#008000](neuvième)[/color]
+10º décimo / décima [color=#008000](dixième)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]El tercer piso.[/color] [color=#008000](Le troisième étage.)[/color][/i][/indent]
+
+[b]b) Nombres ordinaux de 11 à 20[/b]
+[indent]À partir de 11, les nombres ordinaux commencent à devenir plus longs.
+
+[code]
+11º undécimo / undécima [color=#008000](onzième)[/color]
+12º duodécimo / duodécima [color=#008000](douzième)[/color]
+13º decimotercero / decimotercera [color=#008000](treizième)[/color]
+14º decimocuarto / decimocuarta [color=#008000](quatorzième)[/color]
+15º decimoquinto / decimoquinta [color=#008000](quinzième)[/color]
+16º decimosexto / decimosexta [color=#008000](seizième)[/color]
+17º decimoséptimo / decimoséptima [color=#008000](dix-septième)[/color]
+18º decimoctavo / decimoctava [color=#008000](dix-huitième)[/color]
+19º decimonoveno / decimonovena [color=#008000](dix-neuvième)[/color]
+20º vigésimo / vigésima [color=#008000](vingtième)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]La decimocuarta edición.[/color] [color=#008000](La quatorzième édition.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Position des nombres ordinaux[/color][/font_size]
+
+En espagnol, les nombres ordinaux se placent généralement avant le nom qu'ils modifient :
+
+[indent]• [color=#0000FF]El primer lugar.[/color] [color=#008000](La première place.)[/color]
+- [color=#0000FF]La segunda vez.[/color] [color=#008000](La deuxième fois.)[/color]
+
+Cependant, lorsqu'ils sont utilisés avec des rois, des papes, ou des siècles, les nombres ordinaux suivent généralement le nom :
+
+• [color=#0000FF]Carlos V.[/color] [color=#008000](Charles Quint.)[/color]
+- [color=#0000FF]Siglo XXI.[/color] [color=#008000](21ème siècle.)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Abréviations des nombres ordinaux[/color][/font_size]
+
+Les nombres ordinaux en espagnol sont souvent abrégés en utilisant des chiffres suivis de "º" pour les masculins et "ª" pour les féminins :
+
+[indent]• 1º primero [color=#008000](1er)[/color]
+- 1ª primera [color=#008000](1ère)[/color]
+
+Pour les autres positions :
+
+• 2º segundo [color=#008000](2ème)[/color]
+- 2ª segunda [color=#008000](2ème)[/color][/indent]
+
+[i]Exemple : [color=#0000FF]Él vino en 2º lugar.[/color] [color=#008000](Il est venu en deuxième place.)[/color][/i]
+
+[font_size=24][color=#4B0082]4. Accords des nombres ordinaux[/color][/font_size]
+
+Les nombres ordinaux en espagnol s'accordent en genre (masculin ou féminin) et en nombre (singulier ou pluriel) avec le nom qu'ils qualifient :
+
+[indent][code]
+1º primero / primera [color=#008000](premier / première)[/color]
+1º primeros / primeras [color=#008000](premiers / premières)[/color]
+3º tercero / tercera [color=#008000](troisième)[/color]
+3º terceros / terceras [color=#008000](troisièmes)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Las primeras páginas.[/color] [color=#008000](Les premières pages.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Utilisation des nombres ordinaux après 20[/color][/font_size]
+
+Au-delà de 20, il est courant d'utiliser les nombres cardinaux (21, 22, etc.) plutôt que les ordinaux, sauf dans des contextes spécifiques comme les siècles, les chapitres de livres, ou les rois et papes.
+
+[indent][code]
+21º vigésimo primero / vigésima primera [color=#008000](vingt et unième)[/color]
+22º vigésimo segundo / vigésima segunda [color=#008000](vingt-deuxième)[/color]
+30º trigésimo / trigésima [color=#008000](trentième)[/color]
+40º cuadragésimo / cuadragésima [color=#008000](quarantième)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]El vigésimo primer siglo.[/color] [color=#008000](Le vingt-et-unième siècle.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les nombres ordinaux s'accordent en genre et en nombre.
+[color=#FF0000]2.[/color] Ils se placent généralement avant le nom qu'ils qualifient.
+[color=#FF0000]3.[/color] Les abréviations utilisent "º" pour le masculin et "ª" pour le féminin.
+[color=#FF0000]4.[/color] Au-delà de 20, on utilise fréquemment les nombres cardinaux.
+[color=#FF0000]5.[/color] L'utilisation des nombres ordinaux peut varier selon le context (rois, siècles, etc.).[/indent]
+
+[center][font_size=18][color=#808080]¡Aprende a usar los números ordinales y mejorarás tu precisión al expresar el orden en español![/color][/font_size][/center]

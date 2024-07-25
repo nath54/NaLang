@@ -1,0 +1,118 @@
+
+[font_size=30][center][b][color=#0000FF]Les conjonctions en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En espagnol, les conjonctions jouent un rôle essentiel, car elles permettent de relier des mots, des phrases ou des parties de phrases. Elles aident à structurer le discours et à exprimer des relations logiques entre les idées.
+
+[font_size=24][color=#4B0082]1. Types de conjonctions[/color][/font_size]
+
+Les conjonctions en espagnol se divisent principalement en deux catégories : les conjonctions de coordination et les conjonctions de subordination. Chacune a une fonction spécifique.
+
+[b]a) Conjonctions de coordination[/b]
+[indent]Les conjonctions de coordination relient des éléments de même nature grammaticale - par exemple, deux adjectifs, deux propositions indépendantes, etc.
+
+[code]
+y [color=#008000](et)[/color]
+o [color=#008000](ou)[/color]
+pero [color=#008000](mais)[/color]
+sino [color=#008000](mais au contraire)[/color]
+ni [color=#008000](ni)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Ella es inteligente y trabajadora.[/color] [color=#008000](Elle est intelligente et travailleuse.)[/color][/i][/indent]
+
+[b]b) Conjonctions de subordination[/b]
+[indent]Les conjonctions de subordination introduisent une proposition subordonnée, qui dépend de la proposition principale pour son sens.
+
+[code]
+que [color=#008000](que)[/color]
+cuando [color=#008000](quand)[/color]
+aunque [color=#008000](bien que)[/color]
+porque [color=#008000](parce que)[/color]
+si [color=#008000](si)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Estudio porque quiero aprender.[/color] [color=#008000](J'étudie parce que je veux apprendre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Conjonctions de coordination[/color][/font_size]
+
+Les conjonctions de coordination les plus courantes en espagnol sont : [color=#FF0000]y[/color], [color=#FF0000]o[/color], [color=#FF0000]pero[/color], [color=#FF0000]sino[/color], [color=#FF0000]ni[/color].
+
+[indent][b]a) Y, e[/b]
+[color=#FF0000]Y[/color] (et) lie des éléments similaires. Attention : elle devient [color=#FF0000]e[/color] devant un mot qui commence par [color=#FF0000]i[/color] ou [color=#FF0000]hi[/color].
+
+[i]Exemple : [color=#0000FF]Tengo un perro e hijos.[/color] [color=#008000](J'ai un chien et des enfants.)[/color][/i][/indent]
+
+[indent][b]b) O, u[/b]
+[color=#FF0000]O[/color] (ou) propose une alternative. Elle devient [color=#FF0000]u[/color] devant un mot qui commence par [color=#FF0000]o[/color] ou [color=#FF0000]ho[/color].
+
+[i]Exemple : [color=#0000FF]¿Quieres café u hojas de té?[/color] [color=#008000](Veux-tu du café ou des feuilles de thé ?)[/color][/i][/indent]
+
+[indent][b]c) Pero[/b]
+[color=#FF0000]Pero[/color] (mais) introduit une opposition ou une restriction.
+
+[i]Exemple : [color=#0000FF]Quiero hacerlo, pero no tengo tiempo.[/color] [color=#008000](Je veux le faire, mais je n'ai pas le temps.)[/color][/i][/indent]
+
+[indent][b]d) Sino[/b]
+[color=#FF0000]Sino[/color] (mais au contraire) s'utilise après une négation pour corriger ou préciser.
+
+[i]Exemple : [color=#0000FF]No estudia física, sino matemáticas.[/color] [color=#008000](Il n'étudie pas la physique, mais les mathématiques.)[/color][/i][/indent]
+
+[indent][b]e) Ni[/b]
+[color=#FF0000]Ni[/color] (ni) est utilisée pour ajouter des éléments dans une phrase négative.
+
+[i]Exemple : [color=#0000FF]No tengo tiempo ni dinero.[/color] [color=#008000](Je n'ai ni le temps ni l'argent.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Conjonctions de subordination[/color][/font_size]
+
+Les conjonctions de subordination les plus communes sont : [color=#FF0000]que[/color], [color=#FF0000]cuando[/color], [color=#FF0000]aunque[/color], [color=#FF0000]porque[/color], [color=#FF0000]si[/color].
+
+[indent][b]a) Que[/b]
+[color=#FF0000]Que[/color] (que) introduit une proposition subordonnée.
+
+[i]Exemple : [color=#0000FF]Sé que tienes razón.[/color] [color=#008000](Je sais que tu as raison.)[/color][/i][/indent]
+
+[indent][b]b) Cuando[/b]
+[color=#FF0000]Cuando[/color] (quand) indique le moment où se déroule l'action de la principale.
+
+[i]Exemple : [color=#0000FF]Llámame cuando llegues.[/color] [color=#008000](Appelle-moi quand tu arrives.)[/color][/i][/indent]
+
+[indent][b]c) Aunque[/b]
+[color=#FF0000]Aunque[/color] (bien que, même si) exprime une concession ou une opposition.
+
+[i]Exemple : [color=#0000FF]Saldré aunque llueva.[/color] [color=#008000](Je sortirai bien qu'il pleuve.)[/color][/i][/indent]
+
+[indent][b]d) Porque[/b]
+[color=#FF0000]Porque[/color] (parce que) donne la raison de la principale.
+
+[i]Exemple : [color=#0000FF]No vine porque estaba enfermo.[/color] [color=#008000](Je ne suis pas venu parce que j'étais malade.)[/color][/i][/indent]
+
+[indent][b]e) Si[/b]
+[color=#FF0000]Si[/color] (si) introduit une condition.
+
+[i]Exemple : [color=#0000FF]Si estudias, aprobarás el examen.[/color] [color=#008000](Si tu étudies, tu réussiras l'examen.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Autres conjonctions utiles[/color][/font_size]
+
+Il existe de nombreuses autres conjonctions en espagnol qui peuvent enrichir votre discours :
+
+[indent][b]Además[/b] (en plus)
+[b]Sin embargo[/b] (cependant)
+[b]Por lo tanto[/b] (donc)
+[b]A menos que[/b] (à moins que)
+[b]Mientras[/b] (pendant, tant que)
+
+[i]Exemple : [color=#0000FF]Además, él es muy amable.[/color] [color=#008000](En plus, il est très aimable.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les conjonctions de coordination relient des éléments de même nature grammaticale.
+[color=#FF0000]2.[/color] Les conjonctions de subordination introduisent des propositions subordonnées.
+[color=#FF0000]3.[/color] Les conjonctions [color=#FF0000]y[/color] et [color=#FF0000]o[/color] peuvent changer en [color=#FF0000]e[/color] et [color=#FF0000]u[/color] respectivement, selon le contexte phonétique.
+[color=#FF0000]4.[/color] Les conjonctions enrichissent le discours et aident à exprimer des relations logiques entre les idées.
+[color=#FF0000]5.[/color] Maîtriser les conjonctions permet une utilisation plus fluide et naturelle de la langue espagnole.[/indent]
+
+[center][font_size=18][color=#808080]¡Usa las conjunciones correctamente y tu español será más claro y cohesivo![/color][/font_size][/center]

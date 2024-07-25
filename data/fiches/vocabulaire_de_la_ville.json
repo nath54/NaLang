@@ -1,0 +1,220 @@
+{
+    "name": {
+        "es": "La ciudad y los edificios",
+        "fr": "La ville et les bâtiments",
+        "en": "The city and buildings",
+        "cn": "城市和建筑 chéng shì hé jiàn zhù",
+        "de": "Die Stadt und die Gebäude",
+        "ja": "都市と建物 toshi to tatemono"
+    },
+    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "elements": [{
+            "es": ["Ciudad"],
+            "fr": ["Ville"],
+            "en": ["City", "Town"],
+            "cn": ["城市", "chéng shì"],
+            "de": ["Stadt"],
+            "ja": ["都市", "とし toshi"]
+        },
+        {
+            "es": ["Edificio"],
+            "fr": ["Bâtiment"],
+            "en": ["Building"],
+            "cn": ["建筑", "jiàn zhù"],
+            "de": ["Gebäude"],
+            "ja": ["建物", "たてもの tatemono"]
+        },
+        {
+            "es": ["Centro"],
+            "fr": ["Centre-ville"],
+            "en": ["Downtown", "City center"],
+            "cn": ["市中心", "shì zhōng xīn"],
+            "de": ["Stadtzentrum"],
+            "ja": ["中心地", "ちゅうしんち chūshinchi"]
+        },
+        {
+            "es": ["Barrio"],
+            "fr": ["Quartier"],
+            "en": ["Neighborhood", "District"],
+            "cn": ["街区", "jiē qū", "社区", "shè qū"],
+            "de": ["Viertel"],
+            "ja": ["地区", "ちく chiku"]
+        },
+        {
+            "es": ["Calle"],
+            "fr": ["Rue"],
+            "en": ["Street", "Road"],
+            "cn": ["街道", "jiē dào"],
+            "de": ["Straße"],
+            "ja": ["通り", "とおり toori"]
+        },
+        {
+            "es": ["Avenida"],
+            "fr": ["Avenue"],
+            "en": ["Avenue"],
+            "cn": ["大道", "dà dào"],
+            "de": ["Allee"],
+            "ja": ["大通り", "おおどおり ōdōri"]
+        },
+        {
+            "es": ["Plaza"],
+            "fr": ["Place"],
+            "en": ["Square", "Plaza"],
+            "cn": ["广场", "guǎng chǎng"],
+            "de": ["Platz"],
+            "ja": ["広場", "ひろば hiroba"]
+        },
+        {
+            "es": ["Parque"],
+            "fr": ["Parc"],
+            "en": ["Park"],
+            "cn": ["公园", "gōng yuán"],
+            "de": ["Park"],
+            "ja": ["公園", "こうえん kōen"]
+        },
+        {
+            "es": ["Estación de tren"],
+            "fr": ["Gare"],
+            "en": ["Train station"],
+            "cn": ["火车站", "huǒ chē zhàn"],
+            "de": ["Bahnhof"],
+            "ja": ["駅", "えき eki"]
+        },
+        {
+            "es": ["Estación de autobuses"],
+            "fr": ["Gare routière"],
+            "en": ["Bus station"],
+            "cn": ["汽车站", "qì chē zhàn"],
+            "de": ["Busbahnhof"],
+            "ja": ["バス停", "バスてい basutei"]
+        },
+        {
+            "es": ["Metro"],
+            "fr": ["Métro"],
+            "en": ["Subway", "Metro"],
+            "cn": ["地铁", "dì tiě"],
+            "de": ["U-Bahn"],
+            "ja": ["地下鉄", "ちかてつ chikatetsu"]
+        },
+        {
+            "es": ["Aeropuerto"],
+            "fr": ["Aéroport"],
+            "en": ["Airport"],
+            "cn": ["机场", "jī chǎng"],
+            "de": ["Flughafen"],
+            "ja": ["空港", "くうこう kūkō"]
+        },
+        {
+            "es": ["Puente"],
+            "fr": ["Pont"],
+            "en": ["Bridge"],
+            "cn": ["桥", "qiáo"],
+            "de": ["Brücke"],
+            "ja": ["橋", "はし hashi"]
+        },
+        {
+            "es": ["Hospital"],
+            "fr": ["Hôpital"],
+            "en": ["Hospital"],
+            "cn": ["医院", "yī yuàn"],
+            "de": ["Krankenhaus"],
+            "ja": ["病院", "びょういん byōin"]
+        },
+        {
+            "es": ["Escuela"],
+            "fr": ["École"],
+            "en": ["School"],
+            "cn": ["学校", "xué xiào"],
+            "de": ["Schule"],
+            "ja": ["学校", "がっこう gakkou"]
+        },
+        {
+            "es": ["Universidad"],
+            "fr": ["Université"],
+            "en": ["University"],
+            "cn": ["大学", "dà xué"],
+            "de": ["Universität"],
+            "ja": ["大学", "だいがく daigaku"]
+        },
+        {
+            "es": ["Biblioteca"],
+            "fr": ["Bibliothèque"],
+            "en": ["Library"],
+            "cn": ["图书馆", "tú shū guǎn"],
+            "de": ["Bibliothek"],
+            "ja": ["図書館", "としょかん toshokan"]
+        },
+        {
+            "es": ["Museo"],
+            "fr": ["Musée"],
+            "en": ["Museum"],
+            "cn": ["博物馆", "bó wù guǎn"],
+            "de": ["Museum"],
+            "ja": ["博物館", "はくぶつかん hakubutsukan"]
+        },
+        {
+            "es": ["Teatro"],
+            "fr": ["Théâtre"],
+            "en": ["Theater"],
+            "cn": ["剧院", "jù yuàn"],
+            "de": ["Theater"],
+            "ja": ["劇場", "げきじょう gekijou"]
+        },
+        {
+            "es": ["Cine"],
+            "fr": ["Cinéma"],
+            "en": ["Cinema", "Movie theater"],
+            "cn": ["电影院", "diàn yǐng yuàn"],
+            "de": ["Kino"],
+            "ja": ["映画館", "えいがかん eigakan"]
+        },
+        {
+            "es": ["Restaurante"],
+            "fr": ["Restaurant"],
+            "en": ["Restaurant"],
+            "cn": ["餐馆", "cān guǎn"],
+            "de": ["Restaurant"],
+            "ja": ["レストラン", "レストラン resutoran"]
+        },
+        {
+            "es": ["Hotel"],
+            "fr": ["Hôtel"],
+            "en": ["Hotel"],
+            "cn": ["酒店", "jiǔ diàn"],
+            "de": ["Hotel"],
+            "ja": ["ホテル", "ホテル hoteru"]
+        },
+        {
+            "es": ["Mercado"],
+            "fr": ["Marché"],
+            "en": ["Market"],
+            "cn": ["市场", "shì chǎng"],
+            "de": ["Markt"],
+            "ja": ["市場", "いちば ichiba"]
+        },
+        {
+            "es": ["Supermercado"],
+            "fr": ["Supermarché"],
+            "en": ["Supermarket"],
+            "cn": ["超市", "chāo shì"],
+            "de": ["Supermarkt"],
+            "ja": ["スーパーマーケット", "スーパーマーケット sūpāmāketto"]
+        },
+        {
+            "es": ["Tienda"],
+            "fr": ["Magasin"],
+            "en": ["Store", "Shop"],
+            "cn": ["商店", "shāng diàn"],
+            "de": ["Geschäft", "Laden"],
+            "ja": ["店", "みせ mise"]
+        },
+        {
+            "es": ["Banco"],
+            "fr": ["Banque"],
+            "en": ["Bank"],
+            "cn": ["银行", "yín háng"],
+            "de": ["Bank"],
+            "ja": ["銀行", "ぎんこう ginkou"]
+        }
+    ]
+}

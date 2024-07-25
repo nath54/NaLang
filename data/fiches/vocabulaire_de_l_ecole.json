@@ -1,0 +1,164 @@
+{
+    "name": {
+        "es": "Vocabulario de la escuela",
+        "fr": "Vocabulaire de l'école",
+        "en": "School Vocabulary",
+        "cn": "学校词汇 xue xiao ci hui",
+        "de": "Schulvokabular",
+        "ja": "学校の語彙 gakkou no goi"
+    },
+    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "elements": [{
+            "es": ["La escuela", "El colegio"],
+            "fr": ["L'école"],
+            "en": ["School"],
+            "cn": ["学校", "xue xiao"],
+            "de": ["Schule"],
+            "ja": ["学校", "gakkou"]
+        },
+        {
+            "es": ["El estudiante", "El alumno"],
+            "fr": ["L'étudiant", "L'élève"],
+            "en": ["Student", "Pupil"],
+            "cn": ["学生", "xue sheng"],
+            "de": ["Schüler", "Student"],
+            "ja": ["学生", "gakusei"]
+        },
+        {
+            "es": ["El profesor", "El maestro"],
+            "fr": ["Le professeur", "L'enseignant"],
+            "en": ["Teacher"],
+            "cn": ["老师", "lao shi"],
+            "de": ["Lehrer"],
+            "ja": ["先生", "sensei"]
+        },
+        {
+            "es": ["La clase", "El aula"],
+            "fr": ["La classe", "La salle de classe"],
+            "en": ["Class", "Classroom"],
+            "cn": ["班级", "教室", "ban ji", "jiao shi"],
+            "de": ["Klasse", "Klassenzimmer"],
+            "ja": ["クラス", "教室", "kurasu", "kyoushitsu"]
+        },
+        {
+            "es": ["El libro", "El manual"],
+            "fr": ["Le livre", "Le manuel"],
+            "en": ["Book", "Textbook"],
+            "cn": ["书", "教科书", "shu", "jiaokeshu"],
+            "de": ["Buch", "Lehrbuch"],
+            "ja": ["本", "教科書", "hon", "kyoukasho"]
+        },
+        {
+            "es": ["El cuaderno"],
+            "fr": ["Le cahier"],
+            "en": ["Notebook"],
+            "cn": ["笔记本", "bijiben"],
+            "de": ["Notizbuch", "Heft"],
+            "ja": ["ノート", "nooto"]
+        },
+        {
+            "es": ["El lápiz"],
+            "fr": ["Le crayon"],
+            "en": ["Pencil"],
+            "cn": ["铅笔", "qianbi"],
+            "de": ["Bleistift"],
+            "ja": ["鉛筆", "enpitsu"]
+        },
+        {
+            "es": ["El bolígrafo", "La pluma"],
+            "fr": ["Le stylo"],
+            "en": ["Pen"],
+            "cn": ["钢笔", "gangbi"],
+            "de": ["Stift", "Kugelschreiber"],
+            "ja": ["ペン", "pen"]
+        },
+        {
+            "es": ["La pizarra"],
+            "fr": ["Le tableau"],
+            "en": ["Blackboard", "Whiteboard"],
+            "cn": ["黑板", "白板", "heiban", "baiban"],
+            "de": ["Tafel"],
+            "ja": ["黒板", "ホワイトボード", "kokuban", "howaito boodo"]
+        },
+        {
+            "es": ["La tiza"],
+            "fr": ["La craie"],
+            "en": ["Chalk"],
+            "cn": ["粉笔", "fenbi"],
+            "de": ["Kreide"],
+            "ja": ["チョーク", "chooku"]
+        },
+        {
+            "es": ["La mesa", "El escritorio"],
+            "fr": ["La table", "Le bureau"],
+            "en": ["Desk"],
+            "cn": ["桌子", "zhuozi"],
+            "de": ["Tisch", "Schreibtisch"],
+            "ja": ["机", "tsukue"]
+        },
+        {
+            "es": ["La silla"],
+            "fr": ["La chaise"],
+            "en": ["Chair"],
+            "cn": ["椅子", "yizi"],
+            "de": ["Stuhl"],
+            "ja": ["椅子", "isu"]
+        },
+        {
+            "es": ["La mochila"],
+            "fr": ["Le sac à dos"],
+            "en": ["Backpack"],
+            "cn": ["背包", "beibao"],
+            "de": ["Rucksack"],
+            "ja": ["リュックサック", "ryukkusakku"]
+        },
+        {
+            "es": ["El examen", "La prueba"],
+            "fr": ["L'examen", "Le test"],
+            "en": ["Exam", "Test"],
+            "cn": ["考试", "考", "kaoshi", "kao"],
+            "de": ["Prüfung", "Test"],
+            "ja": ["試験", "テスト", "shiken", "tesuto"]
+        },
+        {
+            "es": ["El recreo", "El descanso"],
+            "fr": ["La récréation", "La pause"],
+            "en": ["Recess", "Break"],
+            "cn": ["休息", "xiuxi"],
+            "de": ["Pause"],
+            "ja": ["休み時間", "yasumi jikan"]
+        },
+        {
+            "es": ["La biblioteca"],
+            "fr": ["La bibliothèque"],
+            "en": ["Library"],
+            "cn": ["图书馆", "tushuguan"],
+            "de": ["Bibliothek"],
+            "ja": ["図書館", "toshokan"]
+        },
+        {
+            "es": ["El gimnasio"],
+            "fr": ["Le gymnase"],
+            "en": ["Gym", "Gymnasium"],
+            "cn": ["体育馆", "tiyuguan"],
+            "de": ["Turnhalle", "Fitnessstudio"],
+            "ja": ["体育館", "taiikukan"]
+        },
+        {
+            "es": ["El patio de recreo"],
+            "fr": ["La cour de récréation"],
+            "en": ["Playground"],
+            "cn": ["操场", "caochang"],
+            "de": ["Spielplatz", "Schulhof"],
+            "ja": ["遊び場", "asobiba"]
+        },
+        {
+            "es": ["El director", "La directora"],
+            "fr": ["Le directeur", "La directrice"],
+            "en": ["Principal", "Headmaster", "Headmistress"],
+            "cn": ["校长", "xiao zhang"],
+            "de": ["Schulleiter", "Schulleiterin"],
+            "ja": ["校長", "kouchou"]
+        }
+    ]
+}

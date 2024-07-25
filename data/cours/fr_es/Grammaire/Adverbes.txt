@@ -1,0 +1,139 @@
+[font_size=30][center][b][color=#0000FF]Les adverbes en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les adverbes en espagnol jouent un rôle crucial dans la construction des phrases, permettant de modifier ou de préciser le sens des verbes, des adjectifs, ou même d'autres adverbes. Contrairement aux adjectifs, les adverbes sont invariables, ce qui simplifie leur utilisation mais rend d'autant plus important de bien comprendre leur fonction et leur placement dans la phrase.
+
+[font_size=24][color=#4B0082]1. Types d'adverbes[/color][/font_size]
+
+En espagnol, on distingue plusieurs catégories d'adverbes, chacune ayant une fonction spécifique dans la phrase :
+
+[b]a) Adverbes de manière[/b]
+[indent]Ces adverbes décrivent comment une action est réalisée. Beaucoup d'entre eux se terminent par [color=#FF0000]-mente[/color], équivalent au "-ment" français.
+
+[code]
+rápidamente [color=#008000](rapidement)[/color]
+bien [color=#008000](bien)[/color]
+mal [color=#008000](mal)[/color]
+despacio [color=#008000](lentement)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Habla rápidamente.[/color] [color=#008000](Il parle rapidement.)[/color][/i]
+
+Les adverbes en [color=#FF0000]-mente[/color] se forment à partir de l'adjectif féminin : [color=#0000FF]rápida + mente = rápidamente[/color][/indent]
+
+[b]b) Adverbes de temps[/b]
+[indent]Ils indiquent quand une action se déroule.
+
+[code]
+hoy [color=#008000](aujourd'hui)[/color]
+ayer [color=#008000](hier)[/color]
+mañana [color=#008000](demain)[/color]
+siempre [color=#008000](toujours)[/color]
+nunca [color=#008000](jamais)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Nunca como carne.[/color] [color=#008000](Je ne mange jamais de viande.)[/color][/i][/indent]
+
+[b]c) Adverbes de lieu[/b]
+[indent]Ces adverbes précisent où se passe l'action.
+
+[code]
+aquí [color=#008000](ici)[/color]
+allí [color=#008000](là-bas)[/color]
+cerca [color=#008000](près)[/color]
+lejos [color=#008000](loin)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Vivo cerca de la playa.[/color] [color=#008000](Je vis près de la plage.)[/color][/i][/indent]
+
+[b]d) Adverbes de quantité[/b]
+[indent]Ils expriment une quantité ou un degré.
+
+[code]
+mucho [color=#008000](beaucoup)[/color]
+poco [color=#008000](peu)[/color]
+bastante [color=#008000](assez)[/color]
+demasiado [color=#008000](trop)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Come demasiado rápido.[/color] [color=#008000](Il mange trop vite.)[/color][/i][/indent]
+
+[b]e) Adverbes d'affirmation, de négation et de doute[/b]
+[indent][code]
+sí [color=#008000](oui)[/color]
+no [color=#008000](non)[/color]
+quizás [color=#008000](peut-être)[/color]
+probablemente [color=#008000](probablement)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Quizás venga mañana.[/color] [color=#008000](Peut-être viendra-t-il demain.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Position des adverbes[/color][/font_size]
+
+La position des adverbes en espagnol est plus flexible qu'en français, mais il existe quelques règles générales :
+
+[indent]• Les adverbes modifiant un verbe se placent généralement [u]après[/u] celui-ci :
+[color=#0000FF]Corre rápidamente.[/color] [color=#008000](Il court rapidement.)[/color]
+
+- Les adverbes modifiant un adjectif ou un autre adverbe se placent [u]avant[/u] :
+[color=#0000FF]Es muy inteligente.[/color] [color=#008000](Il est très intelligent.)[/color]
+
+- Les adverbes de temps et de lieu peuvent souvent être placés en début ou en fin de phrase pour l'emphase :
+[color=#0000FF]Mañana iré al cine.[/color] [color=#008000](Demain, j'irai au cinéma.)[/color]
+[color=#0000FF]Iré al cine mañana.[/color] [color=#008000](J'irai au cinéma demain.)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Degrés des adverbes[/color][/font_size]
+
+Comme les adjectifs, certains adverbes peuvent avoir des degrés de comparaison :
+
+[b]a) Comparatif[/b]
+[indent]• Supériorité : [color=#FF0000]más ... que[/color] [color=#008000](plus ... que)[/color]
+- Infériorité : [color=#FF0000]menos ... que[/color] [color=#008000](moins ... que)[/color]
+- Égalité : [color=#FF0000]tan ... como[/color] [color=#008000](aussi ... que)[/color]
+
+[i]Exemple : [color=#0000FF]Habla más rápidamente que yo.[/color] [color=#008000](Il parle plus rapidement que moi.)[/color][/i][/indent]
+
+[b]b) Superlatif[/b]
+[indent]• [color=#FF0000]lo más[/color] [color=#008000](le plus)[/color]
+- [color=#FF0000]lo menos[/color] [color=#008000](le moins)[/color]
+
+[i]Exemple : [color=#0000FF]Corre lo más rápidamente posible.[/color] [color=#008000](Il court le plus rapidement possible.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Adverbes irréguliers[/color][/font_size]
+
+Certains adverbes ont des formes comparatives et superlatives irrégulières :
+
+[indent][code]
+bien [color=#008000](bien)[/color] → mejor [color=#008000](mieux)[/color]
+mal [color=#008000](mal)[/color] → peor [color=#008000](pire)[/color]
+mucho [color=#008000](beaucoup)[/color] → más [color=#008000](plus)[/color]
+poco [color=#008000](peu)[/color] → menos [color=#008000](moins)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Lo hizo mejor que ayer.[/color] [color=#008000](Il l'a fait mieux qu'hier.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Adverbes composés[/color][/font_size]
+
+L'espagnol utilise souvent des locutions adverbiales, composées de plusieurs mots :
+
+[indent][code]
+a menudo [color=#008000](souvent)[/color]
+de repente [color=#008000](soudainement)[/color]
+por supuesto [color=#008000](bien sûr)[/color]
+sin embargo [color=#008000](cependant)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]De repente, empezó a llover.[/color] [color=#008000](Soudainement, il a commencé à pleuvoir.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les adverbes sont invariables en genre et en nombre.
+[color=#FF0000]2.[/color] Les adverbes en [color=#FF0000]-mente[/color] se forment à partir de l'adjectif féminin.
+[color=#FF0000]3.[/color] La position des adverbes est flexible, mais suit généralement des règles logiques selon le mot modifié.
+[color=#FF0000]4.[/color] Les degrés de comparaison des adverbes sont similaires à ceux des adjectifs.
+[color=#FF0000]5.[/color] Certains adverbes courants ont des formes comparatives irrégulières.[/indent]
+
+[center][font_size=18][color=#808080]¡Usa los adverbios correctamente y tu español sonará más natural y fluido![/color][/font_size][/center]

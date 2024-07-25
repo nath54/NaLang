@@ -1,189 +1,372 @@
 {
 	"name": {
 		"es": "Etapas de la vida social",
-		"fr": "Les étapes de la vie sociale"
+		"fr": "Les étapes de la vie sociale",
+		"en": "Stages of social life",
+		"cn": "社会生活阶段 (she hui sheng huo jie duan)",
+		"de": "Phasen des sozialen Lebens",
+		"ja": "社会生活のステージ (shakai seikatsu no suteeji)"
 	},
-	"langs": ["es", "fr"],
-	"elements": [
-		{
+	"langs": ["es", "fr", "en", "cn", "de", "ja"],
+	"elements": [{
 			"es": ["El estado civil"],
-			"fr": ["L’état civil"]
+			"fr": ["L’état civil"],
+			"en": ["Marital status"],
+			"cn": ["婚姻状况", "hun yin zhuang kuang"],
+			"de": ["Familienstand"],
+			"ja": ["婚姻状況", "kon in jou kyo"]
 		},
 		{
 			"es": ["El registro civil"],
-			"fr": ["Le registre civil"]
+			"fr": ["Le registre civil"],
+			"en": ["Civil registration"],
+			"cn": ["户口登记", "hu kou deng ji"],
+			"de": ["Standesamt"],
+			"ja": ["戸籍登録", "ko seki tou roku"]
 		},
 		{
 			"es": ["La partida de matrimonio"],
-			"fr": ["L’acte de mariage"]
+			"fr": ["L’acte de mariage"],
+			"en": ["Marriage certificate"],
+			"cn": ["结婚证书", "jie hun zheng shu"],
+			"de": ["Heiratsurkunde"],
+			"ja": ["結婚証明書", "kekkon shou mei sho"]
 		},
 		{
 			"es": ["El libro de familia"],
-			"fr": ["Le livret de famille"]
+			"fr": ["Le livret de famille"],
+			"en": ["Family record book"],
+			"cn": ["家庭记录簿", "jia ting ji lu bu"],
+			"de": ["Familienstammbuch"],
+			"ja": ["家族手帳", "kazoku techou"]
 		},
 		{
 			"es": ["El registro de nacimiento"],
-			"fr": ["La déclaration de naissance"]
+			"fr": ["La déclaration de naissance"],
+			"en": ["Birth registration"],
+			"cn": ["出生登记", "chu sheng deng ji"],
+			"de": ["Geburtsanzeige"],
+			"ja": ["出生届", "shusshou todoke"]
 		},
 		{
 			"es": ["La partida de nacimiento"],
-			"fr": ["L’acte de naissance"]
+			"fr": ["L’acte de naissance"],
+			"en": ["Birth certificate"],
+			"cn": ["出生证", "chu sheng zheng"],
+			"de": ["Geburtsurkunde"],
+			"ja": ["出生証明書", "shusshou shou mei sho"]
 		},
 		{
 			"es": ["La soltería"],
-			"fr": ["Le célibat"]
+			"fr": ["Le célibat"],
+			"en": ["Singlehood"],
+			"cn": ["单身", "dan shen"],
+			"de": ["Single-Dasein"],
+			"ja": ["独身", "doku shin"]
 		},
 		{
 			"es": ["Un soltero"],
-			"fr": ["Un célibataire"]
+			"fr": ["Un célibataire"],
+			"en": ["A single man"],
+			"cn": ["单身男子", "dan shen nan zi"],
+			"de": ["Ein Single-Mann"],
+			"ja": ["独身男性", "doku shin dansei"]
 		},
 		{
 			"es": ["Una soltera"],
-			"fr": ["Une célibataire"]
+			"fr": ["Une célibataire"],
+			"en": ["A single woman"],
+			"cn": ["单身女子", "dan shen nü zi"],
+			"de": ["Eine Single-Frau"],
+			"ja": ["独身女性", "doku shin josei"]
 		},
 		{
 			"es": ["Enamorarse con"],
-			"fr": ["Tomber amoureux de"]
+			"fr": ["Tomber amoureux de"],
+			"en": ["To fall in love with"],
+			"cn": ["爱上", "ai shang"],
+			"de": ["Sich verlieben in"],
+			"ja": ["恋に落ちる", "koi ni ochiru"]
 		},
 		{
 			"es": ["Declararse"],
-			"fr": ["Se déclarer"]
+			"fr": ["Se déclarer"],
+			"en": ["To declare oneself"],
+			"cn": ["示爱", "shi ai"],
+			"de": ["Sich erklären"],
+			"ja": ["告白する", "kokuhaku suru"]
 		},
 		{
 			"es": ["El noviazgo"],
-			"fr": ["Les fiançailles"]
+			"fr": ["Les fiançailles"],
+			"en": ["Engagement"],
+			"cn": ["订婚", "ding hun"],
+			"de": ["Verlobung"],
+			"ja": ["婚約", "kon yaku"]
 		},
 		{
 			"es": ["Los novios"],
-			"fr": ["Les fiancés", "Les jeunes mariés"]
+			"fr": ["Les fiancés", "Les jeunes mariés"],
+			"en": ["The engaged couple", "The newlyweds"],
+			"cn": ["未婚夫妇", "wei hun fu fu", "新婚夫妇", "xin hun fu fu"],
+			"de": ["Das verlobte Paar", "Das frisch verheiratete Paar"],
+			"ja": ["婚約者", "kon yaku sha", "新婚夫婦", "shin kon fu fu"]
 		},
 		{
 			"es": ["Casarse con"],
-			"fr": ["Se marier avec"]
+			"fr": ["Se marier avec"],
+			"en": ["To marry"],
+			"cn": ["结婚", "jie hun"],
+			"de": ["Heiraten"],
+			"ja": ["結婚する", "kekkon suru"]
 		},
 		{
 			"es": ["Casarse con alguien por lo civil"],
-			"fr": ["Se marier avec quelqu’un au civil"]
+			"fr": ["Se marier avec quelqu’un au civil"],
+			"en": ["To marry someone civilly"],
+			"cn": ["民事结婚", "min shi jie hun"],
+			"de": ["Jemanden zivil heiraten"],
+			"ja": ["民事結婚する", "min ji kekkon suru"]
 		},
 		{
 			"es": ["Casarse con alguien por la Iglesia"],
-			"fr": ["Se marier avec quelqu’un à l’Eglise"]
+			"fr": ["Se marier avec quelqu’un à l’Eglise"],
+			"en": ["To marry someone in the church"],
+			"cn": ["教堂结婚", "jiao tang jie hun"],
+			"de": ["Kirchlich heiraten"],
+			"ja": ["教会で結婚する", "kyoukai de kekkon suru"]
 		},
 		{
 			"es": ["El matrimonio"],
-			"fr": ["Le mariage"]
+			"fr": ["Le mariage"],
+			"en": ["Marriage"],
+			"cn": ["婚姻", "hun yin"],
+			"de": ["Ehe"],
+			"ja": ["結婚", "kekkon"]
 		},
 		{
 			"es": ["El matrimonio civil"],
-			"fr": ["Le mariage civil"]
+			"fr": ["Le mariage civil"],
+			"en": ["Civil marriage"],
+			"cn": ["民事婚姻", "min shi hun yin"],
+			"de": ["Zivilehe"],
+			"ja": ["市民結婚", "shimin kekkon"]
 		},
 		{
 			"es": ["El matrimonio canónico"],
-			"fr": ["Le mariage religieux"]
+			"fr": ["Le mariage religieux"],
+			"en": ["Canonical marriage"],
+			"cn": ["宗教婚姻", "zong jiao hun yin"],
+			"de": ["Kirchliche Ehe"],
+			"ja": ["宗教結婚", "shukyou kekkon"]
 		},
 		{
 			"es": ["El marido"],
-			"fr": ["Le mari"]
+			"fr": ["Le mari"],
+			"en": ["Husband"],
+			"cn": ["丈夫", "zhang fu"],
+			"de": ["Ehemann"],
+			"ja": ["夫", "otto"]
 		},
 		{
 			"es": ["La mujer"],
-			"fr": ["La femme"]
+			"fr": ["La femme"],
+			"en": ["Wife"],
+			"cn": ["妻子", "qi zi"],
+			"de": ["Ehefrau"],
+			"ja": ["妻", "tsuma"]
 		},
 		{
 			"es": ["El esposo"],
-			"fr": ["L’époux"]
+			"fr": ["L’époux"],
+			"en": ["Husband"],
+			"cn": ["丈夫", "zhang fu"],
+			"de": ["Ehemann"],
+			"ja": ["夫", "otto"]
 		},
 		{
 			"es": ["La esposa"],
-			"fr": ["L’épouse"]
+			"fr": ["L’épouse"],
+			"en": ["Wife"],
+			"cn": ["妻子", "qi zi"],
+			"de": ["Ehefrau"],
+			"ja": ["妻", "tsuma"]
 		},
 		{
 			"es": ["Los cónyuges"],
-			"fr": ["Les conjoints"]
+			"fr": ["Les conjoints"],
+			"en": ["Spouses"],
+			"cn": ["配偶", "pei ou"],
+			"de": ["Ehepartner"],
+			"ja": ["配偶者", "hai guu sha"]
 		},
 		{
 			"es": ["Una pareja de hecho"],
-			"fr": ["Un PACS", "Un pacte civil de solidarité"]
+			"fr": ["Un PACS", "Un pacte civil de solidarité"],
+			"en": ["Civil union", "Domestic partnership"],
+			"cn": ["民事结合", "min shi jie he", "同居伴侣", "tong ju ban lü"],
+			"de": ["Lebenspartnerschaft", "Eingetragene Lebenspartnerschaft"],
+			"ja": ["市民結合", "shimin ketsugou", "同棲パートナー", "dousei paatonaa"]
 		},
 		{
 			"es": ["El concubinato"],
-			"fr": ["Le concubinage"]
+			"fr": ["Le concubinage"],
+			"en": ["Cohabitation"],
+			"cn": ["同居", "tong ju"],
+			"de": ["Konkubinat"],
+			"ja": ["同棲", "dousei"]
 		},
 		{
 			"es": ["Quedarse embarazada"],
-			"fr": ["Tomber enceinte"]
+			"fr": ["Tomber enceinte"],
+			"en": ["To get pregnant"],
+			"cn": ["怀孕", "huai yun"],
+			"de": ["Schwanger werden"],
+			"ja": ["妊娠する", "ninshin suru"]
 		},
 		{
 			"es": ["Estar en estado"],
-			"fr": ["Etre enceinte"]
+			"fr": ["Etre enceinte"],
+			"en": ["To be pregnant"],
+			"cn": ["怀孕", "huai yun"],
+			"de": ["Schwanger sein"],
+			"ja": ["妊娠している", "ninshin shiteiru"]
 		},
 		{
 			"es": ["Estar de … meses"],
-			"fr": ["Entre enceinte de … mois"]
+			"fr": ["Entre enceinte de … mois"],
+			"en": ["To be ... months pregnant"],
+			"cn": ["怀孕…个月", "huai yun ... ge yue"],
+			"de": ["... Monate schwanger sein"],
+			"ja": ["…ヶ月妊娠している", "... katsu getsu ninshin shiteiru"]
 		},
 		{
 			"es": ["El embarazo"],
-			"fr": ["La grossesse"]
+			"fr": ["La grossesse"],
+			"en": ["Pregnancy"],
+			"cn": ["怀孕期", "huai yun qi"],
+			"de": ["Schwangerschaft"],
+			"ja": ["妊娠", "ninshin"]
 		},
 		{
 			"es": ["El nacimiento"],
-			"fr": ["La naissance"]
+			"fr": ["La naissance"],
+			"en": ["Birth"],
+			"cn": ["出生", "chu sheng"],
+			"de": ["Geburt"],
+			"ja": ["誕生", "tanjou"]
 		},
 		{
 			"es": ["Dar a luz"],
-			"fr": ["Accoucher"]
+			"fr": ["Accoucher"],
+			"en": ["To give birth"],
+			"cn": ["生孩子", "sheng hai zi"],
+			"de": ["Gebären"],
+			"ja": ["出産する", "shussan suru"]
 		},
 		{
 			"es": ["Tener hijos"],
-			"fr": ["Avoir des enfants"]
+			"fr": ["Avoir des enfants"],
+			"en": ["To have children"],
+			"cn": ["有孩子", "you hai zi"],
+			"de": ["Kinder haben"],
+			"ja": ["子供を持つ", "kodomo wo motsu"]
 		},
 		{
 			"es": ["La familia numerosa"],
-			"fr": ["La famille nombreuse"]
+			"fr": ["La famille nombreuse"],
+			"en": ["Large family"],
+			"cn": ["大家庭", "da jia ting"],
+			"de": ["Großfamilie"],
+			"ja": ["大家族", "dai kazoku"]
 		},
 		{
 			"es": ["La familia pequeña"],
-			"fr": ["La petite famille"]
+			"fr": ["La petite famille"],
+			"en": ["Small family"],
+			"cn": ["小家庭", "xiao jia ting"],
+			"de": ["Kleine Familie"],
+			"ja": ["小家族", "shou kazoku"]
 		},
 		{
 			"es": ["La familia monoparental"],
-			"fr": ["La famille monoparentale"]
+			"fr": ["La famille monoparentale"],
+			"en": ["Single-parent family"],
+			"cn": ["单亲家庭", "dan qin jia ting"],
+			"de": ["Alleinerziehende Familie"],
+			"ja": ["ひとり親家庭", "hitori oya katei"]
 		},
 		{
 			"es": ["La familia reconstituida"],
-			"fr": ["La famille recomposée"]
+			"fr": ["La famille recomposée"],
+			"en": ["Blended family"],
+			"cn": ["重组家庭", "chong zu jia ting"],
+			"de": ["Patchworkfamilie"],
+			"ja": ["再婚家庭", "saikon katei"]
 		},
 		{
 			"es": ["La separación"],
-			"fr": ["La séparation"]
+			"fr": ["La séparation"],
+			"en": ["Separation"],
+			"cn": ["分居", "fen ju"],
+			"de": ["Trennung"],
+			"ja": ["離別", "riben"]
 		},
 		{
 			"es": ["Separarse"],
-			"fr": ["Se séparer"]
+			"fr": ["Se séparer"],
+			"en": ["To separate"],
+			"cn": ["分开", "fen kai"],
+			"de": ["Sich trennen"],
+			"ja": ["別れる", "wakareru"]
 		},
 		{
 			"es": ["El divorcio"],
-			"fr": ["Le divorce"]
+			"fr": ["Le divorce"],
+			"en": ["Divorce"],
+			"cn": ["离婚", "li hun"],
+			"de": ["Scheidung"],
+			"ja": ["離婚", "rikon"]
 		},
 		{
 			"es": ["Divorciarse"],
-			"fr": ["Divorcer"]
+			"fr": ["Divorcer"],
+			"en": ["To get divorced"],
+			"cn": ["离婚", "li hun"],
+			"de": ["Sich scheiden lassen"],
+			"ja": ["離婚する", "rikon suru"]
 		},
 		{
 			"es": ["La vuidedad"],
-			"fr": ["Le veuvage"]
+			"fr": ["Le veuvage"],
+			"en": ["Widowhood"],
+			"cn": ["寡居", "gua ju"],
+			"de": ["Witwenschaft"],
+			"ja": ["未亡人であること", "miboujin de aru koto"]
 		},
 		{
 			"es": ["Un viudo"],
-			"fr": ["Un veuf"]
+			"fr": ["Un veuf"],
+			"en": ["A widower"],
+			"cn": ["鳏夫", "guan fu"],
+			"de": ["Ein Witwer"],
+			"ja": ["男やもめ", "otoko yamo me"]
 		},
 		{
 			"es": ["Una viuda"],
-			"fr": ["Une veuve"]
+			"fr": ["Une veuve"],
+			"en": ["A widow"],
+			"cn": ["寡妇", "gua fu"],
+			"de": ["Eine Witwe"],
+			"ja": ["未亡人", "mibou jin"]
 		},
 		{
 			"es": ["Enviudar"],
-			"fr": ["Devenir veuf", "Devenir veuve"]
+			"fr": ["Devenir veuf", "Devenir veuve"],
+			"en": ["To become a widower", "To become a widow"],
+			"cn": ["成为鳏夫", "cheng wei guan fu", "成为寡妇", "cheng wei gua fu"],
+			"de": ["Witwer werden", "Witwe werden"],
+			"ja": ["男やもめになる", "otoko yamo me ni naru", "未亡人になる", "mibou jin ni naru"]
 		}
 	]
 }

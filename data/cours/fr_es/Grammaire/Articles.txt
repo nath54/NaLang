@@ -1,0 +1,118 @@
+[font_size=30][center][b][color=#0000FF]Les articles en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les articles en espagnol sont des mots courts qui précèdent les noms pour indiquer leur genre, leur nombre et leur caractère défini ou indéfini. Bien que leur utilisation puisse sembler simple au premier abord, il existe des subtilités importantes à comprendre pour les utiliser correctement.
+
+[font_size=24][color=#4B0082]1. Types d'articles[/color][/font_size]
+
+En espagnol, on distingue deux types principaux d'articles :
+
+[b]a) Articles définis[/b]
+[indent]Ces articles sont utilisés pour parler de quelque chose de spécifique ou déjà connu.
+
+[code]
+el [color=#008000](le)[/color] - masculin singulier
+la [color=#008000](la)[/color] - féminin singulier
+los [color=#008000](les)[/color] - masculin pluriel
+las [color=#008000](les)[/color] - féminin pluriel
+[/code]
+
+[i]Exemple : [color=#0000FF]El libro está sobre la mesa.[/color] [color=#008000](Le livre est sur la table.)[/color][/i][/indent]
+
+[b]b) Articles indéfinis[/b]
+[indent]Ces articles sont utilisés pour parler de quelque chose de non spécifique ou mentionné pour la première fois.
+
+[code]
+un [color=#008000](un)[/color] - masculin singulier
+una [color=#008000](une)[/color] - féminin singulier
+unos [color=#008000](des)[/color] - masculin pluriel
+unas [color=#008000](des)[/color] - féminin pluriel
+[/code]
+
+[i]Exemple : [color=#0000FF]Veo una casa en la distancia.[/color] [color=#008000](Je vois une maison au loin.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des articles définis[/color][/font_size]
+
+Les articles définis en espagnol ont plusieurs usages spécifiques :
+
+[indent][b]a) Pour parler de quelque chose de spécifique :[/b]
+[color=#0000FF]El coche de Juan es rojo.[/color] [color=#008000](La voiture de Juan est rouge.)[/color]
+
+[b]b) Pour parler de quelque chose en général :[/b]
+[color=#0000FF]Me gusta el chocolate.[/color] [color=#008000](J'aime le chocolat.)[/color]
+
+[b]c) Avec les jours de la semaine :[/b]
+[color=#0000FF]Trabajo el lunes.[/color] [color=#008000](Je travaille le lundi.)[/color]
+
+[b]d) Avec les heures :[/b]
+[color=#0000FF]Son las tres.[/color] [color=#008000](Il est trois heures.)[/color]
+
+[b]e) Avec les noms de langues :[/b]
+[color=#0000FF]Hablo el español.[/color] [color=#008000](Je parle l'espagnol.)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisation des articles indéfinis[/color][/font_size]
+
+Les articles indéfinis sont utilisés dans les situations suivantes :
+
+[indent][b]a) Pour introduire quelque chose de nouveau :[/b]
+[color=#0000FF]Veo un perro en el parque.[/color] [color=#008000](Je vois un chien dans le parc.)[/color]
+
+[b]b) Pour parler de quantités approximatives :[/b]
+[color=#0000FF]Tengo unos veinte euros.[/color] [color=#008000](J'ai environ vingt euros.)[/color]
+
+[b]c) Pour exprimer "par" avec des unités de temps ou de mesure :[/b]
+[color=#0000FF]Voy al gimnasio tres veces a la semana.[/color] [color=#008000](Je vais à la salle de sport trois fois par semaine.)[/color][/indent]
+
+[font_size=24][color=#4B0082]4. Cas particuliers[/color][/font_size]
+
+[b]a) L'article "el" devant les noms féminins[/b]
+[indent]On utilise "el" au lieu de "la" devant les noms féminins commençant par un "a" ou "ha" accentué :
+
+[code]
+el agua [color=#008000](l'eau)[/color]
+el águila [color=#008000](l'aigle)[/color]
+[/code]
+
+[i]Mais au pluriel, on revient à la forme féminine : [color=#0000FF]las aguas, las águilas[/color][/i][/indent]
+
+[b]b) Contraction des articles[/b]
+[indent]L'article "el" se contracte avec les prépositions "a" et "de" :
+
+[code]
+a + el = al
+de + el = del
+[/code]
+
+[i]Exemple : [color=#0000FF]Voy al parque.[/color] [color=#008000](Je vais au parc.)[/color][/i][/indent]
+
+[b]c) Omission de l'article[/b]
+[indent]Dans certains cas, l'espagnol n'utilise pas d'article là où le français en utiliserait un :
+
+- Avec les noms de professions :
+[color=#0000FF]Es médico.[/color] [color=#008000](Il est médecin.)[/color]
+
+- Avec certaines expressions de temps :
+[color=#0000FF]Llegará en primavera.[/color] [color=#008000](Il arrivera au printemps.)[/color][/indent]
+
+[font_size=24][color=#4B0082]5. Articles neutres[/color][/font_size]
+
+L'espagnol possède un article neutre "lo" qui n'existe pas en français :
+
+[indent][b]a) Pour substantiver des adjectifs :[/b]
+[color=#0000FF]Lo importante es participar.[/color] [color=#008000](L'important est de participer.)[/color]
+
+[b]b) Dans certaines expressions :[/b]
+[color=#0000FF]No es lo mismo.[/color] [color=#008000](Ce n'est pas la même chose.)[/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les articles en espagnol varient en genre et en nombre.
+[color=#FF0000]2.[/color] Les articles définis sont utilisés pour parler de choses spécifiques ou générales.
+[color=#FF0000]3.[/color] Les articles indéfinis introduisent de nouvelles informations ou expriment des quantités approximatives.
+[color=#FF0000]4.[/color] Il existe des cas particuliers comme l'utilisation de "el" devant certains noms féminins.
+[color=#FF0000]5.[/color] L'article neutre "lo" est utilisé pour substantiver des adjectifs.[/indent]
+
+[center][font_size=18][color=#808080]¡Domina el uso de los artículos y tu español sonará más natural y preciso![/color][/font_size][/center]

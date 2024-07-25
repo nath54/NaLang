@@ -1,0 +1,222 @@
+
+{
+	"name": {
+		"es": "La familia",
+		"fr": "La famille"
+	},
+	"langs": ["es", "fr"],
+	"elements": [
+		{
+			"es": ["La familia"],
+			"fr": ["La famille"]
+		},
+		{
+			"es": ["Familiares y parientes"],
+			"fr": ["Parents proches et éloignés"]
+		},
+		{
+			"es": ["La genealogía"],
+			"fr": ["La généalogie"]
+		},
+		{
+			"es": ["Los parientes"],
+			"fr": ["Les membres de la famille"]
+		},
+		{
+			"es": ["El parentesco"],
+			"fr": ["Le lien de parenté"]
+		},
+		{
+			"es": ["Un matrimonio"],
+			"fr": ["Un couple marié"]
+		},
+		{
+			"es": ["Una pareja "],
+			"fr": ["Un couple"]
+		},
+		{
+			"es": ["Fundar una familia"],
+			"fr": ["Fonder une famille"]
+		},
+		{
+			"es": ["Los padres"],
+			"fr": ["Les parents"]
+		},
+		{
+			"es": ["El padre"],
+			"fr": ["Le père"]
+		},
+		{
+			"es": ["La madre"],
+			"fr": ["La mère"]
+		},
+		{
+			"es": ["Los papás"],
+			"fr": ["Le papa et la maman"]
+		},
+		{
+			"es": ["El papá"],
+			"fr": ["Le papa"]
+		},
+		{
+			"es": ["La mamá"],
+			"fr": ["la maman"]
+		},
+		{
+			"es": ["Los hijos"],
+			"fr": ["Les enfants"]
+		},
+		{
+			"es": ["El hijo"],
+			"fr": ["Le fils"]
+		},
+		{
+			"es": ["La hija"],
+			"fr": ["La fille"]
+		},
+		{
+			"es": ["El hermano"],
+			"fr": ["Le frère"]
+		},
+		{
+			"es": ["La hermana"],
+			"fr": ["La soeur"]
+		},
+		{
+			"es": ["Los hermanos"],
+			"fr": ["Les frères et soeurs"]
+		},
+		{
+			"es": ["El primogénito"],
+			"fr": ["L’aîné"]
+		},
+		{
+			"es": ["Los gemelos"],
+			"fr": ["Les jumeaux"]
+		},
+		{
+			"es": ["Las gemelas"],
+			"fr": ["Les jumelles"]
+		},
+		{
+			"es": ["Los mellizos"],
+			"fr": ["Les faux jumeaux"]
+		},
+		{
+			"es": ["El abuelo"],
+			"fr": ["Le grand-père"]
+		},
+		{
+			"es": ["La abuela"],
+			"fr": ["La grand-mère"]
+		},
+		{
+			"es": ["Los abuelos"],
+			"fr": ["Les grands-parents"]
+		},
+		{
+			"es": ["El nieto"],
+			"fr": ["Le petit-fils"]
+		},
+		{
+			"es": ["La nieta"],
+			"fr": ["La petite-fille"]
+		},
+		{
+			"es": ["Los nietos"],
+			"fr": ["Les petits-enfants"]
+		},
+		{
+			"es": ["El tío"],
+			"fr": ["L’oncle"]
+		},
+		{
+			"es": ["La tía"],
+			"fr": ["La tante"]
+		},
+		{
+			"es": ["Los tíos", "Las tías"],
+			"fr": ["Les oncles et tantes"]
+		},
+		{
+			"es": ["El sobrino"],
+			"fr": ["Le neveu"]
+		},
+		{
+			"es": ["La sobrina"],
+			"fr": ["La nièce"]
+		},
+		{
+			"es": ["Los sobrinos", "Las sobrinas"],
+			"fr": ["Les neveux et nièces"]
+		},
+		{
+			"es": ["El primo"],
+			"fr": ["Le cousin"]
+		},
+		{
+			"es": ["La prima"],
+			"fr": ["La cousine"]
+		},
+		{
+			"es": ["Los primos", "Las primas"],
+			"fr": ["Les cousins et cousines"]
+		},
+		{
+			"es": ["El primo hermano"],
+			"fr": ["Le cousin germain"]
+		},
+		{
+			"es": ["La familia política", "Los suegros"],
+			"fr": ["La belle famille"]
+		},
+		{
+			"es": ["El padrastro", "El suegro"],
+			"fr": ["Le beau-père"]
+		},
+		{
+			"es": ["La madrastra", "La suegra"],
+			"fr": ["La belle-mère"]
+		},
+		{
+			"es": ["El hijastro"],
+			"fr": ["Le beau-fils"]
+		},
+		{
+			"es": ["La hijastra", "La nuera"],
+			"fr": ["La belle-fille"]
+		},
+		{
+			"es": ["El hermanastro"],
+			"fr": ["Le demi-frère"]
+		},
+		{
+			"es": ["La hermanastra"],
+			"fr": ["La demi-soeur"]
+		},
+		{
+			"es": ["La adopción"],
+			"fr": ["L’adoption"]
+		},
+		{
+			"es": ["Los hijos adoptivos"],
+			"fr": ["Les enfants adoptifs"]
+		},
+		{
+			"es": ["Los suegros"],
+			"fr": ["Les beaux-parents"]
+		},
+		{
+			"es": ["El yerno"],
+			"fr": ["Le gendre"]
+		},
+		{
+			"es": ["El cuñado"],
+			"fr": ["Le beau-frère"]
+		},
+		{
+			"es": ["La cuñada"],
+			"fr": ["La belle-soeur"]
+		}
+	]
+}

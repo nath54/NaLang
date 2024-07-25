@@ -1,0 +1,109 @@
+
+[font_size=30][center][b][color=#0000FF]Les prépositions en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les prépositions en espagnol sont essentielles pour exprimer des relations entre les mots dans une phrase. Elles permettent d'indiquer des notions de lieu, de temps, de cause, de manière, etc. Comme en français, elles sont invariables et doivent être suivies d'un nom ou d'un pronom.
+
+[font_size=24][color=#4B0082]1. Les principales prépositions[/color][/font_size]
+
+En espagnol, les prépositions les plus courantes incluent :
+
+[indent][code]
+a [color=#008000](à)[/color]
+de [color=#008000](de)[/color]
+en [color=#008000](dans/en)[/color]
+con [color=#008000](avec)[/color]
+sin [color=#008000](sans)[/color]
+para [color=#008000](pour)[/color]
+por [color=#008000](par/pour)[/color]
+hasta [color=#008000](jusqu'à)[/color]
+desde [color=#008000](depuis)[/color]
+sobre [color=#008000](sur)[/color]
+entre [color=#008000](entre)[/color]
+contra [color=#008000](contre)[/color]
+[/code][/indent]
+
+[i]Exemple : [color=#0000FF]Voy a la tienda.[/color] [color=#008000](Je vais au magasin.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Prépositions de lieu[/color][/font_size]
+
+Les prépositions de lieu indiquent l'emplacement ou la direction :
+
+[indent][code]
+a [color=#008000](à)[/color]
+en [color=#008000](dans/en)[/color]
+sobre [color=#008000](sur)[/color]
+debajo de [color=#008000](sous)[/color]
+delante de [color=#008000](devant)[/color]
+detrás de [color=#008000](derrière)[/color]
+al lado de [color=#008000](à côté de)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]El libro está sobre la mesa.[/color] [color=#008000](Le livre est sur la table.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Prépositions de temps[/color][/font_size]
+
+Ces prépositions indiquent des notions temporelles :
+
+[indent][code]
+a [color=#008000](à)[/color]
+en [color=#008000](en)[/color]
+desde [color=#008000](depuis)[/color]
+hasta [color=#008000](jusqu'à)[/color]
+durante [color=#008000](pendant)[/color]
+antes de [color=#008000](avant de)[/color]
+después de [color=#008000](après de)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Nos vemos a las tres.[/color] [color=#008000](Nous nous voyons à trois heures.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Prépositions de cause et de but[/color][/font_size]
+
+Elles expriment une cause ou un but :
+
+[indent][code]
+por [color=#008000](à cause de)[/color]
+para [color=#008000](pour)[/color]
+debido a [color=#008000](en raison de)[/color]
+con [color=#008000](avec)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Estudia para ser médico.[/color] [color=#008000](Il étudie pour être médecin.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Prépositions de manière[/color][/font_size]
+
+Ces prépositions indiquent la manière dont quelque chose est fait :
+
+[indent][code]
+con [color=#008000](avec)[/color]
+sin [color=#008000](sans)[/color]
+de [color=#008000](de)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Escribe con cuidado.[/color] [color=#008000](Il écrit avec soin.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]6. Les prépositions complexes[/color][/font_size]
+
+Certains groupes de mots peuvent également jouer le rôle de prépositions :
+
+[indent][code]
+[a causa de] [color=#008000](à cause de)[/color]
+[en frente de] [color=#008000](en face de)[/color]
+[junto a] [color=#008000](à côté de)[/color]
+[a pesar de] [color=#008000](malgré)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Estamos en frente de la escuela.[/color] [color=#008000](Nous sommes en face de l'école.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les prépositions sont invariables et doivent être suivies d'un nom ou pronom.
+[color=#FF0000]2.[/color] Elles permettent d'indiquer des relations de lieu, de temps, de cause, de but et de manière.
+[color=#FF0000]3.[/color] Certaines prépositions peuvent être renforcées par des locutions prépositionnelles.
+[color=#FF0000]4.[/color] L'usage correct des prépositions améliore la clarté et la fluidité des phrases en espagnol.
+[/indent]
+
+[center][font_size=18][color=#808080]¡Usa las preposiciones correctamente y tu español será más preciso y efectivo![/color][/font_size][/center]

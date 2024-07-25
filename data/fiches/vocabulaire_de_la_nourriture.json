@@ -1,0 +1,260 @@
+{
+    "name": {
+        "es": "Comida",
+        "fr": "Nourriture",
+        "en": "Food",
+        "cn": "食物 shi wu",
+        "de": "Essen",
+        "ja": "食べ物 tabemono"
+    },
+    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "elements": [{
+            "es": ["Pan"],
+            "fr": ["Pain"],
+            "en": ["Bread"],
+            "cn": ["面包", "mian bao"],
+            "de": ["Brot"],
+            "ja": ["パン", "pan"]
+        },
+        {
+            "es": ["Agua"],
+            "fr": ["Eau"],
+            "en": ["Water"],
+            "cn": ["水", "shui"],
+            "de": ["Wasser"],
+            "ja": ["水", "mizu"]
+        },
+        {
+            "es": ["Leche"],
+            "fr": ["Lait"],
+            "en": ["Milk"],
+            "cn": ["牛奶", "niu nai"],
+            "de": ["Milch"],
+            "ja": ["牛乳", "gyuunyuu"]
+        },
+        {
+            "es": ["Carne"],
+            "fr": ["Viande"],
+            "en": ["Meat"],
+            "cn": ["肉", "rou"],
+            "de": ["Fleisch"],
+            "ja": ["肉", "niku"]
+        },
+        {
+            "es": ["Pescado"],
+            "fr": ["Poisson"],
+            "en": ["Fish"],
+            "cn": ["鱼", "yu"],
+            "de": ["Fisch"],
+            "ja": ["魚", "sakana"]
+        },
+        {
+            "es": ["Frutas"],
+            "fr": ["Fruits"],
+            "en": ["Fruits"],
+            "cn": ["水果", "shui guo"],
+            "de": ["Früchte"],
+            "ja": ["果物", "kudamono"]
+        },
+        {
+            "es": ["Verduras", "Vegetales"],
+            "fr": ["Légumes"],
+            "en": ["Vegetables"],
+            "cn": ["蔬菜", "shu cai"],
+            "de": ["Gemüse"],
+            "ja": ["野菜", "yasai"]
+        },
+        {
+            "es": ["Manzana"],
+            "fr": ["Pomme"],
+            "en": ["Apple"],
+            "cn": ["苹果", "ping guo"],
+            "de": ["Apfel"],
+            "ja": ["りんご", "ringo"]
+        },
+        {
+            "es": ["Plátano", "Banana"],
+            "fr": ["Banane"],
+            "en": ["Banana"],
+            "cn": ["香蕉", "xiang jiao"],
+            "de": ["Banane"],
+            "ja": ["バナナ", "banana"]
+        },
+        {
+            "es": ["Naranja"],
+            "fr": ["Orange"],
+            "en": ["Orange"],
+            "cn": ["橙子", "cheng zi"],
+            "de": ["Orange"],
+            "ja": ["オレンジ", "orenji"]
+        },
+        {
+            "es": ["Arroz"],
+            "fr": ["Riz"],
+            "en": ["Rice"],
+            "cn": ["米饭", "mi fan"],
+            "de": ["Reis"],
+            "ja": ["ご飯", "gohan"]
+        },
+        {
+            "es": ["Huevos"],
+            "fr": ["Œufs"],
+            "en": ["Eggs"],
+            "cn": ["鸡蛋", "ji dan"],
+            "de": ["Eier"],
+            "ja": ["卵", "tamago"]
+        },
+        {
+            "es": ["Queso"],
+            "fr": ["Fromage"],
+            "en": ["Cheese"],
+            "cn": ["奶酪", "nai lao"],
+            "de": ["Käse"],
+            "ja": ["チーズ", "chiizu"]
+        },
+        {
+            "es": ["Helado"],
+            "fr": ["Glace"],
+            "en": ["Ice cream"],
+            "cn": ["冰淇淋", "bing qi lin"],
+            "de": ["Eiscreme"],
+            "ja": ["アイスクリーム", "aisukurīmu"]
+        },
+        {
+            "es": ["Café"],
+            "fr": ["Café"],
+            "en": ["Coffee"],
+            "cn": ["咖啡", "ka fei"],
+            "de": ["Kaffee"],
+            "ja": ["コーヒー", "koohii"]
+        },
+        {
+            "es": ["Té"],
+            "fr": ["Thé"],
+            "en": ["Tea"],
+            "cn": ["茶", "cha"],
+            "de": ["Tee"],
+            "ja": ["お茶", "ocha"]
+        },
+        {
+            "es": ["Pollo"],
+            "fr": ["Poulet"],
+            "en": ["Chicken"],
+            "cn": ["鸡肉", "ji rou"],
+            "de": ["Huhn"],
+            "ja": ["鶏肉", "toriniku"]
+        },
+        {
+            "es": ["Pasta"],
+            "fr": ["Pâtes"],
+            "en": ["Pasta"],
+            "cn": ["意大利面", "yi da li mian"],
+            "de": ["Nudeln"],
+            "ja": ["パスタ", "pasuta"]
+        },
+        {
+            "es": ["Sopa"],
+            "fr": ["Soupe"],
+            "en": ["Soup"],
+            "cn": ["汤", "tang"],
+            "de": ["Suppe"],
+            "ja": ["スープ", "suupu"]
+        },
+        {
+            "es": ["Sal"],
+            "fr": ["Sel"],
+            "en": ["Salt"],
+            "cn": ["盐", "yan"],
+            "de": ["Salz"],
+            "ja": ["塩", "shio"]
+        },
+        {
+            "es": ["Azúcar"],
+            "fr": ["Sucre"],
+            "en": ["Sugar"],
+            "cn": ["糖", "tang"],
+            "de": ["Zucker"],
+            "ja": ["砂糖", "satou"]
+        },
+        {
+            "es": ["Miel"],
+            "fr": ["Miel"],
+            "en": ["Honey"],
+            "cn": ["蜂蜜", "feng mi"],
+            "de": ["Honig"],
+            "ja": ["蜂蜜", "hachi mitsu"]
+        },
+        {
+            "es": ["Pimienta"],
+            "fr": ["Poivre"],
+            "en": ["Pepper"],
+            "cn": ["胡椒", "hu jiao"],
+            "de": ["Pfeffer"],
+            "ja": ["胡椒", "koshou"]
+        },
+        {
+            "es": ["Aceite"],
+            "fr": ["Huile"],
+            "en": ["Oil"],
+            "cn": ["油", "you"],
+            "de": ["Öl"],
+            "ja": ["油", "abura"]
+        },
+        {
+            "es": ["Caramelo"],
+            "fr": ["Bonbon"],
+            "en": ["Candy"],
+            "cn": ["糖果", "tang guo"],
+            "de": ["Süßigkeit"],
+            "ja": ["飴", "ame"]
+        },
+        {
+            "es": ["Bollo", "Pastel"],
+            "fr": ["Gâteau"],
+            "en": ["Cake"],
+            "cn": ["蛋糕", "dan gao"],
+            "de": ["Kuchen"],
+            "ja": ["ケーキ", "keeki"]
+        },
+        {
+            "es": ["Jugo", "Zumo"],
+            "fr": ["Jus"],
+            "en": ["Juice"],
+            "cn": ["果汁", "guo zhi"],
+            "de": ["Saft"],
+            "ja": ["ジュース", "juusu"]
+        },
+        {
+            "es": ["Ensalada"],
+            "fr": ["Salade"],
+            "en": ["Salad"],
+            "cn": ["沙拉", "sha la"],
+            "de": ["Salat"],
+            "ja": ["サラダ", "sarada"]
+        },
+        {
+            "es": ["Yogur"],
+            "fr": ["Yaourt"],
+            "en": ["Yogurt"],
+            "cn": ["酸奶", "suan nai"],
+            "de": ["Joghurt"],
+            "ja": ["ヨーグルト", "yooguruto"]
+        },
+        {
+            "es": ["Patatas fritas"],
+            "fr": ["Frites"],
+            "en": ["French fries", "Chips"],
+            "cn": ["薯条", "shu tiao"],
+            "de": ["Pommes frites"],
+            "ja": ["フライドポテト", "furaido poteto"]
+        },
+        {
+            "es": ["Mantequilla"],
+            "fr": ["Beurre"],
+            "en": ["Butter"],
+            "cn": ["黄油", "huang you"],
+            "de": ["Butter"],
+            "ja": ["バター", "bataa"]
+        }
+    ]
+}

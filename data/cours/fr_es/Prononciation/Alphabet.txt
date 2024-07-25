@@ -1,0 +1,95 @@
+
+[font_size=30][center][b][color=#0000FF]L'alphabet en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'alphabet en espagnol se compose de 27 lettres. Cet alphabet comprend les mêmes lettres que l'alphabet français, mais avec l'ajout d'une lettre spécifique, le [color=#FF0000]ñ[/color]. Apprendre à prononcer chaque lettre correctement est fondamental pour maîtriser la langue espagnole.
+
+[font_size=24][color=#4B0082]1. Les lettres de l'alphabet[/color][/font_size]
+
+L'alphabet espagnol se présente comme suit :
+
+[code]
+A a [color=#008000](a)[/color]
+B b [color=#008000](be)[/color]
+C c [color=#008000](ce)[/color]
+D d [color=#008000](de)[/color]
+E e [color=#008000](e)[/color]
+F f [color=#008000](efe)[/color]
+G g [color=#008000](ge)[/color]
+H h [color=#008000](hache)[/color]
+I i [color=#008000](i)[/color]
+J j [color=#008000](jota)[/color]
+K k [color=#008000](ka)[/color]
+L l [color=#008000](ele)[/color]
+M m [color=#008000](eme)[/color]
+N n [color=#008000](ene)[/color]
+Ñ ñ [color=#008000](eñe)[/color]
+O o [color=#008000](o)[/color]
+P p [color=#008000](pe)[/color]
+Q q [color=#008000](cu)[/color]
+R r [color=#008000](ere)[/color]
+S s [color=#008000](ese)[/color]
+T t [color=#008000](te)[/color]
+U u [color=#008000](u)[/color]
+V v [color=#008000](uve ou ve)[/color]
+W w [color=#008000](uve doble ou doble ve)[/color]
+X x [color=#008000](equis)[/color]
+Y y [color=#008000](i griega)[/color]
+Z z [color=#008000](zeta)[/color]
+[/code]
+
+[font_size=24][color=#4B0082]2. Particularités de la prononciation espagnole[/color][/font_size]
+
+Il y a quelques particularités de la prononciation à noter :
+
+[b]a) Le [color=#FF0000]c[/color][/b]
+[indent] - Se prononce [color=#FF0000][th][/color] devant [color=#001860]e[/color] ou [color=#001860]i[/color] (comme le "th" anglais) en Espagne.[/indent]
+
+[b]b) Le [color=#FF0000]g[/color][/b]
+[indent] - S'épaissit devant [color=#001860]e[/color] ou [color=#001860]i[/color] (comme une jota).[/indent]
+
+[b]c) La lettre [color=#FF0000]h[/color][/b]
+[indent] - Est toujours muette.[/indent]
+
+[b]d) Le [color=#FF0000]j[/color][/b]
+[indent] - Se prononce comme un fort [h].[/indent]
+
+[b]e) La lettre [color=#FF0000]ñ[/color][/b]
+[indent] - Se prononce comme "gn" dans "montagne".[/indent]
+
+[font_size=24][color=#4B0082]3. Les digrammes en espagnol[/color][/font_size]
+
+En plus des lettres simples, l'espagnol utilise des digrammes, deux lettres qui forment ensemble un son distinct :
+
+[code]
+ch [color=#008000](che)[/color] - exemple : [color=#0000FF]chico[/color] [color=#008000](garçon)[/color]
+ll [color=#008000](elle)[/color] - exemple : [color=#0000FF]llama[/color] [color=#008000](flamme, aussi un animal)[/color]
+rr [color=#008000](ere doble)[/color] - exemple : [color=#0000FF]perro[/color] [color=#008000](chien)[/color]
+[/code]
+
+Les digrammes peuvent affecter la prononciation de mots et leur compréhension, il est donc important de les maîtriser.
+
+[font_size=24][color=#4B0082]4. Alphabet et orthographe : règles spéciales[/color][/font_size]
+
+Certaines règles de l'orthographe en espagnol sont directement liées aux lettres :
+
+[b]a) Utilisation des accents[/b]
+[indent]Les accents (tilde) modifient la prononciation et le sens des mots.
+[i]Exemple : [color=#0000FF]sí[/color] [color=#008000](oui)[/color] vs [color=#0000FF]si[/color] [color=#008000](si)[/color][/i][/indent]
+
+[b]b) Lettres doubles[/b]
+[indent]Les espagnols n'utilisent généralement pas de lettres doubles sauf dans le cas des digrammes ou pour distinguer certains mots.
+[i]Exemple : [color=#0000FF]correr[/color] [color=#008000](courir)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] L'alphabet espagnol comporte 27 lettres, incluant le [color=#FF0000]ñ[/color].
+[color=#FF0000]2.[/color] Chaque lettre a une prononciation spécifique, et certaines lettres changent de son selon le contexte.
+[color=#FF0000]3.[/color] Les digrammes sont importants et affectent la prononciation.
+[color=#FF0000]4.[/color] Les accents (tilde) sont cruciaux pour le sens des mots.
+[color=#FF0000]5.[/color] La lettre [color=#FF0000]h[/color] est toujours muette en espagnol.[/indent]
+
+[center][font_size=18][color=#808080]¡Aprende el alfabeto correctamente y mejorarás notablemente tu español![/color][/font_size][/center]

@@ -1,535 +1,1060 @@
 {
 	"name": {
 		"es": "Los animales",
-		"fr": "Les animaux"
+		"fr": "Les animaux",
+		"en": "The animals",
+		"cn": "动物",
+		"de": "Die Tiere",
+		"ja": "動物 どうぶつ"
 	},
-	"langs": ["es", "fr"],
-	"elements": [
-		{
+	"langs": ["es", "fr", "en", "cn", "de", "ja"],
+	"elements": [{
 			"es": ["mamífero"],
-			"fr": ["mammifère"]
+			"fr": ["mammifère"],
+			"en": ["mammal"],
+			"cn": ["哺乳动物", "pǔrǔ dòngwù"],
+			"de": ["Säugetier"],
+			"ja": ["哺乳類", "Honyūrui"]
 		},
 		{
 			"es": ["burro", "asno"],
-			"fr": ["âne"]
+			"fr": ["âne"],
+			"en": ["donkey", "ass"],
+			"cn": ["驴", "lǘ"],
+			"de": ["Esel"],
+			"ja": ["ロバ", "Roba"]
 		},
 		{
 			"es": ["antílope"],
-			"fr": ["antilope"]
+			"fr": ["antilope"],
+			"en": ["antelope"],
+			"cn": ["羚羊", "líng yáng"],
+			"de": ["Antilope"],
+			"ja": ["アンテロープ", "Anterōpu"]
 		},
 		{
 			"es": ["ballena"],
-			"fr": ["baleine"]
+			"fr": ["baleine"],
+			"en": ["whale"],
+			"cn": ["鲸鱼", "jīng yú"],
+			"de": ["Wal"],
+			"ja": ["鯨", "Kujira"]
 		},
 		{
 			"es": ["comadreja"],
-			"fr": ["belette"]
+			"fr": ["belette"],
+			"en": ["weasel"],
+			"cn": ["鼬鼠", "yòu shǔ"],
+			"de": ["Wiesel"],
+			"ja": ["イタチ", "Itachi"]
 		},
 		{
 			"es": ["bisonte", "búfalo"],
-			"fr": ["bison"]
+			"fr": ["bison"],
+			"en": ["bison", "buffalo"],
+			"cn": ["野牛", "yě niú"],
+			"de": ["Bison"],
+			"ja": ["バイソン", "Baison"]
 		},
 		{
 			"es": ["tejón"],
-			"fr": ["blaireau"]
+			"fr": ["blaireau"],
+			"en": ["badger"],
+			"cn": ["獾", "huān"],
+			"de": ["Dachs"],
+			"ja": ["アナグマ", "Anaguma"]
 		},
 		{
 			"es": ["carne", "buey", "ternera"],
-			"fr": ["bœuf"]
+			"fr": ["bœuf"],
+			"en": ["beef", "ox", "veal"],
+			"cn": ["牛肉", "niú ròu"],
+			"de": ["Rindfleisch"],
+			"ja": ["牛肉", "牛肉"]
 		},
 		{
 			"es": ["cabra montés", "íbice", "cabra montesa"],
-			"fr": ["bouquetin"]
+			"fr": ["bouquetin"],
+			"en": ["ibex", "wild goat"],
+			"cn": ["野山羊", "yě shān yáng"],
+			"de": ["Steinbock"],
+			"ja": ["アイベックス", "Aibekkusu"]
 		},
 		{
 			"es": ["búfalo"],
-			"fr": ["buffle"]
+			"fr": ["buffle"],
+			"en": ["buffalo"],
+			"cn": ["水牛", "shuǐ niú"],
+			"de": ["Büffel"],
+			"ja": ["バッファロー", "Baffarō"]
 		},
 		{
 			"es": ["castor"],
-			"fr": ["castor"]
+			"fr": ["castor"],
+			"en": ["beaver"],
+			"cn": ["海狸", "hǎi lí"],
+			"de": ["Biber"],
+			"ja": ["ビーバー", "Bībā"]
 		},
 		{
 			"es": ["ciervo", "venado"],
-			"fr": ["cerf"]
+			"fr": ["cerf"],
+			"en": ["deer", "stag"],
+			"cn": ["鹿", "lù"],
+			"de": ["Hirsch"],
+			"ja": ["シカ", "Shika"]
 		},
 		{
 			"es": ["chacal"],
-			"fr": ["chacal"]
+			"fr": ["chacal"],
+			"en": ["jackal"],
+			"cn": ["豺", "chái"],
+			"de": ["Schakal"],
+			"ja": ["ジャッカル", "Jakkaru"]
 		},
 		{
 			"es": ["camello"],
-			"fr": ["chameau"]
+			"fr": ["chameau"],
+			"en": ["camel"],
+			"cn": ["骆驼", "luò tuó"],
+			"de": ["Kamel"],
+			"ja": ["ラクダ", "Rakuda"]
 		},
 		{
 			"es": ["badana", "gamuza"],
-			"fr": ["chamois"]
+			"fr": ["chamois"],
+			"en": ["chamois"],
+			"cn": ["岩羚羊", "yán líng yáng"],
+			"de": ["Gämse"],
+			"ja": ["シャモア", "Shamoa"]
 		},
 		{
 			"es": ["gato"],
-			"fr": ["chat"]
+			"fr": ["chat"],
+			"en": ["cat"],
+			"cn": ["猫", "māo"],
+			"de": ["Katze"],
+			"ja": ["猫", "Neko"]
 		},
 		{
 			"es": ["murciélago"],
-			"fr": ["chauve-souris"]
+			"fr": ["chauve-souris"],
+			"en": ["bat"],
+			"cn": ["蝙蝠", "biān fú"],
+			"de": ["Fledermaus"],
+			"ja": ["コウモリ", "Kōmori"]
 		},
 		{
 			"es": ["caballo"],
-			"fr": ["cheval"]
+			"fr": ["cheval"],
+			"en": ["horse"],
+			"cn": ["马", "mǎ"],
+			"de": ["Pferd"],
+			"ja": ["馬", "Uma"]
 		},
 		{
 			"es": ["cabra"],
-			"fr": ["chèvre"]
+			"fr": ["chèvre"],
+			"en": ["goat"],
+			"cn": ["山羊", "shān yáng"],
+			"de": ["Ziege"],
+			"ja": ["ヤギ", "Yagi"]
 		},
 		{
 			"es": ["ciervo", "corzo", "venado"],
-			"fr": ["chevreuil"]
+			"fr": ["chevreuil"],
+			"en": ["roe deer"],
+			"cn": ["狍子", "páo zǐ"],
+			"de": ["Reh"],
+			"ja": ["ノロジカ", "Norojika"]
 		},
 		{
 			"es": ["perro"],
-			"fr": ["chien"]
+			"fr": ["chien"],
+			"en": ["dog"],
+			"cn": ["狗", "gǒu"],
+			"de": ["Hund"],
+			"ja": ["犬", "Inu"]
 		},
 		{
 			"es": ["chimpancé"],
-			"fr": ["chimpanzé"]
+			"fr": ["chimpanzé"],
+			"en": ["chimpanzee"],
+			"cn": ["黑猩猩", "hēi xīng xīng"],
+			"de": ["Schimpanse"],
+			"ja": ["チンパンジー", "Chinpanjī"]
 		},
 		{
 			"es": ["cerdo", "cerdito"],
-			"fr": ["cochon", "porc"]
+			"fr": ["cochon", "porc"],
+			"en": ["pig", "hog"],
+			"cn": ["猪", "zhū"],
+			"de": ["Schwein"],
+			"ja": ["豚", "Buta"]
 		},
 		{
 			"es": ["gamuza", "ante", "ciervo"],
-			"fr": ["daim"]
+			"fr": ["daim"],
+			"en": ["doe", "fawn"],
+			"cn": ["羚羊", "líng yáng"],
+			"de": ["Damhirsch"],
+			"ja": ["ダイム", "Daimu"]
 		},
 		{
 			"es": ["delfín"],
-			"fr": ["dauphin"]
+			"fr": ["dauphin"],
+			"en": ["dolphin"],
+			"cn": ["海豚", "hǎi tún"],
+			"de": ["Delfin"],
+			"ja": ["イルカ", "Iruka"]
 		},
 		{
 			"es": ["dromedario", "camello"],
-			"fr": ["dromadaire"]
+			"fr": ["dromadaire"],
+			"en": ["dromedary", "camel"],
+			"cn": ["单峰驼", "dānfēng tuó"],
+			"de": ["Dromedar"],
+			"ja": ["キャメル", "Kyameru"]
 		},
 		{
 			"es": ["ardilla"],
-			"fr": ["écureuil"]
+			"fr": ["écureuil"],
+			"en": ["squirrel"],
+			"cn": ["松鼠", "sōng shǔ"],
+			"de": ["Eichhörnchen"],
+			"ja": ["リス", "Risu"]
 		},
 		{
 			"es": ["elefante"],
-			"fr": ["éléphant"]
+			"fr": ["éléphant"],
+			"en": ["elephant"],
+			"cn": ["大象", "dà xiàng"],
+			"de": ["Elefant"],
+			"ja": ["象", "Zō"]
 		},
 		{
 			"es": ["hurón"],
-			"fr": ["furet"]
+			"fr": ["furet"],
+			"en": ["ferret"],
+			"cn": ["雪貂", "xuě diāo"],
+			"de": ["Frettchen"],
+			"ja": ["フェレット", "Feretto"]
 		},
 		{
 			"es": ["jirafa"],
-			"fr": ["girafe"]
+			"fr": ["girafe"],
+			"en": ["giraffe"],
+			"cn": ["长颈鹿", "cháng jǐng lù"],
+			"de": ["Giraffe"],
+			"ja": ["キリン", "Kirin"]
 		},
 		{
 			"es": ["gorila"],
-			"fr": ["gorille"]
+			"fr": ["gorille"],
+			"en": ["gorilla"],
+			"cn": ["大猩猩", "dà xīng xīng"],
+			"de": ["Gorilla"],
+			"ja": ["ゴリラ", "Gorira"]
 		},
 		{
 			"es": ["guepardo", "chita"],
-			"fr": ["guépard"]
+			"fr": ["guépard"],
+			"en": ["cheetah"],
+			"cn": ["猎豹", "liè bào"],
+			"de": ["Gepard"],
+			"ja": ["チーター", "Chītā"]
 		},
 		{
 			"es": ["ñu"],
-			"fr": ["gnou"]
+			"fr": ["gnou"],
+			"en": ["gnu", "wildebeest"],
+			"cn": ["角马", "jiǎo mǎ"],
+			"de": ["Gnu"],
+			"ja": ["ヌー", "Nū"]
 		},
 		{
 			"es": ["erizo"],
-			"fr": ["hérisson"]
+			"fr": ["hérisson"],
+			"en": ["hedgehog"],
+			"cn": ["刺猬", "cì wèi"],
+			"de": ["Igel"],
+			"ja": ["ハリネズミ", "Harinezumi"]
 		},
 		{
 			"es": ["hipopótamo"],
-			"fr": ["hippopotame"]
+			"fr": ["hippopotame"],
+			"en": ["hippopotamus"],
+			"cn": ["河马", "hé mǎ"],
+			"de": ["Nilpferd"],
+			"ja": ["カバ", "Kaba"]
 		},
 		{
 			"es": ["humano"],
-			"fr": ["humain"]
+			"fr": ["humain"],
+			"en": ["human"],
+			"cn": ["人类", "rén lèi"],
+			"de": ["Mensch"],
+			"ja": ["人間", "Ningen"]
 		},
 		{
 			"es": ["hiena"],
-			"fr": ["hyène"]
+			"fr": ["hyène"],
+			"en": ["hyena"],
+			"cn": ["鬣狗", "liè gǒu"],
+			"de": ["Hyäne"],
+			"ja": ["ハイエナ", "Haiena"]
 		},
 		{
 			"es": ["canguro"],
-			"fr": ["kangourou"]
+			"fr": ["kangourou"],
+			"en": ["kangaroo"],
+			"cn": ["袋鼠", "dài shǔ"],
+			"de": ["Känguru"],
+			"ja": ["カンガルー", "Kangarū"]
 		},
 		{
 			"es": ["llama", "lama"],
-			"fr": ["lama"]
+			"fr": ["lama"],
+			"en": ["llama"],
+			"cn": ["駱马", "luò mǎ"],
+			"de": ["Lama"],
+			"ja": ["ラマ", "Rama"]
 		},
 		{
 			"es": ["conejo", "conejito"],
-			"fr": ["lapin"]
+			"fr": ["lapin"],
+			"en": ["rabbit", "bunny"],
+			"cn": ["兔子", "tù zi"],
+			"de": ["Kaninchen"],
+			"ja": ["ウサギ", "Usagi"]
 		},
 		{
 			"es": ["lémur"],
-			"fr": ["lémur"]
+			"fr": ["lémur"],
+			"en": ["lemur"],
+			"cn": ["狐猴", "hú hóu"],
+			"de": ["Lemur"],
+			"ja": ["レムール", "Remūru"]
 		},
 		{
 			"es": ["leopardo"],
-			"fr": ["léopard"]
+			"fr": ["léopard"],
+			"en": ["leopard"],
+			"cn": ["豹", "bào"],
+			"de": ["Leopard"],
+			"ja": ["ヒョウ", "Hyō"]
 		},
 		{
 			"es": ["pantera"],
-			"fr": ["panthère"]
+			"fr": ["panthère"],
+			"en": ["panther"],
+			"cn": ["黑豹", "hēi bào"],
+			"de": ["Panther"],
+			"ja": ["パンサー", "Pansā"]
 		},
 		{
 			"es": ["liebre"],
-			"fr": ["lièvre"]
+			"fr": ["lièvre"],
+			"en": ["hare"],
+			"cn": ["野兔", "yě tù"],
+			"de": ["Hase"],
+			"ja": ["野ウサギ", "Nousagi"]
 		},
 		{
 			"es": ["león"],
-			"fr": ["lion"]
+			"fr": ["lion"],
+			"en": ["lion"],
+			"cn": ["狮子", "shīzi"],
+			"de": ["Löwe"],
+			"ja": ["ライオン", "Raion"]
 		},
 		{
 			"es": ["lobo"],
-			"fr": ["loup"]
+			"fr": ["loup"],
+			"en": ["wolf"],
+			"cn": ["狼", "láng"],
+			"de": ["Wolf"],
+			"ja": ["狼", "Ōkami"]
 		},
 		{
 			"es": ["lince"],
-			"fr": ["lynx"]
+			"fr": ["lynx"],
+			"en": ["lynx"],
+			"cn": ["猞猁", "shē lì"],
+			"de": ["Luchs"],
+			"ja": ["リンクス", "Rinkusu"]
 		},
 		{
 			"es": ["nutria"],
-			"fr": ["loutre"]
+			"fr": ["loutre"],
+			"en": ["otter"],
+			"cn": ["水獭", "shuǐ tǎ"],
+			"de": ["Otter"],
+			"ja": ["カワウソ", "Kawauso"]
 		},
 		{
 			"es": ["marmota"],
-			"fr": ["marmotte"]
+			"fr": ["marmotte"],
+			"en": ["marmot"],
+			"cn": ["旱獭", "hàn tǎ"],
+			"de": ["Murmeltier"],
+			"ja": ["マーモット", "Māmotto"]
 		},
 		{
 			"es": ["oveja", "cordero", "ovina"],
-			"fr": ["mouton"]
+			"fr": ["mouton"],
+			"en": ["sheep", "lamb"],
+			"cn": ["羊", "yáng"],
+			"de": ["Schaf"],
+			"ja": ["羊", "Hitsuji"]
 		},
 		{
 			"es": ["orca", "orco"],
-			"fr": ["orque"]
+			"fr": ["orque"],
+			"en": ["orca"],
+			"cn": ["虎鲸", "hǔ jīng"],
+			"de": ["Orca"],
+			"ja": ["シャチ", "Shachi"]
 		},
 		{
 			"es": ["león marino", "lobo marino", "foca"],
-			"fr": ["otarie"]
+			"fr": ["otarie"],
+			"en": ["sea lion"],
+			"cn": ["海狮", "hǎi shī"],
+			"de": ["Seelöwe"],
+			"ja": ["アシカ", "Ashika"]
 		},
 		{
 			"es": ["tití", "mono", "monito"],
-			"fr": ["ouistiti"]
+			"fr": ["ouistiti"],
+			"en": ["marmoset"],
+			"cn": ["狨猴", "róng hóu"],
+			"de": ["Krallenaffe"],
+			"ja": ["マーモセット", "Māmosetto"]
 		},
 		{
 			"es": ["oso"],
-			"fr": ["ours"]
+			"fr": ["ours"],
+			"en": ["bear"],
+			"cn": ["熊", "xióng"],
+			"de": ["Bär"],
+			"ja": ["熊", "Kuma"]
 		},
 		{
 			"es": ["jabalí verrugoso", "facóquero"],
-			"fr": ["phacochère"]
+			"fr": ["phacochère"],
+			"en": ["warthog"],
+			"cn": ["疣猪", "yóu zhū"],
+			"de": ["Warzenschwein"],
+			"ja": ["イボイノシシ", "Iboinoshishi"]
 		},
 		{
 			"es": ["pony", "poni"],
-			"fr": ["poney"]
+			"fr": ["poney"],
+			"en": ["pony"],
+			"cn": ["矮马", "ǎi mǎ"],
+			"de": ["Pony"],
+			"ja": ["ポニー", "Ponī"]
 		},
 		{
 			"es": ["rata"],
-			"fr": ["rat"]
+			"fr": ["rat"],
+			"en": ["rat"],
+			"cn": ["鼠", "shǔ"],
+			"de": ["Ratte"],
+			"ja": ["ネズミ", "Nezumi"]
 		},
 		{
 			"es": ["zorro"],
-			"fr": ["renard"]
+			"fr": ["renard"],
+			"en": ["fox"],
+			"cn": ["狐狸", "hú li"],
+			"de": ["Fuchs"],
+			"ja": ["キツネ", "Kitsune"]
 		},
 		{
 			"es": ["rinoceronte"],
-			"fr": ["rhinocéros"]
+			"fr": ["rhinocéros"],
+			"en": ["rhinoceros"],
+			"cn": ["犀牛", "xī niú"],
+			"de": ["Nashorn"],
+			"ja": ["サイ", "Sai"]
 		},
 		{
 			"es": ["jabalí"],
-			"fr": ["sanglier"]
+			"fr": ["sanglier"],
+			"en": ["wild boar"],
+			"cn": ["野猪", "yě zhū"],
+			"de": ["Wildschwein"],
+			"ja": ["イノシシ", "Inoshishi"]
 		},
 		{
 			"es": ["mono"],
-			"fr": ["singe"]
+			"fr": ["singe"],
+			"en": ["monkey"],
+			"cn": ["猴子", "hóu zi"],
+			"de": ["Affe"],
+			"ja": ["猿", "Saru"]
 		},
 		{
 			"es": ["ratón", "mouse"],
-			"fr": ["souris"]
+			"fr": ["souris"],
+			"en": ["mouse"],
+			"cn": ["鼠", "shǔ"],
+			"de": ["Maus"],
+			"ja": ["マウス", "Mausu"]
 		},
 		{
 			"es": ["topo"],
-			"fr": ["taupe"]
+			"fr": ["taupe"],
+			"en": ["mole"],
+			"cn": ["鼹鼠", "yǎn shǔ"],
+			"de": ["Maulwurf"],
+			"ja": ["モグラ", "Mogura"]
 		},
 		{
 			"es": ["tigre"],
-			"fr": ["tigre"]
+			"fr": ["tigre"],
+			"en": ["tiger"],
+			"cn": ["老虎", "lǎo hǔ"],
+			"de": ["Tiger"],
+			"ja": ["虎", "Tora"]
 		},
 		{
 			"es": ["vaca"],
-			"fr": ["vache"]
+			"fr": ["vache"],
+			"en": ["cow"],
+			"cn": ["奶牛", "nǎi niú"],
+			"de": ["Kuh"],
+			"ja": ["牛", "Ushi"]
 		},
 		{
 			"es": ["cebra"],
-			"fr": ["zèbre"]
+			"fr": ["zèbre"],
+			"en": ["zebra"],
+			"cn": ["斑马", "bān mǎ"],
+			"de": ["Zebra"],
+			"ja": ["シマウマ", "Shimauma"]
 		},
 		{
 			"es": ["pájaro", "ave", "pajarito"],
-			"fr": ["oiseau"]
+			"fr": ["oiseau"],
+			"en": ["bird"],
+			"cn": ["鸟", "niǎo"],
+			"de": ["Vogel"],
+			"ja": ["鳥", "Tori"]
 		},
 		{
 			"es": ["águila"],
-			"fr": ["aigle"]
+			"fr": ["aigle"],
+			"en": ["eagle"],
+			"cn": ["鹰", "yīng"],
+			"de": ["Adler"],
+			"ja": ["鷲", "Washi"]
 		},
 		{
 			"es": ["albatros"],
-			"fr": ["albatros"]
+			"fr": ["albatros"],
+			"en": ["albatross"],
+			"cn": ["信天翁", "xìn tiān wēng"],
+			"de": ["Albatros"],
+			"ja": ["アルバトロス", "Arubatorosu"]
 		},
 		{
 			"es": ["alondra"],
-			"fr": ["alouette"]
+			"fr": ["alouette"],
+			"en": ["lark"],
+			"cn": ["百灵鸟", "bǎi líng niǎo"],
+			"de": ["Lerche"],
+			"ja": ["ヒバリ", "Hibari"]
 		},
 		{
 			"es": ["avestruz"],
-			"fr": ["autruche"]
+			"fr": ["autruche"],
+			"en": ["ostrich"],
+			"cn": ["鸵鸟", "tuó niǎo"],
+			"de": ["Strauß"],
+			"ja": ["ダチョウ", "Dachō"]
 		},
 		{
 			"es": ["boquilla"],
-			"fr": ["buse"]
+			"fr": ["buse"],
+			"en": ["buzzard"],
+			"cn": ["秃鹫", "tū jiù"],
+			"de": ["Mäusebussard"],
+			"ja": ["ノスリ", "Nosuri"]
 		},
 		{
 			"es": ["codorniz"],
-			"fr": ["caille"]
+			"fr": ["caille"],
+			"en": ["quail"],
+			"cn": ["鹌鹑", "ān chún"],
+			"de": ["Wachtel"],
+			"ja": ["ウズラ", "Uzura"]
 		},
 		{
 			"es": ["pato"],
-			"fr": ["canard"]
+			"fr": ["canard"],
+			"en": ["duck"],
+			"cn": ["鸭", "yā"],
+			"de": ["Ente"],
+			"ja": ["アヒル", "Ahiru"]
 		},
 		{
 			"es": ["búho"],
-			"fr": ["chouette"]
+			"fr": ["chouette"],
+			"en": ["owl"],
+			"cn": ["猫头鹰", "māo tóu yīng"],
+			"de": ["Eule"],
+			"ja": ["フクロウ", "Fukurō"]
 		},
 		{
 			"es": ["cigüeña"],
-			"fr": ["cigogne"]
+			"fr": ["cigogne"],
+			"en": ["stork"],
+			"cn": ["鹳", "guàn"],
+			"de": ["Storch"],
+			"ja": ["コウノトリ", "Kōnotori"]
 		},
 		{
 			"es": ["colibrí"],
-			"fr": ["colibri"]
+			"fr": ["colibri"],
+			"en": ["hummingbird"],
+			"cn": ["蜂鸟", "fēng niǎo"],
+			"de": ["Kolibri"],
+			"ja": ["ハチドリ", "Hachidori"]
 		},
 		{
 			"es": ["paloma"],
-			"fr": ["colombe"]
+			"fr": ["colombe"],
+			"en": ["dove"],
+			"cn": ["鸽子", "gē zi"],
+			"de": ["Taube"],
+			"ja": ["鳩", "Hato"]
 		},
 		{
 			"es": ["gallo"],
-			"fr": ["coq"]
+			"fr": ["coq"],
+			"en": ["rooster"],
+			"cn": ["公鸡", "gōng jī"],
+			"de": ["Hahn"],
+			"ja": ["雄鶏", "Ondori"]
 		},
 		{
 			"es": ["gallina", "pollo"],
-			"fr": ["poule"]
+			"fr": ["poule"],
+			"en": ["hen"],
+			"cn": ["母鸡", "mǔ jī"],
+			"de": ["Henne"],
+			"ja": ["雌鶏", "Mesudori"]
 		},
 		{
 			"es": ["pollito", "cariño"],
-			"fr": ["poussin"]
+			"fr": ["poussin"],
+			"en": ["chick"],
+			"cn": ["小鸡", "xiǎo jī"],
+			"de": ["Küken"],
+			"ja": ["ひよこ", "Hiyoko"]
 		},
 		{
 			"es": ["pollo"],
-			"fr": ["poulet"]
+			"fr": ["poulet"],
+			"en": ["chicken"],
+			"cn": ["鸡肉", "jī ròu"],
+			"de": ["Hähnchen"],
+			"ja": ["鶏肉", "Toriniku"]
 		},
 		{
 			"es": ["cisne"],
-			"fr": ["cygne"]
+			"fr": ["cygne"],
+			"en": ["swan"],
+			"cn": ["天鹅", "tiān é"],
+			"de": ["Schwan"],
+			"ja": ["白鳥", "Hakuchō"]
 		},
 		{
 			"es": ["pavo"],
-			"fr": ["dinde", "dindon"]
+			"fr": ["dinde", "dindon"],
+			"en": ["turkey"],
+			"cn": ["火鸡", "huǒ jī"],
+			"de": ["Truthahn"],
+			"ja": ["七面鳥", "Shichimenchō"]
 		},
 		{
 			"es": ["halcón"],
-			"fr": ["faucon"]
+			"fr": ["faucon"],
+			"en": ["falcon"],
+			"cn": ["猎鹰", "liè yīng"],
+			"de": ["Falke"],
+			"ja": ["ファルコン", "Farukon"]
 		},
 		{
 			"es": ["grúa"],
-			"fr": ["grue"]
+			"fr": ["grue"],
+			"en": ["crane"],
+			"cn": ["鹤", "hè"],
+			"de": ["Kranich"],
+			"ja": ["鶴", "Tsuru"]
 		},
 		{
 			"es": ["búho", "lechuza"],
-			"fr": ["hibou"]
+			"fr": ["hibou"],
+			"en": ["owl"],
+			"cn": ["猫头鹰", "māo tóu yīng"],
+			"de": ["Uhu"],
+			"ja": ["フクロウ", "Fukurō"]
 		},
 		{
 			"es": ["carbonero", "tit", "herrerillo"],
-			"fr": ["mésange"]
-	   
-
- },
+			"fr": ["mésange"],
+			"en": ["tit"],
+			"cn": ["山雀", "shān què"],
+			"de": ["Meise"],
+			"ja": ["シジュウカラ", "Shijūkara"]
+		},
 		{
 			"es": ["gorrión"],
-			"fr": ["moineau"]
+			"fr": ["moineau"],
+			"en": ["sparrow"],
+			"cn": ["麻雀", "má què"],
+			"de": ["Spatz"],
+			"ja": ["スズメ", "Suzume"]
 		},
 		{
 			"es": ["ganso", "oca"],
-			"fr": ["oie"]
+			"fr": ["oie"],
+			"en": ["goose"],
+			"cn": ["鹅", "é"],
+			"de": ["Gans"],
+			"ja": ["ガチョウ", "Gachō"]
 		},
 		{
 			"es": ["pavo real"],
-			"fr": ["paon"]
+			"fr": ["paon"],
+			"en": ["peacock"],
+			"cn": ["孔雀", "kǒng què"],
+			"de": ["Pfau"],
+			"ja": ["クジャク", "Kujaku"]
 		},
 		{
 			"es": ["loro"],
-			"fr": ["perroquet"]
+			"fr": ["perroquet"],
+			"en": ["parrot"],
+			"cn": ["鹦鹉", "yīng wǔ"],
+			"de": ["Papagei"],
+			"ja": ["オウム", "Ōmu"]
 		},
 		{
 			"es": ["paloma"],
-			"fr": ["pigeon"]
+			"fr": ["pigeon"],
+			"en": ["pigeon"],
+			"cn": ["鸽子", "gē zi"],
+			"de": ["Taube"],
+			"ja": ["鳩", "Hato"]
 		},
 		{
 			"es": ["pingüino"],
-			"fr": ["pingouin"]
+			"fr": ["pingouin"],
+			"en": ["penguin"],
+			"cn": ["企鹅", "qǐ é"],
+			"de": ["Pinguin"],
+			"ja": ["ペンギン", "Pengin"]
 		},
 		{
 			"es": ["buitre"],
-			"fr": ["vautour"]
+			"fr": ["vautour"],
+			"en": ["vulture"],
+			"cn": ["秃鹫", "tū jiù"],
+			"de": ["Geier"],
+			"ja": ["ハゲワシ", "Hagewashi"]
 		},
 		{
 			"es": ["insecto", "bicho"],
-			"fr": ["insecte"]
+			"fr": ["insecte"],
+			"en": ["insect", "bug"],
+			"cn": ["昆虫", "kūn chóng"],
+			"de": ["Insekt"],
+			"ja": ["昆虫", "Konchū"]
 		},
 		{
 			"es": ["abeja"],
-			"fr": ["abeille"]
+			"fr": ["abeille"],
+			"en": ["bee"],
+			"cn": ["蜜蜂", "mì fēng"],
+			"de": ["Biene"],
+			"ja": ["蜂", "Hachi"]
 		},
 		{
 			"es": ["abejón", "abejorro"],
-			"fr": ["bourdon"]
+			"fr": ["bourdon"],
+			"en": ["bumblebee"],
+			"cn": ["大黄蜂", "dà huáng fēng"],
+			"de": ["Hummel"],
+			"ja": ["熊蜂", "Kumabachi"]
 		},
 		{
 			"es": ["cigarra"],
-			"fr": ["cigale"]
+			"fr": ["cigale"],
+			"en": ["cicada"],
+			"cn": ["蝉", "chán"],
+			"de": ["Zikade"],
+			"ja": ["セミ", "Semi"]
 		},
 		{
 			"es": ["hormiga"],
-			"fr": ["fourmi"]
+			"fr": ["fourmi"],
+			"en": ["ant"],
+			"cn": ["蚂蚁", "mǎ yǐ"],
+			"de": ["Ameise"],
+			"ja": ["蟻", "Ari"]
 		},
 		{
 			"es": ["avispa"],
-			"fr": ["guêpe"]
+			"fr": ["guêpe"],
+			"en": ["wasp"],
+			"cn": ["黄蜂", "huáng fēng"],
+			"de": ["Wespe"],
+			"ja": ["スズメバチ", "Suzumebachi"]
 		},
 		{
 			"es": ["mosca"],
-			"fr": ["mouche"]
+			"fr": ["mouche"],
+			"en": ["fly"],
+			"cn": ["苍蝇", "cāng yíng"],
+			"de": ["Fliege"],
+			"ja": ["ハエ", "Hae"]
 		},
 		{
 			"es": ["mariposa", "pajarita"],
-			"fr": ["papillon"]
+			"fr": ["papillon"],
+			"en": ["butterfly"],
+			"cn": ["蝴蝶", "hú dié"],
+			"de": ["Schmetterling"],
+			"ja": ["蝶", "Chō"]
 		},
 		{
 			"es": ["cariño"],
-			"fr": ["puce"]
+			"fr": ["puce"],
+			"en": ["flea"],
+			"cn": ["跳蚤", "tiào zǎo"],
+			"de": ["Floh"],
+			"ja": ["蚤", "nomi"]
 		},
 		{
 			"es": ["saltamontes"],
-			"fr": ["sauterelle"]
+			"fr": ["sauterelle"],
+			"en": ["grasshopper"],
+			"cn": ["蝗虫", "huáng chóng"],
+			"de": ["Heuschrecke"],
+			"ja": ["キリギリス", "Kirigirisu"]
 		},
 		{
 			"es": ["chinche"],
-			"fr": ["punaise"]
+			"fr": ["punaise"],
+			"en": ["bedbug"],
+			"cn": ["臭虫", "chòu chóng"],
+			"de": ["Bettwanze"],
+			"ja": ["トコジラミ", "Tokojirami"]
 		},
 		{
 			"es": ["crustáceo"],
-			"fr": ["crustacé"]
+			"fr": ["crustacé"],
+			"en": ["crustacean"],
+			"cn": ["甲壳类", "jiǎ ké lèi"],
+			"de": ["Kruste"],
+			"ja": ["甲殻類", "Kōkaku-rui"]
 		},
 		{
 			"es": ["camarón", "gamba"],
-			"fr": ["crevette"]
+			"fr": ["crevette"],
+			"en": ["shrimp"],
+			"cn": ["虾", "xiā"],
+			"de": ["Garnele"],
+			"ja": ["海老", "Ebi"]
 		},
 		{
 			"es": ["molusco"],
-			"fr": ["mollusque"]
+			"fr": ["mollusque"],
+			"en": ["mollusk"],
+			"cn": ["软体动物", "ruǎn tǐ dòng wù"],
+			"de": ["Weichtier"],
+			"ja": ["軟体動物", "Nantaidōbutsu"]
 		},
 		{
 			"es": ["caracol"],
-			"fr": ["escargot"]
+			"fr": ["escargot"],
+			"en": ["snail"],
+			"cn": ["蜗牛", "wō niú"],
+			"de": ["Schnecke"],
+			"ja": ["カタツムリ", "Katatsumuri"]
 		},
 		{
 			"es": ["ostra"],
-			"fr": ["huître"]
+			"fr": ["huître"],
+			"en": ["oyster"],
+			"cn": ["牡蛎", "mǔ lì"],
+			"de": ["Auster"],
+			"ja": ["カキ", "Kaki"]
 		},
 		{
 			"es": ["molde"],
-			"fr": ["moule"]
+			"fr": ["moule"],
+			"en": ["mussel"],
+			"cn": ["贻贝", "yí bèi"],
+			"de": ["Miesmuschel"],
+			"ja": ["ムール貝", "Mūru kai"]
 		},
 		{
 			"es": ["gusano"],
-			"fr": ["ver"]
+			"fr": ["ver"],
+			"en": ["worm"],
+			"cn": ["蠕虫", "rú chóng"],
+			"de": ["Wurm"],
+			"ja": ["ミミズ", "Mimizu"]
 		},
 		{
 			"es": ["sanguijuela"],
-			"fr": ["sangsue"]
+			"fr": ["sangsue"],
+			"en": ["leech"],
+			"cn": ["水蛭", "shuǐ zhì"],
+			"de": ["Blutegel"],
+			"ja": ["ヒル", "hiru"]
 		},
 		{
 			"es": ["pez", "pescado"],
-			"fr": ["poisson"]
+			"fr": ["poisson"],
+			"en": ["fish"],
+			"cn": ["鱼", "yú"],
+			"de": ["Fisch"],
+			"ja": ["魚", "Sakana"]
 		},
 		{
 			"es": ["arenque"],
-			"fr": ["hareng"]
+			"fr": ["hareng"],
+			"en": ["herring"],
+			"cn": ["鲱鱼", "fēi yú"],
+			"de": ["Hering"],
+			"ja": ["にしん", "Nishin"]
 		},
 		{
 			"es": ["caballa"],
-			"fr": ["maquereau"]
+			"fr": ["maquereau"],
+			"en": ["mackerel"],
+			"cn": ["鲭鱼", "qīng yú"],
+			"de": ["Makrele"],
+			"ja": ["サバ", "Saba"]
 		},
 		{
 			"es": ["sardina"],
-			"fr": ["sardine"]
+			"fr": ["sardine"],
+			"en": ["sardine"],
+			"cn": ["沙丁鱼", "shā dīng yú"],
+			"de": ["Sardine"],
+			"ja": ["イワシ", "Iwashi"]
 		},
 		{
 			"es": ["salmón"],
-			"fr": ["saumon"]
+			"fr": ["saumon"],
+			"en": ["salmon"],
+			"cn": ["鲑鱼", "guī yú"],
+			"de": ["Lachs"],
+			"ja": ["サケ", "Sake"]
 		},
 		{
 			"es": ["trucha"],
-			"fr": ["truite"]
+			"fr": ["truite"],
+			"en": ["trout"],
+			"cn": ["鳟鱼", "zūn yú"],
+			"de": ["Forelle"],
+			"ja": ["トラウト", "Torauto"]
 		},
 		{
 			"es": ["reptil"],
-			"fr": ["reptile"]
+			"fr": ["reptile"],
+			"en": ["reptile"],
+			"cn": ["爬行动物", "pá xíng dòng wù"],
+			"de": ["Reptil"],
+			"ja": ["爬虫類", "Hachūrui"]
 		},
 		{
 			"es": ["culebra"],
-			"fr": ["couleuvre"]
+			"fr": ["couleuvre"],
+			"en": ["snake"],
+			"cn": ["蛇", "shé"],
+			"de": ["Schlange"],
+			"ja": ["蛇", "Hebi"]
 		},
 		{
 			"es": ["cocodrilo"],
-			"fr": ["crocodile"]
+			"fr": ["crocodile"],
+			"en": ["crocodile"],
+			"cn": ["鳄鱼", "è yú"],
+			"de": ["Krokodil"],
+			"ja": ["ワニ", "Wani"]
 		},
 		{
 			"es": ["lagarto", "lagartija"],
-			"fr": ["lézard"]
+			"fr": ["lézard"],
+			"en": ["lizard"],
+			"cn": ["蜥蜴", "xī yì"],
+			"de": ["Eidechse"],
+			"ja": ["トカゲ", "Tokage"]
 		},
 		{
 			"es": ["serpiente"],
-			"fr": ["serpent"]
+			"fr": ["serpent"],
+			"en": ["snake"],
+			"cn": ["蛇", "shé"],
+			"de": ["Schlange"],
+			"ja": ["蛇", "Hebi"]
 		},
 		{
 			"es": ["tortuga"],
-			"fr": ["tortue"]
+			"fr": ["tortue"],
+			"en": ["turtle"],
+			"cn": ["乌龟", "wū guī"],
+			"de": ["Schildkröte"],
+			"ja": ["亀", "Kame"]
 		},
 		{
 			"es": ["víbora"],
-			"fr": ["vipère"]
+			"fr": ["vipère"],
+			"en": ["viper"],
+			"cn": ["蝰蛇", "kuí shé"],
+			"de": ["Viper"],
+			"ja": ["マムシ", "Mamushi"]
 		},
 		{
 			"es": ["anfibio"],
-			"fr": ["amphibien"]
+			"fr": ["amphibien"],
+			"en": ["amphibian"],
+			"cn": ["两栖动物", "liǎng qī dòng wù"],
+			"de": ["Amphibie"],
+			"ja": ["両生類", "Ryōseirui"]
 		},
 		{
 			"es": ["sapo"],
-			"fr": ["crapaud"]
+			"fr": ["crapaud"],
+			"en": ["toad"],
+			"cn": ["蟾蜍", "chán chú"],
+			"de": ["Kröte"],
+			"ja": ["ヒキガエル", "Hikigaeru"]
 		},
 		{
 			"es": ["rana"],
-			"fr": ["grenouille"]
+			"fr": ["grenouille"],
+			"en": ["frog"],
+			"cn": ["青蛙", "qīng wā"],
+			"de": ["Frosch"],
+			"ja": ["カエル", "Kaeru"]
 		},
 		{
 			"es": ["salamandra"],
-			"fr": ["salamandre"]
+			"fr": ["salamandre"],
+			"en": ["salamander"],
+			"cn": ["火蜥蜴", "huǒ xī yì"],
+			"de": ["Salamander"],
+			"ja": ["サンショウウオ", "Sanshō̄o"]
 		}
 	]
 }

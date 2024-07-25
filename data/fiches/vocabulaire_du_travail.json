@@ -1,0 +1,284 @@
+{
+    "name": {
+        "es": "El trabajo",
+        "fr": "Le travail",
+        "en": "Work",
+        "cn": "工作 gong zuo",
+        "de": "Arbeit",
+        "ja": "仕事 shigoto"
+    },
+    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "elements": [{
+            "es": ["El empleo"],
+            "fr": ["L'emploi"],
+            "en": ["Job", "Employment"],
+            "cn": ["工作", "gong zuo"],
+            "de": ["Job", "Beschäftigung"],
+            "ja": ["仕事", "shigoto"]
+        },
+        {
+            "es": ["La carrera"],
+            "fr": ["Carrière"],
+            "en": ["Career"],
+            "cn": ["事业", "shi ye"],
+            "de": ["Karriere"],
+            "ja": ["キャリア", "kyaria"]
+        },
+        {
+            "es": ["El jefe", "La jefa"],
+            "fr": ["Le chef", "La cheffe"],
+            "en": ["Boss", "Manager"],
+            "cn": ["老板", "lao ban"],
+            "de": ["Chef", "Chefin"],
+            "ja": ["上司", "jo shi"]
+        },
+        {
+            "es": ["El colega"],
+            "fr": ["Le collègue"],
+            "en": ["Colleague", "Coworker"],
+            "cn": ["同事", "tong shi"],
+            "de": ["Kollege"],
+            "ja": ["同僚", "douryou"]
+        },
+        {
+            "es": ["El salario", "El sueldo"],
+            "fr": ["Le salaire"],
+            "en": ["Salary", "Wage"],
+            "cn": ["工资", "gong zi"],
+            "de": ["Gehalt", "Lohn"],
+            "ja": ["給料", "kyuuryou"]
+        },
+        {
+            "es": ["La oficina"],
+            "fr": ["Le bureau"],
+            "en": ["Office"],
+            "cn": ["办公室", "ban gong shi"],
+            "de": ["Büro"],
+            "ja": ["オフィス", "ofisu"]
+        },
+        {
+            "es": ["El contrato"],
+            "fr": ["Le contrat"],
+            "en": ["Contract"],
+            "cn": ["合同", "he tong"],
+            "de": ["Vertrag"],
+            "ja": ["契約", "keiyaku"]
+        },
+        {
+            "es": ["La entrevista"],
+            "fr": ["L'entretien"],
+            "en": ["Interview"],
+            "cn": ["面试", "mian shi"],
+            "de": ["Interview", "Vorstellungsgespräch"],
+            "ja": ["面接", "mensetsu"]
+        },
+        {
+            "es": ["La reunión"],
+            "fr": ["La réunion"],
+            "en": ["Meeting"],
+            "cn": ["会议", "hui yi"],
+            "de": ["Besprechung"],
+            "ja": ["会議", "kaigi"]
+        },
+        {
+            "es": ["El proyecto"],
+            "fr": ["Le projet"],
+            "en": ["Project"],
+            "cn": ["项目", "xiang mu"],
+            "de": ["Projekt"],
+            "ja": ["プロジェクト", "purojekuto"]
+        },
+        {
+            "es": ["La tarea"],
+            "fr": ["La tâche"],
+            "en": ["Task"],
+            "cn": ["任务", "ren wu"],
+            "de": ["Aufgabe"],
+            "ja": ["課題", "kadai"]
+        },
+        {
+            "es": ["La jornada"],
+            "fr": ["La journée"],
+            "en": ["Workday", "Working hours"],
+            "cn": ["工作日", "gong zuo ri"],
+            "de": ["Arbeitstag"],
+            "ja": ["勤務日", "kinmu bi"]
+        },
+        {
+            "es": ["El horario"],
+            "fr": ["L'horaire"],
+            "en": ["Schedule"],
+            "cn": ["时间表", "shi jian biao"],
+            "de": ["Zeitplan"],
+            "ja": ["スケジュール", "sukejuuru"]
+        },
+        {
+            "es": ["El descanso"],
+            "fr": ["La pause"],
+            "en": ["Break"],
+            "cn": ["休息", "xiu xi"],
+            "de": ["Pause"],
+            "ja": ["休憩", "kyuukei"]
+        },
+        {
+            "es": ["El empleo a tiempo completo"],
+            "fr": ["Le travail à temps plein"],
+            "en": ["Full-time job"],
+            "cn": ["全职工作", "quan zhi gong zuo"],
+            "de": ["Vollzeitjob"],
+            "ja": ["フルタイムの仕事", "furu taimu no shigoto"]
+        },
+        {
+            "es": ["El empleo a tiempo parcial"],
+            "fr": ["Le travail à temps partiel"],
+            "en": ["Part-time job"],
+            "cn": ["兼职工作", "jian zhi gong zuo"],
+            "de": ["Teilzeitjob"],
+            "ja": ["パートタイムの仕事", "pāto taimunoshigoto"]
+        },
+        {
+            "es": ["El desempleo", "El paro"],
+            "fr": ["Le chômage"],
+            "en": ["Unemployment"],
+            "cn": ["失业", "shi ye"],
+            "de": ["Arbeitslosigkeit"],
+            "ja": ["失業", "shitsugyou"]
+        },
+        {
+            "es": ["El ascenso"],
+            "fr": ["La promotion"],
+            "en": ["Promotion"],
+            "cn": ["晋升", "jin sheng"],
+            "de": ["Beförderung"],
+            "ja": ["昇進", "shoushin"]
+        },
+        {
+            "es": ["El jefe de equipo"],
+            "fr": ["Le chef d'équipe"],
+            "en": ["Team leader"],
+            "cn": ["团队领导", "tuan dui ling dao"],
+            "de": ["Teamleiter"],
+            "ja": ["チームリーダー", "chiimu riidaa"]
+        },
+        {
+            "es": ["El despido"],
+            "fr": ["Le licenciement"],
+            "en": ["Dismissal", "Layoff"],
+            "cn": ["解雇", "jie gu"],
+            "de": ["Entlassung"],
+            "ja": ["解雇", "kaiko"]
+        },
+        {
+            "es": ["La jubilación"],
+            "fr": ["La retraite"],
+            "en": ["Retirement"],
+            "cn": ["退休", "tui xiu"],
+            "de": ["Ruhestand"],
+            "ja": ["退職", "taishoku"]
+        },
+        {
+            "es": ["El currículum", "El CV"],
+            "fr": ["Le CV"],
+            "en": ["Resume", "CV"],
+            "cn": ["简历", "jian li"],
+            "de": ["Lebenslauf"],
+            "ja": ["履歴書", "rirekisho"]
+        },
+        {
+            "es": ["El puesto"],
+            "fr": ["Le poste"],
+            "en": ["Position", "Post"],
+            "cn": ["职位", "zhi wei"],
+            "de": ["Position", "Stelle"],
+            "ja": ["ポジション", "pojishon"]
+        },
+        {
+            "es": ["El trabajador autónomo"],
+            "fr": ["Le travailleur indépendant"],
+            "en": ["Freelancer", "Self-employed"],
+            "cn": ["自由职业者", "zi you zhi ye zhe"],
+            "de": ["Freiberufler"],
+            "ja": ["フリーランサー", "furiiransaa"]
+        },
+        {
+            "es": ["La empresa"],
+            "fr": ["L'entreprise"],
+            "en": ["Company", "Enterprise"],
+            "cn": ["公司", "gong si"],
+            "de": ["Unternehmen", "Firma", "Gesellschaft"],
+            "ja": ["会社", "kaisha"]
+        },
+        {
+            "es": ["La formación"],
+            "fr": ["La formation"],
+            "en": ["Training"],
+            "cn": ["培训", "pei xun"],
+            "de": ["Ausbildung", "Schulung"],
+            "ja": ["トレーニング", "toreeningu"]
+        },
+        {
+            "es": ["El presupuesto"],
+            "fr": ["Le budget"],
+            "en": ["Budget"],
+            "cn": ["预算", "yu suan"],
+            "de": ["Budget"],
+            "ja": ["予算", "yosan"]
+        },
+        {
+            "es": ["El colega de trabajo"],
+            "fr": ["Le collaborateur"],
+            "en": ["Associate", "Collaborator"],
+            "cn": ["合作者", "he zuo zhe"],
+            "de": ["Mitarbeiter", "Kollege"],
+            "ja": ["同僚", "douryou"]
+        },
+        {
+            "es": ["La productividad"],
+            "fr": ["La productivité"],
+            "en": ["Productivity"],
+            "cn": ["生产率", "sheng chan lü"],
+            "de": ["Produktivität"],
+            "ja": ["生産性", "seisansei"]
+        },
+        {
+            "es": ["El beneficio"],
+            "fr": ["Le bénéfice"],
+            "en": ["Profit", "Benefit"],
+            "cn": ["利润", "li run"],
+            "de": ["Gewinn", "Nutzen"],
+            "ja": ["利益", "rieki"]
+        },
+        {
+            "es": ["El riesgo"],
+            "fr": ["Le risque"],
+            "en": ["Risk"],
+            "cn": ["风险", "feng xian"],
+            "de": ["Risiko"],
+            "ja": ["リスク", "risuku"]
+        },
+        {
+            "es": ["El director", "La directora"],
+            "fr": ["Le directeur", "La directrice"],
+            "en": ["Director", "Principal"],
+            "cn": ["董事", "dong shi"],
+            "de": ["Direktor", "Leiter"],
+            "ja": ["ディレクター", "direkutā"]
+        },
+        {
+            "es": ["El contrato temporal"],
+            "fr": ["Le contrat temporaire"],
+            "en": ["Temporary contract"],
+            "cn": ["临时合同", "lin shi he tong"],
+            "de": ["Befristeter Vertrag"],
+            "ja": ["一時的な契約", "ichiji teki na keiyaku"]
+        },
+        {
+            "es": ["El servicio"],
+            "fr": ["Le service"],
+            "en": ["Service"],
+            "cn": ["服务", "fu wu"],
+            "de": ["Dienstleistung"],
+            "ja": ["サービス", "saabisu"]
+        }
+    ]
+}

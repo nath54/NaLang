@@ -1,0 +1,150 @@
+
+[font_size=30][center][b][color=#0000FF]Les verbes en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes en espagnol sont au cœur de la structure de la langue. Ils permettent d'exprimer des actions, des états ou des processus. Leur conjugaison est essentielle à maîtriser pour communiquer efficacement.
+
+[font_size=24][color=#4B0082]1. Introduction aux verbes[/color][/font_size]
+
+Les verbes espagnols se conjuguent selon trois groupes principaux, identifiables par leurs terminaisons à l'infinitif :
+
+[b]a) Premier groupe[/b]
+[indent]Terminaison : [color=#FF0000]-ar[/color]
+
+[code]
+hablar [color=#008000](parler)[/color]
+cantar [color=#008000](chanter)[/color]
+amar [color=#008000](aimer)[/color]
+[/code][/indent]
+
+[b]b) Deuxième groupe[/b]
+[indent]Terminaison : [color=#FF0000]-er[/color]
+
+[code]
+comer [color=#008000](manger)[/color]
+beber [color=#008000](boire)[/color]
+leer [color=#008000](lire)[/color]
+[/code][/indent]
+
+[b]c) Troisième groupe[/b]
+[indent]Terminaison : [color=#FF0000]-ir[/color]
+
+[code]
+vivir [color=#008000](vivre)[/color]
+escribir [color=#008000](écrire)[/color]
+abrir [color=#008000](ouvrir)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison des verbes réguliers[/color][/font_size]
+
+Les verbes réguliers suivent des règles de conjugaison spécifiques pour chaque groupe. Voici comment ils se conjuguent au présent de l'indicatif :
+
+[b]a) Verbes en -ar[/b]
+[code]
+yo hablo [color=#008000](je parle)[/color]
+tú hablas [color=#008000](tu parles)[/color]
+él/ella habla [color=#008000](il/elle parle)[/color]
+nosotros/nosotras hablamos [color=#008000](nous parlons)[/color]
+vosotros/vosotras habláis [color=#008000](vous parlez)[/color]
+ellos/ellas hablan [color=#008000](ils/elles parlent)[/color]
+[/code]
+
+[b]b) Verbes en -er[/b]
+[code]
+yo como [color=#008000](je mange)[/color]
+tú comes [color=#008000](tu manges)[/color]
+él/ella come [color=#008000](il/elle mange)[/color]
+nosotros/nosotras comemos [color=#008000](nous mangeons)[/color]
+vosotros/vosotras coméis [color=#008000](vous mangez)[/color]
+ellos/ellas comen [color=#008000](ils/elles mangent)[/color]
+[/code]
+
+[b]c) Verbes en -ir[/b]
+[code]
+yo vivo [color=#008000](je vis)[/color]
+tú vives [color=#008000](tu vis)[/color]
+él/ella vive [color=#008000](il/elle vit)[/color]
+nosotros/nosotras vivimos [color=#008000](nous vivons)[/color]
+vosotros/vosotras vivís [color=#008000](vous vivez)[/color]
+ellos/ellas viven [color=#008000](ils/elles vivent)[/color]
+[/code]
+
+[font_size=24][color=#4B0082]3. Verbes irréguliers[/color][/font_size]
+
+Certains verbes ne suivent pas les règles de conjugaison classiques et sont donc irréguliers. Voici quelques exemples courants :
+
+[indent][code]
+ser [color=#008000](être)[/color]
+yo soy [color=#008000](je suis)[/color]
+tú eres [color=#008000](tu es)[/color]
+él/ella es [color=#008000](il/elle est)[/color]
+nosotros/nosotras somos [color=#008000](nous sommes)[/color]
+vosotros/vosotras sois [color=#008000](vous êtes)[/color]
+ellos/ellas son [color=#008000](ils/elles sont)[/color]
+
+ir [color=#008000](aller)[/color]
+yo voy [color=#008000](je vais)[/color]
+tú vas [color=#008000](tu vas)[/color]
+él/ella va [color=#008000](il/elle va)[/color]
+nosotros/nosotras vamos [color=#008000](nous allons)[/color]
+vosotros/vosotras vais [color=#008000](vous allez)[/color]
+ellos/ellas van [color=#008000](ils/elles vont)[/color]
+
+tener [color=#008000](avoir)[/color]
+yo tengo [color=#008000](j'ai)[/color]
+tú tienes [color=#008000](tu as)[/color]
+él/ella tiene [color=#008000](il/elle a)[/color]
+nosotros/nosotras tenemos [color=#008000](nous avons)[/color]
+vosotros/vosotras tenéis [color=#008000](vous avez)[/color]
+ellos/ellas tienen [color=#008000](ils/elles ont)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]4. Temps et modes des verbes[/color][/font_size]
+
+Les verbes espagnols se conjuguent à divers temps et modes. Voici les principaux :
+
+[b]a) Indicatif[/b]
+[indent]Utilisé pour exprimer des actions réelles et objectives. Exemples de temps à l'indicatif :
+- Présent : [color=#0000FF]yo hablo[/color] [color=#008000](je parle)[/color]
+- Passé simple : [color=#0000FF]yo hablé[/color] [color=#008000](je parlai)[/color]
+- Futur : [color=#0000FF]yo hablaré[/color] [color=#008000](je parlerai)[/color][/indent]
+
+[b]b) Subjonctif[/b]
+[indent]Utilisé pour exprimer des souhaits, des doutes ou des actions non réelles. Exemples de temps au subjonctif :
+- Présent : [color=#0000FF]que yo hable[/color] [color=#008000](que je parle)[/color]
+- Imparfait : [color=#0000FF]que yo hablara[/color] [color=#008000](que je parlasse)[/color][/indent]
+
+[b]c) Conditionnel[/b]
+[indent]Utilisé pour des actions hypothétiques ou conditionnelles. Exemple :
+- Conditionnel présent : [color=#0000FF]yo hablaría[/color] [color=#008000](je parlerais)[/color][/indent]
+
+[b]d) Impératif[/b]
+[indent]Utilisé pour donner des ordres ou des conseils. Exemple :
+- Impératif : [color=#0000FF]habla[/color] [color=#008000](parle)[/color] (tu), [color=#0000FF]hable[/color] [color=#008000](parlez)[/color] (vous, formel)[/indent]
+
+[font_size=24][color=#4B0082]5. Verbes pronominaux[/color][/font_size]
+
+Les verbes pronominaux se conjuguent avec des pronoms réfléchis. Exemple :
+
+[indent][code]
+llamarse [color=#008000](s'appeler)[/color]
+yo me llamo [color=#008000](je m'appelle)[/color]
+tú te llamas [color=#008000](tu t'appelles)[/color]
+él/ella se llama [color=#008000](il/elle s'appelle)[/color]
+nosotros/nosotras nos llamamos [color=#008000](nous nous appelons)[/color]
+vosotros/vosotras os llamáis [color=#008000](vous vous appelez)[/color]
+ellos/ellas se llaman [color=#008000](ils/elles s'appellent)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes espagnols se répartissent en trois groupes principaux : -ar, -er, -ir.
+[color=#FF0000]2.[/color] Les verbes réguliers suivent des modèles de conjugaison spécifiques à chaque groupe.
+[color=#FF0000]3.[/color] De nombreux verbes courants sont irréguliers et ont des conjugaisons particulières.
+[color=#FF0000]4.[/color] Les verbes sont conjugués à différents temps et modes pour exprimer diverses actions et nuances.
+[color=#FF0000]5.[/color] Les verbes pronominaux utilisent des pronoms réfléchis pour indiquer des actions réalisées par le sujet sur lui-même.[/indent]
+
+[center][font_size=18][color=#808080]¡Domina la conjugación de verbos y tu español se volverán más precisos y fluidos.![/color][/font_size][/center]

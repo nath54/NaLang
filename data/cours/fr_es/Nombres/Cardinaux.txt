@@ -1,0 +1,124 @@
+
+[font_size=30][center][b][color=#0000FF]Les nombres cardinaux en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les nombres cardinaux en espagnol sont utilisés pour exprimer des quantités et répondre à la question "combien ?". Ils sont fondamentaux pour le quotidien, que ce soit pour compter des objets, indiquer des dates ou encore exprimer l'âge.
+
+[font_size=24][color=#4B0082]1. Nombres de 0 à 10[/color][/font_size]
+
+Voici les nombres de base, ceux que l’on apprend généralement en premier :
+
+[code]
+0 - cero [color=#008000](zéro)[/color]
+1 - uno [color=#008000](un)[/color]
+2 - dos [color=#008000](deux)[/color]
+3 - tres [color=#008000](trois)[/color]
+4 - cuatro [color=#008000](quatre)[/color]
+5 - cinco [color=#008000](cinq)[/color]
+6 - seis [color=#008000](six)[/color]
+7 - siete [color=#008000](sept)[/color]
+8 - ocho [color=#008000](huit)[/color]
+9 - nueve [color=#008000](neuf)[/color]
+10 - diez [color=#008000](dix)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Tengo tres libros.[/color] [color=#008000](J'ai trois livres.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Nombres de 11 à 20[/color][/font_size]
+
+Les nombres de 11 à 20 présentent des formes spécifiques qu’il faut mémoriser :
+
+[code]
+11 - once [color=#008000](onze)[/color]
+12 - doce [color=#008000](douze)[/color]
+13 - trece [color=#008000](treize)[/color]
+14 - catorce [color=#008000](quatorze)[/color]
+15 - quince [color=#008000](quinze)[/color]
+16 - dieciséis [color=#008000](seize)[/color]
+17 - diecisiete [color=#008000](dix-sept)[/color]
+18 - dieciocho [color=#008000](dix-huit)[/color]
+19 - diecinueve [color=#008000](dix-neuf)[/color]
+20 - veinte [color=#008000](vingt)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Ella tiene quince años.[/color] [color=#008000](Elle a quinze ans.)[/color][/i]
+
+[font_size=24][color=#4B0082]3. Nombres de 21 à 100[/color][/font_size]
+
+À partir de 21, il existe des modèles réguliers. Notez que "veintiuno" devient "veintiún" devant un nom masculin.
+
+[code]
+21 - veintiuno [color=#008000](vingt et un)[/color]
+22 - veintidós [color=#008000](vingt-deux)[/color]
+23 - veintitrés [color=#008000](vingt-trois)[/color]
+24 - veinticuatro [color=#008000](vingt-quatre)[/color]
+25 - veinticinco [color=#008000](vingt-cinq)[/color]
+26 - veintiséis [color=#008000](vingt-six)[/color]
+27 - veintisiete [color=#008000](vingt-sept)[/color]
+28 - veintiocho [color=#008000](vingt-huit)[/color]
+29 - veintinueve [color=#008000](vingt-neuf)[/color]
+
+30 - treinta [color=#008000](trente)[/color]
+40 - cuarenta [color=#008000](quarante)[/color]
+50 - cincuenta [color=#008000](cinquante)[/color]
+60 - sesenta [color=#008000](soixante)[/color]
+70 - setenta [color=#008000](soixante-dix)[/color]
+80 - ochenta [color=#008000](quatre-vingts)[/color]
+90 - noventa [color=#008000](quatre-vingt-dix)[/color]
+100 - cien [color=#008000](cent)[/color]
+[/code]
+
+Pour former des nombres intermédiaires, on utilise "y" (et) :
+
+[i]Exemple : [color=#0000FF]Treinta y cinco.[/color] [color=#008000](Trente-cinq.)[/color][/i]
+
+Cependant, à partir de 31, on dit directement le chiffre :
+
+[i]Exemple : [color=#0000FF]Cuarenta y dos.[/color] [color=#008000](Quarante-deux.)[/color][/i]
+
+[font_size=24][color=#4B0082]4. Nombres au-delà de 100[/color][/font_size]
+
+Les nombres au-delà de 100 suivent également une structure régulière :
+
+[code]
+101 - ciento uno [color=#008000](cent un)[/color]
+120 - ciento veinte [color=#008000](cent vingt)[/color]
+200 - doscientos [color=#008000](deux cents)[/color]
+300 - trescientos [color=#008000](trois cents)[/color]
+400 - cuatrocientos [color=#008000](quatre cents)[/color]
+500 - quinientos [color=#008000](cinq cents)[/color]
+600 - seiscientos [color=#008000](six cents)[/color]
+700 - setecientos [color=#008000](sept cents)[/color]
+800 - ochocientos [color=#008000](huit cents)[/color]
+900 - novecientos [color=#008000](neuf cents)[/color]
+1.000 - mil [color=#008000](mille)[/color]
+10.000 - diez mil [color=#008000](dix mille)[/color]
+100.000 - cien mil [color=#008000](cent mille)[/color]
+1.000.000 - un millón [color=#008000](un million)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Tengo quinientas páginas por leer.[/color] [color=#008000](J'ai cinq cents pages à lire.)[/color][/i]
+
+[font_size=24][color=#4B0082]5. Les particularités des nombres cardinaux[/color][/font_size]
+
+Quelques points délicats à mémoriser :
+
+[indent]• Les nombres 21, 31, 41… se transforment en "veintiún", "treinta y un" devant un nom masculin.
+• "Ciento" devient "cien" devant un nom :
+[color=#0000FF]Cien libros.[/color] [color=#008000](Cent livres.)[/color]
+• "Mil" est invariable et ne prend pas de "s" dans les expressions ordinaires :
+[color=#0000FF]Dos mil personas.[/color] [color=#008000](Deux mille personnes.)[/color]
+• "Millón" prend la préposition "de" avant un nom :
+[color=#0000FF]Un millón de habitantes.[/color] [color=#008000](Un million d'habitants.)[/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les nombres cardinaux en espagnol sont essentiels pour exprimer des quantités.
+[color=#FF0000]2.[/color] Les nombres de 21 à 29 forment un seul mot alors que d'autres suivent une structure régulière.
+[color=#FF0000]3.[/color] Au-delà de 100, les nombres suivent une structure simple mais attention aux particularités.
+[color=#FF0000]4.[/color] Les grandes quantités utilisent "mil" et "millón" avec des règles spécifiques.[/indent]
+
+[center][font_size=18][color=#808080]¡Aprende estos números y contarás como un hispanohablante experto muy pronto![/color][/font_size][/center]

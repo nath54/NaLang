@@ -1,0 +1,130 @@
+
+[font_size=30][center][b][color=#0000FF]Ser vs Estar en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En espagnol, la distinction entre les verbes [i]ser[/i] et [i]estar[/i] est essentielle et parfois délicate pour les francophones. Bien qu'ils se traduisent tous les deux par le verbe "être" en français, leur utilisation diffère considérablement en fonction du contexte.
+
+[font_size=24][color=#4B0082]1. Utilisation de [i]Ser[/i][/color][/font_size]
+
+Le verbe [i]ser[/i] est utilisé pour :
+
+[b]a) L'identité[/b]
+[indent]Pour décrire ou identifier quelqu'un ou quelque chose.
+
+[code]
+Soy María. [color=#008000](Je suis María.)[/color]
+Es un médico. [color=#008000](Il est médecin.)[/color]
+[/code][/indent]
+
+[b]b) L'origine et la nationalité[/b]
+[indent]Pour indiquer le lieu d'origine ou la nationalité.
+
+[code]
+Soy de España. [color=#008000](Je suis d'Espagne.)[/color]
+Es argentino. [color=#008000](Il est argentin.)[/color]
+[/code][/indent]
+
+[b]c) Les caractéristiques essentielles et les descriptions permanentes[/b]
+[indent]Pour les caractéristiques qui définissent de manière permanente.
+
+[code]
+La mesa es de madera. [color=#008000](La table est en bois.)[/color]
+Ella es alta y simpática. [color=#008000](Elle est grande et sympathique.)[/color]
+[/code][/indent]
+
+[b]d) La date et l'heure[/b]
+[indent]Pour exprimer la date, le jour, ou l'heure.
+
+[code]
+Es lunes. [color=#008000](C'est lundi.)[/color]
+Son las tres. [color=#008000](Il est trois heures.)[/color]
+[/code][/indent]
+
+[b]e) Les relations et les professions[/b]
+[indent]Pour indiquer les relations entre les personnes ou les professions.
+
+[code]
+Carlos es mi hermano. [color=#008000](Carlos est mon frère.)[/color]
+Soy profesora. [color=#008000](Je suis professeur.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de [i]Estar[/i][/color][/font_size]
+
+Le verbe [i]estar[/i] est utilisé pour :
+
+[b]a) Les états temporaires et les sentiments[/b]
+[indent]Pour décrire des états ou des conditions temporaires.
+
+[code]
+Estoy cansado. [color=#008000](Je suis fatigué.)[/color]
+Está feliz. [color=#008000](Il / elle est heureux.)[/color]
+[/code][/indent]
+
+[b]b) La localisation[/b]
+[indent]Pour indiquer l'emplacement géographique de quelqu'un ou de quelque chose.
+
+[code]
+El libro está en la mesa. [color=#008000](Le livre est sur la table.)[/color]
+Estamos en casa. [color=#008000](Nous sommes à la maison.)[/color]
+[/code][/indent]
+
+[b]c) Les actions en cours (gérondif)[/b]
+[indent]Pour exprimer des actions en cours avec le gérondif.
+
+[code]
+Estoy estudiando. [color=#008000](Je suis en train d'étudier.)[/color]
+Ella está hablando. [color=#008000](Elle est en train de parler.)[/color]
+[/code][/indent]
+
+[b]d) Les situations et conditions temporaires[/b]
+[indent]Pour les situations qui peuvent changer, comme la santé ou l'état physique.
+
+[code]
+Está enfermo. [color=#008000](Il est malade.)[/color]
+La ventana está abierta. [color=#008000](La fenêtre est ouverte.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Ser vs Estar : Contrastes et nuances[/color][/font_size]
+
+Parfois, l'utilisation de [i]ser[/i] ou [i]estar[/i] peut changer le sens de la phrase :
+
+[indent][code]
+Es aburrido. [color=#008000](Il est ennuyeux.)[/color]
+Está aburrido. [color=#008000](Il s'ennuie.)[/color]
+
+Es listo. [color=#008000](Il est intelligent.)[/color]
+Está listo. [color=#008000](Il est prêt.)[/color]
+
+Es verde. [color=#008000](Il est vert - intrinsèquement.)[/color]
+Está verde. [color=#008000](Il est vert - pas mûr.)[/color]
+[/code]
+
+La distinction peut être subtile, mais elle change le sens de la phrase.
+
+[font_size=24][color=#4B0082]4. Expression courantes avec [i]Ser[/i] et [i]Estar[/i][/color][/font_size]
+
+Voici quelques expressions courantes avec [i]ser[/i] et [i]estar[/i] :
+
+[b]a) Expressions avec [i]Ser[/i][/b]
+[indent][code]
+Ser pan comido. [color=#008000](Être très facile.)[/color]
+Ser uña y carne. [color=#008000](Être inséparables, comme les doigts de la main.)[/color]
+[/code][/indent]
+
+[b]b) Expressions avec [i]Estar[/i][/b]
+[indent][code]
+Estar en las nubes. [color=#008000](Être dans la lune.)[/color]
+Estar de acuerdo. [color=#008000](Être d'accord.)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] [i]Ser[/i] est utilisé pour les caractéristiques permanentes, l'identité, l'origine, et les professions.
+[color=#FF0000]2.[/color] [i]Estar[/i] est utilisé pour les états temporaires, la localisation, et les actions en cours.
+[color=#FF0000]3.[/color] La distinction entre [i]ser[/i] et [i]estar[/i] peut changer le sens de la phrase.
+[color=#FF0000]4.[/color] Les expressions courantes peuvent aider à mémoriser ces différences.[/indent]
+
+[center][font_size=18][color=#808080]¡Domina el uso de [i]ser[/i] y [i]estar[/i] y tu espagnol será más preciso y naturel![/color][/font_size][/center]

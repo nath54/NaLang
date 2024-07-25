@@ -1,0 +1,105 @@
+
+[font_size=30][center][b][color=#0000FF]Les pronoms démonstratifs en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les pronoms démonstratifs en espagnol sont utilisés pour désigner des objets, des personnes ou des concepts en fonction de leur position par rapport au locuteur ou à l'interlocuteur. Ils varient en genre (masculin, féminin, neutre) et en nombre (singulier, pluriel).
+
+[font_size=24][color=#4B0082]1. Pronoms démonstratifs en espagnol[/color][/font_size]
+
+En espagnol, les pronoms démonstratifs sont les suivants :
+
+[b]a) Pronoms démonstratifs proches[/b]
+[indent]Ces pronoms sont utilisés pour désigner des éléments proches du locuteur.
+
+[code]
+este, esta [color=#008000](celui-ci, celle-ci)[/color]
+estos, estas [color=#008000](ceux-ci, celles-ci)[/color]
+esto [color=#008000](ceci)[/color] (neutre)
+[/code]
+
+[i]Exemple : [color=#0000FF]Este es mi libro.[/color] [color=#008000](Ceci est mon livre.)[/color][/i][/indent]
+
+[b]b) Pronoms démonstratifs moyens[/b]
+[indent]Ils désignent des éléments à une distance moyenne du locuteur et de l'interlocuteur.
+
+[code]
+ese, esa [color=#008000](celui-là, celle-là)[/color]
+esos, esas [color=#008000](ceux-là, celles-là)[/color]
+eso [color=#008000](cela)[/color] (neutre)
+[/code]
+
+[i]Exemple : [color=#0000FF]Esa es tu casa.[/color] [color=#008000](Celle-là est ta maison.)[/color][/i][/indent]
+
+[b]c) Pronoms démonstratifs lointains[/b]
+[indent]Utilisés pour désigner des éléments éloignés du locuteur et de l'interlocuteur.
+
+[code]
+aquel, aquella [color=#008000](celui-là, celle-là)[/color]
+aquellos, aquellas [color=#008000](ceux-là, celles-là)[/color]
+aquello [color=#008000](cela là-bas)[/color] (neutre)
+[/code]
+
+[i]Exemple : [color=#0000FF]Aquellos son mis amigos.[/color] [color=#008000](Ceux-là sont mes amis.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Emploi des pronoms démonstratifs[/color][/font_size]
+
+Les pronoms démonstratifs en espagnol remplacent généralement un nom déjà mentionné ou sous-entendu dans la conversation. Ils accordent une importance particulière à la position de l'objet ou de la personne par rapport au locuteur.
+
+[indent][b]a) Indiquer la proximité[/b]
+Les pronoms comme [color=#0000FF]este/esta[/color] et [color=#0000FF]estos/estas[/color] sont utilisés pour parler de quelque chose de proche :
+
+[i]Exemple : [color=#0000FF]Me gusta esta.[/color] [color=#008000](J'aime celle-ci.)[/color][/i][/indent]
+
+[indent][b]b) Indiquer une distance moyenne[/b]
+Les pronoms [color=#0000FF]ese/esa[/color] et [color=#0000FF]esos/esas[/color] expriment une distance moyenne :
+
+[i]Exemple : [color=#0000FF]No entiendo eso.[/color] [color=#008000](Je ne comprends pas cela.)[/color][/i][/indent]
+
+[indent][b]c) Indiquer une grande distance[/b]
+Les pronoms [color=#0000FF]aquel/aquella[/color] et [color=#0000FF]aquellos/aquellas[/color] indiquent quelque chose de lointain :
+
+[i]Exemple : [color=#0000FF]Aquel es un edificio antiguo.[/color] [color=#008000](Celui-là est un bâtiment ancien.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Pronoms démonstratifs neutres[/color][/font_size]
+
+Les pronoms démonstratifs neutres [color=#0000FF]esto, eso, aquello[/color] sont utilisés sans distinction de genre et se réfèrent généralement à des concepts abstraits ou à des situations indéfinies.
+
+[indent][b]a) Utilisation des pronoms neutres[/b]
+Ils ne changent pas selon le nombre ou le genre parce qu'ils se réfèrent souvent à des idées ou des objets non spécifiés.
+
+[i]Exemple : [color=#0000FF]Esto es importante.[/color] [color=#008000](Ceci est important.)[/color][/i]
+[i]Exemple : [color=#0000FF]No me gusta eso.[/color] [color=#008000](Je n'aime pas cela.)[/color][/i]
+[i]Exemple : [color=#0000FF]Aquello fue increíble.[/color] [color=#008000](Cela là-bas était incroyable.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Différence entre pronoms et adjectifs démonstratifs[/color][/font_size]
+
+Il est important de ne pas confondre les pronoms démonstratifs avec les adjectifs démonstratifs. Les adjectifs démonstratifs accompagnent un nom, tandis que les pronoms démonstratifs le remplacent.
+
+[indent][b]a) Adjectifs démonstratifs[/b]
+[code]
+Este libro [color=#008000](Ce livre)[/color]
+Esa casa [color=#008000](Cette maison)[/color]
+Aquellos coches [color=#008000](Ces voitures-là)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Me gusta este libro.[/color] [color=#008000](J'aime ce livre.)[/color][/i][/indent]
+
+[indent][b]b) Pronoms démonstratifs[/b]
+[code]
+Este [color=#008000](Celui-ci)[/color]
+Esa [color=#008000](Celle-là)[/color]
+Aquellos [color=#008000](Ceux-là)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Me gusta este.[/color] [color=#008000](J'aime celui-ci.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les pronoms démonstratifs remplacent un nom et varient selon la distance (proche, moyenne, lointaine).
+[color=#FF0000]2.[/color] Ils s'accordent en genre et en nombre sauf les pronoms neutres ([color=#0000FF]esto, eso, aquello[/color]) qui sont invariants.
+[color=#FF0000]3.[/color] Les pronoms démonstratifs ne doivent pas être confondus avec les adjectifs démonstratifs, qui accompagnent un nom.[/indent]
+
+[center][font_size=18][color=#808080]¡Usa los pronombres demostrativos correctamente para comunicarte con más precisión en español![/color][/font_size][/center]

@@ -1,0 +1,104 @@
+[font_size=30][center][b][color=#0000FF]Les comparatifs et les superlatifs en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En espagnol, les comparatifs et les superlatifs permettent de comparer des personnes, des objets ou des actions, en exprimant des degrés différents d'une qualité. Ils sont essentiels pour enrichir la communication et donner plus de précision aux descriptions.
+
+[font_size=24][color=#4B0082]1. Comparatifs[/color][/font_size]
+
+Les comparatifs en espagnol se divisent en trois catégories principales : de supériorité, d'infériorité et d'égalité.
+
+[b]a) Comparatif de supériorité[/b]
+[indent]Pour exprimer qu'une chose possède plus d'une qualité qu'une autre, on utilise la structure [color=#FF0000]más ... que[/color] (plus ... que).
+
+[code]
+más rápido que [color=#008000](plus rapide que)[/color]
+más interesante que [color=#008000](plus intéressant que)[/color]
+más alto que [color=#008000](plus grand que)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Ella es más alta que su hermano.[/color] [color=#008000](Elle est plus grande que son frère.)[/color][/i][/indent]
+
+[b]b) Comparatif d'infériorité[/b]
+[indent]Pour indiquer qu'une chose possède moins d'une qualité qu'une autre, on utilise la structure [color=#FF0000]menos ... que[/color] (moins ... que).
+
+[code]
+menos rápido que [color=#008000](moins rapide que)[/color]
+menos interesante que [color=#008000](moins intéressant que)[/color]
+menos alto que [color=#008000](moins grand que)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Este libro es menos interesante que el otro.[/color] [color=#008000](Ce livre est moins intéressant que l'autre.)[/color][/i][/indent]
+
+[b]c) Comparatif d'égalité[/b]
+[indent]Pour exprimer qu'une chose possède autant d'une qualité qu'une autre, on utilise la structure [color=#FF0000]tan ... como[/color] (aussi ... que).
+
+[code]
+tan rápido como [color=#008000](aussi rapide que)[/color]
+tan interesante como [color=#008000](aussi intéressant que)[/color]
+tan alto como [color=#008000](aussi grand que)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Su coche es tan rápido como el mío.[/color] [color=#008000](Sa voiture est aussi rapide que la mienne.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Superlatifs[/color][/font_size]
+
+Les superlatifs en espagnol permettent d'exprimer le degré le plus élevé ou le plus bas d'une qualité au sein d'un groupe.
+
+[b]a) Superlatif relatif[/b]
+[indent]Le superlatif relatif se forme avec l'article défini suivi de [color=#FF0000]más[/color] (le/la plus) ou [color=#FF0000]menos[/color] (le/la moins).
+
+[code]
+el más rápido [color=#008000](le plus rapide)[/color]
+la más interesante [color=#008000](la plus intéressante)[/color]
+los menos altos [color=#008000](les moins grands)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Ella es la más inteligente de la clase.[/color] [color=#008000](Elle est la plus intelligente de la classe.)[/color][/i][/indent]
+
+[b]b) Superlatif absolu[/b]
+[indent]Pour exprimer un degré très élevé d'une qualité sans comparer avec d'autres, on utilise le suffixe [color=#FF0000]-ísimo/-ísima[/color].
+
+[code]
+rapidísimo [color=#008000](très rapide)[/color]
+interesantísima [color=#008000](très intéressante)[/color]
+altísimos [color=#008000](très grands)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Este pastel está buenísimo.[/color] [color=#008000](Ce gâteau est délicieux.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Comparatifs et superlatifs irréguliers[/color][/font_size]
+
+Certains adjectifs et adverbes ont des formes comparatives et superlatives irrégulières. Voici les plus courants :
+
+[indent][code]
+bueno [color=#008000](bon)[/color] → mejor [color=#008000](meilleur)[/color] → el mejor [color=#008000](le meilleur)[/color]
+malo [color=#008000](mauvais)[/color] → peor [color=#008000](pire)[/color] → el peor [color=#008000](le pire)[/color]
+grande [color=#008000](grand)[/color] → mayor [color=#008000](plus grand)[/color] → el mayor [color=#008000](le plus grand)[/color]
+pequeño [color=#008000](petit)[/color] → menor [color=#008000](plus petit)[/color] → el menor [color=#008000](le plus petit)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Este problema es peor que el anterior.[/color] [color=#008000](Ce problème est pire que le précédent.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Expressions superlatives[/color][/font_size]
+
+Il existe des expressions spécifiques pour exprimer le degré le plus élevé ou le plus bas de quelque chose :
+
+[indent][code]
+lo más importante [color=#008000](le plus important)[/color]
+lo menos interesante [color=#008000](le moins intéressant)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Lo más importante es la salud.[/color] [color=#008000](La santé est le plus important.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les comparatifs de supériorité, d'infériorité et d'égalité permettent de comparer des qualités.
+[color=#FF0000]2.[/color] Les superlatifs relatifs expriment le degré le plus élevé ou le plus bas au sein d'un groupe.
+[color=#FF0000]3.[/color] Les superlatifs absolus indiquent un degré très élevé sans comparaison.
+[color=#FF0000]4.[/color] Certains adjectifs et adverbes ont des formes comparatives et superlatives irrégulières.
+[color=#FF0000]5.[/color] Utiliser correctement les comparatifs et superlatifs rendra votre espagnol plus précis et expressif.[/indent]
+
+[center][font_size=18][color=#808080]¡Practica los comparativos y superlativos para mejorar tu español y comunicarte con mayor precisión![/color][/font_size][/center]

@@ -1,0 +1,105 @@
+
+[font_size=30][center][b][color=#0000FF]Les pronoms personnels en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les pronoms personnels en espagnol sont des mots qui remplacent les noms pour éviter la répétition et pour indiquer clairement qui est le sujet ou l'objet de l'action. Ils sont essentiels pour la fluidité et la clarté de la communication.
+
+[font_size=24][color=#4B0082]1. Pronoms sujets[/color][/font_size]
+
+Les pronoms sujets remplacent le sujet du verbe. En espagnol, ils sont souvent omis car la conjugaison du verbe indique généralement le sujet.
+
+[indent][code]
+yo [color=#008000](je)[/color]
+tú / vos [color=#008000](tu)[/color]
+él / ella / usted [color=#008000](il / elle / vous formel)[/color]
+nosotros / nosotras [color=#008000](nous, masculin/féminin)[/color]
+vosotros / vosotras [color=#008000](vous, masculin/féminin familier - utilisé en Espagne)[/color]
+ellos / ellas / ustedes [color=#008000](ils / elles / vous formel pluriel)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Yo hablo español.[/color] [color=#008000](Je parle espagnol.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Pronoms compléments directs[/color][/font_size]
+
+Les pronoms compléments directs remplacent le complément direct du verbe, c'est-à-dire l'objet qui reçoit l'action directement.
+
+[indent][code]
+me [color=#008000](me)[/color]
+te [color=#008000](te)[/color]
+lo / la [color=#008000](le / la)[/color]
+nos [color=#008000](nous)[/color]
+os [color=#008000](vous, familier - utilisé en Espagne)[/color]
+los / las [color=#008000](les, masculin/féminin)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Lo veo.[/color] [color=#008000](Je le vois.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Pronoms compléments indirects[/color][/font_size]
+
+Les pronoms compléments indirects remplacent le complément indirect du verbe, c'est-à-dire l'objet qui reçoit l'action de manière indirecte.
+
+[indent][code]
+me [color=#008000](me)[/color]
+te [color=#008000](te)[/color]
+le [color=#008000](lui)[/color]
+nos [color=#008000](nous)[/color]
+os [color=#008000](vous, familier - utilisé en Espagne)[/color]
+les [color=#008000](leur)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Le doy un regalo.[/color] [color=#008000](Je lui donne un cadeau.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Pronoms réfléchis[/color][/font_size]
+
+Les pronoms réfléchis sont utilisés lorsque le sujet et l'objet de l'action sont la même personne.
+
+[indent][code]
+me [color=#008000](me)[/color]
+te [color=#008000](te)[/color]
+se [color=#008000](se)[/color]
+nos [color=#008000](nous)[/color]
+os [color=#008000](vous, familier - utilisé en Espagne)[/color]
+se [color=#008000](se)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Me lavo las manos.[/color] [color=#008000](Je me lave les mains.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Pronoms prépositionnels[/color][/font_size]
+
+Les pronoms prépositionnels suivent une préposition et sont utilisés pour remplacer des noms après une préposition.
+
+[indent][code]
+mí [color=#008000](moi)[/color]
+ti [color=#008000](toi)[/color]
+él / ella / usted [color=#008000](lui / elle / vous formel)[/color]
+nosotros / nosotras [color=#008000](nous, masculin/féminin)[/color]
+vosotros / vosotras [color=#008000](vous, masculin/féminin familier - utilisé en Espagne)[/color]
+ellos / ellas / ustedes [color=#008000](eux / elles / vous formel pluriel)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]El regalo es para mí.[/color] [color=#008000](Le cadeau est pour moi.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]6. Pronoms toniques et atones[/color][/font_size]
+
+Les pronoms toniques sont utilisés pour l'emphase ou pour différencier plusieurs objets ou personnes. Les pronoms atones sont utilisés dans des contextes ordinaires sans emphase particulière.
+
+Les pronoms compléments peuvent être :
+
+[indent]• [b]Toniques:[/b] Les pronoms toniques sont moins souvent utilisés et suivent généralement une préposition :
+[color=#0000FF]Para mí, el español es fácil.[/color] [color=#008000](Pour moi, l'espagnol est facile.)[/color]
+
+- [b]Atones:[/b] Les pronoms atones sont plus fréquemment utilisés et se trouvent souvent collés au verbe :
+[color=#0000FF]Me gusta.[/color] [color=#008000](Ça me plaît.)[/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les pronoms personnels remplacent les noms et sont utilisés pour éviter les répétitions.
+[color=#FF0000]2.[/color] Les pronoms sujets sont souvent omis en espagnol car la conjugaison verbale indique le sujet.
+[color=#FF0000]3.[/color] Il y a des pronoms compléments directs et indirects, selon si l'objet reçoit l'action directement ou indirectement.
+[color=#FF0000]4.[/color] Les pronoms réfléchis sont utilisés lorsque le sujet et l'objet de l'action sont la même personne.
+[color=#FF0000]5.[/color] Les pronoms prépositionnels suivent une préposition et remplacent des noms après celle-ci.[/indent]
+
+[center][font_size=18][color=#808080]¡Domina el uso de los pronombres personales y mejorarás tu fluidez en español![/color][/font_size][/center]

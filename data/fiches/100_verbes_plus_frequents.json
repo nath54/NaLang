@@ -1,0 +1,844 @@
+{
+    "name": {
+        "es": "100 verbos más usados",
+        "fr": "100 verbes les plus utilisés",
+        "en": "100 most used verbs",
+        "cn": "最常用的100个动词 (zui chang yong de 100 ge dong ci)",
+        "de": "100 meistbenutzte Verben",
+        "ja": "最も使われる100の動詞 (mottomo tsukawareru 100 no doushi)"
+    },
+    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "elements": [{
+            "es": ["Ser", "Estar"],
+            "fr": ["Être"],
+            "en": ["To be"],
+            "cn": ["是", "shi"],
+            "de": ["Sein"],
+            "ja": ["いる", "iru", "ある", "aru"]
+        },
+        {
+            "es": ["Tener", "Haber"],
+            "fr": ["Avoir"],
+            "en": ["To have"],
+            "cn": ["有", "you"],
+            "de": ["Haben"],
+            "ja": ["持っている", "motte iru"]
+        },
+        {
+            "es": ["Hacer"],
+            "fr": ["Faire"],
+            "en": ["To do", "To make"],
+            "cn": ["做", "zuo"],
+            "de": ["Machen"],
+            "ja": ["する", "suru"]
+        },
+        {
+            "es": ["Decir"],
+            "fr": ["Dire"],
+            "en": ["To say", "To tell"],
+            "cn": ["说", "shuo"],
+            "de": ["Sagen"],
+            "ja": ["言う", "iu"]
+        },
+        {
+            "es": ["Ir"],
+            "fr": ["Aller"],
+            "en": ["To go"],
+            "cn": ["去", "qu"],
+            "de": ["Gehen"],
+            "ja": ["行く", "iku"]
+        },
+        {
+            "es": ["Poder"],
+            "fr": ["Pouvoir"],
+            "en": ["To be able", "Can"],
+            "cn": ["能", "neng"],
+            "de": ["Können"],
+            "ja": ["できる", "dekiru"]
+        },
+        {
+            "es": ["Ver"],
+            "fr": ["Voir"],
+            "en": ["To see"],
+            "cn": ["看", "kan"],
+            "de": ["Sehen"],
+            "ja": ["見る", "miru"]
+        },
+        {
+            "es": ["Querer"],
+            "fr": ["Vouloir"],
+            "en": ["To want"],
+            "cn": ["想", "xiang"],
+            "de": ["Wollen"],
+            "ja": ["欲しい", "hoshii"]
+        },
+        {
+            "es": ["Saber"],
+            "fr": ["Savoir"],
+            "en": ["To know"],
+            "cn": ["知道", "zhi dao"],
+            "de": ["Wissen"],
+            "ja": ["知っている", "shitte iru"]
+        },
+        {
+            "es": ["Llegar"],
+            "fr": ["Arriver"],
+            "en": ["To arrive"],
+            "cn": ["到达", "dao da"],
+            "de": ["Ankommen"],
+            "ja": ["到着する", "touchaku suru"]
+        },
+        {
+            "es": ["Pasar"],
+            "fr": ["Passer"],
+            "en": ["To pass", "To happen"],
+            "cn": ["通过", "tong guo"],
+            "de": ["Passieren", "Vorbeigehen"],
+            "ja": ["通る", "tooru"]
+        },
+        {
+            "es": ["Deber"],
+            "fr": ["Devoir"],
+            "en": ["To must", "To owe"],
+            "cn": ["应该", "ying gai"],
+            "de": ["Müssen", "Schulden"],
+            "ja": ["しなければならない", "shinakereba naranai"]
+        },
+        {
+            "es": ["Poner"],
+            "fr": ["Mettre"],
+            "en": ["To put"],
+            "cn": ["放", "fang"],
+            "de": ["Setzen", "Stellen", "Legen"],
+            "ja": ["置く", "oku"]
+        },
+        {
+            "es": ["Parecer"],
+            "fr": ["Paraître"],
+            "en": ["To seem"],
+            "cn": ["似乎", "si hu"],
+            "de": ["Scheinen"],
+            "ja": ["見える", "mieru"]
+        },
+        {
+            "es": ["Quedar"],
+            "fr": ["Rester"],
+            "en": ["To stay", "To remain"],
+            "cn": ["保持", "bao chi"],
+            "de": ["Bleiben"],
+            "ja": ["残る", "nokoru"]
+        },
+        {
+            "es": ["Creer"],
+            "fr": ["Croire"],
+            "en": ["To believe"],
+            "cn": ["相信", "xiang xin"],
+            "de": ["Glauben"],
+            "ja": ["信じる", "shinjiru"]
+        },
+        {
+            "es": ["Hablar"],
+            "fr": ["Parler"],
+            "en": ["To speak"],
+            "cn": ["说话", "shuo hua"],
+            "de": ["Sprechen"],
+            "ja": ["話す", "hanasu"]
+        },
+        {
+            "es": ["Llevar"],
+            "fr": ["Porter"],
+            "en": ["To carry", "To wear"],
+            "cn": ["拿", "na"],
+            "de": ["Tragen"],
+            "ja": ["持つ", "motsu", "着る", "kiru"]
+        },
+        {
+            "es": ["Dejar"],
+            "fr": ["Laisser"],
+            "en": ["To leave", "To let"],
+            "cn": ["离开", "li kai"],
+            "de": ["Lassen"],
+            "ja": ["置いておく", "oite oku", "許す", "yurusu"]
+        },
+        {
+            "es": ["Seguir"],
+            "fr": ["Suivre"],
+            "en": ["To follow", "To continue"],
+            "cn": ["跟随", "gen sui"],
+            "de": ["Folgen"],
+            "ja": ["続く", "tsuzuku"]
+        },
+        {
+            "es": ["Encontrar"],
+            "fr": ["Trouver"],
+            "en": ["To find"],
+            "cn": ["找到", "zhao dao"],
+            "de": ["Finden"],
+            "ja": ["見つける", "mitsukeru"]
+        },
+        {
+            "es": ["Llamar"],
+            "fr": ["Appeler"],
+            "en": ["To call"],
+            "cn": ["叫", "jiao"],
+            "de": ["Rufen"],
+            "ja": ["呼ぶ", "yobu"]
+        },
+        {
+            "es": ["Venir"],
+            "fr": ["Venir"],
+            "en": ["To come"],
+            "cn": ["来", "lai"],
+            "de": ["Kommen"],
+            "ja": ["来る", "kuru"]
+        },
+        {
+            "es": ["Pensar"],
+            "fr": ["Penser"],
+            "en": ["To think"],
+            "cn": ["想", "xiang"],
+            "de": ["Denken"],
+            "ja": ["考える", "kangaeru"]
+        },
+        {
+            "es": ["Salir"],
+            "fr": ["Sortir"],
+            "en": ["To leave", "To go out"],
+            "cn": ["出去", "chu qu"],
+            "de": ["Gehen", "Hinausgehen"],
+            "ja": ["出る", "deru"]
+        },
+        {
+            "es": ["Volver"],
+            "fr": ["Revenir"],
+            "en": ["To return"],
+            "cn": ["回", "hui"],
+            "de": ["Zurückkommen"],
+            "ja": ["戻る", "modoru"]
+        },
+        {
+            "es": ["Tomar"],
+            "fr": ["Prendre"],
+            "en": ["To take"],
+            "cn": ["拿", "na"],
+            "de": ["Nehmen"],
+            "ja": ["取る", "toru"]
+        },
+        {
+            "es": ["Conocer"],
+            "fr": ["Connaître"],
+            "en": ["To meet", "To know"],
+            "cn": ["认识", "ren shi"],
+            "de": ["Kennen"],
+            "ja": ["知る", "shiru"]
+        },
+        {
+            "es": ["Vivir"],
+            "fr": ["Vivre"],
+            "en": ["To live"],
+            "cn": ["住", "zhu"],
+            "de": ["Leben"],
+            "ja": ["生きる", "ikiru"]
+        },
+        {
+            "es": ["Sentir"],
+            "fr": ["Sentir"],
+            "en": ["To feel"],
+            "cn": ["感觉", "gan jue"],
+            "de": ["Fühlen"],
+            "ja": ["感じる", "kanjiru"]
+        },
+        {
+            "es": ["Tratar"],
+            "fr": ["Traiter"],
+            "en": ["To treat", "To handle"],
+            "cn": ["处理", "chu li"],
+            "de": ["Behandeln"],
+            "ja": ["扱う", "atsukau"]
+        },
+        {
+            "es": ["Mirar"],
+            "fr": ["Regarder"],
+            "en": ["To watch", "To look"],
+            "cn": ["看", "kan"],
+            "de": ["Schauen"],
+            "ja": ["見る", "miru"]
+        },
+        {
+            "es": ["Contar"],
+            "fr": ["Raconter"],
+            "en": ["To count", "To tell"],
+            "cn": ["数", "shu", "告诉", "gao su"],
+            "de": ["Zählen"],
+            "ja": ["数える", "kazoeru"]
+        },
+        {
+            "es": ["Empezar"],
+            "fr": ["Commencer"],
+            "en": ["To start", "To begin"],
+            "cn": ["开始", "kai shi"],
+            "de": ["Anfangen"],
+            "ja": ["始める", "hajimeru"]
+        },
+        {
+            "es": ["Esperar"],
+            "fr": ["Attendre"],
+            "en": ["To wait", "To hope"],
+            "cn": ["等待", "deng dai"],
+            "de": ["Warten"],
+            "ja": ["待つ", "matsu"]
+        },
+        {
+            "es": ["Buscar"],
+            "fr": ["Chercher"],
+            "en": ["To look for", "To search"],
+            "cn": ["寻找", "xun zhao"],
+            "de": ["Suchen"],
+            "ja": ["探す", "sagasu"]
+        },
+        {
+            "es": ["Existir"],
+            "fr": ["Exister"],
+            "en": ["To exist"],
+            "cn": ["存在", "cun zai"],
+            "de": ["Existieren"],
+            "ja": ["存在する", "sonzai suru"]
+        },
+        {
+            "es": ["Entrar"],
+            "fr": ["Entrer"],
+            "en": ["To enter"],
+            "cn": ["进", "jin"],
+            "de": ["Eintreten"],
+            "ja": ["入る", "hairu"]
+        },
+        {
+            "es": ["Trabajar"],
+            "fr": ["Travailler"],
+            "en": ["To work"],
+            "cn": ["工作", "gong zuo"],
+            "de": ["Arbeiten"],
+            "ja": ["働く", "hataraku"]
+        },
+        {
+            "es": ["Escribir"],
+            "fr": ["Écrire"],
+            "en": ["To write"],
+            "cn": ["写", "xie"],
+            "de": ["Schreiben"],
+            "ja": ["書く", "kaku"]
+        },
+        {
+            "es": ["Perder"],
+            "fr": ["Perdre"],
+            "en": ["To lose"],
+            "cn": ["丢", "diu"],
+            "de": ["Verlieren"],
+            "ja": ["失う", "ushinau"]
+        },
+        {
+            "es": ["Producir"],
+            "fr": ["Produire"],
+            "en": ["To produce"],
+            "cn": ["生产", "sheng chan"],
+            "de": ["Produzieren"],
+            "ja": ["生産する", "seisan suru"]
+        },
+        {
+            "es": ["Ocurrir"],
+            "fr": ["Se produire"],
+            "en": ["To happen", "To occur"],
+            "cn": ["发生", "fa sheng"],
+            "de": ["Passieren"],
+            "ja": ["起こる", "okoru"]
+        },
+        {
+            "es": ["Entender"],
+            "fr": ["Comprendre"],
+            "en": ["To understand"],
+            "cn": ["理解", "li jie"],
+            "de": ["Verstehen"],
+            "ja": ["理解する", "rikai suru"]
+        },
+        {
+            "es": ["Pedir"],
+            "fr": ["Demander"],
+            "en": ["To ask for"],
+            "cn": ["请求", "qing qiu"],
+            "de": ["Bitten"],
+            "ja": ["頼む", "tanomu"]
+        },
+        {
+            "es": ["Recibir"],
+            "fr": ["Recevoir"],
+            "en": ["To receive"],
+            "cn": ["收到", "shou dao"],
+            "de": ["Erhalten"],
+            "ja": ["受け取る", "uketoru"]
+        },
+        {
+            "es": ["Recordar"],
+            "fr": ["Se rappeler"],
+            "en": ["To remember"],
+            "cn": ["记得", "ji de"],
+            "de": ["Erinnern"],
+            "ja": ["覚えている", "oboete iru"]
+        },
+        {
+            "es": ["Terminar"],
+            "fr": ["Terminer"],
+            "en": ["To finish"],
+            "cn": ["结束", "jie shu"],
+            "de": ["Beenden"],
+            "ja": ["終わる", "owaru"]
+        },
+        {
+            "es": ["Permitir"],
+            "fr": ["Permettre"],
+            "en": ["To allow", "To permit"],
+            "cn": ["允许", "yun xu"],
+            "de": ["Erlauben"],
+            "ja": ["許す", "yurusu"]
+        },
+        {
+            "es": ["Aparecer"],
+            "fr": ["Apparaître"],
+            "en": ["To appear"],
+            "cn": ["出现", "chu xian"],
+            "de": ["Erscheinen"],
+            "ja": ["現れる", "arawareru"]
+        },
+        {
+            "es": ["Conseguir"],
+            "fr": ["Obtenir"],
+            "en": ["To get", "To obtain"],
+            "cn": ["得到", "de dao"],
+            "de": ["Erhalten"],
+            "ja": ["手に入れる", "te ni ireru"]
+        },
+        {
+            "es": ["Comenzar"],
+            "fr": ["Commencer"],
+            "en": ["To begin"],
+            "cn": ["开始", "kai shi"],
+            "de": ["Beginnen"],
+            "ja": ["始める", "hajimeru"]
+        },
+        {
+            "es": ["Servir"],
+            "fr": ["Servir"],
+            "en": ["To serve"],
+            "cn": ["服务", "fu wu"],
+            "de": ["Dienen"],
+            "ja": ["仕える", "tsukaeru"]
+        },
+        {
+            "es": ["Sacar"],
+            "fr": ["Sortir"],
+            "en": ["To take out"],
+            "cn": ["拿出", "na chu"],
+            "de": ["Rausnehmen"],
+            "ja": ["取り出す", "tori dasu"]
+        },
+        {
+            "es": ["Necesitar"],
+            "fr": ["Avoir besoin"],
+            "en": ["To need"],
+            "cn": ["需要", "xu yao"],
+            "de": ["Brauchen"],
+            "ja": ["必要がある", "hitsuyou ga aru"]
+        },
+        {
+            "es": ["Mantener"],
+            "fr": ["Maintenir"],
+            "en": ["To maintain"],
+            "cn": ["维持", "wei chi"],
+            "de": ["Beibehalten"],
+            "ja": ["維持する", "iji suru"]
+        },
+        {
+            "es": ["Resultar"],
+            "fr": ["Résulter"],
+            "en": ["To turn out"],
+            "cn": ["结果", "jie guo"],
+            "de": ["Sich herausstellen"],
+            "ja": ["結果としてなる", "kekka toshite naru"]
+        },
+        {
+            "es": ["Leer"],
+            "fr": ["Lire"],
+            "en": ["To read"],
+            "cn": ["读", "du"],
+            "de": ["Lesen"],
+            "ja": ["読む", "yomu"]
+        },
+        {
+            "es": ["Caer"],
+            "fr": ["Tomber"],
+            "en": ["To fall"],
+            "cn": ["落下", "luo xia"],
+            "de": ["Fallen"],
+            "ja": ["落ちる", "ochiru"]
+        },
+        {
+            "es": ["Cambiar"],
+            "fr": ["Changer"],
+            "en": ["To change"],
+            "cn": ["改变", "gai bian"],
+            "de": ["Ändern"],
+            "ja": ["変える", "kaeru"]
+        },
+        {
+            "es": ["Presentar"],
+            "fr": ["Présenter"],
+            "en": ["To present"],
+            "cn": ["介绍", "jie shao"],
+            "de": ["Vorstellen"],
+            "ja": ["紹介する", "shoukai suru"]
+        },
+        {
+            "es": ["Crear"],
+            "fr": ["Créer"],
+            "en": ["To create"],
+            "cn": ["创建", "chuang jian"],
+            "de": ["Erstellen"],
+            "ja": ["創造する", "souzou suru"]
+        },
+        {
+            "es": ["Abrir"],
+            "fr": ["Ouvrir"],
+            "en": ["To open"],
+            "cn": ["打开", "da kai"],
+            "de": ["Öffnen"],
+            "ja": ["開ける", "akeru"]
+        },
+        {
+            "es": ["Considerar"],
+            "fr": ["Considérer"],
+            "en": ["To consider"],
+            "cn": ["考虑", "kao lü"],
+            "de": ["Betrachten"],
+            "ja": ["考慮する", "kouryo suru"]
+        },
+        {
+            "es": ["Oír"],
+            "fr": ["Entendre"],
+            "en": ["To hear"],
+            "cn": ["听", "ting"],
+            "de": ["Hören"],
+            "ja": ["聞く", "kiku"]
+        },
+        {
+            "es": ["Acabar"],
+            "fr": ["Terminer"],
+            "en": ["To finish"],
+            "cn": ["结束", "jie shu"],
+            "de": ["Beenden"],
+            "ja": ["終わる", "owaru"]
+        },
+        {
+            "es": ["Convertir"],
+            "fr": ["Convertir"],
+            "en": ["To convert"],
+            "cn": ["转换", "zhuan huan"],
+            "de": ["Konvertieren"],
+            "ja": ["変える", "kaeru"]
+        },
+        {
+            "es": ["Ganar"],
+            "fr": ["Gagner"],
+            "en": ["To win"],
+            "cn": ["赢", "ying"],
+            "de": ["Gewinnen"],
+            "ja": ["勝つ", "katsu"]
+        },
+        {
+            "es": ["Formar"],
+            "fr": ["Former"],
+            "en": ["To form"],
+            "cn": ["形成", "xing cheng"],
+            "de": ["Bildung"],
+            "ja": ["形成する", "keisei suru"]
+        },
+        {
+            "es": ["Traer"],
+            "fr": ["Apporter"],
+            "en": ["To bring"],
+            "cn": ["带", "dai"],
+            "de": ["Bringen"],
+            "ja": ["持ってくる", "motte kuru"]
+        },
+        {
+            "es": ["Partir"],
+            "fr": ["Partir"],
+            "en": ["To leave"],
+            "cn": ["离开", "li kai"],
+            "de": ["Verlassen"],
+            "ja": ["去る", "saru"]
+        },
+        {
+            "es": ["Morir"],
+            "fr": ["Mourir"],
+            "en": ["To die"],
+            "cn": ["死", "si"],
+            "de": ["Sterben"],
+            "ja": ["死ぬ", "shinu"]
+        },
+        {
+            "es": ["Aceptar"],
+            "fr": ["Accepter"],
+            "en": ["To accept"],
+            "cn": ["接受", "jie shou"],
+            "de": ["Akzeptieren"],
+            "ja": ["受け入れる", "ukeireru"]
+        },
+        {
+            "es": ["Realizar"],
+            "fr": ["Réaliser"],
+            "en": ["To realize", "To carry out"],
+            "cn": ["实现", "shi xian"],
+            "de": ["Realisieren"],
+            "ja": ["実現する", "jitsugen suru"]
+        },
+        {
+            "es": ["Suponer"],
+            "fr": ["Supposer"],
+            "en": ["To suppose"],
+            "cn": ["假设", "jia she"],
+            "de": ["Annehmen"],
+            "ja": ["仮定する", "katei suru"]
+        },
+        {
+            "es": ["Comprender"],
+            "fr": ["Comprendre"],
+            "en": ["To understand"],
+            "cn": ["理解", "li jie"],
+            "de": ["Verstehen"],
+            "ja": ["理解する", "rikai suru"]
+        },
+        {
+            "es": ["Lograr"],
+            "fr": ["Réussir"],
+            "en": ["To achieve", "To succeed"],
+            "cn": ["达到", "da dao"],
+            "de": ["Erreichen"],
+            "ja": ["達成する", "tassei suru"]
+        },
+        {
+            "es": ["Explicar"],
+            "fr": ["Expliquer"],
+            "en": ["To explain"],
+            "cn": ["解释", "jie shi"],
+            "de": ["Erklären"],
+            "ja": ["説明する", "setsumei suru"]
+        },
+        {
+            "es": ["Preguntar"],
+            "fr": ["Demander"],
+            "en": ["To ask"],
+            "cn": ["问", "wen"],
+            "de": ["Fragen"],
+            "ja": ["質問する", "shitsumon suru"]
+        },
+        {
+            "es": ["Tocar"],
+            "fr": ["Toucher"],
+            "en": ["To touch", "To play (an instrument)"],
+            "cn": ["触摸", "chu mo"],
+            "de": ["Berühren"],
+            "ja": ["触る", "sawaru"]
+        },
+        {
+            "es": ["Reconocer"],
+            "fr": ["Reconnaître"],
+            "en": ["To recognize"],
+            "cn": ["认认", "ren ren"],
+            "de": ["Erkennen"],
+            "ja": ["認める", "mitomeru"]
+        },
+        {
+            "es": ["Estudiar"],
+            "fr": ["Étudier"],
+            "en": ["To study"],
+            "cn": ["学习", "xue xi"],
+            "de": ["Studieren"],
+            "ja": ["勉強する", "benkyou suru"]
+        },
+        {
+            "es": ["Alcanzar"],
+            "fr": ["Atteindre"],
+            "en": ["To reach"],
+            "cn": ["达到", "da dao"],
+            "de": ["Erreichen"],
+            "ja": ["達する", "tassuru"]
+        },
+        {
+            "es": ["Nacer"],
+            "fr": ["Naître"],
+            "en": ["To be born"],
+            "cn": ["出生", "chu sheng"],
+            "de": ["Geboren werden"],
+            "ja": ["生まれる", "umareru"]
+        },
+        {
+            "es": ["Dirigir"],
+            "fr": ["Diriger"],
+            "en": ["To direct"],
+            "cn": ["领导", "ling dao"],
+            "de": ["Leiten"],
+            "ja": ["指導する", "shidou suru"]
+        },
+        {
+            "es": ["Correr"],
+            "fr": ["Courir"],
+            "en": ["To run"],
+            "cn": ["跑", "pao"],
+            "de": ["Laufen"],
+            "ja": ["走る", "hashiru"]
+        },
+        {
+            "es": ["Utilizar"],
+            "fr": ["Utiliser"],
+            "en": ["To use"],
+            "cn": ["使用", "shi yong"],
+            "de": ["Benutzen"],
+            "ja": ["使う", "tsukau"]
+        },
+        {
+            "es": ["Pagar"],
+            "fr": ["Payer"],
+            "en": ["To pay"],
+            "cn": ["支付", "zhi fu"],
+            "de": ["Bezahlen"],
+            "ja": ["支払う", "shiharau"]
+        },
+        {
+            "es": ["Ayudar"],
+            "fr": ["Aider"],
+            "en": ["To help"],
+            "cn": ["帮助", "bang zhu"],
+            "de": ["Helfen"],
+            "ja": ["助ける", "tasukeru"]
+        },
+        {
+            "es": ["Gustar"],
+            "fr": ["Aimer"],
+            "en": ["To like"],
+            "cn": ["喜欢", "xi huan"],
+            "de": ["Mögen"],
+            "ja": ["好き", "suki"]
+        },
+        {
+            "es": ["Jugar"],
+            "fr": ["Jouer"],
+            "en": ["To play"],
+            "cn": ["玩", "wan"],
+            "de": ["Spielen"],
+            "ja": ["遊ぶ", "asobu"]
+        },
+        {
+            "es": ["Escuchar"],
+            "fr": ["Écouter"],
+            "en": ["To listen"],
+            "cn": ["听", "ting"],
+            "de": ["Zuhören"],
+            "ja": ["聞く", "kiku"]
+        },
+        {
+            "es": ["Cumplir"],
+            "fr": ["Accomplir"],
+            "en": ["To fulfill", "To accomplish"],
+            "cn": ["完成", "wan cheng"],
+            "de": ["Erfüllen"],
+            "ja": ["果たす", "hatasu"]
+        },
+        {
+            "es": ["Ofrecer"],
+            "fr": ["Offrir"],
+            "en": ["To offer"],
+            "cn": ["提供", "ti gong"],
+            "de": ["Anbieten"],
+            "ja": ["提供する", "teikyou suru"]
+        },
+        {
+            "es": ["Descubrir"],
+            "fr": ["Découvrir"],
+            "en": ["To discover"],
+            "cn": ["发现", "fa xian"],
+            "de": ["Entdecken"],
+            "ja": ["発見する", "hakken suru"]
+        },
+        {
+            "es": ["Levantar"],
+            "fr": ["Lever"],
+            "en": ["To lift", "To raise"],
+            "cn": ["举起", "ju qi"],
+            "de": ["Anheben"],
+            "ja": ["持ち上げる", "mochiageru"]
+        },
+        {
+            "es": ["Intentar"],
+            "fr": ["Essayer"],
+            "en": ["To try"],
+            "cn": ["尝试", "chang shi"],
+            "de": ["Versuchen"],
+            "ja": ["試みる", "kokoromiru"]
+        },
+        {
+            "es": ["Usar"],
+            "fr": ["Utiliser"],
+            "en": ["To use"],
+            "cn": ["使用", "shi yong"],
+            "de": ["Benutzen"],
+            "ja": ["使う", "tsukau"]
+        },
+        {
+            "es": ["Olvidar"],
+            "fr": ["Oublier"],
+            "en": ["To forget"],
+            "cn": ["忘记", "wang ji"],
+            "de": ["Vergessen"],
+            "ja": ["忘れる", "wasureru"]
+        },
+        {
+            "es": ["Enseñar"],
+            "fr": ["Enseigner"],
+            "en": ["To teach"],
+            "cn": ["教", "jiao"],
+            "de": ["Lehren"],
+            "ja": ["教える", "oshieru"]
+        },
+        {
+            "es": ["Leer"],
+            "fr": ["Lire"],
+            "en": ["To read"],
+            "cn": ["读", "du"],
+            "de": ["Lesen"],
+            "ja": ["読む", "yomu"]
+        },
+        {
+            "es": ["Ofrecer"],
+            "fr": ["Offrir"],
+            "en": ["To offer"],
+            "cn": ["提供", "ti-gong"],
+            "de": ["Anbieten"],
+            "ja": ["提供する", "teikyou suru"]
+        },
+        {
+            "es": ["Levantar"],
+            "fr": ["Lever"],
+            "en": ["To lift", "To raise"],
+            "cn": ["举起", "ju-qi"],
+            "de": ["Heben"],
+            "ja": ["持ち上げる", "mochiageru"]
+        },
+        {
+            "es": ["Intentar"],
+            "fr": ["Essayer"],
+            "en": ["To try"],
+            "cn": ["尝试", "chang-shi"],
+            "de": ["Versuchen"],
+            "ja": ["試みる", "kokoromiru"]
+        }
+    ]
+}

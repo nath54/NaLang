@@ -1,0 +1,125 @@
+[font_size=30][center][b][color=#0000FF]La construction de la phrase en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La construction des phrases en espagnol suit des règles spécifiques qui permettent de structurer les idées de manière claire et cohérente. Comprendre ces règles est essentiel pour parler et écrire correctement en espagnol.
+
+[font_size=24][color=#4B0082]1. Les éléments de base d'une phrase[/color][/font_size]
+
+En espagnol, comme en français, une phrase complète doit contenir au minimum un sujet et un verbe conjugué. D'autres éléments peuvent être ajoutés pour donner plus d'informations.
+
+[indent][b]a) Sujet (Sujeto)[/b]
+Le sujet indique qui réalise l'action. Il peut être explicite ou implicite.
+
+[i]Exemple : [color=#0000FF]María[/color] [color=#008000](María)[/color] [color=#0000FF]come.[/color] [color=#008000](María mange.)[/color][/i]
+
+[b]b) Verbe (Verbo)[/b]
+Le verbe exprime l'action ou l'état du sujet.
+
+[i]Exemple : [color=#0000FF]María[/color] [color=#008000](María)[/color] [color=#0000FF]come.[/color] [color=#008000](mange.)[/color][/i]
+
+[b]c) Objet direct (Objeto directo)[/b]
+L'objet direct reçoit l'action du verbe directement.
+
+[i]Exemple : [color=#0000FF]María come una manzana.[/color] [color=#008000](María mange une pomme.)[/color][/i]
+
+[b]d) Objet indirect (Objeto indirecto)[/b]
+L'objet indirect bénéficie de l'action du verbe.
+
+[i]Exemple : [color=#0000FF]María da un regalo a Juan.[/color] [color=#008000](María donne un cadeau à Juan.)[/color][/i]
+
+[b]e) Complément circonstanciel (Complemento circunstancial)[/b]
+Il apporte des informations supplémentaires sur l'action, comme le lieu, le temps, la manière, etc.
+
+[i]Exemple : [color=#0000FF]María come una manzana en la cocina.[/color] [color=#008000](María mange une pomme dans la cuisine.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. L'ordre des mots en espagnol[/color][/font_size]
+
+L'ordre des mots en espagnol peut varier, mais il suit généralement le schéma suivant : Sujet + Verbe + Compléments.
+
+[indent]• [b]Phrase déclarative simple :[/b] [color=#0000FF]Sujeto + Verbo + Objeto directo[/color]
+[i]Exemple : [color=#0000FF]Ella lee un libro.[/color] [color=#008000](Elle lit un livre.)[/color][/i]
+
+• [b]Phrase interrogative :[/b] [color=#0000FF]Verbo + Sujeto + Objeto directo[/color]
+[i]Exemple : [color=#0000FF]¿Lees tú un libro?[/color] [color=#008000](Lis-tu un livre ?)[/color][/i]
+
+• [b]Phrase avec adverbe de temps :[/b] L'adverbe peut se placer au début ou à la fin de la phrase.
+[i]Exemple : [color=#0000FF]Hoy, ella lee un libro.[/color] [color=#008000](Aujourd'hui, elle lit un livre.)[/color]
+[color=#0000FF]Ella lee un libro hoy.[/color] [color=#008000](Elle lit un livre aujourd'hui.)[/color][/i]
+
+• [b]Phrase négative :[/b] [color=#0000FF]Sujeto + No + Verbo + Objeto directo[/color]
+[i]Exemple : [color=#0000FF]Ella no lee un libro.[/color] [color=#008000](Elle ne lit pas un livre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les phrases composées[/color][/font_size]
+
+Les phrases composées en espagnol utilisent des conjonctions pour relier deux clauses ou plus. Voici quelques conjonctions courantes :
+
+[indent][b]a) Conjonctions de coordination[/b]
+Elles relient deux phrases ou mots de même nature.
+
+[code]
+y [color=#008000](et)[/color]
+o [color=#008000](ou)[/color]
+pero [color=#008000](mais)[/color]
+sino [color=#008000](mais plutôt)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Estudio español y francés.[/color] [color=#008000](J'étudie l'espagnol et le français.)[/color][/i]
+
+[b]b) Conjonctions de subordination[/b]
+Elles introduisent une proposition subordonnée.
+
+[code]
+que [color=#008000](que)[/color]
+porque [color=#008000](parce que)[/color]
+aunque [color=#008000](bien que)[/color]
+si [color=#008000](si)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Estudio porque quiero aprender.[/color] [color=#008000](J'étudie parce que je veux apprendre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Les propositions subordonnées[/color][/font_size]
+
+Les propositions subordonnées ajoutent des informations supplémentaires à la phrase principale. Elles peuvent être de différentes natures :
+
+[indent][b]a) Subordonnée relative[/b]
+Introduite par un pronom relatif (que, quien, donde).
+
+[i]Exemple : [color=#0000FF]El libro que leí es interesante.[/color] [color=#008000](Le livre que j'ai lu est intéressant.)[/color][/i]
+
+[b]b) Subordonnée conjonctive[/b]
+Introduite par une conjonction (porque, aunque, si).
+
+[i]Exemple : [color=#0000FF]Salí aunque llovía.[/color] [color=#008000](Je suis sorti bien qu'il pleuvait.)[/color][/i]
+
+[b]c) Subordonnée conditionnelle[/b]
+Introduite par si (si).
+
+[i]Exemple : [color=#0000FF]Si estudias, aprobarás.[/color] [color=#008000](Si tu étudies, tu réussiras.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Les impératifs et les exclamations[/color][/font_size]
+
+Les phrases impératives donnent des ordres ou des conseils, tandis que les exclamations expriment des émotions fortes.
+
+[indent][b]a) L'impératif[/b]
+Le verbe à l'impératif peut être affirmatif ou négatif.
+
+[i]Exemple : [color=#0000FF]¡Habla más despacio![/color] [color=#008000](Parle plus lentement !)[/color]
+[color=#0000FF]¡No hables tan rápido![/color] [color=#008000](Ne parle pas si vite !)[/color][/i]
+
+[b]b) Les exclamations[/b]
+Les phrases exclamatives utilisent souvent "¡" au début et "!" à la fin.
+
+[i]Exemple : [color=#0000FF]¡Qué bonito es este lugar![/color] [color=#008000](Comme cet endroit est beau !)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Une phrase espagnole de base doit contenir un sujet et un verbe conjugué.
+[color=#FF0000]2.[/color] L'ordre des mots est généralement Sujet + Verbe + Compléments.
+[color=#FF0000]3.[/color] Les phrases négatives ajoutent "no" avant le verbe.
+[color=#FF0000]4.[/color] Les conjonctions de coordination et de subordination permettent de créer des phrases composées.
+[color=#FF0000]5.[/color] Les propositions subordonnées ajoutent des détails importants à la phrase principale.[/indent]
+
+[center][font_size=18][color=#808080]¡Domina la construcción de phrases y tu español sera más claro y preciso![/color][/font_size][/center]

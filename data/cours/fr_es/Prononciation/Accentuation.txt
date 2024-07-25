@@ -1,0 +1,123 @@
+
+[font_size=30][center][b][color=#0000FF]L'accentuation en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'accentuation en espagnol est essentielle pour la prononciation correcte et pour éviter des ambiguïtés dans la signification des mots. Comprendre les règles d'accentuation vous permettra de parler et d'écrire de manière plus fluide et naturelle.
+
+[font_size=24][color=#4B0082]1. Les types d'accents[/color][/font_size]
+
+En espagnol, on utilise principalement l'accent aigu [color=#FF0000]´[/color]. Cet accent se place sur une voyelle pour indiquer la syllabe tonique, c'est-à-dire la syllabe qui doit être prononcée avec plus de force.
+
+[b]a) Les mots agudos[/b]
+[indent]Ce sont les mots dont la dernière syllabe est tonique. Ils portent un accent écrit si et seulement si ils se terminent par une voyelle, par un [b][color=#FF0000]n[/color][/b], ou un [b][color=#FF0000]s[/color][/b].
+
+[code]
+canción [color=#008000](chanson)[/color]
+perdí [color=#008000](j'ai perdu)[/color]
+bebé [color=#008000](bébé)[/color]
+francés [color=#008000](français)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Compró un coche nuevo.[/color] [color=#008000](Il a acheté une voiture neuve.)[/color][/i][/indent]
+
+[b]b) Les mots llanos ou graves[/b]
+[indent]Ce sont les mots dont l'avant-dernière syllabe est tonique. Ils portent un accent écrit seulement s'ils se terminent par une consonne autre que [b][color=#FF0000]n[/color][/b] ou [b][color=#FF0000]s[/color][/b].
+
+[code]
+árbol [color=#008000](arbre)[/color]
+cárcel [color=#008000](prison)[/color]
+fácil [color=#008000](facile)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]El árbol es muy alto.[/color] [color=#008000](L'arbre est très grand.)[/color][/i][/indent]
+
+[b]c) Les mots esdrújulos[/b]
+[indent]Ce sont les mots dont l'antépénultième (troisième à partir de la fin) syllabe est tonique. Ils portent toujours un accent écrit.
+
+[code]
+pájaro [color=#008000](oiseau)[/color]
+rápido [color=#008000](rapide)[/color]
+matemáticas [color=#008000](mathématiques)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Estudia matemáticas todos los días.[/color] [color=#008000](Il étudie les mathématiques tous les jours.)[/color][/i][/indent]
+
+[b]d) Les mots sobresdrújulos[/b]
+[indent]Ce sont les mots où la syllabe tonique est située avant l'antépénultième syllabe. Ils portent également toujours un accent écrit.
+
+[code]
+cuéntamelo [color=#008000](raconte-le moi)[/color]
+fácilmente [color=#008000](facilement)[/color]
+dificultadmente [color=#008000](difficilement)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Hazlo fácilmente.[/color] [color=#008000](Fais-le facilement.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Différenciation des homophones[/color][/font_size]
+
+En espagnol, l'accent peut aussi être utilisé pour différencier des mots qui se prononcent de la même manière (homophones) mais qui ont des significations différentes.
+
+[indent][code]
+el [color=#008000](le)[/color] / él [color=#008000](il)[/color]
+si [color=#008000](si)[/color] / sí [color=#008000](oui)[/color]
+de [color=#008000](de)[/color] / dé [color=#008000](qu'il donne)[/color]
+te [color=#008000](te)[/color] / té [color=#008000](thé)[/color]
+se [color=#008000](se)[/color] / sé [color=#008000](je sais)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Él sí quiere más té.[/color] [color=#008000](Il veut bien plus de thé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Accents diacritiques[/color][/font_size]
+
+Les accents diacritiques sont utilisés pour distinguer des mots qui sinon seraient orthographiés de manière identique, mais qui ont des fonctions grammaticales différentes.
+
+[b]a) Interrogation et exclamation[/b]
+[indent]Les mots interrogatifs et exclamatifs portent toujours un accent écrit sur la syllabe tonique.
+
+[code]
+qué [color=#008000](quoi)[/color]
+cuál [color=#008000](quel)[/color]
+cómo [color=#008000](comment)[/color]
+dónde [color=#008000](où)[/color]
+cuánto [color=#008000](combien)[/color]
+ [/code]
+
+[i]Exemple : [color=#0000FF]¿Qué quieres?[/color] [color=#008000](Que veux-tu ?)[/color][/i][/indent]
+
+[b]b) Monosyllables avec différents sens[/b]
+[indent]Certains monosyllabes ont un accent diacritique pour éviter la confusion.
+
+[code]
+sí [color=#008000](oui)[/color] / si [color=#008000](si)[/color]
+mí [color=#008000](moi)[/color] / mi [color=#008000](mon)[/color]
+más [color=#008000](plus)[/color] / mas [color=#008000](mais)[/color]
+tú [color=#008000](toi)[/color] / tu [color=#008000](ton)[/color]
+él [color=#008000](il)[/color] / el [color=#008000](le)[/color]
+sé [color=#008000](je sais)[/color] / se [color=#008000](se)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Tú sé más amable.[/color] [color=#008000](Toi, sois plus aimable.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Les accents et les diphtongues/triphtongues[/color][/font_size]
+
+En espagnol, les diphtongues (union de deux voyelles dans la même syllabe) et les triphtongues (union de trois voyelles dans la même syllabe) suivent des règles d'accentuation précises :
+
+[indent]• Si le mot suit les règles standards d'accentuation, l'accent se place sur la voyelle de la syllabe tonique comme d'habitude :
+[color=#0000FF]canción[/color] [color=#008000](chanson)[/color]
+
+- Si le mot a une diphtongue ou une triphtongue et nécessite un accent sur la voyelle forte (a, e, o), alors l'accent se place sur celle-ci, rompant parfois la diphtongue :
+[color=#0000FF]reúne[/color] [color=#008000](réunit)[/color]
+[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les accents indiquent la syllabe tonique des mots et sont essentiels pour la prononciation.
+[color=#FF0000]2.[/color] Les mots agudos, llanos, esdrújulos et sobresdrújulos suivent des règles d'accentuation spécifiques.
+[color=#FF0000]3.[/color] Les accents peuvent différencier des mots homophones et donnent une fonction grammaticale différente aux mots.
+[color=#FF0000]4.[/color] Les mots interrogatifs et exclamatifs portent toujours un accent écrit.
+[color=#FF0000]5.[/color] Les diphtongues et triphtongues ont leurs propres règles d'accentuation, influençant où se place le ton.[/indent]
+
+[center][font_size=18][color=#808080]¡Entiende y aplica correctamente las reglas de acento para hablar y escribir en español de forma clara y precisa![/color][/font_size][/center]

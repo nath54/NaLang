@@ -1,0 +1,75 @@
+
+[font_size=30][center][b][color=#0000FF]Les questions en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En espagnol, poser des questions est essentiel pour la communication quotidienne. Les questions peuvent être fermées (réponses par oui ou non) ou ouvertes (réponses plus détaillées). Apprendre à les formuler correctement permet d'enrichir les conversations et de mieux comprendre l'espagnol.
+
+[font_size=24][color=#4B0082]1. Questions fermées[/color][/font_size]
+
+Les questions fermées attendent une réponse par "oui" ou "non". Elles se construisent généralement en inversant l'ordre sujet-verbe par rapport à l'affirmative.
+
+[indent][code]
+¿Vienes a la fiesta? [color=#008000](Tu viens à la fête ?)[/color]
+¿Es alto tu hermano? [color=#008000](Ton frère est-il grand ?)[/color]
+¿Tienes hambre? [color=#008000](As-tu faim ?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]¿Te gusta la música?[/color] [color=#008000](Aimes-tu la musique ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Questions ouvertes[/color][/font_size]
+
+Les questions ouvertes commencent par un mot interrogatif et nécessitent une réponse plus longue. Voici les principaux mots interrogatifs :
+
+[indent][code]
+¿Qué? [color=#008000](Quoi?)[/color]
+¿Quién? [color=#008000](Qui?)[/color]
+¿Dónde? [color=#008000](Où?)[/color]
+¿Cuándo? [color=#008000](Quand?)[/color]
+¿Por qué? [color=#008000](Pourquoi?)[/color]
+¿Cómo? [color=#008000](Comment?)[/color]
+¿Cuál? [color=#008000](Lequel?)[/color]
+¿Cuántos/as? [color=#008000](Combien ?)[/color]
+[/code]
+
+[i]Exemples :
+[color=#0000FF]¿Qué haces?[/color] [color=#008000](Qu'est-ce que tu fais ?)[/color]
+[color=#0000FF]¿Quién es él?[/color] [color=#008000](Qui est-il ?)[/color]
+[color=#0000FF]¿Dónde vives?[/color] [color=#008000](Où habites-tu ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. L'intonation dans les questions[/color][/font_size]
+
+En espagnol, l'intonation joue un rôle clé dans la formation des questions, surtout les questions fermées. Le ton de la voix monte généralement à la fin de la phrase pour indiquer qu'il s'agit d'une question.
+
+[indent][i]Exemple :
+[color=#0000FF]Tú vienes.[/color] [color=#008000](Tu viens.)[/color] [color=#FF0000]→ Affirmation[/color]
+[color=#0000FF]¿Tú vienes?[/color] [color=#008000](Tu viens ?)[/color] [color=#FF0000]→ Question[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Les particules interrogatives accentuées[/color][/font_size]
+
+Tous les mots interrogatifs en espagnol sont accentués, même à l'écrit. L'accent aide à distinguer la question de l'affirmative.
+
+[indent][i]Exemples :
+[color=#0000FF]Él sabe [b]qué[/b] hacer.[/color] [color=#008000](Il sait quoi faire.)[/color]
+[color=#0000FF]Él no sabe [b]qué[/b] hacer.[/color] [color=#008000](Il ne sait pas quoi faire.)[/color]
+[color=#0000FF]¿Qué quieres?[/color] [color=#008000](Que veux-tu ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. N'oubliez pas les points d'interrogation[/color][/font_size]
+
+En espagnol, les questions commencent par un point d'interrogation inversé (¿) et se terminent par un point d'interrogation classique (?). Cela permet de savoir dès le début de la phrase qu'il s'agit d'une question.
+
+[indent][i]Exemples :
+[color=#0000FF]¿Dónde está el baño?[/color] [color=#008000](Où sont les toilettes ?)[/color]
+[color=#0000FF]¿Cómo te llamas?[/color] [color=#008000](Comment tu t'appelles ?)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les questions fermées se construisent en inversant l'ordre sujet-verbe.
+[color=#FF0000]2.[/color] Les questions ouvertes commencent par un mot interrogatif.
+[color=#FF0000]3.[/color] L'intonation monte généralement à la fin des questions fermées.
+[color=#FF0000]4.[/color] Les mots interrogatifs sont toujours accentués.
+[color=#FF0000]5.[/color] N'oubliez pas d'utiliser le point d'interrogation inversé au début de la question.[/indent]
+
+[center][font_size=18][color=#808080]¡Haz preguntas correctamente y mejora tu habilidad de comunicación en español![/color][/font_size][/center]

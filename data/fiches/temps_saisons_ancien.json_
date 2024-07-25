@@ -1,0 +1,94 @@
+
+{
+	"name": {
+		"es": "Clima y temporadas",
+		"fr": "La météo et les saisons"
+	},
+	"langs": ["es", "fr"],
+	"elements": [
+		{
+			"es": ["Las estaciones"],
+			"fr": ["Les saisons"]
+		},
+		{
+			"es": ["La primavera"],
+			"fr": ["Le printemps"]
+		},
+		{
+			"es": ["El verano"],
+			"fr": ["L’été"]
+		},
+		{
+			"es": ["El otoño"],
+			"fr": ["L’automne"]
+		},
+		{
+			"es": ["El invierno"],
+			"fr": ["L’hiver"]
+		},
+		{
+			"es": ["El tiempo"],
+			"fr": ["Le temps"]
+		},
+		{
+			"es": ["El clima"],
+			"fr": ["Le climat"]
+		},
+		{
+			"es": ["El pronóstico del tiempo"],
+			"fr": ["Le bulletin météo"]
+		},
+		{
+			"es": ["¿Qué tiempo hace?"],
+			"fr": ["Quel temps fait-il?"]
+		},
+		{
+			"es": ["Hace bueno"],
+			"fr": ["Il fait beau"]
+		},
+		{
+			"es": ["Brilla el sol"],
+			"fr": ["Le soleil brille"]
+		},
+		{
+			"es": ["Tener calor"],
+			"fr": ["Avoir chaud"]
+		},
+		{
+			"es": ["Sudar"],
+			"fr": ["Suer"]
+		},
+		{
+			"es": ["Llueve"],
+			"fr": ["Il pleut"]
+		},
+		{
+			"es": ["Estar calado", "Estar calada"],
+			"fr": ["Etre trempé", "Etre trempée"]
+		},
+		{
+			"es": ["Hace viento"],
+			"fr": ["Il y a du vent"]
+		},
+		{
+			"es": ["Hay niebla"],
+			"fr": ["Il y a du brouillard"]
+		},
+		{
+			"es": ["Nieva"],
+			"fr": ["Il neige"]
+		},
+		{
+			"es": ["Hace frío"],
+			"fr": ["Il fait froid"]
+		},
+		{
+			"es": ["Tener frío"],
+			"fr": ["Avoir froid"]
+		},
+		{
+			"es": ["Estar helado", "Estar helada"],
+			"fr": ["Etre gelé", "Etre gelée"]
+		}
+	]
+}

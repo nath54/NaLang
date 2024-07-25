@@ -2,100 +2,195 @@
 	"name": {
 		"es": "Los colores",
 		"fr": "Les couleurs",
+		"en": "Colors",
+		"cn": "颜色 (yan se)",
+		"de": "Farben",
+		"ja": "色 (iro)"
 	},
-	"langs": ["es", "fr"],
-	"elements": [
-		{
+	"langs": ["es", "fr", "en", "cn", "de", "ja"],
+	"elements": [{
 			"es": ["El color"],
-			"fr": ["La couleur"]
+			"fr": ["La couleur"],
+			"en": ["Color"],
+			"cn": ["颜色", "yan se"],
+			"de": ["Farbe"],
+			"ja": ["色", "iro"]
 		},
 		{
 			"es": ["Azul"],
-			"fr": ["Bleu"]
+			"fr": ["Bleu"],
+			"en": ["Blue"],
+			"cn": ["蓝色", "lan se"],
+			"de": ["Blau"],
+			"ja": ["青", "ao"]
 		},
 		{
 			"es": ["Azul marino"],
-			"fr": ["Bleu marine"]
+			"fr": ["Bleu marine"],
+			"en": ["Navy blue"],
+			"cn": ["海军蓝", "hai jun lan"],
+			"de": ["Marineblau"],
+			"ja": ["ネイビーブルー", "nei bi bu ru"]
 		},
 		{
 			"es": ["Celeste"],
-			"fr": ["Bleu ciel"]
+			"fr": ["Bleu ciel"],
+			"en": ["Sky blue"],
+			"cn": ["天蓝色", "tian lan se"],
+			"de": ["Himmelblau"],
+			"ja": ["空色", "sora iro"]
 		},
 		{
 			"es": ["Añil"],
-			"fr": ["Indigo"]
+			"fr": ["Indigo"],
+			"en": ["Indigo"],
+			"cn": ["靛蓝", "dian lan"],
+			"de": ["Indigo"],
+			"ja": ["藍色", "ai iro"]
 		},
 		{
 			"es": ["Turquesa"],
-			"fr": ["Turquoise"]
+			"fr": ["Turquoise"],
+			"en": ["Turquoise"],
+			"cn": ["绿松石", "lü song shi"],
+			"de": ["Türkis"],
+			"ja": ["ターコイズ", "taakoizu"]
 		},
 		{
 			"es": ["Verde"],
-			"fr": ["Vert"]
+			"fr": ["Vert"],
+			"en": ["Green"],
+			"cn": ["绿色", "lü se"],
+			"de": ["Grün"],
+			"ja": ["緑", "midori"]
 		},
 		{
 			"es": ["Amarillo"],
-			"fr": ["Jaune"]
+			"fr": ["Jaune"],
+			"en": ["Yellow"],
+			"cn": ["黄色", "huang se"],
+			"de": ["Gelb"],
+			"ja": ["黄色", "ki iro"]
 		},
 		{
 			"es": ["Rosa"],
-			"fr": ["Rose"]
+			"fr": ["Rose"],
+			"en": ["Pink"],
+			"cn": ["粉色", "fen se"],
+			"de": ["Rosa"],
+			"ja": ["ピンク", "pingu"]
 		},
 		{
 			"es": ["Naranja"],
-			"fr": ["Orange"]
+			"fr": ["Orange"],
+			"en": ["Orange"],
+			"cn": ["橙色", "cheng se"],
+			"de": ["Orange"],
+			"ja": ["オレンジ", "orenji"]
 		},
 		{
 			"es": ["Rojo"],
-			"fr": ["Rouge"]
+			"fr": ["Rouge"],
+			"en": ["Red"],
+			"cn": ["红色", "hong se"],
+			"de": ["Rot"],
+			"ja": ["赤", "aka"]
 		},
 		{
 			"es": ["Burdeos"],
-			"fr": ["Bordeaux"]
+			"fr": ["Bordeaux"],
+			"en": ["Bordeaux"],
+			"cn": ["波尔多色", "bo er duo se"],
+			"de": ["Bordeaux"],
+			"ja": ["ボルドー", "borudoo"]
 		},
 		{
 			"es": ["Púrpura"],
-			"fr": ["Pourpre"]
+			"fr": ["Pourpre"],
+			"en": ["Purple"],
+			"cn": ["紫色", "zi se"],
+			"de": ["Purpur"],
+			"ja": ["紫", "murasaki"]
 		},
 		{
 			"es": ["Violeta"],
-			"fr": ["Violet clair"]
+			"fr": ["Violet clair"],
+			"en": ["Light violet"],
+			"cn": ["浅紫色", "qian zi se"],
+			"de": ["Hellviolett"],
+			"ja": ["淡い紫色", "awai murasaki iro"]
 		},
 		{
 			"es": ["Morado"],
-			"fr": ["Violet"]
+			"fr": ["Violet"],
+			"en": ["Violet"],
+			"cn": ["紫色", "zi se"],
+			"de": ["Violett"],
+			"ja": ["バイオレット", "baioretto"]
 		},
 		{
 			"es": ["Beige"],
-			"fr": ["Beige"]
+			"fr": ["Beige"],
+			"en": ["Beige"],
+			"cn": ["米色", "mi se"],
+			"de": ["Beige"],
+			"ja": ["ベージュ", "beiju"]
 		},
 		{
 			"es": ["Marrón"],
-			"fr": ["Marron"]
+			"fr": ["Marron"],
+			"en": ["Brown"],
+			"cn": ["棕色", "zong se"],
+			"de": ["Braun"],
+			"ja": ["茶色", "cha iro"]
 		},
 		{
 			"es": ["Negro"],
-			"fr": ["Noir"]
+			"fr": ["Noir"],
+			"en": ["Black"],
+			"cn": ["黑色", "hei se"],
+			"de": ["Schwarz"],
+			"ja": ["黒", "kuro"]
 		},
 		{
 			"es": ["Blanco"],
-			"fr": ["Blanc"]
+			"fr": ["Blanc"],
+			"en": ["White"],
+			"cn": ["白色", "bai se"],
+			"de": ["Weiß"],
+			"ja": ["白", "shiro"]
 		},
 		{
 			"es": ["Gris"],
-			"fr": ["Gris"]
+			"fr": ["Gris"],
+			"en": ["Gray"],
+			"cn": ["灰色", "hui se"],
+			"de": ["Grau"],
+			"ja": ["灰色", "hai iro"]
 		},
 		{
 			"es": ["Plateado"],
-			"fr": ["Argenté"]
+			"fr": ["Argenté"],
+			"en": ["Silver"],
+			"cn": ["银色", "yin se"],
+			"de": ["Silber"],
+			"ja": ["銀色", "gin iro"]
 		},
 		{
 			"es": ["Dorado"],
-			"fr": ["Doré"]
+			"fr": ["Doré"],
+			"en": ["Gold"],
+			"cn": ["金色", "jin se"],
+			"de": ["Gold"],
+			"ja": ["金色", "kin iro"]
 		},
 		{
 			"es": ["Cobrizo"],
-			"fr": ["Cuivré"]
+			"fr": ["Cuivré"],
+			"en": ["Copper"],
+			"cn": ["铜色", "tong se"],
+			"de": ["Kupfer"],
+			"ja": ["銅色", "do iro"]
 		}
 	]
 }

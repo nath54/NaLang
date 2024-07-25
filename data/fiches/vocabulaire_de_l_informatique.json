@@ -1,0 +1,493 @@
+{
+    "name": { "es": "Informática", "fr": "Informatique", "en": "Computer Science", "cn": "计算机科学 ji suan ji ke xue", "de": "Informatik", "ja": "コンピュータサイエンス konpyūta saiensu" },
+    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "elements": [{
+            "es": ["Ordenador", "Computadora"],
+            "fr": ["Ordinateur"],
+            "en": ["Computer"],
+            "cn": ["电脑", "dian nao"],
+            "de": ["Computer", "Rechner"],
+            "ja": ["コンピュータ", "konpyūta"]
+        },
+        {
+            "es": ["Pantalla"],
+            "fr": ["Écran"],
+            "en": ["Screen", "Monitor"],
+            "cn": ["屏幕", "ping mu"],
+            "de": ["Bildschirm", "Monitor"],
+            "ja": ["スクリーン", "モニター sukuriin", "monitā"]
+        },
+        {
+            "es": ["Teclado"],
+            "fr": ["Clavier"],
+            "en": ["Keyboard"],
+            "cn": ["键盘", "jian pan"],
+            "de": ["Tastatur"],
+            "ja": ["キーボード", "kiibōdo"]
+        },
+        {
+            "es": ["Ratón"],
+            "fr": ["Souris"],
+            "en": ["Mouse"],
+            "cn": ["鼠标", "shu biao"],
+            "de": ["Maus"],
+            "ja": ["マウス", "mausu"]
+        },
+        {
+            "es": ["Impresora"],
+            "fr": ["Imprimante"],
+            "en": ["Printer"],
+            "cn": ["打印机", "da yin ji"],
+            "de": ["Drucker"],
+            "ja": ["プリンター", "purintā"]
+        },
+        {
+            "es": ["Disco duro"],
+            "fr": ["Disque dur"],
+            "en": ["Hard drive", "Disk"],
+            "cn": ["硬盘", "ying pan"],
+            "de": ["Festplatte"],
+            "ja": ["ハードディスク", "haado disuku"]
+        },
+        {
+            "es": ["Memoria RAM"],
+            "fr": ["Mémoire RAM"],
+            "en": ["RAM"],
+            "cn": ["内存", "nei cun"],
+            "de": ["RAM", "Arbeitsspeicher"],
+            "ja": ["メモリ", "memori"]
+        },
+        {
+            "es": ["CPU"],
+            "fr": ["Unité centrale", "CPU"],
+            "en": ["CPU", "Central Processing Unit"],
+            "cn": ["中央处理器", "zhong yang chu li qi"],
+            "de": ["CPU", "Zentraleinheit"],
+            "ja": ["CPU", "c.p.u."]
+        },
+        {
+            "es": ["Tarjeta gráfica"],
+            "fr": ["Carte graphique"],
+            "en": ["Graphics card"],
+            "cn": ["显卡", "xian ka"],
+            "de": ["Grafikkarte"],
+            "ja": ["グラフィックカード", "gurafikku kaado"]
+        },
+        {
+            "es": ["Placa base"],
+            "fr": ["Carte mère"],
+            "en": ["Motherboard"],
+            "cn": ["主板", "zhu ban"],
+            "de": ["Hauptplatine"],
+            "ja": ["マザーボード", "mazābōdo"]
+        },
+        {
+            "es": ["Fuente de alimentación"],
+            "fr": ["Alimentation"],
+            "en": ["Power supply"],
+            "cn": ["电源", "dian yuan"],
+            "de": ["Netzteil"],
+            "ja": ["電源", "den gen"]
+        },
+        {
+            "es": ["Unidad de CD", "Unidad óptica"],
+            "fr": ["Lecteur de CD", "Lecteur optique"],
+            "en": ["CD drive", "Optical drive"],
+            "cn": ["光驱", "guang qu"],
+            "de": ["CD-Laufwerk", "Optisches Laufwerk"],
+            "ja": ["CDドライブ", "光学ドライブ shiidii doraibu", "kōgaku doraibu"]
+        },
+        {
+            "es": ["Software"],
+            "fr": ["Logiciel"],
+            "en": ["Software"],
+            "cn": ["软件", "ruan jian"],
+            "de": ["Software"],
+            "ja": ["ソフトウェア", "sofutowea"]
+        },
+        {
+            "es": ["Hardware"],
+            "fr": ["Matériel"],
+            "en": ["Hardware"],
+            "cn": ["硬件", "ying jian"],
+            "de": ["Hardware"],
+            "ja": ["ハードウェア", "hādowea"]
+        },
+        {
+            "es": ["Sistema operativo"],
+            "fr": ["Système d'exploitation"],
+            "en": ["Operating system"],
+            "cn": ["操作系统", "cao zuo xi tong"],
+            "de": ["Betriebssystem"],
+            "ja": ["オペレーティングシステム", "opereetingu shisutemu"]
+        },
+        {
+            "es": ["Navegador", "Explorador web"],
+            "fr": ["Navigateur"],
+            "en": ["Browser", "Web browser"],
+            "cn": ["浏览器", "liu lan qi"],
+            "de": ["Browser", "Webbrowser"],
+            "ja": ["ブラウザ", "ネットブラウザ burauza", "netto burauza"]
+        },
+        {
+            "es": ["Internet"],
+            "fr": ["Internet"],
+            "en": ["Internet"],
+            "cn": ["互联网", "hu lian wang"],
+            "de": ["Internet"],
+            "ja": ["インターネット", "intaanetto"]
+        },
+        {
+            "es": ["Red"],
+            "fr": ["Réseau"],
+            "en": ["Network"],
+            "cn": ["网络", "wang luo"],
+            "de": ["Netzwerk"],
+            "ja": ["ネットワーク", "nettowāku"]
+        },
+        {
+            "es": ["Servidor"],
+            "fr": ["Serveur"],
+            "en": ["Server"],
+            "cn": ["服务器", "fu wu qi"],
+            "de": ["Server"],
+            "ja": ["サーバー", "sābā"]
+        },
+        {
+            "es": ["Cliente"],
+            "fr": ["Client"],
+            "en": ["Client"],
+            "cn": ["客户端", "ke hu duan"],
+            "de": ["Client"],
+            "ja": ["クライアント", "kuraianto"]
+        },
+        {
+            "es": ["Conectarse"],
+            "fr": ["Se connecter"],
+            "en": ["Connect"],
+            "cn": ["连接", "lian jie"],
+            "de": ["Verbindung herstellen", "verbinden"],
+            "ja": ["接続する", "setsuzoku suru"]
+        },
+        {
+            "es": ["Desconectarse"],
+            "fr": ["Se déconnecter"],
+            "en": ["Disconnect"],
+            "cn": ["断开", "duan kai"],
+            "de": ["Verbindung trennen", "deaktivieren"],
+            "ja": ["切断する", "ketsudan suru"]
+        },
+        {
+            "es": ["Contraseña"],
+            "fr": ["Mot de passe"],
+            "en": ["Password"],
+            "cn": ["密码", "mi ma"],
+            "de": ["Passwort", "Kennwort"],
+            "ja": ["パスワード", "pasuwādo"]
+        },
+        {
+            "es": ["Archivo"],
+            "fr": ["Fichier"],
+            "en": ["File"],
+            "cn": ["文件", "wen jian"],
+            "de": ["Datei"],
+            "ja": ["ファイル", "fairu"]
+        },
+        {
+            "es": ["Carpeta"],
+            "fr": ["Dossier"],
+            "en": ["Folder", "Directory"],
+            "cn": ["文件夹", "wen jian jia"],
+            "de": ["Ordner"],
+            "ja": ["フォルダー", "forudā"]
+        },
+        {
+            "es": ["Descargar"],
+            "fr": ["Télécharger"],
+            "en": ["Download"],
+            "cn": ["下载", "xia zai"],
+            "de": ["Herunterladen", "Download"],
+            "ja": ["ダウンロードする", "daunrōdo suru"]
+        },
+        {
+            "es": ["Subir"],
+            "fr": ["Téléverser"],
+            "en": ["Upload"],
+            "cn": ["上传", "shang chuan"],
+            "de": ["Hochladen", "Upload"],
+            "ja": ["アップロードする", "appurōdo suru"]
+        },
+        {
+            "es": ["Correo electrónico"],
+            "fr": ["Courriel", "Email"],
+            "en": ["Email"],
+            "cn": ["电子邮件", "dian zi you jian"],
+            "de": ["E-Mail"],
+            "ja": ["メール", "meeru"]
+        },
+        {
+            "es": ["Sitio web", "Página web"],
+            "fr": ["Site web"],
+            "en": ["Website"],
+            "cn": ["网站", "wang zhan"],
+            "de": ["Webseite"],
+            "ja": ["ウェブサイト", "uebusaito"]
+        },
+        {
+            "es": ["Enlace", "Hipervínculo"],
+            "fr": ["Lien", "Hyperlien"],
+            "en": ["Link", "Hyperlink"],
+            "cn": ["链接", "lian jie"],
+            "de": ["Link", "Hyperlink"],
+            "ja": ["リンク", "rinku"]
+        },
+        {
+            "es": ["Base de datos"],
+            "fr": ["Base de données"],
+            "en": ["Database"],
+            "cn": ["数据库", "shu ju ku"],
+            "de": ["Datenbank"],
+            "ja": ["データベース", "dētabēsu"]
+        },
+        {
+            "es": ["Propiedad"],
+            "fr": ["Propriété"],
+            "en": ["Property"],
+            "cn": ["属性", "shu xing"],
+            "de": ["Eigenschaft"],
+            "ja": ["プロパティ", "puropati"]
+        },
+        {
+            "es": ["Parámetro"],
+            "fr": ["Paramètre"],
+            "en": ["Parameter"],
+            "cn": ["参数", "can shu"],
+            "de": ["Parameter"],
+            "ja": ["パラメーター", "paramētā"]
+        },
+        {
+            "es": ["Red social"],
+            "fr": ["Réseau social"],
+            "en": ["Social network"],
+            "cn": ["社交网络", "she jiao wang luo"],
+            "de": ["Soziales Netzwerk"],
+            "ja": ["ソーシャルネットワーク", "sōsharu nettowāku"]
+        },
+        {
+            "es": ["Seguridad"],
+            "fr": ["Sécurité"],
+            "en": ["Security"],
+            "cn": ["安全", "an quan"],
+            "de": ["Sicherheit"],
+            "ja": ["セキュリティ", "sekyuriti"]
+        },
+        {
+            "es": ["Privacidad"],
+            "fr": ["Vie privée"],
+            "en": ["Privacy"],
+            "cn": ["隐私", "yin si"],
+            "de": ["Privatsphäre"],
+            "ja": ["プライバシー", "puraibashi"]
+        },
+        {
+            "es": ["Usuario"],
+            "fr": ["Utilisateur"],
+            "en": ["User"],
+            "cn": ["用户", "yong hu"],
+            "de": ["Benutzer"],
+            "ja": ["ユーザー", "yūzā"]
+        },
+        {
+            "es": ["Interfaz"],
+            "fr": ["Interface"],
+            "en": ["Interface"],
+            "cn": ["界面", "jie mian"],
+            "de": ["Schnittstelle", "Interface"],
+            "ja": ["インターフェース", "intāfēsu"]
+        },
+        {
+            "es": ["Configuración"],
+            "fr": ["Configuration"],
+            "en": ["Configuration"],
+            "cn": ["配置", "pei zhi"],
+            "de": ["Einstellung", "Konfiguration"],
+            "ja": ["設定", "せってい se tei"]
+        },
+        {
+            "es": ["Actualizar"],
+            "fr": ["Mettre à jour"],
+            "en": ["Update"],
+            "cn": ["更新", "geng xin"],
+            "de": ["Aktualisieren"],
+            "ja": ["更新する", "kōshin suru"]
+        },
+        {
+            "es": ["Borrar"],
+            "fr": ["Supprimer"],
+            "en": ["Delete", "Remove"],
+            "cn": ["删除", "shan chu"],
+            "de": ["Löschen"],
+            "ja": ["削除する", "sakujo suru"]
+        },
+        {
+            "es": ["Guardar"],
+            "fr": ["Enregistrer", "Sauvegarder"],
+            "en": ["Save"],
+            "cn": ["保存", "bao cun"],
+            "de": ["Speichern"],
+            "ja": ["保存する", "hozon suru"]
+        },
+        {
+            "es": ["Imprimir"],
+            "fr": ["Imprimer"],
+            "en": ["Print"],
+            "cn": ["打印", "da yin"],
+            "de": ["Drucken"],
+            "ja": ["印刷する", "insatsu suru"]
+        },
+        {
+            "es": ["Buscar"],
+            "fr": ["Rechercher"],
+            "en": ["Search"],
+            "cn": ["搜索", "sou suo"],
+            "de": ["Suchen"],
+            "ja": ["検索する", "kensaku suru"]
+        },
+        {
+            "es": ["Copiar"],
+            "fr": ["Copier"],
+            "en": ["Copy"],
+            "cn": ["复制", "fu zhi"],
+            "de": ["Kopieren"],
+            "ja": ["コピーする", "kopī suru"]
+        },
+        {
+            "es": ["Pegar"],
+            "fr": ["Coller"],
+            "en": ["Paste"],
+            "cn": ["粘贴", "nian tie"],
+            "de": ["Einfügen"],
+            "ja": ["貼り付ける", "haritsukeru"]
+        },
+        {
+            "es": ["Cortar"],
+            "fr": ["Couper"],
+            "en": ["Cut"],
+            "cn": ["剪切", "jian qie"],
+            "de": ["Ausschneiden"],
+            "ja": ["切り取る", "kiritoru"]
+        },
+        {
+            "es": ["Programar"],
+            "fr": ["Programmer"],
+            "en": ["Program"],
+            "cn": ["编程", "bian cheng"],
+            "de": ["Programmieren"],
+            "ja": ["プログラムする", "puroguramu suru"]
+        },
+        {
+            "es": ["Código"],
+            "fr": ["Code"],
+            "en": ["Code"],
+            "cn": ["代码", "dai ma"],
+            "de": ["Code"],
+            "ja": ["コード", "kōdo"]
+        },
+        {
+            "es": ["Depurar"],
+            "fr": ["Déboguer"],
+            "en": ["Debug"],
+            "cn": ["调试", "tiao shi"],
+            "de": ["Debuggen"],
+            "ja": ["デバッグする", "debaggusu ru"]
+        },
+        {
+            "es": ["Compilar"],
+            "fr": ["Compiler"],
+            "en": ["Compile"],
+            "cn": ["编译", "bian yi"],
+            "de": ["Kompilieren"],
+            "ja": ["コンパイルする", "konpairu suru"]
+        },
+        {
+            "es": ["Ejecutar"],
+            "fr": ["Exécuter"],
+            "en": ["Run", "Execute"],
+            "cn": ["运行", "yun xing"],
+            "de": ["Ausführen"],
+            "ja": ["実行する", "jikkou suru"]
+        },
+        {
+            "es": ["Inteligencia artificial"],
+            "fr": ["Intelligence artificielle"],
+            "en": ["Artificial intelligence"],
+            "cn": ["人工智能", "ren gong zhi neng"],
+            "de": ["Künstliche Intelligenz"],
+            "ja": ["人工知能", "jinkou chinou"]
+        },
+        {
+            "es": ["Algoritmo"],
+            "fr": ["Algorithme"],
+            "en": ["Algorithm"],
+            "cn": ["算法", "suan fa"],
+            "de": ["Algorithmus"],
+            "ja": ["アルゴリズム", "arugorizumu"]
+        },
+        {
+            "es": ["Diagrama de flujo"],
+            "fr": ["Organigramme"],
+            "en": ["Flowchart"],
+            "cn": ["流程图", "liu cheng tu"],
+            "de": ["Flussdiagramm"],
+            "ja": ["フローチャート", "furōchāto"]
+        },
+        {
+            "es": ["Base de datos"],
+            "fr": ["Base de données"],
+            "en": ["Database"],
+            "cn": ["数据库", "shu ju ku"],
+            "de": ["Datenbank"],
+            "ja": ["データベース", "dētabēsu"]
+        },
+        {
+            "es": ["Servidores en la nube"],
+            "fr": ["Serveurs cloud"],
+            "en": ["Cloud servers"],
+            "cn": ["云服务器", "yun fu wu qi"],
+            "de": ["Cloud-Server"],
+            "ja": ["クラウドサーバー", "kuraudo sābā"]
+        },
+        {
+            "es": ["Protocolo"],
+            "fr": ["Protocole"],
+            "en": ["Protocol"],
+            "cn": ["协议", "xie yi"],
+            "de": ["Protokoll"],
+            "ja": ["プロトコル", "purotokoru"]
+        },
+        {
+            "es": ["Red neuronal"],
+            "fr": ["Réseau neuronal"],
+            "en": ["Neural network"],
+            "cn": ["神经网络", "shen jing wang luo"],
+            "de": ["Neuronales Netzwerk"],
+            "ja": ["ニューラルネットワーク", "nyūraru nettowāku"]
+        },
+        {
+            "es": ["Programación orientada a objetos"],
+            "fr": ["Programmation orientée objet"],
+            "en": ["Object-oriented programming"],
+            "cn": ["面向对象编程", "mian xiang dui xiang bian cheng"],
+            "de": ["Objektorientierte Programmierung"],
+            "ja": ["オブジェクト指向プログラミング", "obujekuto shikou puroguramingu"]
+        },
+        {
+            "es": ["Cifrado"],
+            "fr": ["Chiffrement"],
+            "en": ["Encryption"],
+            "cn": ["加密", "jia mi"],
+            "de": ["Verschlüsselung"],
+            "ja": ["暗号化", "angouka"]
+        }
+    ]
+}

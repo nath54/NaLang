@@ -1,0 +1,104 @@
+
+[font_size=30][center][b][color=#0000FF]Les expressions de quantités en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En espagnol, les expressions de quantités sont utilisées pour donner une idée plus précise de la quantité ou de la fréquence. Elles jouent un rôle important dans la communication quotidienne et peuvent concerner des objets, des personnes ou du temps.
+
+[font_size=24][color=#4B0082]1. Les quantifieurs[/color][/font_size]
+
+Les quantifieurs sont des mots qui indiquent une quantité indéfinie. Ils peuvent être utilisés avec des noms dénombrables ou indénombrables.
+
+[b]a) Quantifieurs courants[/b]
+[indent][code]
+mucho [color=#008000](beaucoup)[/color]
+poco [color=#008000](peu)[/color]
+bastante [color=#008000](assez)[/color]
+demasiado [color=#008000](trop)[/color]
+algo [color=#008000](quelque chose)[/color]
+nada [color=#008000](rien)[/color]
+todo [color=#008000](tout)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Tengo mucho trabajo.[/color] [color=#008000](J'ai beaucoup de travail.)[/color][/i][/indent]
+
+[b]b) Utilisation avec des noms dénombrables et indénombrables[/b]
+[indent]Certaines expressions de quantité s'emploient différemment selon qu'elles sont utilisées avec des noms dénombrables ou indénombrables :
+
+- [color=#FF0000]mucho[/color] + nom indénombrable (e.g. [color=#0000FF]mucho dinero[/color], [color=#008000]beaucoup d'argent[/color])
+- [color=#FF0000]muchos(as)[/color] + nom dénombrable au pluriel (e.g. [color=#0000FF]muchos libros[/color], [color=#008000]beaucoup de livres[/color])
+
+[i]Exemple : [color=#0000FF]Hay mucha agua en el río.[/color] [color=#008000](Il y a beaucoup d'eau dans la rivière.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les expressions de quantités approximatives[/color][/font_size]
+
+En espagnol, on utilise aussi des expressions pour donner une idée approximative d'une quantité ou d'une fréquence.
+
+[b]a) Expressions de quantité approximative[/b]
+[indent][code]
+unos/unas [color=#008000](environ, quelques)[/color]
+varios/varias [color=#008000](plusieurs)[/color]
+cerca de [color=#008000](près de, environ)[/color]
+aproximadamente [color=#008000](approximativement)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Hay unas diez personas en la sala.[/color] [color=#008000](Il y a environ dix personnes dans la salle.)[/color][/i][/indent]
+
+[b]b) Utilisation contextuelle[/b]
+[indent]Ces expressions permettent de ne pas être trop précis et de donner une estimation. Elles sont souvent utilisées dans des contextes informels ou lorsque la quantité exacte n'est pas connue.
+
+[i]Exemple : [color=#0000FF]Varios estudiantes aprobaron el examen.[/color] [color=#008000](Plusieurs étudiants ont réussi l'examen.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les locutions adverbiales de quantité[/color][/font_size]
+
+Certaines locutions adverbiales permettent de préciser davantage la quantité ou la fréquence.
+
+[indent][code]
+de vez en cuando [color=#008000](de temps en temps)[/color]
+a menudo [color=#008000](souvent)[/color]
+de repente [color=#008000](soudainement)[/color]
+en total [color=#008000](en tout)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Vamos al cine de vez en cuando.[/color] [color=#008000](Nous allons au cinéma de temps en temps.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Expressions de quantités avec des comparatifs[/color][/font_size]
+
+Les expressions de quantités peuvent également être utilisées dans des comparatifs pour exprimer des différences.
+
+[b]a) Comparatif de supériorité[/b]
+[indent]• [color=#FF0000]más ... que[/color] [color=#008000](plus ... que)[/color]
+- [i]Exemple : [color=#0000FF]Tengo más libros que tú.[/color] [color=#008000](J'ai plus de livres que toi.)[/color][/i][/indent]
+
+[b]b) Comparatif d'infériorité[/b]
+[indent]• [color=#FF0000]menos ... que[/color] [color=#008000](moins ... que)[/color]
+- [i]Exemple : [color=#0000FF]Estudia menos horas que yo.[/color] [color=#008000](Il étudie moins d'heures que moi.)[/color][/i][/indent]
+
+[b]c) Comparatif d'égalité[/b]
+[indent]• [color=#FF0000]tanto ... como[/color] [color=#008000](autant ... que)[/color]
+- [i]Exemple : [color=#0000FF]Comes tanto como tu hermano.[/color] [color=#008000](Tu manges autant que ton frère.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Adverbes de quantité irréguliers[/color][/font_size]
+
+En espagnol, certains adverbes de quantité ont des formes irrégulières, particulièrement dans leurs comparatifs et superlatifs.
+
+[indent][code]
+mucho [color=#008000](beaucoup)[/color] → más [color=#008000](plus)[/color]
+poco [color=#008000](peu)[/color] → menos [color=#008000](moins)[/color]
+bien [color=#008000](bien)[/color] → mejor [color=#008000](mieux)[/color]
+mal [color=#008000](mal)[/color] → peor [color=#008000](pire)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Hoy me siento mejor que ayer.[/color] [color=#008000](Aujourd'hui je me sens mieux qu'hier.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les quantifieurs sont utilisés pour exprimer des quantités indéfinies.
+[color=#FF0000]2.[/color] Les expressions de quantité approximative sont utiles pour donner une estimation non précise.
+[color=#FF0000]3.[/color] Les locutions adverbiales de quantité précisent davantage les quantités ou fréquences.
+[color=#FF0000]4.[/color] Les comparatifs permettent de comparer des quantités.
+[color=#FF0000]5.[/color] Les adverbes de quantité irréguliers ont des formes spécifiques pour les comparatifs et superlatifs.[/indent]
+
+[center][font_size=18][color=#808080]¡Expresa las cantidades con precisión y mejora tu fluidez en español![/color][/font_size][/center]

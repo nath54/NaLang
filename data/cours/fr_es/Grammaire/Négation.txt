@@ -1,0 +1,84 @@
+[font_size=30][center][b][color=#0000FF]La négation en espagnol[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La négation est un élément essentiel de la langue espagnole. Elle permet d'exprimer le contraire d'une affirmation ou de nier l'existence de quelque chose.
+
+[font_size=24][color=#4B0082]1. La négation simple[/color][/font_size]
+
+La forme la plus basique de la négation en espagnol utilise l'adverbe [b][color=#FF0000]no[/color][/b].
+
+[indent]• Il se place généralement [u]avant le verbe[/u] :
+
+[code]
+No hablo español. [color=#008000](Je ne parle pas espagnol.)[/color]
+María no viene hoy. [color=#008000](María ne vient pas aujourd'hui.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Double négation[/color][/font_size]
+
+En espagnol, la double négation est [i]obligatoire[/i] et [i]grammaticalement correcte[/i].
+
+[indent]• Utilisez [b][color=#FF0000]no[/color][/b] avec d'autres mots négatifs :
+
+[code]
+Nunca [color=#FF0000]no[/color] voy al cine. [color=#008000](Je ne vais jamais au cinéma.)[/color]
+[color=#FF0000]No[/color] hay nadie aquí. [color=#008000](Il n'y a personne ici.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Mots négatifs courants[/color][/font_size]
+
+[table=3]
+[cell][b]Mot[/b][/cell][cell][b]Signification[/b][/cell][cell][b]Exemple[/b][/cell]
+[cell][color=#FF0000]nada[/color][/cell][cell][color=#008000]rien[/color][/cell][cell]No quiero [color=#FF0000]nada[/color].[/cell]
+[cell][color=#FF0000]nadie[/color][/cell][cell][color=#008000]personne[/color][/cell][cell][color=#FF0000]Nadie[/color] lo sabe.[/cell]
+[cell][color=#FF0000]nunca[/color][/cell][cell][color=#008000]jamais[/color][/cell][cell][color=#FF0000]Nunca[/color] he estado allí.[/cell]
+[cell][color=#FF0000]ningún/ninguno[/color][/cell][cell][color=#008000]aucun[/color][/cell][cell]No tengo [color=#FF0000]ningún[/color] libro.[/cell]
+[cell][color=#FF0000]tampoco[/color][/cell][cell][color=#008000]non plus[/color][/cell][cell]Yo [color=#FF0000]tampoco[/color] lo entiendo.[/cell]
+[/table]
+
+[font_size=24][color=#4B0082]4. Position des mots négatifs[/color][/font_size]
+
+[indent]• Avant le verbe : pas besoin de [color=#FF0000]no[/color]
+- Après le verbe : [color=#FF0000]no[/color] est nécessaire
+
+[code]
+[color=#FF0000]Nunca[/color] voy al cine. = [color=#FF0000]No[/color] voy al cine [color=#FF0000]nunca[/color].
+[color=#008000](Je ne vais jamais au cinéma.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]5. Négation avec l'infinitif[/color][/font_size]
+
+[indent]Placez [color=#FF0000]no[/color] directement avant l'infinitif :
+
+[code]
+Es mejor [color=#FF0000]no[/color] decir nada. [color=#008000](Il vaut mieux ne rien dire.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]6. Expressions négatives courantes[/color][/font_size]
+
+[indent][code]
+[color=#FF0000]ni... ni...[/color] : [color=#008000]ni... ni...[/color]
+[color=#FF0000]ya no[/color] : [color=#008000]ne... plus[/color]
+[color=#FF0000]todavía no[/color] : [color=#008000]pas encore[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]7. Négation partielle[/color][/font_size]
+
+[indent]Pour nier une partie spécifique de la phrase, placez [color=#FF0000]no[/color] juste avant l'élément à nier :
+
+[code]
+Trabajo [color=#FF0000]no[/color] por dinero, sino por pasión.
+[color=#008000](Je travaille non pas pour l'argent, mais par passion.)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La négation de base utilise [b]no[/b] avant le verbe.
+[color=#FF0000]2.[/color] La double négation est correcte et obligatoire en espagnol.
+[color=#FF0000]3.[/color] Les mots négatifs changent de position selon le contexte.
+[color=#FF0000]4.[/color] Pratiquez les expressions négatives courantes pour une communication fluide.[/indent]
+
+[center][font_size=18][color=#808080]¡Practica mucho y no tendrás problemas con la negación![/color][/font_size][/center]

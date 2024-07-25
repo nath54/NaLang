@@ -19,8 +19,6 @@ func _ready():
 	is_ready = true;
 	if display_text != "":
 		%Label.text = display_text;
-	#
-	pressed.connect(_on_pressed);
 
 #
 func set_display_text(txt: String):
