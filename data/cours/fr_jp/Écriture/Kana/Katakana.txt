@@ -1,0 +1,81 @@
+[font_size=30][center][b][color=#0000FF]Les Katakana en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Katakana (カタカナ) est l'un des syllabaires utilisés en japonais, avec le Hiragana (ひらがな - hiragana). Contrairement au Hiragana, qui est généralement utilisé pour les mots d'origine japonaise, les Katakana sont souvent utilisés pour les mots d'emprunt étrangers, les noms de lieux et de personnes non-japonaises, les onomatopées et les termes scientifiques.
+
+[font_size=24][color=#4B0082]1. Introduction aux Katakana[/color][/font_size]
+
+Les Katakana sont des caractères carrés et angulaires, ce qui les rend faciles à distinguer des Hiragana. Voici les Katakana de base :
+
+[b]a) Les voyelles[/b]
+[indent][code]
+ア (a)
+イ (i)
+ウ (u)
+エ (e)
+オ (o)
+[/code][/indent]
+
+[b]b) Les syllabes composées[/b]
+[indent]Les syllabes Katakana suivent le même schéma que les syllabes Hiragana, mais avec une forme différente :
+[code]
+カ (ka)       キ (ki)        ク (ku)       ケ (ke)       コ (ko)
+サ (sa)       シ (shi)       ス (su)       セ (se)       ソ (so)
+タ (ta)       チ (chi)       ツ (tsu)      テ (te)       ト (to)
+ナ (na)       ニ (ni)        ヌ (nu)       ネ (ne)       ノ (no)
+ハ (ha)       ヒ (hi)        フ (fu)       ヘ (he)       ホ (ho)
+マ (ma)       ミ (mi)        ム (mu)       メ (me)       モ (mo)
+ヤ (ya)                      ユ (yu)                      ヨ (yo)
+ラ (ra)       リ (ri)        ル (ru)       レ (re)       ロ (ro)
+ワ (wa)                                       ヲ (wo)      ン (n)
+[/code][/indent]
+
+[b]c) Variations avec des diacritiques[/b]
+[indent]Les Katakana peuvent être modifiés avec des diacritiques pour former des sons supplémentaires :
+[code]
+ガ (ga)       ギ (gi)        グ (gu)       ゲ (ge)       ゴ (go)
+ザ (za)       ジ (ji)        ズ (zu)       ゼ (ze)       ゾ (zo)
+ダ (da)       ヂ (ji)        ヅ (zu)       デ (de)       ド (do)
+バ (ba)       ビ (bi)        ブ (bu)       ベ (be)       ボ (bo)
+パ (pa)       ピ (pi)        プ (pu)       ペ (pe)       ポ (po)
+[/code][/indent]
+
+[i]Exemple : [color=#0000FF]コンピューター (konpyuutaa)[/color] [color=#008000](ordinateur - mot emprunté)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Utilisation des Katakana[/color][/font_size]
+
+Les Katakana sont utilisés pour des raisons spécifiques en japonais. Voici les cas les plus courants :
+
+[indent]• Mots étrangers
+[i]Exemple : [color=#0000FF]テレビ (terebi)[/color] [color=#008000](télévision)[/color][/i]
+
+- Noms de lieux et de personnes non-japonaises
+[i]Exemple : [color=#0000FF]アメリカ (Amerika)[/color] [color=#008000](Amérique)[/color][/i]
+
+- Onomatopées
+[i]Exemple : [color=#0000FF]ワンワン (wanwan)[/color] [color=#008000](bruit de chien aboyant)[/color][/i]
+
+- Termes scientifiques ou techniques
+[i]Exemple : [color=#0000FF]ニュートン (Nyuuton)[/color] [color=#008000](Newton)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Il est également possible d'utiliser les Katakana pour les mots japonais afin d'insister sur un mot ou de le faire ressortir visuellement. Toutefois, cet usage est moins courant.
+
+[indent]• Mise en évidence
+[i]Exemple : [color=#0000FF]ビール (biiru)[/color] [color=#008000](bière, ici utilisé pour le souligner)[/color][/i]
+
+- Mots de marque
+[i]Exemple : [color=#0000FF]グッチ (Gucci)[/color] [color=#008000](marque Gucci)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les Katakana sont utilisés principalement pour les mots étrangers, les noms propres, les onomatopées et les termes techniques.
+[color=#FF0000]2.[/color] Apprenez les Katakana de base et leurs variations avec diacritiques.
+[color=#FF0000]3.[/color] Utilisez les Katakana pour rendre votre compréhension et votre communication en japonais plus naturelles.
+[color=#FF0000]4.[/color] Les Katakana peuvent aussi être utilisés pour mettre en évidence certains mots japonais.[/indent]
+
+[center][font_size=18][color=#808080]カタカナを正しく使うことで、日本語の表現力が向上します！(Katakana o tadashiku tsukau koto de, nihongo no hyougenryoku ga koujou shimasu!)[/color][/font_size][/center]

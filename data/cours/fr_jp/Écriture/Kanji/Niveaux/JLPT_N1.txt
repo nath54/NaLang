@@ -1,0 +1,63 @@
+[font_size=30][center][b][color=#0000FF]Les Kanji du Niveau JLPT N1[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le test JLPT (Japanese Language Proficiency Test) évalue les compétences linguistiques en japonais et est divisé en plusieurs niveaux, du N5 (le plus simple) au N1 (le plus difficile). Le N1 est particulièrement exigeant et teste la connaissance de nombreux Kanji complexes. Connaître ces Kanji est essentiel pour atteindre une maîtrise avancée du japonais.
+
+[font_size=24][color=#4B0082]1. Introduction aux Kanji du JLPT N1[/color][/font_size]
+
+Les Kanji du JLPT N1 requièrent une compréhension approfondie et une capacité à les utiliser dans divers contextes. Voici quelques-uns des Kanji les plus importants que vous devez maîtriser pour réussir ce niveau.
+
+[b]a) Exemples de Kanji N1[/b]
+[indent]Voici quelques Kanji du niveau N1 avec leur prononciation et leur signification.
+[code]
+顕 (けん ken) [color=#008000](évident, manifeste)[/color]
+壌 (じょう jō) [color=#008000](sol, terrain)[/color]
+壇 (だん dan) [color=#008000](podium, estrade)[/color]
+曖 (あい ai) [color=#008000](ambigu, obscur)[/color]
+掌 (しょう shō) [color=#008000](paume de la main)[/color]
+襟 (きん kin) [color=#008000](col, encolure)[/color]
+瑠 (る ru) [color=#008000](lazurite, pierre turquoise)[/color]
+碧 (へき heki) [color=#008000](bleu-vert, d'un bleu pur)[/color]
+緻 (ち chi) [color=#008000](minutieux, détaillé)[/color]
+賓 (ひん hin) [color=#008000](invité, visiteur)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は誠実で顕著な人物です。[font_size=18pt](Kare wa seijitsu de kencho na jinbutsu desu.)[/font_size][/color] [color=#008000](Il est une personne honnête et remarquable.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation pratique des Kanji N1[/color][/font_size]
+
+Pour vraiment maîtriser les Kanji du niveau N1, il est crucial de les voir dans des contextes variés et de les utiliser régulièrement. Voici quelques conseils et exemples d'utilisation.
+
+[indent]• Utilisation dans des phrases complexes
+[i]Exemple : [color=#0000FF]彼の専門は土壌の研究です。[font_size=18pt](Kare no senmon wa dojou no kenkyuu desu.)[/font_size][/color] [color=#008000](Son domaine de spécialisation est l'étude des sols.)[/color][/i]
+
+- Lire des articles et des livres en japonais qui contiennent des Kanji N1.
+[i]Exemple : [color=#0000FF]その記事には多くの難しい漢字が使われている。[font_size=18pt](Sono kiji ni wa ooku no muzukashii kanji ga tsukawarete iru.)[/font_size][/color] [color=#008000](Cet article utilise beaucoup de Kanji difficiles.)[/color][/i]
+
+- Pratiquer l'écriture de Kanji pour améliorer la mémorisation.
+[i]Exercice : Écrivez chaque Kanji dix fois en vous concentrant sur la structure et les traits.[/i][/indent]
+
+[font_size=24][color=#4B0082]3. Techniques pour mémoriser les Kanji[/color][/font_size]
+
+Mémoriser des Kanji avancés peut être difficile. Voici quelques techniques pour vous aider à les retenir plus facilement.
+
+[indent]• Utilisez des mnémotechniques 
+[i]Exemple : Pour 顕 (けん ken), imaginez une scène où quelque chose d'évident est révélé sur un podium.[/i]
+
+- Pratiquez la lecture et l'écriture quotidiennement
+[i]Exemple : Écrire des phrases entières contenant des Kanji N1 pour une meilleure rétention.[/i]
+
+- Utilisez des applications et des cartes mémoire pour des révisions fréquentes.
+[i]Exemple : Anki, Flashcards Deluxe, etc.[/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les Kanji du niveau JLPT N1 sont complexes et nécessitent une compréhension approfondie.
+[color=#FF0000]2.[/color] Pratiquez la lecture et l'écriture régulières pour maîtriser ces Kanji.
+[color=#FF0000]3.[/color] Utilisez des mnémotechniques et des outils de révision pour faciliter la mémorisation.
+[color=#FF0000]4.[/color] Voir les Kanji dans différents contextes aide à renforcer leur usage correct.[/indent]
+
+[center][font_size=18][color=#808080]日本語の漢字をマスターし、あなたの理解力を高めましょう！(Nihongo no kanji o masutā shi, anata no rikai-ryoku o takame mashou!)[/color][/font_size][/center]

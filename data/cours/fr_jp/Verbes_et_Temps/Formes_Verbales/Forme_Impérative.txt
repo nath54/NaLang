@@ -1,0 +1,70 @@
+[font_size=30][center][b][color=#0000FF]La Forme Impérative en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La forme impérative en japonais est utilisée pour donner des ordres, des instructions ou des conseils. Elle varie selon le niveau de politesse et le contexte dans lequel elle est utilisée. Comprendre les différentes formes impératives vous permettra de vous exprimer clairement et de manière appropriée en japonais.
+
+[font_size=24][color=#4B0082]1. Forme impérative informelle[/color][/font_size]
+
+La forme impérative informelle est souvent utilisée entre amis proches, au sein de la famille ou dans des situations où le niveau de politesse n'est pas strictement requis. Voici comment former l'impératif informel des verbes japonais.
+
+[b]a) Verbes du groupe 1 (godan dōshi)[/b]
+[indent]Pour les verbes du groupe 1, changez la terminaison du verbe en "-e". Par exemple :
+[code]
+書く (kaku) [color=#008000](écrire) → 書け (kake) [color=#008000](écris !)[/color]
+読む (yomu) [color=#008000](lire) → 読め (yome) [color=#008000](lis !)[/color]
+話す (hanasu) [color=#008000](parler) → 話せ (hanase) [color=#008000](parle !)[/color]
+[/code][/indent]
+
+[b]b) Verbes du groupe 2 (ichidan dōshi)[/b]
+[indent]Pour les verbes du groupe 2, remplacez la terminaison "-ru" par "-ro". Par exemple :
+[code]
+食べる (taberu) [color=#008000](manger) → 食べろ (tabero) [color=#008000](mange !)[/color]
+見る (miru) [color=#008000](voir) → 見ろ (miro) [color=#008000](regarde !)[/color]
+[/code][/indent]
+
+[b]c) Verbes irréguliers (fukisoku dōshi)[/b]
+[indent]Les verbes irréguliers suivent des règles spécifiques pour former l'impératif :
+[code]
+する (suru) [color=#008000](faire) → しろ (shiro) [color=#008000](fais !)[/color]
+来る (kuru) [color=#008000](venir) → 来い (koi) [color=#008000](viens !)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Forme impérative polie[/color][/font_size]
+
+Pour donner des directives de manière respectueuse ou formelle, on utilise des structures polies. Ces formes sont couramment utilisées dans les contextes professionnels ou formels.
+
+[b]a) Verbes avec てください (te kudasai)[/b]
+[indent]Cette forme est très polie et utilisée pour faire des demandes. Cette structure est formée comme suit :
+[code]
+書く (kaku) [color=#008000](écrire) → 書いてください (kaite kudasai) [color=#008000](s'il vous plaît, écrivez !)[/color]
+読む (yomu) [color=#008000](lire) → 読んでください (yonde kudasai) [color=#008000](s'il vous plaît, lisez !)[/color]
+食べる (taberu) [color=#008000](manger) → 食べてください (tabete kudasai) [color=#008000](s'il vous plaît, mangez !)[/color]
+する (suru) [color=#008000](faire) → してください (shite kudasai) [color=#008000](s'il vous plaît, faites !)[/color]
+来る (kuru) [color=#008000](venir) → 来てください (kite kudasai) [color=#008000](s'il vous plaît, venez !)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Forme impérative négative[/color][/font_size]
+
+Il est également possible de former des impératifs négatifs pour interdire ou déconseiller une action. Voici comment procéder.
+
+[b]a) Verbes avec な (na)[/b]
+[indent]Ajouter な (na) à la base du verbe en plaine forme pour former une interdiction :
+[code]
+書く (kaku) [color=#008000](écrire) → 書くな (kaku na) [color=#008000](n'écris pas !)[/color]
+読む (yomu) [color=#008000](lire) → 読むな (yomu na) [color=#008000](ne lis pas !)[/color]
+食べる (taberu) [color=#008000](manger) → 食べるな (taberu na) [color=#008000](ne mange pas !)[/color]
+する (suru) [color=#008000](faire) → するな (suru na) [color=#008000](ne fais pas !)[/color]
+来る (kuru) [color=#008000](venir) → 来るな (kuru na) [color=#008000](ne viens pas !)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La forme impérative en japonais varie selon le niveau de politesse requis.
+[color=#FF0000]2.[/color] Les formes informelles sont utilisées dans des contextes familiers tandis que les formes polies conviennent aux contextes formels.
+[color=#FF0000]3.[/color] Les verbes irréguliers ont des formes impératives spécifiques qu'il faut mémoriser.
+[color=#FF0000]4.[/color] Les impératifs négatifs se forment en ajoutant な (na) à la base du verbe.[/indent]
+
+[center][font_size=18][color=#808080]正確な命令形の使い方を学べば、日本語の指示が簡単になります！(Seikaku na meirei kei no tsukaikata o manabeba, nihongo no shiji ga kantan ni narimasu !)[/color][/font_size][/center]

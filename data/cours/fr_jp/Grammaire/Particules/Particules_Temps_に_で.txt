@@ -1,0 +1,72 @@
+[font_size=30][center][b][color=#0000FF]Les Particules de Temps en Japonais : に (ni) et で (de)[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les particules de temps en japonais sont essentielles pour indiquer des moments précis ou une durée d'action. Deux particules couramment utilisées pour exprimer le temps sont [に] (ni) et [で] (de). Maîtriser leur utilisation vous aidera à rendre vos phrases en japonais plus précises et naturelles.
+
+[font_size=24][color=#4B0082]1. Particule に (ni)[/color][/font_size]
+
+La particule [に] (ni) est utilisée pour indiquer un moment spécifique où quelque chose se produit. Elle se place généralement après un indicateur de temps.
+
+[b]a) Indiquer un moment précis[/b]
+[indent]La particule [に] (ni) suit les jours de la semaine, les heures, les dates, et les moments spécifiques.
+[code]
+月曜日に (getsuyoubi ni) [color=#008000](lundi)[/color]
+三時に (sanji ni) [color=#008000](à trois heures)[/color]
+8月に (hachigatsu ni) [color=#008000](en août)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]私は七時に起きます。[font_size=18pt](Watashi wa shichiji ni okimasu.)[/font_size][/color] [color=#008000](Je me lève à sept heures.)[/color][/i][/indent]
+
+[b]b) Indiquer un événement précis[/b]
+[indent]La particule [に] (ni) est également utilisée pour indiquer un moment important ou un événement.
+[code]
+誕生日に (tanjoubi ni) [color=#008000](à l'anniversaire)[/color]
+祝日に (shukujitsu ni) [color=#008000](à un jour férié)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼はクリスマスにプレゼントをもらいました。[font_size=18pt](Kare wa kurisumasu ni purezento o moraimashita.)[/font_size][/color] [color=#008000](Il a reçu un cadeau à Noël.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Particule で (de)[/color][/font_size]
+
+La particule [で] (de) est utilisée pour indiquer un délai ou une durée dans laquelle une action se déroule. Elle met souvent l'accent sur la période nécessaire pour accomplir une action.
+
+[b]a) Indiquer une durée[/b]
+[indent]Utilisée pour exprimer le temps nécessaire pour effectuer quelque chose.
+[code]
+一時間で (ichijikan de) [color=#008000](en une heure)[/color]
+三日で (mikka de) [color=#008000](en trois jours)[/color]
+一年で (ichinen de) [color=#008000](en un an)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は一時間で宿題を終えました。[font_size=18pt](Kare wa ichijikan de shukudai o oemashita.)[/font_size][/color] [color=#008000](Il a terminé ses devoirs en une heure.)[/color][/i][/indent]
+
+[b]b) Utilisations supplémentaires[/b]
+[indent]La particule [で] (de) peut aussi être utilisée pour indiquer des échéances ou des délais.
+[code]
+来週で (raishuu de) [color=#008000](dans la semaine prochaine)[/color]
+今月で (kongetsu de) [color=#008000](avant la fin de ce mois)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]私はこの仕事を今月で終わらせます。[font_size=18pt](Watashi wa kono shigoto o kongetsu de owarasemasu.)[/font_size][/color] [color=#008000](Je finirai ce travail avant la fin de ce mois.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Distinction entre に (ni) et で (de)[/color][/font_size]
+
+Bien que les deux particules se rapportent au temps, leur usage est distinct. [に] (ni) indique un moment précis alors que [で] (de) met l'accent sur la durée ou le délai d'une action.
+
+[indent]• Utilisez [color=#FF0000]に[/color] (ni) pour indiquer un moment spécifique :
+[i]Exemple : [color=#0000FF]彼は八時に来ます。[font_size=18pt](Kare wa hachiji ni kimasu.)[/font_size][/color] [color=#008000](Il viendra à huit heures.)[/color][/i]
+
+- Utilisez [color=#FF0000]で[/color] (de) pour indiquer la durée ou le délai :
+[i]Exemple : [color=#0000FF]彼は三日で東京に行きます。[font_size=18pt](Kare wa mikka de Tōkyō ni ikimasu.)[/font_size][/color] [color=#008000](Il ira à Tokyo en trois jours.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La particule [に] (ni) est utilisée pour indiquer un moment spécifique où une action se produit.
+[color=#FF0000]2.[/color] La particule [で] (de) est utilisée pour indiquer la durée ou le délai nécessaire pour accomplir une action.
+[color=#FF0000]3.[/color] Utilisez [に] (ni) pour des moments précis et [で] (de) pour des périodes ou des délais.
+[color=#FF0000]4.[/color] Comprendre la distinction entre ces particules est essentiel pour exprimer le temps correctement en japonais.[/indent]
+
+[center][font_size=18][color=#808080]正しい時間の使い方を学び、日本語の表現をさらに豊かにしましょう！(tadashī jikan no tsukaikata o manabi, nihongo no hyōgen o sara ni yutaka ni shimashou!)[/color][/font_size][/center]

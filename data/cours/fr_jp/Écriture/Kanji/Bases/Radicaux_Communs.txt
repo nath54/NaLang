@@ -1,0 +1,89 @@
+[font_size=30][center][b][color=#0000FF]Les Radicaux Communs en Kanji[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les radicaux sont les éléments de base des kanji en japonais. Comprendre et connaître les radicaux est essentiel pour apprendre à lire et écrire les kanji, car ils sont souvent réutilisés dans différents caractères et peuvent donner des indices sur la signification et la prononciation des kanji.
+
+[font_size=24][color=#4B0082]1. Qu'est-ce qu'un radical ?[/color][/font_size]
+
+Un radical (部首, bushu) est une partie d'un kanji qui indique un aspect de sa signification. La plupart des kanji sont constitués de plusieurs éléments, dont l'un est le radical.
+
+[b]Exemple :[/b]
+[indent]Le radical de 気 (き, ki, esprit/énergie) est 气, qui est le radical de l'air.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=24][color=#4B0082]2. Radicaux courants et leurs significations[/color][/font_size]
+
+Voici quelques-uns des radicaux les plus courants et leur signification :
+
+[indent][b]a) 水 (みず, mizu, eau) : 氵[/b]
+Ce radical représente l'eau et est présent dans des kanji liés à l'eau et aux liquides.
+[code]
+例 : 洗 (あらう, arau, laver), 海 (うみ, umi, mer)
+[/code]
+
+[b]b) 木 (き, ki, arbre) : 木[/b]
+Ce radical représente un arbre et apparaît dans des kanji liés à la nature, au bois, etc.
+[code]
+例 : 林 (はやし, hayashi, forêt), 森 (もり, mori, forêt dense)
+[/code]
+
+[b]c) 人 (ひと, hito, personne) : 亻[/b]
+Ce radical représente une personne et est utilisé dans des kanji liés aux êtres humains.
+[code]
+例 : 休 (やすむ, yasumu, se reposer), 使 (つかう, tsukau, utiliser)
+[/code]
+
+[b]d) 女 (おんな, onna, femme) : 女[/b]
+Ce radical représente une femme et apparaît dans des kanji liés aux femmes.
+[code]
+例 : 姉 (あね, ane, grande sœur), 妹 (いもうと, imouto, petite sœur)
+[/code]
+
+[b]e) 心 (こころ, kokoro, cœur) : 忄[/b]
+Ce radical représente le cœur et est utilisé dans des kanji liés aux émotions.
+[code]
+例 : 怒 (おこる, okoru, se fâcher), 悲 (かなしい, kanashii, triste)
+[/code]
+
+[b]f) 火 (ひ, hi, feu) : 灬[/b]
+Ce radical représente le feu et apparaît dans des kanji liés au feu ou à la chaleur.
+[code]
+例 : 焼 (やく, yaku, cuire), 炎 (ほのお, honoo, flamme)
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Importance des radicaux[/color][/font_size]
+
+Comprendre les radicaux aide à décomposer et mémoriser les kanji plus facilement. En reconnaissant les parties constitutives, vous pouvez deviner le sens et parfois la prononciation d'un kanji inconnu.
+
+[indent][i]Exemple : 知 (しる, shiru, savoir) est composé du radical 矢 (や, ya, flèche) et de 口 (くち, kuchi, bouche). Si vous reconnaissez ces parties, il devient plus simple de mémoriser le kanji entier.[/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=24][color=#4B0082]4. Pratique avec les radicaux[/color][/font_size]
+
+Pratiquez en décomposant les kanji que vous apprenez, et recherchez leurs radicaux. Essayez de trouver des radicaux dans de nouveaux kanji pour mieux comprendre leur signification et mémorisation.
+
+[indent][b]Exercice :[/b] Décomposez les kanji suivants pour identifier leurs radicaux.
+[i]Exemple : 校 (こう, kou, école) = 木 (き, ki, arbre) + 交 (こう, kou, croiser)[/i]
+
+[b]1. 魚 (さかな, sakana, poisson)[/b] = ?
+[i]Réponse : 魚 = 魚 (さかな, sakana, poisson)[/i]
+
+[b]2. 食 (たべる, taberu, manger)[/b] = ?
+[i]Réponse : 食 = 亠 (けいさんむり, keisanmuri, sommet) + 艮 (ごん, gon, arrêt)[/i]
+
+[b]3. 語 (ご, go, langage)[/b] = ?
+[i]Réponse : 語 = 言 (げん, gon, dire) + 五 (ご, go, cinq)[/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les radicaux sont les éléments de base des kanji et aident à comprendre leur signification.
+[color=#FF0000]2.[/color] Connaître les radicaux courants facilite l'apprentissage des nouveaux kanji.
+[color=#FF0000]3.[/color] Les radicaux peuvent indiquer des aspects du sens ou de la prononciation du kanji.
+[color=#FF0000]4.[/color] Pratiquez en décomposant les kanji pour mieux les mémoriser.[/indent]
+
+[center][font_size=18][color=#808080]学習に役立つ部首を覚えて、漢字の世界を探求しよう！(Gakushū ni yakudatsu bushu o oboete, kanji no sekai o tankyū shiyou!)[/color][/font_size][/center]

@@ -1,0 +1,97 @@
+[font_size=30][center][b][color=#0000FF]Les Pronoms en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les pronoms jouent un rôle essentiel dans la langue japonaise, tout comme dans d'autres langues. Ils sont utilisés pour remplacer des noms et éviter les répétitions. Apprendre et utiliser correctement les pronoms vous aidera à formuler des phrases plus fluides et naturelles en japonais.
+
+[font_size=24][color=#4B0082]1. Les Pronoms Personnels[/color][/font_size]
+
+Les pronoms personnels en japonais changent en fonction du niveau de politesse et du contexte social. Voici les pronoms personnels les plus courants :
+
+[b]a) Singulier[/b]
+[indent]
+[code]
+私 (わたし, watashi) [color=#008000](Je - neutre/formel)[/color]
+僕 (ぼく, boku) [color=#008000](Je - informel, généralement masculin)[/color]
+あなた (anata) [color=#008000](Tu - neutre/formel)[/color]
+彼 (かれ, kare) [color=#008000](Il - masculin)[/color]
+彼女 (かのじょ, kanojo) [color=#008000](Elle - féminin)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]私は学生です。[font_size=18pt](Watashi wa gakusei desu.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i][/indent]
+
+[b]b) Pluriel[/b]
+[indent]
+[code]
+私たち (わたしたち, watashitachi) [color=#008000](Nous - neutre/formel)[/color]
+僕たち (ぼくたち, bokutachi) [color=#008000](Nous - informel, généralement masculin)[/color]
+あなたたち (anatatachi) [color=#008000](Vous - neutre/formel)[/color]
+彼ら (かれら, karera) [color=#008000](Ils - masculin)[/color]
+彼女たち (かのじょたち, kanojotachi) [color=#008000](Elles - féminin)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]私たちは友達です。[font_size=18pt](Watashitachi wa tomodachi desu.)[/font_size][/color] [color=#008000](Nous sommes amis.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les Pronoms Possessifs[/color][/font_size]
+
+Les pronoms possessifs en japonais sont formés en ajoutant le suffixe の (no) après les pronoms personnels. 
+
+[b]a) Singulier[/b]
+[indent]
+[code]
+私の (わたしの, watashi no) [color=#008000](Mon, Ma, Mes - neutre/formel)[/color]
+僕の (ぼくの, boku no) [color=#008000](Mon, Ma, Mes - informel, généralement masculin)[/color]
+あなたの (anata no) [color=#008000](Ton, Ta, Tes - neutre/formel)[/color]
+彼の (かれの, kare no) [color=#008000](Son, Sa, Ses - masculin)[/color]
+彼女の (かのじょの, kanojo no) [color=#008000](Son, Sa, Ses - féminin)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]これは私の本です。[font_size=18pt](Kore wa watashi no hon desu.)[/font_size][/color] [color=#008000](Ceci est mon livre.)[/color][/i][/indent]
+
+[b]b) Pluriel[/b]
+[indent]
+[code]
+私たちの (わたしたちの, watashitachi no) [color=#008000](Notre, Nos - neutre/formel)[/color]
+僕たちの (ぼくたちの, bokutachi no) [color=#008000](Notre, Nos - informel, généralement masculin)[/color]
+あなたたちの (anatatachi no) [color=#008000](Votre, Vos - neutre/formel)[/color]
+彼らの (かれらの, karera no) [color=#008000](Leur, Leurs - masculin)[/color]
+彼女たちの (かのじょたちの, kanojotachi no) [color=#008000](Leur, Leurs - féminin)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]これは私たちの家です。[font_size=18pt](Kore wa watashitachi no ie desu.)[/font_size][/color] [color=#008000](Ceci est notre maison.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les Pronoms Démonstratifs[/color][/font_size]
+
+Les pronoms démonstratifs en japonais varient en fonction de la distance par rapport au locuteur. Ils sont utilisés pour pointer quelque chose ou quelqu'un spécifiquement.
+
+[b]a) Proches de l'interlocuteur[/b]
+[indent]
+[code]
+これ (kore) [color=#008000](Ceci - proche de moi)[/color]
+それ (sore) [color=#008000](Cela - proche de toi)[/color]
+あれ (are) [color=#008000](Cela - loin de nous deux)[/color]
+どれ (dore) [color=#008000](Lequel - question)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]これは何ですか？[font_size=18pt](Kore wa nan desu ka?)[/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
+
+[b]b) Utilisés pour des personnes[/b]
+[indent]
+[code]
+この人 (このひと, kono hito) [color=#008000](Cette personne-ci)[/color]
+その人 (そのひと, sono hito) [color=#008000](Cette personne-là)[/color]
+あの人 (あのひと, ano hito) [color=#008000](Cette personne-là bas)[/color]
+どの人 (どのひと, dono hito) [color=#008000](Quelle personne ? - question)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]この人は誰ですか？[font_size=18pt](Kono hito wa dare desu ka?)[/font_size][/color] [color=#008000](Qui est cette personne ?)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les pronoms en japonais varient en fonction du niveau de politesse et du contexte social.
+[color=#FF0000]2.[/color] Les pronoms possessifs se forment en ajoutant の (no) après les pronoms personnels.
+[color=#FF0000]3.[/color] Les pronoms démonstratifs changent en fonction de la distance par rapport au locuteur et à l'interlocuteur.[/indent]
+
+[center][font_size=18][color=#808080]正しい代名詞の使い方を覚えて、日本語をもっと自然に話しましょう！(Tadashī daimeishi no tsukaikata o oboete, nihongo o motto shizen ni hanashimashou!)[/color][/font_size][/center]

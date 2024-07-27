@@ -1,0 +1,75 @@
+[font_size=30][center][b][color=#0000FF]Les Kanji du Niveau JLPT N5 en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les kanji sont des caractères chinois adoptés dans l'écriture japonaise. Comprendre et mémoriser les kanji est une étape essentielle dans l'apprentissage du japonais. Le test de compétence en japonais (JLPT) classe les kanji par niveaux, de N5 (le plus bas) à N1 (le plus avancé). Dans cette leçon, nous nous concentrerons sur les kanji du niveau N5, qui sont les plus fondamentaux et les plus couramment utilisés.
+
+[font_size=24][color=#4B0082]1. Introduction aux Kanji du JLPT N5[/color][/font_size]
+
+Le niveau N5 couvre environ 100 kanji de base. Ces caractères sont couramment utilisés dans la vie quotidienne et sont souvent les premiers que l'on apprend. Voici une liste de quelques-uns des kanji les plus importants du niveau N5 :
+
+[b]a) Les premiers kanji à apprendre[/b]
+[indent]Ces kanji représentent des concepts simples et sont souvent utilisés dans des mots courants.
+[code]
+日 (にち, に, ひ, び [nich, ni, hi, bi]) [color=#008000](jour, soleil)[/color]
+月 (がつ, げつ, つき [gatsu, getsu, tsuki]) [color=#008000](mois, lune)[/color]
+木 (き, もく [ki, moku]) [color=#008000](arbre, bois)[/color]
+山 (やま, さん [yama, san]) [color=#008000](montagne)[/color]
+川 (かわ, せん [kawa, sen]) [color=#008000](rivière)[/color]
+田 (た, でん [ta, den]) [color=#008000](rizière)[/color]
+人 (ひと, じん, にん [hito, jin, nin]) [color=#008000](personne, humain)[/color]
+口 (くち, こう [kuchi, kou]) [color=#008000](bouche)[/color]
+車 (くるま, しゃ [kuruma, sha]) [color=#008000](voiture, véhicule)[/color]
+門 (もん [mon]) [color=#008000](porte)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]今日はいい日です。[font_size=18pt](きょうはいいひです。Kyō wa ii hi desu.)[/font_size][/color] [color=#008000](Aujourd'hui est un bon jour.)[/color][/i][/indent]
+
+[b]b) Les kanji de base pour les nombres[/b]
+[indent]Les kanji pour les chiffres sont essentiels et constituent la base des nombres en japonais.
+[code]
+一 (いち, ひと [ichi, hito]) [color=#008000](un)[/color]
+二 (に, ふた [ni, futa]) [color=#008000](deux)[/color]
+三 (さん, み [san, mi]) [color=#008000](trois)[/color]
+四 (し, よん, よ [shi, yon, yo]) [color=#008000](quatre)[/color]
+五 (ご, いつ [go, itsu]) [color=#008000](cinq)[/color]
+六 (ろく, む [roku, mu]) [color=#008000](six)[/color]
+七 (しち, なな [shichi, nana]) [color=#008000](sept)[/color]
+八 (はち, や [hachi, ya]) [color=#008000](huit)[/color]
+九 (きゅう, く, ここの [kyū, ku, kokono]) [color=#008000](neuf)[/color]
+十 (じゅう, とお [jū, tō]) [color=#008000](dix)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]四つのりんごがあります。[font_size=18pt](よっつのりんごがあります。Yottsu no ringo ga arimasu.)[/font_size][/color] [color=#008000](Il y a quatre pommes.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des Kanji dans des Contextes Simples[/color][/font_size]
+
+Les kanji du niveau N5 s'utilisent dans des contextes simples et quotidiens. Il est crucial de les pratiquer par le biais d'exemples réels pour bien les mémoriser.
+
+[indent]• Utilisation des kanji pour les jours de la semaine :
+[i]Exemple : [color=#0000FF]月曜日に学校へ行きます。[font_size=18pt](げつようびにがっこうへいきます。Getsuyōbi ni gakkō e ikimasu.)[/font_size][/color] [color=#008000](Je vais à l'école le lundi.)[/color][/i]
+
+- Utilisation des kanji dans des phrases courtes :
+[i]Exemple : [color=#0000FF]小さな山があります。[font_size=18pt](ちいさなやまがあります。Chīsana yama ga arimasu.)[/font_size][/color] [color=#008000](Il y a une petite montagne.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Pratique et Révision des Kanji[/color][/font_size]
+
+Pour maîtriser les kanji du niveau N5, la pratique régulière et la révision sont essentielles. Il existe plusieurs méthodes pour répéter et renforcer votre apprentissage des kanji.
+
+[indent]• Utilisez des flashcards pour mémoriser les kanji et leurs lectures.
+• Écrivez chaque kanji à la main pour mieux retenir leur structure.
+• Pratiquez en lisant et en écrivant des phrases simples utilisant les kanji du N5.
+
+[i]Exemple d'exercice : [color=#0000FF]Écrire une phrase avec chaque kanji appris.[/color][/i]
+[i]Exemple : [color=#0000FF]私の名前は山田です。[font_size=18pt](わたしのなまえはやまだです。Watashi no namae wa Yamada desu.)[/font_size][/color] [color=#008000](Mon nom est Yamada.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les kanji du N5 sont essentiels et fréquemment utilisés dans le japonais quotidien.
+[color=#FF0000]2.[/color] Familiarisez-vous avec les lectures et les significations des kanji de base.
+[color=#FF0000]3.[/color] Pratiquez régulièrement l'écriture et la lecture des kanji.
+[color=#FF0000]4.[/color] Utilisez des exemples réels pour renforcer votre apprentissage.[/indent]
+
+[center][font_size=18][color=#808080]頑張って勉強しましょう！(がんばってべんきょうしましょう！Ganbatte benkyō shimashō!)[/color][/font_size][/center]

@@ -1,0 +1,61 @@
+[font_size=30][center][b][color=#0000FF]Le Futur en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En japonais, il n'existe pas de temps grammatical distinct pour le futur comme en français. Au lieu de cela, le contexte de la phrase et des mots spécifiques indiquent que l'action se déroulera dans le futur. Comprendre cette notion permet de parler du futur de manière fluide en japonais.
+
+[font_size=24][color=#4B0082]1. Indiquer le futur avec le contexte[/color][/font_size]
+
+En japonais, le verbe de la phrase n'est pas conjugué différemment pour indiquer le futur. Le contexte et les adverbes de temps sont utilisés pour indiquer qu'une action se situera dans le futur.
+
+[b]a) Adverbes de temps[/b]
+[indent]Les adverbes de temps explicitent souvent que l'action se déroulera dans le futur.
+[code]
+明日 (ashita) [color=#008000](demain)[/color]
+来週 (raishū) [color=#008000](la semaine prochaine)[/color]
+来年 (rainen) [color=#008000](l'année prochaine)[/color]
+今度 (kondo) [color=#008000](la prochaine fois / bientôt)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]明日、買い物に行きます。[font_size=18pt](Ashita, kaimono ni ikimasu.)[/font_size][/color] [color=#008000](Demain, j'irai faire des courses.)[/color][/i][/indent]
+
+[b]b) Particules indiquant le futur[/b]
+[indent]Certains mots ou particules, comme でしょう (deshō) et つもり (tsumori), ajoutent un sens de futur ou d'intention.
+[code]
+でしょう (deshō) [color=#008000](probablement / ce sera)[/color]
+つもり (tsumori) [color=#008000](avoir l'intention de)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]来年、日本へ行くでしょう。[font_size=18pt](Rainen, Nihon e iku deshō.)[/font_size][/color] [color=#008000](J'irai probablement au Japon l'année prochaine.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は来週、来るつもりです。[font_size=18pt](Kare wa raishū, kuru tsumori desu.)[/font_size][/color] [color=#008000](Il a l'intention de venir la semaine prochaine.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Le futur et la politesse[/color][/font_size]
+
+En japonais, le niveau de politesse peut affecter comment une phrase est formulée, mais il n'y a pas de modification spécifique pour indiquer le futur. Le contexte demeure le principal indicateur.
+
+[indent]• Utilisation de ます (masu) et です (desu) pour une forme polie.
+[i]Exemple : [color=#0000FF]来週、会議に参加します。[font_size=18pt](Raishū, kaigi ni sanka shimasu.)[/font_size][/color] [color=#008000](Je participerai à la réunion la semaine prochaine.)[/color][/i]
+
+- Utilisation de la forme neutre ou familière.
+[i]Exemple : [color=#0000FF]来週、会議に参加する。[font_size=18pt](Raishū, kaigi ni sanka suru.)[/font_size][/color] [color=#008000](Je participerai à la réunion la semaine prochaine.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Il est également possible d'exprimer le futur à travers des plans ou des décisions en utilisant des structures plus complexes.
+
+[indent]• Utilisation de よてい (yotei) pour parler de plans ou d'horaires.
+[i]Exemple : [color=#0000FF]私たちは来月、旅行に行く予定です。[font_size=18pt](Watashitachi wa raigetsu, ryokō ni iku yotei desu.)[/font_size][/color] [color=#008000](Nous prévoyons de partir en voyage le mois prochain.)[/color][/i]
+
+- Utilisation de ことにする (koto ni suru) pour exprimer une décision.
+[i]Exemple : [color=#0000FF]彼は大学に行くことにしました。[font_size=18pt](Kare wa daigaku ni iku koto ni shimashita.)[/font_size][/color] [color=#008000](Il a décidé d'aller à l'université.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] En japonais, le futur est souvent indiqué par le contexte et les adverbes de temps.
+[color=#FF0000]2.[/color] Les particules comme でしょう (deshō) et つもり (tsumori) peuvent ajouter une nuance futuriste ou intentionnelle.
+[color=#FF0000]3.[/color] Le niveau de politesse ne change pas la manière d'indiquer le futur, mais peut affecter la forme des phrases.
+[color=#FF0000]4.[/color] Des structures plus élaborées comme よてい (yotei) et ことにする (koto ni suru) peuvent exprimer des plans ou des décisions.[/indent]
+
+[center][font_size=18][color=#808080]正しい日本語の使い方を学んで、上手に未来を表現しましょう！(Tadashī Nihongo no tsukaikata o manande, jōzu ni mirai o hyōgen shimashou!)[/color][/font_size][/center]

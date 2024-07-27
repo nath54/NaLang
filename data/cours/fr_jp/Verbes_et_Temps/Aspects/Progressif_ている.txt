@@ -1,0 +1,79 @@
+[font_size=30][center][b][color=#0000FF]L'Aspect Progressif en Japonais : ている[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'aspect progressif en japonais, souvent exprimé par la forme [color=#FF0000]ている[/color] (te iru), est utilisé pour indiquer qu'une action est en cours ou qu'une action passée a des conséquences sur le présent. Comprendre et utiliser cette structure est essentiel pour pouvoir décrire des actions en cours dans vos phrases japonaises.
+
+[font_size=24][color=#4B0082]1. Structure de base de ている[/color][/font_size]
+
+La structure ている se conjugue en ajoutant [color=#FF0000]ている[/color] (te iru) à la forme en [color=#FF0000]て[/color] (te) du verbe. Voici comment former l'aspect progressif :
+
+[b]a) Construction de la forme en て[/b]
+[indent]La forme en て est un prérequis pour construire l'aspect progressif. Voici quelques exemples de verbes en forme en [color=#FF0000]て[/color] (te).
+
+[code]
+読む (yomu) [color=#008000](lire) -> 読んで (yonde)[/color]
+書く (kaku) [color=#008000](écrire) -> 書いて (kaite)[/color]
+食べる (taberu) [color=#008000](manger) -> 食べて (tabete)[/color]
+する (suru) [color=#008000](faire) -> して (shite)[/color]
+来る (kuru) [color=#008000](venir) -> 来て (kite)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は本を読んでいる。[font_size=18pt](Kare wa hon o yonde iru.)[/font_size][/color] [color=#008000](Il est en train de lire un livre.)[/color][/i][/indent]
+
+[b]b) Forme négative de ている[/b]
+[indent]Pour exprimer l'aspect progressif de manière négative, on utilise la structure [color=#FF0000]ていない[/color] (te inai).
+
+[code]
+読んでいない (yonde inai) [color=#008000](ne pas être en train de lire)[/color]
+書いていない (kaite inai) [color=#008000](ne pas être en train d'écrire)[/color]
+食べていない (tabete inai) [color=#008000](ne pas être en train de manger)[/color]
+していない (shite inai) [color=#008000](ne pas être en train de faire)[/color]
+来ていない (kite inai) [color=#008000](ne pas être venu)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼女は宿題をしていない。[font_size=18pt](Kanojo wa shukudai o shite inai.)[/font_size][/color] [color=#008000](Elle n'est pas en train de faire ses devoirs.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisations de ている[/color][/font_size]
+
+La structure ている a plusieurs utilisations principales, notamment pour décrire des actions en cours et des états résultants.
+
+[indent]• Pour décrire une action en cours :
+[i]Exemple : [color=#0000FF]彼はテレビを見ている。[font_size=18pt](Kare wa terebi o mite iru.)[/font_size][/color] [color=#008000](Il est en train de regarder la télévision.)[/color][/i]
+
+- Pour indiquer un état résultant d'une action :
+[i]Exemple : [color=#0000FF]結婚している。[font_size=18pt](Kekkon shite iru.)[/font_size][/color] [color=#008000](Je suis marié(e).)[/color][/i]
+
+- Pour décrire une habitude :
+[i]Exemple : [color=#0000FF]毎朝ジョギングしている。[font_size=18pt](Maiasa jogingu shite iru.)[/font_size][/color] [color=#008000](Je fais du jogging tous les matins.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Différence entre ている et d'autres aspects[/color][/font_size]
+
+Il est important de distinguer ている des autres aspects comme le passé simple ou l'aspect terminé. Utilisez ている lorsque vous voulez insister sur le caractère continu, habituel ou résultant de l'action.
+
+[indent]• Passé simple :
+[i]Exemple : [color=#0000FF]彼は本を読んだ。[font_size=18pt](Kare wa hon o yonda.)[/font_size][/color] [color=#008000](Il a lu un livre.)[/color][/i]
+
+- Aspect terminé :
+[i]Exemple : [color=#0000FF]彼は本を読み終えた。[font_size=18pt](Kare wa hon o yomi oeta.)[/font_size][/color] [color=#008000](Il a fini de lire un livre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Précisions supplémentaires[/color][/font_size]
+
+Pour ajouter des informations supplémentaires comme le lieu ou la manière de l'action, insérez-les avant la structure ている.
+
+[indent]• Insertion d'un lieu :
+[i]Exemple : [color=#0000FF]彼は図書館で勉強している。[font_size=18pt](Kare wa toshokan de benkyō shite iru.)[/font_size][/color] [color=#008000](Il est en train d'étudier à la bibliothèque.)[/color][/i]
+
+- Pour préciser la manière de l'action :
+[i]Exemple : [color=#0000FF]彼女は静かに本を読んでいる。[font_size=18pt](Kanojo wa shizuka ni hon o yonde iru.)[/font_size][/color] [color=#008000](Elle est en train de lire un livre tranquillement.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La structure ている indique une action en cours, un état résultant ou une habitude.
+[color=#FF0000]2.[/color] Utilisez la forme en [color=#FF0000]て[/color] (te) des verbes pour former ている.
+[color=#FF0000]3.[/color] Pour la négation, utilisez [color=#FF0000]ていない[/color].
+[color=#FF0000]4.[/color] Ajoutez des informations de lieu ou de manière avant ている pour enrichir vos phrases.[/indent]
+
+[center][font_size=18][color=#808080]正しく使用して、日本語の表現力を高めましょう！(Tadashiku shiyō shite, nihongo no hyōgenryoku o takame mashō!)[/color][/font_size][/center]

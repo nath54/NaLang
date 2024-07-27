@@ -1,0 +1,69 @@
+[font_size=30][center][b][color=#0000FF]La Forme Passive en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La forme passive en japonais est utilisée pour indiquer que le sujet subit l'action plutôt que de l'accomplir. Elle est souvent utilisée pour exprimer des sentiments négatifs ou pour mettre l'accent sur l'action plutôt que sur le sujet.
+
+[font_size=24][color=#4B0082]1. Structure de base de la forme passive[/color][/font_size]
+
+[b]a) Conjugaison des verbes[/b]
+[indent]La formation de la forme passive varie selon le type de verbe. Voici les règles générales pour la conjugaison :
+
+[indent][u]Verbes godan (五段動詞, godan doushi)[/u]
+Pour les verbes godan, on change la dernière syllabe de la forme de base (dictionnaire) en sa forme correspondante en [v]-are.
+
+[code]
+読む (yomu) -> 読まれる (yomareru) [color=#008000](être lu)[/color]
+書く (kaku) -> 書かれる (kakareru) [color=#008000](être écrit)[/color]
+聞く (kiku) -> 聞かれる (kikareru) [color=#008000](être entendu)[/color]
+[/code]
+
+[u]Verbes ichidan (一段動詞, ichidan doushi)[/u]
+Pour les verbes ichidan, on remplace la terminaison "ru" par "rareru".
+
+[code]
+食べる (taberu) -> 食べられる (taberareru) [color=#008000](être mangé)[/color]
+見る (miru) -> 見られる (mirareru) [color=#008000](être vu)[/color]
+[/code]
+
+[u]Verbes irréguliers[/u]
+Les verbes irréguliers ont des formes passives spéciales :
+
+[code]
+する (suru) -> される (sareru) [color=#008000](être fait, être mené)[/color]
+来る (kuru) -> 来られる (korareru) [color=#008000](être venu)[/color]
+行く (iku) -> 行かれる (ikareru) [color=#008000](être allé)[/color]
+[/code][/indent]
+
+[i]Exemple : [color=#0000FF]この本は多くの人に読まれています[font_size=18pt](Kono hon wa ooku no hito ni yomareteimasu.)[/font_size][/color] [color=#008000](Ce livre est lu par beaucoup de personnes.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de la forme passive[/color][/font_size]
+
+La forme passive en japonais peut être utilisée de différentes manières pour donner des nuances spécifiques à vos phrases. Voici quelques contextes où elle est fréquemment utilisée :
+
+[indent]• Pour indiquer qu'une action est subie par le sujet
+[i]Exemple : [color=#0000FF]彼は先生に褒められました[font_size=18pt](Kare wa sensei ni homeraremashita.)[/font_size][/color] [color=#008000](Il a été félicité par le professeur.)[/color][/i]
+
+- Pour souligner l'action plutôt que le sujet
+[i]Exemple : [color=#0000FF]会社は昨日新しいビルが建てられました[font_size=18pt](Kaisha wa kinou atarashii biru ga tateraremashita.)[/font_size][/color] [color=#008000](Une nouvelle entreprise a été construite hier.)[/color][/i]
+
+- Pour exprimer des sentiments négatifs ou involontaires
+[i]Exemple : [color=#0000FF]彼は弟に携帯を壊されました[font_size=18pt](Kare wa otouto ni keitai wo kowasaremashita.)[/font_size][/color] [color=#008000](Son téléphone a été cassé par son petit frère.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Forme passive honorifique[/color][/font_size]
+
+En japonais, la forme passive peut également être utilisée pour exprimer le respect, surtout en contexte formel ou envers des personnes de statut social ou professionnel supérieur.
+
+[indent]• Utilisation de la forme passive pour marquer le respect
+[i]Exemple : [color=#0000FF]社長は今朝会議に出席されました[font_size=18pt](Shachou wa kesa kaigi ni shusseki saremashita.)[/font_size][/color] [color=#008000](Le président a assisté à la réunion ce matin.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La forme passive est formée différemment selon le type de verbe en japonais.
+[color=#FF0000]2.[/color] Elle est utilisée pour indiquer que le sujet subit l'action plutôt que de l'accomplir.
+[color=#FF0000]3.[/color] La forme passive peut exprimer le respect en contexte formel.
+[color=#FF0000]4.[/color] Elle peut apporter des nuances importantes à la phrase, comme des sentiments d'involontarité ou de passivité.[/indent]
+
+[center][font_size=18][color=#808080]正しい受動態の使い方を覚えて、日本語での表現力を向上させよう！(tadashī judōtai no tsukaikata o oboete, nihongo de no hyōgenryoku o kōjō saseyō!)[/color][/font_size][/center]

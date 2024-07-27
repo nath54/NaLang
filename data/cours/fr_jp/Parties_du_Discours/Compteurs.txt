@@ -1,0 +1,78 @@
+[font_size=30][center][b][color=#0000FF]Les Compteurs en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En japonais, les compteurs sont des mots spécifiques utilisés pour compter différents types d'objets, d'animaux, ou même de personnes. Ils sont essentiels pour pratiquer la langue correctement car un mauvais emploi peut changer le sens d'une phrase ou la rendre incompréhensible.
+
+[font_size=24][color=#4B0082]1. Compteurs généraux et spécifiques[/color][/font_size]
+
+[indent][b]a) Compteur général[/b]
+[indent]Le compteur général le plus courant est つ (tsu). Il est souvent utilisé pour compter des objets abstraits sans distinction particulière.
+
+[i]Exemple : [color=#0000FF]三つ (mittsu) - trois objets[/color][/i][/indent]
+
+[b]b) Compteurs spécifiques[/b]
+[indent]Il existe une grande variété de compteurs spécifiques utilisés pour différents types d'objets ou d'êtres.
+
+[code]
+本 (hon) [color=#008000](objets longs comme les crayons, les bouteilles)[/color]
+枚 (mai) [color=#008000](objets plats comme les feuilles de papier, les assiettes)[/color]
+人 (nin) [color=#008000](personnes)[/color]
+匹 (hiki) [color=#008000](petits animaux comme les chats, les chiens)[/color]
+冊 (satsu) [color=#008000](livres)[/color]
+台 (dai) [color=#008000](machines comme les voitures, les ordinateurs)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]五本の鉛筆 (gohon no enpitsu) - cinq crayons[/color][/i]
+
+[i]Exemple : [color=#0000FF]二枚の紙 (nimai no kami) - deux feuilles de papier[/color][/i]
+
+[i]Exemple : [color=#0000FF]三人の友達 (sannin no tomodachi) - trois amis[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation correcte des compteurs[/color][/font_size]
+
+Utiliser les compteurs correctement est crucial pour une bonne compréhension en japonais. Voici des règles générales et des exemples pour vous aider à mieux comprendre.
+
+[indent]• Après le chiffre, insérez le compteur, puis le mot.
+[i]Exemple : [color=#0000FF]二冊の本 (nisatsu no hon) - deux livres[/color][/i]
+
+- Pour les chiffres à partir de 10, certains compteurs peuvent avoir des changements phonétiques.
+[i]Exemple : [color=#0000FF]十本 (juppon) - dix objets longs[/color][/i]
+
+- Pour les petites quantités (1 à 10), les nombres peuvent souvent affecter la prononciation du compteur.
+[i]Exemple : [color=#0000FF]一匹 (ippiki) - un petit animal[/color][/i]
+
+- Pour les quantités plus grandes, les compteurs suivent la structure de numération japonaise.
+[i]Exemple : [color=#0000FF]二十枚の写真 (nijūmai no shashin) - vingt photos[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Certains compteurs s'utilisent exclusivement avec certains groupes de phrases ou situations spécifiques.
+
+[indent]• Compter les personnes de manière formelle:[/indent]
+[indent] [code]
+名 (mei) [color=#008000](formel pour les personnes)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]五名様 (goméisama) - cinq personnes (formel)[/color][/i]
+
+- Utiliser des compteurs pour petits animaux domestiques vs grands animaux.
+[indent][code]
+匹 (hiki) [color=#008000](petits animaux)[/color]
+頭 (tou) [color=#008000](grands animaux)[/color]
+[/code][/indent]
+
+[i]Exemple : [color=#0000FF]三匹の犬 (sanbiki no inu) - trois chiens[/color][/i]
+
+[i]Exemple : [color=#0000FF]二頭の牛 (ni-tou no ushi) - deux vaches[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les compteurs sont essentiels pour une communication correcte en japonais.
+[color=#FF0000]2.[/color] Le compteur généralement utilisé pour des objets non spécifiés est つ (tsu).
+[color=#FF0000]3.[/color] Les compteurs spécifiques varient selon le type d’objet ou d’être, et leur emploi peut changer la signification d'une phrase.
+[color=#FF0000]4.[/color] La prononciation des compteurs peut changer en fonction du chiffre utilisé.[/indent]
+
+[center][font_size=18][color=#808080]正しい数詞を使って、日本語の表現をより自然で的確なものにしましょう！(Tadashii suushi wo tsukatte, nihongo no hyougen wo yori shizen de tekikaku na mono ni shimashou!)[/color][/font_size][/center]

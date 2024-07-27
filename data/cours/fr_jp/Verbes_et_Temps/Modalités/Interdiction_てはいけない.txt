@@ -1,0 +1,87 @@
+[font_size=30][center][b][color=#0000FF]L'Interdiction avec てはいけない en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En japonais, pour exprimer l'interdiction ou dire que quelque chose est interdit, on utilise la forme verbale en て (te) suivie de はいけない (wa ikenai). Cette structure est essentielle pour indiquer qu'une action ne doit pas être faite.
+
+[font_size=24][color=#4B0082]1. Structure de base de l'interdiction[/color][/font_size]
+
+Pour former une phrase d'interdiction en japonais, il faut suivre cette structure :
+
+[indent][b]Verbe en forme て (te) + はいけない (wa ikenai)[/b][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison de la forme て (te)[/color][/font_size]
+
+Il est crucial de savoir conjuguer les verbes en forme て (te) pour utiliser correctement cette structure. Voici quelques règles pour convertir différents types de verbes à la forme て (te) :
+
+[b]a) Verbes du groupe 1 (五段動詞 (godan doushi))[/b]
+[indent]Les verbes qui se terminent par "u", "tsu" ou "ru" changent en "tte".
+[code]
+買う (kau) → 買って (katte) [color=#008000](acheter → achète)[/color]
+立つ (tatsu) → 立って (tatte) [color=#008000](se lever → lève-toi)[/color]
+ある (aru) → あって (atte) [color=#008000](avoir → avais)[/color]
+[/code]
+
+Les verbes qui se terminent par "bu" ou "nu" changent en "nde".
+[code]
+遊ぶ (asobu) → 遊んで (asonde) [color=#008000](jouer → joue)[/color]
+死ぬ (shinu) → 死んで (shinde) [color=#008000](mourir → meurs)[/color]
+[/code]
+
+Les verbes qui se terminent par "ku" changent en "ite" (sauf exceptions).
+[code]
+書く (kaku) → 書いて (kaite) [color=#008000](écrire → écris)[/color]
+[/code]
+
+Les verbes qui se terminent par "gu" changent en "ide".
+[code]
+泳ぐ (oyogu) → 泳いで (oyoide) [color=#008000](nager → nage)[/color]
+[/code]
+
+Les verbes qui se terminent par "su" changent en "shite".
+[code]
+話す (hanasu) → 話して (hanashite) [color=#008000](parler → parle)[/color]
+[/code][/indent]
+
+[b]b) Verbes du groupe 2 (一段動詞 (ichidan doushi))[/b]
+[indent]Ces verbes changent leur terminaison "ru" en "te".
+[code]
+食べる (taberu) → 食べて (tabete) [color=#008000](manger → mange)[/color]
+見る (miru) → 見て (mite) [color=#008000](voir → vois)[/color]
+[/code][/indent]
+
+[b]c) Verbes irréguliers[/b]
+[indent]Il y a deux verbes irréguliers principaux.
+[code]
+する (suru) → して (shite) [color=#008000](faire → fais)[/color]
+来る (kuru) → 来て (kite) [color=#008000](venir → viens)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Exemple d'utilisation de てはいけない (te wa ikenai)[/color][/font_size]
+
+Voici des exemples concrets pour vous aider à bien comprendre comment utiliser cette structure :
+
+[a] Ne pas fumer ici :
+[i]Exemple : [color=#0000FF]ここでタバコを吸ってはいけない。[font_size=18pt](Koko de tabako wo sutte wa ikenai.)[/font_size][/color] [color=#008000](Il est interdit de fumer ici.)[/color][/i][/indent]
+
+[b] Ne pas entrer sans permission :
+[indent][i]Exemple : [color=#0000FF]許可なく入ってはいけない。[font_size=18pt](Kyoka naku haitte wa ikenai.)[/font_size][/color] [color=#008000](Il est interdit d'entrer sans permission.)[/color][/i][/indent]
+
+[c] Ne pas parler fort :
+[indent][i]Exemple : [color=#0000FF]大声で話してはいけない。[font_size=18pt](Oogoe de hanashite wa ikenai.)[/font_size][/color] [color=#008000](Il est interdit de parler fort.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Nuances de politesse[/color][/font_size]
+
+Il est à noter que はいけない (wa ikenai) est souvent utilisé dans des contextes où l'interdiction est ferme. Pour des situations plus polies ou formelles, on peut utiliser てはいけません (te wa ikemasen).
+
+[i]Exemple : [color=#0000FF]ここでタバコを吸ってはいけません。[font_size=18pt](Koko de tabako wo sutte wa ikemasen.)[/font_size][/color] [color=#008000](Il est interdit de fumer ici.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La structure en て (te) suivie de はいけない (wa ikenai) est utilisée pour exprimer l'interdiction.
+[color=#FF0000]2.[/color] La connaissance de la forme て (te) est essentielle pour bien former ces phrases.
+[color=#FF0000]3.[/color] Les nuances de politesse sont importantes pour s'adapter à différents contextes.[/indent]
+
+[center][font_size=18][color=#808080]規則を守り、円滑にコミュニケーションを取りましょう！(kisoku wo mamori, enkatsu ni komyunikeeshon wo torimashou!)[/color][/font_size][/center]

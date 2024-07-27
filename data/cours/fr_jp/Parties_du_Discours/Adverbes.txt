@@ -1,0 +1,79 @@
+[font_size=30][center][b][color=#0000FF]Les Adverbes en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les adverbes jouent un rôle crucial dans la structuration des phrases en japonais. Ils modifient des verbes, des adjectifs et même d'autres adverbes pour ajouter des détails et préciser le sens de la phrase. Comprendre et utiliser des adverbes japonais vous aidera à exprimer vos idées plus précisément et naturellement.
+
+[font_size=24][color=#4B0082]1. Types d'adverbes en japonais[/color][/font_size]
+
+Il existe plusieurs types d'adverbes en japonais, chacun ayant une fonction précise dans la langue.
+
+[b]a) Adverbes de fréquence[/b]
+[indent]Ces adverbes indiquent à quelle fréquence une action est réalisée.
+[code]
+いつも (itsumo) [color=#008000](toujours)[/color]
+よく (yoku) [color=#008000](souvent)[/color]
+たまに (tamani) [color=#008000](occasionnellement)[/color]
+時々 (tokidoki) [color=#008000](parfois)[/color]
+ぜんぜん (zenzen) [color=#008000](jamais)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼はいつも早く起きます。[font_size=18pt](Kare wa itsumo hayaku okimasu.)[/font_size][/color] [color=#008000](Il se réveille toujours tôt.)[/color][/i][/indent]
+
+[b]b) Adverbes de degré[/b]
+[indent]Les adverbes de degré modifient l'intensité des adjectifs et des verbes.
+[code]
+とても (totemo) [color=#008000](très)[/color]
+ちょっと (chotto) [color=#008000](un peu)[/color]
+本当に (hontō ni) [color=#008000](vraiment)[/color]
+かなり (kanari) [color=#008000](considérablement)[/color]
+少し (sukoshi) [color=#008000](un peu)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼はとても忙しいです。[font_size=18pt](Kare wa totemo isogashii desu.)[/font_size][/color] [color=#008000](Il est très occupé.)[/color][/i][/indent]
+
+[b]c) Adverbes de manière[/b]
+[indent]Ces adverbes décrivent comment une action est réalisée.
+[code]
+ゆっくり (yukkuri) [color=#008000](lentement)[/color]
+速く (hayaku) [color=#008000](rapidement)[/color]
+丁寧に (teinei ni) [color=#008000](soigneusement)[/color]
+一生懸命 (isshōkenmei) [color=#008000](de toutes ses forces)[/color]
+静かに (shizuka ni) [color=#008000](calmement)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼女はゆっくり話します。[font_size=18pt](Kanojo wa yukkuri hanashimasu.)[/font_size][/color] [color=#008000](Elle parle lentement.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Placement des adverbes dans la phrase[/color][/font_size]
+
+Les adverbes japonais sont généralement placés avant le verbe ou l'adjectif qu'ils modifient, mais il peut y avoir des variations selon le contexte.
+
+[indent]• Lorsqu'ils modifient un verbe, les adverbes se placent avant celui-ci.
+[i]Exemple : [color=#0000FF]彼はすぐに帰ります。[font_size=18pt](Kare wa sugu ni kaerimasu.)[/font_size][/color] [color=#008000](Il rentre tout de suite.)[/color][/i]
+
+- Lorsqu'ils modifient un adjectif, les adverbes se placent également juste avant.
+[i]Exemple : [color=#0000FF]それはとても良いです。[font_size=18pt](Sore wa totemo yoi desu.)[/font_size][/color] [color=#008000](C'est très bon.)[/color][/i]
+
+- Certains adverbes peuvent aussi débuter une phrase pour donner un contexte général ou une emphase additionnelle :
+[i]Exemple : [color=#0000FF]時々、彼は小説を書きます。[font_size=18pt](Tokidoki, kare wa shōsetsu o kakimasu.)[/font_size][/color] [color=#008000](Parfois, il écrit des romans.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Notes supplémentaires sur les adverbes[/color][/font_size]
+
+Certains adverbes peuvent être utilisés seuls comme réponse ou pour renforcer un point dans une conversation.
+
+[indent]• Utilisation en réponse
+[i]Exemple : [color=#0000FF]はい、とても。[font_size=18pt](Hai, totemo.)[/font_size][/color] [color=#008000](Oui, beaucoup.)[/color][/i]
+
+- Utilisation pour renforcer une affirmation
+[i]Exemple : [color=#0000FF]本当に! [font_size=18pt](Hontō ni!)[/font_size][/color] [color=#008000](Vraiment!)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les adverbes modifient des verbes, des adjectifs et d'autres adverbes pour ajouter des détails.
+[color=#FF0000]2.[/color] Il existe différents types d'adverbes comme ceux de fréquence, de degré, et de manière.
+[color=#FF0000]3.[/color] Les adverbes sont généralement placés avant le mot qu'ils modifient.
+[color=#FF0000]4.[/color] Certains adverbes peuvent être utilisés seuls pour des réponses ou pour renforcer des affirmations.[/indent]
+
+[center][font_size=18][color=#808080]正しい副詞の使い方を学びましょう！(Tadashī fukushi no tsukaikata o manabimashou!)[/color][/font_size][/center]

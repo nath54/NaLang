@@ -1,0 +1,124 @@
+[font_size=30][center][b][color=#0000FF]Les Sons Combinés en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En japonais, les sons combinés sont un aspect essentiel de la prononciation. Ils permettent de créer des sons distincts en combinant différentes syllabes. Les sons combinés sont souvent vus dans les hiragana et katakana sous forme de petites lettres suivies de grandes lettres. Comprendre et maîtriser ces combinaisons est crucial pour une prononciation correcte et naturelle du japonais.
+
+[font_size=24][color=#4B0082]1. Structure des sons combinés[/color][/font_size]
+
+Les sons combinés en japonais sont formés en utilisant une petite version des caractères や (ya), ゆ (yu), よ (yo) après une consonne. Voici quelques exemples courants :
+
+[b]a) Hiragana[/b]
+[indent]En hiragana, les sons combinés sont écrits en combinant les lettres き (ki), し (shi), ち (chi), に (ni), ひ (hi), み (mi), り (ri), ぎ (gi), じ (ji), び (bi) et ぴ (pi) avec や (ya), ゆ (yu), よ (yo) en petites lettres.
+[code]
+きゃ (kya)
+きゅ (kyu)
+きょ (kyo)
+しゃ (sha)
+しゅ (shu)
+しょ (sho)
+ちゃ (cha)
+ちゅ (chu)
+ちょ (cho)
+にゃ (nya)
+にゅ (nyu)
+にょ (nyo)
+ひゃ (hya)
+ひゅ (hyu)
+ひょ (hyo)
+みゃ (mya)
+みゅ (myu)
+みょ (myo)
+りゃ (rya)
+りゅ (ryu)
+りょ (ryo)
+ぎゃ (gya)
+ぎゅ (gyu)
+ぎょ (gyo)
+じゃ (ja)
+じゅ (ju)
+じょ (jo)
+びゃ (bya)
+びゅ (byu)
+びょ (byo)
+ぴゃ (pya)
+ぴゅ (pyu)
+ぴょ (pyo)
+[/code]
+
+[i]Exemple : [color=#0000FF]きゃく (kyaku)[/color] [color=#008000](invité)[/color][/i][/indent]
+
+[b]b) Katakana[/b]
+[indent]En katakana, les sons combinés suivent le même principe avec les caractères キ (ki), シ (shi), チ (chi), ニ (ni), ヒ (hi), ミ (mi), リ (ri), ギ (gi), ジ (ji), ビ (bi), et ピ (pi) combinés avec ヤ (ya), ユ (yu), ヨ (yo) en petites lettres.
+[code]
+キャ (kya)
+キュ (kyu)
+キョ (kyo)
+シャ (sha)
+シュ (shu)
+ショ (sho)
+チャ (cha)
+チュ (chu)
+チョ (cho)
+ニャ (nya)
+ニュ (nyu)
+ニョ (nyo)
+ヒャ (hya)
+ヒュ (hyu)
+ヒョ (hyo)
+ミャ (mya)
+ミュ (myu)
+ミョ (myo)
+リャ (rya)
+リュ (ryu)
+リョ (ryo)
+ギャ (gya)
+ギュ (gyu)
+ギョ (gyo)
+ジャ (ja)
+ジュ (ju)
+ジョ (jo)
+ビャ (bya)
+ビュ (byu)
+ビョ (byo)
+ピャ (pya)
+ピュ (pyu)
+ピョ (pyo)
+[/code]
+
+[i]Exemple : [color=#0000FF]シャツ (shatsu)[/color] [color=#008000](chemise)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation et prononciation des sons combinés[/color][/font_size]
+
+Les sons combinés sont utilisés pour exprimer des sons qui ne peuvent pas être écrits avec les kana simples. Voici quelques points à retenir pour les utiliser correctement :
+
+[indent]• Ils permettent de créer des syllabes plus complexes et variées.
+
+- Ils sont couramment utilisés dans les onomatopées, où des sons spécifiques sont essentiels pour imiter des bruits.
+
+- Ils se trouvent aussi dans les mots d'origine étrangère transcrits en katakana.
+
+[i]Exemple : [color=#0000FF]ニュース (nyūsu)[/color] [color=#008000](nouvelles, informations)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Pratique et mémorisation[/color][/font_size]
+
+La pratique est essentielle pour maîtriser les sons combinés. Voici quelques conseils pour les retenir et bien les prononcer :
+
+[indent]• Écoutez et répétez des mots contenant des sons combinés. L'écoute attentive et la répétition aident à intégrer les nouvelles sonorités.
+
+- Utilisez des cartes mémoire pour mémoriser les combinaisons des hiragana et katakana. Associez le son au caractère pour une mémorisation plus efficace.
+
+- Intégrez ces sons dans des phrases simples et augmentez progressivement la complexité.
+
+[i]Exemple : [color=#0000FF]にゃんこ (nyanko)[/color] [color=#008000](petit chat)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les sons combinés permettent de créer des syllabes uniques et variées en japonais.
+[color=#FF0000]2.[/color] Ils sont formés en combinant des hiragana ou katakana de base avec des petites versions de や (ya), ゆ (yu), よ (yo).
+[color=#FF0000]3.[/color] La pratique régulière et l'écoute sont cruciales pour maîtriser ces sons.
+[color=#FF0000]4.[/color] Utilisez des cartes mémoire et des exercices de répétition pour aider à la mémorisation.[/indent]
+
+[center][font_size=18][color=#808080]正しく使い、完璧な発音を目指しましょう！(tadashiku tsukai, kanpeki na hatsuon o mezashimashou!)[/color][/font_size][/center]

@@ -1,0 +1,63 @@
+[font_size=30][center][b][color=#0000FF]Les Particules de Direction en Japonais : へ (e) et に (ni)[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les particules へ (e) et に (ni) sont utilisées en japonais pour indiquer la direction d'une action. Comprendre et utiliser ces particules correctement vous aidera à rendre vos phrases en japonais plus précises et naturelles.
+
+[font_size=24][color=#4B0082]1. La particule へ (e)[/color][/font_size]
+
+La particule へ (e) indique la direction générale vers laquelle une action est dirigée. Elle est souvent utilisée après les noms de lieux ou de destinations.
+
+[indent][i]Exemple : [color=#0000FF]私は学校へ行きます。[font_size=18pt](Watashi wa gakkō e ikimasu.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+
+Points clés sur la particule へ (e) :
+[indent][color=#FF0000]1.[/color] Utilisée pour indiquer la direction générale.
+[color=#FF0000]2.[/color] Placée après le nom du lieu ou de la destination.
+[color=#FF0000]3.[/color] Peut parfois être suivie d'autres particules pour exprimer des nuances supplémentaires.[/indent]
+
+[font_size=24][color=#4B0082]2. La particule に (ni)[/color][/font_size]
+
+La particule に (ni) peut également indiquer la direction, mais elle est souvent plus précise que へ (e). Elle est utilisée pour indiquer non seulement la direction, mais aussi la destination finale, et peut également indiquer l'heure ou le destinataire.
+
+[indent][i]Exemple : [color=#0000FF]図書館に行きます。[font_size=18pt](Toshokan ni ikimasu.)[/font_size][/color] [color=#008000](Je vais à la bibliothèque.)[/color][/i][/indent]
+
+[i]Exemple (temps) : [color=#0000FF]7時に起きます。[font_size=18pt](Shichi-ji ni okimasu.)[/font_size][/color] [color=#008000](Je me lève à 7 heures.)[/color][/i][/indent]
+
+[i]Exemple (destinataire) : [color=#0000FF]彼に本をあげます。[font_size=18pt](Kare ni hon wo agemasu.)[/font_size][/color] [color=#008000](Je donne un livre à lui.)[/color][/i][/indent]
+
+Points clés sur la particule に (ni) :
+[indent][color=#FF0000]1.[/color] Utilisée pour indiquer une destination précise.
+[color=#FF0000]2.[/color] Peut indiquer l'heure ou le destinataire.
+[color=#FF0000]3.[/color] Placée après le nom du lieu, du moment ou de la personne.[/indent]
+
+[font_size=24][color=#4B0082]3. Comparaison entre へ (e) et に (ni)[/color][/font_size]
+
+[center][table=2,1]
+[tr]
+[td][font_size=20][b][color=#FF0000]へ (e)[/color][/b][/font_size][/td]
+[td][font_size=20][b][color=#FF0000]に (ni)[/color][/b][/font_size][/td]
+[/tr]
+[tr]
+[td][indent]- Indique la direction générale. 
+- Utilisée principalement pour les lieux.[/indent][/td]
+[td][indent]- Indique une destination précise.
+- Peut aussi indiquer l'heure ou le destinataire.[/indent][/td]
+[/tr]
+[/table][/center]
+
+[indent][i]Exemples :[/i]
+[color=#0000FF]日本へ行きます。[/color] (Nihon e ikimasu.) [color=#008000](Je vais au Japon.)[/color]
+[color=#0000FF]日本に行きます。[/color] (Nihon ni ikimasu.) [color=#008000](Je vais au Japon.)[/color]
+
+- Dans le premier exemple, la destination est le Japon de manière générale.
+- Dans le second exemple, la destination est spécifiée comme étant précisément le Japon.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La particule へ (e) indique une direction générale.
+[color=#FF0000]2.[/color] La particule に (ni) est plus précise et peut également indiquer le temps ou le destinataire.
+[color=#FF0000]3.[/color] Choisir entre へ (e) et に (ni) dépend du niveau de précision de la direction souhaitée.[/indent]
+
+[center][font_size=18][color=#808080]正しく方向の助詞を使い分けて、より自然な日本語を話しましょう！(tadashiku hōkō no joshi o tsukaiwakete, yori shizen na nihongo o hanashimashou!)[/color][/font_size][/center]

@@ -1,0 +1,73 @@
+[font_size=30][center][b][color=#0000FF]L'Ordre des Traits en Kanji[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'ordre des traits est crucial pour l'écriture correcte des kanjis (caractères chinois utilisés en japonais). Suivre cet ordre aide non seulement à écrire plus rapidement et de manière plus lisible, mais aussi à mieux mémoriser les caractères.
+
+[font_size=24][color=#4B0082]1. Règles de Base pour l'Ordre des Traits[/color][/font_size]
+
+Les traits doivent être tracés dans un ordre spécifique. Voici les règles fondamentales :
+
+[b]a) De haut en bas et de gauche à droite[/b]
+[indent]Les traits horizontaux sont généralement tracés avant les traits verticaux et les traits à gauche sont écrits avant ceux à droite.
+[code]
+一 (ichi) [color=#008000](un)[/color]
+二 (ni) [color=#008000](deux)[/color]
+三 (san) [color=#008000](trois)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]日 (nichi)[/color] [color=#008000](jour)[/color]
+1. 一 (trait horizontal supérieur)
+2. 丨 (trait vertical gauche)
+3. 一 (trait horizontal inférieur droit)[/i][/indent]
+
+[b]b) Les traits horizontaux avant les traits verticaux[/b]
+[indent]Pour les caractères avec intersections horizontales et verticales, écrivez les traits horizontaux avant les traits verticaux.
+[code]
+十 (juu) [color=#008000](dix)[/color]
+中 (chuu) [color=#008000](milieu)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]中 (chuu)[/color] [color=#008000](milieu)[/color]
+1. 一 (trait horizontal supérieur)
+2. 丨 (trait vertical)
+3. 一 (trait horizontal inférieur)[/i][/indent]
+
+[font_size=24][color=#4B0082]2. Ordre des Traits pour les Enclosements[/color][/font_size]
+
+Les caractères avec des enclosures ont des règles spécifiques. Voici quelques exemples :
+
+[indent]• Enclosures du côté gauche
+[b][code]口 (kuchi) [color=#008000](bouche)[/color][/code][/b]
+[i]1. 丨 (trait vertical gauche)
+2. 一 (trait horizontal supérieur)
+3. 一 (trait horizontal inférieur superposé à un trait vertical à droite)[/i]
+
+- Enclosures d'en haut
+[b][code]同 (dou) [color=#008000](le même)[/color][/code][/b]
+[i]1. 一 (trait horizontal supérieur)
+2. 丨 (trait vertical gauche)
+3. 丿 (trait vertical vertical et horizontal droit)
+4. (dernier élément interne)[/i][/indent]
+
+[font_size=24][color=#4B0082]3. Trait Final de Fermeture[/color][/font_size]
+
+Lorsqu'un caractère est fermé, le dernier trait horizontalferme la figure. 
+
+[indent]• Enclosures du bas
+[b][code]国 (kuni) [color=#008000](pays)[/color][/code][/b]
+[i]1. 丨 (trait vertical gauche)
+2. 一 (trait horizontal supérieur)
+3. 丿 (diagonale droite)
+4. 一 (trait de fermeture en bas)[/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les traits horizontaux précèdent les traits verticaux.
+[color=#FF0000]2.[/color] Les traits de gauche précèdent les traits de droite.
+[color=#FF0000]3.[/color] Pour les enclosures, tracez les contours avant le contenu.
+[color=#FF0000]4.[/color] Fermez toujours les enclosures avec le dernier trait horizontal en bas.[/indent]
+
+[center][font_size=18][color=#808080]適切な筆順で書くことにより、漢字の書き方を向上させましょう！(tekisetsu na hitsujun de kaku koto ni yori, kanji no kakikata o koujou sasemashou!)[/color][/font_size][/center]

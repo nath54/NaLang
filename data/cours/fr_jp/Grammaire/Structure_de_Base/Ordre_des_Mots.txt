@@ -1,0 +1,70 @@
+[font_size=30][center][b][color=#0000FF]L'Ordre des Mots en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'ordre des mots en japonais est fondamentalement différent de celui du français. En japonais, la structure de base des phrases est souvent Sujet - Objet - Verbe (SOV), contrairement à la structure Sujet - Verbe - Objet (SVO) en français. Comprendre cette structure vous aidera à formuler des phrases correctes en japonais.
+
+[font_size=24][color=#4B0082]1. Structure de base des phrases en japonais[/color][/font_size]
+
+En général, la structure de base d'une phrase japonaise est : Sujet - Objet - Verbe.
+
+[b]a) Exemples simples[/b]
+[indent]Une phrase simple pourrait ressembler à ce qui suit.
+[code]
+私はリンゴを食べます。[font_size=18pt](Watashi wa ringo o tabemasu.)[/font_size] [color=#008000](Je mange une pomme.)[/color]
+彼は本を読みます。[font_size=18pt](Kare wa hon o yomimasu.)[/font_size] [color=#008000](Il lit un livre.)[/color]
+[/code]
+
+[i]Notez que le verbe apparaît toujours à la fin de la phrase.[/i][/indent]
+
+[font_size=24][color=#4B0082]2. Particules Grammaticales[/color][/font_size]
+
+Les particules grammaticales jouent un rôle crucial pour indiquer la fonction des mots dans une phrase. Voici quelques-unes des particules les plus couramment utilisées :
+
+[b]a) Particule de sujet [は] (wa)[/b]
+[indent]Utilisée pour indiquer le sujet de la phrase.
+[code]
+私は学生です。[font_size=18pt](Watashi wa gakusei desu.)[/font_size] [color=#008000](Je suis étudiant.)[/color]
+[/code][/indent]
+
+[b]b) Particule d'objet [を] (o)[/b]
+[indent]Utilisée pour indiquer l'objet direct de l'action.
+[code]
+猫が魚を食べます。[font_size=18pt](Neko ga sakana o tabemasu.)[/font_size] [color=#008000](Le chat mange du poisson.)[/color]
+[/code][/indent]
+
+[b]c) Particule de lieu [で] (de)[/b]
+[indent]Utilisée pour indiquer le lieu où se passe l'action.
+[code]
+公園で遊びます。[font_size=18pt](Kōen de asobimasu.)[/font_size] [color=#008000](Je joue dans le parc.)[/color]
+[/code][/indent]
+
+[b]d) Particule de destination [に] (ni)[/b]
+[indent]Utilisée pour indiquer la destination ou le but de l'action.
+[code]
+学校に行きます。[font_size=18pt](Gakkō ni ikimasu.)[/font_size] [color=#008000](Je vais à l'école.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Ordre des Compléments dans la Phrase[/color][/font_size]
+
+En japonais, l'ordre des compléments d'une phrase est flexible, tant que le verbe reste à la fin. Cependant, un ordre commun est :
+
+[indent]Sujet - Temps - Lieu - Objet - Verbe[/indent]
+
+[b]Exemple :[/b]
+[indent][code]
+私は毎朝7時に学校で日本語を勉強します。[font_size=18pt](Watashi wa maiasa shichi-ji ni gakkō de nihongo o benkyō shimasu.)[/font_size] [color=#008000](J'étudie le japonais à l'école tous les matins à 7 heures.)[/color]
+[/code]
+
+[i]Notez comment les compléments [毎朝] (maiasa - tous les matins), [7時に] (shichi-ji ni - à 7 heures), [学校で] (gakkō de - à l'école), et l'objet [日本語] (nihongo - japonais) sont placés avant le verbe [勉強します] (benkyō shimasu - étudier).[/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La structure de base des phrases en japonais est Sujet - Objet - Verbe (SOV).
+[color=#FF0000]2.[/color] Le verbe apparaît toujours à la fin de la phrase.
+[color=#FF0000]3.[/color] Les particules grammaticales comme [は] (wa), [を] (o), [で] (de), et [に] (ni) sont essentielles pour structurer les phrases.
+[color=#FF0000]4.[/color] L'ordre des compléments est flexible tant que le verbe est à la fin, mais un ordre commun est : Sujet - Temps - Lieu - Objet - Verbe.[/indent]
+
+[center][font_size=18][color=#808080]日本語の語順を理解し、自然な表現を目指しましょう！(Nihongo no gojun o rikai shi, shizen'na hyōgen o mezashimashō!)[/color][/font_size][/center]

@@ -1,0 +1,79 @@
+[font_size=30][center][b][color=#0000FF]Les Comparaisons en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les comparaisons en japonais permettent de mettre en relief les différences ou les similitudes entre deux éléments. Elles sont essentielles pour créer des phrases plus expressives et nuancées. Dans cette leçon, nous aborderons les différentes structures de comparaison, comprenant les comparaisons de supériorité, d'infériorité et d'égalité.
+
+[font_size=24][color=#4B0082]1. Comparaison de supériorité[/color][/font_size]
+
+Pour indiquer qu'un élément est supérieur à un autre, on utilise les structures suivantes :
+
+[b]a) Utilisation de より (yori)[/b]
+[indent]Cette structure met l'accent sur la supériorité d'un élément par rapport à un autre.
+
+[code]
+AはBより...です。(A wa B yori... desu.)
+A est plus... que B.
+[/code]
+
+[i]Exemple : [color=#0000FF]この本はあの本よりも面白いです。[font_size=18pt](Kono hon wa ano hon yori mo omoshiroi desu.)[/font_size][/color] [color=#008000](Ce livre est plus intéressant que celui-là.)[/color][/i][/indent]
+
+[b]b) Utilisation de もっと (motto)[/b]
+[indent]もっと (motto) signifie "plus" et peut être utilisé pour renforcer la comparaison.
+
+[code]
+Aはもっと...です。(A wa motto... desu.)
+A est encore plus...
+[/code]
+
+[i]Exemple : [color=#0000FF]彼はもっと勉強しています。[font_size=18pt](Kare wa motto benkyou shiteimasu.)[/font_size][/color] [color=#008000](Il étudie encore plus.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Comparaison d'infériorité[/color][/font_size]
+
+Pour exprimer qu'un élément est inférieur à un autre, on utilise des structures spécifiques :
+
+[b]a) Utilisation de ほど (hodo)[/b]
+[indent]ほど (hodo) est utilisé pour indiquer une comparaison d'infériorité.
+
+[code]
+AはBほど...ではありません。(A wa B hodo...de wa arimasen.)
+A n'est pas aussi... que B.
+[/code]
+
+[i]Exemple : [color=#0000FF]この映画はその映画ほど面白くないです。[font_size=18pt](Kono eiga wa sono eiga hodo omoshirokunai desu.)[/font_size][/color] [color=#008000](Ce film n'est pas aussi intéressant que celui-là.)[/color][/i][/indent]
+
+[b]b) Utilisation de あまり...ない (amari...nai)[/b]
+[indent]あまり (amari) combiné avec ない (nai) permet d'exprimer que quelque chose n'est pas beaucoup ou pas très.
+
+[code]
+Aはあまり...ではありません。(A wa amari...de wa arimasen.)
+A n'est pas très...
+[/code]
+
+[i]Exemple : [color=#0000FF]彼はあまり早くありません。[font_size=18pt](Kare wa amari hayaku arimasen.)[/font_size][/color] [color=#008000](Il n'est pas très rapide.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Comparaison d'égalité[/color][/font_size]
+
+Pour exprimer que deux éléments sont égaux, on emploie la structure suivante :
+
+[b]a) Utilisation de と同じくらい (to onaji kurai)[/b]
+[indent]と同じくらい (to onaji kurai) signifie "autant que" ou "aussi que".
+
+[code]
+AはBと同じくらい...です。(A wa B to onaji kurai... desu.)
+A est aussi... que B.
+[/code]
+
+[i]Exemple : [color=#0000FF]彼女は彼と同じくらい背が高いです。[font_size=18pt](Kanojo wa kare to onaji kurai se ga takai desu.)[/font_size][/color] [color=#008000](Elle est aussi grande que lui.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Utilisez より (yori) pour montrer la supériorité d'un élément par rapport à un autre.
+[color=#FF0000]2.[/color] Utilisez ほど (hodo) pour indiquer l'infériorité.
+[color=#FF0000]3.[/color] も (motto) peut renforcer une comparaison de supériorité.
+[color=#FF0000]4.[/color] Utilisez と同じくらい (to onaji kurai) pour exprimer l'égalité entre deux éléments.
+[color=#FF0000]5.[/color] Améliorez votre compréhension des nuances en pratiquant avec des exemples variés.[/indent]
+
+[center][font_size=18][color=#808080]正確な比較表現で、あなたの日本語をより豊かにしましょう！(seikaku na hikaku hyougen de, anata no nihongo o yori yutaka ni shimashou!)[/color][/font_size][/center]

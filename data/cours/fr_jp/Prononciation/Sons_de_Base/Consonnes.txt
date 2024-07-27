@@ -1,0 +1,59 @@
+[font_size=30][center][b][color=#0000FF]Les Consonnes de Base en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Pour bien prononcer le japonais, il est crucial de maîtriser les sons de base des consonnes. Chaque consonne japonaise peut être associée à des voyelles pour former différentes syllabes. Familiarisez-vous avec ces sons pour améliorer votre lecture et votre prononciation.
+
+[font_size=24][color=#4B0082]1. Consonnes Simples[/color][/font_size]
+
+Les consonnes simples en japonais sont assez similaires à celles du français, mais il y a quelques différences notables. Voici une liste des principales consonnes et des exemples pour chaque son.
+
+[code]
+か (ka), [color=#008000]exemple : かさ (kasa) [color=#0000FF](parapluie)[/color][/color]
+さ (sa), [color=#008000]exemple : さる (saru) [color=#0000FF](singe)[/color][/color]
+た (ta), [color=#008000]exemple : たまご (tamago) [color=#0000FF](œuf)[/color][/color]
+な (na), [color=#008000]exemple : なに (nani) [color=#0000FF](quoi)[/color][/color]
+は (ha), [color=#008000]exemple : はな (hana) [color=#0000FF](fleur)[/color][/color]
+ま (ma), [color=#008000]exemple : まち (machi) [color=#0000FF](ville)[/color][/color]
+や (ya), [color=#008000]exemple : やま (yama) [color=#0000FF](montagne)[/color][/color]
+ら (ra), [color=#008000]exemple : らんぱ (ranpa) [color=#0000FF](lupanar)[/color][/color]
+わ (wa), [color=#008000]exemple : わたし (watashi) [color=#0000FF](je, moi)[/color][/color]
+ん (n), [color=#008000]exemple : ほん (hon) [color=#0000FF](livre)[/color][/color]
+[/code]
+
+[font_size=24][color=#4B0082]2. Consonnes Modifiées[/color][/font_size]
+
+Certaines consonnes peuvent être modifiées pour créer de nouveaux sons en ajoutant de petites marques appelées [i]dakuon[/i] et [i]handakuon[/i]. Voici quelques exemples :
+
+[b]a) Dakuon - Consonnes sonores[/b]
+[indent]Les dakuon ajoutent une marque (") aux consonnes.
+[code]
+が (ga), [color=#008000]exemple : がっこう (gakkou) [color=#0000FF](école)[/color][/color]
+ざ (za), [color=#008000]exemple : ざっし (zasshi) [color=#0000FF](magazine)[/color][/color]
+だ (da), [color=#008000]exemple : だいがく (daigaku) [color=#0000FF](université)[/color][/color]
+ば (ba), [color=#008000]exemple : ばんごはん (bangohan) [color=#0000FF](dîner)[/color][/color]
+[/code][/indent]
+
+[b]b) Handakuon - Consonnes semi-sonores[/b]
+[indent]Les handakuon ajoutent une marque (°) aux consonnes.
+[code]
+ぱ (pa), [color=#008000]exemple : ぱん (pan) [color=#0000FF](pain)[/color][/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Pour former des mots, les consonnes sont suivies par des voyelles ou par la semi-voyelle -ya (-や), -yu (-ゆ), et -yo (-よ), ce qui change légèrement la prononciation. Voici quelques exemples :
+
+[indent]• きゃ (kya), [color=#008000]exemple : きゃく (kyaku) [color=#0000FF](invité, client)[/color][/color]
+• しゅ (shu), [color=#008000]exemple : しゅくだい (shukudai) [color=#0000FF](devoirs)[/color][/color]
+• ちょ (cho), [color=#008000]exemple : ちょうど (choudo) [color=#0000FF](juste, précisément)[/color][/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les consonnes simples sont essentielles pour former les syllabes de base du japonais.
+[color=#FF0000]2.[/color] Les consonnes sonores (dakuon) et semi-sonores (handakuon) ajoutent de la variété à la prononciation.
+[color=#FF0000]3.[/color] La combinaison des consonnes avec -ya, -yu, et -yo crée des sons spécifiques.[/indent]
+
+[center][font_size=18][color=#808080]練習すればするほど、あなたの発音が上手になります！(renshuu sureba suru hodo, anata no hatsuon ga jouzu ni narimasu!)[/color][/font_size][/center]

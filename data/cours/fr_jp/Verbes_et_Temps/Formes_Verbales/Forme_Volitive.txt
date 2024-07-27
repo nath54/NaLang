@@ -1,0 +1,72 @@
+[font_size=30][center][b][color=#0000FF]La Forme Volitive en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La forme volitive en japonais est utilisée pour exprimer une intention ou une volonté de faire quelque chose. On peut l'assimiler à la phrase "Allons..." ou "Faisons..." en français. Elle est très courante dans un contexte informel.
+
+[font_size=24][color=#4B0082]1. Comment former la forme volitive[/color][/font_size]
+
+La formation de la forme volitive dépend du groupe auquel appartient le verbe. Voici les règles pour chaque groupe :
+
+[b]a) Verbes du groupe 1 (五段動詞 (godan doushi))[/b]
+[indent]Pour les verbes du groupe 1, on remplace la dernière syllabe de la racine par [color=#FF0000]おう[/color] (ou). Voici quelques exemples courants :
+
+[code]
+行く (いく, iku) -> 行こう (いこう, ikou) [color=#008000](Allons)[/color]
+話す (はなす, hanasu) -> 話そう (はなそう, hanasou) [color=#008000](Parlons)[/color]
+買う (かう, kau) -> 買おう (かおう, kaou) [color=#008000](Achetons)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]明日は海へ行こう。[font_size=18pt](あしたはうみへいこう, Ashita wa umi e ikou.)[/font_size][/color] [color=#008000](Allons à la mer demain.)[/color][/i][/indent]
+
+[b]b) Verbes du groupe 2 (一段動詞 (ichidan doushi))[/b]
+[indent]Pour les verbes du groupe 2, on remplace la terminaison [color=#FF0000]る[/color] (ru) par [color=#FF0000]よう[/color] (you). Voici quelques exemples :
+
+[code]
+食べる (たべる, taberu) -> 食べよう (たべよう, tabeyou) [color=#008000](Mangeons)[/color]
+見る (みる, miru) -> 見よう (みよう, miyou) [color=#008000](Regardons)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]一緒に映画を見よう。[font_size=18pt](いっしょにえいがをみよう, Issho ni eiga o miyou.)[/font_size][/color] [color=#008000](Regardons un film ensemble.)[/color][/i][/indent]
+
+[b]c) Verbes irréguliers[/b]
+[indent]Il existe deux verbes irréguliers principaux dont la forme volitive doit être apprise par cœur :
+
+[code]
+する (する, suru) -> しよう (しよう, shiyou) [color=#008000](Faisons)[/color]
+来る (くる, kuru) -> 来よう (こよう, koyou) [color=#008000](Venons)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]一緒に勉強しよう。[font_size=18pt](いっしょにべんきょうしよう, Issho ni benkyou shiyou.)[/font_size][/color] [color=#008000](Étudions ensemble.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de la forme volitive[/color][/font_size]
+
+La forme volitive est utilisée dans divers contextes où l'on veut exprimer une intention ou une invitation. Voici quelques exemples :
+
+[indent]• Pour proposer une activité commune :
+[i]Exemple : [color=#0000FF]公園へ行こう。[font_size=18pt](こうえんへいこう, Kouen e ikou.)[/font_size][/color] [color=#008000](Allons au parc.)[/color][/i]
+
+- Pour exprimer une volonté personnelle :
+[i]Exemple : [color=#0000FF]もっと日本語を勉強しよう。[font_size=18pt](もっとにほんごをべんきょうしよう, Motto nihongo o benkyou shiyou.)[/font_size][/color] [color=#008000](Je vais étudier davantage le japonais.)[/color][/i]
+
+- Pour motiver ou encourager :
+[i]Exemple : [color=#0000FF]一緒に頑張ろう。[font_size=18pt](いっしょにがんばろう, Issho ni ganbarou.)[/font_size][/color] [color=#008000](Faisons de notre mieux ensemble.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Variantes formelles et informelles[/color][/font_size]
+
+Bien que la forme volitive soit souvent utilisée dans des contextes informels, il est essentiel de connaître les nuances formelles :
+
+[indent]• Dans les situations formelles, la forme volitive peut être rendue plus polie en utilisant des expressions comme [color=#FF0000]～ましょう[/color] (mashou) :
+
+[i]Exemple : [color=#0000FF]帰りましょう。[font_size=18pt](かえりましょう, Kaerimashou.)[/font_size][/color] [color=#008000](Rentrons chez nous.)[/color][/i]
+
+- La forme [color=#FF0000]～ませんか[/color] (masen ka) peut aussi être utilisée pour proposer gentiment une action :
+[i]Exemple : [color=#0000FF]一緒に食事をしませんか。[font_size=18pt](いっしょにしょくじをしませんか, Issho ni shokuji o shimasen ka.)[/font_size][/color] [color=#008000](Ne devons-nous pas manger ensemble ?) [sous-entendu : Mangeons ensemble].[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La forme volitive exprime une intention ou une invitation.
+[color=#FF0000]2.[/color] Les règles de transformation dépendent du type de verbe.
+[color=#FF0000]3.[/color] Les verbes irréguliers comme [color=#FF0000]する[/color] (suru) et [color=#FF0000]来る[/color] (kuru) ont des formes spécifiques.
+[color=#FF0000]4.[/color] La forme volitive est courante dans les contextes informels, mais peut être adaptée en situations formelles.[/indent]
+
+[center][font_size=18][color=#808080]正しい形を使って、自然な日本語を目指そう！(ただしいかたちをつかって、しぜんなにほんごをめざそう！, Tadashii katachi o tsukatte, shizen'na nihongo o mezasou!)[/color][/font_size][/center]

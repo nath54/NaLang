@@ -1,0 +1,76 @@
+[font_size=30][center][b][color=#0000FF]Le Système Hepburn de Romanisation en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La romanisation du japonais est une méthode permettant de transcrire les sons japonais en caractères latins. Le système Hepburn est l'un des plus utilisés et des plus précis. Il a été développé par un missionnaire américain, James Curtis Hepburn, au 19ème siècle.
+
+[font_size=24][color=#4B0082]1. Les Bases de la Romanisation Hepburn[/color][/font_size]
+
+Le système Hepburn se base sur la prononciation anglaise des caractères latins. Voici les principales règles de correspondance entre les hiragana (かな) et les romaji (ローマ字 - Rōmaji) :
+
+[b]a) Les voyelles simples[/b]
+[indent]Les cinq voyelles japonaises sont romanisées comme suit :
+[code]
+あ (a) [color=#008000](a)[/color]
+い (i) [color=#008000](i)[/color]
+う (u) [color=#008000](u)[/color]
+え (e) [color=#008000](e)[/color]
+お (o) [color=#008000](o)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]おはようございます。[font_size=18pt](Ohayō gozaimasu.)[/font_size][/color] [color=#008000](Bonjour.)[/color][/i][/indent]
+
+[b]b) Les consonnes suivies de voyelles[/b]
+[indent]Les combinaisons de consonnes avec voyelles sont romanisées comme suit :
+[code]
+か (ka) [color=#008000](ka)[/color]
+き (ki) [color=#008000](ki)[/color]
+く (ku) [color=#008000](ku)[/color]
+け (ke) [color=#008000](ke)[/color]
+こ (ko) [color=#008000](ko)[/color]
+さ (sa) [color=#008000](sa)[/color]
+し (shi) [color=#008000](shi)[/color]
+す (su) [color=#008000](su)[/color]
+せ (se) [color=#008000](se)[/color]
+そ (so) [color=#008000](so)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]こんにちは。[font_size=18pt](Konnichiwa.)[/font_size][/color] [color=#008000](Bonjour / Bon après-midi.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Particularités de la Romanisation Hepburn[/color][/font_size]
+
+Le système Hepburn utilise des conventions spécifiques pour certains sons et combinaisons de sons. Voici quelques-unes des plus importantes :
+
+[indent]• Les syllabes avec "ん" (n)
+[i]Exemple : [color=#0000FF]ほん (hon)[/font_size][/color] [color=#008000](livre)[/color][/i]
+- [color=#FF0000]Exception :[/color] avant les syllabes de "b", "m", et "p", "ん" est romanisé en "m".
+[i]Exemple : [color=#0000FF]さんぽ (sanpo)[font_size=18pt](promenade)[/font_size][/color] [color=#008000](promenade)[/color][/i]
+
+- Les sons longs se notent avec un macron (̄), sauf pour les hiragana avec "あ" (a).
+[i]Exemple : おばあさん (obāsan) [color=#008000](grand-mère)[/color][/i]
+
+- Les petites "つ" (っ - sokuon) qui indiquent une consonne double sont transcrites en doublant la consonne suivante.
+[i]Exemple : [color=#0000FF]がっこう (gakkō)[font_size=18pt](école)[/font_size][/color] [color=#008000](école)[/color][/i]
+
+- Les sons combinés avec "や", "ゆ", "よ" sont transcrits comme un seul son.
+[i]Exemple : [color=#0000FF]きょう (kyō) [color=#008000](aujourd'hui)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisation Pratique du Système Hepburn[/color][/font_size]
+
+La romanisation Hepburn est largement utilisée dans les manuels de japonais, les dictionnaires et les panneaux de signalisation au Japon. Elle est particulièrement utile pour les débutants qui n'ont pas encore appris les alphabets hiragana (ひらがな) et katakana (カタカナ).
+
+[indent]• Exercice de lecture en romaji
+[i]Exemple : [color=#0000FF]こちらは田中さんです。[font_size=18pt](Kochira wa Tanaka-san desu.)[/font_size][/color] [color=#008000](Voici Monsieur Tanaka.)[/color][/i]
+
+- Utilisation quotidienne dans les panneaux
+[i]Exemple : [color=#0000FF]とうきょう (Tōkyō) [font_size=18pt](Tokyo.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le système Hepburn se base sur la prononciation anglaise pour transcrire les sons japonais en caractères latins.
+[color=#FF0000]2.[/color] Il utilise des conventions spécifiques pour les sons longs, les consonnes doubles et les combinaisons de sons.
+[color=#FF0000]3.[/color] La romanisation Hepburn est utile pour les débutants et couramment utilisée dans divers contextes pratiques.[/indent]
+
+[center][font_size=18][color=#808080]ローマ字を使って、日本語の学習を簡単にしよう！(Rōmaji o tsukatte, nihongo no gakushū o kantan ni shiyou!)[/color][/font_size][/center]

@@ -1,0 +1,73 @@
+[font_size=30][center][b][color=#0000FF]Les Sons Longs en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les sons longs en japonais jouent un rôle important dans la prononciation et peuvent changer le sens des mots. Pour bien maîtriser le japonais, il est essentiel de comprendre comment ces sons fonctionnent et comment les reconnaître.
+
+[font_size=24][color=#4B0082]1. Qu'est-ce qu'un son long ?[/color][/font_size]
+
+Un son long en japonais est essentiellement une voyelle prolongée. Contrairement au français où la durée des voyelles n'affecte généralement pas le sens des mots, en japonais, la longueur de la voyelle peut complètement changer la signification d'un mot.
+
+[b]Exemples :[/b]
+[indent]- [color=#0000FF]おばさん (obasan)[/color] [color=#008000](tante)[/color] vs. [color=#0000FF]おばあさん (obaasan)[/color] [color=#008000](grand-mère)[/color][/indent]
+
+[font_size=24][color=#4B0082]2. Les sons longs des voyelles en japonais[/color][/font_size]
+
+Les voyelles en japonais peuvent être allongées de différentes manières. Voici les principales correspondances :
+
+[b]a) A, I, U[/b]
+[indent]Pour les voyelles [color=#FF0000]あ (a)[/color], [color=#FF0000]い (i)[/color], et [color=#FF0000]う (u)[/color], le son long est formé en les doublant.
+[code]
+お母さん (okaasan) [color=#008000](maman)[/color]
+おにいさん (oniisan) [color=#008000](grand frère)[/color]
+こうこう (koukou) [color=#008000](lycée)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]彼はりんごを食べました (かれはりんごをたべました) (kare wa ringo o tabemashita)[/color] [color=#008000](Il a mangé une pomme.)[/color][/i][/indent]
+
+[b]b) E[/b]
+[indent]Pour la voyelle [color=#FF0000]え (e)[/color], on ajoute un [color=#FF0000]い (i)[/color] pour l'allonger.
+[code]
+先生 (せんせい, sensei) [color=#008000](professeur, maître)[/color]
+おじいさん (ojiisan) [color=#008000](grand-père)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]彼は先生です (かれはせんせいです) (kare wa sensei desu)[/color] [color=#008000](Il est professeur.)[/color][/i][/indent]
+
+[b]c) O[/b]
+[indent]Pour la voyelle [color=#FF0000]お (o)[/color], il y a deux façons de l'allonger :
+1. En ajoutant un [color=#FF0000]う (u)[/color].
+2. En doublant le [color=#FF0000]お (o)[/color].
+[code]
+おおきい (大きい, ookii) [color=#008000](grand)[/color]
+とおい (遠い, tooi) [color=#008000](loin)[/color]
+ひこうき (飛行機, hikouki) [color=#008000](avion)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]この本は長い (このほんはながい) (kono hon wa nagai)[/color] [color=#008000](Ce livre est long.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les sons longs dans les mots de kanji[/color][/font_size]
+
+Dans les mots composés de kanji, les sons longs sont fréquents, et leur écriture peut varier. Voici quelques exemples :
+
+[indent][color=#FF0000]情報 (じょうほう, jouhou)[/color] [color=#008000](information)[/color]
+[color=#FF0000]大学 (だいがく, daigaku)[/color] [color=#008000](université)[/color]
+[color=#FF0000]電話 (でんわ, denwa)[/color] [color=#008000](téléphone)[/color]
+[color=#FF0000]工具 (こうぐ, kougu)[/color] [color=#008000](outil)[/color][/indent]
+
+[font_size=24][color=#4B0082]4. Exercices de prononciation[/color][/font_size]
+
+Pour améliorer votre maîtrise des sons longs, pratiquez en répétant les phrases suivantes :
+
+[indent]1. [color=#0000FF]おじいさんはとおい所に住んでいます (おじいさんはとおいところにすんでいます) (ojiisan wa tooi tokoro ni sundeimasu)[/color] [color=#008000](Grand-père habite loin)[/color].
+
+2. [color=#0000FF]飛行機が大好きです (ひこうきがだいすきです) (hikouki ga daisuki desu)[/color] [color=#008000](J'adore les avions)[/color].[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les sons longs en japonais peuvent changer le sens des mots.
+[color=#FF0000]2.[/color] Les voyelles あ (a), い (i), et う (u) se doublent pour devenir longues.
+[color=#FF0000]3.[/color] La voyelle え (e) devient longue en ajoutant い (i).
+[color=#FF0000]4.[/color] La voyelle お (o) devient longue en ajoutant う (u) ou en doublant お (o).
+[color=#FF0000]5.[/color] Pratiquer les sons longs avec des exercices de prononciation vous aide à mieux les maîtriser.[/indent]
+
+[center][font_size=18][color=#808080]正しい長音を使って、日本語をもっと自然に話そう！(ただしいちょうおんをつかって、にほんごをもっとしぜんにはなそう！) (Tadashii chōon o tsukatte, nihongo o motto shizen ni hanasou!)[/color][/font_size][/center]

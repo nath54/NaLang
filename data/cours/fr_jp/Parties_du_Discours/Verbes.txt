@@ -1,0 +1,111 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes japonais sont essentiels pour construire des phrases et exprimer des actions. En japonais, les verbes subissent des transformations pour indiquer le temps, la forme affirmative ou négative, et d'autres aspects grammaticaux. Comprendre ces structures vous aidera à mieux maîtriser la langue japonaise.
+
+[font_size=24][color=#4B0082]1. Types de verbes en japonais[/color][/font_size]
+
+Il existe trois grands types de verbes en japonais : les verbes godan (五段動詞, godan doushi), les verbes ichidan (一段動詞, ichidan doushi), et les verbes irréguliers (不規則動詞, fukisoku doushi).
+
+[b]a) Les verbes Godan (五段動詞)[/b]
+[indent]Les verbes godan sont les plus courants et leur conjugaison change à travers cinq bases différentes.
+[code]
+書く (kaku) [color=#008000](écrire)[/color]
+話す (hanasu) [color=#008000](parler)[/color]
+聞く (kiku) [color=#008000](écouter)[/color]
+走る (hashiru) [color=#008000](courir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は毎日手紙を書く。[font_size=18pt](Kare wa mainichi tegami o kaku.)[/font_size][/color] [color=#008000](Il écrit des lettres tous les jours.)[/color][/i][/indent]
+
+[b]b) Les verbes Ichidan (一段動詞)[/b]
+[indent]Les verbes ichidan ont une conjugaison plus simple et ne changent qu'à une seule base.
+[code]
+食べる (taberu) [color=#008000](manger)[/color]
+見る (miru) [color=#008000](voir)[/color]
+起きる (okiru) [color=#008000](se lever)[/color]
+寝る (neru) [color=#008000](dormir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼女は寿司を食べる。[font_size=18pt](Kanojo wa sushi o taberu.)[/font_size][/color] [color=#008000](Elle mange des sushis.)[/color][/i][/indent]
+
+[b]c) Les verbes irréguliers (不規則動詞)[/b]
+[indent]Les verbes irréguliers sont peu nombreux mais très utilisés. Ils ne suivent pas les règles de conjugaison des verbes godan ou ichidan.
+[code]
+する (suru) [color=#008000](faire)[/color]
+来る (kuru) [color=#008000](venir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼はスポーツをする。[font_size=18pt](Kare wa supootsu o suru.)[/font_size][/color] [color=#008000](Il fait du sport.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison des verbes en japonais[/color][/font_size]
+
+La conjugaison des verbes en japonais dépend du temps, de la forme (affirmative ou négative) et de la politesse. Voici les conjugaisons de base au présent et au passé pour chacune des catégories de verbes.
+
+[indent][b]a) Présent affirmatif[/b]
+• Pour les verbes godan : Ajoutez –ます (–masu) à la base de verbe.
+[i]Exemple : [color=#0000FF]書きます (kakimasu) [font_size=18pt](j'écris)[/font_size][/color][/i]
+
+• Pour les verbes ichidan : Remplacez –る (–ru) par –ます (–masu).
+[i]Exemple : [color=#0000FF]食べます (tabemasu) [font_size=18pt](je mange)[/font_size][/color][/i]
+
+• Pour les verbes irréguliers : Conjuguez les formes du verbe.
+[i]Exemple : [color=#0000FF]します (shimasu) [font_size=18pt](je fais)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]来ます (kimasu) [font_size=18pt](je viens)[/font_size][/color][/i]
+
+[b]b) Présent négatif[/b]
+• Pour les verbes godan : Ajoutez –ません (–masen) à la base de verbe.
+[i]Exemple : [color=#0000FF]書きません (kakimasen) [font_size=18pt](je n'écris pas)[/font_size][/color][/i]
+
+• Pour les verbes ichidan : Remplacez –る (–ru) par –ません (–masen).
+[i]Exemple : [color=#0000FF]食べません (tabemasen) [font_size=18pt](je ne mange pas)[/font_size][/color][/i]
+
+• Pour les verbes irréguliers : Conjuguez les formes du verbe.
+[i]Exemple : [color=#0000FF]しません (shimasen) [font_size=18pt](je ne fais pas)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]来ません (kimasen) [font_size=18pt](je ne viens pas)[/font_size][/color][/i]
+
+[b]c) Passé affirmatif[/b]
+• Pour les verbes godan : Remplacez –ます (–masu) par –ました (–mashita).
+[i]Exemple : [color=#0000FF]書きました (kakimashita) [font_size=18pt](j'ai écrit)[/font_size][/color][/i]
+
+• Pour les verbes ichidan : Remplacez –る (–ru) par –ました (–mashita).
+[i]Exemple : [color=#0000FF]食べました (tabemashita) [font_size=18pt](j'ai mangé)[/font_size][/color][/i]
+
+• Pour les verbes irréguliers : Conjuguez les formes du verbe.
+[i]Exemple : [color=#0000FF]しました (shimashita) [font_size=18pt](j'ai fait)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]来ました (kimashita) [font_size=18pt](je suis venu)[/font_size][/color][/i]
+
+[b]d) Passé négatif[/b]
+• Pour les verbes godan : Remplacez –ません (–masen) par –ませんでした (–masen deshita).
+[i]Exemple : [color=#0000FF]書きませんでした (kakimasen deshita) [font_size=18pt](je n'ai pas écrit)[/font_size][/color][/i]
+
+• Pour les verbes ichidan : Remplacez –る (–ru) par –ませんでした (–masen deshita).
+[i]Exemple : [color=#0000FF]食べませんでした (tabemasen deshita) [font_size=18pt](je n'ai pas mangé)[/font_size][/color][/i]
+
+• Pour les verbes irréguliers : Conjuguez les formes du verbe.
+[i]Exemple : [color=#0000FF]しませんでした (shimasen deshita) [font_size=18pt](je n'ai pas fait)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]来ませんでした (kimasen deshita) [font_size=18pt](je ne suis pas venu)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisations spéciales des verbes japonais[/color][/font_size]
+
+Les verbes japonais peuvent également être utilisés dans des formes spéciales pour indiquer des nuances comme l'obligation, la capacité, ou l'hypothétique.
+
+[indent]• Pour indiquer l'obligation, utilisez la forme –なければならない (nakereba naranai).
+[i]Exemple : [color=#0000FF]勉強しなければならない。[font_size=18pt](Benkyou shinakereba naranai.)[/font_size][/color] [color=#008000](Je dois étudier.)[/color][/i]
+
+• Pour indiquer la capacité, utilisez la forme –ことができる (koto ga dekiru).
+[i]Exemple : [color=#0000FF]日本語を話すことができる。[font_size=18pt](Nihongo o hanasu koto ga dekiru.)[/font_size][/color] [color=#008000](Je peux parler japonais.)[/color][/i]
+
+• Pour indiquer des conditions hypothétiques, utilisez la forme –ば (ba).
+[i]Exemple : [color=#0000FF]もし時間があれば、行きます。[font_size=18pt](Moshi jikan ga areba, ikimasu.)[/font_size][/color] [color=#008000](Si j'ai le temps, j'irai.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbs japonais peuvent être classifiés en trois catégories : godan, ichidan et irréguliers.
+[color=#FF0000]2.[/color] La conjugaison des verbes varie selon le temps, la forme affirmative ou négative, et la politesse.
+[color=#FF0000]3.[/color] Les formes spéciales des verbes peuvent indiquer des nuances telles que l'obligation, la capacité, ou l'hypothétique.[/indent]
+
+[center][font_size=18][color=#808080]日本語の動詞をマスターして、もっと自然な会話を目指しましょう！(nihongo no doushi o masutaa shite, motto shizen na kaiwa o mezashimashou!)[/color][/font_size][/center]

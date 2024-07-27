@@ -1,0 +1,96 @@
+[font_size=30][center][b][color=#0000FF]La Conjugaison des Adjectifs en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les adjectifs japonais se divisent principalement en deux catégories : les adjectifs en -い (i-adjectifs) et les adjectifs en -な (na-adjectifs). À la différence des adjectifs en français, ils se conjuguent en fonction du temps et de la forme (affirmative, négative, passé, etc.). Comprendre comment conjuguer ces adjectifs est crucial pour s'exprimer correctement en japonais.
+
+[font_size=24][color=#4B0082]1. Conjugaison des i-adjectifs[/color][/font_size]
+
+Les i-adjectifs se terminent par -い et leur conjugaison varie en fonction du temps et de la forme de la phrase.
+
+[b]a) Forme affirmative au présent[/b]
+[indent][i]Structure :[/i] Adjectif-い
+[code]
+大きい (おおきい, ookii) [color=#008000](grand)[/color]
+新しい (あたらしい, atarashii) [color=#008000](nouveau)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]この本は新しいです。[font_size=18pt](このほんはあたらしいです, Kono hon wa atarashii desu.)[/font_size][/color] [color=#008000](Ce livre est nouveau.)[/color][/i][/indent]
+
+[b]b) Forme négative au présent[/b]
+[indent][i]Structure :[/i] Adjectif-くない
+[code]
+大きくない (おおきくない, ookikunai) [color=#008000](pas grand)[/color]
+新しくない (あたらしくない, atarashikunai) [color=#008000](pas nouveau)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]この本は新しくないです。[font_size=18pt](このほんはあたらしくないです, Kono hon wa atarashikunai desu.)[/font_size][/color] [color=#008000](Ce livre n'est pas nouveau.)[/color][/i][/indent]
+
+[b]c) Forme affirmative au passé[/b]
+[indent][i]Structure :[/i] Adjectif-かった
+[code]
+大きかった (おおきかった, ōkikatta) [color=#008000](était grand)[/color]
+新しかった (あたらしかった, atarashikatta) [color=#008000](était nouveau)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]この本は新しかったです。[font_size=18pt](このほんはあたらしかったです, Kono hon wa atarashikatta desu.)[/font_size][/color] [color=#008000](Ce livre était nouveau.)[/color][/i][/indent]
+
+[b]d) Forme négative au passé[/b]
+[indent][i]Structure :[/i] Adjectif-くなかった
+[code]
+大きくなかった (おおきくなかった, ōkikunakatta) [color=#008000](n'était pas grand)[/color]
+新しくなかった (あたらしくなかった, atarashikunakatta) [color=#008000](n'était pas nouveau)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]この本は新しくなかったです。[font_size=18pt](このほんはあたらしくなかったです, Kono hon wa atarashikunakatta desu.)[/font_size][/color] [color=#008000](Ce livre n'était pas nouveau.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison des na-adjectifs[/color][/font_size]
+
+Les na-adjectifs se terminent par -な lorsqu'ils modifient un nom. Leur conjugaison est plus simple car ils utilisent la même structure que les noms.
+
+[b]a) Forme affirmative au présent[/b]
+[indent][i]Structure :[/i] Adjectif-な + です
+[code]
+静かです (しずかです, shizuka desu) [color=#008000](calme)[/color]
+有名です (ゆうめいです, yūmei desu) [color=#008000](célèbre)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]この町は静かです。[font_size=18pt](このまちはしずかです, Kono machi wa shizuka desu.)[/font_size][/color] [color=#008000](Cette ville est calme.)[/color][/i][/indent]
+
+[b]b) Forme négative au présent[/b]
+[indent][i]Structure :[/i] Adjectif-じゃない + です
+[code]
+静かじゃないです (しずかじゃないです, shizuka janai desu) [color=#008000](pas calme)[/color]
+有名じゃないです (ゆうめいじゃないです, yūmei janai desu) [color=#008000](pas célèbre)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]この町は静かじゃないです。[font_size=18pt](このまちはしずかじゃないです, Kono machi wa shizuka janai desu.)[/font_size][/color] [color=#008000](Cette ville n'est pas calme.)[/color][/i][/indent]
+
+[b]c) Forme affirmative au passé[/b]
+[indent][i]Structure :[/i] Adjectif-でした
+[code]
+静かでした (しずかでした, shizuka deshita) [color=#008000](était calme)[/color]
+有名でした (ゆうめいでした, yūmei deshita) [color=#008000](était célèbre)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]この町は静かでした。[font_size=18pt](このまちはしずかでした, Kono machi wa shizuka deshita.)[/font_size][/color] [color=#008000](Cette ville était calme.)[/color][/i][/indent]
+
+[b]d) Forme négative au passé[/b]
+[indent][i]Structure :[/i] Adjectif-じゃなかった + です
+[code]
+静かじゃなかったです (しずかじゃなかったです, shizuka janakatta desu) [color=#008000](n'était pas calme)[/color]
+有名じゃなかったです (ゆうめいじゃなかったです, yūmei janakatta desu) [color=#008000](n'était pas célèbre)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]この町は静かじゃなかったです。[font_size=18pt](このまちはしずかじゃなかったです, Kono machi wa shizuka janakatta desu.)[/font_size][/color] [color=#008000](Cette ville n'était pas calme.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les i-adjectifs se terminent par -い et le suffixe change en fonction du temps et de la forme (affirmative, négative, passé).
+[color=#FF0000]2.[/color] Les na-adjectifs se terminent par -な et se conjuguent de manière similaire aux noms.
+[color=#FF0000]3.[/color] Comprendre la structure de ces conjugaisons est essentiel pour exprimer correctement des états et des qualités en japonais.
+[color=#FF0000]4.[/color] Pratiquez avec différents adjectifs pour bien maîtriser leur conjugaison.[/indent]
+
+[center][font_size=18][color=#808080]正しい形容詞の活用を学び、あなたの日本語を自然で流暢にしましょう！(tadashii keiyōshi no katsuyō o manabi, anata no nihongo o shizen de ryūchō ni shimashou!)[/color][/font_size][/center]

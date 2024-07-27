@@ -1,0 +1,83 @@
+[font_size=30][center][b][color=#0000FF]L'Étiquette Japonaise[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'étiquette japonaise est un aspect essentiel de la culture japonaise. Comprendre et respecter ces normes vous permettra de vous intégrer plus facilement et de montrer du respect envers vos interlocuteurs japonais. Cette leçon aborde les aspects les plus importants de l'étiquette au Japon.
+
+[font_size=24][color=#4B0082]1. Salutations et Révérences[/color][/font_size]
+
+Les salutations sont fondamentales dans la culture japonaise, et elles s'accompagnent souvent de révérences.
+
+[b]a) Salutations</b]
+[indent]Les salutations les plus courantes incluent :
+[code]
+こんにちは (konnichiwa) [color=#008000](Bonjour)[/color]
+こんばんは (konbanwa) [color=#008000](Bonsoir)[/color]
+おはようございます (ohayou gozaimasu) [color=#008000](Bonjour, le matin)[/color]
+[/code]
+
+[i]Exemple : 
+[color=#0000FF]おはようございます。[font_size=18pt](Ohayou gozaimasu.)[/font_size][/color] 
+[color=#008000](Bonjour, le matin.)[/color][/i][/indent]
+
+[b]b) Révérences[/b]
+[indent]Les révérences sont utilisées pour saluer, remercier ou s'excuser. Il y a différents niveaux de révérence :
+[code]
+軽いお辞儀 (karui ojigi) [color=#008000](Légère révérence, environ 15°)[/color]
+普通のお辞儀 (futsuu no ojigi) [color=#008000](Révérence normale, environ 30°)[/color]
+深いお辞儀 (fukai ojigi) [color=#008000](Révérence profonde, environ 45° ou plus)[/color]
+[/code]
+
+[i]Exemple : 
+[color=#0000FF]彼は深いお辞儀をしました。[font_size=18pt](Kare wa fukai ojigi o shimashita.)[/font_size][/color] 
+[color=#008000](Il a fait une révérence profonde.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Politesse en Social</color][/font_size]
+
+La politesse est essentielle dans les interactions sociales au Japon. Voici quelques règles à suivre :
+
+[indent]• Ajoutez des suffixes honorifiques aux noms :
+[color=#FF0000]-さん (-san)[/color] [color=#008000](Monsieur/Madame)[/color]
+[color=#FF0000]-さま (-sama)[/color] [color=#008000](Très respectueux, utilisé pour les clients ou personnes vénérées)[/color]
+[color=#FF0000]-ちゃん (-chan)[/color] [color=#008000](Affectueux, souvent utilisé pour les enfants ou amis proches)[/color]
+[color=#FF0000]-くん (-kun)[/color] [color=#008000](Utilisé pour les garçons et les jeunes hommes)[/color]
+
+[i]Exemple : 
+[color=#0000FF]田中さんに会いました。[font_size=18pt](Tanaka-san ni aimashita.)[/font_size][/color] 
+[color=#008000](J'ai rencontré M. Tanaka.)[/color][/i]
+
+- Montrez du respect en parlant :
+Utilisez des formules de politesse comme [color=#FF0000]ありがとうございます (arigatou gozaimasu)[/color] [color=#008000](Merci beaucoup)[/color] et [color=#FF0000]すみません (sumimasen)[/color] [color=#008000](Excusez-moi)[/color].
+
+[i]Exemple : 
+[color=#0000FF]遅れてすみませんでした。[font_size=18pt](Okurete sumimasen deshita.)[/font_size][/color] 
+[color=#008000](Je suis désolé d'être en retard.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Comportement à Table[/color][/font_size]
+
+Le comportement à table est une autre facette importante de l'étiquette japonaise.
+
+[indent]• Avant de manger, dites [color=#FF0000]いただきます (itadakimasu)[/color] [color=#008000](Je reçois humblement la nourriture)[/color].
+• Après avoir terminé de manger, dites [color=#FF0000]ごちそうさまでした (gochisousama deshita)[/color] [color=#008000](Merci pour le repas)[/color].
+
+[i]Exemple : 
+[color=#0000FF]ごちそうさまでした。[font_size=18pt](Gochisousama deshita.)[/font_size][/color] 
+[color=#008000](Merci pour le repas.)[/color][/i]
+
+- Ne plantez pas vos baguettes (箸, hashi) dans du riz, c'est un geste associé aux rites funéraires.
+- Ne passez pas de nourriture directement de vos baguettes à celles de quelqu'un d'autre. Cela rappelle les rites de transfert des ossements lors des funérailles.
+
+[i]Exemple : 
+[color=#0000FF]箸を使うときは注意してください。[font_size=18pt](Hashi o tsukau toki wa chuui shite kudasai.)[/font_size][/color] 
+[color=#008000](Faites attention lorsque vous utilisez les baguettes.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les salutations et les révérences sont des aspects essentiels de l'étiquette japonaise.
+[color=#FF0000]2.[/color] Utilisez des suffixes honorifiques et des phrases de politesse pour montrer du respect.
+[color=#FF0000]3.[/color] Respectez les règles de comportement à table, notamment en utilisant correctement les baguettes.
+[color=#FF0000]4.[/color] Les gestes inappropriés peuvent être très mal perçus dans la culture japonaise.[/indent]
+
+[center][font_size=18][color=#808080]正しい礼儀作法を守って、日本文化をより深く理解しましょう！(tadashii reigisahou o mamotte, nihon bunka o yori fukaku rikai shimashou!)[/color][/font_size][/center]

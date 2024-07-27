@@ -1,0 +1,69 @@
+[font_size=30][center][b][color=#0000FF]Histoire de la Langue Japonaise[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La langue japonaise, riche et complexe, a une histoire fascinante qui s'étend sur plusieurs millénaires. En comprendre les origines et les évolutions successives vous permettra d'apprécier davantage ses nuances et ses particularités.
+
+[font_size=24][color=#4B0082]1. Origines du Japonais[/color][/font_size]
+
+Le japonais trouve ses racines dans les langues des peuples qui ont habité l'archipel japonais bien avant l'ère moderne. Bien que ses origines exactes soient débattues, plusieurs théories suggèrent des influences des langues altaïques, coréennes et austronésiennes.
+
+[b]a) Période Jōmon (縄文時代, Jōmon jidai)[/b]
+[indent]Cette période, datant de 14,000 ans avant notre ère jusqu'en 300 avant notre ère, marque les premiers peuplements de l'archipel par des chasseurs-cueilleurs. Les langues de cette époque sont considérées comme les ancêtres possibles du japonais moderne.[/indent]
+
+[b]b) Période Yayoi (弥生時代, Yayoi jidai)[/b]
+[indent]De 300 avant notre ère à 300 de notre ère, la culture Yayoi a introduit des techniques agricoles et métallurgiques, ainsi que des influences linguistiques provenant du continent asiatique.[/indent]
+
+[font_size=24][color=#4B0082]2. Évolution de la Langue Japonaise[/color][/font_size]
+
+Avec l'introduction du système d'écriture chinois, la langue japonaise a subi des transformations majeures qui ont jalonné son évolution.
+
+[b]a) Période Kofun (古墳時代, Kofun jidai)[/b]
+[indent]Au cours de cette période (250-538 de notre ère), l'introduction de caractères chinois (kanji, 漢字) a profondément influencé la langue japonaise, facilitant les échanges culturels et commerciaux.[/indent]
+
+[b]b) Période Asuka et Nara (飛鳥時代 et 奈良時代, Asuka jidai et Nara jidai)[/b]
+[indent]Ces périodes, de 538 à 794 de notre ère, ont vu l'introduction officielle du bouddhisme et une adoption plus systématique des caractères chinois. Les textes bouddhiques et administratifs étaient rédigés en sino-japonais, une forme écrite mêlant chinois et japonais.
+[code]
+漢詩 (kanshi) [color=#008000](poèmes chinois)[/color]
+万葉集 (Man'yōshū) [color=#008000](Collection de Dix Mille Feuilles)[/color] [/code]
+[i]Exemple : [color=#0000FF]万葉集は日本最古の詩歌集です。(Man'yōshū wa Nihon saiko no shiika-shū desu.)[/font_size][/color] [color=#008000](Le Man'yōshū est la plus ancienne collection de poèmes du Japon.)[/color][/i][/indent]
+
+[b]c) Période Heian (平安時代, Heian jidai)[/b]
+[indent]S'étendant de 794 à 1185, cette période est marquée par l'émergence des deux systèmes de syllabaires japonais : hiragana (ひらがな) et katakana (カタカナ). 
+[code]
+ひらがな (hiragana) [color=#008000](syllabaire japonais cursif)[/color]
+カタカナ (katakana) [color=#008000](syllabaire japonais angulaire)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]ひらがなとカタカナは日本語の二つの仮名文字です。(Hiragana to katakana wa Nihongo no futatsu no kana moji desu.)[/color] [color=#008000](Les hiragana et katakana sont les deux syllabaires du japonais.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Modernisation et Influence Occidentale[/color][/font_size]
+
+À partir du 19ème siècle, la langue japonaise a connu des transformations significatives en raison des contacts intensifiés avec l'Occident.
+
+[b]a) Période Meiji (明治時代, Meiji jidai)[/b]
+[indent]De 1868 à 1912, l'ère Meiji a été une période de modernisation rapide. Le japonais a emprunté de nombreux mots aux langues occidentales, notamment pour décrire de nouvelles technologies et concepts.
+[code]
+電気 (denki) [color=#008000](électricité, de l'anglais "electricity")[/color]
+新聞 (shinbun) [color=#008000](journal, de l'anglais "newspaper")[/color]
+[/code]
+[i]Exemple : [color=#0000FF]彼は新しい新聞を読みます。(Kare wa atarashii shinbun o yomimasu.)[/color] [color=#008000](Il lit un nouveau journal.)[/color][/i][/indent]
+
+[b]b) Japon moderne et contemporain[/b]
+[indent]Depuis le 20ème siècle, le japonais continue d'évoluer, intégrant de nombreux mots étrangers (外来語, gairaigo). Les médias, la technologie et la culture populaire favorisent ces changements constants.
+[code]
+インターネット (intānetto) [color=#008000](Internet)[/color]
+コンピュータ (konpyūta) [color=#008000](ordinateur, de l'anglais "computer")[/color]
+[/code]
+[i]Exemple : [color=#0000FF]彼はインターネットで買い物をします。(Kare wa intānetto de kaimono o shimasu.)[/color] [color=#008000](Il fait des achats sur Internet.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La langue japonaise a des racines anciennes et a été influencée par plusieurs cultures au fil des millénaires.
+[color=#FF0000]2.[/color] L'introduction des caractères chinois a largement contribué à l'évolution de l'écriture japonaise.
+[color=#FF0000]3.[/color] Les systèmes de syllabaires hiragana et katakana sont nés durant la période Heian.
+[color=#FF0000]4.[/color] Le japonais moderne intègre de nombreux mots étrangers, reflétant l'influence occidentale depuis l'ère Meiji.[/indent]
+
+[center][font_size=18][color=#808080]日本語の歴史を知り、言葉の奥深さを感じましょう！
+(Nihongo no rekishi o shiri, kotoba no okubukasa o kanjimashou!)[/color][/font_size][/center]

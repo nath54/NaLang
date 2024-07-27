@@ -1,0 +1,60 @@
+[font_size=30][center][b][color=#0000FF]Les Traits Fondamentaux des Kanji en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les kanji (漢字) sont des caractères empruntés du chinois, utilisés dans l’écriture japonaise. Chaque kanji est composé d'un ou plusieurs traits. Comprendre les traits fondamentaux est essentiel pour apprendre à bien écrire et reconnaître ces caractères.
+
+[font_size=24][color=#4B0082]1. Les Traits Simples[/color][/font_size]
+
+Les traits simples sont les éléments de base de tout kanji. Voici les principaux traits simples que vous devez connaître pour débuter :
+
+[indent][code]
+一 (yī) [color=#008000](ligne horizontale)[/color]
+丨 (shù) [color=#008000](ligne verticale)[/color]
+丶 (zhǔ) [color=#008000](point ou tick léger)[/color]
+丿 (piě) [color=#008000](barre oblique à gauche)[/color]
+乙 / 乛 (yǐ / héngzhé) [color=#008000](crochet ou forme en crochet)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]一 (yī) signifie "un" en chinois et japonais.[/color][/i][/indent]
+
+[b]2. Combinaisons de Traits[/b]
+
+Les traits simples peuvent se combiner pour former des structures de base plus complexes. Comprendre ces combinaisons est crucial pour écrire des kanji de manière correcte.
+
+[indent][code]
+亠 (tóu) [color=#008000](couvercle)[/color]
+冂 (jiōng) [color=#008000](boîte ouverte, utilisé pour les encadrements)[/color]
+冖 (mì) [color=#008000](couverture)[/color]
+冫 (bīng) [color=#008000](glace)[/color]
+几 / 𠃌 (jī / piětǐ) [color=#008000](table ou support)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]冖 (mì) signifie "couverture" et est utilisé dans des kanji comme 冗 (rǒng), qui signifie "superflu".[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Ordre des Traits[/color][/font_size]
+
+L’ordre des traits est crucial pour écrire les kanji correctement. Voici des règles générales pour l’ordre des traits :
+
+[indent]• Écrivez de gauche à droite.
+[i]Exemple : [color=#0000FF]木 (mù, arbre)[/color] : [color=#FF0000]先左再右[/color] (xiān zuǒ zài yòu, d’abord gauche, ensuite droite).[/i]
+
+- Écrivez de haut en bas.
+[i]Exemple : [color=#0000FF]三 (sān, trois)[/color] : [color=#FF0000]先上再下[/color] (xiān shàng zài xià, d’abord haut, ensuite bas).[/i]
+
+- Les traits horizontaux sont écrits avant les traits verticaux.
+[i]Exemple : [color=#0000FF]十 (shí, dix)[/color] : [color=#FF0000]橫先於豎[/color] (héng xiān yú shù, horizontal avant vertical).[/i][/indent]
+
+[font_size=24][color=#4B0082]4. Les Points Clés pour Maîtriser les Traits[/color][/font_size]
+
+Pour écrire correctement les kanji, suivez ces conseils clés :
+
+[indent][color=#FF0000]1.[/color] Pratiquez régulièrement l’écriture des traits simples et des combinaisons de traits.
+[color=#FF0000]2.[/color] Respectez l’ordre des traits pour chaque kanji.
+[color=#FF0000]3.[/color] Utilisez des guides d’écriture pour vérifier vos progrès.
+[color=#FF0000]4.[/color] Soyez patient et persévérant dans votre apprentissage des kanji.
+[i]Exemple : [color=#0000FF]炎 (yán, flammes)[/color] comporte deux "火" (huǒ, feu) combinés, nécessitant une attention particulière à l’ordre des traits.[/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[center][font_size=18][color=#808080]正しい筆順で漢字を書くことが学習の成功の鍵です！(tadashii hitsujun de kanji o kaku koto ga gakushū no seikō no kagi desu!)[/color][/font_size][/center]

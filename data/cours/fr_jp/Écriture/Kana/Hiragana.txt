@@ -1,0 +1,127 @@
+[font_size=30][center][b][color=#0000FF]Les Hiragana en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les Hiragana (ひらがな) sont l'un des systèmes d'écriture syllabiques utilisés en japonais, principalement pour écrire les mots d'origine japonaise, les particules grammaticales et les terminaisons verbales. Apprendre les Hiragana est une étape cruciale pour maîtriser le japonais écrit.
+
+[font_size=24][color=#4B0082]1. Aperçu des Hiragana[/color][/font_size]
+
+Le tableau des Hiragana comprend 46 caractères de base, appelés "gana" (仮名), qui représentent chaque syllabe phonétique de la langue japonaise.
+
+[b]Les Hiragana de base[/b]
+[indent]Voici la liste des Hiragana de base avec leur prononciation.
+[code]
+あ (a) [color=#008000](a)[/color]
+い (i) [color=#008000](i)[/color]
+う (u) [color=#008000](u)[/color]
+え (e) [color=#008000](e)[/color]
+お (o) [color=#008000](o)[/color]
+か (ka) [color=#008000](ka)[/color]
+き (ki) [color=#008000](ki)[/color]
+く (ku) [color=#008000](ku)[/color]
+け (ke) [color=#008000](ke)[/color]
+こ (ko) [color=#008000](ko)[/color]
+さ (sa) [color=#008000](sa)[/color]
+し (shi) [color=#008000](shi)[/color]
+す (su) [color=#008000](su)[/color]
+せ (se) [color=#008000](se)[/color]
+そ (so) [color=#008000](so)[/color]
+た (ta) [color=#008000](ta)[/color]
+ち (chi) [color=#008000](chi)[/color]
+つ (tsu) [color=#008000](tsu)[/color]
+て (te) [color=#008000](te)[/color]
+と (to) [color=#008000](to)[/color]
+な (na) [color=#008000](na)[/color]
+に (ni) [color=#008000](ni)[/color]
+ぬ (nu) [color=#008000](nu)[/color]
+ね (ne) [color=#008000](ne)[/color]
+の (no) [color=#008000](no)[/color]
+は (ha) [color=#008000](ha)[/color]
+ひ (hi) [color=#008000](hi)[/color]
+ふ (fu) [color=#008000](fu)[/color]
+へ (he) [color=#008000](he)[/color]
+ほ (ho) [color=#008000](ho)[/color]
+ま (ma) [color=#008000](ma)[/color]
+み (mi) [color=#008000](mi)[/color]
+む (mu) [color=#008000](mu)[/color]
+め (me) [color=#008000](me)[/color]
+も (mo) [color=#008000](mo)[/color]
+や (ya) [color=#008000](ya)[/color]
+ゆ (yu) [color=#008000](yu)[/color]
+よ (yo) [color=#008000](yo)[/color]
+ら (ra) [color=#008000](ra)[/color]
+り (ri) [color=#008000](ri)[/color]
+る (ru) [color=#008000](ru)[/color]
+れ (re) [color=#008000](re)[/color]
+ろ (ro) [color=#008000](ro)[/color]
+わ (wa) [color=#008000](wa)[/color]
+を (wo) [color=#008000](wo)[/color]
+ん (n) [color=#008000](n)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]こんにちは。[font_size=18pt](Konnichiwa.)[/font_size][/color] [color=#008000](Bonjour.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les diacritiques et combinaisons des Hiragana[/color][/font_size]
+
+Les diacritiques et les combinaisons permettent de créer d'autres sons à partir des Hiragana de base. Il existe deux types principaux de diacritiques : les dakuten (濁点) et les handakuten (半濁点).
+
+[b]Dakuten[/b]
+[indent]Les dakuten (") transforment les sons par la "voix" (voiced sound).
+[code]
+が (ga), ぎ (gi), ぐ (gu), げ (ge), ご (go)
+ざ (za), じ (ji), ず (zu), ぜ (ze), ぞ (zo)
+だ (da), ぢ (ji), づ (zu), で (de), ど (do)
+ば (ba), び (bi), ぶ (bu), べ (be), ぼ (bo)
+[/code]
+
+[i]Exemple : [color=#0000FF]がっこう。[font_size=18pt](Gakkou.)[/font_size][/color] [color=#008000](École.)[/color][/i][/indent]
+
+[b]Handakuten[/b]
+[indent]Les handakuten (°) transforment les sons en "p" (plosive sound).
+[code]
+ぱ (pa), ぴ (pi), ぷ (pu), ぺ (pe), ぽ (po)
+[/code]
+
+[i]Exemple : [color=#0000FF]ぱん。[font_size=18pt](Pan.)[/font_size][/color] [color=#008000](Pain.)[/color][/i][/indent]
+
+[b]Combinaisons de Hiragana[/b]
+[indent]Les petits caractères ゃ (ya), ゅ (yu), et ょ (yo) peuvent être combinés avec d'autres Hiragana pour former des sons combinés :
+[code]
+きゃ (kya), きゅ (kyu), きょ (kyo)
+しゃ (sha), しゅ (shu), しょ (sho)
+ちゃ (cha), ちゅ (chu), ちょ (cho)
+にゃ (nya), にゅ (nyu), にょ (nyo)
+ひゃ (hya), ひゅ (hyu), ひょ (hyo)
+みゃ (mya), みゅ (myu), みょ (myo)
+りゃ (rya), りゅ (ryu), りょ (ryo)
+ぎゃ (gya), ぎゅ (gyu), ぎょ (gyo)
+じゃ (ja), じゅ (ju), じょ (jo)
+びゃ (bya), びゅ (byu), びょ (byo)
+ぴゃ (pya), ぴゅ (pyu), ぴょ (pyo)
+[/code]
+
+[i]Exemple : [color=#0000FF]きょう。[font_size=18pt](Kyou.)[/font_size][/color] [color=#008000](Aujourd'hui.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Pratique et mémorisation[/color][/font_size]
+
+Apprendre les Hiragana nécessite de la pratique régulière et l'utilisation de différentes méthodes pour les mémoriser efficacement. Voici quelques conseils pour vous aider.
+
+[indent]• Utilisez des cartes mémoire pour chaque Hiragana et leur prononciation.
+[i]Exemple : [color=#0000FF]あ (a) - Une carte avec ce caractère d'un côté et sa prononciation/l'image correspondante de l'autre.[/color][/i]
+
+- Pratiquez l'écriture pour renforcer la mémorisation des formes.
+[i]Exemple : [color=#0000FF]毎日5回ずつ書く。[font_size=18pt](Mainichi 5-kai zutsu kaku.)[/font_size][/color] [color=#008000](Écrire chaque caractère 5 fois par jour.)[/color][/i]
+
+- Utilisez des applications et des jeux pour rendre l'apprentissage amusant.
+[i]Exemple : [color=#0000FF]Essayez des applications dédiées à la pratique des Hiragana comme "Anki" ou "LingoDeer".[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les Hiragana sont un des systèmes d'écriture de base du japonais, constitué de 46 caractères essentiels.
+[color=#FF0000]2.[/color] Les diacritiques dakuten et handakuten transforment les sons des Hiragana de base.
+[color=#FF0000]3.[/color] Les combinaisons de Hiragana créent des sons supplémentaires et sont couramment utilisées dans le japonais écrit.
+[color=#FF0000]4.[/color] La pratique régulière et multiméthode est essentielle pour maîtriser les Hiragana.[/indent]
+
+[center][font_size=18][color=#808080]頑張って勉強してね！(Ganbatte benkyou shite ne!)[/color] [color=#008000](Étudiez bien et bonne chance !)[/color][/font_size][/center]

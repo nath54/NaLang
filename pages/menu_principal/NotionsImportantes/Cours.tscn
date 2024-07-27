@@ -1,8 +1,11 @@
-[gd_scene load_steps=5 format=3 uid="uid://ctmsybx8hsmrm"]
+[gd_scene load_steps=8 format=3 uid="uid://ctmsybx8hsmrm"]
 
 [ext_resource type="Script" path="res://pages/menu_principal/NotionsImportantes/Cours.gd" id="1_15o7o"]
 [ext_resource type="FontFile" uid="uid://d4ccl5aysy53m" path="res://res/Merriweather/Merriweather-Bold.ttf" id="2_t0v1v"]
 [ext_resource type="PackedScene" uid="uid://v5vu3snk6ao5" path="res://pages/menu_principal/NotionsImportantes/ButtonDirectory.tscn" id="3_blc0g"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="4_8p5yh"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="5_trt75"]
+[ext_resource type="FontFile" uid="uid://b4lyjsycmvjsi" path="res://res/Merriweather/Merriweather-BoldItalic.ttf" id="6_eq7s0"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_aest7"]
 font = ExtResource("2_t0v1v")
@@ -106,6 +109,10 @@ theme_override_colors/table_even_row_bg = Color(0.827451, 0.690196, 0.796078, 1)
 theme_override_constants/line_separation = 5
 theme_override_constants/table_h_separation = 5
 theme_override_constants/table_v_separation = 5
+theme_override_fonts/normal_font = ExtResource("4_8p5yh")
+theme_override_fonts/bold_font = ExtResource("2_t0v1v")
+theme_override_fonts/italics_font = ExtResource("5_trt75")
+theme_override_fonts/bold_italics_font = ExtResource("6_eq7s0")
 bbcode_enabled = true
 text = "
 [font_size=30][center][b]Le présent de l'indicatif[/b][/center][/font_size]

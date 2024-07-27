@@ -1,0 +1,69 @@
+[font_size=30][center][b][color=#0000FF]Les Kanji du JLPT N2[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le JLPT (Japanese Language Proficiency Test) est un examen de langue japonaise qui évalue les compétences linguistiques des apprenants. Le niveau N2 du JLPT est le second niveau le plus élevé. Il exige une bonne maîtrise des kanji (caractères chinois utilisés en japonais) ainsi qu'une solide compréhension de la grammaire et du vocabulaire japonais. Dans cette leçon, nous nous concentrerons sur une sélection de kanjis couramment rencontrés au niveau N2.
+
+[font_size=24][color=#4B0082]1. Introduction aux Kanji N2[/color][/font_size]
+
+Les kanji N2 sont souvent utilisés dans les journaux, la littérature et les médias japonais. Maîtriser ces kanji est essentiel pour comprendre les textes de niveau intermédiaire à avancé. Voici une liste de quelques kanji importants à ce niveau :
+
+[b]a) Exemples de Kanji Courants[/b]
+[indent]Voici une sélection de kanji que vous devez connaître pour le niveau N2, accompagnés de leurs significations et prononciations :
+[code]
+漢 (kan) [color=#008000](chinois)[/color]
+字 (ji) [color=#008000](caractère, lettre)[/color]
+動 (dō) [color=#008000](mouvement)[/color]
+物 (butsu, mono) [color=#008000](objet, chose)[/color]
+主 (shu, nushi) [color=#008000](principal, maître)[/color]
+意 (i) [color=#008000](intention, signification)[/color]
+味 (mi, aji) [color=#008000](goût)[/color]
+直 (choku, jiki, nao) [color=#008000](droit, direct, réparer)[/color]
+機 (ki, hata) [color=#008000](machine, occasion)[/color]
+関 (kan, seki) [color=#008000](barrière, connexion)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]漢字を勉強しています。[font_size=18pt](Kanji o benkyō shiteimasu.)[/font_size][/color] [color=#008000](J'étudie les kanji.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Structures de Kanji Complexes[/color][/font_size]
+
+Les kanji peuvent être combinés pour former des mots composés, ce qui est fréquent au niveau N2. Comprendre comment ces kanji s'associent vous permettra d'élargir votre vocabulaire.
+
+[b]a) Combinaisons de Kanji[/b]
+[indent]Voici des exemples de mots composés (composés de deux kanji ou plus) que vous pourriez rencontrer :
+[code]
+意見 (iken) [color=#008000](opinion)[/color]
+動物 (dōbutsu) [color=#008000](animal)[/color]
+意味 (imi) [color=#008000](signification)[/color]
+関係 (kankei) [color=#008000](relation, connexion)[/color]
+機械 (kikai) [color=#008000](machine)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼の意見はとても興味深い。[font_size=18pt](Kare no iken wa totemo kyōmibukai.)[/font_size][/color] [color=#008000](Son opinion est très intéressante.)[/color][/i][/indent]
+
+[b]b) Kanji Compostés : Règles et Variations[/b]
+[indent]Pour comprendre et retenir les kanji composés, il est utile de connaître certaines règles générales :
+[indent]• Les caractères ont souvent une lecture kun'yomi (natif japonais) et on'yomi (lecture sino-japonaise).[/indent]
+[indent]• Les mots composés utilisent principalement la lecture on'yomi.[/indent]
+[i]Exemple : [color=#0000FF]動物園 (dōbutsu-en) [font_size=18pt](zoo)[/font_size][/color] ([color=#008000](dō)[/color] [mouvement] + [color=#008000](butsu)[/color] [objet] + [color=#008000](en)[/color] [jardin])[/i][/indent]
+
+[font_size=24][color=#4B0082]3. Conseils pour Apprendre les Kanji[/color][/font_size]
+
+Apprendre les kanji peut être un défi, mais avec les bonnes techniques et une pratique régulière, vous pouvez les maîtriser :
+
+[indent]• Utilisez des cartes mémoire pour mémoriser les kanji et leurs significations.
+• Pratiquez l'écriture des kanji pour vous familiariser avec leur structure.
+• Lisez régulièrement des textes en japonais pour voir les kanji en contexte.
+• Associez chaque kanji à des mots composés pour mieux comprendre leur utilisation.
+• N'oubliez pas la lecture (on'yomi et kun'yomi) et la prononciation correcte de chaque kanji.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les kanji du niveau N2 sont essentiels pour comprendre les textes intermédiaires à avancés.
+[color=#FF0000]2.[/color] Les combinaisons de kanji permettent de former de nombreux mots utiles.
+[color=#FF0000]3.[/color] Pratiquez régulièrement pour améliorer votre compréhension et votre mémoire des kanji.
+[/indent]
+
+[center][font_size=18][color=#808080]がんばって漢字を習得してください！(Ganbatte kanji o shūtoku shite kudasai!)[/color][/font_size][/center]

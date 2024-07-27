@@ -1,0 +1,90 @@
+[font_size=30][center][b][color=#0000FF]Les Phrases Conditionnelles en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les phrases conditionnelles en japonais permettent de décrire des situations hypothétiques ou des conséquences possibles d'une action. Elles sont essentielles pour rendre vos conversations en japonais plus nuancées et précises. La structure des phrases conditionnelles en japonais peut sembler complexe, mais avec de la pratique, vous maîtriserez ces constructions essentielles.
+
+[font_size=24][color=#4B0082]1. Structure de base des phrases conditionnelles[/color][/font_size]
+
+Il existe plusieurs manières de former des phrases conditionnelles en japonais. Voici les plus courantes : と (to), ば (ba), たら (tara), et なら (nara).
+
+[b]a) Conditionnelle avec と (to)[/b]
+[indent]La particule と (to) est utilisée pour indiquer qu'une action entraîne toujours une certaine conséquence. La phrase peut être traduite par "si" ou "lorsque".
+
+[code]
+雨と (ame to) [color=#008000](s'il pleut, lorsque il pleut)[/color]
+風が吹くと (kaze ga fuku to) [color=#008000](s'il y a du vent, lorsque le vent souffle)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]雨が降ると、試合は中止になります。[font_size=18pt](Ame ga furu to, shiai wa chūshi ni narimasu.)[/font_size][/color] [color=#008000](S'il pleut, le match sera annulé.)[/color][/i][/indent]
+
+[b]b) Conditionnelle avec ば (ba)[/b]
+[indent]La forme en ば (ba) est utilisée pour exprimer une condition nécessaire pour que quelque chose se produise.
+
+[code]
+勉強すれば (benkyō sureba) [color=#008000](si j'étudie)[/color]
+飲めば (nomeba) [color=#008000](si je bois)[/color]
+行けば (ikeba) [color=#008000](si je vais)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]もっと勉強すれば、試験に合格できます。[font_size=18pt](Motto benkyō sureba, shiken ni gōkaku dekimasu.)[/font_size][/color] [color=#008000](Si j'étudie plus, je pourrai réussir l'examen.)[/color][/i][/indent]
+
+[b]c) Conditionnelle avec たら (tara)[/b]
+[indent]たら (tara) est utilisé pour indiquer une condition qui résulte en une certaine conséquence. Elle peut aussi exprimer quelque chose de plus hypothétique ou futur.
+
+[code]
+帰ったら (kaettara) [color=#008000](si je rentre)[/color]
+終わったら (owattara) [color=#008000](si c'est fini)[/color]
+雨が降ったら (ame ga futtara) [color=#008000](s'il pleut)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]雨が降ったら、出かけません。[font_size=18pt](Ame ga futtara, dekakemasen.)[/font_size][/color] [color=#008000](S'il pleut, je ne sortirai pas.)[/color][/i][/indent]
+
+[b]d) Conditionnelle avec なら (nara)[/b]
+[indent]なら (nara) est utilisé pour suggérer que si une certaine condition est remplie, quelque chose se produira en conséquence. Cette forme est souvent utilisée pour donner des conseils ou faire des propositions.
+
+[code]
+あなたが行くなら (anata ga iku nara) [color=#008000](si tu y vas)[/color]
+時間があるなら (jikan ga aru nara) [color=#008000](si tu as le temps)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]あなたが行くなら、私も行きます。[font_size=18pt](Anata ga iku nara, watashi mo ikimasu.)[/font_size][/color] [color=#008000](Si tu y vas, j'irai aussi.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Différences entre les formes conditionnelles[/color][/font_size]
+
+Les différentes formes de conditionnelles en japonais appliquent des nuances qui peuvent ajouter de la précision à vos phrases. Voici quelques-uns des aspects à considérer :
+
+[indent]• と (to) est souvent utilisé pour des conditions incontournables ou des vérités générales.
+[i]Exemple : [color=#0000FF]火がつくと、煙が上がる。[font_size=18pt](Hi ga tsuku to, kemuri ga agaru.)[/font_size][/color] [color=#008000](Là où il y a du feu, il y a de la fumée.)[/color][/i]
+
+- ば (ba) exprime souvent des conditions nécessaires ou des conseils.
+[i]Exemple : [color=#0000FF]頑張れば、成功するよ。[font_size=18pt](Ganbareba, seikō suru yo.)[/font_size][/color] [color=#008000](Si tu fais des efforts, tu réussiras.)[/color][/i]
+
+- たら (tara) est plus flexible et peut être utilisé pour des hypothèses futures.
+[i]Exemple : [color=#0000FF]映画が終わったら、食事に行こう。[font_size=18pt](Eiga ga owattara, shokuji ni ikou.)[/font_size][/color] [color=#008000](Quand le film sera fini, allons manger.)[/color][/i]
+
+- なら (nara) est souvent utilisé pour des suggestions ou des propositions basées sur une condition.
+[i]Exemple : [color=#0000FF]駅に近いなら、便利ですね。[font_size=18pt](Eki ni chikai nara, benri desu ne.)[/font_size][/color] [color=#008000](Si c'est près de la gare, c'est pratique, n'est-ce pas ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisation des phrases conditionnelles en contexte[/color][/font_size]
+
+Les phrases conditionnelles sont couramment utilisées dans la vie quotidienne japonaise pour toutes sortes de situations, que ce soit pour donner des conseils, exprimer des conditions ou parler de conséquences futures.
+
+[indent]• Conseil ou suggestion :
+[i]Exemple : [color=#0000FF]疲れたら、少し休んでください。[font_size=18pt](Tsukaretara, sukoshi yasunde kudasai.)[/font_size][/color] [color=#008000](Si vous êtes fatigué, reposez-vous un peu.)[/color][/i]
+
+- Expressions des conséquences :
+[i]Exemple : [color=#0000FF]食べすぎると、お腹が痛くなります。[font_size=18pt](Tabesugiru to, onaka ga itaku narimasu.)[/font_size][/color] [color=#008000](Si vous mangez trop, vous aurez mal à l'estomac.)[/color][/i]
+
+- Plans futurs :
+[i]Exemple : [color=#0000FF]雨が止んだら、公園に行こう。[font_size=18pt](Ame ga yandara, kōen ni ikou.)[/font_size][/color] [color=#008000](Quand la pluie cessera, allons au parc.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les phrases conditionnelles en japonais permettent de décrire des situations hypothétiques ou des conséquences.
+[color=#FF0000]2.[/color] Chaque forme conditionnelle (と, ば, たら, なら) a des usages spécifiques et des nuances.
+[color=#FF0000]3.[/color] Comprendre le contexte d'utilisation de chaque forme conditionnelle est essentiel pour une communication fluide et naturelle.[/indent]
+
+[center][font_size=18][color=#808080]適切に条件文を使って、あなたの日本語を一層豊かにしましょう！(tekisetsu ni jōkenbun o tsukatte, anata no nihongo o issō yutaka ni shimashou!)[/color][/font_size][/center]

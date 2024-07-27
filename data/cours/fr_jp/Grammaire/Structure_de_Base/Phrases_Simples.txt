@@ -1,0 +1,60 @@
+[font_size=30][center][b][color=#0000FF]Les Phrases Simples en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Pour commencer à apprendre le japonais, il est essentiel de comprendre comment former des phrases simples. Ces phrases vous permettront de vous exprimer de manière basique et de comprendre des conversations simples. La structure des phrases en japonais suit généralement l'ordre Sujet-Objet-Verbe (SOV).
+
+[font_size=24][color=#4B0082]1. Structure de base des phrases simples[/color][/font_size]
+
+En japonais, la structure de base d'une phrase simple est assez différente de celle du français. Voici les éléments essentiels à connaître :
+
+[b]a) Sujet-Objet-Verbe (SOV)[/b]
+[indent]En japonais, le verbe se place toujours en fin de phrase. Voici des exemples de phrases simples avec la structure SOV :
+[code]
+猫が魚を食べます。[color=#008000](Neko ga sakana o tabemasu.)[/color] [color=#008000](Le chat mange du poisson.)[/color]
+私は本を読みます。[color=#008000](Watashi wa hon o yomimasu.)[/color] [color=#008000](Je lis un livre.)[/color]
+彼は水を飲みます。[color=#008000](Kare wa mizu o nomimasu.)[/color] [color=#008000](Il boit de l'eau.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]犬は公園を走ります。[font_size=18pt](Inu wa kouen o hashirimasu.)[/font_size][/color] [color=#008000](Le chien court dans le parc.)[/color][/i][/indent]
+
+[b]b) Les particules "は" (wa) et "を" (o)[/b]
+[indent]Les particules sont des éléments grammaticaux qui suivent les mots pour indiquer leur fonction dans la phrase. Le japonais utilise souvent les particules "は" (wa) pour marquer le sujet et "を" (o) pour marquer l'objet direct.
+[code]
+私はリンゴを食べます。[color=#008000](Watashi wa ringo o tabemasu.)[/color] [color=#008000](Je mange une pomme.)[/color]
+彼女は歌を歌います。[color=#008000](Kanojo wa uta o utaimasu.)[/color] [color=#008000](Elle chante une chanson.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は車を運転します。[font_size=18pt](Kare wa kuruma o untenshimasu.)[/font_size][/color] [color=#008000](Il conduit une voiture.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les adjectifs et la négation[/color][/font_size]
+
+En japonais, les adjectifs peuvent se placer avant les noms qu'ils décrivent. La négation des verbes se fait généralement en ajoutant "ません" (masen) à la fin du verbe.
+
+[indent]• Adjectifs avant les noms
+[i]Exemple : [color=#0000FF]美しい花があります。[font_size=18pt](Utsukushii hana ga arimasu.)[/font_size][/color] [color=#008000](Il y a une belle fleur.)[/color][/i]
+
+- Négation des verbes
+[i]Exemple : [color=#0000FF]私は本を読みません。[font_size=18pt](Watashi wa hon o yomimasen.)[/font_size][/color] [color=#008000](Je ne lis pas de livre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les phrases interrogatives[/color][/font_size]
+
+Pour poser des questions en japonais, il suffit généralement d’ajouter "か" (ka) à la fin de la phrase. 
+
+[indent]• Formation des questions
+[i]Exemple : [color=#0000FF]あなたは学生ですか？[font_size=18pt](Anata wa gakusei desu ka?)[/font_size][/color] [color=#008000](Es-tu étudiant ?)[/color][/i]
+
+- Exemple avec objet
+[i]Exemple : [color=#0000FF]彼は肉を食べますか？[font_size=18pt](Kare wa niku o tabemasu ka?)[/font_size][/color] [color=#008000](Mange-t-il de la viande ?)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La structure de la phrase japonaise suit généralement l'ordre Sujet-Objet-Verbe (SOV).
+[color=#FF0000]2.[/color] Les particules "は" (wa) et "を" (o) sont essentielles pour identifier le sujet et l'objet dans la phrase.
+[color=#FF0000]3.[/color] Les adjectifs se placent avant les noms qu'ils décrivent.
+[color=#FF0000]4.[/color] Pour former des questions, ajoutez "か" (ka) à la fin de la phrase.
+[color=#FF0000]5.[/color] La négation des verbes se fait en ajoutant "ません" (masen) à la fin du verbe.[/indent]
+
+[center][font_size=18][color=#808080]基本的な日本語の文法を学んで、あなたの日本語力を高めましょう！(Kihontekina nihongo no bunpou o manande, anata no nihongoryoku o takamemashou!)[/color][/font_size][/center]

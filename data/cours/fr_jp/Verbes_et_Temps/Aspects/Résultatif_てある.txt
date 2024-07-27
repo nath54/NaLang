@@ -1,0 +1,68 @@
+[font_size=30][center][b][color=#0000FF]L'Aspect Résultatif en Japonais avec てある (te aru)[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'aspect résultatif en japonais permet d'indiquer qu'une action a été réalisée et que son résultat persiste dans le présent. Cela se fait souvent en utilisant la forme てある (te aru). Cela est particulièrement utile pour décrire l'état actuel résultant d'une action passée.
+
+[font_size=24][color=#4B0082]1. Structure et Utilisation de てある (te aru)[/color][/font_size]
+
+Pour former une phrase en utilisant てある (te aru), on utilise une construction spécifique :
+
+[b]a) Formation de base[/b]
+[indent]- Forme verbale en て (te) + ある (aru)
+[code]
+テーブルの上に本が置いてある (Tēburu no ue ni hon ga oite aru) [color=#008000](Il y a un livre posé sur la table.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]玄関の前に靴が並べてある。[font_size=18pt](Genkan no mae ni kutsu ga narabete aru.)[/font_size][/color] [color=#008000](Les chaussures sont alignées devant l'entrée.)[/color][/i][/indent]
+
+[b]b) Contextes d'utilisation[/b]
+[indent]- Utilisez cette forme pour montrer que quelque chose a été fait et que son effet persiste.
+[code]
+窓が開けてある (Mado ga akete aru) [color=#008000](La fenêtre est ouverte (et elle est toujours ouverte).)[/color]
+絵が壁に掛けてある (E ga kabe ni kakete aru) [color=#008000](Un tableau est accroché au mur (et il y est toujours accroché).)[/color]
+食べ物がテーブルに置いてある (Tabemono ga tēburu ni oite aru) [color=#008000](La nourriture est posée sur la table (et elle y est toujours).)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]庭に花が植えてある。[font_size=18pt](Niwa ni hana ga uete aru.)[/font_size][/color] [color=#008000](Les fleurs sont plantées dans le jardin (et elles y sont encore).)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Différence entre てある (te aru) et ている (te iru)[/color][/font_size]
+
+Il est important de distinguer てある (te aru) de ている (te iru). Alors que ている (te iru) indique une action en cours ou un état actuel, てある (te aru) met l'accent sur le résultat d'une action passée qui est encore visible dans le présent.
+
+[indent][b]a) ている (te iru)[/b]
+[code]
+ドアが開いている (Doa ga aite iru) [color=#008000](La porte est ouverte (état actuel).)[/color]
+彼は本を読んでいる (Kare wa hon o yonde iru) [color=#008000](Il est en train de lire un livre.)[/color]
+[/code]
+
+[b]b) てある (te aru)[/b]
+[code]
+ドアが開けてある (Doa ga akete aru) [color=#008000](La porte est ouverte (par quelqu'un et elle est toujours ouverte).)[/color]
+本が読んであった (Hon ga yonde atta) [color=#008000](Le livre a été lu (et il est toujours dans l'état lu).)[/color]
+[/code]
+[/indent]
+
+[font_size=24][color=#4B0082]3. Exemples Pratiques[/color][/font_size]
+
+Voici quelques exemples pratiques pour illustrer l'utilisation de てある (te aru) :
+
+[indent]• Commandes et tâches complétées
+[i]Exemple : [color=#0000FF]買い物リストが書いてある。[font_size=18pt](Kaimono risuto ga kaite aru.)[/font_size][/color] [color=#008000](La liste de courses est écrite.)[/color][/i]
+
+• États résultants dans la maison
+[i]Exemple : [color=#0000FF]掃除機がかけてある。[font_size=18pt](Sōjiki ga kakete aru.)[/font_size][/color] [color=#008000](L'aspirateur est passé (et le sol est propre).)[/color][/i]
+
+• Préparations pour un événement
+[i]Exemple : [color=#0000FF]会議室が準備してある。[font_size=18pt](Kaigishitsu ga junbi shite aru.)[/font_size][/color] [color=#008000](La salle de réunion est préparée.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] てある (te aru) est utilisé pour indiquer que le résultat d'une action passée se prolonge dans le présent.
+[color=#FF0000]2.[/color] Il se forme en utilisant la forme verbale en て (te) + ある (aru).
+[color=#FF0000]3.[/color] Il y a une distinction importante entre てある (te aru) et ている (te iru) à noter pour bien les utiliser.
+[color=#FF0000]4.[/color] Utilisez てある (te aru) pour décrire des états résultants et des actions complétées ayant des effets visibles.[/indent]
+
+[center][font_size=18][color=#808080]正しく「てある」を使いこなして、日本語の表現力を高めましょう！(Tadashiku "te aru" o tsukaikona shite, nihongo no hyōgen-ryoku o takame mashou!)[/color][/font_size][/center]

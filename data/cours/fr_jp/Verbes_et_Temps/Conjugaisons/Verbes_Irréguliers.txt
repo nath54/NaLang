@@ -1,0 +1,73 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes Irréguliers en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes irréguliers en japonais constituent une catégorie spéciale de verbes qui ne suivent pas les règles de conjugaison standards. Bien qu'ils soient peu nombreux, leur maîtrise est essentielle pour parler et comprendre le japonais couramment.
+
+[font_size=24][color=#4B0082]1. Les verbes irréguliers les plus courants[/color][/font_size]
+
+Il y a principalement deux verbes irréguliers en japonais auxquels il faut prêter attention : する (suru) qui signifie "faire" et 来る (kuru) qui signifie "venir". Ces deux verbes sont fréquemment utilisés et ont des conjugaisons particulières.
+
+[b]a) Faire : する (suru)[/b]
+[indent]Ce verbe est très polyvalent et apparaît souvent dans des expressions composées. Voici ses conjugaisons sous plusieurs formes courantes :
+[code]
+Forme de base (présent) : する (suru)
+Forme polie (présent) : します (shimasu)
+Forme négative : しない (shinai)
+Passé : した (shita)
+Passé poli : しました (shimashita)
+Passé négatif : しなかった (shinakatta)
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は宿題をします。[font_size=18pt](Kare wa shukudai o shimasu.)[/font_size][/color] [color=#008000](Il fait ses devoirs.)[/color][/i][/indent]
+
+[b]b) Venir : 来る (kuru)[/b]
+[indent]Ce verbe est tout aussi important et voici ses principales conjugaisons :
+[code]
+Forme de base (présent) : 来る (kuru)
+Forme polie (présent) : 来ます (kimasu)
+Forme négative : 来ない (konai)
+Passé : 来た (kita)
+Passé poli : 来ました (kimashita)
+Passé négatif : 来なかった (konakatta)
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は家に来ました。[font_size=18pt](Kare wa ie ni kimashita.)[/font_size][/color] [color=#008000](Il est venu à la maison.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation et conjugaison des verbes irréguliers[/color][/font_size]
+
+Les verbes irréguliers する et 来る sont indispensables. Il est crucial de savoir les conjuguer correctement selon le contexte.
+
+[indent]• する (suru) s'utilise souvent avec des noms pour former des expressions composées :
+[i]Exemple : [color=#0000FF]テニスをする。[font_size=18pt](Tenisu o suru.)[/font_size][/color] [color=#008000](Jouer au tennis.)[/color][/i]
+
+- 来る (kuru) est utilisé pour indiquer le fait de venir vers un lieu spécifique :
+[i]Exemple : [color=#0000FF]電車が来る。[font_size=18pt](Densha ga kuru.)[/font_size][/color] [color=#008000](Le train arrive.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Autres verbes irréguliers[/color][/font_size]
+
+En plus de する et 来る, il existe quelques autres verbes irréguliers moins fréquents mais tout aussi importants, tels que 行く (iku) signifiant "aller".
+
+[b]c) Aller : 行く (iku)[/b]
+[indent]Le verbe 行く (iku) a des variations légèrement irrégulières :
+[code]
+Forme de base (présent) : 行く (iku)
+Forme polie (présent) : 行きます (ikimasu)
+Forme négative : 行かない (ikanai)
+Passé : 行った (itta)
+Passé poli : 行きました (ikimashita)
+Passé négatif : 行かなかった (ikanakatta)
+[/code]
+
+[i]Exemple : [color=#0000FF]彼女は学校に行きます。[font_size=18pt](Kanojo wa gakkou ni ikimasu.)[/font_size][/color] [color=#008000](Elle va à l'école.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes irréguliers, bien que peu nombreux, sont essentiels en japonais.
+[color=#FF0000]2.[/color] する (suru) et 来る (kuru) sont les plus fréquents et doivent être maîtrisés dans différentes formes.
+[color=#FF0000]3.[/color] 行く (iku), bien que légèrement irrégulier, est également important.
+[color=#FF0000]4.[/color] La pratique régulière des conjugaisons aidera à utiliser ces verbes de manière fluide et correcte.[/indent]
+
+[center][font_size=18][color=#808080]練習して不規則動詞を自然に使えるようになりましょう！(renishū shite fukisoku dōshi o shizen ni tsukaeru yō ni narimashō!)[/color][/font_size][/center]

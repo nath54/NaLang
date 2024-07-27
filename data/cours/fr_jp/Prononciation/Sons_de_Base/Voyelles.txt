@@ -1,0 +1,61 @@
+[font_size=30][center][b][color=#0000FF]Les Voyelles en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En japonais, il y a cinq voyelles de base que vous devez absolument maîtriser pour améliorer votre prononciation et compréhension orale. Ces voyelles sont simples et claires, et il est essentiel de les prononcer correctement pour éviter les malentendus.
+
+[font_size=24][color=#4B0082]1. Les cinq voyelles de base[/color][/font_size]
+
+Voici les cinq voyelles en japonais avec leur transcription romaji (alphabet latin) et leur prononciation:
+
+[indent][code]
+あ (a) [color=#008000](prononcé comme le "a" dans "chat")[/color]
+い (i) [color=#008000](prononcé comme le "i" dans "vite")[/color]
+う (u) [color=#008000](prononcé comme le "ou" dans "fou")[/color]
+え (e) [color=#008000](prononcé comme le "é" dans "été")[/color]
+お (o) [color=#008000](prononcé comme le "o" dans "mot")[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]あい (ai) [font_size=18pt][/color] [color=#008000](amour)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Prononciation et astuces[/color][/font_size]
+
+La prononciation des voyelles japonaises est généralement plus courte et plus nette que celle des voyelles françaises. Voici quelques astuces pour vous aider à les prononcer correctement:
+
+[indent]• [b]あ (a)[/b] : Gardez la bouche ouverte et détendue, comme pour dire "ah".
+[i]Exemple : [color=#0000FF]ありがとう (arigatou) [font_size=18pt][/color] [color=#008000](merci)[/color][/i]
+
+- [b]い (i)[/b] : La bouche est légèrement étirée sur les côtés, comme pour dire "ee".
+[i]Exemple : [color=#0000FF]いきます (ikimasu) [font_size=18pt][/color] [color=#008000](aller)[/color][/i]
+
+- [b]う (u)[/b] : Les lèvres sont arrondies, comme pour dire "ou".
+[i]Exemple : [color=#0000FF]すごい (sugoi) [font_size=18pt][/color] [color=#008000](incroyable)[/color][/i]
+
+- [b]え (e)[/b] : La bouche est légèrement ouverte, comme pour dire "é" dans "été".
+[i]Exemple : [color=#0000FF]えき (eki) [font_size=18pt][/color] [color=#008000](gare)[/color][/i]
+
+- [b]お (o)[/b] : Les lèvres sont arrondies mais moins tendues que pour "u".
+[i]Exemple : [color=#0000FF]おはよう (ohayou) [font_size=18pt][/color] [color=#008000](bonjour)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Combinaisons et allongements[/color][/font_size]
+
+Les voyelles peuvent également se combiner ou être allongées. Dans ce cas, la prononciation change légèrement:
+
+[indent]• Le doublement des voyelles pour les allonger :
+[i]Exemple : [color=#0000FF]おじいさん (ojiisan) [font_size=18pt][/color] [color=#008000](grand-père)[/color][/i]
+
+- Combinaisons avec "i" ou "u" :
+[i]Exemple : [color=#0000FF]せんせい (sensei) [font_size=18pt][/color] [color=#008000](professeur)[/color][/i]
+
+[indent]Autre exemple : [color=#0000FF]ゆうびんきょく (yuubinkyoku) [font_size=18pt][/color] [color=#008000](bureau de poste)[/color][/indent][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Il y a cinq voyelles de base en japonais : [b]あ (a), い (i), う (u), え (e), お (o).[/b]
+[color=#FF0000]2.[/color] Chaque voyelle a une prononciation spécifique et courte.
+[color=#FF0000]3.[/color] Les voyelles peuvent être allongées ou combinées avec d'autres voyelles.
+[color=#FF0000]4.[/color] Maîtriser la prononciation correcte des voyelles est essentiel pour une bonne communication en japonais.[/indent]
+
+[center][font_size=18][color=#808080]音声ガイドを使って練習し、完璧な発音を目指しましょう！(onsei gaido o tsukatte renshuu shi, kanpeki na hatsuon o mezashimashou!)[/color][/font_size][/center]

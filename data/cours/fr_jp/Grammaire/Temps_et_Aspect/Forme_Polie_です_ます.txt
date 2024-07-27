@@ -1,0 +1,72 @@
+[font_size=30][center][b][color=#0000FF]La Forme Polie en Japonais : です (desu) et ます (masu)[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En japonais, la forme polie est essentielle pour des interactions quotidiennes courtoises. Deux des constructions les plus couramment utilisées pour exprimer la politesse sont "です" (desu) et "ます" (masu). Cette leçon vous aidera à comprendre leur utilisation et leur conjugaison.
+
+[font_size=24][color=#4B0082]1. Utilisation de です (desu)[/color][/font_size]
+
+"です" (desu) est une copule utilisée pour faire une déclaration polie, similaire à l'équivalent du verbe "to be" en anglais. Elle est fréquemment utilisée pour décrire des états, des identités ou des propriétés.
+
+[b]a) Forme de base[/b]
+[indent]La forme de base se compose d'un nom ou d'un adjectif nominal suivi de "です" (desu).
+[code]
+これは本です。(Kore wa hon desu.) [color=#008000](Ceci est un livre.)[/color]
+私は学生です。(Watashi wa gakusei desu.) [color=#008000](Je suis étudiant(e).)[/color]
+彼は元気です。(Kare wa genki desu.) [color=#008000](Il est en bonne santé.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de ます (masu)[/color][/font_size]
+
+"ます" (masu) est ajouté à la base verbale pour créer une forme polie des verbes. Contrairement à "です" (desu), qui suit les noms et les adjectifs, "ます" (masu) conjugue les verbes.
+
+[b]a) Présent affirmatif[/b]
+[indent]Ajoutez "ます" (masu) à la base verbale pour exprimer une action présente ou future polie.
+[code]
+書きます (kakimasu) [color=#008000](écrire)[/color]
+食べます (tabemasu) [color=#008000](manger)[/color]
+行きます (ikimasu) [color=#008000](aller)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]私は寿司を食べます。[font_size=18pt](Watashi wa sushi o tabemasu.)[/font_size][/color] [color=#008000](Je mange des sushis.)[/color][/i][/indent]
+
+[b]b) Présent négatif[/b]
+[indent]Pour la forme négative, ajoutez "ません" (masen) à la base verbale.
+[code]
+書きません (kakimasen) [color=#008000](ne pas écrire)[/color]
+食べません (tabemasen) [color=#008000](ne pas manger)[/color]
+行きません (ikimasen) [color=#008000](ne pas aller)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は学校へ行きません。[font_size=18pt](Kare wa gakkō e ikimasen.)[/font_size][/color] [color=#008000](Il ne va pas à l'école.)[/color][/i][/indent]
+
+[b]c) Passé affirmatif[/b]
+[indent]Pour exprimer une action passée, utilisez "ました" (mashita) après la base verbale.
+[code]
+書きました (kakimashita) [color=#008000](écrit)[/color]
+食べました (tabemashita) [color=#008000](mangé)[/color]
+行きました (ikimashita) [color=#008000](allé)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]私は手紙を書きました。[font_size=18pt](Watashi wa tegami o kakimashita.)[/font_size][/color] [color=#008000](J'ai écrit une lettre.)[/color][/i][/indent]
+
+[b]d) Passé négatif[/b]
+[indent]Pour la forme négative du passé, utilisez "ませんでした" (masen deshita) après la base verbale.
+[code]
+書きませんでした (kakimasen deshita) [color=#008000](n'ai pas écrit)[/color]
+食べませんでした (tabemasen deshita) [color=#008000](n'ai pas mangé)[/color]
+行きませんでした (ikimasen deshita) [color=#008000](n'est pas allé)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は昨日学校へ行きませんでした。[font_size=18pt](Kare wa kinō gakkō e ikimasen deshita.)[/font_size][/color] [color=#008000](Il n'est pas allé à l'école hier.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Utilisez "です" (desu) pour des déclarations polies et pour décrire des états ou des identités.
+[color=#FF0000]2.[/color] Utilisez "ます" (masu) pour créer des formes polies des verbes.
+[color=#FF0000]3.[/color] Conjuguez les verbes avec "ます" (masu) pour le présent/futur affirmatif, "ません" (masen) pour le présent/futur négatif, "ました" (mashita) pour le passé affirmatif, et "ませんでした" (masen deshita) pour le passé négatif.
+[color=#FF0000]4.[/color] La forme polie est essentielle pour des interactions quotidiennes courtoises en japonais.[/indent]
+
+[center][font_size=18][color=#808080]これらの形式を使って、日本語で丁寧に話しましょう！(Korera no keishiki o tsukatte, nihongo de teinei ni hanashimashou!)[/color][/font_size][/center]

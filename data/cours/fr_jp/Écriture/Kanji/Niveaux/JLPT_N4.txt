@@ -1,0 +1,96 @@
+[font_size=30][center][b][color=#0000FF]Les Kanji de Niveau JLPT N4 en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le JLPT (Japanese Language Proficiency Test) est un examen standardisé qui évalue et certifie la compétence en langue japonaise des non-native speakers. Le niveau N4 teste la compréhension de phrases de complexité courante et l'utilisation du vocabulaire et des Kanji usuels. Dans cette leçon, nous allons couvrir certains Kanji de ce niveau.
+
+[font_size=24][color=#4B0082]1. Kanji de base du niveau JLPT N4[/color][/font_size]
+
+Voici une liste des Kanji que vous devez connaître pour le niveau N4. Chaque Kanji est accompagné de sa lecture et d'un exemple d'utilisation.
+
+[b]a) 日 (nichi, bi) - Jour, Soleil[/b]
+[indent]
+[code]
+日曜日 (nichiyoubi) [color=#008000](dimanche)[/color]
+毎日 (mainichi) [color=#008000](chaque jour)[/color]
+今日 (kyou) [color=#008000](aujourd'hui)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]今日は晴れです。[font_size=18pt](Kyou wa hare desu.)[/font_size][/color] [color=#008000](Aujourd'hui, il fait beau.)[/color][/i][/indent]
+
+[b]b) 人 (hito, jin, nin) - Personne, Être humain[/b]
+[indent]
+[code]
+人口 (jinkou) [color=#008000](population)[/color]
+日本人 (nihonjin) [color=#008000](Japonais)[/color]
+人気 (ninki) [color=#008000](popularité)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は人気があります。[font_size=18pt](Kare wa ninki ga arimasu.)[/font_size][/color] [color=#008000](Il est populaire.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Kanji de direction et de lieu[/color][/font_size]
+
+Ces Kanji sont fréquemment utilisés pour indiquer des directions ou des lieux.
+
+[b]a) 北 (kita, hoku) - Nord[/b]
+[indent]
+[code]
+北風 (kitakaze) [color=#008000](vent du nord)[/color]
+北海 (hokkai) [color=#008000](mer du Nord)[/color]
+北海道 (hokkaidou) [color=#008000](Hokkaido)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]北風が強い。[font_size=18pt](Kitakaze ga tsuyoi.)[/font_size][/color] [color=#008000](Le vent du nord est fort.)[/color][/i][/indent]
+
+[b]b) 学 (gaku, manabu) - Apprendre, Étudier[/b]
+[indent]
+[code]
+学生 (gakusei) [color=#008000](étudiant)[/color]
+学校 (gakkou) [color=#008000](école)[/color]
+学問 (gakumon) [color=#008000](étude)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は学生です。[font_size=18pt](Kare wa gakusei desu.)[/font_size][/color] [color=#008000](Il est étudiant.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Kanji de description et d'identité[/color][/font_size]
+
+Les Kanji suivants sont utilisés pour décrire des attributs ou identifier des individus et objets.
+
+[b]a) 大 (dai, oo) - Grand[/b]
+[indent]
+[code]
+大学 (daigaku) [color=#008000](université)[/color]
+大会 (taikai) [color=#008000](grande réunion)[/color]
+大人 (otona) [color=#008000](adulte)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は大人です。[font_size=18pt](Kare wa otona desu.)[/font_size][/color] [color=#008000](Il est adulte.)[/color][/i][/indent]
+
+[b]b) 小 (shou, chii) - Petit[/b]
+[indent]
+[code]
+小学校 (shougakkou) [color=#008000](école primaire)[/color]
+小説 (shousetsu) [color=#008000](roman)[/color]
+小鳥 (kotori) [color=#008000](petit oiseau)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]小さい鳥がいます。[font_size=18pt](Chiisai tori ga imasu.)[/font_size][/color] [color=#008000](Il y a un petit oiseau.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Utilisation pratique et mémorisation[/color][/font_size]
+
+Pour mémoriser efficacement les Kanji du niveau N4, il est conseillé de :
+[indent]• Pratiquer l'écriture de chaque Kanji avec sa lecture.
+• Utiliser des flashcards pour tester vos connaissances.
+• Lire des textes simples contenant les Kanji N4.
+• Former des phrases simples en utilisant les Kanji appris.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le niveau N4 du JLPT inclut des Kanji couramment utilisés.
+[color=#FF0000]2.[/color] Connaître les lectures multiples d'un Kanji est essentiel.
+[color=#FF0000]3.[/color] Pratiquer régulièrement l'écriture et la lecture renforce la mémorisation.
+[color=#FF0000]4.[/color] Utiliser les Kanji dans des phrases aide à comprendre leur contexte et usage.[/indent]
+
+[center][font_size=18][color=#808080]頑張って日本語を勉強しましょう！(Ganbatte Nihongo o benkyou shimashou!)[/color][/font_size][/center]

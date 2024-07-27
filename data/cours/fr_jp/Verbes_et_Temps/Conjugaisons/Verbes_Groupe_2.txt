@@ -1,0 +1,72 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes du Groupe 2 en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes du groupe 2 en japonais, aussi appelés [b]verbres ichidan[/b] (une étape), sont ceux dont la forme de base se termine par [b]-iru (い-る)[/b] ou [b]-eru (え-る)[/b]. Contrairement aux verbes du groupe 1, ils suivent des règles de conjugaison plus simples et consistent en une modification directe de leur terminaison.
+
+[font_size=24][color=#4B0082]1. Structure et Caractéristiques des Verbes du Groupe 2[/color][/font_size]
+
+Les verbes du groupe 2 comprennent tous les verbes dont la forme du dictionnaire se termine par [b]-iru[/b] ou [b]-eru[/b]. Voici quelques exemples courants:
+
+[code]
+食べる (taberu) [color=#008000](manger)[/color]
+見る (miru) [color=#008000](regarder, voir)[/color]
+起きる (okiru) [color=#008000](se lever)[/color]
+寝る (neru) [color=#008000](dormir)[/color]
+閉める (shimeru) [color=#008000](fermer)[/color]
+考える (kangaeru) [color=#008000](penser)[/color]
+教える (oshieru) [color=#008000](enseigner)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]私は日本語を勉強します。[font_size=18pt](Watashi wa nihongo o benkyou shimasu.)[/font_size][/color] [color=#008000](J'étudie le japonais.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Conjugaison des Verbes du Groupe 2[/color][/font_size]
+
+La conjugaison des verbes du groupe 2 est assez simple. Voici les différentes formes principales avec des exemples:
+
+[b]a) Forme neutre (finissant par -る)[/b]
+[indent]C'est la forme de base du verbe.
+[i]Exemple : [color=#0000FF]見る (miru)[/color] [color=#008000](regarder)[/color][/i][/indent]
+
+[b]b) Forme polie (finissant par -ます (-masu))[/b]
+[indent]La forme polie est utilisée pour parler de manière respectueuse.
+[i]Exemple : [color=#0000FF]見ます (mimasu)[/color] [color=#008000](je regarde)[/color][/i][/indent]
+
+[b]c) Forme négative (finissant par -ない (-nai))[/b]
+[indent]Souvent utilisée pour indiquer une action qui n'est pas faite.
+[i]Exemple : [color=#0000FF]見ない (minai)[/color] [color=#008000](ne pas regarder)[/color][/i][/indent]
+
+[b]d) Forme au passé (finissant par -た (-ta))[/b]
+[indent]Utilisé pour indiquer une action qui s'est passée dans le passé.
+[i]Exemple : [color=#0000FF]見た (mita)[/color] [color=#008000](j'ai regardé)[/color][/i][/indent]
+
+[b]e) Forme au passé poli (finissant par -ました (-mashita))[/b]
+[indent]Utilisée pour parler respectueusement du passé.
+[i]Exemple : [color=#0000FF]見ました (mimashita)[/color] [color=#008000](j'ai regardé (forme polie))[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Règles et Terminaisons Additionnelles[/color][/font_size]
+
+Les verbes du groupe 2 ont d'autres formes utilisées dans la conversation quotidienne.
+
+[indent]• Forme volitive (-よう (-you)) : Utilisée pour exprimer une intention ou une volonté.
+[i]Exemple : [color=#0000FF]見よう (miyou)[/color] [color=#008000](regardons)[/color][/i]
+
+• Forme en たら (-tara) : Utilisée pour exprimer une conditionnelle ou hypothétique.
+[i]Exemple : [color=#0000FF]見たら (mitara)[/color] [color=#008000](si je regarde)[/color][/i]
+
+• Forme potentielle (-られる (-rareru)) : Utilisée pour indiquer la capacité.
+[i]Exemple : [color=#0000FF]見られる (mirareru)[/color] [color=#008000](pouvoir regarder)[/color][/i]
+
+• Forme impérative (-ろ (-ro)) et (-なさい (-nasai)): Utilisée pour donner un ordre.
+[i]Exemple : [color=#0000FF]見ろ (miro), 見なさい (minasai)[/color] [color=#008000](regarde, regarde (forme polie))[color=#008000](aussi forme polie)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes du groupe 2 se terminent généralement par [color=#FF0000]-iru[/color] (い-る) ou [color=#FF0000]-eru[/color] (え-る).
+[color=#FF0000]2.[/color] Leur conjugaison est plus systématique que celle des verbes du groupe 1.
+[color=#FF0000]3.[/color] La connaissance de la forme neutre permet de déduire facilement les autres formes de conjugaison.
+[color=#FF0000]4.[/color] Les verbes du groupe 2 sont utilisés fréquemment dans la conversation et l'écrire japonaise quotidienne.[/indent]
+
+[center][font_size=18][color=#808080]正しい二段活用動詞、楽に日本語を習得しましょう！(tadashī nidankatsuyō-dōshi, raku ni nihongo o shūtoku shimashou!)[/color][/font_size][/center]

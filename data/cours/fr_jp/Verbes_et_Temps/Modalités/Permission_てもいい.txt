@@ -1,0 +1,61 @@
+[font_size=30][center][b][color=#0000FF]Exprimer la Permission avec てもいい en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'expression de la permission en japonais est souvent réalisée à l'aide de la structure [b]～てもいい (temo ii)[/b]. Cette structure permet de demander la permission pour faire quelque chose ou d'indiquer que quelque chose est autorisé. Maîtriser cette structure est essentiel pour rendre votre japonais plus fluide et naturel.
+
+[font_size=24][color=#4B0082]1. Structure de base pour exprimer la permission[/color][/font_size]
+
+Pour exprimer la permission avec [b]～てもいい (temo ii)[/b], il faut suivre une structure simple :
+
+[b]Verbe en forme -て (te-forme) + もいい (mo ii)[/b]
+
+Voici quelques exemples :
+
+[b]a) Verbes d'action courants[/b]
+[indent]Utilisation du verbe en forme -て (te-forme) suivi de もいい (mo ii).
+[code]
+行く (iku) [color=#008000](aller) -> 行ってもいい (itte mo ii) [color=#008000](il est permis d'aller)[/color]
+食べる (taberu) [color=#008000](manger) -> 食べてもいい (tabete mo ii) [color=#008000](il est permis de manger)[/color]
+見る (miru) [color=#008000](voir) -> 見てもいい (mite mo ii) [color=#008000](il est permis de voir)[/color]
+飲む (nomu) [color=#008000](boire) -> 飲んでもいい (nonde mo ii) [color=#008000](il est permis de boire)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]ここに座ってもいいですか。[font_size=18pt](Koko ni suwatte mo ii desu ka.)[/font_size][/color] [color=#008000](Puis-je m'asseoir ici ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Variantes pour demander la permission[/color][/font_size]
+
+On peut nuancer la demande de permission en utilisant différentes structures tout en gardant la base [b]～てもいい (temo ii)[/b].
+
+[indent]• Pour une marque de respect plus formelle, utilisez もいいですか (mo ii desu ka).
+[i]Exemple : [color=#0000FF]この本を読んでもいいですか。[font_size=18pt](Kono hon wo yonde mo ii desu ka.)[/font_size][/color] [color=#008000](Puis-je lire ce livre ?)[/color][/i]
+
+- Pour accepter une demande, on peut simplement répondre いいです (ii desu).
+[i]Exemple : [color=#0000FF]はい、使ってもいいです。[font_size=18pt](Hai, tsukatte mo ii desu.)[/font_size][/color] [color=#008000](Oui, vous pouvez l'utiliser.)[/color][/i]
+
+- Pour refuser, utilisez des structures négatives comme だめです (dame desu) ou いけません (ikemasen).
+[i]Exemple : [color=#0000FF]ここでタバコを吸ってはいけません。[font_size=18pt](Koko de tabako wo sutte wa ikemasen.)[/font_size][/color] [color=#008000](Il est interdit de fumer ici.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Exemples pratiques de permission[/color][/font_size]
+
+Voyons comment utiliser [b]～てもいい (temo ii)[/b] dans différents contextes de la vie quotidienne.
+
+[indent]• Demander la permission de partir
+[i]Exemple : [color=#0000FF]今、帰ってもいいですか。[font_size=18pt](Ima, kaette mo ii desu ka.)[/font_size][/color] [color=#008000](Puis-je partir maintenant ?)[/color][/i]
+
+- Demander la permission d'emprunter quelque chose
+[i]Exemple : [color=#0000FF]このペンを借りてもいいですか。[font_size=18pt](Kono pen wo karite mo ii desu ka.)[/font_size][/color] [color=#008000](Puis-je emprunter ce stylo ?)[/color][/i]
+
+- Demander la permission de poser une question
+[i]Exemple : [color=#0000FF]質問してもいいですか。[font_size=18pt](Shitsumon shite mo ii desu ka.)[/font_size][/color] [color=#008000](Puis-je poser une question ?)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La structure [b]～てもいい (temo ii)[/b] est utilisée pour demander ou indiquer la permission.
+[color=#FF0000]2.[/color] La forme -て (te-forme) du verbe est essentielle pour créer cette structure.
+[color=#FF0000]3.[/color] Pour des demandes plus polies, utilisez [b]～てもいいですか (temo ii desu ka)[/b].
+[color=#FF0000]4.[/color] En réponse, いいです (ii desu) permet d'accepter et いけません (ikemasen) permet de refuser.[/indent]
+
+[center][font_size=18][color=#808080]正しく使えば、コミュニケーションがよりスムーズになります！(Tadashiku tsukaeba, komyunikēshon ga yori sumūzu ni narimasu!)[/color][/font_size][/center]

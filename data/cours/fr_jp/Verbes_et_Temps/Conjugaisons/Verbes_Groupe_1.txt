@@ -1,0 +1,72 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes du Groupe 1 en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes du groupe 1, aussi connus sous le nom de verbes godan (五段動詞 godan doushi), sont l'un des trois groupes de verbes en japonais. Ces verbes sont caractérisés par leur terminaison en "~u" et suivent des règles de conjugaison spécifiques. Apprendre à conjuguer ces verbes est essentiel pour maîtriser le japonais.
+
+[font_size=24][color=#4B0082]1. Structure des verbes du groupe 1[/color][/font_size]
+
+Les verbes du groupe 1 se terminent par une syllabe du type "~u" et leur radical finit souvent par une des consonnes suivantes : う (u), く (ku), ぐ (gu), す (su), つ (tsu), ぬ (nu), ぶ (bu), む (mu), る (ru). Voici quelques exemples de verbes du groupe 1 :
+
+[code]
+書く (kaku) [color=#008000](écrire)[/color]
+泳ぐ (oyogu) [color=#008000](nager)[/color]
+話す (hanasu) [color=#008000](parler)[/color]
+待つ (matsu) [color=#008000](attendre)[/color]
+死ぬ (shinu) [color=#008000](mourir)[/color]
+遊ぶ (asobu) [color=#008000](jouer)[/color]
+飲む (nomu) [color=#008000](boire)[/color]
+帰る (kaeru) [color=#008000](revenir)[/color]
+[/code]
+
+[font_size=24][color=#4B0082]2. Conjugaison au présent affirmatif[/color][/font_size]
+
+La forme de base (ou dictionnaire) des verbes est utilisée pour le présent affirmatif. Pour conjuguer au présent affirmatif, on n'apporte aucune modification spécifique au radical :
+
+[indent]• Radical + う (u)
+[i]Exemple : [color=#0000FF]彼は毎日書く。[font_size=18pt](Kare wa mainichi kaku.)[/font_size][/color] [color=#008000](Il écrit tous les jours.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Conjugaison au présent négatif[/color][/font_size]
+
+Pour convertir un verbe du groupe 1 au présent négatif, on remplace la terminaison "~u" par "~anai" (あない).
+
+[indent]• Radical + あない (anai)
+[i]Exemple : [color=#0000FF]彼は毎日書かない。[font_size=18pt](Kare wa mainichi kakanai.)[/font_size][/color] [color=#008000](Il n'écrit pas tous les jours.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Conjugaison au passé affirmatif[/color][/font_size]
+
+Pour conjuguer un verbe du groupe 1 au passé affirmatif, la terminaison de certains verbes change de manière spécifique. Voici les règles générales :
+
+[indent]• く (ku) devient いた (ita)
+[i]Exemple : [color=#0000FF]彼は昨日書いた。[font_size=18pt](Kare wa kinou kaita.)[/font_size][/color] [color=#008000](Il a écrit hier.)[/color][/i]
+
+- ぐ (gu) devient いだ (ida)
+[i]Exemple : [color=#0000FF]彼は昨日泳いだ。[font_size=18pt](Kare wa kinou oyoida.)[/font_size][/color] [color=#008000](Il a nagé hier.)[/color][/i]
+
+- す (su) devient した (shita)
+[i]Exemple : [color=#0000FF]彼は昨日話した。[font_size=18pt](Kare wa kinou hanashita.)[/font_size][/color] [color=#008000](Il a parlé hier.)[/color][/i]
+
+- つ (tsu), る (ru), う (u) deviennent った (tta)
+[i]Exemple : [color=#0000FF]彼は昨日待った。[font_size=18pt](Kare wa kinou matta.)[/font_size][/color] [color=#008000](Il a attendu hier.)[/color][/i]
+
+- ぬ (nu), む (mu), ぶ (bu) deviennent んだ (nda)
+[i]Exemple : [color=#0000FF]彼は昨日遊んだ。[font_size=18pt](Kare wa kinou asonda.)[/font_size][/color] [color=#008000](Il a joué hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は昨日飲んだ。[font_size=18pt](Kare wa kinou nonda.)[/font_size][/color] [color=#008000](Il a bu hier.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Conjugaison au passé négatif[/color][/font_size]
+
+Pour conjuguer un verbe du groupe 1 au passé négatif, utilisez la forme négative au présent et ajoutez かった (katta).
+
+[indent]• Radical + あなかった (anakatta)
+[i]Exemple : [color=#0000FF]彼は昨日書かなかった。[font_size=18pt](Kare wa kinou kakanakatta.)[/font_size][/color] [color=#008000](Il n'a pas écrit hier.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes du groupe 1 se terminent par une syllabe en "~u".
+[color=#FF0000]2.[/color] La conjugaison des verbes du groupe 1 suit des règles spécifiques pour chaque temps.
+[color=#FF0000]3.[/color] Les terminaisons changent pour adapter le verbe au contexte temporel et négatif.
+[color=#FF0000]4.[/color] Apprendre ces règles vous permettra de conjuguer de nombreux verbes en japonais avec aisance.[/indent]
+
+[center][font_size=18][color=#808080]正しい動詞の活用法を習得して、自然な日本語を話しましょう！(tadashī dōshi no katsuyō-hō o shūtoku shite, shizen'na nihongo o hanashimashou!)[/color][/font_size][/center]

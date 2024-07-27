@@ -1,0 +1,53 @@
+[font_size=30][center][b][color=#0000FF]L'Aspect Expérientiel en Japonais : たことがある[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'aspect expérientiel en japonais permet d'exprimer les expériences passées. La structure "たことがある (ta koto ga aru)" est couramment utilisée pour indiquer qu'on a déjà fait quelque chose dans le passé. Cette leçon vous aidera à comprendre et utiliser cette structure correctement pour rendre vos phrases en japonais plus naturelles.
+
+[font_size=24][color=#4B0082]1. Structure de base de "たことがある"[/color][/font_size]
+
+Pour former une phrase avec l'aspect expérientiel "たことがある (ta koto ga aru)", il faut suivre une structure spécifique :
+
+[b]a) Construction[/b]
+[indent]1. Prenez la forme passée d'un verbe (forme en "た").
+2. Ajoutez "ことがある (koto ga aru)" pour dire "avoir l'expérience de".
+
+[code]
+食べる (taberu) [color=#008000](manger)[/color] -> 食べたことがある (tabeta koto ga aru) [color=#008000](avoir mangé)[/color]
+行く (iku) [color=#008000](aller)[/color] -> 行ったことがある (itta koto ga aru) [color=#008000](être allé)[/color]
+見る (miru) [color=#008000](voir)[/color] -> 見たことがある (mita koto ga aru) [color=#008000](avoir vu)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]私は日本に行ったことがあります。[font_size=18pt](Watashi wa Nihon ni itta koto ga arimasu.)[/font_size][/color] [color=#008000](Je suis déjà allé au Japon.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de "たことがある" dans des phrases[/color][/font_size]
+
+Cette structure est utile non seulement pour parler de vos propres expériences, mais aussi pour poser des questions sur les expériences des autres.
+
+[indent]• Parler de ses propres expériences
+[i]Exemple : [color=#0000FF]彼は寿司を食べたことがある。[font_size=18pt](Kare wa sushi o tabeta koto ga aru.)[/font_size][/color] [color=#008000](Il a déjà mangé des sushis.)[/color][/i]
+
+- Poser des questions sur les expériences des autres
+[i]Exemple : [color=#0000FF]あなたは富士山に登ったことがありますか？[font_size=18pt](Anata wa Fujisan ni nobotta koto ga arimasu ka?)[/font_size][/color] [color=#008000](Avez-vous déjà gravi le mont Fuji ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Négation et variations de "たことがある"[/color][/font_size]
+
+Pour nier une expérience ou pour parler de plusieurs expériences, d'autres structures peuvent être utilisées en combinaison avec "たことがある (ta koto ga aru)".
+
+[indent]• Nier une expérience
+[i]Exemple : [color=#0000FF]私は一度も北海道に行ったことがありません。[font_size=18pt](Watashi wa ichido mo Hokkaidō ni itta koto ga arimasen.)[/font_size][/color] [color=#008000](Je ne suis jamais allé à Hokkaidō.)[/color][/i]
+
+- Parler de plusieurs expériences
+[i]Exemple : [color=#0000FF]彼は色々な国に行ったことがある。[font_size=18pt](Kare wa iroirona kuni ni itta koto ga aru.)[/font_size][/color] [color=#008000](Il a été dans plusieurs pays.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La structure "たことがある (ta koto ga aru)" indique une expérience passée.
+[color=#FF0000]2.[/color] Formez cette structure en utilisant la forme passée (en "た") du verbe.
+[color=#FF0000]3.[/color] Utilisez cette structure pour parler de vos propres expériences ou poser des questions sur celles des autres.
+[color=#FF0000]4.[/color] La forme négative "たことがない (ta koto ga nai)" signifie ne jamais avoir fait quelque chose.
+[color=#FF0000]5.[/color] Vous pouvez détailler ou varier les expériences en utilisant des adverbes comme "一度も (ichido mo)" ou "色々な (iroirona)".[/indent]
+
+[center][font_size=18][color=#808080]正しく「たことがある」を使って、あなたの日本語をより自然にしましょう！(Tadashiku "ta koto ga aru" o tsukatte, anata no Nihongo o yori shizen ni shimashou!)[/color][/font_size][/center]

@@ -1,0 +1,60 @@
+[font_size=30][center][b][color=#0000FF]Kanji du JLPT N3[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Niveau N3 du JLPT (Japanese Language Proficiency Test / Test d’Aptitude en Japonais) est un niveau intermédiaire. Les kanji à ce niveau incluent ceux de base et intermédiaires, souvent utilisés dans la vie quotidienne et la littérature. Comprendre ces kanji est crucial pour progresser vers une maîtrise plus avancée du japonais.
+
+[font_size=24][color=#4B0082]1. Introduction aux Kanji du JLPT N3[/color][/font_size]
+
+Le JLPT N3 teste la compétence en lecture et en écriture de près de 650 kanji. Voici quelques concepts de base à comprendre avant de plonger dans l'apprentissage des kanji de ce niveau.
+
+[b]a) Importance des Lectures Kun'yomi et On'yomi[/b]
+[indent]Chaque kanji a généralement deux types de lecture : Kun'yomi (lecture japonaise) et On'yomi (lecture chinoise). Il est crucial de les apprendre pour utiliser correctement les kanji dans divers contextes.
+[i]Par exemple : [color=#0000FF]山 (やま, yama) [Kun'yomi][/color] [color=#008000](montagne)[/color], [color=#0000FF]山 (サン, san) [On'yomi][/color] [color=#008000](comme dans 富士山, ふじさん, Fujisan)[/color][/i][/indent]
+
+[b]b) Combinaisons de Kanji (Kango)[/b]
+[indent]Les mots japonais peuvent être formés en combinant plusieurs kanji. Ces combinaisons sont appelées "Kango".
+[i]Par exemple : [color=#0000FF] 学 (がく, gaku) [color=#008000](études)[/color] + 校 (こう, kou) [color=#008000](école)[/color] = 学校 (がっこう, gakkou) [color=#008000](école)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Liste des Kanji du JLPT N3[/color][/font_size]
+
+Voici une liste des kanji les plus courants du niveau N3, accompagnée de leur lecture principale et de leur signification :
+
+[b]日[/b] [color=#FF0000](にち, nichi / ひ, hi)[/color] - [color=#008000](jour, soleil)[/color]  
+[b]本[/b] [color=#FF0000](ほん, hon)[/color] - [color=#008000](livre, origine)[/color]  
+[b]人[/b] [color=#FF0000](じん, jin / ひと, hito)[/color] - [color=#008000](personne)[/color]  
+[b]月[/b] [color=#FF0000](げつ, getsu / つき, tsuki)[/color] - [color=#008000](mois, lune)[/color]  
+[b]見[/b] [color=#FF0000](けん, ken / みる, miru)[/color] - [color=#008000](voir)[/color]  
+[b]行[/b] [color=#FF0000](こう, kou / いく, iku)[/color] - [color=#008000](aller)[/color]  
+[b]天[/b] [color=#FF0000](てん, ten)[/color] - [color=#008000](ciel)[/color]  
+[b]学[/b] [color=#FF0000](がく, gaku)[/color] - [color=#008000](études, apprentissage)[/color]  
+[b]校[/b] [color=#FF0000](こう, kou)[/color] - [color=#008000](école)[/color]  
+[b]子[/b] [color=#FF0000](し, shi / こ, ko)[/color] - [color=#008000](enfant)[/color]  
+[b]小[/b] [color=#FF0000](しょう, shou / ちいさい, chiisai)[/color] - [color=#008000](petit)[/color]  
+[b]右[/b] [color=#FF0000](う, u / みぎ, migi)[/color] - [color=#008000](droite)[/color]  
+[b]左[/b] [color=#FF0000](さ, sa / ひだり, hidari)[/color] - [color=#008000](gauche)[/color]  
+[b]大[/b] [color=#FF0000](だい, dai / おおきい, ookii)[/color] - [color=#008000](grand)[/color]
+
+[font_size=24][color=#4B0082]3. Conseils pour Apprendre les Kanji[/color][/font_size]
+
+Pour maîtriser les kanji du N3, il est recommandé de suivre des méthodes d'apprentissage structurées et répétitives.
+
+[indent]• [color=#FF0000]Utilisez des flashcards[/color] : Faites des cartes de mémoire pour aider à mémoriser les kanji et leurs lectures.
+[i]Exemple : [color=#0000FF]日 (にち, nichi / ひ, hi) - jour, soleil[/color][/i]
+
+- [color=#FF0000]Pratiquez la calligraphie[/color] : Écrivez les kanji à la main pour vous familiariser avec leur forme.
+[i]Exemple : [color=#0000FF]書く (かく, kaku) - écrire[/color][/i]
+
+- [color=#FF0000]Lisez régulièrement[/color] : Lisez des livres, des journaux ou des bandes dessinées en japonais.
+[i]Exemple : [color=#0000FF]今日は良い天気です。(きょうはよいてんきです, Kyō wa yoi tenki desu.) - Aujourd'hui, il fait beau.[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le niveau N3 teste la maîtrise de près de 650 kanji.
+[color=#FF0000]2.[/color] Les lectures Kun'yomi et On'yomi sont essentielles pour comprendre et utiliser les kanji.
+[color=#FF0000]3.[/color] Les combinaisons de kanji (Kango) sont courantes et importantes dans la langue japonaise.
+[color=#FF0000]4.[/color] Des méthodes d'apprentissage structuré et répétitif, telles que l'utilisation de flashcards, la pratique de la calligraphie et la lecture régulière, peuvent faciliter la maîtrise des kanji.[/indent]
+
+[center][font_size=18][color=#808080]頑張ってね！(がんばってね, Ganbatte ne!) - Bon courage![/color][/font_size][/center]

@@ -1,0 +1,76 @@
+[font_size=30][center][b][color=#0000FF]Les Expressions Courantes en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les expressions idiomatiques sont des phrases ou des expressions figées dont le sens ne peut pas être déduit de la signification littérale des mots qui les composent. Elles sont très utilisées dans le quotidien et connaître ces expressions rendra vos conversations en japonais plus naturelles et authentiques.
+
+[font_size=24][color=#4B0082]1. Expressions de la vie quotidienne[/color][/font_size]
+
+Voici quelques expressions courantes que vous pouvez entendre ou utiliser tous les jours :
+
+[b]a) Salutations et Politesses[/b]
+[indent]Apprenez à saluer et à exprimer la politesse de manière courante.
+[code]
+おはようございます (ohayou gozaimasu) [color=#008000](Bonjour (le matin))[/color]
+こんにちは (konnichiwa) [color=#008000](Bonjour (l'après-midi))[/color]
+こんばんは (konbanwa) [color=#008000](Bonsoir)[/color]
+おやすみなさい (oyasuminasai) [color=#008000](Bonne nuit)[/color]
+ありがとう (arigatou) [color=#008000](Merci)[/color]
+すみません (sumimasen) [color=#008000](Excusez-moi / Pardon)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]おはようございます。[font_size=18pt](Ohayou gozaimasu.)[/font_size][/color] [color=#008000](Bonjour (le matin).)[/color][/i][/indent]
+
+[b]b) Expressions de base pour la conversation[/b]
+[indent]Ces expressions sont fréquemment utilisées pour interagir avec les autres.
+[code]
+はい (hai) [color=#008000](Oui)[/color]
+いいえ (iie) [color=#008000](Non)[/color]
+お願いします (onegaishimasu) [color=#008000](S'il vous plaît)[/color]
+どういたしまして (dou itashimashite) [color=#008000](De rien)[/color]
+わかります (wakarimasu) [color=#008000](Je comprends)[/color]
+分からない (wakarana i) [color=#008000](Je ne comprends pas)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]はい、わかります。[font_size=18pt](Hai, wakarimasu.)[/font_size][/color] [color=#008000](Oui, je comprends.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Expressions idiomatiques courantes[/color][/font_size]
+
+Les idiomes peuvent enrichir votre vocabulaire et vous donner un aperçu unique de la culture japonaise. Voici quelques idiomes courants :
+
+[b]a) Expressions liées à la vie quotidienne[/b]
+[indent]Ces expressions sont souvent utilisées dans des situations diverses du quotidien.
+[code]
+猫の手も借りたい (neko no te mo karitai) [color=#008000](Avoir besoin de toute l'aide possible, même celle d'un chat (être vraiment occupé))[/color]
+猿も木から落ちる (saru mo ki kara ochiru) [color=#008000](Même les singes tombent des arbres (personne n'est parfait))[/color]
+口が滑る (kuchi ga suberu) [color=#008000](Laisser échapper un secret (avoir la langue qui dérape))[/color]
+目から鱗が落ちる (me kara uroko ga ochiru) [color=#008000](Les écailles tombent des yeux (comprendre soudainement quelque chose))[/color]
+馬鹿にならない (baka ni naranai) [color=#008000](Ne pas être négligeable (être significatif))[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]今日は猫の手も借りたいほど忙しいです。[font_size=18pt](Kyou wa neko no te mo karitai hodo isogashii desu.)[/font_size][/color] [color=#008000](Aujourd'hui, j'ai besoin de toute l'aide possible, même celle d'un chat. (Je suis vraiment occupé.))[color/#008000][/i][/indent]
+
+[b]b) Autres expressions idiomatiques notables[/b]
+[indent]Ces idiomes sont souvent utilisés pour exprimer des concepts plus spécifiques ou émotionnels.
+[code]
+頭が切れる (atama ga kireru) [color=#008000](Être très intelligent (avoir un esprit tranchant))[color/#008000]
+手を抜く (te o nuku) [color=#008000](Travailler de manière bâclée (enlever les mains du travail))[color/#008000]
+耳が痛い (mimi ga itai) [color=#008000](Litt. avoir mal aux oreilles : se sentir gêné par ce que l'on entend)[color/#008000]
+足を引っ張る (ashi o hipparu) [color=#008000](Freiner les autres (tirer les pieds de quelqu'un))[color/#008000]
+顔が広い (kao ga hiroi) [color=#008000](Connaître beaucoup de gens (avoir un large visage))[color/#008000]
+腹を割る (hara o waru) [color=#008000](Être franc et honnête (ouvrir son ventre))[color/#008000]
+[/code]
+
+[i]Exemple : [color=#0000FF]その話は耳が痛いです。[font_size=18pt](Sono hanashi wa mimi ga itai desu.)[/font_size][/color] [color=#008000](Cette conversation me gêne.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les expressions courantes et idiomatiques rendent votre japonais plus naturel et fluide.
+[color=#FF0000]2.[/color] Connaître des salutations et expressions de base facilitera les interactions quotidiennes.
+[color=#FF0000]3.[/color] Les idiomes sont souvent basés sur des contextes culturels et peuvent enrichir votre compréhension culturelle.
+[color=#FF0000]4.[/color] Utilisez des idiomes pour exprimer des idées complexes de façon concise.
+[/indent]
+
+[center][font_size=18][color=#808080]正確に表現を使うことで、日本語のスキルを向上させましょう！(seikaku ni hyougen o tsukau koto de, nihongo no sukiru o koujou sasemashou!)[/color][/font_size][/center]

@@ -1,0 +1,68 @@
+[font_size=30][center][b][color=#0000FF]Les Adjectifs en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les adjectifs en japonais sont des mots qui décrivent les caractéristiques d'un nom. Ils sont essentiels pour enrichir votre vocabulaire et rendre vos phrases plus expressives. En japonais, les adjectifs peuvent être classés en deux grandes catégories : les adjectifs en い (i) et les adjectifs en な (na).
+
+[font_size=24][color=#4B0082]1. Les Adjectifs en い (i)[/color][/font_size]
+
+Les adjectifs en い (i) se terminent généralement par le son "i". Ils peuvent être utilisés directement devant un nom ou à la fin d'une phrase pour décrire quelque chose. Voici quelques exemples :
+
+[b]a) Exemples d'adjectifs en い (i)[/b]
+[indent][code]
+新しい (atarashii) [color=#008000](nouveau)[/color]
+古い (furui) [color=#008000](ancien)[/color]
+大きい (ookii) [color=#008000](grand)[/color]
+小さい (chiisai) [color=#008000](petit)[/color]
+高い (takai) [color=#008000](cher; haut)[/color]
+安い (yasui) [color=#008000](bon marché)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は新しい車を買った。[font_size=18pt](Kare wa atarashii kuruma o katta.)[/font_size][/color] [color=#008000](Il a acheté une nouvelle voiture.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les Adjectifs en な (na)[/color][/font_size]
+
+Les adjectifs en な (na) ne se terminent pas par le son "i" et nécessitent généralement la particule な (na) lorsqu'ils précèdent un nom. Voici quelques exemples :
+
+[b]a) Exemples d'adjectifs en な (na)[/b]
+[indent][code]
+静かな (shizuka na) [color=#008000](calme)[/color]
+有名な (yuumei na) [color=#008000](célèbre)[/color]
+親切な (shinsetsu na) [color=#008000](gentil)[/color]
+元気な (genki na) [color=#008000](en forme)[/color]
+便利な (benri na) [color=#008000](pratique)[/color]
+好きな (suki na) [color=#008000](préféré; aimé)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は静かな場所が好きだ。[font_size=18pt](Kare wa shizuka na basho ga suki da.)[/font_size][/color] [color=#008000](Il aime les endroits calmes.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Conjugaison des Adjectifs[/color][/font_size]
+
+Les adjectifs en japonais peuvent être conjugués pour indiquer le temps (présent, passé) et la polarité (affirmatif, négatif). Voici les principales formes pour les deux types d'adjectifs.
+
+[b]a) Adjectifs en い (i)[/b]
+[indent]Présent affirmatif : 大きい (ookii) [color=#008000](grand)[/color]
+Présent négatif : 大きくない (ookiku nai) [color=#008000](pas grand)[/color]
+Passé affirmatif : 大きかった (ookikatta) [color=#008000](était grand)[/color]
+Passé négatif : 大きくなかった (ookiku nakatta) [color=#008000](n'était pas grand)[/color]
+
+[i]Exemple : [color=#0000FF]その建物は大きくなかった。[font_size=18pt](Sono tatemono wa ookiku nakatta.)[/font_size][/color] [color=#008000](Ce bâtiment n'était pas grand.)[/color][/i][/indent]
+
+[b]b) Adjectifs en な (na)[/b]
+[indent]Présent affirmatif : 静かだ (shizuka da) [color=#008000](calme)[/color]
+Présent négatif : 静かじゃない (shizuka janai) [color=#008000](pas calme)[/color]
+Passé affirmatif : 静かだった (shizuka datta) [color=#008000](était calme)[/color]
+Passé négatif : 静かじゃなかった (shizuka janakatta) [color=#008000](n'était pas calme)[/color]
+
+[i]Exemple : [color=#0000FF]その部屋は静かじゃなかった。[font_size=18pt](Sono heya wa shizuka janakatta.)[/font_size][/color] [color=#008000](Cette pièce n'était pas calme.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les adjectifs en japonais se divisent en deux catégories : les adjectifs en い (i) et les adjectifs en な (na).
+[color=#FF0000]2.[/color] Les adjectifs en い (i) se terminent par "i" alors que les adjectifs en な (na) nécessitent "na" lorsqu'ils précèdent un nom.
+[color=#FF0000]3.[/color] Les adjectifs peuvent être conjugués pour indiquer le temps et la polarité.
+[color=#FF0000]4.[/color] Apprendre à utiliser correctement les adjectifs rendra vos phrases en japonais plus expressives et précises.[/indent]
+
+[center][font_size=18][color=#808080]正しい形容詞の使い方を学んで、あなたの日本語をより豊かにしましょう！(tadashii keiyoushi no tsukaikata o manande, anata no nihongo o yori yutaka ni shimashou!)[/color][/font_size][/center]

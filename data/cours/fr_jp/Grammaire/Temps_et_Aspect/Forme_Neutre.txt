@@ -1,0 +1,84 @@
+[font_size=30][center][b][color=#0000FF]La Forme Neutre en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En japonais, la forme neutre, également appelée forme familière ou informelle, est couramment utilisée dans les conversations quotidiennes entre amis, famille et personnes de même statut. Contrairement à la forme polie, elle est moins formelle et nécessite une bonne compréhension des contextes sociaux dans lesquels elle est appropriée.
+
+[font_size=24][color=#4B0082]1. Présentation de la forme neutre[/color][/font_size]
+
+La forme neutre est utilisée pour les verbes, adjectifs et noms. Voici comment les conjuguer dans cette forme.
+
+[b]a) Verbes[/b]
+[indent]Pour les verbes en japonais, la forme neutre est généralement leur forme basique trouvée dans les dictionnaires. Voici quelques exemples :
+[code]
+食べる (taberu) [color=#008000](manger)[/color]
+行く (iku) [color=#008000](aller)[/color]
+する (suru) [color=#008000](faire)[/color]
+見る (miru) [color=#008000](voir)[/color]
+話す (hanasu) [color=#008000](parler)[/color]
+来る (kuru) [color=#008000](venir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は行く。(Kare wa iku.)[/color] [color=#008000](Il va.)[/color][/i][/indent]
+
+[b]b) Adjectifs en -い (-i) et en -な (-na)[/b]
+[indent]Les adjectifs ont aussi leurs formes neutres. Pour les adjectifs en -い, la forme neutre reste généralement la même. Pour les adjectifs en -な, on utilise le mot sans な (na).
+[code]
+楽しい (tanoshii) [color=#008000](amusant)[/color]
+大きい (ookii) [color=#008000](grand)[/color]
+静か (shizuka) [color=#008000](calme)[/color]
+元気 (genki) [color=#008000](en forme)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は楽しい。(Kare wa tanoshii.)[/color] [color=#008000](Il est amusant.)[/color][/i][/indent]
+
+[b]c) Noms[/b]
+[indent]Les noms en forme neutre n'ont pas de changement particulier. On les utilise tels quels sans ajouter です (desu) à la fin.
+[code]
+学生 (gakusei) [color=#008000](étudiant)[/color]
+先生 (sensei) [color=#008000](professeur)[/color]
+本 (hon) [color=#008000](livre)[/color]
+車 (kuruma) [color=#008000](voiture)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]これは本。(Kore wa hon.)[/color] [color=#008000](Ceci est un livre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation contextuelle de la forme neutre[/color][/font_size]
+
+La forme neutre est appropriée dans diverses situations informelles mais doit être utilisée avec discernement selon le contexte social.
+
+[indent]• Utilisez la forme neutre avec des amis proches et la famille :
+[i]Exemple : [color=#0000FF]私は帰る。(Watashi wa kaeru.)[/color] [color=#008000](Je rentre.)[/color][/i]
+
+- Employez la forme neutre dans les journaux personnels ou les pensées intérieures :
+[i]Exemple : [color=#0000FF]今日は楽しかった。(Kyou wa tanoshikatta.)[/color] [color=#008000](Aujourd'hui, c'était amusant.)[/color][/i]
+
+- Évitez d'utiliser la forme neutre dans des situations formelles ou avec des personnes de statut supérieur :
+[i]Exemple : [color=#0000FF]社長と話す時は、丁寧形を使う。(Shachou to hanasu toki wa, teinei-kei o tsukau.)[/color] [color=#008000](Quand je parle avec le directeur, j'utilise la forme polie.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Conjugaison de base des verbes à la forme neutre[/color][/font_size]
+
+Pour maîtriser la forme neutre, il est essentiel de connaître la conjugaison des verbes dans les différents temps.
+
+[indent]• Présent / Futur
+[i]Exemple : [color=#0000FF]彼は行く。(Kare wa iku.)[/color] [color=#008000](Il va.)[/color][/i]
+
+- Passé
+[i]Exemple : [color=#0000FF]彼は行った。(Kare wa itta.)[/color] [color=#008000](Il est allé.)[/color][/i]
+
+- Négatif au présent
+[i]Exemple : [color=#0000FF]彼は行かない。(Kare wa ikanai.)[/color] [color=#008000](Il ne va pas.)[/color][/i]
+
+- Négatif au passé
+[i]Exemple : [color=#0000FF]彼は行かなかった。(Kare wa ikanakatta.)[/color] [color=#008000](Il n'est pas allé.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La forme neutre est utilisée dans les contextes informels.
+[color=#FF0000]2.[/color] Les formes neutres incluent les verbes en forme de dictionnaire, les adjectifs en -い et sans -な pour les adjectifs en -な.
+[color=#FF0000]3.[/color] La forme neutre est appropriée pour les conversations amicales et familiales, ainsi que pour les écrits personnels.
+[color=#FF0000]4.[/color] Bonne connaissance des conjugaisons dans divers temps est essentielle pour maîtriser la forme neutre.[/indent]
+
+[center][font_size=18][color=#808080]正しように中立形を使うと、日本語の会話が自然でスムーズになります！(Tadashii you ni chuuritsukei o tsukau to, nihongo no kaiwa ga shizen de sumuuzu ni narimasu!)[/color][/font_size][/center]

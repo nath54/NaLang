@@ -1,0 +1,81 @@
+[font_size=30][center][b][color=#0000FF]La Forme Conditionnelle en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La forme conditionnelle en japonais est utilisée pour exprimer une condition hypothétique. Elle sert à indiquer ce qui pourrait se passer sous certaines conditions. Comprendre et utiliser correctement cette structure vous permettra de créer des phrases plus complexes et nuancées en japonais.
+
+[font_size=24][color=#4B0082]1. Structure de base de la forme conditionnelle[/color][/font_size]
+
+La forme conditionnelle se forme principalement de deux manières en japonais : en utilisant la particule [b]ば[/b] (ba) et en utilisant la forme [b]たら[/b] (tara).
+
+[b]a) La particule ば (ba)[/b]
+[indent]Pour conjuguer un verbe à la forme conditionnelle avec ば, il faut suivre les étapes spécifiques en fonction du groupe du verbe.
+
+[font_size=22][color=#4B0082]Verbes du 1er groupe (五段動詞 (godan dōshi))[/color][/font_size]
+
+1. Remplacer la terminaison [b]u[/b] du verbe par [b]e[/b].
+2. Ajouter [b]ば[/b].
+
+[code]
+飲む (nomu) [color=#008000](boire) -> 飲めば (nomeba) [color=#008000](si je bois)[/color][/color] 
+書く (kaku) [color=#008000](écrire) -> 書けば (kakeba) [color=#008000](si j'écris)[/color][/color]
+[/code]
+[i]Exemple : [color=#0000FF]毎日勉強すれば、日本語が上手になります。[font_size=18pt](Mainichi benkyou sureba, nihongo ga jouzu ni narimasu.)[/font_size][/color] [color=#008000](Si tu étudies tous les jours, tu deviendras bon en japonais.)[/color][/i]
+
+[font_size=22][color=#4B0082]Verbes du 2ème groupe (一段動詞 (ichidan dōshi))[/color][/font_size]
+
+1. Remplacer la terminaison [b]る[/b] (ru) du verbe par [b]れば[/b] (reba).
+
+[code]
+食べる (taberu) [color=#008000](manger) -> 食べれば (tabereba) [color=#008000](si je mange)[/color][/color]
+見る (miru) [color=#008000](voir) -> 見れば (mireba) [color=#008000](si je vois)[/color][/color]
+[/code]
+[i]Exemple : [color=#0000FF]早く寝れば、健康になります。[font_size=18pt](Hayaku nereba, kenkou ni narimasu.)[/font_size][/color] [color=#008000](Si tu te couches tôt, tu seras en bonne santé.)[/color][/i]
+[/indent]
+
+[b]b) La forme たら (tara)[/b]
+[indent]Cette forme est plus simple et plus courante pour exprimer la condition. Voici comment conjuguer.
+
+1. Conjuguer le verbe à la forme [b]た[/b] (ta) ou [b]だ[/b] (da) et ajouter [b]ら[/b] (ra).
+
+[code]
+行く (iku) [color=#008000](aller) -> 行ったら (ittara) [color=#008000](si je vais)[/color][/color]
+する (suru) [color=#008000](faire) -> したら (shitara) [color=#008000](si je fais)[/color][/color]
+来る (kuru) [color=#008000](venir) -> 来たら (kitara) [color=#008000](si je viens)[/color][/color]
+[/code]
+[i]Exemple : [color=#0000FF]友達に会ったら、話しましょう。[font_size=18pt](Tomodachi ni attara, hanashimashou.)[/font_size][/color] [color=#008000](Je parlerai à mon ami si je le rencontre.)[/color][/i]
+[/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de la conditionnelle[/color][/font_size]
+
+La forme conditionnelle est polyvalente. Elle peut exprimer des suggestions, des hypothèses, et des conséquences. Voici quelques contextes communs :
+
+[indent]• Suggérer une action :
+[i]Exemple : [color=#0000FF]疲れたら、休んでください。[font_size=18pt](Tsukaretara, yasunde kudasai.)[/font_size][/color] [color=#008000](Si tu es fatigué, repose-toi.)[/color][/i]
+
+- Faire des hypothèses :
+[i]Exemple : [color=#0000FF]雨が降れば、家にいます。[font_size=18pt](Ame ga fureba, ie ni imasu.)[/font_size][/color] [color=#008000](S'il pleut, je resterai à la maison.)[/color][/i]
+
+- Exprimer des conséquences :
+[i]Exemple : [color=#0000FF]宿題を終わらなかったら、遊びに行けません。[font_size=18pt](Shukudai o owaranakattara, asobi ni ikemasen.)[/font_size][/color] [color=#008000](Si tu ne termines pas tes devoirs, tu ne peux pas aller jouer.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Il existe des nuances à prendre en compte pour choisir entre ば (ba) et たら (tara). En général :
+
+[indent]• [b]ば (ba)[/b] est souvent utilisé pour des conditions générales et des réalités hypothétiques.
+[i]Exemple : [color=#0000FF]一生懸命働けば、成功します。[font_size=18pt](Isshoukenmei hatarakeba, seikou shimasu.)[/font_size][/color] [color=#008000](Si tu travailles dur, tu réussiras.)[/color][/i]
+
+- [b]たら (tara)[/b] est plus commun dans la langue parlée pour des conditions spécifiques et immédiates.
+[i]Exemple : [color=#0000FF]映画を見たら、連絡してください。[font_size=18pt](Eiga o mitara, renraku shite kudasai.)[/font_size][/color] [color=#008000](Contacte-moi après avoir regardé le film.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La forme conditionnelle en japonais s'exprime principalement avec [b]ば (ba)[/b] et [b]たら (tara)[/b].
+[color=#FF0000]2.[/color] La structure ば (ba) est utilisée pour des hypothèses générales, tandis que たら (tara) est plus commun pour des conditions spécifiques.
+[color=#FF0000]3.[/color] En fonction du groupe du verbe, la modification pour la forme conditionnelle change.
+[color=#FF0000]4.[/color] La conditionnelle en japonais permet d'exprimer des suggestions, des hypothèses et des conséquences.[/indent]
+
+[center][font_size=18][color=#808080]正しく条件形を使って、もっと自然な日本語を話そう！(Tadashiku joukenkei o tsukatte, motto shizen na nihongo o hanasou!)[/color][/font_size][/center]

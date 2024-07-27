@@ -1,0 +1,85 @@
+[font_size=30][center][b][color=#0000FF]La Forme en て des Verbes Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La forme en て (te) des verbes est une des formes verbales les plus importantes en japonais. Elle est utilisée dans de nombreuses structures grammaticales et est essentielle pour construire des phrases complexes.
+
+[font_size=24][color=#4B0082]1. Qu'est-ce que la forme en て ?[/color][/font_size]
+
+La forme en て (te) est une conjugaison verbale qui sert principalement à relier des actions ou à exprimer certaines nuances d'action, telles que la continuité, la permission ou la demande.
+
+[indent][b]Exemple de base :[/b]
+[code]
+食べて (tabete) [color=#008000](manger)[/color]
+行って (itte) [color=#008000](aller)[/color]
+来て (kite) [color=#008000](venir)[/color]
+見て (mite) [color=#008000](voir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]ご飯を食べてください。[font_size=18pt](Gohan o tabete kudasai.)[/font_size][/color] [color=#008000](Veuillez manger le repas.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison des verbes en forme en て[/color][/font_size]
+
+Les verbes japonais se divisent en plusieurs groupes, chacun ayant sa propre règle pour former la forme en て (te). Voici les principales règles :
+
+[a]• Verbes de type 1 (五段動詞 (godan doushi))[/a]
+[indent]Pour les verbes de type 1, la terminaison dépend du son de la dernière syllabe avant la terminaison ます (masu).
+[code]
+飲む (nomu) -> 飲んで (nonde) [color=#008000](boire)[/color]
+書く (kaku) -> 書いて (kaite) [color=#008000](écrire)[/color]
+話す (hanasu) -> 話して (hanashite) [color=#008000](parler)[/color]
+立つ (tatsu) -> 立って (tatte) [color=#008000](se lever)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]本を読んでいます。[font_size=18pt](Hon o yonde imasu.)[/font_size][/color] [color=#008000](Je suis en train de lire un livre.)[/color][/i][/indent]
+
+[b]• Verbes de type 2 (一段動詞 (ichidan doushi))[/b]
+[indent]Pour les verbes de type 2, il suffit de remplacer la terminaison る (ru) par て (te).
+[code]
+食べる (taberu) -> 食べて (tabete) [color=#008000](manger)[/color]
+見る (miru) -> 見て (mite) [color=#008000](voir)[/color]
+起きる (okiru) -> 起きて (okite) [color=#008000](se réveiller)[/color]
+寝る (neru) -> 寝て (nete) [color=#008000](dormir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]テレビを見てください。[font_size=18pt](Terebi o mite kudasai.)[/font_size][/color] [color=#008000](Veuillez regarder la télévision.)[/color][/i][/indent]
+
+[c]• Verbes irréguliers[/c]
+[indent]Les verbes irréguliers ne suivent pas les règles standard et doivent être mémorisés individuellement.
+[code]
+する (suru) -> して (shite) [color=#008000](faire)[/color]
+来る (kuru) -> 来て (kite) [color=#008000](venir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]宿題をしてね。[font_size=18pt](Shukudai o shite ne.)[/font_size][/color] [color=#008000](Fais tes devoirs, d'accord?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisations courantes de la forme en て[/color][/font_size]
+
+La forme en て (te) est utilisée dans de nombreuses structures grammaticales en japonais. En voici quelques-unes :
+
+[indent]• Pour relier des actions
+[i]Exemple : [color=#0000FF]朝ご飯を食べて、学校に行きます。[font_size=18pt](Asagohan o tabete, gakko ni ikimasu.)[/font_size][/color] [color=#008000](Je mange le petit-déjeuner et vais à l'école.)[/color][/i]
+
+- Pour exprimer une action en cours avec いる (iru)
+[i]Exemple : [color=#0000FF]本を読んでいます。[font_size=18pt](Hon o yonde imasu.)[/font_size][/color] [color=#008000](Je suis en train de lire un livre.)[/color][/i]
+
+- Pour demander quelque chose poliment
+[i]Exemple : [color=#0000FF]待ってください。[font_size=18pt](Matte kudasai.)[/font_size][/color] [color=#008000](Veuillez attendre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Précisions supplémentaires[/color][/font_size]
+
+La forme en て (te) permet également de donner des ordres ou de faire des demandes informelles dans le contexte amical ou familial. Il est important de noter le degré de politesse approprié à chaque situation.
+
+[indent]• Faire une demande informelle
+[i]Exemple : [color=#0000FF]手伝って。[font_size=18pt](Tetsudatte.)[/font_size][/color] [color=#008000](Aide-moi.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La forme en て (te) est essentielle pour construire des phrases complexes en japonais.
+[color=#FF0000]2.[/color] Les règles de conjugaison varient selon le type de verbe (五段動詞 (godan doushi), 一段動詞 (ichidan doushi), et irréguliers).
+[color=#FF0000]3.[/color] Elle est utilisée pour relier des actions, exprimer des actions en cours, et formuler des demandes.
+[color=#FF0000]4.[/color] Faites attention au niveau de politesse approprié pour chaque situation.[/indent]
+
+[center][font_size=18][color=#808080]て形を覚えることが、あなたの日本語をより自然にします！(Te-kei o oboeru koto ga, anata no nihongo o yori shizen ni shimasu!)[/color][/font_size][/center]

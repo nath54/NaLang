@@ -1,0 +1,73 @@
+[font_size=30][center][b][color=#0000FF]Les Structures de Base pour Poser des Questions en Japonais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Poser des questions en japonais est une compétence essentielle pour communiquer efficacement. En utilisant des structures claires et des suffixes appropriés, vous pouvez formuler des questions courantes et précises. 
+
+[font_size=24][color=#4B0082]1. Particule de question [か] (ka)[/color][/font_size]
+
+La manière la plus simple et directe de poser une question en japonais est d'ajouter la particule [か] (ka) à la fin d'une phrase déclarative.
+
+[indent][code]
+彼は学生ですか。 (Kare wa gakusei desu ka?) [color=#008000](Est-il étudiant ?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]これは何ですか？[font_size=18pt](Kore wa nan desu ka?) [/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Mots interrogatifs[/color][/font_size]
+
+En ajoutant des mots interrogatifs à vos questions, vous pouvez demander des informations spécifiques. Voici les plus courants :
+
+[indent][code]
+何 (なに / なん) (nani / nan) [color=#008000](quoi)[/color]
+誰 (だれ) (dare) [color=#008000](qui)[/color]
+どこ (doko) [color=#008000](où)[/color]
+いつ (itsu) [color=#008000](quand)[/color]
+なぜ (naze) [color=#008000](pourquoi)[/color]
+どう (dō) [color=#008000](comment)[/color]
+どの (dono) [color=#008000](lequel)[/color]
+どれ (dore) [color=#008000](lequel parmi plusieurs)[/color]
+どちら (dochira) [color=#008000](lequel des deux / où, formel)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は誰ですか？[font_size=18pt](Kare wa dare desu ka?) [/font_size][/color] [color=#008000](Qui est-il ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Questions avec "ですか" (desu ka) et "ますか" (masu ka)[/color][/font_size]
+
+Pour des questions polies, utilisez "ですか" (desu ka) pour les phrases descriptives, et "ますか" (masu ka) pour les verbes d'action.
+
+[indent][b]a) Phrases descriptives[/b]
+[indent][code]
+これは新しいですか？ (Kore wa atarashii desu ka?) [color=#008000](Est-ce nouveau ?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼は先生ですか？[font_size=18pt](Kare wa sensei desu ka?) [/font_size][/color] [color=#008000](Est-il professeur ?)[/color][/i][/indent]
+
+[b]b) Verbes d'action[/b]
+[indent][code]
+あなたは行きますか？ (Anata wa ikimasu ka?) [color=#008000](Irez-vous ?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼女は食べますか？[font_size=18pt](Kanojo wa tabemasu ka?) [/font_size][/color] [color=#008000](Va-t-elle manger ?)[/color][/i][/indent][/indent]
+
+[font_size=24][color=#4B0082]4. Utilisation de [かどうか] (ka dō ka)[/color][/font_size]
+
+Pour poser des questions indirectes ou alternatives, on utilise "かどうか" (ka dō ka), qui signifie "si... ou non". 
+
+[indent][code]
+彼が来るかどうかはまだ分かりません。 (Kare ga kuru ka dō ka wa mada wakarimasen.) [color=#008000](Je ne sais pas encore s'il viendra ou non.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]彼女が好きかどうか教えてください。[font_size=18pt](Kanojo ga suki ka dō ka oshiete kudasai.) [/font_size][/color] [color=#008000](Dites-moi si vous l'aimez ou non.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La particule [か] (ka) est utilisée pour terminer une phrase en question.
+[color=#FF0000]2.[/color] Utilisez des mots interrogatifs tels que [何] (nani) et [誰] (dare) pour poser des questions spécifiques.
+[color=#FF0000]3.[/color] Pour des questions polies, terminez les phrases descriptives avec [ですか] (desu ka) et les actions avec [ますか] (masu ka).
+[color=#FF0000]4.[/color] Pour des questions indirectes ou alternatives, utilisez [かどうか] (ka dō ka).
+[/indent]
+
+[center][font_size=18][color=#808080]質問の仕方をマスターして、日本語で自由にコミュニケーションしましょう！(Shitsumon no shikata o masutā shite, nihongo de jiyū ni komyunikēshon shimashou!)[/color][/font_size][/center]

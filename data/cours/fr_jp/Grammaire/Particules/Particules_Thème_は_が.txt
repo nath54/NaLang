@@ -1,0 +1,72 @@
+[font_size=30][center][b][color=#0000FF]Les Particules de Thème : は (wa) et が (ga)[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les particules `は` (wa) et `が` (ga) sont essentielles en japonais et jouent des rôles clés dans la structuration des phrases. Elles peuvent être source de confusion pour les apprenants car chacune a des usages spécifiques pour indiquer le thème et le sujet de la phrase.
+
+[font_size=24][color=#4B0082]1. La particule は (wa)[/color][/font_size]
+
+La particule `は` (wa), souvent appelée particule de thème, est utilisée pour introduire le sujet général ou le thème de la phrase, quelque chose dont on parle ou discute.
+
+[indent][b]Exemples d'utilisation de は (wa)[/b]
+[code]
+これは本です。(kore wa hon desu.) [color=#008000](Ceci est un livre.)[/color]
+猫はかわいい。(neko wa kawaii.) [color=#008000](Les chats sont mignons.)[/color]
+私の名前は田中です。(watashi no namae wa Tanaka desu.) [color=#008000](Mon nom est Tanaka.)[/color]
+[/code]
+
+[i]Explication: Dans chaque phrase, `は` (wa) met l'accent sur le thème général, ce dont on parle.[/i][/indent]
+
+[font_size=24][color=#4B0082]2. La particule が (ga)[/color][/font_size]
+
+La particule `が` (ga), quant à elle, est souvent appelée particule de sujet. Elle met en avant le sujet grammatical de la phrase, en particulier lorsque quelque chose est spécifiquement désigné ou introduit pour la première fois.
+
+[indent][b]Exemples d'utilisation de が (ga)[/b]
+[code]
+誰が来ますか？ (dare ga kimasu ka?) [color=#008000](Qui vient ?) [/color]
+猫が好きです。 (neko ga suki desu.) [color=#008000](J'aime les chats.)[/color]
+雨が降っている。(ame ga futte iru.) [color=#008000](Il pleut.)[/color]
+[/code]
+
+[i]Explication: Dans ces phrases, `が` (ga) identifie clairement le sujet ou l'agent de l'action.[/i][/indent]
+
+[font_size=24][color=#4B0082]3. Comparaison entre は (wa) et が (ga)[/color][/font_size]
+
+Pour comprendre quand utiliser `は` (wa) ou `が` (ga), il est nécessaire de saisir leur nuance :
+
+[indent][b]a) Emphase et introduction[/b]
+[indent]• Utilisez `が` (ga) pour introduire ou identifier quelque chose de nouveau dans la conversation.
+[i]Exemple : [color=#0000FF]新しい先生が来ました。[font_size=18pt](Atarashii sensei ga kimashita.)[/font_size][/color] [color=#008000](Un nouveau professeur est arrivé.)[/color][/i]
+
+• Utilisez `は` (wa) pour faire référence à quelque chose dont on a déjà parlé ou qui est déjà connu dans le contexte.
+[i]Exemple : [color=#0000FF]新しい先生は親切です。[font_size=18pt](Atarashii sensei wa shinsetsu desu.)[/font_size][/color] [color=#008000](Le nouveau professeur est gentil.)[/color][/i][/indent]
+
+[b]b) Contraste et spécificité[/b]
+[indent]• `は` (wa) met souvent en contraste.
+[i]Exemple : [color=#0000FF]コーヒーは好きですが、紅茶は好きではありません。[font_size=18pt](Koohii wa suki desu ga, koucha wa suki de wa arimasen.)[/font_size][/color] [color=#008000](J'aime le café, mais je n'aime pas le thé.)[/color][/i]
+
+• `が` (ga) est utilisé pour spécifier un sujet dans une phrase où plusieurs sujets pourraient être possibles.
+[i]Exemple : [color=#0000FF]この映画が一番好きです。[font_size=18pt](Kono eiga ga ichiban suki desu.)[/font_size][/color] [color=#008000](C'est ce film que je préfère.)[/color][/i][/indent][/indent]
+
+[font_size=24][color=#4B0082]4. Précisions supplémentaires[/color][/font_size]
+
+Certaines structures et expressions spécifiques favorisent naturellement l'usage de `が` (ga) ou `は` (wa).
+
+[indent][b]a) Sentiments et goûts[/b]
+[indent]Les sentiments, goûts et désirs utilisent généralement `が` (ga).
+[i]Exemple : [color=#0000FF]寿司が食べたい。[font_size=18pt](Sushi ga tabetai.)[/font_size][/color] [color=#008000](Je veux manger des sushis.)[/color][/i][/indent]
+
+[b]b) Position et existence[/b]
+[indent]Pour parler de la présence ou de l'existence de quelque chose, `が` (ga) est souvent utilisé.
+[i]Exemple : [color=#0000FF]猫がいます。[font_size=18pt](Neko ga imasu.)[/font_size][/color] [color=#008000](Il y a un chat.)[/color][/i][/indent][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La particule `は` (wa) introduit des thèmes généraux ou connus.
+[color=#FF0000]2.[/color] La particule `が` (ga) identifie ou introduit spécifiquement le sujet de la phrase.
+[color=#FF0000]3.[/color] Utilisez `は` (wa) pour le contraste ou pour des sujets déjà mentionnés.
+[color=#FF0000]4.[/color] Utilisez `が` (ga) pour des émotions, désirs, ou pour introduire des sujets nouveaux et spécifiques.[/indent]
+
+[center][font_size=18][color=#808080]正しい粒子を使用して、日本語の表現をよりよく理解しましょう！(Tadashī ryūshi o shiyō shite, nihongo no hyōgen o yori yoku rikai shimashou!)[/color][/font_size][/center]
