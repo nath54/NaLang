@@ -1,1 +1,77 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Compléments de Direction en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les compléments de direction sont utilisés en chinois pour indiquer la direction d'une action. Ils sont souvent formés par la combinaison de verbes de mouvement avec des suffixes directionnels. Comprendre et utiliser ces structures vous aidera à rendre vos phrases en chinois plus précises et naturelles.
+
+[font_size=24][color=#4B0082]1. Structure de base des compléments de direction[/color][/font_size]
+
+Pour exprimer la direction en chinois, on utilise généralement deux niveaux de complément : la direction simple et la direction composée. Voici les plus courants :
+
+[b]a) Directions simples[/b]
+[indent]Les directions simples sont souvent des verbes qui indiquent le mouvement comme monter, descendre, entrer et sortir.
+[code]
+上 (shàng) [color=#008000](monter)[/color]
+下 (xià) [color=#008000](descendre)[/color]
+进 (jìn) [color=#008000](entrer)[/color]
+出 (chū) [color=#008000](sortir)[/color]
+回 (huí) [color=#008000](revenir)[/color]
+过 (guò) [color=#008000](traverser)[/color]
+起 (qǐ) [color=#008000](se lever)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他下楼了。[size=18pt](Tā xià lóu le.)[/size] [color=#008000](Il est descendu.)[/color][/i][/indent]
+
+[b]b) Directions composées[/b]
+[indent]Les directions composées sont obtenues en ajoutant des suffixes directionnels à ces verbes.
+[code]
+上来 (shàng lái) [color=#008000](monter vers le locuteur)[/color]
+上去 (shàng qù) [color=#008000](monter loin du locuteur)[/color]
+下来 (xià lái) [color=#008000](descendre vers le locuteur)[/color]
+下去 (xià qù) [color=#008000](descendre loin du locuteur)[/color]
+进来 (jìn lái) [color=#008000](entrer vers le locuteur)[/color]
+进去 (jìn qù) [color=#008000](entrer loin du locuteur)[/color]
+出来 (chū lái) [color=#008000](sortir vers le locuteur)[/color]
+出去 (chū qù) [color=#008000](sortir loin du locuteur)[/color]
+回来 (huí lái) [color=#008000](revenir vers le locuteur)[/color]
+回去 (huí qù) [color=#008000](revenir loin du locuteur)[/color]
+过来 (guò lái) [color=#008000](traverser vers le locuteur)[/color]
+过去 (guò qù) [color=#008000](traverser loin du locuteur)[/color]
+起来 (qǐ lái) [color=#008000](se lever vers le haut)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他走上来了。[size=18pt](Tā zǒu shàng lái le.)[/size] [color=#008000](Il est monté (vers moi).)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des compléments de direction[/color][/font_size]
+
+Les compléments de direction s'utilisent pour décrire la direction d'une action liée au mouvement. Voici quelques règles et exemples pour vous aider à bien les utiliser.
+
+[indent]• Quand l'action se dirige vers le locuteur, utilisez [color=#FF0000]来[/color] (lái).
+[i]Exemple : [color=#0000FF]他走进屋里来了。[size=18pt](Tā zǒu jìn wū li lái le.)[/size] [color=#008000](Il est entré dans la maison (vers moi).)[/color][/i]
+
+- Quand l'action s'éloigne du locuteur, utilisez [color=#FF0000]去[/color] (qù).
+[i]Exemple : [color=#0000FF]他走出教室去。[size=18pt](Tā zǒu chū jiàoshì qù.)[/size] [color=#008000](Il est sorti de la salle de classe (s'éloignant de moi).)[/color][/i]
+
+- Combinez les verbes d'action pour décrire des mouvements plus complexes :
+[i]Exemple : [color=#0000FF]他跑进来了。[size=18pt](Tā pǎo jìn lái le.)[/size] [color=#008000](Il a couru à l'intérieur (vers moi).)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Pour ajouter des indications supplémentaires comme le lieu ou le but de l'action, il est possible d'insérer des compléments entre le verbe de mouvement et le directionnel.
+
+[indent]• Insertion d'un lieu
+[i]Exemple : [color=#0000FF]他跑进教室来了。[size=18pt](Tā pǎo jìn jiàoshì lái le.)[/size] [color=#008000](Il a couru dans la salle de classe (vers moi).)[/color][/i]
+
+- Préciser le but de l'action
+[i]Exemple : [color=#0000FF]他走上楼去看书。[size=18pt](Tā zǒu shàng lóu qù kàn shū.)[/size] [color=#008000](Il est monté à l'étage pour lire un livre.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les compléments de direction indiquent la direction et l'orientation d'une action.
+[color=#FF0000]2.[/color] Les directions simples se combinent souvent avec [color=#FF0000]来[/color] (lái) et [color=#FF0000]去[/color] (qù) pour former des directions composées.
+[color=#FF0000]3.[/color] La direction de l'action par rapport au locuteur est essentielle pour choisir entre [color=#FF0000]来[/color] (lái) et [color=#FF0000]去[/color] (qù).
+[color=#FF0000]4.[/color] Les compléments de direction peuvent être enrichis par des informations sur le lieu ou le but de l'action.[/indent]
+
+[center][font_size=18][color=#808080]正确使用方向补语，令你的中文表达更加自然流畅！(zhèngquè shǐyòng fāngxiàng bǔyǔ, lìng nǐ de zhōngwén biǎodá gèng jiā zìrán liúchàng!)[/color][/font_size][/center]

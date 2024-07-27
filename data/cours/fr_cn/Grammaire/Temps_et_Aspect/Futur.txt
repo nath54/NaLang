@@ -1,1 +1,84 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Futur en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le futur en chinois peut sembler moins compliqué qu'en français, car le chinois n'utilise pas de conjugaisons verbales à proprement parler pour exprimer le temps. Cependant, le futur est indiqué par certains mots et constructions spécifiques qui signalent qu'une action se déroulera à l'avenir. Comprendre ces mécanismes est essentiel pour bien maîtriser cette langue.
+
+[font_size=24][color=#4B0082]1. Les particules et auxiliaires pour indiquer le futur[/color][/font_size]
+
+a) [b]会 (huì)[/b]
+[indent]L'auxiliaire [b]会 (huì)[/b] est souvent utilisé pour indiquer une action qui se produira à l'avenir ou une compétence acquise. C'est un indicateur commun du futur.
+
+[code]
+我会去 (wǒ huì qù) [color=#008000](Je vais aller / J'irai)[/color]
+他会说中文 (tā huì shuō zhōngwén) [color=#008000](Il saura parler chinois / Il saura parler chinois)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]明天我会去北京。[/color] [color=#008000](Míngtiān wǒ huì qù Běijīng) [color=#008000](Demain, j'irai à Pékin.)[/color][/i][/indent]
+
+b) [b]要 (yào)[/b]
+[indent]L'auxiliaire [b]要 (yào)[/b] exprime également une intention ou une planification pour l'avenir. Il peut aussi signifier "avoir besoin de" ou "vouloir".
+
+[code]
+我要去 (wǒ yào qù) [color=#008000](Je vais aller / J'irai)[/color]
+他要学习 (tā yào xuéxí) [color=#008000](Il va étudier / Il va étudier)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我们要去看电影。[/color] [color=#008000](Wǒmen yào qù kàn diànyǐng) [color=#008000](Nous allons aller voir un film.)[/color][/i][/indent]
+
+c) [b]将 (jiāng)[/b]
+[indent]L'auxiliaire [b]将 (jiāng)[/b] est souvent utilisé dans des contextes plus formels pour indiquer des événements futurs.
+
+[code]
+他将来 (tā jiāng lái) [color=#008000](Il viendra)[/color]
+我们将会 (wǒmen jiāng huì) [color=#008000](Nous ferons)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]比赛将在明天举行。[/color] [color=#008000](Bǐsài jiāng zài míngtiān jǔxíng) [color=#008000](La compétition aura lieu demain.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Indicateurs de temps pour le futur[/color][/font_size]
+
+En plus des auxiliaires, le futur en chinois est souvent indiqué par des mots ou syntagmes donnant des indications temporelles. Voici quelques exemples courants :
+
+[indent][code]
+明天 (míngtiān) [color=#008000](demain)[/color]
+下周 (xià zhōu) [color=#008000](la semaine prochaine)[/color]
+以后 (yǐhòu) [color=#008000](après / plus tard)[/color]
+将来 (jiānglái) [color=#008000](à l'avenir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他明天去上海。[/color] [color=#008000](Tā míngtiān qù Shànghǎi) [color=#008000](Il ira à Shanghai demain.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Formations négatives au futur[/color][/font_size]
+
+Pour exprimer la négation au futur, il suffit d'ajouter [b]不 (bù)[/b] devant les auxiliaires [b]会 (huì)[/b], [b]要 (yào)[/b] ou [b]将 (jiāng)[/b].
+
+[indent][code]
+我不会去 (wǒ bù huì qù) [color=#008000](Je n'irai pas)[/color]
+他不要学习 (tā bù yào xuéxí) [color=#008000](Il ne va pas étudier)[/color]
+比赛将不会 (bǐsài jiāng bù huì) [color=#008000](La compétition n'aura pas lieu)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我明天不去北京。[/color] [color=#008000](Wǒ míngtiān bù qù Běijīng) [color=#008000](Je n'irai pas à Pékin demain.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Autres méthodes pour indiquer le futur[/color][/font_size]
+
+Le futur peut également être indiqué par certaines constructions de phrase qui impliquent une intention ou une planification, souvent introduites par des mots comme [b]打算 (dǎsuàn) (planifier)[/b], [b]准备 (zhǔnbèi) (se préparer à)[/b].
+
+[indent][code]
+我打算去旅行 (wǒ dǎsuàn qù lǚxíng) [color=#008000](Je planifie de voyager)[/color]
+她准备去看望朋友 (tā zhǔnbèi qù kànwàng péngyǒu) [color=#008000](Elle se prépare à visiter ses amis)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我们打算下个月去法国。[/color] [color=#008000](Wǒmen dǎsuàn xià gè yuè qù Fǎguó) [color=#008000](Nous prévoyons d'aller en France le mois prochain.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le futur est souvent indiqué par des auxiliaires tels que [b]会 (huì)[/b], [b]要 (yào)[/b], et [b]将 (jiāng)[/b].
+[color=#FF0000]2.[/color] Les indicateurs temporels comme [b]明天 (míngtiān)[/b] et [b]下周 (xià zhōu)[/b] sont essentiels pour situer l'action dans l'avenir.
+[color=#FF0000]3.[/color] La négation au futur se forme en ajoutant [b]不 (bù)[/b] devant les auxiliaires futurs.
+[color=#FF0000]4.[/color] Les expressions de planification comme [b]打算 (dǎsuàn)[/b] et [b]准备 (zhǔnbèi)[/b] peuvent aussi indiquer des actions futures.[/indent]
+
+[center][font_size=18][color=#808080]学习小心点，慢慢地，你的一切会越来越好！[/color][/font_size][/center]

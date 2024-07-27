@@ -1,1 +1,81 @@
- 
+[font_size=30][center][b][color=#0000FF]Possibilité avec 会 (huì) en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le mot 会 (huì) en chinois est un adverbe modal très courant qui peut signifier "savoir", "pouvoir" ou "être capable de". Cependant, dans ce cours, nous allons nous concentrer sur son utilisation pour exprimer la possibilité ou la probabilité dans des phrases. C'est un outil grammatical essentiel pour les apprenants de la langue chinoise.
+
+[font_size=24][color=#4B0082]1. Utilisation de 会 (huì) pour exprimer la possibilité[/color][/font_size]
+
+En chinois, 会 (huì) est utilisé pour indiquer qu'une action est probable ou possible de se produire. Il est généralement placé avant le verbe principal de la phrase.
+
+[b]Exemple :[/b]
+[indent][color=#0000FF]他会来 (tā huì lái)[/color] [color=#008000](Il viendra.)[/color]
+
+Dans cette phrase, 会 (huì) est utilisé pour indiquer que la venue de la personne est probable ou attendue. [/indent]
+
+会 (huì) est souvent utilisé dans des contextes impliquant des prédictions ou des attentes concernant des événements futurs.
+
+[font_size=24][color=#4B0082]2. Structure de la phrase avec 会 (huì)[/color][/font_size]
+
+La structure de la phrase avec 会 (huì) est assez simple et directe. Il suffit de suivre l'ordre Sujet + 会 (huì) + Verbe.
+
+[indent][color=#FF0000]Sujet + 会 (huì) + Verbe[/color]
+
+[b]Exemples :[/b]
+[indent][color=#0000FF]明天会下雨 (míngtiān huì xiàyǔ)[/color] [color=#008000](Il pleuvra demain.)[/color]
+[color=#0000FF]你会说中文吗？(nǐ huì shuō zhōngwén ma?)[/color] [color=#008000](Est-ce que tu sais parler chinois ?)[/color][/indent][/indent]
+
+La place de 会 (huì) ne change pas même dans des phrases interrogatives. La particule finale 吗 (ma) est ajoutée pour transformer une phrase déclarative en question.
+
+[font_size=24][color=#4B0082]3. Nuancer la probabilité[/color][/font_size]
+
+Pour renforcer ou diminuer la probabilité exprimée par 会 (huì), on peut utiliser d'autres adverbes. Voici quelques exemples courants :
+
+[b]Fortement probable :[/b] 很会 (hěn huì)
+[indent][color=#0000FF]他很会打篮球 (tā hěn huì dǎ lánqiú)[/color] [color=#008000](Il est très bon au basket-ball.)[/color][/indent]
+
+[b]Moins probable :[/b] 不会 (bù huì)
+[indent][color=#0000FF]他不会来 (tā bù huì lái)[/color] [color=#008000](Il ne viendra pas.)[/color][/indent]
+
+Notez qu'en ajoutant 很 (hěn) ou 不 (bù) devant 会 (huì), on peut respectivement augmenter ou diminuer la probabilité que l'action se produise.
+
+[font_size=24][color=#4B0082]4. Comparaison avec d'autres modalités[/color][/font_size]
+
+En chinois, il existe d'autres mots modaux qui peuvent exprimer la possibilité, la capacité, ou la permission, tels que 能 (néng), 可以 (kěyǐ) et 要 (yào). La différence entre ces mots et 会 (huì) peut parfois sembler subtile :
+
+[b]能 (néng)[/b] - capacité physique
+[indent][color=#0000FF]我能游泳 (wǒ néng yóuyǒng)[/color] [color=#008000](Je sais nager.)[/color][/indent]
+
+[b]可以 (kěyǐ)[/b] - permission ou possibilité légale
+[indent][color=#0000FF]你可以走了 (nǐ kěyǐ zǒu le)[/color] [color=#008000](Tu peux partir maintenant.)[/color][/indent]
+
+[b]要 (yào)[/b] - obligation ou intention
+[indent][color=#0000FF]我要去北京 (wǒ yào qù Běijīng)[/color] [color=#008000](Je vais à Pékin.)[/color][/indent]
+
+会 (huì) est spécifiquement utilisé pour indiquer une compétence acquise (comme savoir faire quelque chose) ou une possibilité future.
+
+[font_size=24][color=#4B0082]5. Adverbes composés avec 会 (huì)[/color][/font_size]
+
+Il existe certaines locutions adverbiales composées avec 会 (huì) qui peuvent enrichir votre expression en chinois :
+
+[indent][color=#FF0000]会不会 (huì bù huì)[/color] - pour poser une question de possibilité
+[b]Exemple :[/b]
+[indent][color=#0000FF]他会不会来？ (tā huì bù huì lái?)[/color] [color=#008000](Est-ce qu'il viendra ?)[/color][/indent]
+
+[color=#FF0000]偶尔会 (ǒu’ěr huì)[/color] - parfois il peut
+[b]Exemple :[/b]
+[indent][color=#0000FF]他偶尔会迟到 (tā ǒu’ěr huì chídào)[/color] [color=#008000](Il peut parfois être en retard.)[/color][/indent][indent]
+
+Ces expressions permettent de poser des questions et de faire des déclarations sur des possibilités de manière plus nuancée. 
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] 会 (huì) est utilisé pour exprimer la possibilité ou la probabilité.
+[color=#FF0000]2.[/color] La structure des phrases avec 会 (huì) est Sujet + 会 + Verbe.
+[color=#FF0000]3.[/color] On peut nuancer la probabilité avec des adverbes comme 很 (hěn) pour "très" et 不 (bù) pour "ne pas".
+[color=#FF0000]4.[/color] 会 (huì) est distinct de d'autres modaux comme 能 (néng), 可以 (kěyǐ), et 要 (yào).
+[color=#FF0000]5.[/color] Utiliser des locutions adverbiales composées avec 会 (huì) pour enrichir votre expression.[/indent]
+
+[center][font_size=18][color=#808080]利用会学中文，让你的中文更加流利！(Lìyòng huì xué zhōngwén, ràng nǐ de zhōngwén gèngjiā liúlì !)[/color][/font_size][/center]

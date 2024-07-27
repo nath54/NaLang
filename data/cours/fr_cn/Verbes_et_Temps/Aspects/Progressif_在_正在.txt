@@ -1,1 +1,70 @@
- 
+[font_size=30][center][b][color=#0000FF]L'aspect progressif en chinois : 在 zài et 正在 zhèngzài[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'aspect progressif exprime une action en cours de réalisation au moment où l'on parle. En chinois, on utilise principalement deux marqueurs pour indiquer le progressif : [color=#0000FF]在[/color] (zài) et [color=#0000FF]正在[/color] (zhèngzài). Ces deux termes sont souvent interchangeables, mais [color=#0000FF]正在[/color] (zhèngzài) peut parfois insister davantage sur le caractère temporaire ou actuel de l'action.
+
+[font_size=24][color=#4B0082]1. Utilisation de 在 (zài)[/color][/font_size]
+
+[b]a) Au début de la phrase[/b]
+[indent]在 (zài) est couramment utilisé devant le verbe pour marquer l'aspect progressif. La structure de phrase typique est :
+[code]
+Sujet + 在 (zài) + Verbe + (Objet)
+[/code]
+
+[i]Exemple : [color=#0000FF]我在吃饭。[/color] (wǒ zài chī fàn) [color=#008000](Je suis en train de manger.)[/color][/i]
+
+Dans cet exemple, [color=#0000FF]在[/color] (zài) indique que l'action de manger est en cours.[/indent]
+
+[b]b) Pour une action dans le passé[/b]
+[indent]Lorsque l'on parle d'une action en cours à un moment précis dans le passé, on peut aussi utiliser [color=#0000FF]在[/color] (zài) avant le verbe, souvent accompagné d'un marqueur de temps passé.
+
+[i]Exemple : [color=#0000FF]昨天下午他在写作业。[/color] (zuótiān xiàwǔ tā zài xiě zuòyè) [color=#008000](Hier après-midi, il était en train de faire ses devoirs.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de 正在 (zhèngzài)[/color][/font_size]
+
+[b]a) Mettant l'accent sur l'instant présent[/b]
+[indent]正在 (zhèngzài) peut être utilisé de manière interchangeable avec 在 (zài), mais met souvent davantage l'accent sur le moment précis ou l'immédiateté de l'action.
+
+[code]
+Sujet + 正在 (zhèngzài) + Verbe + (Objet)
+[/code]
+
+[i]Exemple : [color=#0000FF]我正在看电视。[/color] (wǒ zhèngzài kàn diànshì) [color=#008000](Je suis en train de regarder la télévision.)[/color][/i]
+
+Ici, l'utilisation de [color=#0000FF]正在[/color] (zhèngzài) souligne que l'action de regarder la télévision est en cours exactement à ce moment-là.[/indent]
+
+[b]b) Soulignant l'aspect temporaire[/b]
+[indent]正在 (zhèngzài) peut aussi être utilisé pour insister sur le caractère temporaire ou transitoire d'une action en cours.
+
+[i]Exemple : [color=#0000FF]他正在学习中文。[/color] (tā zhèngzài xuéxí zhōngwén) [color=#008000](Il est en train d'apprendre le chinois.)[/color][/i]
+
+L'accent est mis ici sur le fait qu'il est en plein apprentissage du chinois à ce moment précis.[/indent]
+
+[font_size=24][color=#4B0082]3. Comparaison et quelques nuances[/color][/font_size]
+
+[b]a) Quand utiliser 在 (zài) versus 正在 (zhèngzài)[/b]
+[indent]Bien que les deux termes soient souvent interchangeables, 正在 (zhèngzài) tends à être utilisé lorsque l'on veut souligner explicitement l'action en cours au moment présent.
+
+[i]Exemple : [color=#0000FF]现在我在工作。[/color] (xiànzài wǒ zài gōngzuò) [color=#008000](Je suis en train de travailler maintenant.)[/color][/i]
+[i]Exemple : [color=#0000FF]现在我正在工作。[/color] (xiànzài wǒ zhèngzài gōngzuò) [color=#008000](Je suis précisément en train de travailler maintenant.)[/color][/i]
+
+Dans le deuxième exemple, [color=#0000FF]正在[/color] (zhèngzài) met davantage l'accent sur le fait que l'action est en cours à l'instant précis où l'on parle.[/indent]
+
+[b]b) Construction des phrases[/b]
+[indent]Une règle générale est que 在 (zài) et 正在 (zhèngzài) sont toujours placés avant le verbe, et peuvent rarement être utilisés ensemble dans la même phrase.
+[color=#FF0000]Erroné: 我正在在看书。[/color]
+
+[i]Correct : [color=#0000FF]我在看书。[/color] (wǒ zài kàn shū) [color=#008000](Je suis en train de lire un livre.)[/color][/i]
+[i]Correct : [color=#0000FF]我正在看书。[/color] (wǒ zhèngzài kàn shū) [color=#008000](Je suis en train de lire un livre.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] 在 (zài) et 正在 (zhèngzài) sont utilisés pour marquer l'aspect progressif d'une action en cours.
+[color=#FF0000]2.[/color] 正在 (zhèngzài) met souvent plus d'emphase sur le moment précis de l'action.
+[color=#FF0000]3.[/color] 在 (zài) et 正在 (zhèngzài) sont placés avant le verbe dans la structure de la phrase.
+[color=#FF0000]4.[/color] Les deux termes ne sont généralement pas utilisés ensemble dans une même phrase.[/indent]
+
+[center][font_size=18][color=#808080]使用进度表示法，让你的汉语更丰富多彩！[/color][/font_size][/center]

@@ -1,1 +1,84 @@
- 
+[font_size=30][center][b][color=#0000FF]Les tons en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La langue chinoise est connue pour ses caractères uniques, mais ce qui la rend encore plus particulière, ce sont ses tons. En effet, le chinois est une langue tonale. Cela signifie que le sens d'un mot peut changer en fonction du ton employé. Apprendre et maîtriser les tons est donc crucial pour parler correctement le chinois.
+
+[font_size=24][color=#4B0082]1. Les quatre tons du mandarin[/color][/font_size]
+
+En mandarin, il y a quatre tons principaux, chacun ayant une intonation distincte. Voici une description de chacun de ces tons :
+
+[b]a) Premier ton : ton haut et stable[/b]
+[indent]Le premier ton est plat et constant, il ne monte ni ne descend.
+
+[code]妈 (mā) [color=#008000](maman)[/color][/code]
+
+[i]Exemple : [color=#0000FF]mā[/color] [color=#008000](maman)[/color][/i][/indent]
+
+[b]b) Deuxième ton : ton montant[/b]
+[indent]Le deuxième ton monte progressivement, comme si vous posiez une question.
+
+[code]麻 (má) [color=#008000](chanvre)[/color][/code]
+
+[i]Exemple : [color=#0000FF]má[/color] [color=#008000](chanvre)[/color][/i][/indent]
+
+[b]c) Troisième ton : ton descendant puis montant[/b]
+[indent]Le troisième ton commence par descendre puis remonte légèrement, il ressemble à une courbe en V.
+
+[code]马 (mǎ) [color=#008000](cheval)[/color][/code]
+
+[i]Exemple : [color=#0000FF]mǎ[/color] [color=#008000](cheval)[/color][/i][/indent]
+
+[b]d) Quatrième ton : ton descendant brusque[/b]
+[indent]Le quatrième ton est court et brusque, il descend rapidement.
+
+[code]骂 (mà) [color=#008000](gronder)[/color][/code]
+
+[i]Exemple : [color=#0000FF]mà[/color] [color=#008000](gronder)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Le ton neutre[/color][/font_size]
+
+En plus des quatre tons principaux, il existe un ton neutre. Ce ton est léger et rapidement prononcé, n'ayant pas de direction musicale spécifique.
+
+[indent][code]吗 (ma) [color=#008000](particule interrogative)[/color][/code]
+
+[i]Exemple : [color=#0000FF]ma[/color] [color=#008000](particule interrogative)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Importance des tons[/color][/font_size]
+
+Les tons en chinois ne sont pas seulement une question de prononciation correcte, ils sont indispensables pour être compris. Par exemple, prenez la syllabe "ma". Selon le ton employé, elle peut signifier plusieurs choses différentes :
+
+[indent][code]
+mā [color=#008000](maman)[/color]
+má [color=#008000](chanvre)[/color]
+mǎ [color=#008000](cheval)[/color]
+mà [color=#008000](gronder)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]mā, má, mǎ, mà[/color] [color=#008000](maman, chanvre, cheval, gronder)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Comment pratiquer les tons[/color][/font_size]
+
+La pratique des tons peut être difficile au début, mais avec de l'entraînement, cela devient naturel. Voici quelques conseils pour vous aider :
+
+[indent]• [b]Écoutez des natifs[/b] : Regardez des vidéos ou écoutez des enregistrements de locuteurs natifs pour comprendre les variations tonales.
+- [b]Répétez après les natifs[/b] : Essayez de répéter les mots et phrases que vous entendez, en accordant une attention particulière aux tons.
+- [b]Utilisez des applications de langue[/b] : Il existe de nombreuses applications qui peuvent vous aider à pratiquer les tons chinois.[/indent]
+
+[font_size=24][color=#4B0082]5. Les tons dans les phrases[/color][/font_size]
+
+Les tons ne changent pas lorsque vous utilisez des mots dans une phrase, mais la fluidité et l'intonation globale de la phrase peuvent influencer légèrement leur perception. Il est donc essentiel de s'entraîner à dire des phrases complètes.
+
+[indent][i]Exemple : [color=#0000FF]妈妈骂马。[small](Mā ma mà mǎ.)[/color] [color=#008000](Maman gronde le cheval.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le chinois mandarin possède quatre tons principaux et un ton neutre.
+[color=#FF0000]2.[/color] Les tons peuvent changer complètement le sens d'un mot.
+[color=#FF0000]3.[/color] Pratiquer les tons est essentiel pour bien se faire comprendre.
+[color=#FF0000]4.[/color] Écouter et répéter après des locuteurs natifs est une excellente méthode pour apprendre les tons.
+[color=#FF0000]5.[/color] La fluidité des phrases peut influencer la perception des tons, mais ils restent inchangés.[/indent]
+
+[center][font_size=18][color=#808080]坚持练习语调，你会进步很快！(Jiānchí liànxí yǔdiào, nǐ huì jìnbù hěn kuài !)[/color][/font_size][/center]

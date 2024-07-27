@@ -1,1 +1,113 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Expressions Temporelles en Chinois: Le Passé[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, les expressions temporelles sont essentielles pour indiquer le moment où se déroule une action. Quand il s'agit du passé, il existe plusieurs manières d'exprimer le temps, chacune avec des usages et des particularités différentes.
+
+[font_size=24][color=#4B0082]1. Utilisation des adverbes temporels pour indiquer le passé[/color][/font_size]
+
+Tout comme en français, il est possible en chinois d'utiliser des adverbes temporels pour préciser que l'action s'est déroulée dans le passé.
+
+[b]a) 昨天 (zuótiān) - Hier[/b]
+[indent]Cet adverbe est couramment utilisé pour parler d'événements s'étant passés la veille.
+
+[code]
+昨天 (zuótiān) [color=#008000](hier)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我昨天去看电影了。[color=#008000](wǒ zuótiān qù kàn diànyǐng le) - J'ai été au cinéma hier.[/color][/color][/i][/indent]
+
+[b]b) 前天 (qiántiān) - Avant-hier[/b]
+[indent]Pour indiquer un moment qui remonte à deux jours en arrière.
+
+[code]
+前天 (qiántiān) [color=#008000](avant-hier)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他前天去了北京。[color=#008000](tā qiántiān qùle Běijīng) - Il est parti à Pékin avant-hier.[/color][/color][/i][/indent]
+
+[b]c) 去年 (qùnián) - L'an dernier[/b]
+[indent]Utilisé pour parler d'événements survenus l'année précédente.
+
+[code]
+去年 (qùnián) [color=#008000](l'an dernier)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我们去年去了法国。[color=#008000](wǒmen qùnián qùle Fǎguó) - Nous sommes allés en France l'an dernier.[/color][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Verbes d'action avec 了 (le)[/color][/font_size]
+
+Le chinois n'utilise pas des conjugaisons comme en français pour indiquer le passé. À la place, on ajoute souvent le marqueur 了 (le) après le verbe.
+
+[b]a) Structure de base[/b]
+[indent]La particule 了 (le) se place après le verbe pour indiquer que l'action est terminée.
+
+[code]
+我吃了。[color=#008000](wǒ chīle) - J'ai mangé.[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他读了那本书。[color=#008000](tā dúle nà běn shū) - Il a lu ce livre.[/color][/color][/i][/indent]
+
+[b]b) 了 avec des expressions temporelles[/b]
+[indent]Quand on utilise 了 (le) avec des adverbes temporels, ceux-ci sont généralement placés avant le verbe.
+
+[code]
+她昨天买了新衣服。[color=#008000](tā zuótiān mǎi le xīn yīfú) - Elle a acheté de nouveaux vêtements hier.[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我们去年去了巴黎。[color=#008000](wǒmen qùnián qùle Bālí) - Nous sommes allés à Paris l'année dernière.[/color][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les phrases négatives au passé[/color][/font_size]
+
+Pour nier une action au passé, on utilise la négation 没 (méi) devant le verbe, et on ne met pas 了 (le) après le verbe.
+
+[b]a) Structure négative de base[/b]
+[indent]La structure de la phrase négative au passé utilise 没 (méi) pour indiquer que l'action ne s'est pas produite.
+
+[code]
+我没吃。[color=#008000](wǒ méi chī) - Je n'ai pas mangé.[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF] 他没来。[color=#008000](tā méi lái) - Il n'est pas venu.[/color][/color][/i][/indent]
+
+[b]b) Phrases négatives avec des expressions temporelles[/b]
+[indent]Les adverbes temporels précisent alors également le contexte passé dans les phrases négatives.
+
+[code]
+我昨天没去学校。[color=#008000](wǒ zuótiān méi qù xuéxiào) - Je ne suis pas allé à l'école hier.[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]她上个月没看那部电影。[color=#008000](tā shàng gè yuè méi kàn nà bù diànyǐng) - Elle n'a pas vu ce film le mois dernier.[/color][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Questions sur des actions passées[/color][/font_size]
+
+Pour poser des questions sur des événements passés, on utilise des structures spécifiques en ajoutant des particules interrogatives en fin de phrase.
+
+[b]a) Structure interrogative basique avec 吗 (ma)[/b]
+[indent]Pour poser une question simple sur une action réalisée ou non.
+
+[code]
+你昨天去看了电影吗？[color=#008000](nǐ zuótiān qù kàn le diànyǐng ma) - Es-tu allé voir un film hier ?[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你去年去了中国吗？[color=#008000](nǐ qùnián qùle Zhōngguó ma) - Es-tu allé en Chine l'an dernier ?[/color][/color][/i][/indent]
+
+[b]b) Structure de question alternative avec 还是 (háishì)[/b]
+[indent]Pour poser une question sur deux choix possibles dans une action passée.
+
+[code]
+你昨天看电影还是读书了？[color=#008000](nǐ zuótiān kàn diànyǐng háishì dúshū le) - As-tu regardé un film ou lu un livre hier ?[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他上周末去上海还是留在家了？[color=#008000](tā shàng zhōumò qù Shànghǎi háishì liú zài jiā le) - Est-il allé à Shanghai ou est-il resté à la maison week-end dernier ?[/color][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Utilisez des adverbes temporels comme 昨天 (zuótiān) et 去年 (qùnián) pour indiquer des actions passées.
+[color=#FF0000]2.[/color] Ajoutez 了 (le) après le verbe pour marquer une action terminée au passé.
+[color=#FF0000]3.[/color] Utilisez 没 (méi) pour négativer une action passée sans 了 (le).
+[color=#FF0000]4.[/color] Employez 吗 (ma) et 还是 (háishì) pour poser des questions sur les événements passés.[/indent]
+
+[center][font_size=18][color=#808080]运用这些表达，让你的中文交流更加流利自如！(yùnyòng zhèxiē biǎodá, ràng nǐ de zhōngwén jiāoliú gèng jiā liúlì zìrú!) - Utilisez ces expressions pour rendre vos conversations en chinois plus fluides et naturelles ![/color][/font_size][/center]

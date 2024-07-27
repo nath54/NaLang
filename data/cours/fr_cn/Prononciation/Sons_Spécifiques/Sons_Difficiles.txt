@@ -1,1 +1,97 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Sons Spécifiques et Difficiles en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La langue chinoise présente plusieurs sons qui peuvent sembler difficiles pour les francophones. Ces sons spécifiques nécessitent une attention particulière et une pratique régulière pour être maîtrisés correctement. Dans ce cours, nous allons explorer certains de ces sons et fournir des conseils pour les prononcer correctement.
+
+[font_size=24][color=#4B0082]1. Le son "Zh" (zh)[/color][/font_size]
+
+Le son [color=#FF0000]zh[/color] se produit lorsque l'on place la langue contre la partie arrière du palais dur et que l'on produit un son similaire à "dj" en français.
+
+[b]Exemple de mots contenant "zh":[/b]
+[indent][code]
+中国 (zhōng guó) [color=#008000](Chine)[/color]
+知道 (zhī dào) [color=#008000](savoir)[/color]
+重要 (zhòng yào) [color=#008000](important)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他是中国人。[color/#008000] (tā shì zhōng guó rén) [color=#008000](Il est chinois.)[/color][/i]
+[/indent]
+
+[font_size=24][color=#4B0082]2. Le son "Ch" (ch)[/color][/font_size]
+
+Le son [color=#FF0000]ch[/color] est similaire à "tch" en français, mais il est produit en plaçant la langue légèrement plus en arrière.
+
+[b]Exemple de mots contenant "ch":[/b]
+[indent][code]
+吃 (chī) [color=#008000](manger)[/color]
+车 (chē) [color=#008000](voiture)[/color]
+茶 (chá) [color=#008000](thé)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我吃苹果。[color/#008000] (wǒ chī píng guǒ) [color=#008000](Je mange une pomme.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Le son "Sh" (sh)[/color][/font_size]
+
+Le son [color=#FF0000]sh[/color] est produit en plaçant la langue contre le palais dur, près des dents, produisant un son similaire à "ch" en anglais.
+
+[b]Exemple de mots contenant "sh":[/b]
+[indent][code]
+是 (shì) [color=#008000](être)[/color]
+书 (shū) [color=#008000](livre)[/color]
+时候 (shí hòu) [color=#008000](temps, moment)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]这是我的书。[color/#008000] (zhè shì wǒ de shū) [color=#008000](Ceci est mon livre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Le son "R" (r)[/color][/font_size]
+
+Le son [color=#FF0000]r[/color] en chinois est l'un des plus difficiles à saisir pour les francophones. Il se situe entre le son "j" en français et le "r" anglais.
+
+[b]Exemple de mots contenant "r":[/b]
+[indent][code]
+人 (rén) [color=#008000](personne)[/color]
+日 (rì) [color=#008000](jour)[/color]
+然后 (rán hòu) [color=#008000](ensuite)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我们有三个人。[color/#008000] (wǒ men yǒu sān gè rén) [color=#008000](Nous sommes trois personnes.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Le son "C" (c)[/color][/font_size]
+
+Le son [color=#FF0000]c[/color] est produit en plaçant la langue contre les dents du haut et en faisant un sifflement, similaire au son "ts" en allemand.
+
+[b]Exemple de mots contenant "c":[/b]
+[indent][code]
+从 (cóng) [color=#008000](de, depuis)[/color]
+菜 (cài) [color=#008000](plat, légume)[/color]
+次 (cì) [color=#008000](fois)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]这是第一次。[color/#008000] (zhè shì dì yī cì) [color=#008000](C'est la première fois.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]6. Le son "Z" (z)[/color][/font_size]
+
+Le son [color=#FF0000]z[/color] est similaire au "ds" dans "midsummer" en anglais, produit en plaçant la langue contre les dents du haut.
+
+[b]Exemple de mots contenant "z":[/b]
+[indent][code]
+在 (zài) [color=#008000](être à)[/color]
+早 (zǎo) [color=#008000](matin, tôt)[/color]
+怎么 (zěn me) [color=#008000](comment)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你怎么了？[color/#008000] (nǐ zěn me le) [color=#008000](Que se passe-t-il ?) [/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La prononciation correcte des sons spécifiques en chinois nécessite une pratique régulière.
+[color=#FF0000]2.[/color] Certains sons peuvent sembler similaires aux sons français mais sont produits différemment.
+[color=#FF0000]3.[/color] Il est bénéfique d'écouter des locuteurs natifs et de répéter après eux pour améliorer sa prononciation.
+[color=#FF0000]4.[/color] Utilisez les exemples fournis pour pratiquer chaque son individuellement.
+[color=#FF0000]5.[/color] La patience et la persévérance sont essentielles pour maîtriser ces sons spécifiques.
+[/indent]
+
+[center][font_size=18][color=#808080]努力学习发音，你的中文会变得更标准！（Nǔ lì xué xí fā yīn, nǐ de zhōng wén huì biàn dé gèng biāo zhǔn!）[/color][/font_size][/center]

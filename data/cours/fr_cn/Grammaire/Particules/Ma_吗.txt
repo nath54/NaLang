@@ -1,1 +1,61 @@
- 
+[font_size=30][center][b][color=#0000FF]La particule interrogative 吗 (ma)[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, créer une question est souvent beaucoup plus simple qu'en français grâce à l'utilisation de la particule interrogative 吗 (ma). Cette particule permet de transformer une phrase affirmative en question sans modifier l'ordre des mots de la phrase.
+
+[font_size=24][color=#4B0082]1. Utilisation de 吗 (ma)[/color][/font_size]
+
+La particule 吗 (ma) se place à la fin d'une phrase affirmative pour en faire une question fermée, c'est-à-dire une question à laquelle on peut répondre par "oui" ou "non".
+
+[indent]Par exemple :
+[color=#0000FF]你喜欢咖啡。 (nǐ xǐ huān kā fēi.)[/color] [color=#008000](Tu aimes le café.)[/color]
+
+Pour transformer cette phrase en question, ajoutez simplement 吗 (ma) à la fin :
+[color=#0000FF]你喜欢咖啡吗？ (nǐ xǐ huān kā fēi ma?) [/color] [color=#008000](Aimes-tu le café ?)[/color][/indent]
+
+[font_size=24][color=#4B0082]2. Structure des phrases avec 吗 (ma)[/color][/font_size]
+
+La structure de la phrase reste la même, seule la particule 吗 (ma) est ajoutée à la fin. Voici quelques exemples supplémentaires :
+
+[indent][code]
+他是老师。 (tā shì lǎo shī.) [color=#008000](Il est professeur.)[/color]
+他是老师吗？ (tā shì lǎo shī ma?) [color=#008000](Est-il professeur ?)[/color]
+
+他们去北京。 (tā men qù běi jīng.) [color=#008000](Ils vont à Pékin.)[/color]
+他们去北京吗？ (tā men qù běi jīng ma?) [color=#008000](Vont-ils à Pékin ?)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Répondre aux questions avec 吗 (ma)[/color][/font_size]
+
+Pour répondre à une question formulée avec 吗 (ma), il suffit de répondre par "oui" (是 shì) ou "non" (不是 bù shì).
+
+[indent]Par exemple :
+[color=#0000FF]你是学生吗？ (nǐ shì xué shēng ma?) [/color] [color=#008000](Es-tu étudiant ?)[/color]
+
+Pour répondre :
+[color=#0000FF]是，我是学生。 (shì, wǒ shì xué shēng.)[/color] [color=#008000](Oui, je suis étudiant.)[/color]
+[color=#0000FF]不是，我不是学生。 (bù shì, wǒ bù shì xué shēng.)[/color] [color=#008000](Non, je ne suis pas étudiant.)[/color][/indent]
+
+[font_size=24][color=#4B0082]4. Les questions avec 吗 (ma) et les verbes modaux[/color][/font_size]
+
+Les verbes modaux comme 可以 (kě yǐ - pouvoir) ou 想 (xiǎng - vouloir) peuvent également être utilisés avec 吗 (ma) pour poser des questions.
+
+[indent]Voici des exemples :
+[color=#0000FF]你可以帮我吗？ (nǐ kě yǐ bāng wǒ ma?) [/color] [color=#008000](Peux-tu m'aider ?)[/color]
+[color=#0000FF]你想吃什么吗？ (nǐ xiǎng chī shén me ma?) [/color] [color=#008000](Veux-tu manger quelque chose ?)[/color][/indent]
+
+[font_size=24][color=#4B0082]5. Autres particules interrogatives et nuances[/color][/font_size]
+
+Même si 吗 (ma) est une particule très courante pour poser des questions, il existe d'autres moyens et particules pour nuancer les questions en chinois. Toutefois, 吗 (ma) reste le plus utilisé pour les questions fermées basiques.
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La particule 吗 (ma) transforme une phrase affirmative en question fermée.
+[color=#FF0000]2.[/color] La structure de la phrase ne change pas, seule la particule 吗 (ma) est ajoutée à la fin.
+[color=#FF0000]3.[/color] Pour répondre, utilisez 是 (shì) pour "oui" ou 不是 (bù shì) pour "non".
+[color=#FF0000]4.[/color] 吗 (ma) est compatible avec les verbes modaux et autres structures grammaticales.[/indent]
+
+[center][font_size=18][color=#808080]好好学习，天天向上! (hǎo hào xué xí, tiān tiān xiàng shàng!)[/color][/font_size][/center]

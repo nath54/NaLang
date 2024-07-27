@@ -1,1 +1,90 @@
- 
+[font_size=30][center][b][color=#0000FF]Le présent en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le présent en chinois est utilisé pour parler d'actions se déroulant actuellement ou pour exprimer des vérités générales. Contrairement aux langues européennes, le chinois mandarin n'a pas de conjugaison des verbes, ce qui simplifie les choses mais nécessite une bonne compréhension des marqueurs temporels et de l'ordre des mots pour exprimer correctement le présent.
+
+[font_size=24][color=#4B0082]1. Verbes au présent[/color][/font_size]
+
+En chinois, les verbes restent généralement au même forme quels que soient le temps ou l'aspect. Voici quelques verbes de base utilisés au présent :
+
+[code]
+做 (zuò) [color=#008000](faire)[/color]
+看 (kàn) [color=#008000](regarder, voir)[/color]
+吃 (chī) [color=#008000](manger)[/color]
+喝 (hē) [color=#008000](boire)[/color]
+学习 (xuéxí) [color=#008000](étudier)[/color]
+工作 (gōngzuò) [color=#008000](travailler)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我看书。[/color] (wǒ kàn shū) [color=#008000](Je lis un livre.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Indicateurs de temps[/color][/font_size]
+
+Pour préciser que l'action est présente, on utilise souvent des mots et des expressions de temps. Voici quelques indicateurs temporels courants :
+
+[code]
+现在 (xiànzài) [color=#008000](maintenant)[/color]
+今天 (jīntiān) [color=#008000](aujourd'hui)[/color]
+此刻 (cǐkè) [color=#008000](à cet instant)[/color]
+正在 (zhèngzài) [color=#008000](être en train de)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我现在在吃饭。[/color] (wǒ xiànzài zài chī fàn) [color=#008000](Je suis en train de manger maintenant.)[/color][/i]
+
+[font_size=24][color=#4B0082]3. Structure de la phrase au présent[/color][/font_size]
+
+La structure de phrase en chinois suit l'ordre Sujet + Verbe + Objet (SVO). Les indicateurs de temps se placent généralement avant le verbe.
+
+[indent]• Sujet + Indicateur de temps + Verbe + Objet
+
+[color=#0000FF]我现在看书。[/color] (wǒ xiànzài kàn shū) [color=#008000](Je lis un livre actuellement.)[/color]
+
+• Pour les actions en cours, on utilise "在" (zài) avant le verbe :
+[color=#0000FF]他正在工作。[/color] (tā zhèngzài gōngzuò) [color=#008000](Il est en train de travailler.)[/color][/indent]
+
+[font_size=24][color=#4B0082]4. Formes interrogatives et négatives[/color][/font_size]
+
+Pour transformer une phrase affirmative en phrase négative ou interrogative, on utilise des mots spécifiques :
+
+[b]a) Forme négative[/b]
+[indent]Le mot "不" (bù) [color=#008000](ne ... pas)[/color] est placé avant le verbe pour former la négation.
+
+[code]
+我不看书。[/color] (wǒ bù kàn shū) [color=#008000](Je ne lis pas de livre.)[/color]
+[/code]
+
+[b]b) Forme interrogative[/b]
+[indent]Pour poser une question, on utilise la particule "吗" (ma) à la fin de la phrase, ou bien on utilise la forme affirmative-négative
+
+[code]
+你今天看书吗？[/color] (nǐ jīntiān kàn shū ma) [color=#008000](Est-ce que tu lis un livre aujourd'hui ?)[/color]
+你看不看书？[/color] (nǐ kàn bù kàn shū) [color=#008000](Lis-tu un livre ou non ?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他现在工作吗？[/color] (tā xiànzài gōngzuò ma) [color=#008000](Est-il en train de travailler maintenant ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Utilisation des verbes d'état[/color][/font_size]
+
+Les verbes d'état comme "être" et "avoir" sont couramment utilisés au présent. En chinois mandarin :
+
+[indent][b]a) "Être" : 是 (shì)[/b]
+[j]• [color=#0000FF]我是老师。[/color] (wǒ shì lǎoshī) [color=#008000](Je suis professeur.)[/color][j]
+
+[b]b) "Avoir" : 有 (yǒu)[/b]
+[j]• [color=#0000FF]我有一本书。[/color] (wǒ yǒu yī běn shū) [color=#008000](J'ai un livre.)[/color][j]
+
+Le verbe "être" n'est pas utilisé pour dire que quelqu'un ou quelque chose est dans un certain lieu, on utilise "在" (zài) pour cela :
+[j]• [color=#0000FF]他在家。[/color] (tā zài jiā) [color=#008000](Il est à la maison.)[/color][j][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] En chinois, les verbes ne se conjuguent pas, rendant la structure plus simple mais nécessitant une bonne maîtrise des indicateurs de temps.
+[color=#FF0000]2.[/color] Les indicateurs de temps comme "现在" (xiànzài) sont essentiels pour situer une action dans le présent.
+[color=#FF0000]3.[/color] Utilisez "在" (zài) pour indiquer une action en cours et "是" (shì) pour les états d'être.
+[color=#FF0000]4.[/color] La négation se forme avec "不" (bù) et les questions avec "吗" (ma) ou la structure affirmative-négative.
+[color=#FF0000]5.[/color] La structure de la phrase suit un ordre Sujet + Verbe + Objet, avec les marqueurs de temps avant le verbe.[/indent]
+
+[center][font_size=18][color=#808080]掌握这些规则，你的中文现在进行时会更准确！(Zhǎngwò zhèxiē guīzé, nǐ de zhōngwén xiànzài jìnxíng shí huì gèng zhǔnquè!)[/color][/font_size][/center]

@@ -1,1 +1,94 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Comparaisons en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, exprimer des comparaisons est très courant et il est essentiel de maîtriser les différentes structures pour pouvoir communiquer de manière précise et fluide. Voici un guide des principales façons de comparer des éléments en chinois.
+
+[font_size=24][color=#4B0082]1. Comparaison d'égalité[/color][/font_size]
+
+Pour indiquer que deux choses sont égales ou similaires, on utilise la structure [color=#FF0000]“跟...一样”[/color] (gēn... yí yàng) ou simplement [color=#FF0000]“一样”[/color] (yí yàng).
+
+[indent][code]
+她跟我一样高。 (tā gēn wǒ yí yàng gāo.) [color=#008000](Elle est aussi grande que moi.)[/color]
+这本书和那本书一样有趣。 (zhè běn shū hé nà běn shū yí yàng yǒu qù.) [color=#008000](Ce livre est aussi intéressant que celui-là.)[/color]
+这件衣服一样漂亮。 (zhè jiàn yī fú yí yàng piào liang.) [color=#008000](Ce vêtement est tout aussi beau.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Comparaison de supériorité et d'infériorité[/color][/font_size]
+
+Pour exprimer la supériorité ou l’infériorité, on utilise généralement le mot [color=#FF0000]“比”[/color] (bǐ). La structure de la phrase est : [color=#FF0000]A + 比 + B + adjectif[/color].
+
+[b]Comparaison de supériorité[/b]
+[indent][code]
+他比我高。 (tā bǐ wǒ gāo.) [color=#008000](Il est plus grand que moi.)[/color]
+这本书比那本书有趣。 (zhè běn shū bǐ nà běn shū yǒu qù.) [color=#008000](Ce livre est plus intéressant que celui-là.)[/color]
+北京比上海冷。 (Běi jīng bǐ Shàng hǎi lěng.) [color=#008000](Pékin est plus froid que Shanghai.)[/color]
+[/code][/indent]
+
+[b]Comparaison d'infériorité[/b]
+[indent][code]
+他没有我高。 (tā méi yǒu wǒ gāo.) [color=#008000](Il n'est pas aussi grand que moi.)[/color]
+这本书没有那本书有趣。 (zhè běn shū méi yǒu nà běn shū yǒu qù.) [color=#008000](Ce livre n'est pas aussi intéressant que celui-là.)[/color]
+上海没有北京冷。 (Shàng hǎi méi yǒu Běi jīng lěng.) [color=#008000](Shanghai n'est pas aussi froid que Pékin.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Comparatif de façon avancée (程度比较)[/color][/font_size]
+
+Pour des comparaisons plus nuancées, indiquant des variations de degrés, on peut utiliser des adverbes comme [color=#FF0000]“更”[/color] (gèng) ou [color=#FF0000]“多了”[/color] (duō le).
+
+[b]Comparatif de degré avec 更 (gèng)[/b]
+[indent][code]
+他比我更高。 (tā bǐ wǒ gèng gāo.) [color=#008000](Il est encore plus grand que moi.)[/color]
+这本书比那本书更有趣。 (zhè běn shū bǐ nà běn shū gèng yǒu qù.) [color=#008000](Ce livre est encore plus intéressant que celui-là.)[/color]
+东京比大阪更忙。 (Dōng jīng bǐ Dà bǎn gèng máng.) [color=#008000](Tokyo est encore plus occupée qu'Osaka.)[/color]
+[/code][/indent]
+
+[b]Comparatif de degré avec 多了 (duō le)[/b]
+[indent][code]
+他比我高多了。 (tā bǐ wǒ gāo duō le.) [color=#008000](Il est beaucoup plus grand que moi.)[/color]
+这本书比那本书有趣多了。 (zhè běn shū bǐ nà běn shū yǒu qù duō le.) [color=#008000](Ce livre est beaucoup plus intéressant que celui-là.)[/color]
+北京比上海冷多了。 (Běi jīng bǐ Shàng hǎi lěng duō le.) [color=#008000](Pékin est beaucoup plus froid que Shanghai.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]4. Superlatif[/color][/font_size]
+
+Pour exprimer le superlatif, on utilise souvent la structure [color=#FF0000]“最”[/color] (zuì) suivie de l'adjectif.
+
+[indent][code]
+他是最高的。(tā shì zuì gāo de.) [color=#008000](Il est le plus grand.)[/color]
+这本书是最有趣的。(zhè běn shū shì zuì yǒu qù de.) [color=#008000](Ce livre est le plus intéressant.)[/color]
+北京是最冷的城市。(Běi jīng shì zuì lěng de chéng shì.) [color=#008000](Pékin est la ville la plus froide.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]5. Comparaisons spéciales[/color][/font_size]
+
+Certaines comparaisons en chinois ne se traduisent pas directement du français. Voici quelques structures spéciales :
+
+[b]Comparaison avec “跟...相比” (gēn... xiāng bǐ)[/b]
+Cette structure est utilisée pour des comparaisons plus formelles ou pour comparer des situations spécifiques.
+
+[indent][code]
+跟去年相比，今年的天气更冷。(gēn qù nián xiāng bǐ, jīn nián de tiān qì gèng lěng.) [color=#008000](Comparé à l'année dernière, cette année il fait plus froid.)[/color]
+跟他相比，我的经验不足。(gēn tā xiāng bǐ, wǒ de jīng yàn bù zú.) [color=#008000](Comparé à lui, mon expérience est insuffisante.)[/color]
+[/code][/indent]
+
+[b]Comparaison avec “比起” (bǐ qǐ)[/b]
+Cette structure est utilisée pour mettre en contraste deux éléments.
+
+[indent][code]
+比起夏天，我更喜欢冬天。(bǐ qǐ xià tiān, wǒ gèng xǐ huān dōng tiān.) [color=#008000](Comparé à l'été, je préfère l'hiver.)[/color]
+比起看电视，我更喜欢读书。(bǐ qǐ kàn diàn shì, wǒ gèng xǐ huān dú shū.) [color=#008000](Comparé à regarder la télévision, je préfère lire des livres.)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les structures de comparaison en chinois peuvent varier selon le contexte et l'intensité souhaitée.
+[color=#FF0000]2.[/color] “比” (bǐ) est le mot le plus couramment utilisé pour les comparaisons de supériorité/infériorité.
+[color=#FF0000]3.[/color] Utiliser “跟...一样” (gēn... yí yàng) pour exprimer l'égalité.
+[color=#FF0000]4.[/color] Les adverbes comme “更” (gèng) et “多了” (duō le) permettent d'exprimer des différences de degrés.
+[color=#FF0000]5.[/color] “最” (zuì) est utilisé pour former le superlatif.
+[/indent]
+
+[center][font_size=18][color=#808080]利用这些结构让你的中文表达更准确！[/color][/font_size][/center]

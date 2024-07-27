@@ -1,1 +1,76 @@
- 
+[font_size=30][center][b][color=#0000FF]L'Aspect Perfectif en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Dans la langue chinoise, l'aspect perfectif est un élément grammatical crucial pour indiquer qu'une action est terminée ou a été entièrement réalisée. Contrairement aux temps en français, qui se réfèrent principalement à des moments dans le temps (passé, présent, futur), l'aspect en chinois se concentre davantage sur l'état d'accomplissement de l'action.
+
+[font_size=24][color=#4B0082]1. Qu'est-ce que l'aspect perfectif ?[/color][/font_size]
+
+L'aspect perfectif en chinois signale que l'action décrite par le verbe est complète ou a un résultat. Il est souvent marqué par l'utilisation de particules grammaticales spécifiques, principalement la particule [color=#FF0000]了[/color] (le).
+
+Pour mieux comprendre, voyons quelques exemples :
+
+[i]Exemple : 我吃了饭。[color=#008000] (wǒ chī le fàn)[/color] [color=#008000](J'ai mangé.)[/color][/i]
+
+Dans cet exemple, la particule [color=#FF0000]了[/color] (le) après le verbe 吃 (chī - manger) indique que l'action de manger est terminée.
+
+[font_size=24][color=#4B0082]2. Position de la particule 了 (le)[/color][/font_size]
+
+La particule [color=#FF0000]了[/color] (le) se place après le verbe ou à la fin de la phrase pour exprimer l'aspect perfectif. Son placement peut changer légèrement le sens de la phrase.
+
+[indent]a) [b]Après le verbe[/b]
+[color=#0000FF]他看了书。[/color] [color=#008000](tā kàn le shū)[/color] [color=#008000](Il a lu le livre.)[/color]
+
+Dans cette phrase, [color=#FF0000]了[/color] (le) après 看 (kàn - lire) montre que l'action de lire est achevée.
+
+b) [b]À la fin de la phrase[/b]
+[color=#0000FF]我们昨天去了上海了。[/color] [color=#008000](wǒmen zuótiān qù le shànghǎi le)[/color] [color=#008000](Nous sommes allés à Shanghai hier.)[/color]
+
+Ici, le premier [color=#FF0000]了[/color] (le) après 去 (qù - aller) marque l'accomplissement de l'action, et le second [color=#FF0000]了[/color] (le) à la fin de la phrase ajoute une emphase sur le fait que l'action est bien dans le passé terminé.[/indent]
+
+[font_size=24][color=#4B0082]3. Emploi de 了 (le) avec des verbes auxiliaires[/color][/font_size]
+
+L'utilisation de la particule [color=#FF0000]了[/color] (le) est également courante avec des verbes auxiliaires pour indiquer un changement d'état ou un nouvel état atteint. Voici quelques exemples :
+
+[indent][code]
+我已经吃了。[color=#008000](wǒ yǐjīng chī le)[/color] [color=#008000](J'ai déjà mangé.)[/color]
+他刚刚到了。[color=#008000](tā gānggāng dào le)[/color] [color=#008000](Il vient juste d'arriver.)[/color]
+[/code]
+
+Dans ces phrases, 已经 (yǐjīng - déjà) et 刚刚 (gānggāng - juste) sont des adverbes qui précèdent le verbe, et la particule [color=#FF0000]了[/color] (le) suit le verbe pour indiquer que l'action est terminée.[/indent]
+
+[font_size=24][color=#4B0082]4. Exceptions et cas particuliers[/color][/font_size]
+
+Il existe quelques exceptions et cas particuliers dans l'utilisation de [color=#FF0000]了[/color] (le). Par exemple, pour certaines actions habituelles ou répétitives, on n'utilise pas forcément [color=#FF0000]了[/color] (le). Voici quelques exemples :
+
+[indent][code]
+每天我六点起床。[color=#008000](měitiān wǒ liù diǎn qǐchuáng)[/color] [color=#008000](Je me lève à six heures tous les jours.)[/color]
+他常常去公园。 [color=#008000](tā chángcháng qù gōngyuán)[/color] [color=#008000](Il va souvent au parc.)[/color]
+[/code]
+
+Dans ces phrases, l'aspect habituel ou régulier de l'action ne nécessite pas l'emploi de [color=#FF0000]了[/color] (le).[/indent]
+
+[font_size=24][color=#4B0082]5. Remarques sur 了 (le) et négation[/color][/font_size]
+
+Pour nier une action perfective, on utilise généralement 没 (méi) ou 没有 (méiyǒu) avant le verbe et omet généralement la particule [color=#FF0000]了[/color] (le) :
+
+[indent][code]
+我没吃饭。[color=#008000](wǒ méi chī fàn)[/color] [color=#008000](Je n'ai pas mangé.)[/color]
+
+他还没到。[color=#008000](tā hái méi dào)[/color] [color=#008000](Il n'est pas encore arrivé.)[/color]
+[/code]
+
+Ici, 没 (méi) et 没有 (méiyǒu) servent à nier l'accomplissement de l'action sans utiliser la particule [color=#FF0000]了[/color] (le).[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] L'aspect perfectif en chinois indique que l'action est terminée.
+[color=#FF0000]2.[/color] La particule [color=#FF0000]了[/color] (le) est utilisée pour marquer l'aspect perfectif.
+[color=#FF0000]3.[/color] [color=#FF0000]了[/color] (le) se place après le verbe ou à la fin de la phrase selon le contexte.
+[color=#FF0000]4.[/color] Il y a des exceptions dans l'utilisation de [color=#FF0000]了[/color] (le) pour des actions habituelles ou répétitives.
+[color=#FF0000]5.[/color] Pour nier une action perfective, on utilise 没 (méi) ou 没有 (méiyǒu) avant le verbe. 
+[/indent]
+
+[center][font_size=18][color=#808080]正确使用了，中文会变得更加流利和自然！(zhèngquè shǐyòng le, zhōngwén huì biàn de gèng jiā liúlì hé zìrán)[/color][/font_size][/center]

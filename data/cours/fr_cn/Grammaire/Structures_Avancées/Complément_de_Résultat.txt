@@ -1,1 +1,92 @@
- 
+[font_size=30][center][b][color=#0000FF]Le complément de résultat en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, le complément de résultat (结果补语, jiéguǒ bǔyǔ) est utilisé pour exprimer le résultat ou l'achèvement d'une action. Il fournit des informations supplémentaires sur l'état final ou les conséquences de l'action mentionnée dans la phrase. Comprendre cette structure est essentiel pour parler couramment et précisément le chinois.
+
+[font_size=24][color=#4B0082]1. Qu'est-ce qu'un complément de résultat ?[/color][/font_size]
+
+Un complément de résultat est un mot ou une phrase qui suit directement le verbe pour indiquer le résultat de l'action accomplie par ce verbe. Les compléments de résultat sont souvent formés par l'ajout d'un verbe ou d'un adjectif après un autre verbe.
+
+[b]a) Structure de base[/b]
+[indent]La structure de base de la phrase avec un complément de résultat est :
+
+[code]Sujet + Verbe + Complément de Résultat + (Objet)[/code]
+
+L'utilisation d'un complément de résultat permet ainsi de préciser si une action a été menée à son terme, avec succès, ou par exemple si elle n'a pas été effectuée comme prévu.[/indent]
+
+[b]b) Exemples courants[/b]
+[indent][i]Voici quelques exemples courants de compléments de résultat :[/i]
+
+[code]
+看完 (kàn wán) [color=#008000](avoir fini de lire)[/color]
+吃光 (chī guāng) [color=#008000](avoir tout mangé)[/color]
+学会 (xué huì) [color=#008000](avoir appris)[/color]
+写好 (xiě hǎo) [color=#008000](avoir bien écrit)[/color]
+打破 (dǎ pò) [color=#008000](avoir cassé)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他吃光了蛋糕。[/color] [color=#008000](Tā chī guāng le dàngāo.) (Il a mangé tout le gâteau.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Formation du complément de résultat[/color][/font_size]
+
+Les compléments de résultat se forment principalement de deux manières :
+
+[indent]• En ajoutant un autre verbe à la suite du verbe principal :
+[color=#0000FF]写完作业[/color] [color=#008000](xiě wán zuòyè)[/color] [color=#008000](terminer les devoirs)[/color]
+
+- En utilisant un adjectif après le verbe :
+[color=#0000FF]听清楚[/color] [color=#008000](tīng qīngchǔ)[/color] [color=#008000](entendre clairement)[/color][/indent]
+
+[b]Formation avec "完" (wán) [/b]
+[indent]L'un des compléments de résultat les plus couramment utilisés est 完 (wán), qui signifie "terminé" ou "fini".
+
+[code]
+吃完 (chī wán) [color=#008000](avoir fini de manger)[/color]
+做完 (zuò wán) [color=#008000](avoir fini de faire)[/color]
+看完 (kàn wán) [color=#008000](avoir fini de lire/regarder)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我看完了这本书。[/color] [color=#008000](Wǒ kàn wán le zhè běn shū.) (J'ai fini de lire ce livre.)[/color][/i][/indent]
+
+[b]Formation avec "到" (dào) [/b]
+[indent]Un autre complément de résultat usage est 到 (dào), qui indique la réussite ou l'accomplissement.
+
+[code]
+看到 (kàn dào) [color=#008000](avoir vu)[/color]
+听到 (tīng dào) [color=#008000](avoir entendu)[/color]
+找到 (zhǎo dào) [color=#008000](avoir trouvé)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我听到了一个好消息。[/color] [color=#008000](Wǒ tīng dào le yī gè hǎo xiāoxī.) (J'ai entendu une bonne nouvelle.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisation des compléments de résultat[/color][/font_size]
+
+Les compléments de résultat sont utilisés dans divers contextes pour indiquer des résultats spécifiques. Voici comment les utiliser correctement :
+
+[b]a) Résultat positif[/b]
+[indent][color=#0000FF]他学会了开车。[/color]
+[color=#008000](Tā xuéhuì le kāichē.)[/color] 
+[color=#008000](Il a appris à conduire.)[/color][/indent]
+
+[b]b) Résultat négatif[/b]
+[indent][color=#0000FF]我没有找到钥匙。[/color]
+[color=#008000](Wǒ méiyǒu zhǎodào yàoshi.)[/color] 
+[color=#008000](Je n'ai pas trouvé la clé.)[/color][/indent]
+
+[b]c) Résultat prévu / attendu[/b]
+[indent][color=#0000FF]他终于做出了决定。[/color]
+[color=#008000](Tā zhōngyú zuòchūle juédìng.)[/color] 
+[color=#008000](Il a finalement pris sa décision.)[/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les compléments de résultat précisent l'issue d'une action.
+[color=#FF0000]2.[/color] Les structures de base incluent généralement le verbe suivi directement du complément de résultat.
+[color=#FF0000]3.[/color] Utilisez des verbes ou des adjectifs courants pour former des compléments de résultat.
+[color=#FF0000]4.[/color] Le complément de résultat peut indiquer à la fois des résultats positifs et négatifs.
+[color=#FF0000]5.[/color] Maîtriser cette structure aide à rendre votre expression en chinois plus précise et nuancée.[/indent]
+
+[center][font_size=18][color=#808080]掌握结果补语，让你的中文表达更加准确和有深度！(Zhǎngwò jiéguǒ bǔyǔ, ràng nǐ de zhōngwén biǎodá gèng jiā zhǔnquè hé yǒu shēndù !)[/color][/font_size][/center]

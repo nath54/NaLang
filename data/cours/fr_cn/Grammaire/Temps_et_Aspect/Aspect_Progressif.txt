@@ -1,1 +1,66 @@
- 
+[font_size=30][center][b][color=#0000FF]L'aspect progressif en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, l'aspect progressif est utilisé pour décrire une action en cours. C'est une grammaire essentielle pour donner une idée de continuité ou d'une action qui est en train de se dérouler. L'aspect progressif en chinois est souvent indiqué par l'utilisation de certains mots et constructions spécifiques.
+
+[font_size=24][color=#4B0082]1. L'utilisation de 正在 (zhèngzài) et 在 (zài)[/color][/font_size]
+
+Les mots 正在 (zhèngzài) et 在 (zài) sont souvent utilisés pour indiquer l'aspect progressif.
+
+[b]a) 正在 (zhèngzài)[/b]
+[indent]正在 (zhèngzài) est utilisé pour insister sur l'action qui est actuellement en cours. On le place avant le verbe.
+
+[code]
+正在看书 (zhèngzài kànshū) [color=#008000](en train de lire un livre)[/color]
+正在做饭 (zhèngzài zuòfàn) [color=#008000](en train de cuisiner)[/color]
+正在写字 (zhèngzài xiězì) [color=#008000](en train d'écrire)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我正在看书。[/color] (wǒ zhèngzài kànshū) [color=#008000](Je suis en train de lire un livre.)[/color][/i][/indent]
+
+[b]b) 在 (zài)[/b]
+[indent]在 (zài) est une autre manière d'indiquer qu'une action est en cours. On le place également avant le verbe, mais son insistance est généralement moindre que 正在 (zhèngzài).
+
+[code]
+在看书 (zài kànshū) [color=#008000](en train de lire un livre)[/color]
+在做饭 (zài zuòfàn) [color=#008000](en train de cuisiner)[/color]
+在写字 (zài xiězì) [color=#008000](en train d'écrire)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他在吃饭。[/color] (tā zài chīfàn) [color=#008000](Il est en train de manger.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. La structure 呢 (ne)[/color][/font_size]
+
+La particule 呢 (ne) est souvent ajoutée à la fin d'une phrase pour renforcer l'idée d'une action en cours. Elle sert à indiquer que l'action continue.
+
+[indent][code]
+你在做什么呢？ (nǐ zài zuò shénme ne) [color=#008000](Que fais-tu [en ce moment] ?)[/color]
+他正在睡觉呢。 (tā zhèngzài shuìjiào ne) [color=#008000](Il est en train de dormir.)[/color]
+我正在想办法呢。 (wǒ zhèngzài xiǎng bānfa ne) [color=#008000](Je suis en train de chercher une solution.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我正在写作业呢。[/color] (wǒ zhèngzài xiě zuòyè ne) [color=#008000](Je suis en train de faire mes devoirs.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Comparaison avec l'aspect simple[/color][/font_size]
+
+Il est important de distinguer l'aspect progressif de l'aspect simple. L'aspect simple indique des actions habituelles ou des faits sans insistance particulière sur le fait qu'elles sont en cours.
+
+- [color=#008000]Aspect progressif :[/color] Il met l'accent sur une action en cours.
+- [color=#008000]Aspect simple :[/color] Il décrit des actions régulières, habituelles ou générales.
+
+[indent][code]
+他在看电视。 (tā zài kàn diànshì) [color=#008000](Il est en train de regarder la télévision.)[/color]
+他看电视。 (tā kàn diànshì) [color=#008000](Il regarde la télévision [habituellement].)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] 正在 (zhèngzài) et 在 (zài) sont utilisés pour indiquer une action en cours.
+[color=#FF0000]2.[/color] 正在 (zhèngzài) est plus insistant que 在 (zài).
+[color=#FF0000]3.[/color] 呢 (ne) peut être ajouté en fin de phrase pour renforcer l'idée de continuité.
+[color=#FF0000]4.[/color] L'aspect progressif met l'accent sur une action en cours, contrairement à l'aspect simple qui décrit des actions habituelles ou générales.[/indent]
+
+[center][font_size=18][color=#808080]使用进行时, 你的中文会显得更自然，更流利！(Shǐyòng jìnxíng shí, nǐ de zhōngwén huì xiǎnde gèng zìrán, gèng liúlì !)[/color][/font_size][/center]

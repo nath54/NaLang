@@ -1,0 +1,113 @@
+[font_size=30][center][b][color=#0000FF]Le Calendrier Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le calendrier chinois, également connu sous le nom de calendrier agricole ou calendrier lunaire, est un système calendaire utilisé depuis des milliers d'années en Chine. Contrairement au calendrier grégorien que nous utilisons quotidiennement, le calendrier chinois est un mélange de cycles lunaires et solaires, ce qui en fait un système complexe et fascinant.
+
+[font_size=24][color=#4B0082]1. Structure du calendrier chinois[/color][/font_size]
+
+Le calendrier chinois est basé sur les phases de la lune et le mouvement du soleil. Voici quelques éléments clés de cette structure :
+
+[b]a) Cycles lunaires[/b]
+[indent]Le calendrier chinois est un calendrier lunaire-solaire. Cela signifie qu'il utilise les phases lunaires pour déterminer les mois, chaque mois commençant par la nouvelle lune. Un mois lunaire chinois dure environ 29,5 jours. Pour ajuster au cycle solaire, un mois supplémentaire est parfois ajouté, connu sous le nom de mois intercalaire.
+
+[i]Exemple : Le premier jour de l'année chinoise, appelé le Nouvel An Chinois, tombe toujours sur une nouvelle lune.[/i][/indent]
+
+[b]b) Années, mois et jours[/b]
+[indent]• Chaque année est composée de 12 ou 13 mois lunaires.
+• L'année chinoise commence généralement entre le 21 janvier et le 20 février du calendrier grégorien.
+• Un cycle complet du calendrier chinois dure 60 ans, avec chaque année représentée par un animal et un élément particulier.
+
+[i]Exemple : Chaque année est associée à l'un des douze animaux du zodiaque chinois : Rat (鼠, shu), Bœuf (牛, niu), Tigre (虎, hu), Lapin (兔, tu), Dragon (龙, long), Serpent (蛇, she), Cheval (马, ma), Chèvre (羊, yang), Singe (猴, hou), Coq (鸡, ji), Chien (狗, gou), Cochon (猪, zhu).[/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les douze animaux du zodiaque chinois[/color][/font_size]
+
+Le zodiaque chinois est composé de douze animaux, chacun représentant une année spécifique dans un cycle de douze ans :
+
+[b]a) Liste des animaux[/b]
+[indent][code]
+鼠 (shu) - Rat
+牛 (niu) - Bœuf
+虎 (hu) - Tigre
+兔 (tu) - Lapin
+龙 (long) - Dragon
+蛇 (she) - Serpent
+马 (ma) - Cheval
+羊 (yang) - Chèvre
+猴 (hou) - Singe
+鸡 (ji) - Coq
+狗 (gou) - Chien
+猪 (zhu) - Cochon
+[/code]
+
+[i]Exemple : L'année 2021 a été l'année du Bœuf (牛, niu).[/i][/indent]
+
+[b]b) Caractéristiques astrologiques[/b]
+[indent]Selon la tradition chinoise, chaque animal est associé à des caractéristiques spécifiques qui influenceraient la personnalité des personnes nées durant cette année.
+
+[i]Exemple : Les personnes nées sous le signe du Dragon (龙, long) sont souvent considérées comme courageuses et chargées de succès.[/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les cinq éléments[/color][/font_size]
+
+En plus des douze animaux du zodiaque, le calendrier chinois inclut les cinq éléments : Bois, Feu, Terre, Métal, et Eau. Chacun de ces éléments influence les animaux et crée un cycle de 60 ans lorsque combinés avec les douze animaux.
+
+[b]a) Les cinq éléments[/b]
+[indent][code]
+木 (mu) - Bois
+火 (huo) - Feu
+土 (tu) - Terre
+金 (jin) - Métal
+水 (shui) - Eau
+[/code]
+
+[i]Exemple : 2022 est l'année du Tigre d'Eau (水虎, shui hu), combinant l'élément Eau avec le signe du Tigre.[/i][/indent]
+
+[font_size=24][color=#4B0082]4. Fêtes et traditions associées au calendrier chinois[/color][/font_size]
+
+Le calendrier chinois est au cœur de nombreuses fêtes et traditions culturelles en Chine et dans les communautés chinoises à travers le monde.
+
+[b]a) Nouvel An Chinois[/b]
+[indent]Le Nouvel An Chinois (春节, Chūn Jié) est la fête la plus importante en Chine. Il est marqué par des célébrations qui durent plusieurs jours et qui incluent des repas familiaux, des feux d'artifice, et des danses du dragon.
+
+[i]Exemple : Le Nouvel An Chinois de 2022 commence le 1er février et marque le début de l'année du Tigre d'Eau (水虎, shui hu).[/i][/indent]
+
+[b]b) Fête des Lanternes[/b]
+[indent]La Fête des Lanternes (元宵节, Yuán Xiāo Jié) marque la fin des célébrations du Nouvel An Chinois. Elle est caractérisée par des parades et des expositions de lanternes colorées.
+
+[i]Exemple : Pendant la Fête des Lanternes, les familles allument des lanternes et participent à des jeux de devinettes.[/i][/indent]
+
+[b]c) Fête des Bateaux-Dragons[/b]
+[indent]La Fête des Bateaux-Dragons (端午节, Duānwǔ Jié) honore le poète Qu Yuan. Elle est célébrée par des courses de bateaux en forme de dragons et la dégustation de zongzi (粽子, zòngzi), un plat à base de riz gluant.
+
+[i]Exemple : La Fête des Bateaux-Dragons a lieu le cinquième jour du cinquième mois lunaire.[/i][/indent]
+
+[font_size=24][color=#4B0082]5. Conversion entre le calendrier grégorien et le calendrier lunaire[/color][/font_size]
+
+Pour convertir des dates entre le calendrier grégorien (calendrier que nous utilisons quotidiennement) et le calendrier lunaire (calendrier chinois), voici quelques étapes et concepts clés :
+
+[b]a) Passage du calendrier grégorien au calendrier lunaire[/b]
+[indent]1. [b]Identifier la nouvelle lune la plus proche :[/b] Le Nouvel An Chinois commence toujours à la nouvelle lune la plus proche entre le 21 janvier et le 20 février. Pour commencer, identifiez la nouvelle lune qui tombe dans cette période.
+2. [b]Calculer les mois lunaires :[/b] Chaque mois lunaire commence avec une nouvelle lune et dure environ 29,5 jours. Assurez-vous de noter les dates des nouvelles lunes pour établir des mois lunaires corrects.
+3. [b]Trouver les mois intercalaires :[/b] Certains années peuvent inclure un mois intercalaire pour aligner le calendrier lunaire avec le cycle solaire. Vous aurez besoin d'une formule ou d'un tableau pour déterminer ces mois supplémentaires. Ces informations détaillées peuvent être trouvées dans des tables astronomiques ou des logiciels spécialisés.
+
+[i]Exemple : Si vous avez une date en février 2023 dans le calendrier grégorien, trouvez la nouvelle lune la plus proche et suivez les mois lunaires pour identifier la correspondance exacte.[/i][/indent]
+
+[b]b) Passage du calendrier lunaire au calendrier grégorien[/b]
+[indent]1. [b]Identifier l'année lunaire :[/b] Commencez par identifier l'année lunaire basée sur les douze animaux du zodiaque et l'élément associé.
+2. [b]Trouver la nouvelle lune :[/b] La date du Nouvel An Chinois varie chaque année. Utilisez des ressources fiables comme les éphémérides lunaires pour identifier la nouvelle lune qui marque le Nouvel An.
+3. [b]Calculer les mois solaires :[/b] Chaque mois solaire dure environ 30 à 31 jours. Comptez les nouvelles lunes pour identifier les mois lunaires correspondants aux mois solaires.
+
+[i]Exemple : Pour convertir une date du calendrier chinois de juillet 2022 (année du Tigre d'Eau), trouvez la nouvelle lune de l'année et comptez les mois jusqu'à la date souhaitée.[/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le calendrier chinois est un calendrier lunaire-solaire basé sur les phases lunaires et le mouvement du soleil.
+[color=#FF0000]2.[/color] Le zodiaque chinois comprend 12 animaux, chacun représentant une année dans un cycle de 12 ans.
+[color=#FF0000]3.[/color] Les cinq éléments - Bois, Feu, Terre, Métal, et Eau - influencent les animaux du zodiaque et forment un cycle de 60 ans.
+[color=#FF0000]4.[/color] Le Nouvel An Chinois et d'autres fêtes comme la Fête des Lanternes et la Fête des Bateaux-Dragons sont des événements importants basés sur le calendrier chinois.
+[color=#FF0000]5.[/color] Le calendrier chinois joue un rôle central dans la culture et les traditions chinoises.
+[color=#FF0000]6.[/color] La conversion entre les calendriers grégorien et chinois implique de suivre les phases lunaires et d'utiliser des tables astronomiques ou logiciels spécialisés pour des correspondances précises.[/indent]
+
+[center][font_size=18][color=#808080]理解和使用中国的历法会让你更深入了解中华文化的丰富内涵！(lǐjiě hé shǐyòng zhōngguó de lìfǎ huì ràng nǐ gèng shēnrù liǎojiě zhōnghuá wénhuà de fēngfù nèihán!)[/color][/font_size][/center]

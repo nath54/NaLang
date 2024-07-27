@@ -3,18 +3,22 @@
         "es": "El trabajo",
         "fr": "Le travail",
         "en": "Work",
-        "cn": "工作 gong zuo",
+        "cn": "工作 (gong zuo)",
         "de": "Arbeit",
-        "ja": "仕事 shigoto"
+        "ja": "仕事 (shigoto)",
+        "kr": "일 (il)",
+        "ru": "Работа (rabota)"
     },
-    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
     "elements": [{
             "es": ["El empleo"],
             "fr": ["L'emploi"],
             "en": ["Job", "Employment"],
             "cn": ["工作", "gong zuo"],
             "de": ["Job", "Beschäftigung"],
-            "ja": ["仕事", "shigoto"]
+            "ja": ["仕事", "shigoto"],
+            "kr": ["직업", "jik-eob"],
+            "ru": ["Работа", "rabota"]
         },
         {
             "es": ["La carrera"],
@@ -22,7 +26,9 @@
             "en": ["Career"],
             "cn": ["事业", "shi ye"],
             "de": ["Karriere"],
-            "ja": ["キャリア", "kyaria"]
+            "ja": ["キャリア", "kyaria"],
+            "kr": ["경력", "gyeonglyeog"],
+            "ru": ["Карьера", "kar'era"]
         },
         {
             "es": ["El jefe", "La jefa"],
@@ -30,7 +36,9 @@
             "en": ["Boss", "Manager"],
             "cn": ["老板", "lao ban"],
             "de": ["Chef", "Chefin"],
-            "ja": ["上司", "jo shi"]
+            "ja": ["上司", "jo shi"],
+            "kr": ["상사", "sangsa"],
+            "ru": ["Начальник", "nachal'nik"]
         },
         {
             "es": ["El colega"],
@@ -38,7 +46,9 @@
             "en": ["Colleague", "Coworker"],
             "cn": ["同事", "tong shi"],
             "de": ["Kollege"],
-            "ja": ["同僚", "douryou"]
+            "ja": ["同僚", "douryou"],
+            "kr": ["동료", "donglyo"],
+            "ru": ["Коллега", "kollega"]
         },
         {
             "es": ["El salario", "El sueldo"],
@@ -46,7 +56,9 @@
             "en": ["Salary", "Wage"],
             "cn": ["工资", "gong zi"],
             "de": ["Gehalt", "Lohn"],
-            "ja": ["給料", "kyuuryou"]
+            "ja": ["給料", "kyuuryou"],
+            "kr": ["급여", "geubyeo"],
+            "ru": ["Зарплата", "zarplata"]
         },
         {
             "es": ["La oficina"],
@@ -54,7 +66,9 @@
             "en": ["Office"],
             "cn": ["办公室", "ban gong shi"],
             "de": ["Büro"],
-            "ja": ["オフィス", "ofisu"]
+            "ja": ["オフィス", "ofisu"],
+            "kr": ["사무실", "samusil"],
+            "ru": ["Офис", "ofis"]
         },
         {
             "es": ["El contrato"],
@@ -62,7 +76,9 @@
             "en": ["Contract"],
             "cn": ["合同", "he tong"],
             "de": ["Vertrag"],
-            "ja": ["契約", "keiyaku"]
+            "ja": ["契約", "keiyaku"],
+            "kr": ["계약", "gyeyag"],
+            "ru": ["Контракт", "kontrakt"]
         },
         {
             "es": ["La entrevista"],
@@ -70,7 +86,9 @@
             "en": ["Interview"],
             "cn": ["面试", "mian shi"],
             "de": ["Interview", "Vorstellungsgespräch"],
-            "ja": ["面接", "mensetsu"]
+            "ja": ["面接", "mensetsu"],
+            "kr": ["인터뷰", "inteobyu"],
+            "ru": ["Интервью", "interv'yu"]
         },
         {
             "es": ["La reunión"],
@@ -78,7 +96,9 @@
             "en": ["Meeting"],
             "cn": ["会议", "hui yi"],
             "de": ["Besprechung"],
-            "ja": ["会議", "kaigi"]
+            "ja": ["会議", "kaigi"],
+            "kr": ["회의", "hoeui"],
+            "ru": ["Встреча", "vstrecha"]
         },
         {
             "es": ["El proyecto"],
@@ -86,7 +106,9 @@
             "en": ["Project"],
             "cn": ["项目", "xiang mu"],
             "de": ["Projekt"],
-            "ja": ["プロジェクト", "purojekuto"]
+            "ja": ["プロジェクト", "purojekuto"],
+            "kr": ["프로젝트", "peulojekteu"],
+            "ru": ["Проект", "proekt"]
         },
         {
             "es": ["La tarea"],
@@ -94,7 +116,9 @@
             "en": ["Task"],
             "cn": ["任务", "ren wu"],
             "de": ["Aufgabe"],
-            "ja": ["課題", "kadai"]
+            "ja": ["課題", "kadai"],
+            "kr": ["과제", "gwaje"],
+            "ru": ["Задача", "zadacha"]
         },
         {
             "es": ["La jornada"],
@@ -102,7 +126,9 @@
             "en": ["Workday", "Working hours"],
             "cn": ["工作日", "gong zuo ri"],
             "de": ["Arbeitstag"],
-            "ja": ["勤務日", "kinmu bi"]
+            "ja": ["勤務日", "kinmu bi"],
+            "kr": ["근무일", "geunmuil"],
+            "ru": ["Рабочий день", "rabochij den'"]
         },
         {
             "es": ["El horario"],
@@ -110,7 +136,9 @@
             "en": ["Schedule"],
             "cn": ["时间表", "shi jian biao"],
             "de": ["Zeitplan"],
-            "ja": ["スケジュール", "sukejuuru"]
+            "ja": ["スケジュール", "sukejuuru"],
+            "kr": ["일정", "iljeong"],
+            "ru": ["Расписание", "raspisaniye"]
         },
         {
             "es": ["El descanso"],
@@ -118,7 +146,9 @@
             "en": ["Break"],
             "cn": ["休息", "xiu xi"],
             "de": ["Pause"],
-            "ja": ["休憩", "kyuukei"]
+            "ja": ["休憩", "kyuukei"],
+            "kr": ["휴식", "hyusik"],
+            "ru": ["Перерыв", "pereryv"]
         },
         {
             "es": ["El empleo a tiempo completo"],
@@ -126,7 +156,9 @@
             "en": ["Full-time job"],
             "cn": ["全职工作", "quan zhi gong zuo"],
             "de": ["Vollzeitjob"],
-            "ja": ["フルタイムの仕事", "furu taimu no shigoto"]
+            "ja": ["フルタイムの仕事", "furu taimu no shigoto"],
+            "kr": ["정규직", "jeonggyujig"],
+            "ru": ["Работа на полный рабочий день", "rabota na polnyj rabochij den'"]
         },
         {
             "es": ["El empleo a tiempo parcial"],
@@ -134,7 +166,9 @@
             "en": ["Part-time job"],
             "cn": ["兼职工作", "jian zhi gong zuo"],
             "de": ["Teilzeitjob"],
-            "ja": ["パートタイムの仕事", "pāto taimunoshigoto"]
+            "ja": ["パートタイムの仕事", "pāto taimunoshigoto"],
+            "kr": ["시간제 일", "siganje il"],
+            "ru": ["Работа на полставки", "rabota na polstavki"]
         },
         {
             "es": ["El desempleo", "El paro"],
@@ -142,7 +176,9 @@
             "en": ["Unemployment"],
             "cn": ["失业", "shi ye"],
             "de": ["Arbeitslosigkeit"],
-            "ja": ["失業", "shitsugyou"]
+            "ja": ["失業", "shitsugyou"],
+            "kr": ["실업", "sil-eob"],
+            "ru": ["Безработица", "bezrabotitsa"]
         },
         {
             "es": ["El ascenso"],
@@ -150,7 +186,9 @@
             "en": ["Promotion"],
             "cn": ["晋升", "jin sheng"],
             "de": ["Beförderung"],
-            "ja": ["昇進", "shoushin"]
+            "ja": ["昇進", "shoushin"],
+            "kr": ["승진", "seungjin"],
+            "ru": ["Повышение", "povysheniye"]
         },
         {
             "es": ["El jefe de equipo"],
@@ -158,7 +196,9 @@
             "en": ["Team leader"],
             "cn": ["团队领导", "tuan dui ling dao"],
             "de": ["Teamleiter"],
-            "ja": ["チームリーダー", "chiimu riidaa"]
+            "ja": ["チームリーダー", "chiimu riidaa"],
+            "kr": ["팀 리더", "tim lideo"],
+            "ru": ["Руководитель команды", "rukovoditel' komandy"]
         },
         {
             "es": ["El despido"],
@@ -166,7 +206,9 @@
             "en": ["Dismissal", "Layoff"],
             "cn": ["解雇", "jie gu"],
             "de": ["Entlassung"],
-            "ja": ["解雇", "kaiko"]
+            "ja": ["解雇", "kaiko"],
+            "kr": ["해고", "haego"],
+            "ru": ["Увольнение", "uvol'neniye"]
         },
         {
             "es": ["La jubilación"],
@@ -174,7 +216,9 @@
             "en": ["Retirement"],
             "cn": ["退休", "tui xiu"],
             "de": ["Ruhestand"],
-            "ja": ["退職", "taishoku"]
+            "ja": ["退職", "taishoku"],
+            "kr": ["은퇴", "euntwi"],
+            "ru": ["Выход на пенсию", "vyhod na pensiyu"]
         },
         {
             "es": ["El currículum", "El CV"],
@@ -182,7 +226,9 @@
             "en": ["Resume", "CV"],
             "cn": ["简历", "jian li"],
             "de": ["Lebenslauf"],
-            "ja": ["履歴書", "rirekisho"]
+            "ja": ["履歴書", "rirekisho"],
+            "kr": ["이력서", "illyeogseo"],
+            "ru": ["Резюме", "rezjyume"]
         },
         {
             "es": ["El puesto"],
@@ -190,7 +236,9 @@
             "en": ["Position", "Post"],
             "cn": ["职位", "zhi wei"],
             "de": ["Position", "Stelle"],
-            "ja": ["ポジション", "pojishon"]
+            "ja": ["ポジション", "pojishon"],
+            "kr": ["직위", "jigwi"],
+            "ru": ["Должность", "dolzhnost'"]
         },
         {
             "es": ["El trabajador autónomo"],
@@ -198,7 +246,9 @@
             "en": ["Freelancer", "Self-employed"],
             "cn": ["自由职业者", "zi you zhi ye zhe"],
             "de": ["Freiberufler"],
-            "ja": ["フリーランサー", "furiiransaa"]
+            "ja": ["フリーランサー", "furiiransaa"],
+            "kr": ["프리랜서", "peuriraenseo"],
+            "ru": ["Фрилансер", "frilanser"]
         },
         {
             "es": ["La empresa"],
@@ -206,7 +256,9 @@
             "en": ["Company", "Enterprise"],
             "cn": ["公司", "gong si"],
             "de": ["Unternehmen", "Firma", "Gesellschaft"],
-            "ja": ["会社", "kaisha"]
+            "ja": ["会社", "kaisha"],
+            "kr": ["회사", "hoesa"],
+            "ru": ["Компания", "kompaniya"]
         },
         {
             "es": ["La formación"],
@@ -214,7 +266,9 @@
             "en": ["Training"],
             "cn": ["培训", "pei xun"],
             "de": ["Ausbildung", "Schulung"],
-            "ja": ["トレーニング", "toreeningu"]
+            "ja": ["トレーニング", "toreeningu"],
+            "kr": ["교육", "gyoyug"],
+            "ru": ["Обучение", "obucheniye"]
         },
         {
             "es": ["El presupuesto"],
@@ -222,7 +276,9 @@
             "en": ["Budget"],
             "cn": ["预算", "yu suan"],
             "de": ["Budget"],
-            "ja": ["予算", "yosan"]
+            "ja": ["予算", "yosan"],
+            "kr": ["예산", "yesan"],
+            "ru": ["Бюджет", "byudzhet"]
         },
         {
             "es": ["El colega de trabajo"],
@@ -230,7 +286,9 @@
             "en": ["Associate", "Collaborator"],
             "cn": ["合作者", "he zuo zhe"],
             "de": ["Mitarbeiter", "Kollege"],
-            "ja": ["同僚", "douryou"]
+            "ja": ["同僚", "douryou"],
+            "kr": ["공동 작업자", "gongdong jag-eobja"],
+            "ru": ["Сотрудник", "sotrudnik"]
         },
         {
             "es": ["La productividad"],
@@ -238,7 +296,9 @@
             "en": ["Productivity"],
             "cn": ["生产率", "sheng chan lü"],
             "de": ["Produktivität"],
-            "ja": ["生産性", "seisansei"]
+            "ja": ["生産性", "seisansei"],
+            "kr": ["생산성", "saengsanseong"],
+            "ru": ["Производительность", "proizvoditel'nost'"]
         },
         {
             "es": ["El beneficio"],
@@ -246,7 +306,9 @@
             "en": ["Profit", "Benefit"],
             "cn": ["利润", "li run"],
             "de": ["Gewinn", "Nutzen"],
-            "ja": ["利益", "rieki"]
+            "ja": ["利益", "rieki"],
+            "kr": ["이익", "iig"],
+            "ru": ["Прибыль", "pribyl'"]
         },
         {
             "es": ["El riesgo"],
@@ -254,7 +316,9 @@
             "en": ["Risk"],
             "cn": ["风险", "feng xian"],
             "de": ["Risiko"],
-            "ja": ["リスク", "risuku"]
+            "ja": ["リスク", "risuku"],
+            "kr": ["위험", "wiheom"],
+            "ru": ["Риск", "risk"]
         },
         {
             "es": ["El director", "La directora"],
@@ -262,7 +326,9 @@
             "en": ["Director", "Principal"],
             "cn": ["董事", "dong shi"],
             "de": ["Direktor", "Leiter"],
-            "ja": ["ディレクター", "direkutā"]
+            "ja": ["ディレクター", "direkutā"],
+            "kr": ["이사", "isa"],
+            "ru": ["Директор", "direktor"]
         },
         {
             "es": ["El contrato temporal"],
@@ -270,7 +336,9 @@
             "en": ["Temporary contract"],
             "cn": ["临时合同", "lin shi he tong"],
             "de": ["Befristeter Vertrag"],
-            "ja": ["一時的な契約", "ichiji teki na keiyaku"]
+            "ja": ["一時的な契約", "ichiji teki na keiyaku"],
+            "kr": ["임시 계약", "imsi gyeyag"],
+            "ru": ["Временный контракт", "vremennyy kontrakt"]
         },
         {
             "es": ["El servicio"],
@@ -278,7 +346,9 @@
             "en": ["Service"],
             "cn": ["服务", "fu wu"],
             "de": ["Dienstleistung"],
-            "ja": ["サービス", "saabisu"]
+            "ja": ["サービス", "saabisu"],
+            "kr": ["서비스", "seobiseu"],
+            "ru": ["Сервис", "servis"]
         }
     ]
 }

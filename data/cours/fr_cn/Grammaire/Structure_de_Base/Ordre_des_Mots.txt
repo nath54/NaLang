@@ -1,1 +1,112 @@
- 
+[font_size=30][center][b][color=#0000FF]L'ordre des mots en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'étude de l'ordre des mots en chinois est essentielle pour construire des phrases correctes et compréhensibles. Contrairement à certaines langues européennes où la flexibilité est plus grande, le chinois suit des règles d'ordre des mots très strictes. Voici une introduction aux principaux aspects de l'ordre des mots dans cette langue.
+
+[font_size=24][color=#4B0082]1. Structure de base des phrases[/color][/font_size]
+
+En chinois, la structure de base d'une phrase suit généralement l'ordre Sujet - Verbe - Objet (SVO), similaire à l'anglais et au français.
+
+[i]Exemple :[/i]
+
+[indent][color=#0000FF]我吃饭。[color=#008000] (wǒ chī fàn) (Je mange.)[/color][/color][/indent]
+
+Dans cet exemple :
+- 我 (wǒ) est le sujet, signifiant "je".
+- 吃 (chī) est le verbe, signifiant "manger".
+- 饭 (fàn) est l'objet, signifiant "nourriture/repas".
+
+[font_size=24][color=#4B0082]2. Les compléments circonstanciels[/color][/font_size]
+
+Les compléments circonstanciels en chinois (de temps, de lieu, de manière, etc.) se placent selon un ordre assez fixe. Voici les principales règles pour leur placement :
+
+[b]a) Complément de temps[/b]
+[indent]Les compléments de temps se placent généralement au début de la phrase.
+
+[i]Exemple :[/i]
+
+[indent][color=#0000FF]我昨天吃饭。[color=#008000] (wǒ zuótiān chī fàn) (Je mangeais hier.)[/color][/color][/indent]
+
+- 昨天 (zuótiān) signifie "hier". Notez qu'il précède le verbe.[/indent]
+
+[b]b) Complément de lieu[/b]
+[indent]Les compléments de lieu suivent le sujet et précèdent le verbe.
+
+[i]Exemple :[/i]
+
+[indent][color=#0000FF]我在家吃饭。[color=#008000] (wǒ zài jiā chī fàn) (Je mange à la maison.)[/color][/color][/indent]
+
+- 在家 (zài jiā) signifie "à la maison".[/indent]
+
+[b]c) Complément de manière[/b]
+[indent]Les compléments de manière se placent en général après le verbe.
+
+[i]Exemple :[/i]
+
+[indent][color=#0000FF]他慢慢地走。[color=#008000] (tā mànmàn de zǒu) (Il marche lentement.)[/color][/color][/indent]
+
+- 慢慢地 (mànmàn de) signifie "lentement".[/indent]
+
+[font_size=24][color=#4B0082]3. Les adjectifs[/color][/font_size]
+
+Les adjectifs en chinois se placent avant le nom qu'ils qualifient, généralement suivis du caractère 的 (de).
+
+[i]Exemple :[/i]
+
+[indent][color=#0000FF]漂亮的花。[color=#008000] (piàoliang de huā) (Une belle fleur.)[/color][/color][/indent]
+
+- 漂亮 (piàoliang) signifie "belle".
+
+[font_size=24][color=#4B0082]4. Les adverbes[/color][/font_size]
+
+Les adverbes se placent avant le verbe. Voici quelques exemples pour illustrer :
+
+[i]Exemple :[/i]
+
+[indent][color=#0000FF]我常常看书。[color=#008000] (wǒ chángcháng kàn shū) (Je lis souvent.)[/color][/color][/indent]
+
+- 常常 (chángcháng) signifie "souvent".
+
+[font_size=24][color=#4B0082]5. Les questions[/color][/font_size]
+
+Former des questions en chinois est également une question d'ordre des mots. Il existe plusieurs types de questions :
+
+[b]a) Questions oui/non[/b]
+[indent]Pour transformer une phrase déclarative en question oui/non, ajoutez 吗 (ma) à la fin de la phrase.
+
+[i]Exemple :[/i]
+
+[indent][color=#0000FF]你好吗？[color=#008000] (nǐ hǎo ma?) (Comment vas-tu ?) [Oui/non])[/color][/color][/indent][/indent]
+
+[b]b) Questions avec mots interrogatifs[/b]
+[indent]Les mots interrogatifs (qui, quoi, quand, où, pourquoi, comment) se placent à la même position que l'élément qu'ils remplacent dans la phrase.
+
+[i]Exemple :[/i]
+
+[indent][color=#0000FF]你在哪儿？[color=#008000] (nǐ zài nǎr?) (Où es-tu ?)[/color][/color][/indent]
+
+Dans cet exemple, 在哪儿 (zài nǎr) signifie "où".[/indent]
+
+[font_size=24][color=#4B0082]6. Les phrases négatives[/color][/font_size]
+
+Pour former une phrase négative en chinois, il suffit d'ajouter 不 (bù) avant le verbe.
+
+[i]Exemple :[/i]
+
+[indent][color=#0000FF]我不吃饭。[color=#008000] (wǒ bù chī fàn) (Je ne mange pas.)[/color][/color][/indent]
+
+- 不 (bù) signifie "ne...pas".
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La structure de base SVO (Sujet - Verbe - Objet) est primordiale.
+[color=#FF0000]2.[/color] Les compléments de temps se placent au début de la phrase, de lieu avant le verbe, et de manière après le verbe.
+[color=#FF0000]3.[/color] Les adjectifs précèdent les noms et sont suivis de 的 (de).
+[color=#FF0000]4.[/color] Les adverbes se placent avant le verbe.
+[color=#FF0000]5.[/color] Les questions oui/non ajoutent 吗 (ma) à la fin, et les questions avec mots interrogatifs suivent l'ordre naturel de la phrase.
+[color=#FF0000]6.[/color] Pour former une phrase négative, il suffit d'ajouter 不 (bù) avant le verbe.[/indent]
+
+[center][font_size=18][color=#808080]牢记这些规则，你的中文会更加自然流利！(Láojì zhèxiē guīzé, nǐde zhōngwén huì gèngjiā zìrán liúlì !) (Retenez ces règles et votre chinois sera plus naturel et fluide !)[/color][/font_size][/center]

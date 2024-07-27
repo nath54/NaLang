@@ -1,1 +1,82 @@
- 
+[font_size=30][center][b][color=#0000FF]L'aspect expérientiel 过 en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, l'aspect expérientiel 过 (guò) est utilisé pour exprimer l'expérience passée, c'est-à-dire quelque chose que l'on a fait au moins une fois dans sa vie. Cet aspect met l'accent sur l'expérience d'un événement plutôt que l'événement lui-même.
+
+[font_size=24][color=#4B0082]1. Utilisation de l'aspect expérientiel 过 (guò)[/color][/font_size]
+
+L'aspect 过 (guò) s'utilise principalement après le verbe pour indiquer qu'une action a été expérimentée dans le passé. Contrairement à d'autres aspects marquant le passé, 过 (guò) ne fournit pas de détails sur le moment précis où l'action a eu lieu, mais plutôt sur le fait que l'action a été vécue.
+
+[i]Exemple :[/i]
+
+[color=#0000FF]我去过中国。[/color] [color=#008000](Wǒ qù guò zhōngguó.) (Je suis allé en Chine.)[/color]
+
+Dans cette phrase, 过 (guò) indique que l'orateur a déjà visité la Chine au moins une fois dans sa vie.
+
+[font_size=24][color=#4B0082]2. Formation de l'aspect expérientiel 过 (guò)[/color][/font_size]
+
+Pour former l'aspect expérientiel avec 过 (guò), il suffit de placer 过 (guò) directement après le verbe. C'est une structure simple et directe.
+
+[b]Structure :[/b]
+[indent][verbe] + 过 (guò)[/indent]
+
+Voici quelques exemples supplémentaires pour illustrer cette formation :
+
+[b]a) Verbes monosyllabiques[/b]
+[indent][code]
+吃过 (chī guò) [color=#008000](avoir mangé)[/color]
+去过 (qù guò) [color=#008000](être allé)[/color]
+看过 (kàn guò) [color=#008000](avoir vu)[/color]
+喝过 (hē guò) [color=#008000](avoir bu)[/color]
+[/code]
+[color=#0000FF]他吃过北京烤鸭。[/color] [color=#008000](Tā chī guò Běijīng kǎo yā.) (Il a mangé du canard laqué de Pékin.)[/color][/indent]
+
+[b]b) Verbes dissyllabiques[/b]
+[indent][code]
+学习过 (xué xí guò) [color=#008000](avoir étudié)[/color]
+见过 (jiàn guò) [color=#008000](avoir rencontré / vu)[/color]
+听过 (tīng guò) [color=#008000](avoir entendu)[/color]
+买过 (mǎi guò) [color=#008000](avoir acheté)[/color]
+[/code]
+[color=#0000FF]我学习过中文。[/color] [color=#008000](Wǒ xué xí guò zhōng wén.) (J'ai étudié le chinois.)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Négation de l'aspect expérientiel 过 (guò)[/color][/font_size]
+
+Pour nier une action en utilisant l'aspect 过 (guò), on emploie le mot 没 (méi) ou 没有 (méi yǒu) avant le verbe. 
+
+[b]Structure :[/b]
+[indent][没 (méi) / 没有 (méi yǒu)] + [verbe] + 过 (guò)[/indent]
+
+[i]Exemple :[/i]
+
+[color=#0000FF]他没有去过法国。[/color] [color=#008000](Tā méi yǒu qù guò Fǎguó.) (Il n'est jamais allé en France.)[/color]
+
+Cette phrase indique que l'orateur n'a jamais eu l'expérience de se rendre en France.
+
+[font_size=24][color=#4B0082]4. Questions avec l'aspect expérientiel 过 (guò)[/color][/font_size]
+
+Pour poser des questions à l'aide de l'aspect expérientiel 过 (guò), on utilise les structures interrogatives typiques en chinois :
+
+[b]a) Question avec 吗 (ma)[/b]
+[indent][verbe] + 过 (guò) + 吗 (ma) ?
+
+[i]Exemple :[/i]
+[color=#0000FF]你吃过北京烤鸭吗？[/color] [color=#008000](Nǐ chī guò Běijīng kǎo yā ma?) (As-tu déjà mangé du canard laqué de Pékin ?)[/color][/indent]
+
+[b]b) Question avec 有没有 (yǒu méi yǒu)[/b]
+[indent][verbe] + 过 (guò) + 没有 (méi yǒu) ?
+
+[i]Exemple :[/i]
+[color=#0000FF]你去过中国没有？[/color] [color=#008000](Nǐ qù guò Zhōngguó méi yǒu？) (Es-tu déjà allé en Chine ?)[/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] 过 (guò) après le verbe indique une expérience passée.
+[color=#FF0000]2.[/color] La structure affirmative est [verbe] + 过 (guò).
+[color=#FF0000]3.[/color] Pour la négation, utilisez 没 (méi) ou 没有 (méi yǒu) avant le verbe.
+[color=#FF0000]4.[/color] Les questions peuvent se former avec 吗 (ma) ou 有没有 (yǒu méi yǒu).[/indent]
+
+[center][font_size=18][color=#808080]通过练习和使用渐渐熟悉过的用法，中文会变得更加自然！[/color][/font_size][/center]

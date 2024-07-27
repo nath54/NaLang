@@ -3,18 +3,22 @@
         "es": "Deportes",
         "fr": "Sports",
         "en": "Sports",
-        "cn": "运动 yun dong",
+        "cn": "运动 (yun dong)",
         "de": "Sportarten",
-        "ja": "スポーツ supōtsu"
+        "ja": "スポーツ (supōtsu)",
+        "kr": "스포츠 (seupocheu)",
+        "ru": "Спорт (sport)"
     },
-    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
     "elements": [{
             "es": ["Fútbol"],
             "fr": ["Football"],
             "en": ["Soccer", "Football"],
             "cn": ["足球", "zu qiu"],
             "de": ["Fußball"],
-            "ja": ["サッカー", "sakkā"]
+            "ja": ["サッカー", "sakkā"],
+            "kr": ["축구", "chukgu"],
+            "ru": ["Футбол", "futbol"]
         },
         {
             "es": ["Baloncesto"],
@@ -22,7 +26,9 @@
             "en": ["Basketball"],
             "cn": ["篮球", "lan qiu"],
             "de": ["Basketball"],
-            "ja": ["バスケットボール", "basukettobōru"]
+            "ja": ["バスケットボール", "basukettobōru"],
+            "kr": ["농구", "nonggu"],
+            "ru": ["Баскетбол", "basketbol"]
         },
         {
             "es": ["Tenis"],
@@ -30,7 +36,9 @@
             "en": ["Tennis"],
             "cn": ["网球", "wang qiu"],
             "de": ["Tennis"],
-            "ja": ["テニス", "tenisu"]
+            "ja": ["テニス", "tenisu"],
+            "kr": ["테니스", "teniseu"],
+            "ru": ["Теннис", "tennis"]
         },
         {
             "es": ["Natación"],
@@ -38,7 +46,9 @@
             "en": ["Swimming"],
             "cn": ["游泳", "you yong"],
             "de": ["Schwimmen"],
-            "ja": ["水泳", "suiei"]
+            "ja": ["水泳", "suiei"],
+            "kr": ["수영", "suyeong"],
+            "ru": ["Плавание", "plavanie"]
         },
         {
             "es": ["Voleibol", "Vóleibol"],
@@ -46,7 +56,9 @@
             "en": ["Volleyball"],
             "cn": ["排球", "pai qiu"],
             "de": ["Volleyball"],
-            "ja": ["バレーボール", "barēbōru"]
+            "ja": ["バレーボール", "barēbōru"],
+            "kr": ["배구", "baegu"],
+            "ru": ["Волейбол", "voleybol"]
         },
         {
             "es": ["Ciclismo"],
@@ -54,7 +66,9 @@
             "en": ["Cycling"],
             "cn": ["骑行", "qi xing"],
             "de": ["Radfahren"],
-            "ja": ["サイクリング", "saikuringu"]
+            "ja": ["サイクリング", "saikuringu"],
+            "kr": ["자전거 타기", "jajeongeo tagi"],
+            "ru": ["Велоспорт", "velosport"]
         },
         {
             "es": ["Atletismo"],
@@ -62,7 +76,9 @@
             "en": ["Athletics", "Track and field"],
             "cn": ["田径", "tian jing"],
             "de": ["Leichtathletik"],
-            "ja": ["陸上競技", "rikujou kyogi"]
+            "ja": ["陸上競技", "rikujou kyogi"],
+            "kr": ["육상 경기", "yuksang gyeonggi"],
+            "ru": ["Лёгкая атлетика", "lyogkaya atletika"]
         },
         {
             "es": ["Golf"],
@@ -70,7 +86,9 @@
             "en": ["Golf"],
             "cn": ["高尔夫", "gao er fu"],
             "de": ["Golf"],
-            "ja": ["ゴルフ", "gorufu"]
+            "ja": ["ゴルフ", "gorufu"],
+            "kr": ["골프", "golpeu"],
+            "ru": ["Гольф", "golf"]
         },
         {
             "es": ["Béisbol"],
@@ -78,7 +96,9 @@
             "en": ["Baseball"],
             "cn": ["棒球", "bang qiu"],
             "de": ["Baseball"],
-            "ja": ["野球", "yakyuu"]
+            "ja": ["野球", "yakyuu"],
+            "kr": ["야구", "yagu"],
+            "ru": ["Бейсбол", "beysboll"]
         },
         {
             "es": ["Rugby"],
@@ -86,7 +106,9 @@
             "en": ["Rugby"],
             "cn": ["橄榄球", "gan lan qiu"],
             "de": ["Rugby"],
-            "ja": ["ラグビー", "ragubī"]
+            "ja": ["ラグビー", "ragubī"],
+            "kr": ["럭비", "reokbi"],
+            "ru": ["Регби", "regbi"]
         },
         {
             "es": ["Hockey"],
@@ -94,7 +116,9 @@
             "en": ["Hockey"],
             "cn": ["曲棍球", "qu gun qiu"],
             "de": ["Hockey"],
-            "ja": ["ホッケー", "hokkē"]
+            "ja": ["ホッケー", "hokkē"],
+            "kr": ["하키", "haki"],
+            "ru": ["Хоккей", "khokkey"]
         },
         {
             "es": ["Boxeo"],
@@ -102,7 +126,9 @@
             "en": ["Boxing"],
             "cn": ["拳击", "quan ji"],
             "de": ["Boxen"],
-            "ja": ["ボクシング", "bokushingu"]
+            "ja": ["ボクシング", "bokushingu"],
+            "kr": ["복싱", "boksing"],
+            "ru": ["Бокс", "boks"]
         },
         {
             "es": ["Artes marciales"],
@@ -110,7 +136,9 @@
             "en": ["Martial arts"],
             "cn": ["武术", "wu shu"],
             "de": ["Kampfkünste"],
-            "ja": ["武道", "budō"]
+            "ja": ["武道", "budō"],
+            "kr": ["무술", "musul"],
+            "ru": ["Боевые искусства", "boyevye iskusstva"]
         },
         {
             "es": ["Gimnasia"],
@@ -118,7 +146,9 @@
             "en": ["Gymnastics"],
             "cn": ["体操", "ti cao"],
             "de": ["Gymnastik"],
-            "ja": ["体操", "taisou"]
+            "ja": ["体操", "taisou"],
+            "kr": ["체조", "chejo"],
+            "ru": ["Гимнастика", "gimnastika"]
         },
         {
             "es": ["Piragüismo"],
@@ -126,7 +156,9 @@
             "en": ["Canoeing", "Kayaking"],
             "cn": ["划船", "hua chuan"],
             "de": ["Kanufahren"],
-            "ja": ["カヌー", "kanū"]
+            "ja": ["カヌー", "kanū"],
+            "kr": ["카누", "kanu"],
+            "ru": ["Каноэ", "kanoe"]
         },
         {
             "es": ["Remo"],
@@ -134,7 +166,9 @@
             "en": ["Rowing"],
             "cn": ["划船", "hua chuan"],
             "de": ["Rudern"],
-            "ja": ["ボート", "bōto"]
+            "ja": ["ボート", "bōto"],
+            "kr": ["노젓기", "nojeotgi"],
+            "ru": ["Гребля", "greblya"]
         },
         {
             "es": ["Esquí"],
@@ -142,7 +176,9 @@
             "en": ["Skiing"],
             "cn": ["滑雪", "hua xue"],
             "de": ["Skifahren"],
-            "ja": ["スキー", "sukī"]
+            "ja": ["スキー", "sukī"],
+            "kr": ["스키", "seuki"],
+            "ru": ["Лыжи", "lyzhi"]
         },
         {
             "es": ["Snowboarding"],
@@ -150,7 +186,9 @@
             "en": ["Snowboarding"],
             "cn": ["单板滑雪", "dan ban hua xue"],
             "de": ["Snowboarden"],
-            "ja": ["スノーボード", "sunōbōdo"]
+            "ja": ["スノーボード", "sunōbōdo"],
+            "kr": ["스노보드", "seunobodeu"],
+            "ru": ["Сноубординг", "snoubording"]
         },
         {
             "es": ["Escalada"],
@@ -158,7 +196,9 @@
             "en": ["Climbing"],
             "cn": ["攀岩", "pan yan"],
             "de": ["Klettern"],
-            "ja": ["クライミング", "kuraimingu"]
+            "ja": ["クライミング", "kuraimingu"],
+            "kr": ["등산", "deungsan"],
+            "ru": ["Скалолазание", "skalolazanie"]
         },
         {
             "es": ["Surfing"],
@@ -166,7 +206,9 @@
             "en": ["Surfing"],
             "cn": ["冲浪", "chong lang"],
             "de": ["Surfen"],
-            "ja": ["サーフィン", "sāfin"]
+            "ja": ["サーフィン", "sāfin"],
+            "kr": ["서핑", "seoping"],
+            "ru": ["Серфинг", "serfing"]
         },
         {
             "es": ["Skateboarding"],
@@ -174,7 +216,9 @@
             "en": ["Skateboarding"],
             "cn": ["滑板", "hua ban"],
             "de": ["Skateboarden"],
-            "ja": ["スケートボード", "sukētobōdo"]
+            "ja": ["スケートボード", "sukētobōdo"],
+            "kr": ["스케이트보드", "seukeiteubodeu"],
+            "ru": ["Скейбординг", "skeytbording"]
         },
         {
             "es": ["Paracaidismo"],
@@ -182,7 +226,9 @@
             "en": ["Skydiving"],
             "cn": ["跳伞", "tiao san"],
             "de": ["Fallschirmspringen"],
-            "ja": ["スカイダイビング", "sukaidai bingu"]
+            "ja": ["スカイダイビング", "sukaidai bingu"],
+            "kr": ["스카이다이빙", "seukaidaibing"],
+            "ru": ["Парашютный спорт", "parashyutny sport"]
         },
         {
             "es": ["Esgrima"],
@@ -190,7 +236,9 @@
             "en": ["Fencing"],
             "cn": ["击剑", "ji jian"],
             "de": ["Fechten"],
-            "ja": ["フェンシング", "fenshingu"]
+            "ja": ["フェンシング", "fenshingu"],
+            "kr": ["펜싱", "penshing"],
+            "ru": ["Фехтование", "fekhtovanie"]
         },
         {
             "es": ["Lucha"],
@@ -198,7 +246,9 @@
             "en": ["Wrestling"],
             "cn": ["摔跤", "shuai jiao"],
             "de": ["Ringen"],
-            "ja": ["レスリング", "resuringu"]
+            "ja": ["レスリング", "resuringu"],
+            "kr": ["레슬링", "reseulling"],
+            "ru": ["Борьба", "borba"]
         },
         {
             "es": ["Badminton"],
@@ -206,7 +256,9 @@
             "en": ["Badminton"],
             "cn": ["羽毛球", "yu mao qiu"],
             "de": ["Badminton"],
-            "ja": ["バドミントン", "badominton"]
+            "ja": ["バドミントン", "badominton"],
+            "kr": ["배드민턴", "baedeuminteon"],
+            "ru": ["Бадминтон", "badminton"]
         },
         {
             "es": ["Pesca"],
@@ -214,7 +266,9 @@
             "en": ["Fishing"],
             "cn": ["钓鱼", "diao yu"],
             "de": ["Angeln"],
-            "ja": ["釣り", "tsuri"]
+            "ja": ["釣り", "tsuri"],
+            "kr": ["낚시", "naksi"],
+            "ru": ["Рыбалка", "rybalka"]
         },
         {
             "es": ["Caza"],
@@ -222,7 +276,9 @@
             "en": ["Hunting"],
             "cn": ["打猎", "da lie"],
             "de": ["Jagd"],
-            "ja": ["狩猟", "shuryou"]
+            "ja": ["狩猟", "shuryou"],
+            "kr": ["사냥", "sanyang"],
+            "ru": ["Охота", "okhota"]
         },
         {
             "es": ["Equitación"],
@@ -230,7 +286,9 @@
             "en": ["Horse riding"],
             "cn": ["骑马", "qi ma"],
             "de": ["Reiten"],
-            "ja": ["乗馬", "jouba"]
+            "ja": ["乗馬", "jouba"],
+            "kr": ["승마", "seungma"],
+            "ru": ["Верховая езда", "verkhovaya ezda"]
         },
         {
             "es": ["Críquet"],
@@ -238,15 +296,9 @@
             "en": ["Cricket"],
             "cn": ["板球", "ban qiu"],
             "de": ["Cricket"],
-            "ja": ["クリケット", "kuriketto"]
-        },
-        {
-            "es": ["Esgrima"],
-            "fr": ["Escrime"],
-            "en": ["Fencing"],
-            "cn": ["击剑", "ji jian"],
-            "de": ["Fechten"],
-            "ja": ["フェンシング", "fenshingu"]
+            "ja": ["クリケット", "kuriketto"],
+            "kr": ["크리켓", "keuriket"],
+            "ru": ["Крикет", "kriket"]
         },
         {
             "es": ["Tiro con arco"],
@@ -254,7 +306,9 @@
             "en": ["Archery"],
             "cn": ["射箭", "she jian"],
             "de": ["Bogenschießen"],
-            "ja": ["アーチェリー", "ācherī"]
+            "ja": ["アーチェリー", "ācherī"],
+            "kr": ["양궁", "yanggung"],
+            "ru": ["Стрельба из лука", "strelba iz luka"]
         },
         {
             "es": ["Triatlón"],
@@ -262,7 +316,9 @@
             "en": ["Triathlon"],
             "cn": ["铁人三项", "tie ren san xiang"],
             "de": ["Triathlon"],
-            "ja": ["トライアスロン", "torai asuron"]
+            "ja": ["トライアスロン", "torai asuron"],
+            "kr": ["철인 3종 경기", "cheorin samjong gyeonggi"],
+            "ru": ["Триатлон", "triatlon"]
         },
         {
             "es": ["Maratón"],
@@ -270,7 +326,9 @@
             "en": ["Marathon"],
             "cn": ["马拉松", "ma la song"],
             "de": ["Marathonlauf"],
-            "ja": ["マラソン", "marason"]
+            "ja": ["マラソン", "marason"],
+            "kr": ["마라톤", "maraton"],
+            "ru": ["Марафон", "marafon"]
         },
         {
             "es": ["Lanzamiento de jabalina"],
@@ -278,7 +336,9 @@
             "en": ["Javelin throw"],
             "cn": ["标枪", "biao qiang"],
             "de": ["Speerwurf"],
-            "ja": ["槍投げ", "yari nage"]
+            "ja": ["槍投げ", "yari nage"],
+            "kr": ["창던지기", "changdeonjigi"],
+            "ru": ["Метание копья", "metanie kop'ya"]
         },
         {
             "es": ["Lanzamiento de disco"],
@@ -286,7 +346,9 @@
             "en": ["Discus throw"],
             "cn": ["铁饼", "tie bing"],
             "de": ["Diskuswurf"],
-            "ja": ["ディスカス投げ", "disukasu nage"]
+            "ja": ["ディスカス投げ", "disukasu nage"],
+            "kr": ["원반 던지기", "wonban deonjigi"],
+            "ru": ["Метание диска", "metanie diska"]
         },
         {
             "es": ["Salto de altura"],
@@ -294,7 +356,9 @@
             "en": ["High jump"],
             "cn": ["跳高", "tiao gao"],
             "de": ["Hochsprung"],
-            "ja": ["ハイジャンプ", "haijampu"]
+            "ja": ["ハイジャンプ", "haijampu"],
+            "kr": ["높이뛰기", "nopideugi"],
+            "ru": ["Прыжок в высоту", "pryzhok v vysotu"]
         },
         {
             "es": ["Salto de longitud"],
@@ -302,7 +366,9 @@
             "en": ["Long jump"],
             "cn": ["跳远", "tiao yuan"],
             "de": ["Weitsprung"],
-            "ja": ["ロングジャンプ", "rongujampu"]
+            "ja": ["ロングジャンプ", "rongujampu"],
+            "kr": ["멀리뛰기", "meollideugi"],
+            "ru": ["Прыжок в длину", "pryzhok v dlinu"]
         },
         {
             "es": ["Gimnasio"],
@@ -310,7 +376,9 @@
             "en": ["Gym"],
             "cn": ["健身房", "jian shen fang"],
             "de": ["Fitnessstudio"],
-            "ja": ["ジム", "jimu"]
+            "ja": ["ジム", "jimu"],
+            "kr": ["체육관", "cheyuggwan"],
+            "ru": ["Тренажерный зал", "trenazherny zal"]
         },
         {
             "es": ["Entrenador"],
@@ -318,15 +386,19 @@
             "en": ["Coach", "Trainer"],
             "cn": ["教练", "jiao lian"],
             "de": ["Trainer"],
-            "ja": ["コーチ", "kōchi"]
+            "ja": ["コーチ", "kōchi"],
+            "kr": ["코치", "kochi"],
+            "ru": ["Тренер", "trener"]
         },
         {
-            "es": ["Arbitro"],
+            "es": ["Árbitro"],
             "fr": ["Arbitre"],
             "en": ["Referee", "Umpire"],
             "cn": ["裁判", "cai pan"],
             "de": ["Schiedsrichter"],
-            "ja": ["審判", "shinpan"]
+            "ja": ["審判", "shinpan"],
+            "kr": ["심판", "simpan"],
+            "ru": ["Судья", "sudya"]
         },
         {
             "es": ["Equipo"],
@@ -334,7 +406,9 @@
             "en": ["Team"],
             "cn": ["队", "dui"],
             "de": ["Mannschaft"],
-            "ja": ["チーム", "chīmu"]
+            "ja": ["チーム", "chīmu"],
+            "kr": ["팀", "tim"],
+            "ru": ["Команда", "komanda"]
         },
         {
             "es": ["Jugadores"],
@@ -342,71 +416,81 @@
             "en": ["Players"],
             "cn": ["球员", "qiu yuan"],
             "de": ["Spieler"],
-            "ja": ["選手", "senshu"]
-        },
-        {
+            "ja": ["選手", "senshu"],
+            "kr": ["선수", "seonsu"],
+            "ru": ["Игроки", "igroki"]
+        }, {
             "es": ["Partido", "Juego"],
             "fr": ["Partie", "Match"],
             "en": ["Game", "Match"],
             "cn": ["比赛", "bi sai"],
             "de": ["Spiel", "Match"],
-            "ja": ["試合", "shiai"]
-        },
-        {
+            "ja": ["試合", "shiai"],
+            "kr": ["경기", "gyeonggi"],
+            "ru": ["Матч", "match"]
+        }, {
             "es": ["Competencia"],
             "fr": ["Compétition"],
             "en": ["Competition"],
             "cn": ["竞争", "jing zheng"],
             "de": ["Wettbewerb"],
-            "ja": ["競技", "kyōgi"]
-        },
-        {
+            "ja": ["競技", "kyōgi"],
+            "kr": ["경쟁", "gyeongjaeng"],
+            "ru": ["Соревнование", "sorevnovanie"]
+        }, {
             "es": ["Victoria"],
             "fr": ["Victoire"],
             "en": ["Victory", "Win"],
             "cn": ["胜利", "sheng li"],
             "de": ["Sieg"],
-            "ja": ["勝利", "shōri"]
-        },
-        {
+            "ja": ["勝利", "shōri"],
+            "kr": ["승리", "seungri"],
+            "ru": ["Победа", "pobeda"]
+        }, {
             "es": ["Derrota"],
             "fr": ["Défaite"],
             "en": ["Defeat", "Loss"],
             "cn": ["失败", "shi bai"],
             "de": ["Niederlage"],
-            "ja": ["敗北", "haiboku"]
-        },
-        {
+            "ja": ["敗北", "haiboku"],
+            "kr": ["패배", "paebae"],
+            "ru": ["Поражение", "porazhenie"]
+        }, {
             "es": ["Empate"],
             "fr": ["Match nul"],
             "en": ["Draw", "Tie"],
             "cn": ["平局", "ping ju"],
             "de": ["Unentschieden"],
-            "ja": ["引き分け", "hiki wake"]
-        },
-        {
+            "ja": ["引き分け", "hiki wake"],
+            "kr": ["무승부", "museungbu"],
+            "ru": ["Ничья", "nichya"]
+        }, {
             "es": ["Entrenamiento"],
             "fr": ["Entraînement"],
             "en": ["Training"],
             "cn": ["训练", "xun lian"],
             "de": ["Training"],
-            "ja": ["訓練", "kunren"]
-        },
-        {
+            "ja": ["訓練", "kunren"],
+            "kr": ["훈련", "hullyeon"],
+            "ru": ["Тренировка", "trenirovka"]
+        }, {
             "es": ["Medalla"],
             "fr": ["Médaille"],
             "en": ["Medal"],
             "cn": ["奖牌", "jiang pai"],
             "de": ["Medaille"],
-            "ja": ["メダル", "medaru"]
-        },
-        {
+            "ja": ["メダル", "medaru"],
+            "kr": ["메달", "medal"],
+            "ru": ["Медаль", "medal"]
+        }, {
             "es": ["Trofeo"],
             "fr": ["Trophée"],
             "en": ["Trophy"],
             "cn": ["奖杯", "jiang bei"],
             "de": ["Trophäe"],
-            "ja": ["トロフィー", "torofī"]
+            "ja": ["トロフィー", "torofī"],
+            "kr": ["트로피", "teuropi"],
+            "ru": ["Трофей", "trofey"]
         }
     ]
 }

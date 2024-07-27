@@ -1,1 +1,124 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Caractères Chinois de Niveau HSK1[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le HSK1 est le premier niveau de l'examen d'évaluation du chinois, correspondant à un niveau débutant. À ce stade, l'objectif principal est d'apprendre les caractères de base et les phrases simples utilisées dans la vie quotidienne. Le vocabulaire HSK1 comprend 150 mots, qui permettent de se débrouiller dans des situations basiques.
+
+[font_size=24][color=#4B0082]1. Les Caractères Chinois et leur Prononciation[/color][/font_size]
+
+La langue chinoise utilise des caractères logographiques qui représentent des mots ou des morphemes. Chaque caractère peut avoir une ou plusieurs significations et est associé à une prononciation spécifique en pinyin (système de romanisation du chinois). Voici quelques caractères de base du HSK1 :
+
+[b]a) Les Nombres[/b]
+[indent]Les chiffres sont parmi les premiers caractères que l'on apprend en chinoise. Voici les principaux :
+
+[code]
+一 (yī) - un
+二 (èr) - deux
+三 (sān) - trois
+四 (sì) - quatre
+五 (wǔ) - cinq
+六 (liù) - six
+七 (qī) - sept
+八 (bā) - huit
+九 (jiǔ) - neuf
+十 (shí) - dix
+[/code]
+
+[i]Exemple : [color=#0000FF]我有三个苹果。[/color] [color=#008000](Wǒ yǒu sān gè píngguǒ - J'ai trois pommes.)[/color][/i][/indent]
+
+[b]b) Les Pronoms Personnels[/b]
+[indent]Les pronoms personnels sont également essentiels pour la communication de base :
+
+[code]
+我 (wǒ) - je, moi
+你 (nǐ) - tu, toi
+他 (tā) - il, lui
+她 (tā) - elle
+我们 (wǒmen) - nous
+你们 (nǐmen) - vous
+他们 (tāmen) - ils, eux
+她们 (tāmen) - elles
+[/code]
+
+[i]Exemple : [color=#0000FF]你叫什么名字？[/color] [color=#008000](Nǐ jiào shénme míngzi? - Comment t'appelles-tu ?) [/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Expressions et Phrases Utiles[/color][/font_size]
+
+Les apprenants de HSK1 doivent également être capables de formuler des phrases simples. Voici quelques exemples courants :
+
+[indent][code]
+你好 (nǐ hǎo) - Bonjour
+谢谢 (xièxie) - Merci
+对不起 (duìbuqǐ) - Désolé
+请问 (qǐngwèn) - Excusez-moi
+再见 (zàijiàn) - Au revoir
+[/code]
+
+[i]Exemple : [color=#0000FF]谢谢你的帮助！[/color] [color=#008000](Xièxie nǐ de bāngzhù! - Merci pour ton aide !)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. La Structure des Phrases en Chinois[/color][/font_size]
+
+En chinois, la structure des phrases est généralement sujet-verbe-objet, comme en français. Cependant, certains aspects diffèrent, notamment l'utilisation des particules.
+
+[b]a) Forme Affirmative[/b]
+[indent]En chinois, les phrases affirmatives suivent une structure simple :
+
+[code]
+Sujet + Verbe + Objet
+
+Exemple : 我喜欢喝茶。 (Wǒ xǐhuān hē chá.) - J'aime boire du thé.
+[/code][/indent]
+
+[b]b) Forme Interrogative[/b]
+[indent]Pour poser une question, on peut utiliser l'une des méthodes suivantes :
+
+[code]
+1. Particule  吗 (ma)
+
+Exemple : 你喜欢喝茶吗？ (Nǐ xǐhuān hē chá ma?) - Aimes-tu boire du thé ?
+
+2. Utilisation de question mots (quand, où, pourquoi, ...)
+
+Exemple : 你叫什么名字？ (Nǐ jiào shénme míngzi?) - Comment t'appelles-tu ?
+[/code][/indent]
+
+[font_size=24][color=#4B0082]4. Les Classificateurs[/color][/font_size]
+
+Le chinois utilise des classificateurs (ou "mesure-words") qui sont nécessaires lorsqu'on parle d'un nombre d'objets. Le classificateur général est 个 (gè), mais d'autres existent selon le contexte.
+
+[indent][code]
+一个人 (yīgè rén) - une personne
+两本书 (liǎng běn shū) - deux livres
+三只猫 (sān zhī māo) - trois chats
+[/code]
+
+[i]Exemple : [color=#0000FF]我有两个姐姐。[/color] [color=#008000](Wǒ yǒu liǎng gè jiějie. - J'ai deux grandes sœurs.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Verbes Courants[/color][/font_size]
+
+Connaître les verbes les plus fréquents est crucial pour construire des phrases simples et utiles. Voici quelques verbes essentiels au niveau HSK1 :
+
+[indent][code]
+是 (shì) - être
+有 (yǒu) - avoir
+去 (qù) - aller
+来 (lái) - venir
+喜欢 (xǐhuān) - aimer
+想 (xiǎng) - vouloir, penser
+喝 (hē) - boire
+吃 (chī) - manger
+[/code]
+
+[i]Exemple : [color=#0000FF]我想去中国。[/color] [color=#008000](Wǒ xiǎng qù Zhōngguó. - Je veux aller en Chine.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les caractères chinois sont logographiques et représentent des mots ou des morphemes.
+[color=#FF0000]2.[/color] La prononciation en pinyin aide à lire et à prononcer correctement les caractères chinois.
+[color=#FF0000]3.[/color] La structure des phrases en chinois suit une syntaxe Sujet-Verbe-Objet.
+[color=#FF0000]4.[/color] Les classificateurs sont nécessaires pour parler du nombre d'objets.
+[color=#FF0000]5.[/color] Les expressions et phrases simples permettent de naviguer les situations quotidiennes fondamentales.[/indent]
+
+[center][font_size=18][color=#808080]加油 (jiāyóu) ! - Courage ! Apprends bien et ton chinois s'améliorera rapidement ![/color][/font_size][/center]

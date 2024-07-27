@@ -1,1 +1,122 @@
- 
+[font_size=30][center][b][color=#0000FF]Les caractères chinois : Niveau HSK3[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le HSK (Hanyu Shuiping Kaoshi) est un examen standardisé de chinois pour les locuteurs non natifs, qui se divise en six niveaux de difficulté croissante. Le niveau HSK3 est un niveau intermédiaire où l'on s'attend à connaître environ 600 mots et caractères. Dans cette leçon, nous allons explorer quelques-uns des caractères clés de ce niveau, leur signification, leur prononciation et comment ils peuvent être utilisés en contextes simples.
+
+[font_size=24][color=#4B0082]1. Caractères essentiels du niveau HSK3[/color][/font_size]
+
+Au niveau HSK3, il est important de maîtriser les caractères de base et de comprendre comment les combiner pour former des phrases utiles. Voici une sélection de caractères courants avec leur prononciation et leur traduction :
+
+[b]a) Caractères courants[/b]
+[indent][code]
+我 (wǒ) [color=#008000](je/moi)[/color]
+你 (nǐ) [color=#008000](tu/toi)[/color]
+他 (tā) [color=#008000](il/lui)[/color]
+她 (tā) [color=#008000](elle)[/color]
+我们 (wǒmen) [color=#008000](nous)[/color]
+你们 (nǐmen) [color=#008000](vous)[/color]
+他们 (tāmen) [color=#008000](ils)[/color]
+她们 (tāmen) [color=#008000](elles)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我爱你。[/color] [color=#008000](wǒ ài nǐ) (Je t'aime.)[/color][/i][/indent]
+
+[b]b) Caractères de temps[/b]
+[indent][code]
+今天 (jīntiān) [color=#008000](aujourd'hui)[/color]
+昨天 (zuótiān) [color=#008000](hier)[/color]
+明天 (míngtiān) [color=#008000](demain)[/color]
+现在 (xiànzài) [color=#008000](maintenant)[/color]
+时候 (shíhou) [color=#008000](temps/moment)[/color]
+常常 (chángcháng) [color=#008000](souvent)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]今天我去学校。[/color] [color=#008000](jīntiān wǒ qù xuéxiào) (Aujourd'hui, je vais à l'école.)[/color][/i][/indent]
+
+[b]c) Caractères de lieu[/b]
+[indent][code]
+这里 (zhèlǐ) [color=#008000](ici)[/color]
+那里 (nàlǐ) [color=#008000](là-bas)[/color]
+家 (jiā) [color=#008000](maison)[/color]
+学校 (xuéxiào) [color=#008000](école)[/color]
+公司 (gōngsī) [color=#008000](entreprise)[/color]
+商店 (shāngdiàn) [color=#008000](magasin)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我住在这里。[/color] [color=#008000](wǒ zhù zài zhèlǐ) (J'habite ici.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Structure des phrases</color][/font_size]
+
+Il est important de comprendre non seulement les caractères, mais aussi comment les utiliser pour construire des phrases cohérentes. Voici quelques structures de phrases courantes au niveau HSK3.
+
+[b]a) SVO (Sujet-Verbe-Objet)[/b]
+[indent]Cette structure est commune en chinois, chaque phrase suit généralement cette ordre :
+
+[color=#0000FF]我吃苹果。[/color] [color=#008000](wǒ chī píngguǒ) (Je mange une pomme.)[/color]
+[color=#0000FF]你看书。[/color] [color=#008000](nǐ kàn shū) (Tu lis un livre.)[/color] 
+
+[b]b) Phrases négatives[/b]
+Pour former une phrase négative, on utilise la particule [color=#FF0000]"不"[/color] (bù) ou [color=#FF0000]"没"[/color] (méi) devant le verbe :
+
+[color=#0000FF]我不喜欢。[/color] [color=#008000](wǒ bù xǐhuān) (Je n'aime pas.)[/color]
+[color=#0000FF]他没去学校。[/color] [color=#008000](tā méi qù xuéxiào) (Il n'est pas allé à l'école.)[/color]
+
+[b]c) Phrases interrogatives[/b]
+Pour poser une question oui/non, on utilise la particule [color=#FF0000]"吗"[/color] (ma) à la fin de la phrase :
+
+[color=#0000FF]你喜欢吗？[/color] [color=#008000](nǐ xǐhuān ma?) (Aimes-tu ?)[/color]
+[color=#0000FF]他来了没有？[/color] [color=#008000](tā lái le méiyǒu?) (Est-il venu ou non ?)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Combinaisons de caractères[/color][/font_size]
+
+En chinois, il est courant de combiner plusieurs caractères pour former des mots plus complexes. Voici quelques exemples de combinaisons de deux caractères :
+
+[b]a) Personnes et objets[/b]
+[indent][code]
+朋友 (péngyǒu) [color=#008000](ami)[/color]
+老师 (lǎoshī) [color=#008000](professeur)[/color]
+电话 (diànhuà) [color=#008000](téléphone)[/color]
+电脑 (diànnǎo) [color=#008000](ordinateur)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]她是我的朋友。[/color] [color=#008000](tā shì wǒ de péngyǒu) (Elle est mon amie.)[/color][/i][/indent]
+
+[b]b) Actions et activités[/b]
+[indent][code]
+学习 (xuéxí) [color=#008000](étudier)[/color]
+工作 (gōngzuò) [color=#008000](travailler)[/color]
+游泳 (yóuyǒng) [color=#008000](nager)[/color]
+跑步 (pǎobù) [color=#008000](courir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我喜欢游泳。[/color] [color=#008000](wǒ xǐhuān yóuyǒng) (J'aime nager.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Caractéristiques des caractères chinois[/color][/font_size]
+
+Les caractères chinois ont des caractéristiques spéciales qu'il est crucial de comprendre :
+
+[indent]• [b]Radicaux :[/b] Les radicaux sont les éléments de base des caractères chinois. Ils peuvent donner des indices sur la signification ou la prononciation.
+[color=#0000FF]Exemple : 海 (hǎi) [color=#008000](mer)[/color] contient le radical 氵 (eau).[/color]
+
+- [b]Traits :[/b] Les caractères sont formés de divers traits qui doivent être écrits dans un ordre précis.
+[color=#0000FF]Exemple : 日 (rì) [color=#008000](soleil)[/color] est composé de quatre traits.[/color][/indent]
+
+[font_size=24][color=#4B0082]5. Exercices pratiques sur les caractères du HSK3[/color][/font_size]
+
+Pour progresser dans l'apprentissage des caractères, il est conseillé de pratiquer régulièrement leur écriture et leur utilisation dans des phrases :
+
+[indent]• Essayez d'écrire chaque caractère plusieurs fois en respectant bien l'ordre des traits.
+• Composez des phrases simples en utilisant les caractères appris.
+• Utilisez des applications ou des livres de préparation au HSK pour vous entraîner.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le niveau HSK3 implique la maîtrise d'environ 600 caractères.
+[color=#FF0000]2.[/color] Comprendre les structures de phrases simples est essentiel.
+[color=#FF0000]3.[/color] La mémorisation des radicaux aide à mieux comprendre les caractères.
+[color=#FF0000]4.[/color] La pratique régulière de l'écriture et de la lecture des caractères est primordiale.[/indent]
+
+[center][font_size=18][color=#808080]祝你学习愉快！(zhù nǐ xuéxí yúkuài) Bonne étude ![/color][/font_size][/center]

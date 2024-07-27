@@ -1,1 +1,92 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Caractères Chinois et le HSK2[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le chinois est une langue fascinante mais très différente des langues indo-européennes. Un des aspects les plus uniques de cette langue est son système d'écriture. Dans ce cours, nous allons explorer les caractères chinois et le niveau HSK2, qui est le deuxième niveau du test de compétence en chinois HSK (Hanyu Shuiping Kaoshi).
+
+[font_size=24][color=#4B0082]1. Les Caractères Chinois[/color][/font_size]
+
+Les caractères chinois sont la base de l'écriture chinoise. Chaque caractère représente une syllabe et peut posséder différents sens selon le contexte. Apprendre à lire et écrire ces caractères est fondamental pour maîtriser le chinois.
+
+[b]a) Radicaux et Composantes[/b]
+[indent]Les caractères chinois sont souvent composés de plusieurs éléments ou radicaux, qui aident à déterminer le sens ou la prononciation.
+
+[u]Exemple de Radicals :[/u]
+[code]
+水 (shuǐ) [color=#008000](eau)[/color]
+木 (mù) [color=#008000](bois)[/color]
+口 (kǒu) [color=#008000](bouche)[/color]
+心 (xīn) [color=#008000](cœur)[/color]
+[/code]
+
+Ces radicaux peuvent se combiner pour former des caractères plus complexes :
+[code]
+泪 (lèi) [color=#008000](larme)[/color] - composé de 水 (shuǐ) [color=#008000](eau)[/color] et 目 (mù) [color=#008000](œil)[/color]
+[/code][/indent]
+
+[b]b) Structure des Caractères[/b]
+[indent]Les caractères chinois peuvent être classés selon leur structure :
+
+[u]Exemples :[/u]
+[code]
+上下结构 (shàng xià jiégòu) [color=#008000](structure verticale : 上 [haut] + 下 [bas])[/color]
+左右结构 (zuǒ yòu jiégòu) [color=#008000](structure horizontale : 左 [gauche] + 右 [droite])[/color]
+独体字 (dútǐ zì) [color=#008000](caractère simple : 一个 [yī gè] - un seul caractère)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Niveau HSK2[/color][/font_size]
+
+Le HSK2 est le deuxième niveau officiel du test de compétence en chinois. Ce niveau est conçu pour les étudiants ayant étudié le chinois pendant environ 2 à 4 mois, à raison de 2 à 3 heures par semaine. Le niveau HSK2 couvre environ 300 mots et expressions.
+
+[b]a) Vocabulaire</b]
+[indent]Voici quelques mots de vocabulaire typiques du HSK2 :
+
+[code]
+喜欢 (xǐ huān) [color=#008000](aimer)[/color]
+工作 (gōng zuò) [color=#008000](travailler)[/color]
+时间 (shí jiān) [color=#008000](temps)[/color]
+吃 (chī) [color=#008000](manger)[/color]
+朋友 (péng yǒu) [color=#008000](ami)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我喜欢吃中国菜。[/color] [color=#008000](wǒ xǐ huān chī zhōng guó cài) - J'aime manger de la cuisine chinoise.[/color][/i][/indent]
+
+[b]b) Grammaire de base[/b]
+[indent]Le HSK2 introduit des structures grammaticales plus complexes mais toujours fondamentales :
+
+[u]Exemples :[/u]
+[code]
+Subordonnées de comparaison : 比 (bǐ)
+Comparaison d'états : 更 (gèng)
+L'indicatif : 着 (zhe)
+[/code]
+
+[i]Exemple : [color=#0000FF]她比我高。[/color] [color=#008000](tā bǐ wǒ gāo) - Elle est plus grande que moi.[/color][/i][/indent]
+
+[b]c) Syntaxe[/b]
+[indent]En chinois, la structure de la phrase suit généralement l'ordre S-V-O (Sujet-Verbe-Objet).
+
+[u]Exemples :[/u]
+[code]
+SVO : 他吃苹果。 (tā chī píng guǒ) [color=#008000](Il mange une pomme.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Conseils pour Apprendre les Caractères Chinois[/color][/font_size]
+
+Apprendre le chinois peut être intimidant au début, mais avec la bonne méthode, vous progresserez rapidement.
+
+[indent]• [b]Répétition et Pratique :[/b] Répétez régulièrement les caractères en les écrivant et en les lisant.
+• [b]Flashcards :[/b] Utilisez des flashcards pour mémoriser les caractères et leur prononciation.
+• [b]Applications :[/b] Utilisez des applications mobiles pour pratiquer quotidiennement.
+• [b]Écouter et Parler :[/b] Écoutez des locuteurs natifs et pratiquez la prononciation.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les caractères chinois sont composés de radicaux et peuvent se combiner de diverses manières.
+[color=#FF0000]2.[/color] Le niveau HSK2 couvre environ 300 mots et expressions.
+[color=#FF0000]3.[/color] La structure des phrases en chinois est généralement S-V-O.
+[color=#FF0000]4.[/color] La pratique régulière et l'utilisation de ressources éducatives sont essentielles pour progresser.[/indent]
+
+[center][font_size=18][color=#808080]好好学习，天天向上！(hǎo hǎo xué xí, tiān tiān xiàng shàng) [color=#008000](Étudie bien et progresse chaque jour !)[/color][/font_size][/center]

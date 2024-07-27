@@ -1,1 +1,118 @@
- 
+[font_size=30][center][b][color=#0000FF]Les consonnes aspirées en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La prononciation du chinois mandarin peut être un défi pour les francophones, notamment à cause des [u]consonnes aspirées[/u]. Ces dernières sont essentielles pour bien se faire comprendre et pour différencier les mots ayant des consonnes similaires mais non aspirées. Apprenons ensemble comment bien les prononcer et les utiliser !
+
+[font_size=24][color=#4B0082]1. Comprendre les consonnes aspirées[/color][/font_size]
+
+En chinois mandarin, certaines consonnes se distinguent par une forte expulsion d'air, ce qui les rend aspirées. C'est ce qui les différencie des consonnes "non aspirées" qui sont produites sans cette expulsion d'air.
+
+Les principales consonnes aspirées en chinois sont :
+
+[b]p (pinyin : p)[/b] [indent][b]Exemple : [/b][color=#0000FF]怕 (pà)[/color] [color=#008000](avoir peur)[/color][/indent]
+
+[b]t (pinyin : t)[/b] [indent][b]Exemple : [/b][color=#0000FF]他 (tā)[/color] [color=#008000](il)[/color][/indent]
+
+[b]k (pinyin : k)[/b] [indent][b]Exemple : [/b][color=#0000FF]看 (kàn)[/color] [color=#008000](regarder)[/color][/indent]
+
+[b]q (pinyin : q)[/b] [indent][b]Exemple : [/b][color=#0000FF]去 (qù)[/color] [color=#008000](aller)[/color][/indent]
+
+[b]ch (pinyin : ch)[/b] [indent][b]Exemple : [/b][color=#0000FF]吃 (chī)[/color] [color=#008000](manger)[/color][/indent]
+
+[font_size=24][color=#4B0082]2. Différence entre consonnes aspirées et non aspirées[/color][/font_size]
+
+Il est crucial de différencier les consonnes aspirées des non aspirées car cela peut changer la signification d'un mot. Voici quelques exemples pour vous aider :
+
+[indent][code]
+b (bā) 
+p (pā)
+d (dā)
+t (tā)
+g (gā)
+k (kā)
+j (jiā)
+q (qiā)
+zh (zhā)
+ch (chā)
+[/code][/indent]
+
+[i]Exemple : 
+bā [color=#008000](huit)[/color] vs pā [color=#008000](coiffer)[/color]
+dā [color=#008000](répondre)[/color] vs tā [color=#008000](il/elle)[/color]
+gā [color=#008000](ancien)[/color] vs kā [color=#008000](regarder)[/color][/i]
+
+[font_size=24][color=#4B0082]3. Comment produire les sons aspirés[/color][/font_size]
+
+Pour bien prononcer les consonnes aspirées, il suffit de suivre ces étapes simples :
+
+[indent]• Placez votre main devant votre bouche.
+• Prononcez la consonne en veillant à produire un souffle d'air perceptible sur votre main.
+• Comparez avec la version non aspirée pour bien sentir la différence.
+
+Pratiquez avec les mots donnés en exemple pour vous habituer à cette différence.[/indent]
+
+[b]p[/b] : Posez les lèvres comme pour dire un "b" et expulsez un souffle d'air. [i]Exemple : [/i][color=#0000FF]pà[/color] [color=#008000](avoir peur)[/color]
+
+[b]t[/b] : Placez la langue derrière les dents du haut et soufflez fortement. [i]Exemple : [/i][color=#0000FF]tā[/color] [color=#008000](il)[/color]
+
+[b]k[/b] : Garde du palais mou en arrière et expulsez un souffle d'air. [i]Exemple : [/i][color=#0000FF]kàn[/color] [color=#008000](regarder)[/color]
+
+[b]q[/b] : Approchez la langue du palais dur, comme pour un léger "tch" et soufflez. [i]Exemple : [/i][color=#0000FF]qù[/color] [color=#008000](aller)[/color]
+
+[b]ch[/b] : Enroulez légèrement la langue vers le palais et soufflez. [i]Exemple : [/i][color=#0000FF]chī[/color] [color=#008000](manger)[/color]
+
+[font_size=24][color=#4B0082]4. Exemples fréquents de consonnes aspirées[/color][/font_size]
+
+Pratiquer régulièrement avec des mots courants enrichira votre prononciation et votre vocabulaire. Voici une liste de mots commune pour chaque consonne aspirée :
+
+[b]p (pinyin : p)[/b]
+[indent][code]
+怕 (pà) [color=#008000](avoir peur)[/color]
+苹果 (píng guǒ) [color=#008000](pomme)[/color]
+旁边 (páng biān) [color=#008000](à côté)[/color]
+朋友 (péng yǒu) [color=#008000](ami)[/color] 
+[/code][/indent]
+
+[b]t (pinyin : t)[/b]
+[indent][code]
+他 (tā) [color=#008000](il/elle)[/color]
+跳 (tiào) [color=#008000](sauter)[/color]
+天 (tiān) [color=#008000](ciel, jour)[/color]
+听 (tīng) [color=#008000](écouter)[/color]
+[/code][/indent]
+
+[b]k (pinyin : k)[/b]
+[indent][code]
+看 (kàn) [color=#008000](regarder)[/color]
+开 (kāi) [color=#008000](ouvrir)[/color]
+考试 (kǎo shì) [color=#008000](examen)[/color]
+客人 (kè rén) [color=#008000](invité)[/color]
+[/code][/indent]
+
+[b]q (pinyin : q)[/b]
+[indent][code]
+去 (qù) [color=#008000](aller)[/color]
+请 (qǐng) [color=#008000](s'il vous plaît/inviter)[/color]
+起床 (qǐ chuáng) [color=#008000](se lever du lit)[/color]
+全 (quán) [color=#008000](tout)[/color]
+[/code][/indent]
+
+[b]ch (pinyin : ch)[/b]
+[indent][code]
+吃 (chī) [color=#008000](manger)[/color]
+茶 (chá) [color=#008000](thé)[/color]
+唱 (chàng) [color=#008000](chanter)[/color]
+车 (chē) [color=#008000](voiture)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les consonnes aspirées se distinguent par une forte expulsion d'air.
+[color=#FF0000]2.[/color] La différence entre les consonnes aspirées et non aspirées peut changer la signification d'un mot.
+[color=#FF0000]3.[/color] Pratiquez avec votre main devant la bouche pour sentir l'expulsion d'air.
+[color=#FF0000]4.[/color] Utilisez les mots courants donnés pour vous entraîner régulièrement.[/indent]
+
+[center][font_size=18][color=#808080]继续练习, 你的发音会越来越自然流利! (jì xù liàn xí, nǐ de fā yīn huì yuè lái yuè zì rán liú lì!) [color=#000000](Continuez à pratiquer, votre prononciation deviendra de plus en plus naturelle et fluide !)[/color][/font_size][/center]

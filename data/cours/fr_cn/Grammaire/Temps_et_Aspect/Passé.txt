@@ -1,1 +1,90 @@
- 
+[font_size=30][center][b][color=#0000FF]Exprimer le passé en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, le passé n'est pas exprimé de la même manière qu'en français. Plutôt que d'utiliser des temps grammaticaux distincts, le chinois utilise des particules et des structures syntaxiques spécifiques pour indiquer qu'une action est terminée ou qu'elle s'est produite dans le passé. On se concentre sur le sens et l'aspect de l'action plutôt que sur le temps grammatical.
+
+[font_size=24][color=#4B0082]1. Marqueurs de passé[/color][/font_size]
+
+En chinois, il existe plusieurs façons d'indiquer qu'une action s'est déroulée dans le passé :
+
+[b]a) Particule 了 (le)[/b]
+[indent]La particule [color=#FF0000]了 (le)[/color] est l'un des marqueurs les plus courants pour indiquer qu'une action est terminée. Elle est placée après le verbe principal.
+
+[code]
+我吃了午饭。[color=#008000] (wo chi le wu fan)[/color] [color=#008000](J'ai mangé le déjeuner.)[/color]
+他去了北京。[color=#008000] (ta qu le Bei jing)[/color] [color=#008000](Il est allé à Pékin.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我看了这部电影。[/color] [color=#008000](wo kan le zhe bu dian ying) [color=#008000](J'ai vu ce film.)[/color][/i][/indent]
+
+[b]b) La structure de l'expérience (过) (guo)[/b]
+[indent]La particule [color=#FF0000]过 (guo)[/color] est utilisée pour indiquer qu'une action a eu lieu au moins une fois dans le passé. On peut la placer après le verbe.
+
+[code]
+我去过中国。[color=#008000] (wo qu guo Zhong guo)[/color] [color=#008000](Je suis allé en Chine.)[/color]
+他看过这本书。[color=#008000] (ta kan guo zhe ben shu)[/color] [color=#008000](Il a lu ce livre.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你吃过北京烤鸭吗？[/color] [color=#008000](ni chi guo Bei jing kao ya ma) [color=#008000](As-tu mangé du canard laqué de Pékin ?)[/color][/i][/indent]
+
+[b]c) Indicateurs temporels de passé[/b]
+[indent]Les indicateurs temporels comme [color=#FF0000]昨天 (zuo tian)[/color] (hier), [color=#FF0000]上个星期 (shang ge xing qi)[/color] (la semaine dernière), et [color=#FF0000]以前 (yi qian)[/color] (avant, précédemment) sont souvent utilisés pour situer une action dans le passé.
+
+[code]
+我昨天见了他。[color=#008000] (wo zuo tian jian le ta)[/color] [color=#008000](Je l'ai vu hier.)[/color]
+上个星期我们去了海边。[color=#008000] (shang ge xing qi wo men qu le hai bian)[/color] [color=#008000](La semaine dernière, nous sommes allés à la plage.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]几年前，我学习了中文。[/color] [color=#008000](ji nian qian, wo xue xi le Zhong wen) [color=#008000](Il y a quelques années, j'ai appris le chinois.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Formes négatives[/color][/font_size]
+
+Pour exprimer la négation dans le passé, le verbe principal est précédé de la particule [color=#FF0000]没 (mei)[/color] pour indiquer qu'une action ne s'est pas produite.
+
+[indent][code]
+我没吃早餐。[color=#008000] (wo mei chi zao can)[/color] [color=#008000](Je n'ai pas pris le petit-déjeuner.)[/color]
+他昨天没去上班。[color=#008000] (ta zuo tian mei qu shang ban)[/color] [color=#008000](Il n'est pas allé travailler hier.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你没看过那部电影。[/color] [color=#008000](ni mei kan guo na bu dian ying) [color=#008000](Tu n'as pas vu ce film.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. L’aspect accompli avec 了 et 过[/color][/font_size]
+
+En chinois, le choix entre [color=#FF0000]了 (le)[/color] et [color=#FF0000]过 (guo)[/color] dépend du contexte et de la nature de l'action :
+
+[indent]• [color=#FF0000]了 (le)[/color] est utilisé pour indiquer la complétion d'une action spécifique.
+• [color=#FF0000]过 (guo)[/color] est utilisé pour indiquer qu'une action a été expérimentée au moins une fois dans le passé.
+
+Exemple 1 :
+[color=#0000FF]我吃了晚饭。[/color] [color=#008000](wo chi le wan fan) [color=#008000](J'ai dîné.)[/color]
+[color=#0000FF]我吃过晚饭。[/color] [color=#008000](wo chi guo wan fan) [color=#008000](J'ai déjà dîné au moins une fois.)[/color]
+
+Exemple 2 :
+[color=#0000FF]他去了日本。[/color] [color=#008000](ta qu le Ri ben) [color=#008000](Il est allé au Japon.)[/color]
+[color=#0000FF]他去过日本。[/color] [color=#008000](ta qu guo Ri ben) [color=#008000](Il a déjà été au Japon au moins une fois.)[/color][/indent]
+
+[font_size=24][color=#4B0082]4. Autres expressions utiles[/color][/font_size]
+
+Certaines expressions et phrases sont fréquemment utilisées pour décrire des expériences passées :
+
+[indent][code]
+以前 (yi qian) [color=#008000](Avant, précédemment)[/color]
+曾经 (ceng jing) [color=#008000](Une fois, déjà)[/color]
+当时 (dang shi) [color=#008000](À ce moment-là)[/color]
+那时候 (na shi hou) [color=#008000](À cette époque)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他以前住在上海。[/color] [color=#008000](ta yi qian zhu zai Shang hai) [color=#008000](Il vivait auparavant à Shanghai.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le chinois utilise des particules plutôt que des conjugaisons de verbes pour indiquer le passé.
+[color=#FF0000]2.[/color] La particule [color=#FF0000]了 (le)[/color] est utilisée pour indiquer la complétion d'une action précise.
+[color=#FF0000]3.[/color] La particule [color=#FF0000]过 (guo)[/color] indique qu'une action a été expérimentée.
+[color=#FF0000]4.[/color] Les indicateurs temporels aident à situer une action dans le passé.
+[color=#FF0000]5.[/color] La particule [color=#FF0000]没 (mei)[/color] est utilisée pour la négation dans le passé.[/indent]
+
+[center][font_size=18][color=#808080]用正确的语法表达过去的事情，你的中文会更上一层楼！[/color][/font_size][/center]

@@ -1,1 +1,93 @@
- 
+[font_size=30][center][b][color=#0000FF]L'Aspect Continuatif avec 着 (zhe) en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'aspect continuatif en chinois, marqué par le caractère 着 (zhe), est utilisé pour indiquer que l'action est en cours de déroulement. Contrairement à d'autres langues qui utilisent souvent des structures verbales complexes pour marquer la continuité, le chinois simplifie cette tâche grâce à l'emploi de 着 (zhe). Comprendre et utiliser 着 (zhe) correctement peut grandement améliorer votre maîtrise du chinois parlé et écrit.
+
+[font_size=24][color=#4B0082]1. Utilisation de 着 (zhe)[/color][/font_size]
+
+Pour exprimer l'idée qu'une action est en train de se dérouler, on ajoute simplement 着 (zhe) après le verbe principal de l'action.
+
+[b]a) Structure de base[/b]
+[indent]La structure de base pour l'utilisation de 着 (zhe) est : 
+
+[code]
+sujet + verbe + 着 (zhe) + complément
+[/code]
+
+[i]Exemple : [color=#0000FF]他在看着书。[color] (tā zài kànzhe shū) [color=#008000](Il est en train de lire un livre.)[/color][/i][/indent]
+
+Cette structure indique que l'action de lire est en cours.
+
+[b]b) Actions simultanées[/b]
+[indent]Quand deux actions se déroulent simultanément, 着 (zhe) est utilisé avec l'un des verbes.
+
+[code]
+sujet + verbe 1 + 着 (zhe) + complément 1 + verbe 2 + complément 2
+[/code]
+
+[i]Exemple : [color=#0000FF]她笑着说话。[color] (tā xiàozhe shuōhuà) [color=#008000](Elle parle en souriant.)[/color][/i][/indent]
+
+L'utilisation de 着 (zhe) ici spécifie que les deux actions (rire et parler) se font en même temps.
+
+[font_size=24][color=#4B0082]2. Comparaison avec d'autres aspects[/color][/font_size]
+
+Il est important de distinguer 着 (zhe) des autres marqueurs d'aspect comme 了 (le) et 过 (guo). Chacun a une fonction unique dans le discours :
+
+[indent]• 着 (zhe) : Indique que l'action est en cours.
+• 了 (le) : Indique qu'une action est terminée.
+• 过 (guo) : Indique qu'une action a été réalisée à un moment dans le passé.
+
+[i]Exemple : [color=#0000FF]他在吃饭。[color] (tā zài chīfàn) [color=#008000](Il est en train de manger.)[/color]
+[color=#0000FF]他吃了饭。[color] (tā chīle fàn) [color=#008000](Il a mangé.)[/color]
+[color=#0000FF]他吃过饭。[color] (tā chīguo fàn) [color=#008000](Il a déjà mangé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisation avec 在 (zài)[/color][/font_size]
+
+L'aspect continuatif 着 (zhe) est souvent utilisé en combinaison avec 在 (zài), qui signifie "être en train de".
+
+[indent]La structure est la suivante :
+
+[code]
+sujet + 在 (zài) + verbe + 着 (zhe) + complément
+[/code]
+
+[i]Exemple : [color=#0000FF]他在跑着。[color] (tā zài pǎozhe) [color=#008000](Il est en train de courir.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Nuances d'utilisation[/color][/font_size]
+
+L'utilisation de 着 (zhe) offre quelques nuances spécifiques :
+
+[b]a) Description d'actions continues et régulières[/b]
+[indent]Les actions continues ou habitielles peuvent également être décrites avec 着 (zhe).
+
+[i]Exemple : [color=#0000FF]他常常带着帽子。[color] (tā chángcháng dàizhe màozi) [color=#008000](Il porte souvent un chapeau.)[/color][/i][/indent]
+
+[b]b) Verbes d'état[/b]
+[indent]Les verbes d'état comme 站 (zhàn) [color=#008000](se tenir debout)[/color], 坐 (zuò) [color=#008000](s'asseoir)[/color], et 躺 (tǎng) [color=#008000](se coucher)[/color] utilisent souvent 着 (zhe) pour montrer la continuation de cet état.
+
+[i]Exemple : [color=#0000FF]他站着看书。[color] (tā zhànzhe kàn shū) [color=#008000](Il lit debout.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Exemples supplémentaires[/color][/font_size]
+
+Voici quelques exemples pour illustrer les différentes utilisations de 着 (zhe) :
+
+[indent][code]
+门开着。[color] (mén kāizhe) [color=#008000](La porte est ouverte.)[/color]
+他听着音乐做作业。[color] (tā tīngzhe yīnyuè zuò zuòyè) [color=#008000](Il fait ses devoirs en écoutant de la musique.)[/color]
+天空挂着彩虹。[color] (tiānkōng guàzhe cǎihóng) [color=#008000](Il y a un arc-en-ciel dans le ciel.)[/color]
+[/code]
+
+Ces phrases montrent différentes situations où 着 (zhe) indique une action en cours ou une situation continue.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] 着 (zhe) est utilisé pour indiquer une action en cours.
+[color=#FF0000]2.[/color] La structure de base est sujet + verbe + 着 (zhe) + complément.
+[color=#FF0000]3.[/color] 着 (zhe) peut également être utilisé pour des actions simultanées.
+[color=#FF0000]4.[/color] Ne pas confondre 着 (zhe) avec d'autres aspects comme 了 (le) et 过 (guo).
+[color=#FF0000]5.[/color] Utilisez 着 (zhe) avec certains verbes d'état pour montrer une continuation.[/indent]
+
+[center][font_size=18][color=#808080]学会用着，你的中文会显得更自然！(xuéhuì yòng zhe, nǐ de zhōngwén huì xiǎnde gèng zìrán!)[/color][/font_size][/center]

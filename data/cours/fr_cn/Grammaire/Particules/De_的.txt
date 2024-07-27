@@ -1,1 +1,81 @@
- 
+[font_size=30][center][b][color=#0000FF]La particule "的" en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La particule "的" (de) est une des particules les plus couramment utilisées en chinois. Elle joue un rôle crucial dans la construction des phrases, notamment en marquant la possession, en formant des adjectifs à partir de noms et en liant diverses parties de la phrase. Comprendre comment et quand utiliser "的" est essentiel pour maîtriser la grammaire chinoise.
+
+[font_size=24][color=#4B0082]1. La possession[/color][/font_size]
+
+La particule "的" (de) est souvent utilisée pour indiquer la possession, similaire à l'utilisation de l'apostrophe-s en anglais.
+
+[indent]Structure :
+[code]
+Possesseur + 的 + chose possédée [/code]
+
+Exemples : 
+[color=#0000FF]这是我的书。[/color] (Zhè shì wǒ de shū.) [color=#008000](C'est mon livre.)[/color]
+[color=#0000FF]她是李老师的学生。[/color] (Tā shì Lǐ lǎoshī de xuéshēng.) [color=#008000](Elle est l'élève du professeur Li.)[/color][/indent]
+
+[font_size=24][color=#4B0082]2. Les adjectifs descriptifs[/color][/font_size]
+
+"的" (de) est également utilisé pour relier un adjectif à un nom, formant ainsi des adjectifs descriptifs.
+
+[indent]Structure :
+[code]
+Adjectif + 的 + nom [/code]
+
+Exemples :
+[color=#0000FF]漂亮的花。[/color] (Piàoliang de huā.) [color=#008000](Une belle fleur.)[/color]
+[color=#0000FF]高的山。[/color] (Gāo de shān.) [color=#008000](Une haute montagne.)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Les pronoms et déterminants possessifs[/color][/font_size]
+
+Les pronoms possessifs en chinois utilisent également la particule "的" (de).
+
+[indent]Exemples :
+[code]
+我的 (wǒ de) [color=#008000](mon, ma, mes)[/color]
+你的 (nǐ de) [color=#008000](ton, ta, tes)[/color]
+他的 (tā de) [color=#008000](son, sa, ses)[/color]
+我们的 (wǒmen de) [color=#008000](notre, nos)[/color]
+你们的 (nǐmen de) [color=#008000](votre, vos)[/color]
+他们的 (tāmen de) [color=#008000](leur, leurs)[/color] [/code]
+
+Exemples :
+[color=#0000FF]这是你的家。[/color] (Zhè shì nǐ de jiā.) [color=#008000](C'est ta maison.)[/color]
+[color=#0000FF]他们的车很大。[/color] (Tāmen de chē hěn dà.) [color=#008000](Leur voiture est grande.)[/color][/indent]
+
+[font_size=24][color=#4B0082]4. Les groupes nominaux et les compléments de nom[/color][/font_size]
+
+"的" (de) est aussi utilisé pour lier des compléments de nom.
+
+[indent]Structure :
+[code]
+Groupe nominal + 的 + nom [/code]
+
+Exemples :
+[color=#0000FF]我妈妈的朋友。[/color] (Wǒ māmā de péngyǒu.) [color=#008000](L'ami de ma mère.)[/color]
+[color=#0000FF]中国的文化。[/color] (Zhōngguó de wénhuà.) [color=#008000](La culture chinoise.)[/color][/indent]
+
+[font_size=24][color=#4B0082]5. Cas où "的" peut être omis[/color][/font_size]
+
+Dans certains cas, la particule "的" (de) peut être omise, surtout dans les contextes informels ou pour des constructions très courantes.
+
+[indent]Exemple de possession sans "的" :
+[color=#0000FF]我妈妈。[/color] (Wǒ māmā.) [color=#008000](Ma mère.)[/color]
+Au lieu de [color=#0000FF]我的妈妈[/color] (wǒ de māmā).
+
+Exemple d'adjectif sans "的" :
+[color=#0000FF]大房子。[/color] (Dà fángzi.) [color=#008000](Grande maison.)[/color]
+Au lieu de [color=#0000FF]大的房子[/color] (dà de fángzi).[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La particule "的" (de) marque la possession, les adjectifs descriptifs et lie des compléments de nom.
+[color=#FF0000]2.[/color] "的" (de) peut se traduire par "de" dans certains contextes.
+[color=#FF0000]3.[/color] Les pronoms possessifs se forment avec "的" (de).
+[color=#FF0000]4.[/color] Parfois, "的" (de) peut être omis, surtout pour les noms de relations familiales ou dans des expressions courantes.[/indent]
+
+[center][font_size=18][color=#808080]熟练使用“的”，你的中文将更加自然流畅！ (Shúliàn shǐyòng "de", nǐ de zhōngwén jiāng gèng jiā zìrán liúchàng!)[/color][/font_size][/center]

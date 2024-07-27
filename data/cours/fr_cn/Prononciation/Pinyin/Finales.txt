@@ -1,1 +1,96 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Finales en Pinyin[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les finales en Pinyin sont une partie essentielle de la prononciation du chinois mandarin. Elles se combinent avec les initiales pour former des syllabes complètes. Comprendre et maîtriser les finales est crucial pour prononcer correctement les mots chinois.
+
+[font_size=24][color=#4B0082]1. Qu'est-ce que les finales en Pinyin ?[/color][/font_size]
+
+En Pinyin, une syllabe se compose d'une initiale (consonne) et d'une finale (voyelle ou combinaison de voyelles). Par exemple, dans la syllabe `mā (妈)`, `m` est l'initiale et `a` est la finale. Les finales peuvent être simples (une seule voyelle) ou composées (combinaisons de voyelles et parfois de consonnes).
+
+[font_size=24][color=#4B0082]2. Les Finales Simples[/color][/font_size]
+
+Les finales simples sont constituées d'une seule voyelle. Voici les finales simples en Pinyin :
+
+[indent][code]
+a [color=#008000](comme dans "papa")[/color]
+o [color=#008000](comme dans "mot")[/color]
+e [color=#008000](comme dans "le" en français, mais plus arrondi)[/color]
+i [color=#008000](comme dans "si")[/color]
+u [color=#008000](comme dans "ou")[/color]
+ü [color=#008000](comme dans l'allemand "müller", une voyelle arrondie en avant)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]tā (她/他)[/color] [color=#008000](prononciation : ta) - signifie "elle/lui")[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les Finales composées[/color][/font_size]
+
+Les finales composées combinent deux ou plusieurs voyelles ou voyelles et consonnes. Voici les plus courantes :
+
+[b]a) Combinaisons de Voyelles[/b]
+[indent][code]
+ai [color=#008000](comme dans "aïe")[/color]
+ei [color=#008000](comme dans "nei" sans le n, proche de "Hey")[/color]
+ao [color=#008000](comme dans "août")[/color]
+ou [color=#008000](comme dans "ou")[/color]
+ia [color=#008000](combinaison de i et a)[/color]
+ie [color=#008000](combinaison de i et e, comme dans "yeah")[/color]
+ua [color=#008000](combinaison de u et a)[/color]
+uo [color=#008000](combinaison de u et o)[/color]
+üe [color=#008000](combinaison de ü et e)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]hǎo (好)[/color] [color=#008000](prononciation : hao) - signifie "bien")[/color][/i][/indent]
+
+[b]b) Combinaisons de Voyelles et Consonnes Nasales[/b]
+[indent][code]
+an [color=#008000](comme dans "an" en anglais, léger)[/color]
+en [color=#008000](proche du "en" en "chen" en français)[/color]
+in [color=#008000](comme dans "yin")[/color]
+un [color=#008000](comme dans "qu'un" prononcé sans ouvrir trop la bouche)[/color]
+ian [color=#008000](comme dans "yen")[/color]
+uan [color=#008000](comme dans "one" en anglais)[/color]
+üan [color=#008000](combinaison de ü et an)[/color]
+ang [color=#008000](comme dans "sang" mais plus profond au niveau de la gorge)[/color]
+eng [color=#008000](comme dans "sang" en français, mais plus léger)[/color]
+ing [color=#008000](comme dans "ing" anglais)[/color]
+ong [color=#008000](comme dans "song" en anglais, proche de "ong")[/color]
+iang [color=#008000](combinaison de i et ang)[/color]
+uang [color=#008000](combinaison de u et ang)[/color]
+iong [color=#008000](combinaison de i et ong)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]māo (猫)[/color] [color=#008000](prononciation : mao) - signifie "chat")[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Les Finales Spécialement Orthographiées[/color][/font_size]
+
+Certaines finales changent d'orthographe en fonction de leur position dans la syllabe :
+- Lorsque `ü` est précédé de `j, q, x`, on l'écrit sans les deux points, c'est-à-dire comme `u`.
+- Par exemple : `ju (局 jū - bureau, prononciation : ju)`
+
+[font_size=24][color=#4B0082]5. Pratique de la Prononciation des Finales[/color][/font_size]
+
+Pour bien prononcer les finales, il est utile de les pratiquer régulièrement avec des exemples de mots courants. Entraînez-vous à lire et prononcer les syllabes suivantes :
+
+[indent][code]
+bā (八 bā - huit)
+gē (歌 gē - chanson)
+mī (米 mǐ - riz)
+dù (度 dù - degré)
+nǚ (女 nǚ - femme)
+xiè (谢 xiè - merci)
+[/code]
+
+[i]Exemple : [color=#0000FF]xièxiè (谢谢)[/color] [color=#008000](prononciation : xie xie) - signifie "merci")[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les finales en Pinyin peuvent être simples ou composées.
+[color=#FF0000]2.[/color] Les finales composées peuvent inclure des combinaisons de voyelles et consonnes nasales.
+[color=#FF0000]3.[/color] La prononciation correcte des finales nécessite de la pratique et une attention particulière aux détails.
+[color=#FF0000]4.[/color] Certaines finales changent d'orthographe selon le contexte, comme ü qui devient u après j, q ou x.
+[/indent]
+
+[center][font_size=18][color=#808080]练习你的发音，提高你的普通话流利度！(Liànxí nǐ de fāyīn, tígāo nǐ de pǔtōnghuà liúlì dù!) - Pratique ta prononciation et améliore ta fluidité en mandarin !)[/color][/font_size][/center]

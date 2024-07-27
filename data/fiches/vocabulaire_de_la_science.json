@@ -3,18 +3,22 @@
         "es": "Ciencia",
         "fr": "Science",
         "en": "Science",
-        "cn": "科学 ke xue",
+        "cn": "科学 (ke xue)",
         "de": "Wissenschaft",
-        "ja": "科学 kagaku"
+        "ja": "科学 (kagaku)",
+        "kr": "과학 (gwahak)",
+        "ru": "Наука (Nauka)"
     },
-    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
     "elements": [{
             "es": ["Científico", "Científica"],
             "fr": ["Scientifique"],
             "en": ["Scientist"],
             "cn": ["科学家", "ke xue jia"],
             "de": ["Wissenschaftler", "Wissenschaftlerin"],
-            "ja": ["科学者", "kagaku sha"]
+            "ja": ["科学者", "kagaku sha"],
+            "kr": ["과학자", "gwahakja"],
+            "ru": ["Ученый"]
         },
         {
             "es": ["Experimento"],
@@ -22,7 +26,9 @@
             "en": ["Experiment"],
             "cn": ["实验", "shi yan"],
             "de": ["Experiment"],
-            "ja": ["実験", "jikken"]
+            "ja": ["実験", "jikken"],
+            "kr": ["실험", "silheom"],
+            "ru": ["Эксперимент"]
         },
         {
             "es": ["Teoría"],
@@ -30,7 +36,9 @@
             "en": ["Theory"],
             "cn": ["理论", "li lun"],
             "de": ["Theorie"],
-            "ja": ["理論", "riron"]
+            "ja": ["理論", "riron"],
+            "kr": ["이론", "iron"],
+            "ru": ["Теория"]
         },
         {
             "es": ["Hipótesis"],
@@ -38,7 +46,9 @@
             "en": ["Hypothesis"],
             "cn": ["假说", "jia shuo"],
             "de": ["Hypothese"],
-            "ja": ["仮説", "kasetsu"]
+            "ja": ["仮説", "kasetsu"],
+            "kr": ["가설", "gasol"],
+            "ru": ["Гипотеза"]
         },
         {
             "es": ["Investigación"],
@@ -46,7 +56,9 @@
             "en": ["Research"],
             "cn": ["研究", "yan jiu"],
             "de": ["Forschung"],
-            "ja": ["研究", "kenkyū"]
+            "ja": ["研究", "kenkyū"],
+            "kr": ["연구", "yeon'gu"],
+            "ru": ["Исследование"]
         },
         {
             "es": ["Resultado"],
@@ -54,7 +66,9 @@
             "en": ["Result"],
             "cn": ["结果", "jie guo"],
             "de": ["Ergebnis"],
-            "ja": ["結果", "kekka"]
+            "ja": ["結果", "kekka"],
+            "kr": ["결과", "gyeolgwa"],
+            "ru": ["Результат"]
         },
         {
             "es": ["Datos"],
@@ -62,7 +76,9 @@
             "en": ["Data"],
             "cn": ["数据", "shu ju"],
             "de": ["Daten"],
-            "ja": ["データ", "dēta"]
+            "ja": ["データ", "dēta"],
+            "kr": ["데이터", "deiteo"],
+            "ru": ["Данные"]
         },
         {
             "es": ["Observación"],
@@ -70,7 +86,9 @@
             "en": ["Observation"],
             "cn": ["观察", "guan cha"],
             "de": ["Beobachtung"],
-            "ja": ["観察", "kansatsu"]
+            "ja": ["観察", "kansatsu"],
+            "kr": ["관찰", "gwanchal"],
+            "ru": ["Наблюдение"]
         },
         {
             "es": ["Muestra"],
@@ -78,7 +96,9 @@
             "en": ["Sample"],
             "cn": ["样本", "yang ben"],
             "de": ["Stichprobe"],
-            "ja": ["サンプル", "sanpuru"]
+            "ja": ["サンプル", "sanpuru"],
+            "kr": ["샘플", "saempeul"],
+            "ru": ["Образец"]
         },
         {
             "es": ["Variable"],
@@ -86,7 +106,9 @@
             "en": ["Variable"],
             "cn": ["变量", "bian liang"],
             "de": ["Variable"],
-            "ja": ["変数", "hensū"]
+            "ja": ["変数", "hensū"],
+            "kr": ["변수", "byeonsu"],
+            "ru": ["Переменная"]
         },
         {
             "es": ["Constante"],
@@ -94,7 +116,9 @@
             "en": ["Constant"],
             "cn": ["常数", "chang shu"],
             "de": ["Konstante"],
-            "ja": ["定数", "teisū"]
+            "ja": ["定数", "teisū"],
+            "kr": ["상수", "sangsu"],
+            "ru": ["Константа"]
         },
         {
             "es": ["Fenómeno"],
@@ -102,7 +126,9 @@
             "en": ["Phenomenon"],
             "cn": ["现象", "xian xiang"],
             "de": ["Phänomen"],
-            "ja": ["現象", "genshō"]
+            "ja": ["現象", "genshō"],
+            "kr": ["현상", "hyeonsang"],
+            "ru": ["Явление"]
         },
         {
             "es": ["Medida"],
@@ -110,7 +136,9 @@
             "en": ["Measurement"],
             "cn": ["测量", "ce liang"],
             "de": ["Messung"],
-            "ja": ["測定", "sokutei"]
+            "ja": ["測定", "sokutei"],
+            "kr": ["측정", "cheugjeong"],
+            "ru": ["Измерение"]
         },
         {
             "es": ["Materia"],
@@ -118,7 +146,9 @@
             "en": ["Matter"],
             "cn": ["物质", "wu zhi"],
             "de": ["Materie"],
-            "ja": ["物質", "busshitsu"]
+            "ja": ["物質", "busshitsu"],
+            "kr": ["물질", "muljil"],
+            "ru": ["Материя"]
         },
         {
             "es": ["Energía"],
@@ -126,7 +156,9 @@
             "en": ["Energy"],
             "cn": ["能量", "neng liang"],
             "de": ["Energie"],
-            "ja": ["エネルギー", "enerugī"]
+            "ja": ["エネルギー", "enerugī"],
+            "kr": ["에너지", "eneoji"],
+            "ru": ["Энергия"]
         },
         {
             "es": ["Fuerza"],
@@ -134,7 +166,9 @@
             "en": ["Force"],
             "cn": ["力", "li"],
             "de": ["Kraft"],
-            "ja": ["力", "chikara"]
+            "ja": ["力", "chikara"],
+            "kr": ["힘", "him"],
+            "ru": ["Сила"]
         },
         {
             "es": ["Movimiento"],
@@ -142,7 +176,9 @@
             "en": ["Motion"],
             "cn": ["运动", "yun dong"],
             "de": ["Bewegung"],
-            "ja": ["運動", "undō"]
+            "ja": ["運動", "undō"],
+            "kr": ["운동", "undong"],
+            "ru": ["Движение"]
         },
         {
             "es": ["Velocidad"],
@@ -150,7 +186,9 @@
             "en": ["Speed"],
             "cn": ["速度", "su du"],
             "de": ["Geschwindigkeit"],
-            "ja": ["速度", "sokudo"]
+            "ja": ["速度", "sokudo"],
+            "kr": ["속도", "sokdo"],
+            "ru": ["Скорость"]
         },
         {
             "es": ["Aceleración"],
@@ -158,7 +196,9 @@
             "en": ["Acceleration"],
             "cn": ["加速度", "jia su du"],
             "de": ["Beschleunigung"],
-            "ja": ["加速", "kasoku"]
+            "ja": ["加速", "kasoku"],
+            "kr": ["가속", "gasok"],
+            "ru": ["Ускорение"]
         },
         {
             "es": ["Gravedad"],
@@ -166,7 +206,9 @@
             "en": ["Gravity"],
             "cn": ["重力", "zhong li"],
             "de": ["Schwerkraft"],
-            "ja": ["重力", "jūryoku"]
+            "ja": ["重力", "jūryoku"],
+            "kr": ["중력", "jungnyeok"],
+            "ru": ["Гравитация"]
         },
         {
             "es": ["Fricción"],
@@ -174,7 +216,9 @@
             "en": ["Friction"],
             "cn": ["摩擦", "mo ca"],
             "de": ["Reibung"],
-            "ja": ["摩擦", "masa tsu"]
+            "ja": ["摩擦", "masa tsu"],
+            "kr": ["마찰", "machal"],
+            "ru": ["Трение"]
         },
         {
             "es": ["Presión"],
@@ -182,7 +226,9 @@
             "en": ["Pressure"],
             "cn": ["压力", "ya li"],
             "de": ["Druck"],
-            "ja": ["圧力", "atsuryoku"]
+            "ja": ["圧力", "atsuryoku"],
+            "kr": ["압력", "amryeok"],
+            "ru": ["Давление"]
         },
         {
             "es": ["Temperatura"],
@@ -190,7 +236,9 @@
             "en": ["Temperature"],
             "cn": ["温度", "wen du"],
             "de": ["Temperatur"],
-            "ja": ["温度", "ondo"]
+            "ja": ["温度", "ondo"],
+            "kr": ["온도", "ondo"],
+            "ru": ["Температура"]
         },
         {
             "es": ["Calor"],
@@ -198,7 +246,9 @@
             "en": ["Heat"],
             "cn": ["热量", "re liang"],
             "de": ["Wärme"],
-            "ja": ["熱", "netsu"]
+            "ja": ["熱", "netsu"],
+            "kr": ["열", "yeol"],
+            "ru": ["Жар"]
         },
         {
             "es": ["Reacción"],
@@ -206,7 +256,9 @@
             "en": ["Reaction"],
             "cn": ["反应", "fan ying"],
             "de": ["Reaktion"],
-            "ja": ["反応", "hannō"]
+            "ja": ["反応", "hannō"],
+            "kr": ["반응", "baneung"],
+            "ru": ["Реакция"]
         },
         {
             "es": ["Átomo"],
@@ -214,7 +266,9 @@
             "en": ["Atom"],
             "cn": ["原子", "yuan zi"],
             "de": ["Atom"],
-            "ja": ["原子", "genshi"]
+            "ja": ["原子", "genshi"],
+            "kr": ["원자", "wonja"],
+            "ru": ["Атом"]
         },
         {
             "es": ["Molécula"],
@@ -222,7 +276,9 @@
             "en": ["Molecule"],
             "cn": ["分子", "fen zi"],
             "de": ["Molekül"],
-            "ja": ["分子", "bunshi"]
+            "ja": ["分子", "bunshi"],
+            "kr": ["분자", "bunja"],
+            "ru": ["Молекула"]
         },
         {
             "es": ["Elemento"],
@@ -230,7 +286,9 @@
             "en": ["Element"],
             "cn": ["元素", "yuan su"],
             "de": ["Element"],
-            "ja": ["元素", "genso"]
+            "ja": ["元素", "genso"],
+            "kr": ["원소", "wonso"],
+            "ru": ["Элемент"]
         },
         {
             "es": ["Compuesto"],
@@ -238,7 +296,9 @@
             "en": ["Compound"],
             "cn": ["化合物", "hua he wu"],
             "de": ["Verbindung"],
-            "ja": ["化合物", "kagōbutsu"]
+            "ja": ["化合物", "kagōbutsu"],
+            "kr": ["화합물", "hwahammul"],
+            "ru": ["Соединение"]
         },
         {
             "es": ["Solución"],
@@ -246,7 +306,9 @@
             "en": ["Solution"],
             "cn": ["溶液", "rong ye"],
             "de": ["Lösung"],
-            "ja": ["溶液", "yōeki"]
+            "ja": ["溶液", "yōeki"],
+            "kr": ["용액", "yongaek"],
+            "ru": ["Раствор"]
         },
         {
             "es": ["Ácido"],
@@ -254,7 +316,9 @@
             "en": ["Acid"],
             "cn": ["酸", "suan"],
             "de": ["Säure"],
-            "ja": ["酸", "san"]
+            "ja": ["酸", "san"],
+            "kr": ["산", "san"],
+            "ru": ["Кислота"]
         },
         {
             "es": ["Base"],
@@ -262,7 +326,9 @@
             "en": ["Base"],
             "cn": ["碱", "jian"],
             "de": ["Base"],
-            "ja": ["塩基", "enki"]
+            "ja": ["塩基", "enki"],
+            "kr": ["염기", "yeomgi"],
+            "ru": ["Основа"]
         },
         {
             "es": ["Neutro"],
@@ -270,7 +336,9 @@
             "en": ["Neutral"],
             "cn": ["中性", "zhong xing"],
             "de": ["Neutral"],
-            "ja": ["中性", "chūsei"]
+            "ja": ["中性", "chūsei"],
+            "kr": ["중립", "jungnip"],
+            "ru": ["Нейтральный"]
         },
         {
             "es": ["Electrón"],
@@ -278,7 +346,9 @@
             "en": ["Electron"],
             "cn": ["电子", "dian zi"],
             "de": ["Elektron"],
-            "ja": ["電子", "denshi"]
+            "ja": ["電子", "denshi"],
+            "kr": ["전자", "jeonja"],
+            "ru": ["Электрон"]
         },
         {
             "es": ["Protón"],
@@ -286,7 +356,9 @@
             "en": ["Proton"],
             "cn": ["质子", "zhi zi"],
             "de": ["Proton"],
-            "ja": ["陽子", "yōshi"]
+            "ja": ["陽子", "yōshi"],
+            "kr": ["양성자", "yangseongja"],
+            "ru": ["Протон"]
         },
         {
             "es": ["Neutrón"],
@@ -294,7 +366,9 @@
             "en": ["Neutron"],
             "cn": ["中子", "zhong zi"],
             "de": ["Neutron"],
-            "ja": ["中性子", "chūseishi"]
+            "ja": ["中性子", "chūseishi"],
+            "kr": ["중성자", "jungseongja"],
+            "ru": ["Нейтрон"]
         },
         {
             "es": ["Célula"],
@@ -302,7 +376,9 @@
             "en": ["Cell"],
             "cn": ["细胞", "xi bao"],
             "de": ["Zelle"],
-            "ja": ["細胞", "saibō"]
+            "ja": ["細胞", "saibō"],
+            "kr": ["세포", "sepo"],
+            "ru": ["Клетка"]
         },
         {
             "es": ["ADN"],
@@ -310,7 +386,9 @@
             "en": ["DNA"],
             "cn": ["DNA", "脱氧核糖核酸 tuo yang he tang he suan"],
             "de": ["DNA"],
-            "ja": ["DNA", "デオキシリボ核酸 deokishiribokakusan"]
+            "ja": ["DNA", "デオキシリボ核酸 deokishiribokakusan"],
+            "kr": ["DNA", "디옥시리보 핵산 dieoksiribo haeksan"],
+            "ru": ["ДНК"]
         },
         {
             "es": ["Gen"],
@@ -318,7 +396,9 @@
             "en": ["Gene"],
             "cn": ["基因", "ji yin"],
             "de": ["Gen"],
-            "ja": ["遺伝子", "idenshi"]
+            "ja": ["遺伝子", "idenshi"],
+            "kr": ["유전자", "yujeonja"],
+            "ru": ["Ген"]
         },
         {
             "es": ["Mutación"],
@@ -326,7 +406,9 @@
             "en": ["Mutation"],
             "cn": ["突变", "tu bian"],
             "de": ["Mutation"],
-            "ja": ["突然変異", "totsuzen hen'i"]
+            "ja": ["突然変異", "totsuzen hen'i"],
+            "kr": ["돌연변이", "doryeonbyeoni"],
+            "ru": ["Мутация"]
         },
         {
             "es": ["Enzima"],
@@ -334,7 +416,9 @@
             "en": ["Enzyme"],
             "cn": ["酶", "mei"],
             "de": ["Enzym"],
-            "ja": ["酵素", "kōso"]
+            "ja": ["酵素", "kōso"],
+            "kr": ["효소", "hyoso"],
+            "ru": ["Фермент"]
         },
         {
             "es": ["Proteína"],
@@ -342,7 +426,9 @@
             "en": ["Protein"],
             "cn": ["蛋白质", "dan bai zhi"],
             "de": ["Protein"],
-            "ja": ["タンパク質", "tanpakushitsu"]
+            "ja": ["タンパク質", "tanpakushitsu"],
+            "kr": ["단백질", "danbaekjil"],
+            "ru": ["Белок"]
         },
         {
             "es": ["Fotosíntesis"],
@@ -350,7 +436,9 @@
             "en": ["Photosynthesis"],
             "cn": ["光合作用", "guang he zuo yong"],
             "de": ["Photosynthese"],
-            "ja": ["光合成", "kōgōsei"]
+            "ja": ["光合成", "kōgōsei"],
+            "kr": ["광합성", "gwanghapsaeng"],
+            "ru": ["Фотосинтез"]
         },
         {
             "es": ["Síntesis"],
@@ -358,7 +446,9 @@
             "en": ["Synthesis"],
             "cn": ["合成", "he cheng"],
             "de": ["Synthese"],
-            "ja": ["合成", "gōsei"]
+            "ja": ["合成", "gōsei"],
+            "kr": ["합성", "hapsaeng"],
+            "ru": ["Синтез"]
         },
         {
             "es": ["Cromosoma"],
@@ -366,7 +456,9 @@
             "en": ["Chromosome"],
             "cn": ["染色体", "ran se ti"],
             "de": ["Chromosom"],
-            "ja": ["染色体", "senshokutai"]
+            "ja": ["染色体", "senshokutai"],
+            "kr": ["염색체", "yeomsaekche"],
+            "ru": ["Хромосома"]
         },
         {
             "es": ["Mitocondria"],
@@ -374,7 +466,9 @@
             "en": ["Mitochondrion"],
             "cn": ["线粒体", "xian li ti"],
             "de": ["Mitochondrium"],
-            "ja": ["ミトコンドリア", "mitokondoria"]
+            "ja": ["ミトコンドリア", "mitokondoria"],
+            "kr": ["미토콘드리아", "mitokondria"],
+            "ru": ["Митохондрия"]
         },
         {
             "es": ["Evolución"],
@@ -382,7 +476,9 @@
             "en": ["Evolution"],
             "cn": ["进化", "jin hua"],
             "de": ["Evolution"],
-            "ja": ["進化", "shinka"]
+            "ja": ["進化", "shinka"],
+            "kr": ["진화", "jinhwa"],
+            "ru": ["Эволюция"]
         },
         {
             "es": ["Herencia"],
@@ -390,7 +486,9 @@
             "en": ["Heredity"],
             "cn": ["遗传", "yi chuan"],
             "de": ["Vererbung"],
-            "ja": ["遺伝", "iden"]
+            "ja": ["遺伝", "iden"],
+            "kr": ["유전", "yujeon"],
+            "ru": ["Наследственность"]
         },
         {
             "es": ["Microbio"],
@@ -398,7 +496,9 @@
             "en": ["Microbe"],
             "cn": ["微生物", "wei sheng wu"],
             "de": ["Mikrobe"],
-            "ja": ["微生物", "biseibutsu"]
+            "ja": ["微生物", "biseibutsu"],
+            "kr": ["미생물", "misaengmul"],
+            "ru": ["Микроб"]
         },
         {
             "es": ["Virus"],
@@ -406,7 +506,9 @@
             "en": ["Virus"],
             "cn": ["病毒", "bing du"],
             "de": ["Virus"],
-            "ja": ["ウイルス", "uirusu"]
+            "ja": ["ウイルス", "uirusu"],
+            "kr": ["바이러스", "baileoseu"],
+            "ru": ["Вирус"]
         },
         {
             "es": ["Bacteria"],
@@ -414,7 +516,9 @@
             "en": ["Bacterium"],
             "cn": ["细菌", "xi jun"],
             "de": ["Bakterium"],
-            "ja": ["バクテリア", "bakuteria"]
+            "ja": ["バクテリア", "bakuteria"],
+            "kr": ["박테리아", "bagteria"],
+            "ru": ["Бактерия"]
         },
         {
             "es": ["Antibiótico"],
@@ -422,7 +526,9 @@
             "en": ["Antibiotic"],
             "cn": ["抗生素", "kang sheng su"],
             "de": ["Antibiotikum"],
-            "ja": ["抗生物質", "kōseibusshitsu"]
+            "ja": ["抗生物質", "kōseibusshitsu"],
+            "kr": ["항생제", "hangsaengje"],
+            "ru": ["Антибиотик"]
         }
     ]
 }

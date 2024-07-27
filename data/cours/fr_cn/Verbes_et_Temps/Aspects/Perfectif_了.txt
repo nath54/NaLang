@@ -1,1 +1,96 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Perfectif 了 en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'une des notions essentielles pour comprendre l'aspect verbal en chinois est le perfectif 了 (le). Ce petit mot est utilisé pour indiquer qu'une action est achevée. Contrairement aux langues occidentales qui utilisent des changements de formes verbales pour exprimer l'aspect, le chinois utilise des particules comme 了 (le).
+
+[font_size=24][color=#4B0082]1. Fonction du perfectif 了[/color][/font_size]
+
+La particule 了 (le) est principalement utilisée pour marquer l'achèvement d'une action ou un changement d'état. Il se place généralement après le verbe ou à la fin de la phrase pour indiquer que l'action est terminée.
+
+[b]a) Après le verbe[/b]
+[indent]Dans ce cas, 了 (le) indique que l'action exprimée par le verbe a été achevée.
+
+[code]
+我吃了午饭。(wo chi le wu fan) [color=#008000](J'ai mangé le déjeuner.)[/color]
+他去了北京。(ta qu le bei jing) [color=#008000](Il est allé à Pékin.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我看了那本书。[/color] [color=#008000](J'ai lu ce livre.)[/color][/i]
+
+Le verbe 看 (kan) [color=#008000](lire)[/color] est suivi de 了 (le) pour indiquer que la lecture est achevée.[/indent]
+
+[b]b) À la fin de la phrase[/b]
+[indent]这里 了 (zhe li le) [color=#008000](ici 了)[/color] peut être utilisé à la fin de la phrase pour renforcer l'idée de l'achèvement.
+
+[code]
+我学会了。(wo xue hui le) [color=#008000](J'ai appris.)[/color]
+我们搬家了。(wo men ban jia le) [color=#008000](Nous avons déménagé.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我们到家了。[/color] [color=#008000](Nous sommes arrivés à la maison.)[/color][/i]
+
+Dans cet exemple, 到家 (dao jia) [color=#008000](arriver à la maison)[/color] est suivi de 了 (le) pour indiquer que l'action d'arriver est complète.[/indent]
+
+[font_size=24][color=#4B0082]2. Structure de la phrase avec 了 [/color][/font_size]
+
+[font_size=24]a) Sujet + Verbe + 了 + Objet[/font_size]
+[indent]Dans cette structure, 了 (le) suit immédiatement le verbe et précède l'objet.
+
+[code]
+我吃了蛋糕。(wo chi le dan gao) [color=#008000](J'ai mangé du gâteau.)[/color]
+她买了衣服。(ta mai le yi fu) [color=#008000](Elle a acheté des vêtements.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]老师说了一个故事。[/color] [color=#008000](Le professeur a raconté une histoire.)[/color][/i]
+
+Ici, 说 (shuo) [color=#008000](parler, dire, raconter)[/color] est suivi de 了 (le) pour montrer que l'action de raconter est achevée.[/indent]
+
+[font_size=24]b) Sujet + Verbe + Objet + 了[/font_size]
+[indent]Dans cette structure, 了 (le) est placé à la fin de la phrase pour indiquer l'achèvement de l'action entière.
+
+[code]
+我喝咖啡了。(wo he ka fei le) [color=#008000](J'ai bu du café.)[/color]
+他们去公园了。(ta men qu gong yuan le) [color=#008000](Ils sont allés au parc.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]她读书了。[/color] [color=#008000](Elle a lu.)[/color][/i]
+
+Dans cet exemple, 读 (du) [color=#008000](lire)[/color] est suivi par 了 (le) à la fin de la phrase, renforçant l'idée que l'action est terminée.[/indent]
+
+[font_size=24][color=#4B0082]3. Indiquer un changement d'état avec 了[/color][/font_size]
+
+En plus de marquer l'achèvement d'une action, 了 (le) peut aussi indiquer un changement d'état ou une nouvelle situation.
+
+[indent][code]
+天气变冷了。(tian qi bian leng le) [color=#008000](Le temps est devenu froid.)[/color]
+他病了。(ta bing le) [color=#008000](Il est tombé malade.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]她结婚了。[/color] [color=#008000](Elle s'est mariée.)[/color][/i]
+
+Le mot 变 (bian) [color=#008000](devenir, changer)[/color] suivi de 了 (le) montre clairement le changement d'état du temps.[/indent]
+
+[font_size=24][color=#4B0082]4. Négation avec 没 (mei) et 没有 (mei you)[/color][/font_size]
+
+Pour nier une action au perfectif, on utilise généralement 没 (mei) ou 没有 (mei you) avant le verbe, et 了 (le) n'est pas utilisé.
+
+[indent][code]
+我没吃午饭。(wo mei chi wu fan) [color=#008000](Je n'ai pas mangé de déjeuner.)[/color]
+她没有买衣服。(ta mei you mai yi fu) [color=#008000](Elle n'a pas acheté de vêtements.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我没看那本书。[/color] [color=#008000](Je n'ai pas lu ce livre.)[/color][/i]
+
+Le mot 没 (mei) ou 没有 (mei you) précède le verbe pour indiquer que l'action ne s'est pas réalisée.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La particule 了 (le) est utilisée pour marquer l'achèvement d'une action ou un changement d'état.
+[color=#FF0000]2.[/color] 了 (le) peut se placer après le verbe ou à la fin de la phrase.
+[color=#FF0000]3.[/color] La structure de la phrase avec 了 (le) dépend du positionnement des éléments comme le sujet, le verbe et l'objet.
+[color=#FF0000]4.[/color] Pour nier une action terminée, utilisez 没 (mei) ou 没有 (mei you) au lieu de 了 (le).[/indent]
+
+[center][font_size=18][color=#808080]掌握了这些规则，你就会更加自如地使用中文了！[/color] (zhang wo le zhe xie gui ze, ni jiu hui geng jia zi ru di shi yong zhong wen le) [b](Maîtrisez ces règles, et vous utiliserez le chinois de manière plus fluide !)[/b][/font_size][/center]

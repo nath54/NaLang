@@ -1,1 +1,94 @@
- 
+
+[font_size=30][center][b][color=#0000FF]Les Structures de Questions en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Poser des questions en chinois (中文的问题结构 (zhong wen de wen ti jie gou)) est essentiel pour engager des conversations et obtenir des informations. La structure des questions en chinois peut varier, mais elle suit généralement des règles spécifiques. 
+
+[font_size=24][color=#4B0082]1. Les questions fermées (是非题 (shi fei ti))[/color][/font_size]
+
+Ces questions permettent de répondre par "oui" ou "non". En chinois, on utilise souvent des méthodes simples pour poser ce type de question :
+
+[b]a) Utilisation de 吗 (ma)[/b]
+[indent]On ajoute le mot interrogatif [color=#FF0000]吗 (ma)[/color] à la fin d'une phrase déclarative pour en faire une question.
+
+[code]
+你是学生吗？[color=#008000](nǐ shì xuésheng ma?) [br](Es-tu étudiant ?)[/color]
+他喜欢中国菜吗？[color=#008000](tā xǐhuan zhōngguó cài ma?) [br](Aime-t-il la cuisine chinoise ?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你有哥哥吗？[/color] [color=#008000](nǐ yǒu gēge ma?) [br](As-tu un frère aîné ?)[/color][/i][/indent]
+
+[b]b) Structure A不A (A bu A)[/b]
+[indent]Cette structure consiste à répéter le verbe ou l'adjectif et à insérer [color=#FF0000]不 (bù)[/color] entre les deux. Elle est utilisée pour poser une question à choix binaire.
+
+[code]
+你是不是学生？[color=#008000](nǐ shì bù shì xuésheng?) [br](Es-tu étudiant ?)[/color]
+他喜欢不喜欢中国菜？[color=#008000](tā xǐhuan bù xǐhuan zhōngguó cài?) [br](Aime-t-il ou non la cuisine chinoise ?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你去不去？[/color] [color=#008000](nǐ qù bù qù?) [br](Y vas-tu ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les questions ouvertes (开放题 (kāi fàng tí))[/color][/font_size]
+
+Ces questions demandent des informations spécifiques et ne peuvent pas être répondues par un simple "oui" ou "non".
+
+[b]a) Utilisation des mots interrogatifs[/b]
+[indent]Voici quelques mots interrogatifs couramment utilisés en chinois :
+
+[code]
+什么 (shénme) [color=#008000](quoi, quel)[/color]
+谁 (shéi / shuí) [color=#008000](qui)[/color]
+哪 (nǎ) [color=#008000](quel, où)[/color]
+什么时候 (shénme shíhou) [color=#008000](quand)[/color]
+为什么 (wèishénme) [color=#008000](pourquoi)[/color]
+怎么样 (zěnmeyàng) [color=#008000](comment)[/color]
+多少 (duōshao) [color=#008000](combien)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你叫什么名字？[/color] [color=#008000](nǐ jiào shénme míngzi?) [br](Comment t'appelles-tu ?)[/color][/i][/indent]
+
+[b]b) Placement des mots interrogatifs[/b]
+[indent]Les mots interrogatifs occupent la même place que les mots qu'ils remplacent dans la phrase.
+
+[code]
+你喜欢什么？[color=#008000](nǐ xǐhuan shénme?) [br](Que-aimes tu?)[/color]
+她是谁？[color=#008000](tā shì shéi?) [br](Qui est-ce ?)[/color]
+他什么时候来？[color=#008000](tā shénme shíhou lái?) [br](Quand vient-il?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他去哪儿了？[/color] [color=#008000](tā qù nǎr le?) [br](Où est-il allé?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les questions par alternative (选择题 (xuǎnzé tí))[/color][/font_size]
+
+Ces questions offrent plusieurs options de réponse que l'interlocuteur doit choisir :
+
+[indent][code]
+你是法国人还是中国人？[color=#008000](nǐ shì fǎguó rén háishì zhōngguó rén?) [br](Es-tu Français ou Chinois?)[/color]
+你喝茶还是咖啡？[color=#008000](nǐ hē chá háishì kāfēi?) [br](Prends-tu du thé ou du café?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你要苹果还是香蕉？[/color] [color=#008000](nǐ yào píngguǒ háishì xiāngjiāo?) [br](Veux-tu des pommes ou des bananes?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Les questions rhétoriques (反问句 (fǎn wèn jù))[/color][/font_size]
+
+Les questions rhétoriques sont posées pour souligner un point, souvent lorsque la réponse est évidente.
+
+[indent][code]
+你以为我是谁？[color=#008000](nǐ yǐwéi wǒ shì shéi?) [br](Pour qui me prends-tu?)[/color]
+太阳不是每天都升起吗？[color=#008000](tàiyáng bù shì měitiān dōu shēngqǐ ma?) [br](Le soleil ne se lève-t-il pas chaque jour?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你看不到吗？[/color] [color=#008000](nǐ kàn bú dào ma?) [br](Ne le vois-tu pas?)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les questions fermées ajoutent souvent 吗 (ma) ou utilisent la structure A不A.
+[color=#FF0000]2.[/color] Les questions ouvertes nécessitent des mots interrogatifs comme 什么 (shénme), 谁 (shéi), etc.
+[color=#FF0000]3.[/color] Les questions par alternative offrent plusieurs réponses possibles.
+[color=#FF0000]4.[/color] Les questions rhétoriques sont utilisées pour insister sur une évidence.
+[/indent]
+
+[center][font_size=18][color=#808080]掌握这些问题结构，你的汉语会越来越流利！(zhǎngwò zhèxiē wèntí jiégòu, nǐ de hànyǔ huì yuè lái yuè liúli!) [br](Maîtrise ces structures de questions et ton chinois deviendra de plus en plus fluide!)[/color][/font_size][/center]

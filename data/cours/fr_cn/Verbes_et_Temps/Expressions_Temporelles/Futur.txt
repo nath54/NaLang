@@ -1,1 +1,87 @@
- 
+[font_size=30][center][b][color=#0000FF]Expressions temporelles du futur en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'expression du futur en chinois est essentielle pour parler de vos plans, de vos intentions, ou de ce que vous pensez faire. En chinois, il y a différentes manières de parler du futur, souvent en utilisant des mots spécifiques ou des constructions grammaticales particulières.
+
+[font_size=24][color=#4B0082]1. Utilisation de "将" (jiāng) et "会" (huì)[/color][/font_size]
+
+Les mots "将" (jiāng) et "会" (huì) sont fréquemment utilisés pour exprimer le futur en chinois.
+
+[b]a) "将" (jiāng)[/b]
+[indent]"将" (jiāng) est formel et souvent utilisé dans des contextes écrits ou plus larges pour indiquer une action future.
+
+[code]
+他将去北京。[color=#008000](Tā jiāng qù Běijīng.)[/color]
+Il ira à Pékin.[/i][/code][/indent]
+
+[b]b) "会" (huì)[/b]
+[indent]"会" (huì) est plus couramment utilisé pour parler d'événements futurs lors d'une conversation orale.
+
+[code]
+我会给你打电话。[color=#008000](Wǒ huì gěi nǐ dǎ diànhuà.)[/color]
+Je te téléphonerai.[/i][/code][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de "要" (yào)[/color][/font_size]
+
+"要" (yào) peut également être utilisé pour indiquer un futur proche ou pour exprimer une intention ferme ou un besoin.
+
+[indent][code]
+我们要去看电影。[color=#008000](Wǒmen yào qù kàn diànyǐng.)[/color]
+Nous allons aller voir un film.[/i][/code][/indent]
+
+[font_size=24][color=#4B0082]3. L'emploi des séries temporelles[/color][/font_size]
+
+Les expressions temporelles spécifiques comme "明天" (míngtiān) : demain, "下周" (xià zhōu) : la semaine prochaine, "以后" (yǐhòu) : plus tard, précisent le moment où une action future se produira.
+
+[b]a) "明天" (míngtiān)[/b]
+[indent][code]
+明天我去上海。[color=#008000](Míngtiān wǒ qù Shànghǎi.)[/color]
+Demain, je vais à Shanghai.[/i][/code][/indent]
+
+[b]b) "下周" (xià zhōu)[/b]
+[indent][code]
+下周我们开会。[color=#008000](Xià zhōu wǒmen kāihuì.)[/color]
+La semaine prochaine, nous aurons une réunion.[/i][/code][/indent]
+
+[b]c) "以后" (yǐhòu)[/b]
+[indent][code]
+我以后会给你回信。[color=#008000](Wǒ yǐhòu huì gěi nǐ huíxìn.)[/color]
+Je te répondrai plus tard.[/i][/code][/indent]
+
+[font_size=24][color=#4B0082]4. Construction de phrases avec les expressions temporelles du futur[/color][/font_size]
+
+La construction des phrases pour indiquer des actions futures suit des règles simples. Les expressions temporelles peuvent être placées au début de la phrase pour mettre en emphase, ou après le sujet. Le verbe principal est souvent précédé de "将" (jiāng), "会" (huì), ou "要" (yào), selon le contexte ou l'intention.
+
+[indent][code]
+晚上我要学习中文。[color=#008000](Wǎnshàng wǒ yào xuéxí Zhōngwén.)[/color]
+Ce soir, je vais étudier le chinois.[/i][/code]
+[code]
+他明年会去留学。[color=#008000](Tā míngnián huì qù liúxué.)[/color]
+L'année prochaine, il ira étudier à l'étranger.[/i][/code][/indent]
+
+[font_size=24][color=#4B0082]5. Exemples supplémentaires[/color][/font_size]
+
+Pour mieux comprendre, voici quelques phrases supplémentaires :
+
+[indent][code]
+下个月我要搬家。[color=#008000](Xià ge yuè wǒ yào bānjiā.)[/color]
+Le mois prochain, je vais déménager.[/i][/code]
+[code]
+今年夏天我们会去海边度假。[color=#008000](Jīnnián xiàtiān wǒmen huì qù hǎibiān dùjià.)[/color]
+Cet été, nous irons en vacances à la plage.[/i][/code]
+[code]
+你以后打算做什么？[color=#008000](Nǐ yǐhòu dǎsuàn zuò shénme?) [/color]
+Que comptes-tu faire plus tard ?[/i][/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Utilisez "将" (jiāng) pour des contextes plus formels.
+[color=#FF0000]2.[/color] Utilisez "会" (huì) pour des conversations courantes.
+[color=#FF0000]3.[/color] "要" (yào) indique une intention ou un futur proche.
+[color=#FF0000]4.[/color] Les expressions temporelles comme "明天" (míngtiān), "下周" (xià zhōu) ajoutent de la précision.
+[color=#FF0000]5.[/color] Placez correctement vos expressions temporelles pour clarifier le moment de l'action future.[/indent]
+
+[center][font_size=18][color=#808080]使用这些表达来谈论未来，让你的中文更加流利！(Yòng zhèxiē biǎodá lái tánlùn wèilái, ràng nǐ de Zhōngwén gèngjiā liúlì!) [/color][/font_size][/center]

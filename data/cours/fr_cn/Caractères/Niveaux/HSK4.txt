@@ -1,1 +1,80 @@
- 
+[font_size=30][center][b][color=#0000FF]Les caractères et le niveau HSK4 en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le HSK (Hànyǔ Shuǐpíng Kǎoshì 汉语水平考试) est l'examen officiel de chinois mandarin pour les non-natifs. Il existe plusieurs niveaux, et le HSK4 est considéré comme un niveau intermédiaire. Passer le HSK4 montre une bonne maîtrise des caractères, de la grammaire et du vocabulaire chinois.
+
+[font_size=24][color=#4B0082]1. Présentation du HSK4[/color][/font_size]
+
+Le HSK4 couvre environ 1200 mots et caractères chinois courants. À ce niveau, vous êtes censé comprendre et utiliser des phrases complexes, avoir des conversations sur des sujets variés et comprendre des articles de presse.
+
+[b]Exemple de mot HSK4 :[/b] 
+- 简单 (jiǎn dān) [color=#008000](simple)[/color]
+- 复杂 (fù zá) [color=#008000](complexe)[/color]
+  
+[i]Phrase : [color=#0000FF]这个问题很简单。[/color] [color=#008000](Ce problème est très simple.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Les caractères chinois[/color][/font_size]
+
+Les caractères chinois sont logographiques, chaque caractère représentant un mot ou un morpheme. Au niveau HSK4, vous continuerez à apprendre des caractères plus complexes.
+
+[b]Exemple de caractère HSK4 :[/b] 喜 (xǐ) [color=#008000](heureux)[/color]
+
+Caractère avec ses éléments :
+- Radical : 口 (kǒu) [color=#008000](bouche)[/color]
+- Partie phonétique : 喜 (xi) [color=#008000](partiellement phonétique)[/color]
+
+[indent]• 喜欢 (xǐ huān) [color=#008000](aimer)[/color]
+• 喜事 (xǐ shì) [color=#008000](heureux événement)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Grammaire au niveau HSK4[/color][/font_size]
+
+Vous allez approfondir votre compréhension de la grammaire chinoise. Par exemple, les compléments de résultat et les phrases conditionnelles deviennent essentiels.
+
+[b]Complément de résultat :[/b]
+[indent]• 看完 (kàn wán) [color=#008000](avoir fini de regarder)[/color]
+
+[i]Phrase : [color=#0000FF]我已经看完了那本书。[/color] [color=#008000](J'ai déjà fini de lire ce livre.)[/color][/i][/indent]
+
+[b]Phrase conditionnelle :[/b]
+[indent]• 如果 (rú guǒ) [color=#008000](si)[/color]
+
+[i]Phrase : [color=#0000FF]如果你有时间，我们可以一起吃饭。[/color] [color=#008000](Si tu as le temps, nous pouvons manger ensemble.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Vocabulaire au niveau HSK4[/color][/font_size]
+
+Apprendre le nouveau vocabulaire est crucial. Voici quelques exemples de vocabulaire que vous apprendrez au niveau HSK4 :
+
+[indent][code]
+经济 (jīng jì) [color=#008000](économie)[/color]
+社会 (shè huì) [color=#008000](société)[/color]
+环境 (huán jìng) [color=#008000](environnement)[/color]
+机会 (jī huì) [color=#008000](opportunité)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他对经济很感兴趣。[/color] [color=#008000](Il s'intéresse beaucoup à l'économie.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Techniques de mémorisation des caractères[/color][/font_size]
+
+À ce niveau, il est important d'utiliser des techniques efficaces pour mémoriser les caractères chinois. Voici quelques méthodes :
+
+[b]a) Cartes mémoire (flashcards)[/b]
+[indent]Vous pouvez créer vos propres cartes mémoire ou utiliser des applications comme Anki. Écrire et lire les caractères régulièrement aide à la rétention.[/indent]
+
+[b]b) Radicaux chinois[/b]
+[indent]Connaître les radicaux peut aider à deviner significations et prononciations. Par exemple, le radical 氵 (shuǐ paddling) est souvent lié à l'eau.[/indent]
+
+[b]c) Utilisation contextuelle[/b]
+[indent]Essayez d'utiliser les nouveaux mots dans des phrases et des conversations. Plus vous les utilisez, mieux vous vous en souviendrez.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le HSK4 couvre environ 1200 mots et caractères chinois.
+[color=#FF0000]2.[/color] La maîtrise des caractères est cruciale pour progresser en chinois.
+[color=#FF0000]3.[/color] La grammaire et le vocabulaire deviennent de plus en plus complexes.
+[color=#FF0000]4.[/color] L'utilisation des techniques de mémorisation est essentielle pour retenir les caractères.
+[color=#FF0000]5.[/color] Essayez de pratiquer régulièrement pour améliorer votre compétence linguistique.[/indent]
+
+[center][font_size=18][color=#808080]继续加油！你的中文会越来越好！[/color][/font_size][/center]

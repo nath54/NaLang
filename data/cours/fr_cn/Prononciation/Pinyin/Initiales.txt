@@ -1,1 +1,94 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Initiales en Pinyin[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le pinyin est le système de romanisation officiel du mandarin en Chine. Il utilise l'alphabet latin pour représenter les sons chinois et sert de guide pour la prononciation. Un mot en pinyin est composé d'une initiale (consonne) et d'une finale (voyelle ou ensemble de voyelles). Dans ce cours, nous allons nous concentrer sur les **initiales** en pinyin.
+
+[font_size=24][color=#4B0082]1. Les initiales en pinyin[/color][/font_size]
+
+En pinyin, il existe 21 initiales, qui sont des consonnes placées au début des syllabes. Certaines ressemblent à celles du français, tandis que d'autres nécessitent une adaptation de la prononciation.
+
+[b]a) Les initiales simples[/b]
+[indent]
+Ces initiales sont similaires aux consonnes françaises mais leur prononciation peut varier légèrement :
+
+[code]
+b ([color=#008000]b[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "b" français, mais plus doux.
+p ([color=#008000]p[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "p" français, mais avec une aspiration forte.
+m ([color=#008000]m[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "m" français.
+f ([color=#008000]f[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "f" français.
+d ([color=#008000]d[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "d" français, mais plus léger.
+t ([color=#008000]t[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "t" français, mais avec une forte aspiration.
+n ([color=#008000]n[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "n" français.
+l ([color=#008000]l[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "l" français.
+g ([color=#008000]g[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme dans "gare", mais plus doux.
+k ([color=#008000]k[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "k" français, avec une forte aspiration.
+h ([color=#008000]h[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme dans "haut", mais plus guttural, semblable au "ch" allemand dans "Bach".
+j ([color=#008000]j[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme dans "je" mais sans le son "d".
+q ([color=#008000]q[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme un "ch" murmuré, soufflé, comme dans "cheap".
+x ([color=#008000]x[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme dans "si", mais la langue frôle le palais.
+r ([color=#008000]r[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Entre le "r" français et le "j" dans "je".
+z ([color=#008000]z[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "ds" dans "adze" en anglais, ou "dz".
+c ([color=#008000]c[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "ts" dans "tsunami".
+s ([color=#008000]s[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "s" français.
+zh ([color=#008000]zh[/color])      [b][color=#FF0000]Prononciation :[/color][/b] Comme le "j" de "journal", plus rétroflexe.
+ch ([color=#008000]ch[/color])      [b][color=#FF0000]Prononciation :[/color][/b] Comme le "ch" dans "chien", mais plus rétroflexe.
+sh ([color=#008000]sh[/color])      [b][color=#FF0000]Prononciation :[/color][/b] Comme le "sh" dans "shen", mais plus rétroflexe.
+[/code]
+
+[i]Exemple : [color=#0000FF]爸爸 (bàba)[/color] [color=#008000](papa)[/color][/i]
+[/indent]
+
+[b]b) Les initiales complexes[/b]
+[indent]
+Ces initiales nécessitent une nouvelle approche phonétique car elles diffèrent du français :
+
+[code]
+y ([color=#008000]y[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "y" dans "yes" en anglais.
+w ([color=#008000]w[/color])        [b][color=#FF0000]Prononciation :[/color][/b] Comme le "w" dans "water" en anglais.
+[/code]
+
+[i]Exemple : [color=#0000FF]我 (wǒ)[/color] [color=#008000](je/moi)[/color][/i]
+[/indent]
+
+[font_size=24][color=#4B0082]2. Particularités de certaines initiales[/color][/font_size]
+
+Certaines initiales nécessitent une attention particulière car leur prononciation peut varier en fonction des voyelles qui suivent :
+
+[indent]• [b][color=#FF0000]j, q, x[/color][/b] : Ces initiales sont souvent suivies de voyelles comme [b][color=#FF0000]i[/color][/b], [b][color=#FF0000]ü[/color][/b]. La consonne reste douce.
+
+Example : [color=#0000FF]家 (jiā) (jia)[/color] [color=#008000](maison)[/color], [color=#0000FF]去 (qù) (qu)[/color] [color=#008000](aller)[/color], [color=#0000FF]学校 (xuéxiào) (xuéxiao)[/color] [color=#008000](école)[/color]
+
+• [b][color=#FF0000]zh, ch, sh, r[/color][/b] : Ces initiales sont rétroflexes; la langue doit frôler le palais.
+
+Example : [color=#0000FF]中 (zhōng) (zhong)[/color] [color=#008000](milieu)[/color], [color=#0000FF]吃 (chī) (chi)[/color] [color=#008000](manger)[/color], [color=#0000FF]是 (shì) (shi)[/color] [color=#008000](être)[/color], [color=#0000FF]人 (rén) (ren)[/color] [color=#008000](personne)[/color]
+[/indent]
+
+[font_size=24][color=#4B0082]3. Pratique avec des exemples[/color][/font_size]
+
+Pour bien maîtriser les initiales, il est essentiel de pratiquer régulièrement. Répétez les mots suivants en prêtant attention à la prononciation des initiales :
+
+[indent][code]
+bā  (爸爸) (bàba) [color=#008000](papa)[/color]
+mā  (妈妈) (māma) [color=#008000](maman)[/color]
+tā  (他) (tā) [color=#008000](il)[/color]
+xué (学) (xué) [color=#008000](étudier)[/color]
+shū (书) (shū) [color=#008000](livre)[/color]
+rì  (日) (rì) [color=#008000](jour)[/color]
+zâi  (仔) (zài) [color=#008000](enfant)[/color]
+wǒ  (我) (wǒ) [color=#008000](je, moi)[/color]
+xié (写) (xiě) [color=#008000](écrire)[/color]
+kǒu  (口) (kǒu) [color=#008000](bouche)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les initiales en pinyin sont des consonnes placées au début des syllabes.
+[color=#FF0000]2.[/color] Certaines initiales se prononcent de manière très similaire à celles du français, tandis que d'autres nécessitent une adaptation phonétique.
+[color=#FF0000]3.[/color] La clé pour maîtriser les initiales est la pratique régulière et constante.
+[color=#FF0000]4.[/color] Soyez attentifs aux particularités de certaines initiales en fonction des voyelles qui les suivent.
+[/indent]
+
+[center][font_size=18][color=#808080]继续练习发音，你的中文会越来越标准！(Jìxù liànxí fāyīn, nǐ de zhōngwén huì yuèláiyuè biāozhǔn！)[/color][/font_size][/center]

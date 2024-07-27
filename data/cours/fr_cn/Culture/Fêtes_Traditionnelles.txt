@@ -1,1 +1,99 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Fêtes Traditionnelles en Chine[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le calendrier chinois est rythmé par de nombreuses fêtes traditionnelles, chacune ayant des origines, des pratiques et des significations spécifiques. Comprendre ces fêtes permet non seulement d’apprécier davantage la culture chinoise, mais aussi de mieux maîtriser la langue par l’usage de vocabulaire et d’expressions propres à chaque célébration.
+
+[font_size=24][color=#4B0082]1. Le Nouvel An Chinois (春节, Chūn Jié)[/color][/font_size]
+
+Le Nouvel An Chinois, ou [b]Fête du Printemps[/b], est la fête la plus importante en Chine. Elle marque le début du nouvel an lunaire et est célébrée par des millions de personnes à travers le monde.
+
+[b]a) Origines et Significations[/b]
+[indent]Le Nouvel An Chinois est basé sur le calendrier lunaire. Chaque année est associée à un animal du zodiaque chinois (生肖, shēngxiào). Cette fête symbolise le renouveau, la joie et les vœux de bonheur pour la nouvelle année.[/indent]
+
+[b]b) Pratiques et Traditions[/b]
+[indent][code]
+Décoration des maisons avec des caractères de bon augure (福, fú) et des lanternes rouges.
+Donner des enveloppes rouges (红包, hóngbāo) contenant de l'argent pour porter chance.
+[/code]
+
+[i]Exemple : [color=#0000FF]春节快乐！(Chūn Jié Kuài Lè!)[/color] [color=#008000](Bonne année du printemps !)[/color][/i][/indent]
+
+[b]c) Les Festivités[/b]
+[indent]Les festivités s’étendent sur deux semaines, se terminant avec la Fête des Lanternes (元宵节, Yuán Xiāo Jié). Durant cette période, on assiste à des danses du lion, des feux d'artifice et des dîners en famille.[/indent]
+
+[font_size=24][color=#4B0082]2. La Fête des Lanternes (元宵节, Yuán Xiāo Jié)[/color][/font_size]
+
+Cette fête marque la fin des célébrations du Nouvel An Chinois et se tient le 15e jour du premier mois lunaire.
+
+[b]a) Légendes et Symboles[/b]
+[indent]Les lanternes, symbolisant l'éclairage de la nouvelle année, sont allumées et souvent décorées de devinettes pour l'occasion. Les gens mangent des boulettes de riz gluant (汤圆, tāngyuán), symbolisant l'unité et l'intégrité de la famille.[/indent]
+
+[b]b) Activités Traditionnelles[/b]
+[indent][code]
+Confection et allumage de lanternes colorées.
+Résolution de devinettes inscrites sur les lanternes.
+Consommation de boulettes de riz sucrées.
+[/code]
+
+[i]Exemple : [color=#0000FF]他猜对了灯谜。(Tā cāi duìle dēngmí.)[/color] [color=#008000](Il a deviné correctement l'énigme sur la lanterne.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. La Fête de Qingming (清明节, Qīng Míng Jié)[/color][/font_size]
+
+Cette fête, aussi appelée [b]Fête de la Clarté Pure[/b], est célébrée au début du mois d’avril. Elle est consacrée au souvenir des ancêtres.
+
+[b]a) Rites et Significations[/b]
+[indent]Le nettoyage et la décoration des tombes des ancêtres (扫墓, sǎomù) sont au cœur des célébrations de Qingming. Les familles rendent hommage aux morts en brûlant de l'encens et en offrant des aliments ou des objets en papier censés représenter des biens matériels.[/indent]
+
+[b]b) Célébrations et Activités[/b]
+[indent][code]
+Visiter et nettoyer les tombes des ancêtres.
+Offrir des sacrifices alimentaires et des objets en papier.
+Effectuer des promenades dans la nature pour profiter de la beauté du printemps.
+[/code]
+
+[i]Exemple : [color=#0000FF]他们在扫墓。(Tāmen zài sǎomù.)[/color] [color=#008000](Ils sont en train de nettoyer la tombe.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. La Fête des Bateaux-Dragons (端午节, Duān Wǔ Jié)[/color][/font_size]
+
+Célébrée le cinquième jour du cinquième mois lunaire, cette fête rend hommage au poète Qu Yuan (屈原, Qū Yuán).
+
+[b]a) Origine et Histoire[/b]
+[indent]Qu Yuan, un poète et ministre fidèle, se serait noyé par désespoir après avoir été exilé. En mémoire de sa loyauté, des courses de bateaux en forme de dragons sont organisées, et les gens préparent des zongzi (粽子, zòngzi), des boulettes de riz gluant enveloppées dans des feuilles de bambou.[/indent]
+
+[b]b) Traditions et Compétitions[/b]
+[indent][code]
+Participez à des courses de bateaux-dragons.
+Préparez et mangez des zongzi.
+Porter des sachets de parfum pour se protéger des esprits maléfiques.
+[/code]
+
+[i]Exemple : [color=#0000FF]他们在吃粽子。(Tāmen zài chī zòngzi.)[/color] [color=#008000](Ils mangent des zongzi.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. La Fête de la Mi-Automne (中秋节, Zhōng Qiū Jié)[/color][/font_size]
+
+La Fête de la Mi-Automne est célébrée le 15e jour du huitième mois lunaire et est symbolisée par la pleine lune.
+
+[b]a) Légendes et Mythes[/b]
+[indent]Cette fête est associée à plusieurs légendes, dont celle de Chang'e (嫦娥, Cháng'é), la déesse de la lune. On contemple la lune et savoure des gâteaux de lune (月饼, yuèbǐng), des pâtisseries rondes symbolisant la réunion familiale et la plénitude.[/indent]
+
+[b]b) Célébrations en Famille[/b]
+[indent][code]
+Réunions familiales pour contempler la lune.
+Manger des gâteaux de lune.
+Allumer des lanternes et participer à des danses du dragon et du lion.
+[/code]
+
+[i]Exemple : [color=#0000FF]中秋节快乐！(Zhōng Qiū Jié Kuài Lè!)[/color] [color=#008000](Bonne fête de la mi-automne !)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Chaque fête traditionnelle chinoise a des origines et des significations uniques.
+[color=#FF0000]2.[/color] Les fêtes sont souvent célébrées en famille et sont l'occasion de perpétuer des traditions spécifiques.
+[color=#FF0000]3.[/color] Comprendre ces fêtes permet de mieux appréhender la culture et le mode de vie chinois.
+[color=#FF0000]4.[/color] Chaque fête est associée à des pratiques alimentaires et des activités particulières.
+[color=#FF0000]5.[/color] Certaines fêtes sont basées sur le calendrier lunaire et comprennent des activités cérémoniales et symboliques.
+
+[center][font_size=18][color=#808080]了解和欣赏中国的传统节日，使你的中文更加自然和流利！(Liǎojiě hé xīnshǎng zhōngguó de chuántǒng jiérì, shǐ nǐ de zhōngwén gèng jiā zìrán hé liúlì!) [/color][/font_size][/center]

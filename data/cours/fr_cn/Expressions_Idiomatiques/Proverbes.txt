@@ -1,1 +1,90 @@
- 
+[font_size=30][center][b][color=#0000FF]Les expressions idiomatiques et proverbes en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les expressions idiomatiques et les proverbes chinois sont une partie fascinante et essentielle de la langue. Ils encapsulent souvent la sagesse populaire et les valeurs culturelles en seulement quelques mots. Comprendre et utiliser ces expressions correctement peut grandement enrichir votre maîtrise du chinois et vous aider à mieux comprendre la culture chinoise.
+
+[font_size=24][color=#4B0082]1. Les chengyu (成语)[/color][/font_size]
+
+Les chengyu (成语, chéngyǔ) sont des expressions idiomatiques souvent composées de quatre caractères. Ils ont des origines historiques ou littéraires et sont fréquemment utilisés dans la langue chinoise.
+
+[b]a) Origine et structure des chengyu[/b]
+[indent]Les chengyu ont souvent une histoire ou une fable derrière eux, ce qui rend leur compréhension plus riche et plus intéressante. Leur structure de quatre caractères les rend concis et percutants.
+
+[code]
+对牛弹琴 (duì niú tán qín) [color=#008000](jouer de la cithare pour un bœuf, parler à un mur)[/color]
+草船借箭 (cǎo chuán jiè jiàn) [color=#008000](emprunter des flèches avec des bateaux de paille, utiliser les ressources de l'ennemi contre lui)[/color]
+自相矛盾 (zì xiāng máo dùn) [color=#008000](se contredire soi-même, être inconsistant)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他的话竟然自相矛盾。[/color] (tā de huà jìng rán zì xiāng máo dùn) [color=#008000](Ses paroles se contredisent.)[/color][/i][/indent]
+
+[b]b) Utilisation des chengyu[/b]
+[indent]Les chengyu sont souvent utilisés pour exprimer une idée complexe ou un concept de manière succincte. Ils peuvent être employés dans des contextes formels et informels.
+
+[i]Exemple : [color=#0000FF]对牛弹琴没有用。[/color] (duì niú tán qín méi yǒu yòng) [color=#008000](C'est inutile de parler à un mur.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Proverbes chinois (谚语)[/color][/font_size]
+
+Les proverbes chinois (谚语, yànyǔ) sont des expressions courtes qui véhiculent une vérité universelle ou un conseil pratique. Ils sont souvent utilisés dans la conversation quotidienne et sont ancrés dans la culture populaire.
+
+[b]a) Exemples de proverbes chinois[/b]
+[indent]Les proverbes couvrent divers aspects de la vie, tels que la morale, le travail, la famille, et la nature.
+
+[code]
+滴水穿石 (dī shuǐ chuān shí) [color=#008000](les gouttes d'eau percent la pierre, la persévérance vient à bout de tout)[/color]
+好事多磨 (hǎo shì duō mó) [color=#008000](les bonnes choses prennent du temps, la patience est une vertu)[/color]
+百闻不如一见 (bǎi wén bù rú yī jiàn) [color=#008000](mieux vaut voir une fois que d'entendre cent fois)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]滴水穿石，我们应该坚持。[/color] (dī shuǐ chuān shí, wǒmen yīng gāi jiān chí) [color=#008000](La persévérance vient à bout de tout, nous devons persévérer.)[/color][/i][/indent]
+
+[b]b) Signification et application[/b]
+[indent]Les proverbes sont utilisés pour enseigner des leçons de vie et partager des perspectives culturelles. Ils sont couramment intégrés dans les discours, les écrits, et même les conversations quotidiennes.
+
+[i]Exemple : [color=#0000FF]好事多磨，我们需要耐心。[/color] (hǎo shì duō mó, wǒ men xū yào nài xīn) [color=#008000](Les bonnes choses prennent du temps, nous devons être patients.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. La différence entre chengyu et proverbes[/color][/font_size]
+
+Bien que les chengyu et les proverbes semblent similaires, ils ont quelques différences clés :
+
+[indent]• Les chengyu sont souvent plus littéraires et historiques. Ils sont composés de quatre caractères et peuvent sembler plus formels.
+• Les proverbes sont généralement plus simples et plus directement appliqués aux situations quotidiennes. Ils peuvent varier en longueur et en structure.[/indent]
+
+[font_size=24][color=#4B0082]4. Comment apprendre et utiliser ces expressions[/color][/font_size]
+
+Apprendre ces expressions demande du temps et de la pratique. Voici quelques conseils :
+
+[b]a) Lire des histoires et des textes[/b]
+[indent]Les contextes historiques et littéraires des chengyu peuvent être mieux compris en lisant les histoires d'où ils proviennent.
+
+[i]Exemple : Lire le livre "Shuihu Zhuan" pour découvrir les chengyu utilisés dans ce texte classique.[/i][/indent]
+
+[b]b) Pratiquer l'écoute et l'utilisation[/b]
+[indent]Écoutez des locuteurs natifs et essayez d'utiliser les chengyu et proverbes dans vos conversations quotidiennes.
+
+[i]Exemple : Écouter des podcasts ou des émissions chinoises pour entendre ces expressions en contexte.[/i][/indent]
+
+[font_size=24][color=#4B0082]5. Expressions idiomatiques modernes[/color][/font_size]
+
+En plus des chengyu traditionnels et des proverbes, l'usage moderne a introduit de nouvelles expressions idiomatiques.
+
+[indent][code]
+加油 (jiā yóu) [color=#008000](Allez! Bonne chance!)[/color]
+没有办法 (méi yǒu bàn fǎ) [color=#008000](Il n'y a rien que l'on puisse faire.)[/color]
+随便 (suí biàn) [color=#008000](Comme tu veux, peu importe.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]明天的考试，加油！[/color] (míng tiān de kǎo shì, jiā yóu!) [color=#008000](Bonne chance pour l'examen de demain !)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les chengyu (成语) sont des expressions idiomatiques de quatre caractères souvent issues de l'histoire ou de la littérature.
+[color=#FF0000]2.[/color] Les proverbes (谚语) sont des expressions simples et directes qui véhiculent des vérités universelles.
+[color=#FF0000]3.[/color] Les chengyu et les proverbes ajoutent une profondeur culturelle à votre compréhension du chinois.
+[color=#FF0000]4.[/color] Lire des textes classiques et écouter des locuteurs natifs peut vous aider à maîtriser ces expressions.
+[color=#FF0000]5.[/color] Les idiomes modernes sont également courants et utilisés dans la vie quotidienne. [/indent]
+
+[center][font_size=18][color=#808080]使用好这些表达，你的中文会更加流利自如！[/color][/font_size][/center]

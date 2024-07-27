@@ -1,1 +1,92 @@
- 
+[font_size=30][center][b][color=#0000FF]Les verbes modaux 能 (néng) et 可以 (kěyǐ) en chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, les verbes modaux 能 (néng) et 可以 (kěyǐ) jouent un rôle important pour exprimer des capacités, des permissions ou des possibilités. Bien que souvent utilisés de manière interchangeable, il y a des subtilités qui les différencient et qu'il est crucial de bien maîtriser pour une communication fluide.
+
+[font_size=24][color=#4B0082]1. Utilisation de 能 (néng)[/color][/font_size]
+
+Le verbe modal 能 (néng) est principalement utilisé pour exprimer la capacité ou la possibilité physique de faire quelque chose. Il se traduit par "pouvoir" ou "être capable de".
+
+[b]a) Exemple de capacité physique[/b]
+[indent]能 (néng) est utilisé pour indiquer que quelqu'un a la capacité physique ou les compétences nécessaires pour accomplir une action :
+
+[code]
+我能游泳。[color=#008000] (wǒ néng yóuyǒng) : Je sais nager.[/color]
+我能说中文。[color=#008000] (wǒ néng shuō zhōngwén) : Je peux parler chinois.[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我能说中文。[/color] [color=#008000](wǒ néng shuō zhōngwén : Je peux parler chinois.)[/color][/i][/indent]
+
+[b]b) Exemple de possibilité conditionnelle[/b]
+[indent]能 (néng) peut aussi être utilisé pour indiquer qu'une action est possible sous certaines conditions :
+
+[code]
+明天我能去看你。[color=#008000] (míngtiān wǒ néng qù kàn nǐ) : Demain, je pourrai venir te voir.[/color]
+你能帮我吗？[color=#008000] (nǐ néng bāng wǒ ma?) : Peux-tu m'aider ?[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你能帮我吗？[/color] [color=#008000](nǐ néng bāng wǒ ma? : Peux-tu m'aider ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de 可以 (kěyǐ)[/color][/font_size]
+
+Le verbe modal 可以 (kěyǐ) est principalement utilisé pour exprimer la permission ou la possibilité. Il se traduit également par "pouvoir" mais dans le sens de "avoir la permission de" ou "être possible".
+
+[b]a) Exemple de permission[/b]
+[indent]可以 (kěyǐ) est employé pour demander ou donner la permission de faire quelque chose :
+
+[code]
+我可以进来吗？ [color=#008000](wǒ kěyǐ jìnlái ma?) : Puis-je entrer ?[/color]
+你可以用我的电脑。 [color=#008000](nǐ kěyǐ yòng wǒ de diànnǎo.) : Tu peux utiliser mon ordinateur.[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我可以进来吗？[/color] [color=#008000](wǒ kěyǐ jìnlái ma? : Puis-je entrer ?)[/color][/i][/indent]
+
+[b]b) Exemple de possibilité générale[/b]
+[indent]可以 (kěyǐ) peut également être utilisé pour indiquer qu'une action est possible de manière générale :
+
+[code]
+你可以在这里停车。 [color=#008000](nǐ kěyǐ zài zhèlǐ tíngchē.) : Tu peux garer ici.[/color]
+可以在网上买票。 [color=#008000](kěyǐ zài wǎngshàng mǎi piào.) : On peut acheter des billets en ligne.[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]可以在网上买票。[/color] [color=#008000](kěyǐ zài wǎngshàng mǎi piào : On peut acheter des billets en ligne.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Différences clés entre 能 (néng) et 可以 (kěyǐ)[/color][/font_size]
+
+Bien que 能 (néng) et 可以 (kěyǐ) puissent parfois être utilisés de manière interchangeable, voici quelques différences clés :
+
+[indent]• 能 (néng) est principalement utilisé pour la capacité physique ou conditionnelle, tandis que 可以 (kěyǐ) est utilisé pour demander ou donner la permission.
+• Lorsque vous demandez ou accordez la permission, utilisez 可以 (kěyǐ).
+• Pour exprimer une compétence ou une possibilité conditionnelle, utilisez 能 (néng).[/indent]
+
+[font_size=24][color=#4B0082]4. Exemples comparatifs de 能 (néng) et 可以 (kěyǐ)[/color][/font_size]
+
+Pour mieux illustrer les différences, voici quelques exemples où les deux verbes modaux sont utilisés dans des contextes appropriés :
+
+[b]a) Capacité physique vs Permission[/b]
+[indent][code]
+我能喝三杯酒。 [color=#008000](wǒ néng hē sān bēi jiǔ) : Je peux boire trois verres d'alcool.[/color]
+我可以喝酒吗？ [color=#008000](wǒ kěyǐ hējiǔ ma?) : Puis-je boire de l'alcool ?[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我可以喝酒吗？[/color] [color=#008000](wǒ kěyǐ hējiǔ ma? : Puis-je boire de l'alcool ?)[/color][/i][/indent]
+
+[b]b) Possibilité conditionnelle vs Possibilité générale[/b]
+[indent][code]
+如果现在出发，你能赶上火车。 [color=#008000](rúguǒ xiànzài chūfā, nǐ néng gǎn shàng huǒchē) : Si tu pars maintenant, tu peux attraper le train.[/color]
+在中国，你可以用支付宝付款。 [color=#008000](zài zhōngguó, nǐ kěyǐ yòng zhīfùbǎo fùkuǎn) : En Chine, tu peux payer avec Alipay.[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]如果现在出发，你能赶上火车。[/color] [color=#008000](rúguǒ xiànzài chūfā, nǐ néng gǎn shàng huǒchē : Si tu pars maintenant, tu peux attraper le train.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] 能 (néng) s'emploie pour indiquer la capacité physique ou conditionnelle de faire quelque chose.
+[color=#FF0000]2.[/color] 可以 (kěyǐ) s'utilise pour demander ou donner la permission et pour des possibilités générales.
+[color=#FF0000]3.[/color] Il est important de choisir le bon modal selon le contexte pour une communication correcte.
+[color=#FF0000]4.[/color] 能 (néng) et 可以 (kěyǐ) peuvent être interchangeables dans certains cas, mais gardez à l'esprit leurs significations spécifiques.[/indent]
+
+[center][font_size=18][color=#808080]运用这些词语, 你的中文会变得更加地道流利![/color] (yùnyòng zhèxiē cíyǔ, nǐ de zhōngwén huì biàn dé gèngjiā dìdào liúlì : Utilise ces termes, et ton chinois sera plus naturel et fluide!)[/font_size][/center]

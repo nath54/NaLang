@@ -1,1 +1,105 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Expressions Temporelles au Présent en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Comprendre et utiliser les expressions temporelles est essentiel pour parler couramment et naturellement une langue. En chinois, les expressions temporelles permettent de situer les actions dans le temps et d'apporter de la clarté et des nuances aux phrases. Voyons ensemble comment exprimer le présent en chinois.
+
+[font_size=24][color=#4B0082]1. Les marqueurs temporels courants au présent[/color][/font_size]
+
+En chinois, plusieurs expressions permettent de situer une action dans le présent. Elles peuvent se placer en début ou en fin de phrase, selon le contexte et l'emphase que l'on souhaite mettre.
+
+[b]a) 现在 (xiàn zài) - maintenant[/b]
+[indent]Cette expression est utilisée pour indiquer que quelque chose se passe actuellement.
+
+[code]
+现在，我在学习中文。 [color=#008000](Maintenant, j'apprends le chinois.)[/color]
+[/code]
+
+[i]Exemple : 现在，他在吃饭。[color=#008000](Maintenant, il est en train de manger.)[/color][/i][/indent]
+
+[b]b) 正在 (zhèng zài) - en train de[/b]
+[indent]Cette particule indique une action en cours. Elle se place avant le verbe pour montrer que l'action se déroule en ce moment même.
+
+[code]
+她正在看书。 [color=#008000](Elle est en train de lire.)[/color]
+[/code]
+
+[i]Exemple : 我正在写作业。[color=#008000](Je suis en train de faire mes devoirs.)[/color][/i][/indent]
+
+[b]c) 正 (zhèng) - juste, exactement[/b]
+[indent]Semblable à 正在 (zhèng zài), cette forme abrégée est souvent utilisée dans le langage courant.
+
+[code]
+我们正讨论这个问题。[color=#008000](Nous discutons justement de ce problème.)[/color]
+[/code]
+
+[i]Exemple : 他正打电话。[color=#008000](Il est en train de téléphoner.)[/color][/i][/indent]
+
+[b]d) 这 (zhè) - ceci[/b]
+[indent]Ce caractère, souvent combiné avec d'autres mots, est utilisé pour parler d'une action ou d'une situation actuelle.
+
+[code]
+这几天 (zhè jǐ tiān) [color=#008000](ces jours-ci)[/color]
+这个月 (zhè ge yuè) [color=#008000](ce mois-ci)[/color]
+今年 (jīn nián) [color=#008000](cette année)[/color]
+[/code]
+
+[i]Exemple : 这些天，我很忙。[color=#008000](Ces jours-ci, je suis très occupé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des expressions temporelles au présent[/color][/font_size]
+
+L'utilisation correcte des expressions temporelles permet de structurer la phrase et de clarifier le moment de l'action. Voici quelques règles générales pour bien les utiliser.
+
+[indent]• Les expressions comme 现在 (xiàn zài) et 正在 (zhèng zài) se placent généralement [u]avant[/u] le verbe.
+[color=#0000FF]现在，他在学习。[color=#008000](Maintenant, il étudie.)[/color]
+
+- Les expressions plus longues comme 这几天 (zhè jǐ tiān) peuvent se placer [u]au début[/u] ou [u]à la fin[/u] de la phrase pour accentuer.
+[color=#0000FF]这几天，她很忙。[color=#008000](Ces jours-ci, elle est très occupée.)[/color]
+她很忙，这几天。[color=#008000](Elle est très occupée, ces jours-ci.)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Les nuances et exceptions[/color][/font_size]
+
+Comme dans beaucoup de langues, certaines expressions temporelles en chinois peuvent avoir des significations particulières ou être utilisées dans des contextes spécifiques.
+
+[b]a) 刚 (gāng) - venir juste de[/b]
+[indent]Indique une action qui vient tout juste d'être réalisée, souvent suivi d'un verbe.
+
+[code]
+我刚到家。[color=#008000](Je viens d'arriver à la maison.)[/color]
+[/code]
+
+[i]Exemple : 父母刚离开。[color=#008000](Les parents viennent de partir.)[/color][/i][/indent]
+
+[b]b) 一边...一边... (yì biān...yì biān...) - en même temps[/b]
+[indent]Permet d'indiquer deux actions simultanées.
+
+[code]
+他一边吃饭一边看电视。[color=#008000](Il mange en regardant la télévision.)[/color]
+[/code]
+
+[i]Exemple : 我一边听音乐一边写作业。[color=#008000](J'écoute de la musique en faisant mes devoirs.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Les mots de durée au présent[/color][/font_size]
+
+Les expressions de durée permettent d'indiquer la durée d'une action ou d'un état présent.
+
+[indent][code]
+一会儿 (yì huǐr) [color=#008000](un moment)[/color]
+多长时间 (duō cháng shí jiān) [color=#008000](combien de temps)[/color]
+现在 (xiàn zài) [color=#008000](maintenant)[/color]
+一直 (yì zhí) [color=#008000](toujours, constamment)[/color]
+[/code]
+
+[i]Exemple : 他在家呆了一会儿。[color=#008000](Il est resté à la maison pendant un moment.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les expressions 现在 (xiàn zài) et 正在 (zhèng zài) sont couramment utilisées pour indiquer le présent.
+[color=#FF0000]2.[/color] Les expressions temporelles se placent généralement avant le verbe, sauf indication contraire.
+[color=#FF0000]3.[/color] Utilisez 这 (zhè) pour parler de périodes actuelles comme 这几天 (zhè jǐ tiān) ou 这个月 (zhè ge yuè).
+[color=#FF0000]4.[/color] Les nuances comme 刚 (gāng) et 一边...一边... (yì biān...yì biān...) ajoutent de la variété et de la précision à vos phrases.
+[color=#FF0000]5.[/color] Les mots de durée sont importants pour exprimer combien de temps une action dure au présent.[/indent]
+
+[center][font_size=18][color=#808080]利用这些时间表达，让你的中文更加流利自然! (lì yòng zhè xiē shí jiān biǎo dá, ràng nǐ de zhōng wén gèng jiā liú lì zì rán!)[/color][/font_size][/center]

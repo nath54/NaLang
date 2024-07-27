@@ -1,1 +1,104 @@
- 
+[font_size=30][center][b][color=#0000FF]La Structure de Base des Phrases Simples en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Comprendre la structure de base des phrases simples en chinois est essentiel pour améliorer votre capacité à parler et à comprendre cette langue. Différente du français, la syntaxe chinoise suit des règles spécifiques qui peuvent sembler déroutantes au début mais deviennent naturelles avec la pratique.
+
+[font_size=24][color=#4B0082]1. La structure sujet-verbe-objet (SVO)[/color][/font_size]
+
+En chinois, l'ordre général des mots dans une phrase simple est [b]SVO[/b] (Sujet-Verbe-Objet), similaire à l'anglais. Cependant, la flexibilité et les variations existent selon le contexte et l'intention.
+
+[b]a) Sujet (主语 zhǔ yǔ) + Verbe (动词 dòng cí) + Objet (宾语 bīn yǔ)[/b]
+[indent]Exemple :
+[code]
+我 吃 苹果。 (wǒ chī píng guǒ)
+Je mange une pomme.
+[/code]
+
+[i]Dans cette phrase, [color=#0000FF]我 (wǒ)[/color] est le sujet, [color=#0000FF]吃 (chī)[/color] est le verbe et [color=#0000FF]苹果 (píng guǒ)[/color] est l'objet.[/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des pronoms personnels[/color][/font_size]
+
+Les pronoms personnels en chinois ne varient pas en genre. Voici les principaux pronoms :
+
+[indent][code]
+我 (wǒ) – Je, moi
+你 (nǐ) – Tu, toi
+他 (tā) – Il
+她 (tā) – Elle
+它 (tā) – Il/elle (pour les objets et animaux)
+我们 (wǒ men) – Nous
+你们 (nǐ men) – Vous
+他们 (tā men) – Ils
+她们 (tā men) – Elles
+[/code]
+
+[i]Exemple : [color=#0000FF]你喜欢喝茶吗？(nǐ xǐ huān hē chá ma?)[/color] [color=#008000](Aimes-tu boire du thé ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les adjectifs et leur placement[/color][/font_size]
+
+Les adjectifs (形容词 xíng róng cí) en chinois se placent généralement avant le nom qu'ils modifient. 
+
+[indent][code]
+他是一个好人。(tā shì yī gè hǎo rén)
+Il est une bonne personne.
+漂亮的花。(piào liàng de huā)
+Une jolie fleur.
+[/code]
+
+[i]Exemple : [color=#0000FF]她有一个漂亮的家。(tā yǒu yī gè piào liàng de jiā)[/color] [color=#008000](Elle a une jolie maison.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Questions en Chinois[/color][/font_size]
+
+Poser des questions en chinois peut se faire de différentes manières, les deux principales étant l'utilisation de la particule interrogative [b]吗 (ma)[/b] ou par inversion du sujet et du verbe.
+
+[b]a) Utilisation de 吗 (ma)[/b]
+[indent]Pour transformer une phrase affirmative en question, il suffit d'ajouter 吗 à la fin de la phrase.
+
+[code]
+你是老师。(nǐ shì lǎo shī)
+Tu es professeur.
+你是老师吗？(nǐ shì lǎo shī ma)
+Es-tu professeur ?
+[/code]
+
+[i]Exemple : [color=#0000FF]你喜欢吃米饭吗？(nǐ xǐ huān chī mǐ fàn ma?)[/color] [color=#008000](Aimes-tu manger du riz ?)[/color][/i][/indent]
+
+[b]b) Questions avec pronoms interrogatifs[/b]
+[indent]Les pronoms interrogatifs tels que 谁 (shéi – qui), 什么 (shén me – quoi), 哪个 (nǎ gè – lequel), et 为什么 (wèi shén me – pourquoi) se placent à l'endroit où l'information est demandée.
+
+[code]
+你叫什么名字？(nǐ jiào shén me míng zì?)
+Comment t'appelles-tu ?
+为什么你不来？(wèi shén me nǐ bù lái?)
+Pourquoi ne viens-tu pas ?
+[/code]
+
+[i]Exemple : [color=#0000FF]他在做什么？(tā zài zuò shén me?)[/color] [color=#008000](Que fait-il ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Les particules modales[/color][/font_size]
+
+Les particules modales (语气助词 yǔ qì zhù cí) sont courantes en chinois et sont utilisées pour exprimer des nuances de ton ou d'émotion dans une phrase.
+
+[indent][code]
+吧 (ba) – Utilisé pour suggérer ou adoucir une phrase.
+Exemple : 走吧。(zǒu ba) – Allons-y.
+呢 (ne) – Utilisé pour demander ou pour indiquer que quelque chose continue.
+Exemple : 你呢？(nǐ ne?) – Et toi ?
+了 (le) – Indique un changement ou une action accomplie.
+Exemple : 我吃了。(wǒ chī le) – J'ai mangé.
+[/code]
+
+[i]Exemple : [color=#0000FF]我们走吧。(wǒ men zǒu ba)[/color] [color=#008000](Allons-y.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La structure de base est Sujet-Verbe-Objet (SVO).
+[color=#FF0000]2.[/color] Les pronoms personnels ne varient pas selon le genre.
+[color=#FF0000]3.[/color] Les adjectifs se placent avant les noms qu'ils modifient.
+[color=#FF0000]4.[/color] Les questions peuvent être formées avec 吗 (ma) ou des pronoms interrogatifs.
+[color=#FF0000]5.[/color] Les particules modales ajoutent des nuances de ton et d'émotion.[/indent]
+
+[center][font_size=18][color=#808080]掌握这些基本结构，你的中文会更加流利和自然! (zhǎng wò zhè xiē jī běn jié gòu, nǐ de zhōng wén huì gèng jiā liú lì hé zì rán!)[/color][/font_size][/center]

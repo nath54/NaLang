@@ -3,18 +3,22 @@
         "es": "Naturaleza",
         "fr": "Nature",
         "en": "Nature",
-        "cn": "自然 ziran",
+        "cn": "自然 (ziran)",
         "de": "Natur",
-        "ja": "自然 shizen"
+        "ja": "自然 (shizen)",
+        "kr": "자연 (jayeon)",
+        "ru": "Природа (priroda)"
     },
-    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
     "elements": [{
             "es": ["Árbol"],
             "fr": ["Arbre"],
             "en": ["Tree"],
             "cn": ["树", "shu"],
             "de": ["Baum"],
-            "ja": ["木", "ki"]
+            "ja": ["木", "ki"],
+            "kr": ["나무", "namu"],
+            "ru": ["Дерево", "derevo"]
         },
         {
             "es": ["Bosque"],
@@ -22,7 +26,9 @@
             "en": ["Forest"],
             "cn": ["森林", "sen lin"],
             "de": ["Wald"],
-            "ja": ["森", "mori"]
+            "ja": ["森", "mori"],
+            "kr": ["숲", "sup"],
+            "ru": ["Лес", "les"]
         },
         {
             "es": ["Hoja"],
@@ -30,7 +36,9 @@
             "en": ["Leaf"],
             "cn": ["叶子", "ye zi"],
             "de": ["Blatt"],
-            "ja": ["葉", "ha"]
+            "ja": ["葉", "ha"],
+            "kr": ["잎", "ip"],
+            "ru": ["Лист", "list"]
         },
         {
             "es": ["Flor"],
@@ -38,7 +46,9 @@
             "en": ["Flower"],
             "cn": ["花", "hua"],
             "de": ["Blume"],
-            "ja": ["花", "hana"]
+            "ja": ["花", "hana"],
+            "kr": ["꽃", "kkot"],
+            "ru": ["Цветок", "tsvetok"]
         },
         {
             "es": ["Río"],
@@ -46,7 +56,9 @@
             "en": ["River"],
             "cn": ["河", "he"],
             "de": ["Fluss"],
-            "ja": ["川", "kawa"]
+            "ja": ["川", "kawa"],
+            "kr": ["강", "gang"],
+            "ru": ["Река", "reka"]
         },
         {
             "es": ["Montaña"],
@@ -54,7 +66,9 @@
             "en": ["Mountain"],
             "cn": ["山", "shan"],
             "de": ["Berg"],
-            "ja": ["山", "yama"]
+            "ja": ["山", "yama"],
+            "kr": ["산", "san"],
+            "ru": ["Гора", "gora"]
         },
         {
             "es": ["Lago"],
@@ -62,7 +76,9 @@
             "en": ["Lake"],
             "cn": ["湖", "hu"],
             "de": ["See"],
-            "ja": ["湖", "mizuumi"]
+            "ja": ["湖", "mizuumi"],
+            "kr": ["호수", "hosu"],
+            "ru": ["Озеро", "ozero"]
         },
         {
             "es": ["Playa"],
@@ -70,7 +86,9 @@
             "en": ["Beach"],
             "cn": ["海滩", "hai tan"],
             "de": ["Strand"],
-            "ja": ["ビーチ bii chi", "浜 hama"]
+            "ja": ["ビーチ bii chi", "浜 hama"],
+            "kr": ["해변", "haebyeon"],
+            "ru": ["Пляж", "plyazh"]
         },
         {
             "es": ["Mar"],
@@ -78,7 +96,9 @@
             "en": ["Sea"],
             "cn": ["海", "hai"],
             "de": ["Meer"],
-            "ja": ["海", "umi"]
+            "ja": ["海", "umi"],
+            "kr": ["바다", "bada"],
+            "ru": ["Море", "more"]
         },
         {
             "es": ["Océano"],
@@ -86,7 +106,9 @@
             "en": ["Ocean"],
             "cn": ["大海", "da hai"],
             "de": ["Ozean"],
-            "ja": ["海洋", "kaiyou"]
+            "ja": ["海洋 kaiyou"],
+            "kr": ["대양 daeyang"],
+            "ru": ["Океан okean"]
         },
         {
             "es": ["Desierto"],
@@ -94,7 +116,9 @@
             "en": ["Desert"],
             "cn": ["沙漠", "sha mo"],
             "de": ["Wüste"],
-            "ja": ["砂漠", "sabaku"]
+            "ja": ["砂漠", "sabaku"],
+            "kr": ["사막", "samak"],
+            "ru": ["Пустыня", "pustynya"]
         },
         {
             "es": ["Prado"],
@@ -102,7 +126,9 @@
             "en": ["Meadow"],
             "cn": ["草地", "cao di"],
             "de": ["Wiese"],
-            "ja": ["草地", "kusachi"]
+            "ja": ["草地", "kusachi"],
+            "kr": ["초원", "chowon"],
+            "ru": ["луг", "lug"]
         },
         {
             "es": ["Campo"],
@@ -110,7 +136,9 @@
             "en": ["Field"],
             "cn": ["田野", "tian ye"],
             "de": ["Feld"],
-            "ja": ["野原", "nohara"]
+            "ja": ["野原", "nohara"],
+            "kr": ["들판", "deulpan"],
+            "ru": ["Поле", "pole"]
         },
         {
             "es": ["Isla"],
@@ -118,7 +146,9 @@
             "en": ["Island"],
             "cn": ["岛", "dao"],
             "de": ["Insel"],
-            "ja": ["島", "shima"]
+            "ja": ["島", "shima"],
+            "kr": ["섬", "seom"],
+            "ru": ["Остров", "ostrov"]
         },
         {
             "es": ["Cascada"],
@@ -126,7 +156,9 @@
             "en": ["Waterfall"],
             "cn": ["瀑布", "pu bu"],
             "de": ["Wasserfall"],
-            "ja": ["滝", "taki"]
+            "ja": ["滝", "taki"],
+            "kr": ["폭포", "pokpo"],
+            "ru": ["Водопад", "vodopad"]
         },
         {
             "es": ["Nube"],
@@ -134,7 +166,9 @@
             "en": ["Cloud"],
             "cn": ["云", "yun"],
             "de": ["Wolke"],
-            "ja": ["雲", "kumo"]
+            "ja": ["雲", "kumo"],
+            "kr": ["구름", "gureum"],
+            "ru": ["Облако", "oblako"]
         },
         {
             "es": ["Cielo"],
@@ -142,7 +176,9 @@
             "en": ["Sky"],
             "cn": ["天空", "tian kong"],
             "de": ["Himmel"],
-            "ja": ["空", "sora"]
+            "ja": ["空", "sora"],
+            "kr": ["하늘", "haneul"],
+            "ru": ["Небо", "nebo"]
         },
         {
             "es": ["Sol"],
@@ -150,7 +186,9 @@
             "en": ["Sun"],
             "cn": ["太阳", "tai yang"],
             "de": ["Sonne"],
-            "ja": ["太陽", "taiyou"]
+            "ja": ["太陽", "taiyou"],
+            "kr": ["태양", "taeyang"],
+            "ru": ["Солнце", "solntse"]
         },
         {
             "es": ["Luna"],
@@ -158,7 +196,9 @@
             "en": ["Moon"],
             "cn": ["月亮", "yue liang"],
             "de": ["Mond"],
-            "ja": ["月", "tsuki"]
+            "ja": ["月", "tsuki"],
+            "kr": ["달", "dal"],
+            "ru": ["Луна", "luna"]
         },
         {
             "es": ["Estrella"],
@@ -166,7 +206,9 @@
             "en": ["Star"],
             "cn": ["星星", "xing xing"],
             "de": ["Stern"],
-            "ja": ["星", "hoshi"]
+            "ja": ["星", "hoshi"],
+            "kr": ["별", "byeol"],
+            "ru": ["Звезда", "zvezda"]
         },
         {
             "es": ["Roca"],
@@ -174,7 +216,9 @@
             "en": ["Rock"],
             "cn": ["岩石", "yan shi"],
             "de": ["Felsen"],
-            "ja": ["岩", "iwa"]
+            "ja": ["岩", "iwa"],
+            "kr": ["바위", "bawi"],
+            "ru": ["Скала", "skala"]
         },
         {
             "es": ["Piedra"],
@@ -182,7 +226,9 @@
             "en": ["Stone"],
             "cn": ["石头", "shi tou"],
             "de": ["Stein"],
-            "ja": ["石", "ishi"]
+            "ja": ["石", "ishi"],
+            "kr": ["돌", "dol"],
+            "ru": ["Камень", "kamen"]
         },
         {
             "es": ["Arena"],
@@ -190,7 +236,9 @@
             "en": ["Sand"],
             "cn": ["沙子", "sha zi"],
             "de": ["Sand"],
-            "ja": ["砂", "suna"]
+            "ja": ["砂", "suna"],
+            "kr": ["모래", "morae"],
+            "ru": ["Песок", "pesok"]
         },
         {
             "es": ["Tierra"],
@@ -198,7 +246,9 @@
             "en": ["Earth", "Soil", "Ground"],
             "cn": ["土地", "tu di"],
             "de": ["Erde"],
-            "ja": ["地球", "⼟", "chikyuu", "tsuchi"]
+            "ja": ["地球", "土", "chikyuu", "tsuchi"],
+            "kr": ["땅", "ttang"],
+            "ru": ["Земля", "zemlya"]
         },
         {
             "es": ["Hierba"],
@@ -206,7 +256,9 @@
             "en": ["Grass"],
             "cn": ["草", "cao"],
             "de": ["Gras"],
-            "ja": ["草", "kusa"]
+            "ja": ["草", "kusa"],
+            "kr": ["잔디", "jandi"],
+            "ru": ["Трава", "trava"]
         },
         {
             "es": ["Animales"],
@@ -214,7 +266,9 @@
             "en": ["Animals"],
             "cn": ["动物", "dong wu"],
             "de": ["Tiere"],
-            "ja": ["動物", "doubutsu"]
+            "ja": ["動物", "doubutsu"],
+            "kr": ["동물", "dongmul"],
+            "ru": ["Животные", "zhivotnye"]
         },
         {
             "es": ["Insectos"],
@@ -222,7 +276,9 @@
             "en": ["Insects"],
             "cn": ["昆虫", "kun chong"],
             "de": ["Insekten"],
-            "ja": ["昆虫", "konchuu"]
+            "ja": ["昆虫", "konchuu"],
+            "kr": ["곤충", "gonchung"],
+            "ru": ["Насекомые", "nasekomye"]
         },
         {
             "es": ["Aire"],
@@ -230,7 +286,9 @@
             "en": ["Air"],
             "cn": ["空气", "kong qi"],
             "de": ["Luft"],
-            "ja": ["空気", "kuuki"]
+            "ja": ["空気", "kuuki"],
+            "kr": ["공기", "gonggi"],
+            "ru": ["Воздух", "vozdukh"]
         },
         {
             "es": ["Fuego"],
@@ -238,7 +296,9 @@
             "en": ["Fire"],
             "cn": ["火", "huo"],
             "de": ["Feuer"],
-            "ja": ["火", "hi"]
+            "ja": ["火", "hi"],
+            "kr": ["불", "bul"],
+            "ru": ["Огонь", "ogon"]
         },
         {
             "es": ["Agua"],
@@ -246,7 +306,9 @@
             "en": ["Water"],
             "cn": ["水", "shui"],
             "de": ["Wasser"],
-            "ja": ["水", "mizu"]
+            "ja": ["水", "mizu"],
+            "kr": ["물", "mul"],
+            "ru": ["Вода", "voda"]
         },
         {
             "es": ["Naturaleza"],
@@ -254,7 +316,9 @@
             "en": ["Nature"],
             "cn": ["自然", "ziran"],
             "de": ["Natur"],
-            "ja": ["自然", "shizen"]
+            "ja": ["自然", "shizen"],
+            "kr": ["자연", "jayeon"],
+            "ru": ["Природа", "priroda"]
         }
     ]
 }

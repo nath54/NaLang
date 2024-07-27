@@ -1,1 +1,96 @@
- 
+[font_size=30][center][b][color=#0000FF]Les caractères chinois : Bases et ordre des traits[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'apprentissage des caractères chinois est une étape essentielle pour maîtriser la langue chinoise. Contrairement aux alphabets utilisés dans les langues occidentales, les caractères chinois sont des logogrammes, ce qui signifie que chaque caractère représente une idée ou un mot entier. Pour écrire correctement ces caractères, il est crucial de suivre l'ordre des traits.
+
+[font_size=24][color=#4B0082]1. Structure des caractères chinois[/color][/font_size]
+
+Les caractères chinois sont composés de différents éléments appelés traits. Apprendre les mécanismes de base qui forment ces caractères est la première étape pour comprendre la langue écrite.
+
+[b]a) Radicaux[/b]
+[indent]Les radicaux sont les éléments de base des caractères chinois. Ils fournissent souvent des indices sur la signification ou la prononciation des caractères.
+
+[code]
+人 (rén) [color=#008000](personne)[/color]
+口 (kǒu) [color=#008000](bouche)[/color]
+水 (shuǐ) [color=#008000](eau)[/color]
+木 (mù) [color=#008000](bois)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]好 (hǎo)[/color], qui combine 女 (nǚ, femme) et 子 (zǐ, enfant), signifie "bien" ou "bon".[/i][/indent]
+
+[b]b) Composants phonétiques et sémantiques[/b]
+[indent]Les composants phonétiques suggèrent la prononciation, tandis que les composants sémantiques donnent des indices sur la signification.
+
+[code]
+妈 (mā) [color=#008000](maman)[/color] → 女 (nǚ, femme) + 马 (mǎ, cheval, composant phonétique)
+休 (xiū) [color=#008000](se reposer)[/color] → 人 (rén, personne) + 木 (mù, bois, composant sémantique)
+[/code]
+
+[i]Exemple : [color=#0000FF]清 (qīng)[/color], qui combine 氵(shuǐ, eau) et 青 (qīng, bleu-vert), signifie "clair" ou "pur".[/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les traits de base dans l'écriture chinoise[/color][/font_size]
+
+Chaque caractère est composé de traits simples ou combinés. Voici les traits de base que l'on rencontre le plus fréquemment :
+
+[indent][code]
+[center]一 (yī) [color=#008000](trait horizontal)[/color]
+丨 (shù) [color=#008000](trait vertical)[/color]
+丿 (piě) [color=#008000](trait oblique)[/color]
+丶 (diǎn) [color=#008000](point)[/color]
+乛 (zhé) [color=#008000](crochet)[/color]
+[/center]
+[/code]
+
+[i]Exemple : Le caractère [color=#0000FF]木 (mù)[/color] est composé de deux traits verticaux et deux traits horizontaux.[/i][/indent]
+
+[font_size=24][color=#4B0082]3. Ordre des traits : règles générales[/color][/font_size]
+
+Pour écrire correctement les caractères chinois, il est essentiel de suivre un ordre strict des traits. Voici quelques règles générales :
+
+[indent]• De haut en bas :
+[color=#0000FF]三 (sān)[/color] [color=#008000](trois)[/color] : 1. 一 (yī), 2. 一 (yī), 3. 一 (yī)
+
+- De gauche à droite :
+[color=#0000FF]川 (chuān)[/color] [color=#008000](rivière)[/color] : 1. 丨 (shù), 2. 丨 (shù), 3. 丨 (shù)
+
+- Les traits horizontaux avant les traits verticaux :
+[color=#0000FF]十 (shí)[/color] [color=#008000](dix)[/color] : 1. 一 (yī), 2. 丨 (shù)
+
+- Les traits obliques gauche avant les traits obliques droite :
+[color=#0000FF]人 (rén)[/color] [color=#008000](personne)[/color] : 1. 丿 (piě), 2. 乀 (nà)
+
+- Les traits extérieurs avant les traits intérieurs :
+[color=#0000FF]月 (yuè)[/color] [color=#008000](lune)[/color] : 1. 丨 (shù), 2. 一 (yī), 3. 丨 (shù), 4. 一 (yī)
+
+- Fermeture des cadres :
+[color=#0000FF]日 (rì)[/color] [color=#008000](soleil)[/color] : 1. 一 (yī), 2. 丨 (shù), 3. 一 (héng), 4. 丨 (shù gōu)[/indent]
+
+[font_size=24][color=#4B0082]4. Exemples de caractères avec ordre des traits[/color][/font_size]
+
+Pour mieux comprendre l'ordre des traits, voici quelques exemples de caractères et leur décomposition :
+
+[indent][code]
+明 (míng) [color=#008000](clair, lumineux)[/color]
+1. 日 (rì) [color=#008000](soleil)[/color] : 1. 一 (héng), 2. 丨 (shù), 3. 丨 (shù), 4. 一 (héng)
+2. 月 (yuè) [color=#008000](lune)[/color] : 1. 丨 (shù), 2. 一 (héng), 3. 丨 (shù), 4. 一 (héng)
+
+家 (jiā) [color=#008000](maison, foyer)[/color]
+1. 宀 (mián) [color=#008000](toit avec point)[/color] : 1. 丶 (diǎn), 2. 丿 (tí), 3. 丶 (nà)
+2. 豕 (zhǐ) [color=#008000](cochons)[/color] : 1. 丨 (shù), 2. 丨 (shù), 3. 丿 (piě), 4. 一 (héng), 5. 丨 (shù), 6. 丶 (diǎn), 7. 丶 (diǎn)
+[/code]
+
+[i]Exemple : Le caractère [color=#0000FF]好 (hǎo)[/color] a pour ordre des traits : 1. 丿 (piě), 2. 乀 (nà), 3. 高 (gāo), 4. 丨 (shù), 5. 丿 (piě), 6. 一 (héng)[/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Comprendre les radicaux est essentiel pour saisir la structure des caractères chinois.
+[color=#FF0000]2.[/color] Suivre un ordre précis des traits permet d'écrire les caractères correctement et de manière fluide.
+[color=#FF0000]3.[/color] L'ordre des traits suit des règles logiques : de haut en bas, de gauche à droite, traits extérieurs avant intérieurs, etc.
+[color=#FF0000]4.[/color] Pratiquer régulièrement l'écriture des caractères aide à ancrer ces règles et à améliorer votre écriture chinoise.
+[/indent]
+
+[center][font_size=18][color=#808080]记住 (jì zhù) : La pratique rend parfait! Continuez à écrire et bientôt, vous maîtriserez les caractères chinois![/color][/font_size][/center]

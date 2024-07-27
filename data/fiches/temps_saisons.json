@@ -1,180 +1,224 @@
 {
-	"name": {
-		"es": "Clima y temporadas",
-		"fr": "La météo et les saisons",
-		"en": "Weather and Seasons",
-		"cn": "天气和季节 tian qi he ji jie",
-		"de": "Wetter und Jahreszeiten",
-		"ja": "天気と季節 tenki to kisetsu"
-	},
-	"langs": ["es", "fr", "en", "cn", "de", "ja"],
-	"elements": [{
-			"es": ["Las estaciones"],
-			"fr": ["Les saisons"],
-			"en": ["Seasons"],
-			"cn": ["季节", "ji jie"],
-			"de": ["Jahreszeiten"],
-			"ja": ["季節", "kisetsu"]
-		},
-		{
-			"es": ["La primavera"],
-			"fr": ["Le printemps"],
-			"en": ["Spring"],
-			"cn": ["春天", "chun tian"],
-			"de": ["Frühling"],
-			"ja": ["春", "haru"]
-		},
-		{
-			"es": ["El verano"],
-			"fr": ["L’été"],
-			"en": ["Summer"],
-			"cn": ["夏天", "xia tian"],
-			"de": ["Sommer"],
-			"ja": ["夏", "natsu"]
-		},
-		{
-			"es": ["El otoño"],
-			"fr": ["L’automne"],
-			"en": ["Autumn", "Fall"],
-			"cn": ["秋天", "qiu tian"],
-			"de": ["Herbst"],
-			"ja": ["秋", "aki"]
-		},
-		{
-			"es": ["El invierno"],
-			"fr": ["L’hiver"],
-			"en": ["Winter"],
-			"cn": ["冬天", "dong tian"],
-			"de": ["Winter"],
-			"ja": ["冬", "fuyu"]
-		},
-		{
-			"es": ["El tiempo"],
-			"fr": ["Le temps"],
-			"en": ["Weather"],
-			"cn": ["天气", "tian qi"],
-			"de": ["Wetter"],
-			"ja": ["天気", "tenki"]
-		},
-		{
-			"es": ["El clima"],
-			"fr": ["Le climat"],
-			"en": ["Climate"],
-			"cn": ["气候", "qi hou"],
-			"de": ["Klima"],
-			"ja": ["気候", "kikou"]
-		},
-		{
-			"es": ["El pronóstico del tiempo"],
-			"fr": ["Le bulletin météo"],
-			"en": ["Weather forecast"],
-			"cn": ["天气预报", "tian qi yu bao"],
-			"de": ["Wettervorhersage"],
-			"ja": ["天気予報", "tenki yohou"]
-		},
-		{
-			"es": ["¿Qué tiempo hace?"],
-			"fr": ["Quel temps fait-il?"],
-			"en": ["What's the weather like?"],
-			"cn": ["天气怎么样?", "tian qi zen me yang?"],
-			"de": ["Wie ist das Wetter?"],
-			"ja": ["天気はどうですか?", "tenki wa dou desu ka?"]
-		},
-		{
-			"es": ["Hace bueno"],
-			"fr": ["Il fait beau"],
-			"en": ["It's nice"],
-			"cn": ["天气好", "tian qi hao"],
-			"de": ["Es ist schön"],
-			"ja": ["良い天気です", "ii tenki desu"]
-		},
-		{
-			"es": ["Brilla el sol"],
-			"fr": ["Le soleil brille"],
-			"en": ["The sun is shining"],
-			"cn": ["太阳在照耀", "tai yang zai zhao yao"],
-			"de": ["Die Sonne scheint"],
-			"ja": ["太陽が輝いている", "taiyou ga kagayaite iru"]
-		},
-		{
-			"es": ["Tener calor"],
-			"fr": ["Avoir chaud"],
-			"en": ["To be hot"],
-			"cn": ["觉得热", "jue de re"],
-			"de": ["Heiß sein"],
-			"ja": ["暑い", "atsui"]
-		},
-		{
-			"es": ["Sudar"],
-			"fr": ["Suer"],
-			"en": ["To sweat"],
-			"cn": ["出汗", "chu han"],
-			"de": ["Schwitzen"],
-			"ja": ["汗をかく", "ase wo kaku"]
-		},
-		{
-			"es": ["Llueve"],
-			"fr": ["Il pleut"],
-			"en": ["It is raining"],
-			"cn": ["下雨", "xia yu"],
-			"de": ["Es regnet"],
-			"ja": ["雨が降っている", "ame ga futte iru"]
-		},
-		{
-			"es": ["Estar calado", "Estar calada"],
-			"fr": ["Etre trempé", "Etre trempée"],
-			"en": ["To be soaked"],
-			"cn": ["湿透", "shi tou"],
-			"de": ["Durchnässt sein"],
-			"ja": ["びしょ濡れ", "bisho nure"]
-		},
-		{
-			"es": ["Hace viento"],
-			"fr": ["Il y a du vent"],
-			"en": ["It's windy"],
-			"cn": ["有风", "you feng"],
-			"de": ["Es ist windig"],
-			"ja": ["風が強い", "kaze ga tsuyoi"]
-		},
-		{
-			"es": ["Hay niebla"],
-			"fr": ["Il y a du brouillard"],
-			"en": ["It's foggy"],
-			"cn": ["有雾", "you wu"],
-			"de": ["Es ist neblig"],
-			"ja": ["霧がある", "kiri ga aru"]
-		},
-		{
-			"es": ["Nieva"],
-			"fr": ["Il neige"],
-			"en": ["It's snowing"],
-			"cn": ["下雪", "xia xue"],
-			"de": ["Es schneit"],
-			"ja": ["雪が降っている", "yuki ga futte iru"]
-		},
-		{
-			"es": ["Hace frío"],
-			"fr": ["Il fait froid"],
-			"en": ["It's cold"],
-			"cn": ["很冷", "hen leng"],
-			"de": ["Es ist kalt"],
-			"ja": ["寒い", "samui"]
-		},
-		{
-			"es": ["Tener frío"],
-			"fr": ["Avoir froid"],
-			"en": ["To be cold"],
-			"cn": ["觉得冷", "jue de leng"],
-			"de": ["Kalt sein"],
-			"ja": ["寒い", "samui"]
-		},
-		{
-			"es": ["Estar helado", "Estar helada"],
-			"fr": ["Etre gelé", "Etre gelée"],
-			"en": ["To be freezing"],
-			"cn": ["冻僵", "dong jiang"],
-			"de": ["Eingefroren sein"],
-			"ja": ["凍っている", "koori te iru"]
-		}
-	]
+    "name": {
+        "es": "Clima y temporadas",
+        "fr": "La météo et les saisons",
+        "en": "Weather and Seasons",
+        "cn": "天气和季节 (tian qi he ji jie)",
+        "de": "Wetter und Jahreszeiten",
+        "ja": "天気と季節 (tenki to kisetsu)",
+        "kr": "날씨와 계절 (nalssi wa gyejeol)",
+        "ru": "Погода и времена года (pogoda i vremena goda)"
+    },
+    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
+    "elements": [{
+            "es": ["Las estaciones"],
+            "fr": ["Les saisons"],
+            "en": ["Seasons"],
+            "cn": ["季节", "ji jie"],
+            "de": ["Jahreszeiten"],
+            "ja": ["季節", "kisetsu"],
+            "kr": ["계절", "gyejeol"],
+            "ru": ["Сезоны", "sezony"]
+        },
+        {
+            "es": ["La primavera"],
+            "fr": ["Le printemps"],
+            "en": ["Spring"],
+            "cn": ["春天", "chun tian"],
+            "de": ["Frühling"],
+            "ja": ["春", "haru"],
+            "kr": ["봄", "bom"],
+            "ru": ["Весна", "vesna"]
+        },
+        {
+            "es": ["El verano"],
+            "fr": ["L’été"],
+            "en": ["Summer"],
+            "cn": ["夏天", "xia tian"],
+            "de": ["Sommer"],
+            "ja": ["夏", "natsu"],
+            "kr": ["여름", "yeoleum"],
+            "ru": ["Лето", "leto"]
+        },
+        {
+            "es": ["El otoño"],
+            "fr": ["L’automne"],
+            "en": ["Autumn", "Fall"],
+            "cn": ["秋天", "qiu tian"],
+            "de": ["Herbst"],
+            "ja": ["秋", "aki"],
+            "kr": ["가을", "gaeul"],
+            "ru": ["Осень", "osen"]
+        },
+        {
+            "es": ["El invierno"],
+            "fr": ["L’hiver"],
+            "en": ["Winter"],
+            "cn": ["冬天", "dong tian"],
+            "de": ["Winter"],
+            "ja": ["冬", "fuyu"],
+            "kr": ["겨울", "gyeoul"],
+            "ru": ["Зима", "zima"]
+        },
+        {
+            "es": ["El tiempo"],
+            "fr": ["Le temps"],
+            "en": ["Weather"],
+            "cn": ["天气", "tian qi"],
+            "de": ["Wetter"],
+            "ja": ["天気", "tenki"],
+            "kr": ["날씨", "nalssi"],
+            "ru": ["Погода", "pogoda"]
+        },
+        {
+            "es": ["El clima"],
+            "fr": ["Le climat"],
+            "en": ["Climate"],
+            "cn": ["气候", "qi hou"],
+            "de": ["Klima"],
+            "ja": ["気候", "kikou"],
+            "kr": ["기후", "gihu"],
+            "ru": ["Климат", "klimat"]
+        },
+        {
+            "es": ["El pronóstico del tiempo"],
+            "fr": ["Le bulletin météo"],
+            "en": ["Weather forecast"],
+            "cn": ["天气预报", "tian qi yu bao"],
+            "de": ["Wettervorhersage"],
+            "ja": ["天気予報", "tenki yohou"],
+            "kr": ["일기 예보", "ilgi yebo"],
+            "ru": ["Прогноз погоды", "prognoz pogody"]
+        },
+        {
+            "es": ["¿Qué tiempo hace?"],
+            "fr": ["Quel temps fait-il?"],
+            "en": ["What's the weather like?"],
+            "cn": ["天气怎么样?", "tian qi zen me yang?"],
+            "de": ["Wie ist das Wetter?"],
+            "ja": ["天気はどうですか?", "tenki wa dou desu ka?"],
+            "kr": ["날씨가 어때요?", "nalssiga eottaeyo?"],
+            "ru": ["Какая погода?", "kakaya pogoda?"]
+        },
+        {
+            "es": ["Hace bueno"],
+            "fr": ["Il fait beau"],
+            "en": ["It's nice"],
+            "cn": ["天气好", "tian qi hao"],
+            "de": ["Es ist schön"],
+            "ja": ["良い天気です", "ii tenki desu"],
+            "kr": ["좋은 날씨예요", "joeun nalssiyeyo"],
+            "ru": ["Хорошая погода", "khoroshaya pogoda"]
+        },
+        {
+            "es": ["Brilla el sol"],
+            "fr": ["Le soleil brille"],
+            "en": ["The sun is shining"],
+            "cn": ["太阳在照耀", "tai yang zai zhao yao"],
+            "de": ["Die Sonne scheint"],
+            "ja": ["太陽が輝いている", "taiyou ga kagayaite iru"],
+            "kr": ["해가 빛나요", "haega binnayo"],
+            "ru": ["Солнце светит", "solntse svetit"]
+        },
+        {
+            "es": ["Tener calor"],
+            "fr": ["Avoir chaud"],
+            "en": ["To be hot"],
+            "cn": ["觉得热", "jue de re"],
+            "de": ["Heiß sein"],
+            "ja": ["暑い", "atsui"],
+            "kr": ["덥다", "deobda"],
+            "ru": ["Жарко", "zharko"]
+        },
+        {
+            "es": ["Sudar"],
+            "fr": ["Suer"],
+            "en": ["To sweat"],
+            "cn": ["出汗", "chu han"],
+            "de": ["Schwitzen"],
+            "ja": ["汗をかく", "ase wo kaku"],
+            "kr": ["땀을 흘리다", "ttameul heullida"],
+            "ru": ["Потеть", "potet"]
+        },
+        {
+            "es": ["Llueve"],
+            "fr": ["Il pleut"],
+            "en": ["It is raining"],
+            "cn": ["下雨", "xia yu"],
+            "de": ["Es regnet"],
+            "ja": ["雨が降っている", "ame ga futte iru"],
+            "kr": ["비가 와요", "biga wayo"],
+            "ru": ["Идет дождь", "idet dozhd"]
+        },
+        {
+            "es": ["Estar calado", "Estar calada"],
+            "fr": ["Etre trempé", "Etre trempée"],
+            "en": ["To be soaked"],
+            "cn": ["湿透", "shi tou"],
+            "de": ["Durchnässt sein"],
+            "ja": ["びしょ濡れ", "bisho nure"],
+            "kr": ["흠뻑 젖다", "heumbeok jeotda"],
+            "ru": ["Промокнуть до нитки", "promoknut do nitki"]
+        },
+        {
+            "es": ["Hace viento"],
+            "fr": ["Il y a du vent"],
+            "en": ["It's windy"],
+            "cn": ["有风", "you feng"],
+            "de": ["Es ist windig"],
+            "ja": ["風が強い", "kaze ga tsuyoi"],
+            "kr": ["바람이 불어요", "baram-i bul-eoyo"],
+            "ru": ["Ветрено", "vetrino"]
+        },
+        {
+            "es": ["Hay niebla"],
+            "fr": ["Il y a du brouillard"],
+            "en": ["It's foggy"],
+            "cn": ["有雾", "you wu"],
+            "de": ["Es ist neblig"],
+            "ja": ["霧がある", "kiri ga aru"],
+            "kr": ["안개가 꼈어요", "angaega kkyeosseoyo"],
+            "ru": ["Туманно", "tumanno"]
+        },
+        {
+            "es": ["Nieva"],
+            "fr": ["Il neige"],
+            "en": ["It's snowing"],
+            "cn": ["下雪", "xia xue"],
+            "de": ["Es schneit"],
+            "ja": ["雪が降っている", "yuki ga futte iru"],
+            "kr": ["눈이 와요", "nuni wayo"],
+            "ru": ["Идет снег", "idet sneg"]
+        },
+        {
+            "es": ["Hace frío"],
+            "fr": ["Il fait froid"],
+            "en": ["It's cold"],
+            "cn": ["很冷", "hen leng"],
+            "de": ["Es ist kalt"],
+            "ja": ["寒い", "samui"],
+            "kr": ["추워요", "chuwoyo"],
+            "ru": ["Холодно", "kholodno"]
+        },
+        {
+            "es": ["Tener frío"],
+            "fr": ["Avoir froid"],
+            "en": ["To be cold"],
+            "cn": ["觉得冷", "jue de leng"],
+            "de": ["Kalt sein"],
+            "ja": ["寒い", "samui"],
+            "kr": ["춥다", "chupda"],
+            "ru": ["Замерзать", "zamerzat"]
+        },
+        {
+            "es": ["Estar helado", "Estar helada"],
+            "fr": ["Etre gelé", "Etre gelée"],
+            "en": ["To be freezing"],
+            "cn": ["冻僵", "dong jiang"],
+            "de": ["Eingefroren sein"],
+            "ja": ["凍っている", "koori te iru"],
+            "kr": ["얼어붙다", "eoreobutda"],
+            "ru": ["Замерзнуть", "zamerznut"]
+        }
+    ]
 }

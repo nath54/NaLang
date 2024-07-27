@@ -1,1 +1,105 @@
- 
+[font_size=30][center][b][color=#0000FF]Permission en chinois : le verbe modal 可以 (kě yǐ)[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, exprimer la permission se fait généralement à l'aide du verbe modal "可以" (kě yǐ). Ce verbe est très polyvalent et s'emploie pour indiquer qu'une action est permise ou acceptable. Comprendre et utiliser "可以" (kě yǐ) correctement est essentiel pour bien communiquer dans diverses situations de la vie quotidienne.
+
+[font_size=24][color=#4B0082]1. Utilisation de 可以 (kě yǐ)[/color][/font_size]
+
+L'adverbe modal "可以" (kě yǐ) peut être employé de plusieurs manières pour exprimer différentes nuances de permission.
+
+[b]a) Demander la permission[/b]
+[indent]Pour demander la permission de faire quelque chose, on utilise "可以" (kě yǐ) suivi du verbe d'action.
+
+[code]
+我可以出去吗？ (wǒ kě yǐ chū qù ma?) [color=#008000](Puis-je sortir ?)[/color]
+我可以问一个问题吗？ (wǒ kě yǐ wèn yī gè wèn tí ma?) [color=#008000](Puis-je poser une question ?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我可以坐这里吗？[/color] (wǒ kě yǐ zuò zhè lǐ ma?) [color=#008000](Puis-je m'asseoir ici ?)[/color][/i]
+
+La structure est : [b]sujet + 可以 (kě yǐ) + verbe + 吗 (ma)[/b] pour former une question.[/indent]
+
+[b]b) Accorder la permission[/b]
+[indent]Pour donner la permission, on répond simplement en utilisant "可以" (kě yǐ) suivi du verbe ou en répétant la structure initiale.
+
+[code]
+可以。 (kě yǐ) [color=#008000](Oui, tu peux.)[/color]
+你可以走了。 (nǐ kě yǐ zǒu le.) [color=#008000](Tu peux partir.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你可以用我的电脑。[/color] (nǐ kě yǐ yòng wǒ de diàn nǎo.) [color=#008000](Tu peux utiliser mon ordinateur.)[/color][/i][/indent]
+
+[b]c) Refuser la permission[/b]
+[indent]Pour refuser, on utilise le mot "不" (bù) avant "可以" (kě yǐ), ou simplement "不行" (bù xíng) pour dire "non, ce n'est pas possible".
+
+[code]
+不可以。 (bù kě yǐ) [color=#008000](Non, tu ne peux pas.)[/color]
+这里不可以停车。 (zhè lǐ bù kě yǐ tíng chē.) [color=#008000](Il est interdit de se garer ici.)[/color]
+不行。 (bù xíng) [color=#008000](Non, ce n'est pas possible.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]对不起，你不可以用我的手机。[/color] (duì bù qǐ, nǐ bù kě yǐ yòng wǒ de shǒu jī.) [color=#008000](Désolé, tu ne peux pas utiliser mon téléphone.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Position de 可以 (kě yǐ) dans la phrase[/color][/font_size]
+
+"可以" (kě yǐ) se place généralement après le sujet et avant le verbe principal :
+
+[indent]• Sujet + 可以 (kě yǐ) + verbe + objet
+
+[code]
+你可以开灯。 (nǐ kě yǐ kāi dēng.) [color=#008000](Tu peux allumer la lumière.)[/color]
+我们可以开始了。 (wǒ men kě yǐ kāi shǐ le.) [color=#008000](Nous pouvons commencer.)[/color]
+[/code][/indent]
+
+Quand on utilise un adverbe de négation comme "不" (bù), il se place avant "可以" :
+
+[indent]• Sujet + 不可以 (bù kě yǐ) + verbe + objet
+
+[code]
+这里不可以吃东西。 (zhè lǐ bù kě yǐ chī dōng xī.) [color=#008000](Il est interdit de manger ici.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你现在不可以出去。[/color] (nǐ xiàn zài bù kě yǐ chū qù.) [color=#008000](Tu ne peux pas sortir maintenant.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Exprimer des permissions futures et conditionnelles[/color][/font_size]
+
+[b]a) Permission future[/b]
+[indent]Utiliser "会" (huì) avant "可以" pour indiquer que la permission sera accordée dans le futur.
+
+[code]
+明天你会可以参加。 (míng tiān nǐ huì kě yǐ cān jiā.) [color=#008000](Demain, tu pourras participer.)[/color]
+[/code]
+
+[b]b) Permission conditionnelle[/b]
+[indent]Pour exprimer des conditions, utilisez "如果" (rú guǒ) suivi de la condition, puis "可以" (kě yǐ).
+
+[code]
+如果你完成作业，你可以玩游戏。 (rú guǒ nǐ wán chéng zuò yè, nǐ kě yǐ wán yóu xì.) [color=#008000](Si tu finis tes devoirs, tu peux jouer aux jeux vidéo.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]4. Nuances de 可以 (kě yǐ) et autres verbes modaux[/color][/font_size]
+
+Pour des nuances différentes de permission, "能" (néng) et "允许" (yǔn xǔ) peuvent aussi être utilisés.
+
+[indent][b]能 (néng)[/b] se focalise davantage sur la capacité physique ou la possibilité :
+[code]
+我能帮你。 (wǒ néng bāng nǐ.) [color=#008000](Je peux t'aider.)[/color]
+[/code]
+
+[b]允许 (yǔn xǔ)[/b] est plus formel et signifie "permettre" ou "autoriser":
+[code]
+学校不允许抽烟。 (xué xiào bù yǔn xǔ chōu yān.) [color=#008000](L'école interdit de fumer.)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] "可以" (kě yǐ) est utilisé pour exprimer la permission en chinois.
+[color=#FF0000]2.[/color] La structure typique est : Sujet + 可以 (kě yǐ) + verbe + objet pour affirmer, ou + 吗 (ma) pour interroger.
+[color=#FF0000]3.[/color] Utiliser "不" (bù) ou "不行" (bù xíng) pour refuser la permission.
+[color=#FF0000]4.[/color] Les permissions futures et conditionnelles peuvent être exprimées avec "会" (huì) et "如果" (rú guǒ).
+[color=#FF0000]5.[/color] D'autres verbes modaux comme "能" (néng) et "允许" (yǔn xǔ) peuvent être utilisés pour des nuances spécifiques.[/indent]
+
+[center][font_size=18][color=#808080]正确使用“可以”，你会说得更自然、更流利! (zhèng què shǐ yòng “kě yǐ”, nǐ huì shuō dé gèng zì rán, gèng liú lì!)[/color][/font_size][/center]

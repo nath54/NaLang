@@ -1,1 +1,79 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Phrases Conditionnelles en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les phrases conditionnelles en chinois permettent d'exprimer des conditions et leurs conséquences. Elles sont souvent utilisées pour parler de possibilités, d'hypothèses, ou d'événements futurs et présentent des structures différentes comparées au français. Comprendre ces structures est essentiel pour utiliser correctement le chinois dans des contextes conditionnels.
+
+[font_size=24][color=#4B0082]1. Les différents types de phrases conditionnelles[/color][/font_size]
+
+En chinois, comme en français, il existe plusieurs types de phrases conditionnelles. Les plus courantes sont :
+
+[b]a) Conditionnelle réelle[/b]
+[indent]Cette forme est utilisée pour exprimer une condition réaliste qui peut se réaliser. En général, on utilise le mot [color=#FF0000]如果[/color] (rúguǒ, "si") suivi d'une condition, puis d'une conséquence.
+
+[code]
+如果你努力学习，你会成功。 (rúguǒ nǐ nǔlì xuéxí, nǐ huì chénggōng.)
+[color=#008000](Si tu étudies diligemment, tu réussiras.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]如果天气好，我们去公园。[/color] [color=#008000](Si le temps est bon, nous irons au parc.)[/color][/i][/indent]
+
+[b]b) Conditionnelle hypothétique[/b]
+[indent]Pour exprimer une situation hypothétique ou irréaliste, on utilise souvent [color=#FF0000]要是[/color] (yàoshì, "si jamais") ou [color=#FF0000]如果[/color] avec le verbe au passé ou des structures spécifiques.
+
+[code]
+要是我有很多钱，我就去旅行。 (yàoshì wǒ yǒu hěnduō qián, wǒ jiù qù lǚxíng.)
+[color=#008000](Si j'avais beaucoup d'argent, je partirais en voyage.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]如果我是你，我会接受那个工作。[/color] [color=#008000](Si j'étais toi, j'accepterais ce travail.)[/color][/i][/indent]
+
+[b]c) Conditionnelle irréelle[/b]
+[indent]Elle est utilisée pour parler de conditions qui n'ont pas été remplies dans le passé et des conséquences de cette condition non remplie. On utilise souvent [color=#FF0000]如果[/color] ou [color=#FF0000]要是[/color] avec des indications temporelles.
+
+[code]
+要是你昨天来了，我们就见面了。 (yàoshì nǐ zuótiān lái le, wǒmen jiù jiànmiàn le.)
+[color=#008000](Si tu étais venu hier, nous nous serions rencontrés.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]如果他告诉我，我就不会离开。[/color] [color=#008000](S'il me l'avait dit, je ne serais pas parti.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Structures supplémentaires[/color][/font_size]
+
+Quelques autres structures importantes à noter dans la formation de phrases conditionnelles :
+
+[indent]• [color=#FF0000]只要... 就...[/color] (zhǐyào... jiù...) - Une structure pour dire "tant que... alors..."
+[color=#0000FF]只要你说实话，我就相信你。[/color] [color=#008000](Tant que tu dis la vérité, alors je te croirai.)[/color]
+
+- [color=#FF0000]无论... 都...[/color] (wúlùn... dōu...) - Utilisé pour exprimer "peu importe... toujours..."
+[color=#0000FF]无论他怎么说，我都不改变主意。[/color] [color=#008000](Peu importe ce qu'il dit, je ne changerai pas d'avis.)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Inversion sujet/verbe[/color][/font_size]
+
+Une note importante : contrairement au français, l'inversion sujet/verbe n'est pas nécessaire en chinois pour les phrases conditionnelles. L'ordre des mots reste généralement sujet, condition, conséquence.
+
+[indent][code]
+如果你在这里，我们会很高兴。 (rúguǒ nǐ zài zhèlǐ, wǒmen huì hěn gāoxìng.)
+[color=#008000](Si tu es ici, nous serons très contents.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]4. Connexions avec autres structures[/color][/font_size]
+
+Les phrases conditionnelles peuvent se combiner avec d'autres structures grammaticales pour plus de précision :
+
+[indent]• Utilisation avec des adverbes de condition : [color=#FF0000]即使[/color] (jíshǐ, "même si")
+[color=#0000FF]即使下雨，我们也要去。[/color] [color=#008000](Même s'il pleut, nous allons y aller.)[/color]
+
+- Utilisation avec des exceptions : [color=#FF0000]除非[/color] (chúfēi, "à moins que")
+[color=#0000FF]除非他道歉，不然我不原谅他。[/color] [color=#008000](À moins qu'il s'excuse, je ne lui pardonnerai pas.)[/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les mots clés comme 如果 (rúguǒ), 要是 (yàoshì), et 只要 (zhǐyào) sont essentiels pour former des phrases conditionnelles.
+[color=#FF0000]2.[/color] La condition et la conséquence suivent généralement un ordre logique sans inversion suj/verbe.
+[color=#FF0000]3.[/color] Il existe des variantes pour exprimer différentes nuances de conditions : réelles, hypothétiques, et irréelles.
+[color=#FF0000]4.[/color] Les phrases conditionnelles peuvent se combiner avec d'autres structures pour ajouter plus de précision.[/indent]
+
+[center][font_size=18][color=#808080]掌握这些条件句，你的中文水平将大大提高！(zhǎngwò zhèxiē tiáojiàn jù, nǐ de zhōngwén shuǐpíng jiāng dàdà tígāo!)[/color][/font_size][/center]

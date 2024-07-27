@@ -1,1 +1,105 @@
- 
+[font_size=30][center][b][color=#0000FF]Expressions Temporelles des Habitudes en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, comme dans de nombreuses langues, il est crucial de bien utiliser les expressions temporelles lorsqu'on parle de ses habitudes. Les expressions suivies peuvent vous aider à indiquer la fréquence de vos actions quotidiennes et à rendre vos conversations plus naturelles et détaillées.
+
+[font_size=24][color=#4B0082]1. Les expressions de fréquence[/color][/font_size]
+
+En chinois, plusieurs termes et expressions permettent de parler de la fréquence d'une action :
+
+[b]a) 惯常的 (guàn cháng de) - Habitué[/b]
+[indent]Cet adjectif est couramment utilisé pour désigner quelque chose de régulier ou d'habituel.
+
+[code]
+我惯常早上六点起床。 [color=#008000](wǒ guàn cháng zǎo shang liù diǎn qǐ chuáng) - (J'ai l'habitude de me lever à six heures du matin.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我惯常读书前喝一杯咖啡。[/color] [color=#008000](wǒ guàn cháng dú shū qián hē yī bēi kā fēi) - (J'ai l'habitude de boire une tasse de café avant de lire.)[/color][/i][/indent]
+
+[b]b) 经常 (jīng cháng) - Souvent[/b]
+[indent]Cette expression indique une action qui se produit fréquemment.
+
+[code]
+我经常去跑步。 [color=#008000](wǒ jīng cháng qù pǎo bù) - (Je cours souvent.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他经常在周末旅行。[/color] [color=#008000](tā jīng cháng zài zhōu mò lǚ xíng) - (Il voyage souvent le week-end.)[/color][/i][/indent]
+
+[b]c) 平常 (píng cháng) - D'habitude[/b]
+[indent]Utilisé pour décrire une routine ou une action typique.
+
+[code]
+平常我八点上班。 [color=#008000](píng cháng wǒ bā diǎn shàng bān) - (D'habitude, je commence à travailler à huit heures.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]平常她六点回家。[/color] [color=#008000](píng cháng tā liù diǎn huí jiā) - (D'habitude, elle rentre chez elle à six heures.)[/color][/i][/indent]
+
+[b]d) 有时 (yǒu shí) - Parfois[/b]
+[indent]Pour indiquer quelque chose qui se produit de temps en temps.
+
+[code]
+我有时在晚上学习。 [color=#008000](wǒ yǒu shí zài wǎn shang xué xí) - (Parfois, j'étudie le soir.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他有时在咖啡馆工作。[/color] [color=#008000](tā yǒu shí zài kā fēi guǎn gōng zuò) - (Parfois, il travaille dans un café.)[/color][/i][/indent]
+
+[b]e) 很少 (hěn shǎo) - Rarement[/b]
+[indent]Pour décrire une action qui ne se produit presque jamais.
+
+[code]
+我很少看电视。 [color=#008000](wǒ hěn shǎo kàn diàn shì) - (Je regarde rarement la télévision.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]她很少吃快餐。[/color] [color=#008000](tā hěn shǎo chī kuài cān) - (Elle mange rarement de la restauration rapide.)[/color][/i][/indent]
+
+[b]f) 从不 (cóng bù) - Jamais[/b]
+[indent]Pour des situations où vous n'effectuez jamais une action.
+
+[code]
+我从不抽烟。 [color=#008000](wǒ cóng bù chōu yān) - (Je ne fume jamais.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他从不迟到。[/color] [color=#008000](tā cóng bù chí dào) - (Il n'est jamais en retard.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Structure des phrases[/color][/font_size]
+
+Voici quelques règles de base pour placer correctement ces expressions temporelles dans une phrase :
+
+[indent]• Les expressions de fréquence se placent souvent avant le verbe pour indiquer la répétitivité de l'action :
+[color=#0000FF]我经常看书。[/color] [color=#008000](wǒ jīng cháng kàn shū) - (Je lis souvent.)[/color]
+
+- On peut également les placer en début de phrase pour mettre l'accent sur la fréquence :
+[color=#0000FF]很少，我会吃甜点。[/color] [color=#008000](hěn shǎo, wǒ huì chī tián diǎn) - (Rarement, je mange des desserts.)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Expressions idiomatiques courantes[/color][/font_size]
+
+Le chinois utilise également des expressions idiomatiques pour parler des habitudes :
+
+[b]a) 习惯 (xí guàn) - Avoir l'habitude[/b]
+[indent]Cette expression est souvent utilisée pour parler de routines.
+
+[code]
+我习惯每天早起。 [color=#008000](wǒ xí guàn měi tiān zǎo qǐ) - (J'ai l'habitude de me lever tôt tous les jours.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他们习惯一起吃晚饭。[/color] [color=#008000](tā men xí guàn yī qǐ chī wǎn fàn) - (Ils ont l'habitude de dîner ensemble.)[/color][/i][/indent]
+
+[b]b) 按时 (àn shí) - À l'heure[/b]
+[indent]Utilisé pour souligner la régularité.
+
+[code]
+他按时吃药。 [color=#008000](tā àn shí chī yào) - (Il prend ses médicaments à l'heure.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我们按时上课。[/color] [color=#008000](wǒ men àn shí shàng kè) - (Nous assistons aux cours à l'heure.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Utilisez les expressions de fréquence pour indiquer la régularité de vos actions.
+[color=#FF0000]2.[/color] La structure des phrases peut varier, mais les expressions de fréquence se placent généralement avant le verbe.
+[color=#FF0000]3.[/color] Les expressions idiomatiques courantes enrichissent vos discussions sur les habitudes.[/indent]
+
+[center][font_size=18][color=#808080]正确使用这些表达，让你的中文听起来更加自然和流利！[/color][/font_size][/center]

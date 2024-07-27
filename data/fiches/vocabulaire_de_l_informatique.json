@@ -1,13 +1,24 @@
 {
-    "name": { "es": "Informática", "fr": "Informatique", "en": "Computer Science", "cn": "计算机科学 ji suan ji ke xue", "de": "Informatik", "ja": "コンピュータサイエンス konpyūta saiensu" },
-    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "name": {
+        "es": "Informática",
+        "fr": "Informatique",
+        "en": "Computer Science",
+        "cn": "计算机科学 (ji suan ji ke xue)",
+        "de": "Informatik",
+        "ja": "コンピュータサイエンス (konpyūta saiensu)",
+        "kr": "컴퓨터과학 (keompyuteo gwahak)",
+        "ru": "Информатика (Informatika)"
+    },
+    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
     "elements": [{
             "es": ["Ordenador", "Computadora"],
             "fr": ["Ordinateur"],
             "en": ["Computer"],
             "cn": ["电脑", "dian nao"],
             "de": ["Computer", "Rechner"],
-            "ja": ["コンピュータ", "konpyūta"]
+            "ja": ["コンピュータ", "konpyūta"],
+            "kr": ["컴퓨터", "keompyuteo"],
+            "ru": ["Компьютер", "Kompyuter"]
         },
         {
             "es": ["Pantalla"],
@@ -15,7 +26,9 @@
             "en": ["Screen", "Monitor"],
             "cn": ["屏幕", "ping mu"],
             "de": ["Bildschirm", "Monitor"],
-            "ja": ["スクリーン", "モニター sukuriin", "monitā"]
+            "ja": ["スクリーン", "モニター sukuriin", "monitā"],
+            "kr": ["스크린", "모니터 seukeurin", "moniteo"],
+            "ru": ["Экран", "Монитор Ekran", "Monitor"]
         },
         {
             "es": ["Teclado"],
@@ -23,7 +36,9 @@
             "en": ["Keyboard"],
             "cn": ["键盘", "jian pan"],
             "de": ["Tastatur"],
-            "ja": ["キーボード", "kiibōdo"]
+            "ja": ["キーボード", "kiibōdo"],
+            "kr": ["키보드", "kibodeu"],
+            "ru": ["Клавиатура", "Klaviatura"]
         },
         {
             "es": ["Ratón"],
@@ -31,7 +46,9 @@
             "en": ["Mouse"],
             "cn": ["鼠标", "shu biao"],
             "de": ["Maus"],
-            "ja": ["マウス", "mausu"]
+            "ja": ["マウス", "mausu"],
+            "kr": ["마우스", "mauseu"],
+            "ru": ["Мышь", "Mysh'"]
         },
         {
             "es": ["Impresora"],
@@ -39,7 +56,9 @@
             "en": ["Printer"],
             "cn": ["打印机", "da yin ji"],
             "de": ["Drucker"],
-            "ja": ["プリンター", "purintā"]
+            "ja": ["プリンター", "purintā"],
+            "kr": ["프린터", "peurinteo"],
+            "ru": ["Принтер", "Printer"]
         },
         {
             "es": ["Disco duro"],
@@ -47,7 +66,9 @@
             "en": ["Hard drive", "Disk"],
             "cn": ["硬盘", "ying pan"],
             "de": ["Festplatte"],
-            "ja": ["ハードディスク", "haado disuku"]
+            "ja": ["ハードディスク", "haado disuku"],
+            "kr": ["하드 디스크", "hadeu diseukeu"],
+            "ru": ["Жесткий диск", "Zhestkiy disk"]
         },
         {
             "es": ["Memoria RAM"],
@@ -55,7 +76,9 @@
             "en": ["RAM"],
             "cn": ["内存", "nei cun"],
             "de": ["RAM", "Arbeitsspeicher"],
-            "ja": ["メモリ", "memori"]
+            "ja": ["メモリ", "memori"],
+            "kr": ["램", "램메모리 raem", "raemmemori"],
+            "ru": ["ОЗУ", "Оперативная память OZU", "Operativnaya pamyat'"]
         },
         {
             "es": ["CPU"],
@@ -63,7 +86,9 @@
             "en": ["CPU", "Central Processing Unit"],
             "cn": ["中央处理器", "zhong yang chu li qi"],
             "de": ["CPU", "Zentraleinheit"],
-            "ja": ["CPU", "c.p.u."]
+            "ja": ["CPU", "c.p.u."],
+            "kr": ["중앙 처리 장치", "중앙 프로세서 jungang cheri jangchi", "jungang peurosesa"],
+            "ru": ["ЦПУ", "Центральный процессор TSPU", "Tsentral'nyy protsessor"]
         },
         {
             "es": ["Tarjeta gráfica"],
@@ -71,7 +96,9 @@
             "en": ["Graphics card"],
             "cn": ["显卡", "xian ka"],
             "de": ["Grafikkarte"],
-            "ja": ["グラフィックカード", "gurafikku kaado"]
+            "ja": ["グラフィックカード", "gurafikku kaado"],
+            "kr": ["그래픽카드", "geuraepikkadeu"],
+            "ru": ["Графическая карта", "Graficheskaya karta"]
         },
         {
             "es": ["Placa base"],
@@ -79,7 +106,9 @@
             "en": ["Motherboard"],
             "cn": ["主板", "zhu ban"],
             "de": ["Hauptplatine"],
-            "ja": ["マザーボード", "mazābōdo"]
+            "ja": ["マザーボード", "mazābōdo"],
+            "kr": ["메인보드", "meinbodeu"],
+            "ru": ["Материнская плата", "Materinskaya plata"]
         },
         {
             "es": ["Fuente de alimentación"],
@@ -87,7 +116,9 @@
             "en": ["Power supply"],
             "cn": ["电源", "dian yuan"],
             "de": ["Netzteil"],
-            "ja": ["電源", "den gen"]
+            "ja": ["電源", "den gen"],
+            "kr": ["전원 공급장치", "jeon-won gong-geubjanchi"],
+            "ru": ["Блок питания", "Blok pitaniya"]
         },
         {
             "es": ["Unidad de CD", "Unidad óptica"],
@@ -95,7 +126,9 @@
             "en": ["CD drive", "Optical drive"],
             "cn": ["光驱", "guang qu"],
             "de": ["CD-Laufwerk", "Optisches Laufwerk"],
-            "ja": ["CDドライブ", "光学ドライブ shiidii doraibu", "kōgaku doraibu"]
+            "ja": ["CDドライブ", "光学ドライブ shiidii doraibu", "kōgaku doraibu"],
+            "kr": ["CD 드라이브", "광학 드라이브 CD deuraibeu", "gwanghak deuraibeu"],
+            "ru": ["CD-привод", "Оптический привод CD-privod", "Opticheskiy privod"]
         },
         {
             "es": ["Software"],
@@ -103,7 +136,9 @@
             "en": ["Software"],
             "cn": ["软件", "ruan jian"],
             "de": ["Software"],
-            "ja": ["ソフトウェア", "sofutowea"]
+            "ja": ["ソフトウェア", "sofutowea"],
+            "kr": ["소프트웨어", "sopeuteuweeo"],
+            "ru": ["Программное обеспечение", "Programmnoe obespechenie"]
         },
         {
             "es": ["Hardware"],
@@ -111,7 +146,9 @@
             "en": ["Hardware"],
             "cn": ["硬件", "ying jian"],
             "de": ["Hardware"],
-            "ja": ["ハードウェア", "hādowea"]
+            "ja": ["ハードウェア", "hādowea"],
+            "kr": ["하드웨어", "hadeuweeo"],
+            "ru": ["Аппаратное обеспечение", "Apparatnoe obespechenie"]
         },
         {
             "es": ["Sistema operativo"],
@@ -119,7 +156,9 @@
             "en": ["Operating system"],
             "cn": ["操作系统", "cao zuo xi tong"],
             "de": ["Betriebssystem"],
-            "ja": ["オペレーティングシステム", "opereetingu shisutemu"]
+            "ja": ["オペレーティングシステム", "opereetingu shisutemu"],
+            "kr": ["운영체제", "un-yeong cheje"],
+            "ru": ["Операционная система", "Operatsionnaya sistema"]
         },
         {
             "es": ["Navegador", "Explorador web"],
@@ -127,7 +166,9 @@
             "en": ["Browser", "Web browser"],
             "cn": ["浏览器", "liu lan qi"],
             "de": ["Browser", "Webbrowser"],
-            "ja": ["ブラウザ", "ネットブラウザ burauza", "netto burauza"]
+            "ja": ["ブラウザ", "ネットブラウザ burauza", "netto burauza"],
+            "kr": ["브라우저", "웹 브라우저 beura-uja", "web beura-uja"],
+            "ru": ["Браузер", "Веб-браузер Brauzer", "Veb-brauzer"]
         },
         {
             "es": ["Internet"],
@@ -135,7 +176,9 @@
             "en": ["Internet"],
             "cn": ["互联网", "hu lian wang"],
             "de": ["Internet"],
-            "ja": ["インターネット", "intaanetto"]
+            "ja": ["インターネット", "intaanetto"],
+            "kr": ["인터넷", "inteonet"],
+            "ru": ["Интернет", "Internet"]
         },
         {
             "es": ["Red"],
@@ -143,7 +186,9 @@
             "en": ["Network"],
             "cn": ["网络", "wang luo"],
             "de": ["Netzwerk"],
-            "ja": ["ネットワーク", "nettowāku"]
+            "ja": ["ネットワーク", "nettowāku"],
+            "kr": ["네트워크", "neteuwokeu"],
+            "ru": ["Сеть", "Set'"]
         },
         {
             "es": ["Servidor"],
@@ -151,7 +196,9 @@
             "en": ["Server"],
             "cn": ["服务器", "fu wu qi"],
             "de": ["Server"],
-            "ja": ["サーバー", "sābā"]
+            "ja": ["サーバー", "sābā"],
+            "kr": ["서버", "seobeo"],
+            "ru": ["Сервер", "Server"]
         },
         {
             "es": ["Cliente"],
@@ -159,7 +206,9 @@
             "en": ["Client"],
             "cn": ["客户端", "ke hu duan"],
             "de": ["Client"],
-            "ja": ["クライアント", "kuraianto"]
+            "ja": ["クライアント", "kuraianto"],
+            "kr": ["클라이언트", "keullaieonteu"],
+            "ru": ["Клиент", "Client"]
         },
         {
             "es": ["Conectarse"],
@@ -167,7 +216,9 @@
             "en": ["Connect"],
             "cn": ["连接", "lian jie"],
             "de": ["Verbindung herstellen", "verbinden"],
-            "ja": ["接続する", "setsuzoku suru"]
+            "ja": ["接続する", "setsuzoku suru"],
+            "kr": ["연결하다", "yeongyeolhada"],
+            "ru": ["Подключиться", "Podklyuchit'sya"]
         },
         {
             "es": ["Desconectarse"],
@@ -175,7 +226,9 @@
             "en": ["Disconnect"],
             "cn": ["断开", "duan kai"],
             "de": ["Verbindung trennen", "deaktivieren"],
-            "ja": ["切断する", "ketsudan suru"]
+            "ja": ["切断する", "ketsudan suru"],
+            "kr": ["연결 끊기", "yeongyeol kkeunki"],
+            "ru": ["Отключиться", "Otklyuchit'sya"]
         },
         {
             "es": ["Contraseña"],
@@ -183,7 +236,9 @@
             "en": ["Password"],
             "cn": ["密码", "mi ma"],
             "de": ["Passwort", "Kennwort"],
-            "ja": ["パスワード", "pasuwādo"]
+            "ja": ["パスワード", "pasuwādo"],
+            "kr": ["비밀번호", "bimilbeonho"],
+            "ru": ["Пароль", "Parol'"]
         },
         {
             "es": ["Archivo"],
@@ -191,7 +246,9 @@
             "en": ["File"],
             "cn": ["文件", "wen jian"],
             "de": ["Datei"],
-            "ja": ["ファイル", "fairu"]
+            "ja": ["ファイル", "fairu"],
+            "kr": ["파일", "pail"],
+            "ru": ["Файл", "Fayl"]
         },
         {
             "es": ["Carpeta"],
@@ -199,7 +256,9 @@
             "en": ["Folder", "Directory"],
             "cn": ["文件夹", "wen jian jia"],
             "de": ["Ordner"],
-            "ja": ["フォルダー", "forudā"]
+            "ja": ["フォルダー", "forudā"],
+            "kr": ["폴더", "poldeo"],
+            "ru": ["Папка", "Papka"]
         },
         {
             "es": ["Descargar"],
@@ -207,7 +266,9 @@
             "en": ["Download"],
             "cn": ["下载", "xia zai"],
             "de": ["Herunterladen", "Download"],
-            "ja": ["ダウンロードする", "daunrōdo suru"]
+            "ja": ["ダウンロードする", "daunrōdo suru"],
+            "kr": ["다운로드", "daunrodeu"],
+            "ru": ["Скачать", "Skachat'"]
         },
         {
             "es": ["Subir"],
@@ -215,7 +276,9 @@
             "en": ["Upload"],
             "cn": ["上传", "shang chuan"],
             "de": ["Hochladen", "Upload"],
-            "ja": ["アップロードする", "appurōdo suru"]
+            "ja": ["アップロードする", "appurōdo suru"],
+            "kr": ["업로드", "eobrodeu"],
+            "ru": ["Загрузить", "Zagruzit'"]
         },
         {
             "es": ["Correo electrónico"],
@@ -223,7 +286,9 @@
             "en": ["Email"],
             "cn": ["电子邮件", "dian zi you jian"],
             "de": ["E-Mail"],
-            "ja": ["メール", "meeru"]
+            "ja": ["メール", "meeru"],
+            "kr": ["이메일", "imeil"],
+            "ru": ["Электронная почта", "Elektronnaya pochta"]
         },
         {
             "es": ["Sitio web", "Página web"],
@@ -231,7 +296,9 @@
             "en": ["Website"],
             "cn": ["网站", "wang zhan"],
             "de": ["Webseite"],
-            "ja": ["ウェブサイト", "uebusaito"]
+            "ja": ["ウェブサイト", "uebusaito"],
+            "kr": ["웹사이트", "wepsaiteu"],
+            "ru": ["Веб-сайт", "Veb-sayt"]
         },
         {
             "es": ["Enlace", "Hipervínculo"],
@@ -239,7 +306,9 @@
             "en": ["Link", "Hyperlink"],
             "cn": ["链接", "lian jie"],
             "de": ["Link", "Hyperlink"],
-            "ja": ["リンク", "rinku"]
+            "ja": ["リンク", "rinku"],
+            "kr": ["링크", "lingkeu"],
+            "ru": ["Ссылка", "Ssylka"]
         },
         {
             "es": ["Base de datos"],
@@ -247,7 +316,9 @@
             "en": ["Database"],
             "cn": ["数据库", "shu ju ku"],
             "de": ["Datenbank"],
-            "ja": ["データベース", "dētabēsu"]
+            "ja": ["データベース", "dētabēsu"],
+            "kr": ["데이터베이스", "deiteobeiseu"],
+            "ru": ["База данных", "Baza dannykh"]
         },
         {
             "es": ["Propiedad"],
@@ -255,7 +326,9 @@
             "en": ["Property"],
             "cn": ["属性", "shu xing"],
             "de": ["Eigenschaft"],
-            "ja": ["プロパティ", "puropati"]
+            "ja": ["プロパティ", "puropati"],
+            "kr": ["속성", "sokseong"],
+            "ru": ["Свойство", "Svoystvo"]
         },
         {
             "es": ["Parámetro"],
@@ -263,7 +336,9 @@
             "en": ["Parameter"],
             "cn": ["参数", "can shu"],
             "de": ["Parameter"],
-            "ja": ["パラメーター", "paramētā"]
+            "ja": ["パラメーター", "paramētā"],
+            "kr": ["매개변수", "maegaebyeonsu"],
+            "ru": ["Параметр", "Parametr"]
         },
         {
             "es": ["Red social"],
@@ -271,7 +346,9 @@
             "en": ["Social network"],
             "cn": ["社交网络", "she jiao wang luo"],
             "de": ["Soziales Netzwerk"],
-            "ja": ["ソーシャルネットワーク", "sōsharu nettowāku"]
+            "ja": ["ソーシャルネットワーク", "sōsharu nettowāku"],
+            "kr": ["소셜 네트워크", "sosyeol neteuwokeu"],
+            "ru": ["Социальная сеть", "Sotsial'naya set'"]
         },
         {
             "es": ["Seguridad"],
@@ -279,7 +356,9 @@
             "en": ["Security"],
             "cn": ["安全", "an quan"],
             "de": ["Sicherheit"],
-            "ja": ["セキュリティ", "sekyuriti"]
+            "ja": ["セキュリティ", "sekyuriti"],
+            "kr": ["보안", "boan"],
+            "ru": ["Безопасность", "Bezopasnost'"]
         },
         {
             "es": ["Privacidad"],
@@ -287,7 +366,9 @@
             "en": ["Privacy"],
             "cn": ["隐私", "yin si"],
             "de": ["Privatsphäre"],
-            "ja": ["プライバシー", "puraibashi"]
+            "ja": ["プライバシー", "puraibashi"],
+            "kr": ["개인 정보", "gaein jeongbo"],
+            "ru": ["Конфиденциальность", "Konfidentsial'nost'"]
         },
         {
             "es": ["Usuario"],
@@ -295,7 +376,9 @@
             "en": ["User"],
             "cn": ["用户", "yong hu"],
             "de": ["Benutzer"],
-            "ja": ["ユーザー", "yūzā"]
+            "ja": ["ユーザー", "yūzā"],
+            "kr": ["사용자", "sayongja"],
+            "ru": ["Пользователь", "Pol'zovatel'"]
         },
         {
             "es": ["Interfaz"],
@@ -303,7 +386,9 @@
             "en": ["Interface"],
             "cn": ["界面", "jie mian"],
             "de": ["Schnittstelle", "Interface"],
-            "ja": ["インターフェース", "intāfēsu"]
+            "ja": ["インターフェース", "intāfēsu"],
+            "kr": ["인터페이스", "inteopeiseu"],
+            "ru": ["Интерфейс", "Interfeys"]
         },
         {
             "es": ["Configuración"],
@@ -311,183 +396,207 @@
             "en": ["Configuration"],
             "cn": ["配置", "pei zhi"],
             "de": ["Einstellung", "Konfiguration"],
-            "ja": ["設定", "せってい se tei"]
-        },
-        {
+            "ja": ["設定", "せってい se tei"],
+            "kr": ["설정", "seoljeong"],
+            "ru": ["Конфигурация", "Konfiguratsiya"]
+        }, {
             "es": ["Actualizar"],
             "fr": ["Mettre à jour"],
             "en": ["Update"],
             "cn": ["更新", "geng xin"],
             "de": ["Aktualisieren"],
-            "ja": ["更新する", "kōshin suru"]
-        },
-        {
+            "ja": ["更新する", "kōshin suru"],
+            "kr": ["업데이트하다", "eobeiteuhada"],
+            "ru": ["Обновить", "Obnovit'"]
+        }, {
             "es": ["Borrar"],
             "fr": ["Supprimer"],
             "en": ["Delete", "Remove"],
             "cn": ["删除", "shan chu"],
             "de": ["Löschen"],
-            "ja": ["削除する", "sakujo suru"]
-        },
-        {
+            "ja": ["削除する", "sakujo suru"],
+            "kr": ["삭제하다", "sakjehada"],
+            "ru": ["Удалить", "Udalit'"]
+        }, {
             "es": ["Guardar"],
             "fr": ["Enregistrer", "Sauvegarder"],
             "en": ["Save"],
             "cn": ["保存", "bao cun"],
             "de": ["Speichern"],
-            "ja": ["保存する", "hozon suru"]
-        },
-        {
+            "ja": ["保存する", "hozon suru"],
+            "kr": ["저장하다", "jeojanghada"],
+            "ru": ["Сохранить", "Sokhranit'"]
+        }, {
             "es": ["Imprimir"],
             "fr": ["Imprimer"],
             "en": ["Print"],
             "cn": ["打印", "da yin"],
             "de": ["Drucken"],
-            "ja": ["印刷する", "insatsu suru"]
-        },
-        {
+            "ja": ["印刷する", "insatsu suru"],
+            "kr": ["인쇄하다", "inswaehada"],
+            "ru": ["Печатать", "Pechatat'"]
+        }, {
             "es": ["Buscar"],
             "fr": ["Rechercher"],
             "en": ["Search"],
             "cn": ["搜索", "sou suo"],
             "de": ["Suchen"],
-            "ja": ["検索する", "kensaku suru"]
-        },
-        {
+            "ja": ["検索する", "kensaku suru"],
+            "kr": ["검색하다", "geomsaekhada"],
+            "ru": ["Искать", "Iskat'"]
+        }, {
             "es": ["Copiar"],
             "fr": ["Copier"],
             "en": ["Copy"],
             "cn": ["复制", "fu zhi"],
             "de": ["Kopieren"],
-            "ja": ["コピーする", "kopī suru"]
-        },
-        {
+            "ja": ["コピーする", "kopī suru"],
+            "kr": ["복사하다", "boksahada"],
+            "ru": ["Копировать", "Kopirovat'"]
+        }, {
             "es": ["Pegar"],
             "fr": ["Coller"],
             "en": ["Paste"],
             "cn": ["粘贴", "nian tie"],
             "de": ["Einfügen"],
-            "ja": ["貼り付ける", "haritsukeru"]
-        },
-        {
+            "ja": ["貼り付ける", "haritsukeru"],
+            "kr": ["붙여넣다", "butyeoneotda"],
+            "ru": ["Вставить", "Vstavit'"]
+        }, {
             "es": ["Cortar"],
             "fr": ["Couper"],
             "en": ["Cut"],
             "cn": ["剪切", "jian qie"],
             "de": ["Ausschneiden"],
-            "ja": ["切り取る", "kiritoru"]
-        },
-        {
+            "ja": ["切り取る", "kiritoru"],
+            "kr": ["자르다", "jareuda"],
+            "ru": ["Вырезать", "Vyrezat'"]
+        }, {
             "es": ["Programar"],
             "fr": ["Programmer"],
             "en": ["Program"],
             "cn": ["编程", "bian cheng"],
             "de": ["Programmieren"],
-            "ja": ["プログラムする", "puroguramu suru"]
-        },
-        {
+            "ja": ["プログラムする", "puroguramu suru"],
+            "kr": ["프로그래밍하다", "peurogeraminghada"],
+            "ru": ["Программировать", "Programmirovat'"]
+        }, {
             "es": ["Código"],
             "fr": ["Code"],
             "en": ["Code"],
             "cn": ["代码", "dai ma"],
             "de": ["Code"],
-            "ja": ["コード", "kōdo"]
-        },
-        {
+            "ja": ["コード", "kōdo"],
+            "kr": ["코드", "kodeu"],
+            "ru": ["Код", "Kod"]
+        }, {
             "es": ["Depurar"],
             "fr": ["Déboguer"],
             "en": ["Debug"],
             "cn": ["调试", "tiao shi"],
             "de": ["Debuggen"],
-            "ja": ["デバッグする", "debaggusu ru"]
-        },
-        {
+            "ja": ["デバッグする", "debaggusu ru"],
+            "kr": ["디버그하다", "dibeogeuhada"],
+            "ru": ["Отлаживать", "Otlazhivat'"]
+        }, {
             "es": ["Compilar"],
             "fr": ["Compiler"],
             "en": ["Compile"],
             "cn": ["编译", "bian yi"],
             "de": ["Kompilieren"],
-            "ja": ["コンパイルする", "konpairu suru"]
-        },
-        {
+            "ja": ["コンパイルする", "konpairu suru"],
+            "kr": ["컴파일하다", "keompailhada"],
+            "ru": ["Компилировать", "Kompilirovat'"]
+        }, {
             "es": ["Ejecutar"],
             "fr": ["Exécuter"],
             "en": ["Run", "Execute"],
             "cn": ["运行", "yun xing"],
             "de": ["Ausführen"],
-            "ja": ["実行する", "jikkou suru"]
-        },
-        {
+            "ja": ["実行する", "jikkou suru"],
+            "kr": ["실행하다", "silhaenghada"],
+            "ru": ["Запустить", "Zapustit'"]
+        }, {
             "es": ["Inteligencia artificial"],
             "fr": ["Intelligence artificielle"],
             "en": ["Artificial intelligence"],
             "cn": ["人工智能", "ren gong zhi neng"],
             "de": ["Künstliche Intelligenz"],
-            "ja": ["人工知能", "jinkou chinou"]
-        },
-        {
+            "ja": ["人工知能", "jinkou chinou"],
+            "kr": ["인공지능", "ingongjineung"],
+            "ru": ["Искусственный интеллект", "Iskusstvennyy intellekt"]
+        }, {
             "es": ["Algoritmo"],
             "fr": ["Algorithme"],
             "en": ["Algorithm"],
             "cn": ["算法", "suan fa"],
             "de": ["Algorithmus"],
-            "ja": ["アルゴリズム", "arugorizumu"]
-        },
-        {
+            "ja": ["アルゴリズム", "arugorizumu"],
+            "kr": ["알고리즘", "algo-lijeum"],
+            "ru": ["Алгоритм", "Algoritm"]
+        }, {
             "es": ["Diagrama de flujo"],
             "fr": ["Organigramme"],
             "en": ["Flowchart"],
             "cn": ["流程图", "liu cheng tu"],
             "de": ["Flussdiagramm"],
-            "ja": ["フローチャート", "furōchāto"]
-        },
-        {
+            "ja": ["フローチャート", "furōchāto"],
+            "kr": ["순서도", "sunseodo"],
+            "ru": ["Блок-схема", "Blok-skhema"]
+        }, {
             "es": ["Base de datos"],
             "fr": ["Base de données"],
             "en": ["Database"],
             "cn": ["数据库", "shu ju ku"],
             "de": ["Datenbank"],
-            "ja": ["データベース", "dētabēsu"]
-        },
-        {
+            "ja": ["データベース", "dētabēsu"],
+            "kr": ["데이터베이스", "deiteobeiseu"],
+            "ru": ["База данных", "Baza dannykh"]
+        }, {
             "es": ["Servidores en la nube"],
             "fr": ["Serveurs cloud"],
             "en": ["Cloud servers"],
             "cn": ["云服务器", "yun fu wu qi"],
             "de": ["Cloud-Server"],
-            "ja": ["クラウドサーバー", "kuraudo sābā"]
-        },
-        {
+            "ja": ["クラウドサーバー", "kuraudo sābā"],
+            "kr": ["클라우드 서버", "keullaudeu seobeo"],
+            "ru": ["Облачные серверы", "Oblachnye servery"]
+        }, {
             "es": ["Protocolo"],
             "fr": ["Protocole"],
             "en": ["Protocol"],
             "cn": ["协议", "xie yi"],
             "de": ["Protokoll"],
-            "ja": ["プロトコル", "purotokoru"]
-        },
-        {
+            "ja": ["プロトコル", "purotokoru"],
+            "kr": ["프로토콜", "peulotokol"],
+            "ru": ["Протокол", "Protokol"]
+        }, {
             "es": ["Red neuronal"],
             "fr": ["Réseau neuronal"],
             "en": ["Neural network"],
             "cn": ["神经网络", "shen jing wang luo"],
             "de": ["Neuronales Netzwerk"],
-            "ja": ["ニューラルネットワーク", "nyūraru nettowāku"]
-        },
-        {
+            "ja": ["ニューラルネットワーク", "nyūraru nettowāku"],
+            "kr": ["신경망", "singeongmang"],
+            "ru": ["Нейронная сеть", "Neyronnaya set'"]
+        }, {
             "es": ["Programación orientada a objetos"],
             "fr": ["Programmation orientée objet"],
             "en": ["Object-oriented programming"],
             "cn": ["面向对象编程", "mian xiang dui xiang bian cheng"],
             "de": ["Objektorientierte Programmierung"],
-            "ja": ["オブジェクト指向プログラミング", "obujekuto shikou puroguramingu"]
-        },
-        {
+            "ja": ["オブジェクト指向プログラミング", "obujekuto shikou puroguramingu"],
+            "kr": ["객체 지향 프로그래밍", "gaekche ji-hyang peurogeuraeming"],
+            "ru": ["Объектно-ориентированное программирование", "Ob'yektno-orientirovannoye programmirovaniye"]
+        }, {
             "es": ["Cifrado"],
             "fr": ["Chiffrement"],
             "en": ["Encryption"],
             "cn": ["加密", "jia mi"],
             "de": ["Verschlüsselung"],
-            "ja": ["暗号化", "angouka"]
+            "ja": ["暗号化", "angouka"],
+            "kr": ["암호화", "amhohwa"],
+            "ru": ["Шифрование", "Shifrovaniye"]
         }
     ]
 }

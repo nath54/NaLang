@@ -39,7 +39,7 @@ var fiches_uses: Dictionary = {}; # "path" -> Nb access
 
 # Langues actuelles
 var current_lang_src: String = "fr";
-var current_lang_dst: String = "es";
+var current_lang_dst: String = "cn";
 
 #
 var rng: RandomNumberGenerator = RandomNumberGenerator.new();

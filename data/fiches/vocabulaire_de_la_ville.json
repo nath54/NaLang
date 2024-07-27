@@ -3,18 +3,22 @@
         "es": "La ciudad y los edificios",
         "fr": "La ville et les bâtiments",
         "en": "The city and buildings",
-        "cn": "城市和建筑 chéng shì hé jiàn zhù",
+        "cn": "城市和建筑 (chéng shì hé jiàn zhù)",
         "de": "Die Stadt und die Gebäude",
-        "ja": "都市と建物 toshi to tatemono"
+        "ja": "都市と建物 (toshi to tatemono)",
+        "kr": "도시와 건물 (dosiwa geonmul)",
+        "ru": "Город и здания (gorod i zdaniya)"
     },
-    "langs": ["es", "fr", "en", "cn", "de", "ja"],
+    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
     "elements": [{
             "es": ["Ciudad"],
             "fr": ["Ville"],
             "en": ["City", "Town"],
             "cn": ["城市", "chéng shì"],
             "de": ["Stadt"],
-            "ja": ["都市", "とし toshi"]
+            "ja": ["都市", "とし toshi"],
+            "kr": ["도시", "dosi"],
+            "ru": ["Город", "gorod"]
         },
         {
             "es": ["Edificio"],
@@ -22,7 +26,9 @@
             "en": ["Building"],
             "cn": ["建筑", "jiàn zhù"],
             "de": ["Gebäude"],
-            "ja": ["建物", "たてもの tatemono"]
+            "ja": ["建物", "たてもの tatemono"],
+            "kr": ["건물", "geonmul"],
+            "ru": ["Здание", "zdaniye"]
         },
         {
             "es": ["Centro"],
@@ -30,7 +36,9 @@
             "en": ["Downtown", "City center"],
             "cn": ["市中心", "shì zhōng xīn"],
             "de": ["Stadtzentrum"],
-            "ja": ["中心地", "ちゅうしんち chūshinchi"]
+            "ja": ["中心地", "ちゅうしんち chūshinchi"],
+            "kr": ["도심", "dosim"],
+            "ru": ["Центр города", "tsentr goroda"]
         },
         {
             "es": ["Barrio"],
@@ -38,7 +46,9 @@
             "en": ["Neighborhood", "District"],
             "cn": ["街区", "jiē qū", "社区", "shè qū"],
             "de": ["Viertel"],
-            "ja": ["地区", "ちく chiku"]
+            "ja": ["地区", "ちく chiku"],
+            "kr": ["동네", "dongne"],
+            "ru": ["Район", "rayon"]
         },
         {
             "es": ["Calle"],
@@ -46,7 +56,9 @@
             "en": ["Street", "Road"],
             "cn": ["街道", "jiē dào"],
             "de": ["Straße"],
-            "ja": ["通り", "とおり toori"]
+            "ja": ["通り", "とおり toori"],
+            "kr": ["거리", "geori"],
+            "ru": ["Улица", "ulitsa"]
         },
         {
             "es": ["Avenida"],
@@ -54,7 +66,9 @@
             "en": ["Avenue"],
             "cn": ["大道", "dà dào"],
             "de": ["Allee"],
-            "ja": ["大通り", "おおどおり ōdōri"]
+            "ja": ["大通り", "おおどおり ōdōri"],
+            "kr": ["대로", "daero"],
+            "ru": ["Авеню", "avenyu"]
         },
         {
             "es": ["Plaza"],
@@ -62,7 +76,9 @@
             "en": ["Square", "Plaza"],
             "cn": ["广场", "guǎng chǎng"],
             "de": ["Platz"],
-            "ja": ["広場", "ひろば hiroba"]
+            "ja": ["広場", "ひろば hiroba"],
+            "kr": ["광장", "gwangjang"],
+            "ru": ["Площадь", "ploshchad'"]
         },
         {
             "es": ["Parque"],
@@ -70,7 +86,9 @@
             "en": ["Park"],
             "cn": ["公园", "gōng yuán"],
             "de": ["Park"],
-            "ja": ["公園", "こうえん kōen"]
+            "ja": ["公園", "こうえん kōen"],
+            "kr": ["공원", "gongwon"],
+            "ru": ["Парк", "park"]
         },
         {
             "es": ["Estación de tren"],
@@ -78,7 +96,9 @@
             "en": ["Train station"],
             "cn": ["火车站", "huǒ chē zhàn"],
             "de": ["Bahnhof"],
-            "ja": ["駅", "えき eki"]
+            "ja": ["駅", "えき eki"],
+            "kr": ["기차역", "gichayeok"],
+            "ru": ["Железнодорожный вокзал", "zheleznodorozhny vokzal"]
         },
         {
             "es": ["Estación de autobuses"],
@@ -86,7 +106,9 @@
             "en": ["Bus station"],
             "cn": ["汽车站", "qì chē zhàn"],
             "de": ["Busbahnhof"],
-            "ja": ["バス停", "バスてい basutei"]
+            "ja": ["バス停", "バスてい basutei"],
+            "kr": ["버스 정류장", "beoseu jeonglyujang"],
+            "ru": ["Автовокзал", "avtovokzal"]
         },
         {
             "es": ["Metro"],
@@ -94,7 +116,9 @@
             "en": ["Subway", "Metro"],
             "cn": ["地铁", "dì tiě"],
             "de": ["U-Bahn"],
-            "ja": ["地下鉄", "ちかてつ chikatetsu"]
+            "ja": ["地下鉄", "ちかてつ chikatetsu"],
+            "kr": ["지하철", "jihacheol"],
+            "ru": ["Метро", "metro"]
         },
         {
             "es": ["Aeropuerto"],
@@ -102,7 +126,9 @@
             "en": ["Airport"],
             "cn": ["机场", "jī chǎng"],
             "de": ["Flughafen"],
-            "ja": ["空港", "くうこう kūkō"]
+            "ja": ["空港", "くうこう kūkō"],
+            "kr": ["공항", "gonghang"],
+            "ru": ["Аэропорт", "aeroport"]
         },
         {
             "es": ["Puente"],
@@ -110,7 +136,9 @@
             "en": ["Bridge"],
             "cn": ["桥", "qiáo"],
             "de": ["Brücke"],
-            "ja": ["橋", "はし hashi"]
+            "ja": ["橋", "はし hashi"],
+            "kr": ["다리", "dari"],
+            "ru": ["Мост", "most"]
         },
         {
             "es": ["Hospital"],
@@ -118,7 +146,9 @@
             "en": ["Hospital"],
             "cn": ["医院", "yī yuàn"],
             "de": ["Krankenhaus"],
-            "ja": ["病院", "びょういん byōin"]
+            "ja": ["病院", "びょういん byōin"],
+            "kr": ["병원", "byeongwon"],
+            "ru": ["Больница", "bol'nitsa"]
         },
         {
             "es": ["Escuela"],
@@ -126,7 +156,9 @@
             "en": ["School"],
             "cn": ["学校", "xué xiào"],
             "de": ["Schule"],
-            "ja": ["学校", "がっこう gakkou"]
+            "ja": ["学校", "がっこう gakkou"],
+            "kr": ["학교", "hakgyo"],
+            "ru": ["Школа", "shkola"]
         },
         {
             "es": ["Universidad"],
@@ -134,7 +166,9 @@
             "en": ["University"],
             "cn": ["大学", "dà xué"],
             "de": ["Universität"],
-            "ja": ["大学", "だいがく daigaku"]
+            "ja": ["大学", "だいがく daigaku"],
+            "kr": ["대학교", "daehakgyo"],
+            "ru": ["Университет", "universitet"]
         },
         {
             "es": ["Biblioteca"],
@@ -142,7 +176,9 @@
             "en": ["Library"],
             "cn": ["图书馆", "tú shū guǎn"],
             "de": ["Bibliothek"],
-            "ja": ["図書館", "としょかん toshokan"]
+            "ja": ["図書館", "としょかん toshokan"],
+            "kr": ["도서관", "doseogwan"],
+            "ru": ["Библиотека", "biblioteka"]
         },
         {
             "es": ["Museo"],
@@ -150,7 +186,9 @@
             "en": ["Museum"],
             "cn": ["博物馆", "bó wù guǎn"],
             "de": ["Museum"],
-            "ja": ["博物館", "はくぶつかん hakubutsukan"]
+            "ja": ["博物館", "はくぶつかん hakubutsukan"],
+            "kr": ["박물관", "bangmulgwan"],
+            "ru": ["Музей", "muzey"]
         },
         {
             "es": ["Teatro"],
@@ -158,7 +196,9 @@
             "en": ["Theater"],
             "cn": ["剧院", "jù yuàn"],
             "de": ["Theater"],
-            "ja": ["劇場", "げきじょう gekijou"]
+            "ja": ["劇場", "げきじょう gekijou"],
+            "kr": ["극장", "geukjang"],
+            "ru": ["Театр", "teatr"]
         },
         {
             "es": ["Cine"],
@@ -166,7 +206,9 @@
             "en": ["Cinema", "Movie theater"],
             "cn": ["电影院", "diàn yǐng yuàn"],
             "de": ["Kino"],
-            "ja": ["映画館", "えいがかん eigakan"]
+            "ja": ["映画館", "えいがかん eigakan"],
+            "kr": ["영화관", "yeonghwagwan"],
+            "ru": ["Кинотеатр", "kinoteatr"]
         },
         {
             "es": ["Restaurante"],
@@ -174,7 +216,9 @@
             "en": ["Restaurant"],
             "cn": ["餐馆", "cān guǎn"],
             "de": ["Restaurant"],
-            "ja": ["レストラン", "レストラン resutoran"]
+            "ja": ["レストラン", "レストラン resutoran"],
+            "kr": ["식당", "sikdang"],
+            "ru": ["Ресторан", "restoran"]
         },
         {
             "es": ["Hotel"],
@@ -182,7 +226,9 @@
             "en": ["Hotel"],
             "cn": ["酒店", "jiǔ diàn"],
             "de": ["Hotel"],
-            "ja": ["ホテル", "ホテル hoteru"]
+            "ja": ["ホテル", "ホテル hoteru"],
+            "kr": ["호텔", "hotel"],
+            "ru": ["Отель", "otel'"]
         },
         {
             "es": ["Mercado"],
@@ -190,7 +236,9 @@
             "en": ["Market"],
             "cn": ["市场", "shì chǎng"],
             "de": ["Markt"],
-            "ja": ["市場", "いちば ichiba"]
+            "ja": ["市場", "いちば ichiba"],
+            "kr": ["시장", "sijang"],
+            "ru": ["Рынок", "rynok"]
         },
         {
             "es": ["Supermercado"],
@@ -198,7 +246,9 @@
             "en": ["Supermarket"],
             "cn": ["超市", "chāo shì"],
             "de": ["Supermarkt"],
-            "ja": ["スーパーマーケット", "スーパーマーケット sūpāmāketto"]
+            "ja": ["スーパーマーケット", "スーパーマーケット sūpāmāketto"],
+            "kr": ["슈퍼마켓", "syupeomaket"],
+            "ru": ["Супермаркет", "supermarket"]
         },
         {
             "es": ["Tienda"],
@@ -206,7 +256,9 @@
             "en": ["Store", "Shop"],
             "cn": ["商店", "shāng diàn"],
             "de": ["Geschäft", "Laden"],
-            "ja": ["店", "みせ mise"]
+            "ja": ["店", "みせ mise"],
+            "kr": ["가게", "gage"],
+            "ru": ["Магазин", "magazin"]
         },
         {
             "es": ["Banco"],
@@ -214,7 +266,9 @@
             "en": ["Bank"],
             "cn": ["银行", "yín háng"],
             "de": ["Bank"],
-            "ja": ["銀行", "ぎんこう ginkou"]
+            "ja": ["銀行", "ぎんこう ginkou"],
+            "kr": ["은행", "eunhaeng"],
+            "ru": ["Банк", "bank"]
         }
     ]
 }
