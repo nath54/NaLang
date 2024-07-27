@@ -1,1 +1,60 @@
+[font_size=30][center][b][color=#0000FF]Le Futur en Coréen (Corée du Sud)[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+En coréen, le futur peut être exprimé de plusieurs façons différentes, selon le contexte et le niveau de formalité. Cet aspect de la grammaire est important pour indiquer des actions qui se produiront plus tard. 
+
+[font_size=24][color=#4B0082]1. Structures de base pour le futur[/color][/font_size]
+
+Pour former le futur en coréen, on utilise généralement les terminaisons suivantes :
+
+[b]a)  -을/ㄹ 것이다[/b]
+[indent]C'est une forme très courante et neutre qui s'utilise aussi souvent dans les conversations et écrits formels. La terminaison dépend si le radical se termine par une voyelle ou une consonne :
+[code]
+갈 것이다 (gal geosida) [color=#008000](aller)[/color] 
+할 것이다 (hal geosida) [color=#008000](faire)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]저는 내일 서울에 갈 것입니다.[font_size=18](jeoneun naeil seoul-e gal geosimnida.)[/font_size][/color] [color=#008000](J'irai à Séoul demain.)[/color][/i][/indent]
+
+[b]b) -겠다[/b]
+[indent]Cette structure est souvent utilisée pour exprimer une détermination ou une promesse. Elle peut également transmettre une supposition forte.
+[code]
+가겠다 (gagetta) [color=#008000](irons)[/color]
+하겠다 (hagetta) [color=#008000](ferons)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]저는 이 일을 꼭 하겠습니다.[font_size=18](jeoneun i il-eul kkog hagesseumnida.)[/font_size][/color] [color=#008000](Je vais certainement faire ce travail.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du futur dans différentes contextes[/color][/font_size]
+
+Le futur peut être employé dans différents contextes pour indiquer une intention, une supposition, ou un plan.
+
+[indent]• [b]Intention de faire quelque chose[/b]
+[i]Exemple : [color=#0000FF]저는 지금 숙제를 할 것입니다.[font_size=18](jeoneun jigeum sugje-reul hal geosimnida.)[/font_size][/color] [color=#008000](Je vais faire mes devoirs maintenant.)[/color][/i]
+
+- [b]Supposition sur le futur[/b]
+[i]Exemple : [color=#0000FF]비가 올 것 같습니다.[font_size=18](biga ol geot gatsseumnida.)[/font_size][/color] [color=#008000](Il semble qu'il va pleuvoir.)[/color][/i]
+
+- [b]Plan futur fixe[/b]
+[i]Exemple : [color=#0000FF]우리는 다음 주에 여행을 갈 것입니다.[font_size=18](urineun daeum jue yoehaeng-eul gal geosimnida.)[/font_size][/color] [color=#008000](Nous partons en voyage la semaine prochaine.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Différence entre 을/ㄹ 것이다 et 겠다[/color][/font_size]
+
+Il est crucial de comprendre la différence entre ces deux structures :
+[indent]• [b]을/ㄹ 것이다[/b] est souvent utilisé pour des plans et des décisions futures, et est plus neutre.
+- [b]겠다[/b] exprime souvent une détermination ou une promesse et peut aussi être utilisé pour émettre des suppositions.[/indent]
+
+[i]Exemple en contraste :[/i]
+[indent]
+- [color=#0000FF]저는 내일 서울에 갈 것입니다.[font_size=18](jeoneun naeil seoul-e gal geosimnida.) [/font_size][/color] [color=#008000](J'irai à Séoul demain.)[/color]
+- [color=#0000FF]저는 서울에 꼭 가겠습니다.[font_size=18](jeoneun seoul-e kkog gagessseumnida.) [/font_size][/color] [color=#008000](Je vais certainement aller à Séoul.)[/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le futur en coréen peut être exprimé par les structures -을/ㄹ 것이다 et -겠다.
+[color=#FF0000]2.[/color] La structure -을/ㄹ 것이다 est plus neutre et couramment utilisée pour des plans et décisions futures.
+[color=#FF0000]3.[/color] La structure -겠다 exprime souvent une détermination ou une promesse.
+[color=#FF0000]4.[/color] Choisissez la structure selon l'intention et le contexte de votre phrase.[/indent]
+
+[center][font_size=18][color=#808080]미래 시제를 정확히 사용하여 한국어 표현을 더 자연스럽게 만드세요! (mirae sije-reul jeonghwaghi sayongha-yeo han-gugeo pyohyeon-eul deo jayeon seureobge mandeuseyo!)[/color][/font_size][/center]

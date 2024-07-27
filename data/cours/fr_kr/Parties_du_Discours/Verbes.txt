@@ -1,1 +1,98 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les verbes sont une partie essentielle de la langue coréenne car ils expriment des actions, des états et des occurrences. En coréen, les verbes suivent des règles de conjugaison spécifiques qui dépendent du niveau de politesse et du temps. Comprendre ces règles vous aidera à former des phrases correctes et respectueuses en coréen.
+
+[font_size=24][color=#4B0082]1. Structure de base des verbes coréens[/color][/font_size]
+
+En coréen, les verbes se terminent souvent par la terminaison 다 (da). Pour les conjuguer, on enlève cette terminaison et on ajoute celle appropriée selon le contexte. Voici quelques exemples de verbes à l'infinitif :
+
+[indent][code]
+가다 (gada) [color=#008000](aller)[/color]
+먹다 (meokda) [color=#008000](manger)[/color]
+보다 (boda) [color=#008000](voir)[/color]
+하다 (hada) [color=#008000](faire)[/color]
+주다 (juda) [color=#008000](donner)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그는 먹다.[font_size=18pt](Geuneun meokda.)[/font_size][/color] [color=#008000](Il mange.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison des verbes en coréen[/color][/font_size]
+
+Les verbes en coréen sont conjugués en fonction de trois critères principaux : le temps (présent, passé, futur), le niveau de politesse (formel, informel) et le type de verbe (action, descriptif). Voici quelques exemples pour chacun de ces critères.
+
+[b]a) Présent[/b]
+[indent]Pour le présent, on ajoute la terminaison spécifique au radical du verbe.
+[code]
+가다 → 가요 (gayo) [color=#008000](aller (formel))[color]
+먹다 → 먹어요 (meogeoyo) [color=#008000](manger (formel))[color]
+보다 → 봐요 (bwayo) [color=#008000](voir (formel))[color]
+하다 → 해요 (haeyo) [color=#008000](faire (formel))[color]
+주다 → 줘요 (jwoyo) [color=#008000](donner (formel))[color]
+[/code]
+
+[i]Exemple : [color=#0000FF]저는 학교에 가요.[font_size=18pt](Jeoneun hakgyoe gayo.)[/font_size][/color] [color=#008000](Je vais à l'école (formel).)[/color][/i][/indent]
+
+[b]b) Passé[/b]
+[indent]Pour le passé, on utilise la terminaison 었어요 (eosseoyo) ou 았어요 (asseoyo) selon les règles d'harmonie vocalique.
+[code]
+가다 → 갔어요 (gasseoyo) [color=#008000](allé (formel))[color]
+먹다 → 먹었어요 (meogeosseoyo) [color=#008000](mangé (formel))[color]
+보다 → 봤어요 (bwasseoyo) [color=#008000](vu (formel))[color]
+하다 → 했어요 (haesseoyo) [color=#008000](fait (formel))[color]
+주다 → 줬어요 (jwosseoyo) [color=#008000](donné (formel))[color]
+[/code]
+
+[i]Exemple : [color=#0000FF]저는 책을 읽었어요.[font_size=18pt](Jeoneun chaekeul ilgeosseoyo.)[/font_size][/color] [color=#008000](J'ai lu un livre (formel).)[/color][/i][/indent]
+
+[b]c) Futur[/b]
+[indent]Pour le futur, on utilise la terminaison ~ㄹ 거예요 (~l geoyeyo) ou ~을 거예요 (~eul geoyeyo) selon la dernière consonne du radical.
+[code]
+가다 → 갈 거예요 (gal geoyeyo) [color=#008000](irai (formel))[color]
+먹다 → 먹을 거예요 (meogeul geoyeyo) [color=#008000](mangerai (formel))[color]
+보다 → 볼 거예요 (bol geoyeyo) [color=#008000](verrai (formel))[color]
+하다 → 할 거예요 (hal geoyeyo) [color=#008000](ferai (formel))[color]
+주다 → 줄 거예요 (jul geoyeyo) [color=#008000](donnerai (formel))[color]
+[/code]
+
+[i]Exemple : [color=#0000FF]내일 만날 거예요.[font_size=18pt](Naeil mannalk geoyeyo.)[/font_size][/color] [color=#008000](Je vous rencontrerai demain (formel).)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Niveaux de politesse et de formalité[/color][/font_size]
+
+En coréen, le niveau de politesse est très important et il existe plusieurs niveaux selon le contexte et le degré de respect à montrer.
+
+[b]a) Informel poli (반말, banmal)[/b]
+[indent]Utilisé entre amis proches ou personnes plus jeunes.
+[code]
+가다 → 가 (ga) [color=#008000](aller)[/color]
+먹다 → 먹어 (meogeo) [color=#008000](manger)[/color]
+보다 → 봐 (bwa) [color=#008000](voir)[/color]
+하다 → 해 (hae) [color=#008000](faire)[/color]
+주다 → 줘 (jwo) [color=#008000](donner)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]나 갈게.[font_size=18pt](Na galge.)[/font_size][/color] [color=#008000](Je vais y aller (informel).)[/color][/i][/indent]
+
+[b]b) Formel poli (존댓말, jondaetmal)[/b]
+[indent]Utilisé avec des personnes plus âgées, des inconnus ou dans des contextes formels.
+[code]
+가다 → 갑니다 (gamnida) [color=#008000](aller)[/color]
+먹다 → 먹습니다 (meokseumnida) [color=#008000](manger)[/color]
+보다 → 봅니다 (bomnida) [color=#008000](voir)[/color]
+하다 → 합니다 (hamnida) [color=#008000](faire)[/color]
+주다 → 줍니다 (jumnida) [color=#008000](donner)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]저는 갑니다.[font_size=18pt](Jeoneun gamnida.)[/font_size][/color] [color=#008000](Je vais (formel).)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes coréens suivent des règles de conjugaison précises basées sur le temps, le niveau de politesse et le type de verbe.
+[color=#FF0000]2.[/color] La terminaison 다 (da) est souvent utilisée pour les verbes à l'infinitif.
+[color=#FF0000]3.[/color] Les conjugaisons doivent respecter les règles d'harmonie vocalique et les terminaisons appropriées.
+[color=#FF0000]4.[/color] Le niveau de politesse est crucial pour une communication respectueuse en coréen.[/indent]
+
+[center][font_size=18][color=#808080]정확한 동사 사용으로, 한국어를 더 유창하게 구사할 수 있습니다! (Jeonghwakhan dongsa sayongeuro, hangugeoreul deo yuchanghage gusahal su issseumnida!)[/color][/font_size][/center]

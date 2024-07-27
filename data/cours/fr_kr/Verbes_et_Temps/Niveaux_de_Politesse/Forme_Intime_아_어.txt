@@ -1,1 +1,70 @@
+[font_size=30][center][b][color=#0000FF]Les Niveaux de Politesse en Coréen – La Forme Intime (아/어)[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Le coréen utilise différents niveaux de politesse pour parler selon le contexte et l'interlocuteur. La forme intime (아/어) est utilisée avec des amis proches, des membres de la famille de même âge ou plus jeunes, et dans des situations décontractées. Elle est essentielle pour établir une proximité et une aisance dans la communication quotidienne.
+
+[font_size=24][color=#4B0082]1. Structure de la forme intime (아/어)[/color][/font_size]
+
+La forme intime se construit en ajoutant les terminaisons [color=#FF0000]아[/color] (a) ou [color=#FF0000]어[/color] (eo) à la racine du verbe. Le choix entre [color=#FF0000]아[/color] et [color=#FF0000]어[/color] dépend de la dernière voyelle de la racine du verbe.
+
+[b]a) Si la dernière voyelle est ㅏ (a) ou ㅗ (o)[/b]
+[indent]On utilise la terminaison [color=#FF0000]아[/color] (a).
+[code]
+가다 (gada) → 가 (ga) + 아 (a) → 가요 (ga-yo) → 가 (ga)
+오다 (oda) → 오 (o) + 아 (a) → 와 (wa)
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 학교에 가.[font_size=18pt](Naneun hakgyoe ga.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+
+[b]b) Si la dernière voyelle est autre que ㅏ (a) ou ㅗ (o)[/b]
+[indent]On utilise la terminaison [color=#FF0000]어[/color] (eo).
+[code]
+먹다 (meokda) → 먹 (meok) + 어 (eo) → 먹어 (meog-eo)
+배우다 (baeu-da) → 배우 (baeu) + 어 (eo) → 배워 (baewo)
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 밥을 먹어.[font_size=18pt](Naneun babeul meog-eo.)[/font_size][/color] [color=#008000](Je mange du riz.)[/color][/i][/indent]
+
+[b]c) Verbes se terminant par 하다 (hada)[/b]
+[indent]On transforme 하다 (hada) en 해 (hae).
+[code]
+공부하다 (gongbu-hada) → 공부해 (gongbu-hae)
+일하다 (il-hada) → 일해 (il-hae)
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 공부해.[font_size=18pt](Naneun gongbu-hae.)[/font_size][/color] [color=#008000](J'étudie.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de la forme intime (아/어)[/color][/font_size]
+
+La forme intime est couramment utilisée dans des contextes informels et familiers. Voici quelques situations courantes où cette forme est appropriée.
+
+[indent]• Parler à des amis proches de même âge ou plus jeunes :
+[i]Exemple : [color=#0000FF]우리 같이 가자.[font_size=18pt](Uri gachi gaja.)[/font_size][/color] [color=#008000](Allons-y ensemble.)[/color][/i]
+
+- Parler à des membres de la famille de même âge ou plus jeunes :
+[i]Exemple : [color=#0000FF]엄마, 이거 봐.[font_size=18pt](Eomma, igeo bwa.)[/font_size][/color] [color=#008000](Maman, regarde ça.)[/color][/i]
+
+- Situations décontractées sans besoin de formalisme :
+[i]Exemple : [color=#0000FF]나 먼저 갈게.[font_size=18pt](Na meonjeo galge.)[/font_size][/color] [color=#008000](Je vais partir en premier.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précautions d'usage[/color][/font_size]
+
+Même si la forme intime est utile et courante, il est important de respecter les niveaux de politesse en fonction de l'interlocuteur et de la situation.
+
+[indent]• Ne pas utiliser la forme intime avec des inconnus ou dans des situations formelles :
+[i]Corriger : [color=#0000FF]안녕하세요.[font_size=18pt](Annyeonghaseyo.)[/font_size][/color] [color=#008000](Bonjour.)[/color] au lieu de [color=#0000FF]안녕.[font_size=18pt](Annyeong.)[/font_size][/color] [color=#008000](Salut.)[/color][/i]
+
+- Utiliser la forme intime avec discernement pour maintenir des relations harmonieuses :
+[i]Exemple : Utilisez [color=#FF0000]요[/color] pour adoucir la forme intime : [color=#0000FF]가요.[font_size=18pt](Gayo.)[/font_size][/color] [color=#008000](Je vais.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La forme intime (아/어) est utilisée dans des contextes familiers et décontractés.
+[color=#FF0000]2.[/color] La terminaison [color=#FF0000]아[/color] (a) est utilisée après les voyelles ㅏ (a) ou ㅗ (o), et [color=#FF0000]어[/color] (eo) après les autres voyelles.
+[color=#FF0000]3.[/color] Les verbes se terminant par 하다 (hada) se transforment en 해 (hae).
+[color=#FF0000]4.[/color] Respectez les niveaux de politesse en fonction de l'interlocuteur et du contexte pour éviter les malentendus.[/indent]
+
+[center][font_size=18][color=#808080]친근한 분위기에서 아/어 형태를 사용하여 소통하세요! (chingunhan bunwigieseo a/eo hyeongtaereul sayonghayeo sotonghaseyo!) [font_size=16](Communiquez en utilisant la forme intime (아/어) dans des contextes chaleureux !)[/font_size][/color][/font_size][/center]

@@ -1,1 +1,103 @@
+[font_size=30][center][b][color=#0000FF]Les Adverbes en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les adverbes en coréen jouent un rôle essentiel pour modifier les verbes, les adjectifs, ou d'autres adverbes afin de fournir plus de précision sur la manière, le temps, le lieu, ou le degré d'une action ou d'un état. Comprendre et utiliser correctement les adverbes vous permet de rendre vos phrases en coréen plus descriptives et naturelles.
+
+[font_size=24][color=#4B0082]1. Les Types d'Adverbes[/color][/font_size]
+
+Les adverbes peuvent être classés en plusieurs catégories selon leur fonction dans la phrase. Voici quelques-unes des principales catégories :
+
+[b]a) Adverbes de Temps[/b]
+[indent]Les adverbes de temps nous indiquent quand une action a lieu.
+[code]
+지금 (jigeum) [color=#008000](maintenant)[/color]
+오늘 (oneul) [color=#008000](aujourd'hui)[/color]
+내일 (naeil) [color=#008000](demain)[/color]
+어제 (eoje) [color=#008000](hier)[/color]
+항상 (hangsang) [color=#008000](toujours)[/color]
+자주 (jaju) [color=#008000](souvent)[/color]
+가끔 (gakkeum) [color=#008000](parfois)[/color]
+결국 (gyeolguk) [color=#008000](finalement)[/color]
+벌써 (beolsseo) [color=#008000](déjà)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]저는 지금 공부하고 있어요.[font_size=18pt](Jeoneun jigeum gongbuhago isseoyo.)[/font_size][/color] [color=#008000](Je suis en train d'étudier maintenant.)[/color][/i][/indent]
+
+[b]b) Adverbes de Lieu[/b]
+[indent]Les adverbes de lieu nous indiquent où une action a lieu.
+[code]
+여기 (yeogi) [color=#008000](ici)[/color]
+거기 (geogi) [color=#008000](là)[/color]
+저기 (jeogi) [color=#008000](là-bas)[/color]
+밖에 (bakke) [color=#008000](dehors)[/color]
+안에 (ane) [color=#008000](à l'intérieur)[/color]
+위에 (wie) [color=#008000](au-dessus)[/color]
+밑에 (mite) [color=#008000](en dessous)[/color]
+사이에 (saie) [color=#008000](entre)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]책은 책상 위에 있어요.[font_size=18pt](Chaekeun chaeksang wie isseoyo.)[/font_size][/color] [color=#008000](Le livre est sur la table.)[/color][/i][/indent]
+
+[b]c) Adverbes de Manière[/b]
+[indent]Les adverbes de manière nous indiquent comment une action est réalisée.
+[code]
+빨리 (ppalli) [color=#008000](rapidement)[/color]
+천천히 (cheoncheonhi) [color=#008000](lentement)[/color]
+정확히 (jeonghwakhi) [color=#008000](précisément)[/color]
+조용히 (joyonghi) [color=#008000](silencieusement)[/color]
+잘 (jal) [color=#008000](bien)[/color]
+못 (mot) [color=#008000](mal)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그는 빨리 달려요.[font_size=18pt](Geuneun ppalli dallyeoyo.)[/font_size][/color] [color=#008000](Il court rapidement.)[/color][/i][/indent]
+
+[b]d) Adverbes de Degré[/b]
+[indent]Les adverbes de degré modifient l'intensité d'un adjectif ou d'un autre adverbe.
+[code]
+매우 (maeu) [color=#008000](très)[/color]
+아주 (aju) [color=#008000](très, vraiment)[/color]
+많이 (mani) [color=#008000](beaucoup)[/color]
+조금 (jogeum) [color=#008000](un peu)[/color]
+너무 (neomu) [color=#008000](trop)[/color]
+덜 (deol) [color=#008000](moins)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]이것은 매우 비싸요.[font_size=18pt](Igeoseun maeu bissayo.)[/font_size][/color] [color=#008000](Ceci est très cher.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Règles et Utilisation des Adverbes[/color][/font_size]
+
+Lorsque vous utilisez des adverbes en coréen, il est important de connaître quelques règles essentielles pour leur positionnement et leur concordance avec les verbes, adjectifs, ou autres adverbes. Voici quelques points pratiques à garder à l'esprit :
+
+[indent]• [b]Position de l'Adverbe :[/b] En coréen, les adverbes se placent généralement avant le verbe.
+[i]Exemple : [color=#0000FF]나는 자주 그곳에 가요.[font_size=18pt](Naneun jaju geugose gayo.)[/font_size][/color] [color=#008000](Je vais souvent là-bas.)[/color][/i]
+
+- [b]Combinaison avec les Verbes :[/b] Les adverbes peuvent être combinés avec des verbes pour décrire l'action de manière plus précise.
+[i]Exemple : [color=#0000FF]그녀는 조용히 이야기했어요.[font_size=18pt](Geunyeoneun joyonghi iyagihayeosseoyo.)[/font_size][/color] [color=#008000](Elle a parlé doucement.)[/color][/i]
+
+- [b]Intensification avec 다른 Adverbes :[/b] Parfois, plusieurs adverbes peuvent être utilisés ensemble pour intensifier ou adoucir le sens.
+[i]Exemple : [color=#0000FF]그는 정말 천천히 걸었어요.[font_size=18pt](Geuneun jeongmal cheoncheonhi georeosseoyo.)[/font_size][/color] [color=#008000](Il a vraiment marché lentement.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Adverbes et Expressions Courantes[/color][/font_size]
+
+Il existe diverses expressions courantes en coréen qui utilisent des adverbes pour exprimer des concepts ou des idées de manière concise et efficace :
+
+[indent]• [b]천천히 하세요 (cheoncheonhi haseyo) :[/b] Prenez votre temps.
+[i]Exemple : [color=#0000FF]천천히 하세요, 서두르지 마세요.[font_size=18pt](Cheoncheonhi haseyo, seodureuji maseyo.)[/font_size][/color] [color=#008000](Prenez votre temps, ne vous dépêchez pas.)[/color][/i]
+
+- [b]빨리 와요 (ppalli wayo) :[/b] Dépêchez-vous.
+[i]Exemple : [color=#0000FF]지금 빨리 와요![font_size=18pt](Jigeum ppalli wayo!)[/font_size][/color] [color=#008000](Venez vite maintenant!)[/color][/i]
+
+- [b]아주 좋아요 (aju joayo) :[/b] C'est très bien.
+[i]Exemple : [color=#0000FF]그것은 아주 좋아요.[font_size=18pt](Geugeoseun aju joayo.)[/font_size][/color] [color=#008000](C'est très bien.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les adverbes modifient les verbes, les adjectifs, ou d'autres adverbes pour offrir plus de détails.
+[color=#FF0000]2.[/color] Les adverbes de temps, lieu, manière, et degré sont essentiels pour décrire correctement une action.
+[color=#FF0000]3.[/color] La position des adverbes avant le verbe est une règle générale en coréen.
+[color=#FF0000]4.[/color] Utiliser correctement les adverbes rend votre coréen plus précis et naturel.[/indent]
+
+[center][font_size=18][color=#808080]정확한 부사의 사용으로 더 나은 한국어 표현을 하세요! (jeonghwaghan busaui sayongeuro deo naeun hangugeo pyohyeoneul haseyo!)[/color][/font_size][/center]

@@ -1,1 +1,64 @@
+[font_size=30][center][b][color=#0000FF]Les Particules de Lieu en Coréen: 에 (e) et 에서 (eseo)[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les particules de lieu en coréen, [color=#FF0000]에[/color] (e) et [color=#FF0000]에서[/color] (eseo), sont utilisées pour indiquer des relations spatiales dans une phrase. Elles jouent un rôle essentiel pour comprendre et exprimer avec précision la localisation des actions.
+
+[font_size=24][color=#4B0082]1. Particule 에 (e)[/color][/font_size]
+
+La particule [color=#FF0000]에[/color] (e) est utilisée pour indiquer la destination ou le lieu où une action statique se passe.
+
+[b]a) Destination[/b]
+[indent]Elle marque la destination, c’est-à-dire le lieu vers lequel on se dirige ou l’objectif d’un déplacement.
+[code]
+저는 학교에 갑니다 (jeoneun hakgyo-e gamnida) [color=#008000](Je vais à l'école)[/color]
+그는 집에 돌아갑니다 (geuneun jib-e doragamnida) [color=#008000](Il retourne à la maison)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]학원을 다녀요.[font_size=18pt](hagwon-e danyeo.)[/font_size][/color] [color=#008000](Je vais au cours privé.)[/color][/i][/indent]
+
+[b]b) Lieu d'une action statique[/b]
+[indent]Utilisé pour parler du lieu où se trouve quelqu'un ou quelque chose ou où une action, sans déplacement, a lieu.
+[code]
+책상 위에 (chaeksang wi-e) [color=#008000](sur le bureau)[/color]
+방에 (bang-e) [color=#008000](dans la chambre)[/color]
+사무실에 있어요 (samusil-e isseo) [color=#008000](être dans le bureau)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]그는 방에 있어요.[font_size=18pt](geuneun bang-e isseoyo.)[/font_size][/color] [color=#008000](Il est dans la chambre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Particule 에서 (eseo)[/color][/font_size]
+
+La particule [color=#FF0000]에서[/color] (eseo) est utilisée pour désigner l'endroit où une action dynamique ou un événement se produit.
+
+[indent]• Lieu d'une action ou d'un événement dynamique
+[i]Exemple : [color=#0000FF]학교에서 공부합니다.[font_size=18pt](hakgyo-eseo gongbuhamnida.)[/font_size][/color] [color=#008000](Il/Elle étudie à l'école.)[/color][/i]
+
+[indent] - Lieu où se déroule une activité ou un événement :
+[code]
+식당에서 (sikdang-eseo) [color=#008000](au restaurant)[/color]
+공원에서 (gongwon-eseo) [color=#008000](dans le parc)[/color]
+사무실에서 일해요 (samusil-eseo ilhaeyo) [color=#008000](travailler au bureau)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]백화점에서 쇼핑해요.[font_size=18pt](baekhwajeom-eseo syopinghaeyo.)[/font_size][/color] [color=#008000](Il/Elle fait du shopping au centre commercial.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Différences et Utilisation[/color][/font_size]
+
+Pour choisir entre [color=#FF0000]에[/color] (e) et [color=#FF0000]에서[/color] (eseo), il faut considérer si le verbe utilisé indique une action statique ou dynamique.
+
+[indent]• Utilisez [color=#FF0000]에[/color] (e) pour :
+ indiquer une destination ou un lieu statique.
+[i]Exemple : [color=#0000FF]도서관에 가요.[font_size=18pt](doseogwan-e gayo.)[/font_size][/color] [color=#008000](Je vais à la bibliothèque.)[/color][/i]
+
+- Utilisez [color=#FF0000]에서[/color] (eseo) pour :
+ indiquer un lieu où se produit une action dynamique.
+[i]Exemple : [color=#0000FF]커피숍에서 만나요.[font_size=18pt](keopisyop-eseo mannayo.)[/font_size][/color] [color=#008000](Vous rencontrez au café.)[/color][/i]
+[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La particule [color=#FF0000]에[/color] (e) indique la destination ou un lieu statique.
+[color=#FF0000]2.[/color] La particule [color=#FF0000]에서[/color] (eseo) indique le lieu d'une action dynamique ou d'un événement.
+[color=#FF0000]3.[/color] Choisissez entre [color=#FF0000]에[/color] (e) et [color=#FF0000]에서[/color] (eseo) selon le contexte du verbe associé.[/indent]
+
+[center][font_size=18][color=#808080]한국어 입문을 축하합니다! (hangug-eo ipmun-eul chughaham-ida!) - Félicitations pour vos débuts en Coréen![/color][/font_size][/center]

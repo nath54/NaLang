@@ -1,1 +1,72 @@
+[font_size=30][center][b][color=#0000FF]Introduction aux Voyelles en Hangul[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+L'apprentissage du coréen commence par la maîtrise de son alphabet, le [color=#FF0000]한글[/color] (hangeul). Le hangeul est composé de 14 consonnes de base et 10 voyelles de base. Dans cette leçon, nous allons nous concentrer sur les voyelles.
+
+[font_size=24][color=#4B0082]1. Les Voyelles de Base[/color][/font_size]
+
+Les voyelles en hangeul peuvent être classées en deux catégories : voyelles simples et voyelles composées. Voici les 10 voyelles simples de base :
+
+[b]a) Voyelles simples[/b]
+[indent]Les voyelles simples sont des unités de son. Apprendre ces formes vous aidera à lire et prononcer correctement le coréen.
+[code]
+ㅏ (a) [color=#008000](comme dans "papa")[/color]
+ㅑ (ya) [color=#008000](comme dans "maya")[/color]
+ㅓ (eo) [color=#008000](comme dans "sort")[/color]
+ㅕ (yeo) [color=#008000](comme dans "yeux" avec un son "o")[/color]
+ㅗ (o) [color=#008000](comme dans "eau")[/color]
+ㅛ (yo) [color=#008000](comme dans "yo-yo")[/color]
+ㅜ (u) [color=#008000](comme dans "ou")[/color]
+ㅠ (yu) [color=#008000](comme dans "you")[/color]
+ㅡ (eu) [color=#008000](comme dans "eux" mais avec la bouche serrée)[/color]
+ㅣ (i) [color=#008000](comme dans "si")[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]학교 (hakgyo)[/color] [color=#008000](école)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les Voyelles Composées[/color][/font_size]
+
+Les voyelles composées sont formées par la combinaison de deux voyelles simples. Voici quelques-unes des voyelles composées les plus courantes :
+
+[b]a) Voyelles composées[/b]
+[indent]Les voyelles composées élargissent la gamme de sons disponibles en coréen.
+[code]
+ㅐ (ae) [color=#008000](comme dans "paix")[/color]
+ㅒ (yae) [color=#008000](comme dans "Yale")[/color]
+ㅔ (e) [color=#008000](comme dans "fermé")[/color]
+ㅖ (ye) [color=#008000](comme dans "hier")[/color]
+ㅘ (wa) [color=#008000](comme dans "waouh")[/color]
+ㅙ (wae) [color=#008000](comme dans "ouais")[/color]
+ㅚ (oe) [color=#008000](comme dans "oi" en anglais "coin")[/color]
+ㅝ (wo) [color=#008000](comme dans "what" en anglais)[/color]
+ㅞ (we) [color=#008000](comme dans "wedding" en anglais)[/color]
+ㅟ (wi) [color=#008000](comme dans "oui")[/color]
+ㅢ (ui) [color=#008000](comme dans "eui" prononcé rapidement)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]외국 (oeguk)[/color] [color=#008000](étranger)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Importance des Voyelles en Hangeul[/color][/font_size]
+
+Les voyelles jouent un rôle crucial dans la structure des syllabes en hangeul. Une syllabe en hangeul est composée soit d'une consonne suivie d'une voyelle, soit d'une consonne suivie d'une voyelle et d'une autre consonne.
+
+[indent]• Les syllabes simples se forment avec une consonne et une voyelle :
+[i]Exemple : [color=#0000FF]가 (ga)[/color] [color=#008000](aller)[/color][/i]
+
+- Les syllabes plus complexes peuvent inclure des voyelles composées :
+[i]Exemple : [color=#0000FF]갸 (gya)[/color] [color=#008000](un son composite)[/color][/i]
+
+- La position et la combinaison des voyelles sont importantes pour la prononciation :
+[i]Exemple : [color=#0000FF]책 (chaek)[/color] [color=#008000](livre)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le hangeul est l'alphabet utilisé en coréen, composé de voyelles et consonnes.
+[color=#FF0000]2.[/color] Il y a 10 voyelles simples de base à maîtriser en premier.
+[color=#FF0000]3.[/color] Les voyelles composées sont formées en combinant des voyelles simples.
+[color=#FF0000]4.[/color] Comprendre les voyelles est essentiel pour bien former et lire les syllabes en hangeul.[/indent]
+
+[center][font_size=18][color=#808080]한글의 모음을 이해하면 한국어를 쉽게 배울 수 있습니다! (hangeul ui moeum eul ihae hamyeon hangugeo reul swipge baeul su iss seubnida!)[/color][/font_size][/center]

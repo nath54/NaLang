@@ -1,1 +1,66 @@
+[font_size=30][center][b][color=#0000FF]Exprimer la Capacité en Coréen avec 수 있다 (su itda)[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+En coréen, pour exprimer la capacité de faire quelque chose, on utilise la structure verbale [b]수 있다 (su itda)[/b]. Cette structure permet de dire que quelqu'un "peut" ou "est capable de" faire une action.
+
+[font_size=24][color=#4B0082]1. Formation de la structure 수 있다 (su itda)[/color][/font_size]
+
+Pour former cette expression, on prend le radical du verbe et on ajoute [b]수 있다 (su itda)[/b]. Voici les étapes à suivre :
+
+[indent][b]Étape 1[/b]: Prenez le radical du verbe.
+[code]
+먹다 (meokda) [color=#008000](manger)[/color] -> 먹 (meok)
+가다 (gada) [color=#008000](aller)[/color] -> 가 (ga)
+[/code]
+
+[b]Étape 2[/b]: Ajoutez 수 있다 (su itda) après le radical du verbe.
+[code]
+먹다 + 수 있다 -> 먹을 수 있다 (meogeul su itda) [color=#008000](pouvoir manger)[/color]
+가다 + 수 있다 -> 갈 수 있다 (gal su itda) [color=#008000](pouvoir aller)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison de 수 있다 (su itda)[/color][/font_size]
+
+La structure [b]수 있다 (su itda)[/b] se conjugue selon le temps et le contexte de la phrase. 
+
+[indent][b]a) Présent[/b]
+[indent][i]Exemple : [color=#0000FF]저는 한국어를 공부할 수 있어요.[font_size=18pt](Jeoneun hangugeo-reul gongbu hal su isseoyo.)[/font_size][/color] [color=#008000](Je peux étudier le coréen.)[/color][/i][/indent]
+
+[b]b) Passé[/b]
+[indent][i]Exemple : [color=#0000FF]저는 어제 10킬로미터를 뛸 수 있었어요.[font_size=18pt](Jeoneun eoje 10-kilomitereul ttwil su isseossoyo.)[/font_size][/color] [color=#008000](Hier, j'ai pu courir 10 kilomètres.)[/color][/i][/indent]
+
+[b]c) Futur[/b]
+[indent][i]Exemple : [color=#0000FF]내일 저는 일찍 일어날 수 있을 거예요.[font_size=18pt](Nae-il jeoneun iljjik ireonalsu isseul geoyeyo.)[/font_size][/color] [color=#008000](Demain, je pourrai me lever tôt.)[/color][/i][/indent][/indent]
+
+[font_size=24][color=#4B0082]3. Négation de 수 있다 (su itda)[/color][/font_size]
+
+Pour nier la capacité de faire quelque chose, on utilise [b]수 없다 (su eopda)[/b].
+
+[indent][i]Exemple : [color=#0000FF]저는 수영을 할 수 없어요.[font_size=18pt](Jeoneun suyeongeul hal su eopseoyo.)[/font_size][/color] [color=#008000](Je ne peux pas nager.)[/color][/i]
+
+[i][color=#0000FF]그는 지금 여기에서 나갈 수 없어요.[font_size=18pt](Geuneun jigeum yeogieseo nagal su eopseoyo.)[/font_size][/color] [color=#008000](Il ne peut pas sortir d'ici en ce moment.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Utilisation pratique de 수 있다 et 수 없다 (su itda et su eopda)[/color][/font_size]
+
+Comprendre comment utiliser 수 있다 (su itda) et 수 없다 (su eopda) peut grandement améliorer vos compétences en coréen, surtout dans des situations quotidiennes où vous devez exprimer vos capacités.
+
+[indent][b]a) Poser des questions sur la capacité de quelqu'un[/b]
+[indent][i]Exemple : [color=#0000FF]당신은 피아노를 칠 수 있어요?[font_size=18pt](Dangsin-eun piano-reul chil su isseoyo?) [/font_size][/color] [color=#008000](Pouvez-vous jouer du piano?)[/color][/i][/indent]
+
+[b]b) Parler de ses propres capacités[/b]
+[indent][i]Exemple : [color=#0000FF]나는 자전거를 탈 수 있어요.[font_size=18pt](Naneun jajeongeo-reul tal su isseoyo.)[/font_size][/color] [color=#008000](Je peux faire du vélo.)[/color][/i][/indent]
+
+[b]c) Mentionner l'incapacité à réaliser quelque chose[/b]
+[indent][i]Exemple : [color=#0000FF]저는 그 책을 읽을 수 없어요.[font_size=18pt](Jeoneun geu chaekeul ilgeul su eopseoyo.)[/font_size][/color] [color=#008000](Je ne peux pas lire ce livre.)[/color][/i][/indent][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] [b]수 있다 (su itda)[/b] est utilisé pour indiquer la possibilité ou la capacité de faire quelque chose.
+[color=#FF0000]2.[/color] La structure se forme en ajoutant [b]수 있다 (su itda)[/b] au radical du verbe.
+[color=#FF0000]3.[/color] Pour nier la capacité, utilisez [b]수 없다 (su eopda)[/b].
+[color=#FF0000]4.[/color] Cette structure est pratique pour poser des questions, parler de ses capacités, et mentionner des incapacités.[/indent]
+
+[center][font_size=18][color=#808080]이 구조를 잘 사용하여, 여러분의 한국어 실력을 더 향상시킬 수 있습니다! (i gujoreul jal sayonghayeo, yeoreobeon-ui hangugeo silyeogeul deo hyangsangsikil su isseumnida!)[/color][/font_size][/center]

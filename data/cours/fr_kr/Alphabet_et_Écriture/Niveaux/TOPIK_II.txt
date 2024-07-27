@@ -1,1 +1,67 @@
+[font_size=30][center][b][color=#0000FF]Le TOPIK II en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Le Test of Proficiency in Korean (TOPIK) est un test de compétence en langue coréenne conçu pour les non-natifs. Il est composé de deux niveaux principaux : TOPIK I (débutant) et TOPIK II (intermédiaire à avancé). Cette leçon se concentre sur le TOPIK II, qui est divisé en trois niveaux : intermédiaire, avancé, et très avancé.
+
+[font_size=24][color=#4B0082]1. Structure du TOPIK II[/color][/font_size]
+
+Le TOPIK II teste quatre compétences linguistiques : la compréhension auditive, la compréhension écrite, l'expression écrite, et la grammaire/vocabulaire. Voici un aperçu détaillé :
+
+[b]a) Compréhension auditive[/b]
+[indent]Durant cette partie, les candidats doivent écouter des dialogues, des émissions ou des annonces et répondre à des questions basées sur le contenu entendu.
+[code]
+듣기 (deutgi) [color=#008000](écoute)[/color]
+질문 (jilmun) [color=#008000](questions)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그들은 학교에 가서 무엇을 할 것인가요?[font_size=18pt](Geudeureun hakgyoe gaseo mueoseul hal geos-ingayo?)[/font_size][/color] [color=#008000](Qu'est-ce qu'ils vont faire en allant à l'école ?)[/color][/i][/indent]
+
+[b]b) Compréhension écrite[/b]
+[indent]Les étudiants doivent lire des passages et répondre à des questions les concernant. Cela inclut des articles, des annonces et des descriptions plus longues.
+[code]
+읽기 (ilgi) [color=#008000](lecture)[/color]
+본문 (bonmun) [color=#008000](texte principal)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]이 글의 주제는 무엇인가요?[font_size=18pt](I geurui jujeneun mueos-ingayo?)[/font_size][/color] [color=#008000](Quel est le thème de ce texte ?)[/color][/i][/indent]
+
+[b]c) Expression écrite[/b]
+[indent]Cette section évalue la capacité à rédiger des textes en coréen, allant de courts paragraphes à des essais plus longs.
+[code]
+쓰기 (sseugi) [color=#008000](écriture)[/color]
+작문 (jakmun) [color=#008000](composition)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]한국의 문화에 대해 글을 쓰세요.[font_size=18pt](Hangugui munhwae daehae geurul sseuseyo.)[/font_size][/color] [color=#008000](Écrivez un essai sur la culture coréenne.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Niveaux du TOPIK II[/color][/font_size]
+
+Le TOPIK II couvre les niveaux de 3 à 6. Voici une brève description des compétences attendues à chaque niveau :
+
+[indent][b]Niveau 3 : Intermédiaire[/b]
+Vous devez être capable de mener une conversation simple et comprendre des textes exposant des opinions et des faits.
+[i]Exemple : [color=#0000FF]간단한 작문을 할 수 있고 여러 가지 상황에서 한국어로 말할 수 있다.[font_size=18pt](Gandanhan jangmuneul hal su itgo yeoreo gaji sanghwangeseo hangugeoro malhal su itda.)[/font_size][/color] [color=#008000](Pouvoir rédiger des textes simples et parler coréen dans diverses situations.)[/color][/i]
+
+[b]Niveau 4 : Intermédiaire supérieur[/b]
+Vous devez pouvoir comprendre des conversations et des textes plus complexes et exprimer vos opinions de manière claire.
+[i]Exemple : [color=#0000FF]다양한 주제에 대해 어느 정도 깊이 있게 대화할 수 있다.[font_size=18pt](Dayanghan jujee daehae eoneu jeongdo gipi itge daehwahal su itda.)[/font_size][/color] [color=#008000](Pouvoir discuter de divers sujets avec une certaine profondeur.)[/color][/i]
+
+[b]Niveau 5 : Avancé[/b]
+Vous devez être capable de comprendre des textes et des discours complexes et d'utiliser le coréen de façon fluide dans un contexte professionnel ou académique.
+[i]Exemple : [color=#0000FF]복잡한 주제에 대해 논리적으로 말할 수 있고 글을 쓸 수 있다.[font_size=18pt](Bokjaphan jujee daehae nonrijeogeuro malhal su itgo geurul sseul su itda.)[/font_size][/color] [color=#008000](Pouvoir parler et écrire de manière logique sur des sujets complexes.)[/color][/i]
+
+[b]Niveau 6 : Très avancé[/b]
+Vous devez avoir un niveau de maîtrise proche d'un locuteur natif avec la capacité de comprendre et de produire des textes et discours très complexes.
+[i]Exemple : [color=#0000FF]모든 상황에서 자유롭게 의사소통할 수 있다.[font_size=18pt](Modeun sanghwangeseo jayurobge uisasotonghal su itda.)[/font_size][/color] [color=#008000](Pouvoir communiquer librement dans toutes les situations.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le TOPIK II évalue quatre compétences cruciales : compréhension auditive, compréhension écrite, expression écrite, et grammaire/vocabulaire.
+[color=#FF0000]2.[/color] Le test est divisé en trois niveaux : intermédiaire, avancé, et très avancé.
+[color=#FF0000]3.[/color] Chaque niveau du TOPIK II exige une meilleure compréhension et expression de la langue coréenne, mobilisant les compétences de communication et de rédaction.
+[color=#FF0000]4.[/color] Préparez-vous en pratiquant régulièrement les quatre compétences testées et en vous familiarisant avec différents types de textes et de discours.[/indent]
+
+[center][font_size=18][color=#808080]한국어 능력을 향상시키고 TOPIK II 시험에서 성공하세요! (hangug-eo neunglyeog-eul hyangsangsikigo TOPIK II siheom-eseo seong-gonghaseyo!)[/color][/font_size][/center]

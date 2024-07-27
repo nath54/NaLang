@@ -1,1 +1,55 @@
+[font_size=30][center][b][color=#0000FF]Histoire de la Langue Coréenne[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Le coréen est la langue officielle de la Corée du Sud et de la Corée du Nord. Il est également parlé par les communautés coréennes à travers le monde. L'histoire de la langue coréenne est riche et complexe, influencée par divers facteurs historiques et culturels.
+
+[font_size=24][color=#4B0082]1. Origines et Premières Influences[/color][/font_size]
+
+L'origine exacte de la langue coréenne reste un sujet de débat parmi les linguistes, mais elle est généralement considérée comme appartenant à la famille des langues altaïques.
+
+[b]a) Premières écritures[/b]
+[indent]Avant l'invention de l'alphabet coréen (한글, hangul), les Coréens utilisaient les caractères chinois (한자, hanja) pour écrire. Cette influence chinoise a laissé une empreinte importante sur la langue coréenne, notamment en termes de vocabulaire.
+
+[i]Exemple : [color=#0000FF]人 (인, in)[/color] [color=#008000](personne)[/color][/i][/indent]
+
+[b]b) Le système idu[/b]
+[indent]Au cours du 6ème siècle, le système idu a été développé pour transcrire le coréen à l'aide de caractères chinois. Ce système est un mélange de caractères chinois et de marqueurs grammaticaux coréens.
+
+[i]Exemple : [color=#0000FF]奴婢 (노비, nobi)[/color] [color=#008000](serviteur)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Invention du Hangul[/color][/font_size]
+
+[b]a) Contexte historique[/b]
+[indent]L'alphabet coréen moderne, le 한글 (hangul), a été créé au 15ème siècle sous le règne du roi Sejong le Grand (세종대왕, Sejong Daewang). Avant cela, les caractères chinois étaient largement utilisés, mais ils étaient difficiles à maîtriser pour les classes populaires.
+
+[i]Exemple : [color=#0000FF]세종대왕 (Sejong Daewang)[/color] [color=#008000](Roi Sejong le Grand)[/color][/i][/indent]
+
+[b]b) Structure et objectifs[/b]
+[indent]Le 한글 (hangul) a été conçu pour être facile à apprendre et à utiliser. Il est composé de 14 consonnes et 10 voyelles de base. Ce système phonétique permet de représenter clairement les sons du coréen, facilitant ainsi la lecture et l'écriture pour tous.
+
+[i]Exemple de consonnes : [color=#0000FF]ㄱ (g), ㄴ (n), ㄷ (d)[/color][/i]
+[i]Exemple de voyelles : [color=#0000FF]ㅏ (a), ㅓ (eo), ㅗ (o)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Évolution Moderne[/color][/font_size]
+
+[b]a) Réformes et standardisation[/b]
+[indent]Avec l'avènement de la période moderne, plusieurs réformes linguistiques ont été entreprises pour standardiser et simplifier l'utilisation du 한글 (hangul). Des efforts ont été faits pour réduire l'utilisation des caractères chinois dans la langue écrite officielle et quotidienne.
+
+[i]Exemple de réforme : [color=#0000FF]한글 맞춤법 통일안 (Hangul Matchumbeop Tongilan)[/color] [color=#008000](Règles unifiées d'orthographe du Hangul)[/color][/i][/indent]
+
+[b]b) Influence de la modernité[/b]
+[indent]À mesure que la Corée s'est modernisée et globalisée, le coréen a intégré de nombreux emprunts lexicaux, en particulier issus de l'anglais. Cette évolution reflète les changements culturels et technologiques de la société coréenne contemporaine.
+
+[i]Exemple d'emprunt : [color=#0000FF]컴퓨터 (keompyuteo)[/color] [color=#008000](ordinateur)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le coréen a été fortement influencé par les caractères chinois avant l'invention du 한글 (hangul).
+[color=#FF0000]2.[/color] L'alphabet 한글 (hangul) a été créé sous le règne du roi Sejong le Grand pour faciliter l'alphabétisation.
+[color=#FF0000]3.[/color] Au cours des siècles, le coréen a subi des réformes importantes pour sa standardisation.
+[color=#FF0000]4.[/color] La langue coréenne continue d'évoluer, intégrant des emprunts modernes et reflétant les changements sociaux.[/indent]
+
+[center][font_size=18][color=#808080]한글의 역사를 이해하면 한국어 학습이 더욱 즐거워질 것입니다! (Hangeul-ui yeogsa-reul ihaehamnyeon hangugo haksseup-i deouk jeulgawojil geos-imnida!)[/color][/font_size][/center]

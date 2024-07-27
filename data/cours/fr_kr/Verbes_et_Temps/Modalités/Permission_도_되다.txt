@@ -1,1 +1,61 @@
+[font_size=30][center][b][color=#0000FF]Permission en Coréen: '도 되다'[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+En coréen, pour demander ou donner la permission de faire quelque chose, on utilise l'expression '도 되다' (do doeda). Cette construction est très utile pour des situations où vous avez besoin de demander la permission ou de donner votre accord pour une action. 
+
+[font_size=24][color=#4B0082]1. Structure de base[/color][/font_size]
+
+La structure pour demander ou donner la permission avec '도 되다' est assez simple. Voici comment elle se forme:
+
+[indent][b]Verbe + 아/어/여도 되다[/b][/indent]
+
+La particule '아/어/여도' (a/eo/yeodo) est ajoutée à la racine du verbe, suivie de '되다' (doeda), qui signifie "être permis" ou "être acceptable".
+
+[i]Exemple : [color=#0000FF]가도 돼요?[font_size=18pt](gado dwaeyo?)[/font_size][/color] [color=#008000](Puis-je partir ?)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Forme affirmative[/color][/font_size]
+
+Pour donner la permission de faire quelque chose, on utilise la même structure en réponse affirmative.
+
+[indent][i]Exemple : [color=#0000FF]네, 가도 돼요.[font_size=18pt](ne, gado dwaeyo.)[/font_size][/color] [color=#008000](Oui, tu peux partir.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Forme négative[/color][/font_size]
+
+Pour refuser la permission, on utilise la forme négative du verbe '되다' (doeda), c’est-à-dire '안 되다' (an doeda) ou '으면 안 되다' (eumyeon an doeda).
+
+[indent][i]Exemple : [color=#0000FF]아니요, 가면 안 돼요.[font_size=18pt](aniyo, gamyeon an dwaeyo.)[/font_size][/color] [color=#008000](Non, tu ne peux pas partir.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Changements de verbes en fonction de la racine[/color][/font_size]
+
+La particule '아/어/여도' (a/eo/yeodo) change en fonction de la dernière voyelle du radical du verbe.
+
+[b]a) Radical se terminant par 'ㅏ' ou 'ㅗ'[/b]
+[indent][i]Exemple : 가다 (gada) [color=#008000](aller)[/color] -> 가도 되다 (gado doeda) [color=#008000](avoir la permission d'aller)[/color][/i][/indent]
+
+[b]b) Radical se terminant par d'autres voyelles[/b]
+[indent][i]Exemple : 먹다 (meokda) [color=#008000](manger)[/color] -> 먹어도 되다 (meogeodo doeda) [color=#008000](avoir la permission de manger)[/color][/i][/indent]
+
+[b]c) Radical se terminant par '하다' (hada)[/b]
+[indent][i]Exemple : 일하다 (ilhada) [color=#008000](travailler)[/color] -> 일해도 되다 (ilhaedo doeda) [color=#008000](avoir la permission de travailler)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Exemples courants[/color][/font_size]
+
+Voici quelques exemples courants pour vous aider à mieux comprendre l'utilisation de '도 되다' (do doeda):
+
+[indent][i]Exemple : [color=#0000FF]여기 앉아도 돼요?[font_size=18pt](yeogi anjado dwaeyo?)[/font_size][/color] [color=#008000](Puis-je m'asseoir ici ?)[/color][/i][/indent]
+
+[indent][i]Exemple : [color=#0000FF]이거 먹어도 돼요?[font_size=18pt](igeo meogeodo dwaeyo?)[/font_size][/color] [color=#008000](Puis-je manger ça ?)[/color][/i][/indent]
+
+[indent][i]Exemple : [color=#0000FF]전화해도 돼요?[font_size=18pt](jeonhwahaedo dwaeyo?)[/font_size][/color] [color=#008000](Puis-je téléphoner ?)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] '도 되다' (do doeda) est utilisé pour demander ou donner la permission en coréen.
+[color=#FF0000]2.[/color] La structure de base est Verbe + '아/어/여도 되다' (a/eo/yeodo doeda).
+[color=#FF0000]3.[/color] Pour refuser la permission, utilisez '안 되다' (an doeda) ou '으면 안 되다' (eumyeon an doeda).
+[color=#FF0000]4.[/color] La particule '아/어/여도' (a/eo/yeodo) change en fonction de la dernière voyelle du radical du verbe.[/indent]
+
+[center][font_size=18][color=#808080]한국어로 올바르게 허락을 요청하고 주는 법을 연습하세요!(Hangug-eolo olbarag-ge heolag-eul yojeonghago juneun beob-eul yeonseubhasibsio!)[/color][/font_size][/center]

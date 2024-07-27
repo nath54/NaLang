@@ -1,1 +1,80 @@
+[font_size=30][center][b][color=#0000FF]Les Sons Difficiles en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Apprendre la prononciation du coréen peut parfois être un défi, surtout lorsqu'on rencontre des sons qui n'existent pas en français. Cette leçon se concentre sur quelques-uns des sons les plus difficiles pour les francophones et fournit des conseils et des exemples pour les maîtriser.
+
+[font_size=24][color=#4B0082]1. Les consonnes renforcées[/color][/font_size]
+
+En coréen, certaines consonnes peuvent être renforcées, ce qui change leur prononciation et leur signification. Voici quelques exemples de consonnes renforcées :
+
+[indent][b]a) ㄲ (kk)[/b]
+[kode]
+ㄱ (g/k) vs. ㄲ (kk)
+강 (gang) [color=#008000](fleuve)[/color] vs. 깡 (kkang) [color=#008000](force intense)[/color]
+[/kode]
+
+[b]b) ㄸ (tt)[/b]
+[kode]
+ㄷ (d/t) vs. ㄸ (tt)
+달 (dal) [color=#008000](lune)[/color] vs. 딸 (ttal) [color=#008000](fille)[/color]
+[/kode]
+
+[b]c) ㅃ (pp)[/b]
+[kode]
+ㅂ (b/p) vs. ㅃ (pp)
+발 (bal) [color=#008000](pied)[/color] vs. 빨 (ppal) [color=#008000](rouge vif)[/color]
+[/kode][/indent]
+
+[font_size=24][color=#4B0082]2. Le son ㅇ (ng)[/color][/font_size]
+
+La lettre coréenne ㅇ a deux prononciations différentes en fonction de sa position dans la syllabe :
+
+[indent]- En début de syllabe, elle est muette et sert de support pour les voyelles.
+[i]Exemple : [color=#0000FF]안녕 (annyeong)[/color] [color=#008000](bonjour)[/color][/i]
+
+- En fin de syllabe, elle se prononce comme le son [color=#FF0000]ng[/color] dans "parking".
+[i]Exemple : [color=#0000FF]강 (gang)[/color] [color=#008000](fleuve)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les voyelles combinées[/color][/font_size]
+
+Le coréen possède des voyelles implicatives et combinées qui peuvent être difficiles à prononcer pour les francophones. Voici quelques exemples :
+
+[indent][b]a) ㅘ (wa)[/b]
+[kode]
+화 (hwa) [color=#008000](feu)[/color]
+사과 (sagwa) [color=#008000](pomme)[/color]
+[/kode]
+
+[b]b) ㅙ (wae)[/b]
+[kode]
+왜 (wae) [color=#008000](pourquoi)[/color]
+외국 (oeguk) [color=#008000](étranger)[/color]
+[/kode]
+
+[b]c) ㅢ (ui)[/b]
+[kode]
+의사 (uisa) [color=#008000](docteur)[/color]
+회의 (hoeui) [color=#008000](réunion)[/color]
+[/kode][/indent]
+
+[font_size=24][color=#4B0082]4. Règles de liaisons[/color][/font_size]
+
+En coréen, certaines consonnes changent de sonorité lorsqu'elles sont suivies de certaines voyelles ou consonnes. Voici les règles de base :
+
+[indent]- Lorsque ㄷ (d/t) se trouve à la fin d'une syllabe et est suivie par ㄱ (g/k), elle se transforme en [color=#FF0000]ㄷ ㄱ[/color] (d/k).
+[i]Exemple : [color=#0000FF]닫다 (datda)[/color] [color=#008000](fermer)[/color] devient [color=#0000FF]닫고 (datgo)[/color] [color=#008000](fermer et...)[/color][/i]
+
+- Lorsque ㅂ (b/p) se trouve en fin de syllabe et est suivie par ㄴ (n), elle se transforme en [color=#FF0000]ㅁ ㄴ[/color] (m/n).
+[i]Exemple : [color=#0000FF]밥 (bap)[/color] [color=#008000](riz)[/color] devient [color=#0000FF]밥니다 (bam-nida)[/color] [color=#008000](c'est le riz)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les consonnes renforcées en coréen changent la prononciation et le sens des mots.
+[color=#FF0000]2.[/color] La lettre ㅇ a deux prononciations en fonction de sa position dans la syllabe.
+[color=#FF0000]3.[/color] Les voyelles combinées peuvent être difficiles à prononcer mais sont essentielles pour une bonne compréhension.
+[color=#FF0000]4.[/color] Les règles de liaisons en coréen influencent la sonorité des mots et des phrases.[/indent]
+
+[center][font_size=18][color=#808080]연습하면, 한국어 발음이 더 쉬워질 거예요! (yeonseubhamyeon, hangugeo bareumi deo swiwojil geoyeyo!) [i](Avec de la pratique, la prononciation coréenne deviendra plus facile !)[/i][/color][/font_size][/center]

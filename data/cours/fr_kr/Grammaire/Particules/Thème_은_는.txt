@@ -1,1 +1,60 @@
+[font_size=30][center][b][color=#0000FF]Les Particules Thématiques en Coréen : 은 (eun) et 는 (neun)[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+En coréen, les particules thématiques 은 (eun) et 는 (neun) sont utilisées pour marquer le sujet ou le thème de la phrase. Elles sont similaires mais s'utilisent différemment selon la structure du mot précédent. Maîtriser leur utilisation est essentiel pour écrire et parler coréen correctement.
+
+[font_size=24][color=#4B0082]1. Utilisation de 은 (eun) et 는 (neun)[/color][/font_size]
+
+Les particules thématiques sont utilisées pour indiquer le sujet ou le thème de la phrase. Voici leur utilisation en détail :
+
+[b]a) La particule 은 (eun)[/b]
+[indent]La particule 은 (eun) est utilisée après une consonne.
+[code]
+Exemple : 
+책은 [color=#008000](le livre (책 (chaek)))[/color]
+사람은 [color=#008000](la personne (사람 (saram)))[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]책은 책상 위에 있습니다.[font_size=18pt](Chaek-eun chaeksang wi-e issseumnida.)[/font_size][/color] [color=#008000](Le livre est sur le bureau.)[/color][/i][/indent]
+
+[b]b) La particule 는 (neun)[/b]
+[indent]La particule 는 (neun) est utilisée après une voyelle.
+[code]
+Exemple : 
+나는 [color=#008000](je (나 (na)))[/color]
+우리는 [color=#008000](nous (우리 (uri)))[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 학생입니다.[font_size=18pt](Na-neun haksaeng-imnida.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Différence entre 은 (eun) et 는 (neun)[/color][/font_size]
+
+Les particules 은 (eun) et 는 (neun) ont une différence subtile mais importante dans leur utilisation contextuelle. 은 (eun) est souvent utilisé pour introduire un nouveau sujet, tandis que 는 (neun) est utilisé pour mettre en avant un contraste ou une comparaison.
+
+[indent]• Utilisation de 은 (eun) pour introduire un sujet : 
+[i]Exemple : [color=#0000FF]이 고양이는 귀여워요.[font_size=18pt](I goyang-i-neun gwiyeowoyo.)[/font_size][/color] [color=#008000](Ce chat est mignon.)[/color][/i]
+
+- Utilisation de 는 (neun) pour comparaison ou contraste :
+[i]Exemple : [color=#0000FF]저는 학생이고, 제 친구는 선생님입니다.[font_size=18pt](Jeo-neun haksaeng-igo, je chingu-neun seonsaengnim-imnida.)[/font_size][/color] [color=#008000](Je suis étudiant, mais mon ami est professeur.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Cas particuliers et exceptions[/color][/font_size]
+
+Dans certains cas, les règles d'utilisation des particules thématiques peuvent varier en fonction du contexte ou pour insister sur une particularité.
+
+[indent]• Utilisation répétée pour insister sur un thème :
+[i]Exemple : [color=#0000FF]한국 음식은 맛있고, 건강에도 좋아요.[font_size=18pt](Hanguk eumsik-eun mas-issgo, geongang-edo joayo.)[/font_size][/color] [color=#008000](La nourriture coréenne est délicieuse et bonne pour la santé.)[/color][/i]
+
+- Mélange des particules pour insister sur le contraste :
+[i]Exemple : [color=#0000FF]겨울에는 춥지만, 여름에는 더워요.[font_size=18pt](Gyeoul-e-neun chupjiman, yeoreum-e-neun deowoyo.)[/font_size][/color] [color=#008000](Il fait froid en hiver, mais il fait chaud en été.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] 은 (eun) et 는 (neun) sont des particules thématiques essentielles en coréen.
+[color=#FF0000]2.[/color] 은 (eun) est utilisé après une consonne, et 는 (neun) après une voyelle.
+[color=#FF0000]3.[/color] 은 (eun) introduit généralement un nouveau sujet, alors que 는 (neun) met en avant des contrastes ou des comparaisons.
+[color=#FF0000]4.[/color] Les particules thématiques peuvent varier en fonction du contexte pour insister ou comparer.[/indent]
+
+[center][font_size=18][color=#808080]올바른 사용을 통해 한국어를 더욱 유창하게 만드세요! (Olbareun sayongeul tonghae hangugeoreul deouk yuchanghage mandeuseyo!)[/color][/font_size][/center]

@@ -1,1 +1,91 @@
 
+[font_size=30][center][b][color=#0000FF]Les Consonnes en Coréen (Hangul)[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Hangul est l'alphabet utilisé pour écrire le coréen. Il a été créé au 15ème siècle par le roi Sejong le Grand dans le but de faciliter l'alphabétisation. Le Hangul est composé de 14 consonnes de base et de 10 voyelles de base. Dans cette leçon, nous allons nous concentrer sur l'apprentissage des consonnes de base en coréen.
+
+[font_size=24][color=#4B0082]1. Les Consonnes de Base[/color][/font_size]
+
+Les consonnes de base en coréen sont simples et chacune a une seule forme indépendante :
+
+[code]
+ㄱ (g/k) [color=#008000](giyeok)[/color]
+ㄴ (n) [color=#008000](nieun)[/color]
+ㄷ (d/t) [color=#008000](digeut)[/color]
+ㄹ (r/l) [color=#008000](rieul)[/color]
+ㅁ (m) [color=#008000](mieum)[/color]
+ㅂ (b/p) [color=#008000](bieup)[/color]
+ㅅ (s) [color=#008000](shiot)[/color]
+ㅇ (-/ng) [color=#008000](ieung)[/color]
+ㅈ (j/ch) [color=#008000](jieut)[/color]
+ㅊ (ch) [color=#008000](chieut)[/color]
+ㅋ (k) [color=#008000](kieuk)[/color]
+ㅌ (t) [color=#008000](tieut)[/color]
+ㅍ (p) [color=#008000](pieup)[/color]
+ㅎ (h) [color=#008000](hieut)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]간다.[font_size=18pt](ganda.)[/font_size][/color] [color=#008000](Il/Elle/On va.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Consonnes Fortes et Consonnes Aspirées[/color][/font_size]
+
+En plus des consonnes de base, le coréen utilise des consonnes dites "fortes" et "aspirées" qui modifient légèrement la prononciation des consonnes de base :
+
+[b]a) Consonnes Fortes[/b]
+[indent]
+Les consonnes fortes sont prononcées avec plus de tension dans la gorge. Elles sont représentées par un doublement de la consonne de base.
+
+[code]
+ㄲ (kk) [color=#008000](ssang giyeok)[/color]
+ㄸ (tt) [color=#008000](ssang digeut)[/color]
+ㅃ (pp) [color=#008000](ssang bieup)[/color]
+ㅆ (ss) [color=#008000](ssang shiot)[/color]
+ㅉ (jj) [color=#008000](ssang jieut)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]빵.[font_size=18pt](ppang.)[/font_size][/color] [color=#008000](Pain.)[/color][/i]
+[/indent]
+
+[b]b) Consonnes Aspirées[/b]
+[indent]
+Les consonnes aspirées sont prononcées avec un souffle d'air supplémentaire. Elles sont créées en ajoutant un trait distinctif aux consonnes de base correspondantes.
+
+[code]
+ㅋ (k) [color=#008000](kieuk)[/color]
+ㅌ (t) [color=#008000](tieut)[/color]
+ㅍ (p) [color=#008000](pieup)[/color]
+ㅎ (h) [color=#008000](hieut)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]표.[font_size=18pt](pyo.)[/font_size][/color] [color=#008000](Billet.)[/color][/i]
+[/indent]
+
+[font_size=24][color=#4B0082]3. Comment les Utiliser[/color][/font_size]
+
+Les consonnes en coréen sont combinées avec des voyelles pour former des syllabes. Chaque syllabe peut avoir jusqu'à trois parties : une consonne initiale, une voyelle et éventuellement une consonne finale.
+
+[indent]
+[i]Exemple : [color=#0000FF]한글.[font_size=18pt](Hangeul.)[/font_size][/color] [color=#008000](Alphabet coréen.)[/color][/i]
+
+- 'ㅎ' ([color=#008000]hieut[/color]) est la consonne initiale.
+- 'ㅏ' ([color=#008000]a[/color]) est la voyelle.
+- 'ㄴ' ([color=#008000]nieun[/color]) est la consonne finale de la première syllabe.
+- 'ㄱ' ([color=#008000]giyeok[/color]) est la consonne initiale.
+- 'ㅡ' ([color=#008000]eu[/color]) est la voyelle.
+- 'ㄹ' ([color=#008000]rieul[/color]) est la consonne finale de la deuxième syllabe.
+
+Ainsi, "한글" est composé de deux syllabes : "한" ([color=#008000]han[/color]) et "글" ([color=#008000]geul[/color]).
+[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points Clés à Retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les consonnes de base sont essentielles pour former des syllabes en coréen.
+[color=#FF0000]2.[/color] Les consonnes fortes sont prononcées avec plus de tension.
+[color=#FF0000]3.[/color] Les consonnes aspirées sont prononcées avec un souffle d'air supplémentaire.
+[color=#FF0000]4.[/color] La combinaison de consonnes et de voyelles permet de créer des syllabes et des mots.
+[/indent]
+
+[center][font_size=18][color=#808080]한국어 자음을 익혀서 여러분의 감각을 높이세요! (Hangug-eo ja-eum-eul ikhyeoseo yeoleobun-ui gamgag-eul nop-iseyo!)[/color][/font_size][/center]

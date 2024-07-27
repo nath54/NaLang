@@ -1,1 +1,55 @@
+[font_size=30][center][b][color=#0000FF]La Palatalisation en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+La palatalisation est un phénomène phonologique courant en coréen où certaines consonnes changent de prononciation lorsqu'elles sont suivies par une voyelle de type [color=#FF0000](y)[/color] comme [color=#FF0000](i) 이[/color] (i), [color=#FF0000](yo) 요[/color] (yo), etc. Comprendre ces transformations est essentiel pour améliorer la prononciation et la fluidité en coréen.
+
+[font_size=24][color=#4B0082]1. Les consonnes concernées par la palatalisation[/color][/font_size]
+
+La palatalisation affecte principalement les consonnes suivantes : 
+
+[indent][b]a) ㄷ (d)[/b]
+Quand ㄷ (d) est suivi d'une voyelle palatale, il devient ㅈ (j).
+[code]
+ex : 듣다 (deutda) -> 듣지 않다 (deutji anta) [color=#008000](ne pas écouter)[/color][/code]
+
+[b]b) ㅌ (t)[/b]
+Quand ㅌ (t) est suivi d'une voyelle palatale, il devient ㅊ (ch).
+[code]
+ex : 같아요 (gatayo) -> 갔어 (gatseo) -> 갔지 (gatji) [color=#008000](es-tu parti ?)[/color][/code]
+
+[b]c) ㄹ (r/l)[/b]
+Quand ㄹ (r/l) est suivi d'une voyelle palatale, il devient ㄹㄹ (ll).
+[code]
+ex : 불어 (buleo) -> 불어지다 (buleojida) [color=#008000](être balayé (par le vent/par la vague))[/color][/code][/indent]
+
+[font_size=24][color=#4B0082]2. Comment la palatalisation fonctionne-t-elle?[/color][/font_size]
+
+La palatalisation se produit lorsque la langue se rapproche de la région du palais dur pour prononcer la consonne, modifiant ainsi le son original.
+
+[indent]• Quand une consonne finale est suivie d'une voyelle qui commence par un son [color=#FF0000](y)[/color] (comme [color=#FF0000](i) 이[/color] (i) ou [color=#FF0000](yo) 요[/color] (yo)), la consonne change.
+[i]Exemple : 받다 (batda) -> 받지 않다 (batji anta) [color=#008000](ne pas recevoir)[/color][/i]
+
+- Les changements sont contextuels et influencés par la voyelle qui suit, ce qui impacte directement la prononciation.
+[i]Exemple : 어떻게 앉다 (eotteoke anda) -> 앉지 않다 (anji anta) [color=#008000](ne pas s'asseoir)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires sur la palatalisation[/color][/font_size]
+
+En coréen, d'autres combinaisons peuvent également entraîner des changements de sons dus à la palatalisation.
+
+[indent]• Modifications avec les combinatoires de voyelles complexes.
+[i]Exemple : 같이 (gati) -> 같이 가다 (gaji gada) [color=#008000](aller ensemble)[/color][/i]
+
+- Les combinaisons peuvent varier en fonction de la formalité et du contexte de la phrase.
+[i]Exemple : 가치 (gachi) -> 가치 있다 (gachi itda) [color=#008000](avoir de la valeur)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La palatalisation modifie certaines consonnes lorsqu'elles sont suivies par une voyelle palatale.
+[color=#FF0000]2.[/color] Les consonnes ㄷ (d), ㅌ (t), et ㄹ (r/l) sont les plus affectées.
+[color=#FF0000]3.[/color] Comprendre ce phénomène aide à améliorer la prononciation et la fluidité en coréen.
+[color=#FF0000]4.[/color] La règle de la palatalisation doit être appliquée en tenant compte du contexte de la phrase.[/indent]
+
+[center][font_size=18][color=#808080]정확한 발음을 위해 구개음화 규칙을 숙지하세요! (jeonghwaghan bareumeul wihae gugaeeumhwa gyuchigeul sugjihaseyo!)[/color][/font_size][/center]

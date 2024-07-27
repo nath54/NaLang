@@ -1,1 +1,62 @@
+[font_size=30][center][b][color=#0000FF]Les Particules de Sujet en Coréen : 이 / 가[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les particules de sujet coréennes 이 (i) et 가 (ga) sont essentielles pour introduire et mettre en valeur le sujet d'une phrase. Comprendre et utiliser correctement ces particules est crucial pour renforcer votre maîtrise du coréen.
+
+[font_size=24][color=#4B0082]1. Rôle et utilisation des particules de sujet 이 et 가[/color][/font_size]
+
+Les particules de sujet sont utilisées après le nom pour indiquer ce dont on parle ou ce qui effectue l'action dans une phrase.
+
+[b]a) Règles d'application[/b]
+[indent]• Utilisez [color=#FF0000]이[/color] (i) après un nom se terminant par une consonne.
+[i]Exemple : [color=#0000FF]책이 재미있어요。[font_size=18pt](chaegi jaemiisseoyo.)[/font_size][/color] [color=#008000](Le livre est intéressant.)[/color][/i]
+
+• Utilisez [color=#FF0000]가[/color] (ga) après un nom se terminant par une voyelle.
+[i]Exemple : [color=#0000FF]고양이가 귀여워요。[font_size=18pt](goyangiga gwiyeowoyo.)[/font_size][/color] [color=#008000](Le chat est mignon.)[/color][/i][/indent]
+
+[b]b) Différence entre 이 / 가 et 은 / 는[/b]
+[indent]On utilise [color=#FF0000]은[/color] (eun) / [color=#FF0000]는[/color] (neun) pour marquer le sujet en insistant sur celui-ci ou en parlant de manière générale, tandis que [color=#FF0000]이[/color] (i) / [color=#FF0000]가[/color] (ga) est utilisé pour introduire un nouveau sujet ou spécifier une information.
+
+• Exemple pour 은 / 는 :
+[i]Exemple : [color=#0000FF]저는 학생이에요。[font_size=18pt](jeoneun haksaeng-ieyo.)[/font_size][/color] [color=#008000](Moi, je suis étudiant.)[/color][/i]
+
+• Exemple pour 이 / 가 :
+[i]Exemple : [color=#0000FF]고양이가 있어요。[font_size=18pt](goyangiga isseoyo.)[/font_size][/color] [color=#008000](Il y a un chat (sous-entendu, non mentionné auparavant).)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Notions avancées et précisions[/color][/font_size]
+
+Pour enrichir votre compréhension et utilisation des particules de sujet, voici quelques précisions supplémentaires.
+
+[b]a) Mettre en avant un nouveau sujet[/b]
+[indent]Lorsqu'on introduit un nouvel élément ou sujet dans la discussion, on utilise [color=#FF0000]이[/color] (i) / [color=#FF0000]가[/color] (ga).
+[i]Exemple : [color=#0000FF]새로운 학생이 왔어요。[font_size=18pt](saeroun hagsaengi wasseoyo.)[/font_size][/color] [color=#008000](Un nouvel étudiant est arrivé.)[/color][/i][/indent]
+
+[b]b) Contextes spécifiques[/b]
+[indent]La distinction entre [color=#FF0000]이[/color] (i) / [color=#FF0000]가[/color] (ga) et [color=#FF0000]은[/color] (eun) / [color=#FF0000]는[/color] (neun) peut aussi dépendre du contexte et de l'information que vous voulez souligner.
+
+• Pour donner des informations supplémentaires sur le sujet :
+[i]Exemple : [color=#0000FF]그 여자가 선생님이에요。[font_size=18pt](geu yeojaga seonsaengnim-ieyo.)[/font_size][/color] [color=#008000](Cette femme est professeur.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Exemples et pratique[/color][/font_size]
+
+Pour mieux assimiler l'usage des particules, quelques exemples et exercices pratiques peuvent aider.
+
+[indent]• Proposez des phrases simples et identifiez le sujet.
+[i]Exemple : [color=#0000FF]고양이가 물을 마셔요。[font_size=18pt](goyangiga mureul masheoyo.)[/font_size][/color] [color=#008000](Le chat boit de l'eau.)[/color][/i]
+
+- Transformez des phrases pour montrer la différence entre [color=#FF0000]이/가[/color] et [color=#FF0000]은/는[/color].
+[i]Exemple 1 : [color=#0000FF]비가 와요。[font_size=18pt](biga wayo.)[/font_size][/color] [color=#008000](Il pleut.)[/color][/i]
+
+[i]Exemple 2 : [color=#0000FF]비는 자주 와요。[font_size=18pt](bineun jaju wayo.)[/font_size][/color] [color=#008000](Il pleut souvent.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les particules de sujet [color=#FF0000]이[/color] (i) et [color=#FF0000]가[/color] (ga) marquent le sujet de la phrase.
+[color=#FF0000]2.[/color] Utilisez [color=#FF0000]이[/color] (i) après une consonne et [color=#FF0000]가[/color] (ga) après une voyelle.
+[color=#FF0000]3.[/color] [color=#FF0000]이[/color] / [color=#FF0000]가[/color] sont souvent utilisés pour introduire un nouveau sujet ou donner une information précise.
+[color=#FF0000]4.[/color] La différence entre [color=#FF0000]이[/color] / [color=#FF0000]가[/color] et [color=#FF0000]은[/color] / [color=#FF0000]는[/color] dépend de l'emphase et du contexte de la phrase.[/indent]
+
+[center][font_size=18][color=#808080]올바르게 주격조사를 사용하여 한국어 실력을 향상시키세요！(olbareuge jugyeokjosareul sayonghayeo hangugeo silryeokeul hyang-sangsikiseyo!)[/color][/font_size][/center]

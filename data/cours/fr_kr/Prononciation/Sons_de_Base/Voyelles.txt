@@ -1,1 +1,65 @@
+[font_size=30][center][b][color=#0000FF]Les Voyelles en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les voyelles en coréen sont fondamentales à la compréhension et à la prononciation de la langue. Le coréen utilise un système d'écriture unique appelé l'Hangeul (한글). Comprendre les sons de base des voyelles vous permettra de lire et de prononcer correctement de nombreux mots.
+
+[font_size=24][color=#4B0082]1. Voyelles Simples[/color][/font_size]
+
+Le coréen comporte 10 voyelles simples, chacune avec un son distinct. Voici une liste des voyelles simples et leur prononciation :
+
+[indent][code]
+ㅏ (a) [color=#008000](a comme dans "papa")[/color]
+ㅑ (ya) [color=#008000](ya comme dans "yack")[/color]
+ㅓ (eo) [color=#008000](eo comme dans "sort")[/color]
+ㅕ (yeo) [color=#008000](yeo comme dans "miyeon" en coréen)[/color]
+ㅗ (o) [color=#008000](o comme dans "bol")[/color]
+ㅛ (yo) [color=#008000](yo comme dans "yoga")[/color]
+ㅜ (u) [color=#008000](u comme dans "cou")[/color]
+ㅠ (yu) [color=#008000](yu comme dans "you"[anglais])[/color]
+ㅡ (eu) [color=#008000](eu comme dans "peur" mais sans le 'r' final)[/color]
+ㅣ (i) [color=#008000](i comme dans "si")[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]안녕하세요。[font_size=18pt](annyeong haseyo)[/font_size][/color] [color=#008000](Bonjour)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Voyelles Composées[/color][/font_size]
+
+Les voyelles composées sont formées en combinant les voyelles simples. Voici les voyelles composées les plus fréquentes en coréen :
+
+[indent][code]
+ㅐ (ae) [color=#008000](ae comme dans "jae" en coréen)[/color]
+ㅒ (yae) [color=#008000](yae comme dans "yaegam"[hangul])[/color]
+ㅔ (e) [color=#008000](e comme dans "met")[/color]
+ㅖ (ye) [color=#008000](ye comme dans "ye")[/color]
+ㅘ (wa) [color=#008000](wa comme dans "wand")[/color]
+ㅙ (wae) [color=#008000](wae comme dans "wag")[/color]
+ㅚ (oe) [color=#008000](oe comme dans "way")[/color]
+ㅝ (wo) [color=#008000](wo comme dans "wonder")[/color]
+ㅞ (we) [color=#008000](we comme dans "wet")[/color]
+ㅟ (wi) [color=#008000](wi comme dans "week")[/color]
+ㅢ (ui) [color=#008000](ui comme dans "oui" en français mais plus court)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]괜찮아요。[font_size=18pt](gwaenchanayo)[/font_size][/color] [color=#008000](Ça va)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Prononciation et Usage[/color][/font_size]
+
+Pour la prononciation correcte des voyelles coréennes, il est crucial d'écouter des locuteurs natifs et de pratiquer régulièrement. Voici quelques conseils pour vous aider :
+
+[indent]• Pratiquez les voyelles simples et composées en les répétant quotidiennement.
+• Utilisez des applications d'apprentissage de la langue avec des enregistrements de locuteurs natifs.
+• Essayez de lire des mots simples écrits en Hangeul (한글).
+
+[i]Exemple : [color=#0000FF]학교에 가요。[font_size=18pt](hakgyoe gayo)[/font_size][/color] [color=#008000](Je vais à l'école)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le coréen utilise un alphabet unique appelé Hangeul (한글).
+[color=#FF0000]2.[/color] Il y a 10 voyelles simples et plusieurs voyelles composées.
+[color=#FF0000]3.[/color] Pratiquer les sons de base des voyelles est essentiel pour une bonne prononciation.
+[color=#FF0000]4.[/color] Écouter et imiter les locuteurs natifs est crucial pour maîtriser la prononciation.[/indent]
+
+[center][font_size=18][color=#808080]정확한 발음을 위해 꾸준히 연습하세요！(jeonghwakan balameul wihae kkuchiunhi yeonseuphasaeyo!)[/color][/font_size][/center]

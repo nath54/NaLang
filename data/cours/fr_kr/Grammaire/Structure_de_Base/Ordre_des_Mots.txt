@@ -1,1 +1,55 @@
+[font_size=30][center][b][color=#0000FF]Ordre des Mots en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+L'ordre des mots en coréen est différent de celui du français. En coréen, la structure de base des phrases suit généralement le format Sujet-Objet-Verbe (SOV), contrairement au français qui suit le format Sujet-Verbe-Objet (SVO). Apprendre et maîtriser cette structure vous aidera à former des phrases correctes en coréen.
+
+[font_size=24][color=#4B0082]1. Structure de base de l'ordre des mots[/color][/font_size]
+
+Le coréen utilise le format Sujet-Objet-Verbe pour construire des phrases simples. Voici des exemples de cette structure :
+
+[indent][b]Sujet + Objet + Verbe[/b]
+[code]
+나는 사과를 먹어요. (naneun sagwareul meogeoyo) [color=#008000](Je mange une pomme.)[/color]
+학생이 책을 읽어요. (haksaengi chaegeul ilgeoyo) [color=#008000](L'étudiant lit un livre.)[/color]
+그녀가 편지를 써요. (geunyeoga pyeonjireul sseoyo) [color=#008000](Elle écrit une lettre.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 물을 마셔요. [font_size=18pt](naneun mureul masyeoyo)[/font_size][/color] [color=#008000](Je bois de l'eau.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Structure étendue avec des compléments[/color][/font_size]
+
+La structure Sujet-Objet-Verbe peut être étendue avec des compléments de lieu, temps, manière, etc. Toutefois, le verbe doit toujours être à la fin de la phrase.
+
+[indent][b]Sujet + Complément de temps + Complément de lieu + Objet + Verbe[/b]
+[code]
+나는 아침에 도서관에서 공부해요. (naneun achime doseogwaneseo gongbuhaeyo) [color=#008000](J'étudie à la bibliothèque le matin.)[/color]
+그는 오후에 공원에서 운동해요. (geuneun ohu-e gongwoneseo undonghaeyo) [color=#008000](Il fait du sport au parc l'après-midi.)[/color]
+우리는 저녁에 식당에서 저녁을 먹어요. (urineun jeonyeoge sikdangeseo jeonyeogeul meogeoyo) [color=#008000](Nous dînons au restaurant le soir.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그녀는 매일 집에서 요리해요. [font_size=18pt](geunyeoneun maeil jibeseo yorihaeyo)[/font_size][/color] [color=#008000](Elle cuisine à la maison tous les jours.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Règles spéciales et précisions[/color][/font_size]
+
+Il existe des particularités et des exceptions à connaître pour bien structurer les phrases en coréen.
+
+[indent]• Pronoms sujets peuvent souvent être omis si le contexte est clair.
+[i]Exemple : [color=#0000FF]사과를 먹어요. [font_size=18pt](sagwareul meogeoyo)[/font_size][/color] [color=#008000](Je (ou Tu, Il/Elle) mange une pomme.)[/color][/i]
+
+• Particules de sujet/objet (는/은 (neun/eun), 이/가 (i/ga), 를/을 (reul/eul)) sont essentielles pour la clarté de la phrase.
+[i]Exemple : [color=#0000FF]학생이 책을 읽어요. [font_size=18pt](haksaengi chaegeul ilgeoyo)[/font_size][/color] [color=#008000](L'étudiant lit un livre.)[/color][/i]
+
+• Les verbes descriptifs (adjectifs) sont utilisés comme des verbes et se placent en fin de phrase.
+[i]Exemple : [color=#0000FF]그녀는 예뻐요. [font_size=18pt](geunyeoneun yeppeoyo)[/font_size][/color] [color=#008000](Elle est jolie.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La structure de base en coréen est Sujet-Objet-Verbe (SOV).
+[color=#FF0000]2.[/color] Les compléments de temps et de lieu augmentent mais ne modifient pas la position du verbe en fin de phrase.
+[color=#FF0000]3.[/color] Les pronoms sujets peuvent être omis si le contexte est clair.
+[color=#FF0000]4.[/color] Les particules de sujet et d'objet sont essentielles pour clarifier les rôles des mots dans la phrase.[/indent]
+
+[center][font_size=18][color=#808080]한국어 문법 구조를 이해하면, 한국어를 더 쉽게 배울 수 있어요! (han-gu-geo munbeob gujoreul ihaehamyeon, han-gu-geo-reul deo swipge baeul su isseoyo!)[/color][/font_size][/center]

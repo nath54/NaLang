@@ -1,1 +1,105 @@
+[font_size=30][center][b][color=#0000FF]Les Combinaisons de Hangul[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Le Hangul (한글) est l'alphabet utilisé pour écrire le coréen. Connaître les lettres individuelles est essentiel, mais comprendre comment les combiner afin de former des syllabes est tout aussi important. Cette leçon vous guidera à travers les différentes combinaisons possibles dans le système de Hangul.
+
+[font_size=24][color=#4B0082]1. Structure de base de Hangul[/color][/font_size]
+
+Le Hangul est composé de lettres appelées jamo (자모). Il existe 14 consonnes de base et 10 voyelles de base. Les syllabes en coréen se combinent en blocs qui contiennent au moins une consonne et une voyelle.
+
+[b]a) Consonnes de base[/b]
+[indent]Voici quelques consonnes de base avec leur prononciation :
+[code]
+ㄱ (g/k)
+ㄴ (n)
+ㄷ (d/t)
+ㄹ (r/l)
+ㅁ (m)
+ㅂ (b/p)
+ㅅ (s)
+ㅇ (ng)
+ㅈ (j)
+ㅊ (ch)
+ㅋ (k)
+ㅌ (t)
+ㅍ (p)
+ㅎ (h)
+[/code][/indent]
+
+[b]b) Voyelles de base[/b]
+[indent]Voici quelques voyelles de base avec leur prononciation :
+[code]
+ㅏ (a)
+ㅑ (ya)
+ㅓ (eo)
+ㅕ (yeo)
+ㅗ (o)
+ㅛ (yo)
+ㅜ (u)
+ㅠ (yu)
+ㅡ (eu)
+ㅣ (i)
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Combinaisons de base[/color][/font_size]
+
+Pour former une syllabe en Hangul, on combine généralement une consonne initiale, une voyelle médiane, et éventuellement une consonne finale.
+
+[indent][b]a) Consonne + Voyelle[/b]
+[i]Exemple : [color=#0000FF]가 (ga)[/color] est formé de ㄱ (g) + ㅏ (a)[/i][/indent]
+
+[indent][b]b) Consonne + Voyelle + Consonne[/b]
+[i]Exemple : [color=#0000FF]강 (gang)[/color] est formé de ㄱ (g) + ㅏ (a) + ㅇ (ng)[/i][/indent]
+
+[font_size=24][color=#4B0082]3. Combinaisons complexes[/color][/font_size]
+
+Outre les combinaisons simples, il existe des combinaisons complexes où plusieurs consonnes peuvent être placées ensemble, ou des voyelles peuvent être combinées.
+
+[b]a) Consonnes composées[/b]
+[indent]Certaines consonnes peuvent être combinées pour former des sons doubles (쌍자음 ssang jamo).
+[code]
+ㄲ (gg)
+ㄸ (dd)
+ㅃ (bb)
+ㅆ (ss)
+ㅉ (jj)
+[/code]
+
+[i]Exemple : [color=#0000FF]까 (kka)[/color] est formé de ㄲ (gg) + ㅏ (a)[/i][/indent]
+
+[b]b) Voyelles composées[/b]
+[indent]Certaines voyelles peuvent se combiner pour former des sons plus complexes.
+[code]
+ㅐ (ae)
+ㅒ (yae)
+ㅔ (e)
+ㅖ (ye)
+ㅘ (wa)
+ㅙ (wae)
+ㅚ (oe)
+ㅝ (wo)
+ㅞ (we)
+ㅟ (wi)
+ㅢ (ui)
+[/code]
+
+[i]Exemple : [color=#0000FF]왜 (wae)[/color] est formé de ㅗ (o) + ㅐ (ae)[/i][/indent]
+
+[font_size=24][color=#4B0082]4. Pratique et Exercices[/color][/font_size]
+
+Pour maîtriser les combinaisons de Hangul, il est important de pratiquer régulièrement.
+
+[indent][i]Exemple 1 : [color=#0000FF]한 (han)[/color] est formé de ㅎ (h) + ㅏ (a) + ㄴ (n)[/i]
+[i]Exemple 2 : [color=#0000FF]학교 (hak-gyo) [color=#008000](école)[/color][/color] est formé de ㅎ (h) + ㅏ (a) + ㄱ (k) + ㄱ (k) + ㅛ (yo)[/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Hangul est constitué de blocs syllabiques formés par la combinaison de consonnes et de voyelles.
+[color=#FF0000]2.[/color] Chaque bloc syllabique doit contenir au moins une consonne et une voyelle.
+[color=#FF0000]3.[/color] Il existe des combinaisons complexes pour former des sons plus nuancés.
+[color=#FF0000]4.[/color] La pratique régulière est essentielle pour maîtriser l'écriture et la lecture du Hangul.[/indent]
+
+[center][font_size=18][color=#808080]정확한 자음과 모음 결합 연습으로 한국어를 더 잘 읽고 쓸 수 있어요! (jeonghwaghan jaeum gwa moeum gyeolhab yeonseub euro hangug-eoleul deo jal ilggo sseul su iss-eoyo!)[/color][/font_size][/center]

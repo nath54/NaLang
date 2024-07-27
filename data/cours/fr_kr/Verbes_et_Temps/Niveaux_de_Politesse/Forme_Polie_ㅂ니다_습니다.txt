@@ -1,1 +1,60 @@
+[font_size=30][center][b][color=#0000FF]Forme Polie en Coréen : ㅂ니다/습니다[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+La langue coréenne utilise divers niveaux de politesse en fonction du contexte social et de la relation entre les interlocuteurs. L'un des niveaux de politesse les plus courants est la forme polie formelle, souvent utilisée dans les situations formelles, les conversations avec des personnes plus âgées ou dans un contexte professionnel.
+
+[font_size=24][color=#4B0082]1. Structure de la formé polie ㅂ니다/습니다[/color][/font_size]
+
+Pour conjuguer un verbe à la forme polie formelle, on ajoute une terminaison spécifique au radical du verbe. Cette terminaison est [color=#008000]ㅂ니다[/color] [prononcée (mnida)] pour les verbes dont la racine se termine par une voyelle, et [color=#008000]습니다[/color] [prononcée (seumnida)] pour les verbes dont la racine se termine par une consonne.
+
+[b]a) Verbos se terminant par une voyelle[/b]
+[indent]Pour les verbes qui se terminent par une voyelle, ajoutez [color=#008000]ㅂ니다[/color] [prononcée (mnida)] à la racine du verbe.
+[code]
+하다 (hada) [color=#008000](faire)[/color] -> 합니다 (hamnida) [color=#008000](je fais, vous faites)[/color]
+가다 (gada) [color=#008000](aller)[/color] -> 갑니다 (gamnida) [color=#008000](je vais, vous allez)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]저는 학교에 갑니다.[font_size=18pt](Jeoneun hakgyoe gamnida.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+
+[b]b) Verbes se terminant par une consonne[/b]
+[indent]Pour les verbes qui se terminent par une consonne, ajoutez [color=#008000]습니다[/color] [prononcée (seumnida)] à la racine du verbe.
+[code]
+먹다 (meokda) [color=#008000](manger)[/color] -> 먹습니다 (meokseumnida) [color=#008000](je mange, vous mangez)[/color]
+있다 (itda) [color=#008000](avoir, être)[/color] -> 있습니다 (itseumnida) [color=#008000](je suis, vous êtes)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]저는 빵을 먹습니다.[font_size=18pt](Jeoneun ppangeul meokseumnida.)[/font_size][/color] [color=#008000](Je mange du pain.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de la forme polie ㅂ니다/습니다[/color][/font_size]
+
+La forme polie ㅂ니다/습니다 est utilisée dans les situations formelles, telles que les réunions professionnelles, les présentations officielles ou lorsqu'on parle à des personnes plus âgées ou de statut social supérieur. Voici quelques règles appliquées lors de l'utilisation de cette forme :
+
+[indent]• Lors d'une présentation formelle :
+[i]Exemple : [color=#0000FF]안녕하세요. 저는 김민수입니다.[font_size=18pt](Annyeonghaseyo. Jeoneun Kim Minsuimnida.)[/font_size][/color] [color=#008000](Bonjour. Je suis Kim Minsu.)[/color][/i]
+
+- Lors d'une réunion :
+[i]Exemple : [color=#0000FF]이 프로젝트는 매우 중요합니다.[font_size=18pt](I peurojekteuneun maeu jungyohamnida.)[/font_size][/color] [color=#008000](Ce projet est très important.)[/color][/i]
+
+- Parler à une personne plus âgée :
+[i]Exemple : [color=#0000FF]할머니, 어디 가십니까?[font_size=18pt](Halmeoni, eodi gasimnikka?) (Grand-mère, où allez-vous?)[/font_size][/color]
+[/i][/indent]
+
+[font_size=24][color=#4B0082]3. Contexte culturel et importance[/color][/font_size]
+
+En Corée, le respect des niveaux de politesse est essentiel dans toutes les interactions sociales. L'utilisation correcte de la forme polie ㅂ니다/습니다 montre votre respect envers votre interlocuteur et peut grandement influencer la qualité de vos relations personnelles et professionnelles.
+
+[indent]• Importance du respect
+[i]Exemple : Utiliser les bons niveaux de politesse peut éviter les malentendus et montrer que vous êtes bien élevé(e).
+[i]Exemple : [color=#0000FF]선생님, 감사합니다.[font_size=18pt](Seonsaengnim, gamsahamnida.)[/font_size][/color] [color=#008000](Merci, professeur.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La forme polie formelle ㅂ니다/습니다 est essentielle dans les contextes formels et professionnels.
+[color=#FF0000]2.[/color] Ajoutez [color=#FF0000]ㅂ니다[/color] [prononcée (mnida)] après les racines verbales terminées par une voyelle et [color=#FF0000]습니다[/color] [prononcée (seumnida)] après les racines terminées par une consonne.
+[color=#FF0000]3.[/color] Utiliser correctement cette forme montre du respect et contribue à de bonnes relations sociales et professionnelles.
+[color=#FF0000]4.[/color] La culture coréenne valorise le respect des niveaux de politesse dans toutes les interactions.[/indent]
+
+[center][font_size=18][color=#808080]바른 폴라이트 형식을 사용하여 한국어를 더 잘 표현하세요! (Bareun pollaiteu hyeongsigeul sayonghayeo hangugeoreul deo jal pyohyeonhaseyo!)[/color][/font_size][/center]

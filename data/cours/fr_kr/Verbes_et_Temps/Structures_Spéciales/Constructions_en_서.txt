@@ -1,1 +1,68 @@
+[font_size=30][center][b][color=#0000FF]Les Constructions en "서" en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les constructions en "서" (seo) en coréen sont utilisées pour lier des actions ou des phrases de manière séquentielle ou causale. Elles servent à indiquer que deux actions se déroulent successivement ou que la première action cause la seconde. Comprendre et maîtriser ces structures vous aidera à rendre vos phrases en coréen plus fluides et naturelles.
+
+[font_size=24][color=#4B0082]1. Structure de base des constructions en "서"[/color][/font_size]
+
+Pour relier deux actions en utilisant "서" (seo), on place "서" après la forme verbale du premier verbe. Voici les étapes pour former une construction en "서" (seo):
+
+[indent][b]Étape 1 : Utiliser la racine du verbe[/b]
+
+Prenez la racine du verbe (la forme sans terminaison). Par exemple :
+[code]
+가다 (gada) [color=#008000](aller)[/color]
+먹다 (meokda) [color=#008000](manger)[/color]
+[/code]
+
+[b]Étape 2 : Ajouter "서" après la racine du verbe[/b]
+
+Ajoutez "서" à la racine du verbe. Par exemple :
+[code]
+가다 + 서 = 가서 (gaseo) [color=#008000](aller et ensuite)[/color]
+먹다 + 서 = 먹어서 (meogeoseo) [color=#008000](manger et ensuite)[/color]
+[/code][/indent]
+
+[b][i]Exemples :[/i][/b]
+[indent][i][color=#0000FF]나는 학교에 가서 공부해요.[font_size=18pt](naneun hakgyoe gaseo gongbuhaeyo.)[/font_size][/color] [color=#008000](Je vais à l'école et ensuite j'étudie.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des constructions en "서"[/color][/font_size]
+
+Les constructions en "서" (seo) s'utilisent pour exprimer la séquence d'actions ou la cause et l'effet. Voici quelques règles et exemples pour bien les utiliser :
+
+[indent]• [b]Séquence d'actions :[/b] Utilisez "서" pour indiquer des actions qui se déroulent les unes après les autres.
+[i]Exemple : [color=#0000FF]저는 아침을 먹어서 학교에 가요.[font_size=18pt](jeoneun achimeul meogeoseo hakgyoe gayo.)[/font_size][/color] [color=#008000](Je prends le petit-déjeuner et ensuite je vais à l'école.)[/color][/i]
+
+- [b]Cause et effet :[/b] Utilisez "서" pour montrer que la première action cause la deuxième.
+[i]Exemple : [color=#0000FF]비가 와서 집에 있었어요.[font_size=18pt](biga waseo jibe isseosseoyo.)[/font_size][/color] [color=#008000](Il a plu, donc je suis resté à la maison.)[/color][/i]
+
+- [b]Constructions courantes :[/b] Voici quelques constructions fréquentes avec "서" :
+[indent]
+가서 (gaseo) – Aller et ensuite
+와서 (waseo) – Venir et ensuite
+먹어서 (meogeoseo) – Manger et ensuite
+마셔서 (masyeoseo) – Boire et ensuite
+해서 (haeseo) – Faire et ensuite
+[/indent][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Vous pouvez insérer des compléments entre les verbes pour ajouter plus d'informations contextuelles, comme le lieu, la manière, ou le but de l'action.
+
+[indent]• [b]Ajouter un lieu :[/b]
+[i]Exemple : [color=#0000FF]그는 집에 가서 쉬었어요.[font_size=18pt](geuneun jibe gaseo swieosseoyo.)[/font_size][/color] [color=#008000](Il est allé à la maison et ensuite il s'est reposé.)[/color][/i]
+
+- [b]Ajouter un complément de manière :[/b]
+[i]Exemple : [color=#0000FF]아침을 빨리 먹어서 지각 안 했어요.[font_size=18pt](achimeul ppalli meogeoseo jigak an haesseoyo.)[/font_size][/color] [color=#008000](J'ai rapidement pris le petit-déjeuner, donc je ne suis pas arrivé en retard.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les constructions en "서" (seo) indiquent la séquence ou la causalité entre deux actions.
+[color=#FF0000]2.[/color] Utilisez la racine du verbe suivie de "서" pour créer ces constructions.
+[color=#FF0000]3.[/color] Ces constructions peuvent relier des actions successives ou montrer que la première action en cause une autre.
+[color=#FF0000]4.[/color] Vous pouvez insérer des compléments pour préciser le lieu, la manière ou le but de l'action.[/indent]
+
+[center][font_size=18][color=#808080]서로 연결된 행동을 사용하여 당신의 한국어 표현을 더 유창하게 만드십시오! (seoro yeon-gyeoldoen haeng-dongeul sayonghayeo dangsin-ui hangugeo pyohyeon-eul deo yuchanghage mandeusipsio!)[/color][/font_size][/center]

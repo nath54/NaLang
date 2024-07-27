@@ -1,1 +1,57 @@
+[font_size=30][center][b][color=#0000FF]L'Aspect Progressif en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+L'aspect progressif est une notion grammaticale en coréen qui permet d'exprimer une action en cours de déroulement. Cela équivaut en français à l'utilisation de "être en train de" ou du présent continu.
+
+[font_size=24][color=#4B0082]1. Formation de l'aspect progressif[/color][/font_size]
+
+En coréen, l'aspect progressif se forme généralement en utilisant le verbe [b]있다 (itda)[/b] avec la particule connective `-고` (go). Voici la structure de base :
+
+[code]
+Verbe radical + -고 있다 (go itda)
+[/code]
+
+[i]Exemples :[/i]
+[indent][i]먹고 있다 (meokgo itda) [color=#008000](être en train de manger)[/color]
+공부하고 있다 (gongbuha-go itda) [color=#008000](être en train d'étudier)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison de l'aspect progressif[/color][/font_size]
+
+L'aspect progressif peut être conjugué au passé, au présent ou au futur :
+
+[indent][b]a) Au présent[/b]
+[i]Exemple : [color=#0000FF]지금 먹고 있어요.[font_size=18pt](Jigeum meokgo isseoyo.)[/font_size][/color] [color=#008000](Je suis en train de manger.)[/color][/i][/indent]
+
+[indent][b]b) Au passé[/b] 
+Ajoutez `-고 있었어요` (go isseoyo) après le verbe radical pour le passé continu :
+[i]Exemple : [color=#0000FF]어제 공부하고 있었어요.[font_size=18pt](Eoje gongbuha-go isseosseoyo.)[/font_size][/color] [color=#008000](Hier, j'étais en train d'étudier.)[/color][/i][/indent]
+
+[indent][b]c) Au futur[/b]
+Pour le futur progressif, utilisez `-고 있을 거예요` (go isseul geoyeyo) :
+[i]Exemple : [color=#0000FF]내일 이 시간에 일하고 있을 거예요.[font_size=18pt](Naeil i sigane ilhago isseul geoyeyo.)[/font_size][/color] [color=#008000](Demain à cette heure-ci, je serai en train de travailler.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisations spécifiques et nuances[/color][/font_size]
+
+L'aspect progressif sert non seulement à indiquer une action en cours, mais peut également impliquer une action répétée ou habituelle dans certains contextes.
+
+[indent]• Pour une action en cours :
+[i]Exemple : [color=#0000FF]비디오를 보고 있어요.[font_size=18pt](Bidioreul bogo isseoyo.)[/font_size][/color] [color=#008000](Je suis en train de regarder une vidéo.)[/color][/i]
+
+- Pour des actions répétées ou habituelles :
+[i]Exemple : [color=#0000FF]요즘 운동을 하고 있어요.[font_size=18pt](Yojeum undongeul hago isseoyo.)[/font_size][/color] [color=#008000](Ces jours-ci, je fais de l'exercice (régulièrement).)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Différences avec d'autres aspects[/color][/font_size]
+
+Il est important de distinguer l'aspect progressif des autres aspects en coréen comme les aspects accompli et inchoatif. L'aspect progressif se concentre sur l'action en cours au moment précis de l'énonciation.
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] L'aspect progressif en coréen se forme avec le verbe [b]있다[/b] (itda) et la particule `-고` (go).
+[color=#FF0000]2.[/color] Il peut être utilisé au présent, passé et futur pour indiquer une action en cours.
+[color=#FF0000]3.[/color] Cet aspect peut également indiquer des actions répétées ou habituelles dans certains contextes.
+[color=#FF0000]4.[/color] Faites la distinction entre l'aspect progressif et d'autres aspects pour une communication précise.[/indent]
+
+[center][font_size=18][color=#808080]정확한 활용으로 더 자연스러운 한국어 표현을 하세요! (Jeonghwaghan hwalyong-euro deo jayeonseureoun Hanguk-eo pyohyeon-eul haseyo!)[/color][/font_size][/center]

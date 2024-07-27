@@ -1,1 +1,56 @@
+[font_size=30][center][b][color=#0000FF]Les Particules d'Objet 을, 를 en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les particules d'objet en coréen, [color=#FF0000]을[/color] (eul) et [color=#FF0000]를[/color] (reul), sont utilisées pour marquer le complément d'objet direct dans une phrase. Elles indiquent sur quoi ou sur qui l'action est effectuée. Leur utilisation dépend de la terminaison du mot précédent.
+
+[font_size=24][color=#4B0082]1. Utilisation des particules d'objet[/color][/font_size]
+
+Les particules d'objet [color=#FF0000]을[/color] (eul) et [color=#FF0000]를[/color] (reul) sont choisies en fonction du caractère final du mot précédent :
+[indent][u]a) Particule 을 (eul)[/u]
+- Utilisée si le mot précédent se termine par une consonne.
+
+[b][center]Exemples :[/center][/b]
+[code]
+책을 (chaek-eul) [color=#008000](le livre)[/color]
+고양이를 (goyang-i-reul) [color=#008000](le chat)[/color]
+[/code][/indent]
+
+[indent][u]b) Particule 를 (reul)[/u]
+- Utilisée si le mot précédent se termine par une voyelle.
+
+[b][center]Exemples :[/center][/b]
+[code]
+사과를 (sagwa-reul) [color=#008000](la pomme)[/color]
+영화를 (yeonghwa-reul) [color=#008000](le film)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Intégration dans la phrase[/color][/font_size]
+
+Les particules d'objet sont directement attachées après le nom sans espace. Voici quelques exemples d'utilisation dans des phrases complètes :
+
+[indent]• [b]Phrase avec 을 (eul) :[/b]
+[indent][i]Exemple : [color=#0000FF]나는 책을 읽어요.[font_size=18pt](Naneun chaek-eul ilg-eoyo.)[/font_size][/color] [color=#008000](Je lis le livre.)[/color][/i][/indent]
+
+• [b]Phrase avec 를 (reul) :[/b]
+[indent][i]Exemple : [color=#0000FF]나는 사과를 먹어요.[font_size=18pt](Naneun sagwa-reul meogeoyo.)[/font_size][/color] [color=#008000](Je mange la pomme.)[/color][/i][/indent][/indent]
+
+[font_size=24][color=#4B0082]3. Exceptions et variations[/color][/font_size]
+
+Certaines variantes de style formel et informel peuvent changer la terminaison des mots ou leur particule d'objet. En général, cependant, les règles de base restent les mêmes.
+
+[indent]• Différences entre parler formel et informel
+[i]Exemple : [color=#0000FF]저는 영화를 봅니다.[font_size=18pt](Jeoneun yeonghwa-reul bamnida.)[/font_size][/color] [color=#008000](Je regarde un film.)[/color] [color=#FF0000](formel)[/color][/i]
+
+[i]Exemple : [color=#0000FF]나는 영화를 봐.[font_size=18pt](Naneun yeonghwa-reul bwa.)[/font_size][/color] [color=#008000](Je regarde un film.)[/color] [color=#FF0000](informel)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les particules d'objet [color=#FF0000]을[/color] (eul) et [color=#FF0000]를[/color] (reul) indiquent le complément d'objet direct dans une phrase.
+[color=#FF0000]2.[/color] Utilisez [color=#FF0000]을[/color] (eul) quand le mot se termine par une consonne et [color=#FF0000]를[/color] (reul) quand le mot se termine par une voyelle.
+[color=#FF0000]3.[/color] Les particules d'objet sont toujours attachées directement après le nom sans espace.
+[color=#FF0000]4.[/color] Les styles formel et informel en coréen peuvent influencer la structure des phrases, mais les règles de base des particules restent les mêmes.[/indent]
+
+[center][font_size=18][color=#808080]올바른 목적격 조사의 사용법을 익혀서, 한국어 문법에 능숙해지세요!(Olbareun mogjeokgyeok josa-ui sayongbeob-eul ikhyeoseo, hangug-eo munbeob-e neungsughajiseyo!)[/color][/font_size][/center]

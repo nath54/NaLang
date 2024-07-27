@@ -1,1 +1,112 @@
+[font_size=30][center][b][color=#0000FF]Les Expressions Courantes en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Apprendre à utiliser des expressions courantes en coréen peut rendre votre discours plus naturel et authentique. Voici une liste d'expressions idiomatiques régulièrement utilisées dans la vie quotidienne en Corée du Sud.
+
+[font_size=24][color=#4B0082]1. Salutations et Politesse[/color][/font_size]
+
+Les salutations et expressions de politesse sont essentielles pour une communication respectueuse et efficace.
+
+[b]a) Bonjour / Bonsoir[/b]
+[indent]La salutation la plus courante est "안녕하세요" (annyeonghaseyo) qui peut être utilisée à tout moment de la journée.
+[code]
+안녕하세요 (annyeonghaseyo) [color=#008000](Bonjour / Bonsoir)[/color]
+[/code][/indent]
+
+[b]b) Merci[/b]
+[indent]"고맙습니다" (gomapseumnida) est une manière polie pour dire merci. Une version encore plus formelle est "감사합니다" (gamsahamnida).
+[code]
+고맙습니다 (gomapseumnida) [color=#008000](Merci)[/color]
+감사합니다 (gamsahamnida) [color=#008000](Merci beaucoup)[/color]
+[/code][/indent]
+
+[b]c) Excusez-moi / Pardon[/b]
+[indent]Pour attirer l'attention de quelqu'un ou s'excuser poliment, utilisez "죄송합니다" (joesonghamnida).
+[code]
+죄송합니다 (joesonghamnida) [color=#008000](Excusez-moi / Pardon)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Expressions Quotidiennes[/color][/font_size]
+
+Ces expressions sont fréquemment utilisées dans les conversations courantes et peuvent vous aider à vous intégrer plus rapidement dans la culture coréenne.
+
+[b]a) Comment ça va ?[/b]
+[indent]Pour demander à quelqu'un comment il va, utilisez "잘 지내세요?" (jal jinaeseyo?).
+[code]
+잘 지내세요? (jal jinaeseyo?) [color=#008000](Comment ça va ?)[/color]
+[/code][/indent]
+
+[b]b) Oui / Non[/b]
+[indent]Les réponses simples sont "네" (ne) pour oui et "아니요" (aniyo) pour non.
+[code]
+네 (ne) [color=#008000](Oui)[/color]
+아니요 (aniyo) [color=#008000](Non)[/color]
+[/code][/indent]
+
+[b]c) Je ne comprends pas[/b]
+[indent]Quand vous ne comprenez pas quelque chose, vous pouvez dire "이해하지 못해요" (ihaehaji mothaeyo).
+[code]
+이해하지 못해요 (ihaehaji mothaeyo) [color=#008000](Je ne comprends pas)[/color]
+[/code][/indent]
+
+[b]d) Ça va ?[/b]
+[indent]Pour vérifier si quelqu'un va bien, on utilise "괜찮아요?" (gwaenchanayo?).
+[code]
+괜찮아요? (gwaenchanayo?) [color=#008000](Ça va ?)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]네, 괜찮아요.[font_size=18pt](Ne, gwaenchanayo.)[/font_size][/color] [color=#008000](Oui, ça va.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Expressions de Temps[/color][/font_size]
+
+Savoir parler du temps est crucial pour planifier des rendez-vous et organiser son emploi du temps.
+
+[b]a) Aujourd'hui / Demain / Hier[/b]
+[indent]Des mots simples pour exprimer les jours spécifiques incluent "오늘" (oneul), "내일" (naeil), et "어제" (eoje).
+[code]
+오늘 (oneul) [color=#008000](Aujourd'hui)[/color]
+내일 (naeil) [color=#008000](Demain)[/color]
+어제 (eoje) [color=#008000](Hier)[/color]
+[/code][/indent]
+
+[b]b) Maintenant / Plus tard / Bientôt[/b]
+[indent]Pour parler du moment présent ou d'un avenir proche, utilisez "지금" (jigeum) pour maintenant et "나중에" (najunge) pour plus tard.
+[code]
+지금 (jigeum) [color=#008000](Maintenant)[/color]
+나중에 (najunge) [color=#008000](Plus tard)[/color]
+곧 (got) [color=#008000](Bientôt)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]4. Expressions d'Emotions[/color][/font_size]
+
+Exprimez vos émotions et sentiments clairement avec ces expressions courantes.
+
+[b]a) Je suis content[/b]
+[indent]Pour exprimer la joie ou le plaisir, dites "기뻐요" (gippeoyo).
+[code]
+기뻐요 (gippeoyo) [color=#008000](Je suis content)[/color]
+[/code][/indent]
+
+[b]b) Je suis fatigué[/b]
+[indent]Quand vous êtes fatigué, utilisez l'expression "피곤해요" (pigonhaeyo).
+[code]
+피곤해요 (pigonhaeyo) [color=#008000](Je suis fatigué)[/color]
+[/code][/indent]
+
+[b]c) J'ai faim[/b]
+[indent]Pour dire que vous avez faim, utilisez "배고파요" (baegopayo).
+[code]
+배고파요 (baegopayo) [color=#008000](J'ai faim)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les salutations et expressions de politesse sont essentielles pour une bonne communication en coréen.
+[color=#FF0000]2.[/color] Utiliser des expressions quotidiennes rend votre discours plus fluide et naturel.
+[color=#FF0000]3.[/color] Savoir exprimer le temps est crucial pour organiser des rencontres et planifier des activités.
+[color=#FF0000]4.[/color] Exprimer vos émotions clairement aide à mieux communiquer vos sentiments.[/indent]
+
+[center][font_size=18][color=#808080]한국어로 자연스럽게 표현하세요! (hangug-eolo jayeonseureobge pyohyeonhaseyo!) [/color][/font_size][/center]

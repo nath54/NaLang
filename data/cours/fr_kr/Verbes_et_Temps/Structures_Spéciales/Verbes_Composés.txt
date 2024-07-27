@@ -1,1 +1,63 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes Composés en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les verbes composés en coréen sont une combinaison de deux verbes ou plus pour exprimer une action précise ou nuancer le sens d'un verbe de base. Ces structures permettent d'enrichir l'expression et de fournir plus de détails sur l'action.
+
+[font_size=24][color=#4B0082]1. Structure des verbes composés[/color][/font_size]
+
+En coréen, les verbes composés se forment généralement en combinant deux verbes, où le premier verbe indique l'action principale, et le second verbe (souvent un auxiliaire) modifie ou précise cette action.
+
+[b]a) Verbes composés courants[/b]
+[indent]Voici certains des verbes composés les plus courants en coréen :
+[code]
+달려가다 (dallyeogada) [color=#008000](courir + aller = courir vers)[/color]
+들어오다 (deureooda) [color=#008000](entrer + venir = entrer (vers le locuteur))[/color]
+나가다 (nagada) [color=#008000](sortir + aller = sortir (loin du locuteur))[/color]
+돌아오다 (doraooda) [color=#008000](retourner + venir = revenir (vers le locuteur))[/color]
+걸어가다 (georeogada) [color=#008000](marcher + aller = marcher vers)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그는 집으로 달려갔다.[font_size=18pt](Geuneun jibeuro dallyeogatta.)[/font_size][/color] [color=#008000](Il a couru vers la maison.)[/color][/i][/indent]
+
+[b]b) Utilisation d'auxiliaires pour nuancer l'action[/b]
+[indent]Les verbes auxiliaires comme 주다 (juda, donner) et 보다 (boda, voir) peuvent être combinés avec des verbes principaux pour indiquer des nuances telles que faire quelque chose pour quelqu'un ou essayer de faire quelque chose.
+[code]
+도와주다 (dowajuda) [color=#008000](aider + donner = aider quelqu'un)[/color]
+해보다 (haeboda) [color=#008000](faire + voir = essayer de faire)[/color]
+보여주다 (boyeojuda) [color=#008000](montrer + donner = montrer à quelqu'un)[/color]
+들어보다 (deureoboda) [color=#008000](écouter + voir = essayer d'écouter)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그는 나를 도와줬다.[font_size=18pt](Geuneun nareul dowajwotta.)[/font_size][/color] [color=#008000](Il m'a aidé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Verbes composés et direction[/color][/font_size]
+
+Les verbes composés en coréen peuvent également exprimer des mouvements directionnels, similaires à ceux utilisés en chinois. La distinction entre "vers le locuteur" et "loin du locuteur" est également importante en coréen.
+
+[indent]• Utilisez [color=#FF0000]오다[/color] (oda, venir) pour un mouvement vers le locuteur.
+[i]Exemple : [color=#0000FF]그는 집에 돌아왔다.[font_size=18pt](Geuneun jibe doraowatta.)[/font_size][/color] [color=#008000](Il est revenu à la maison (vers moi).)[/color][/i]
+
+- Utilisez [color=#FF0000]가다[/color] (gada, aller) pour un mouvement s'éloignant du locuteur.
+[i]Exemple : [color=#0000FF]그는 한국에 나갔다.[font_size=18pt](Geuneun hanguge nagatta.)[/font_size][/color] [color=#008000](Il est allé en Corée (s'éloignant de moi).)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Pour ajouter plus de détails, comme le lieu ou le but de l'action, il est possible d'insérer des éléments entre les verbes principaux et auxiliaires dans la phrase.
+
+[indent]• Spécifier le lieu de l'action
+[i]Exemple : [color=#0000FF]그는 학교에 들어왔다.[font_size=18pt](Geuneun hakgyoe deureowatta.)[/font_size][/color] [color=#008000](Il est entré à l'école (vers moi).)[/color][/i]
+
+- Préciser le but de l'action
+[i]Exemple : [color=#0000FF]그는 책을 읽으려고 도서관에 갔다.[font_size=18pt](Geuneun chaegeul ilgeuryeogo doseogwane gatta.)[/font_size][/color] [color=#008000](Il est allé à la bibliothèque pour lire un livre.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes composés enrichissent l'expression en coréen et ajoutent des nuances ou des précisions à une action.
+[color=#FF0000]2.[/color] Les verbes auxiliaires sont souvent utilisés pour indiquer l'orientation ou le but de l'action.
+[color=#FF0000]3.[/color] La direction de l'action par rapport au locuteur peut changer le choix du verbe auxiliaire.
+[color=#FF0000]4.[/color] Les compléments comme le lieu et le but peuvent être ajoutés pour plus de clarté.[/indent]
+
+[center][font_size=18][color=#808080]복합동사를 올바르게 사용해서 한국어 표현력을 향상시키세요! (bokhapdongsareul olbareuge sayonghaeseo hangug-eo pyohyeonlyeog-eul hyangsangsikisekyo!)[/color][/font_size][/center]

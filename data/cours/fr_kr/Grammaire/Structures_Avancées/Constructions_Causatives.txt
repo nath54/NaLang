@@ -1,1 +1,63 @@
+[font_size=30][center][b][color=#0000FF]Les Constructions Causatives en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les constructions causatives en coréen permettent d'exprimer qu'un sujet incite ou fait en sorte qu'un autre accomplisse une action. Cette forme grammaticale est cruciale pour nuancer et enrichir votre expression en coréen. 
+
+[font_size=24][color=#4B0082]1. Structure de base des constructions causatives[/color][/font_size]
+
+Les constructions causatives en coréen se créent principalement en ajoutant des suffixes à la forme de base du verbe. Voici les étapes et suffixes à retenir :
+
+[b]a) Suffixes causatifs courants[/b]
+[indent]Les suffixes causatifs les plus utilisés incluent [color=#FF0000]이[/color] (i), [color=#FF0000]히[/color] (hi), [color=#FF0000]리[/color] (ri), [color=#FF0000]기[/color] (gi), [color=#FF0000]시키다[/color] (sikida). Ces suffixes sont attachés à la racine du verbe. 
+Par exemple :
+[code]
+굽다 (gubda) [color=#008000](cuire)[/color] -> 굽히다 (gubhida) [color=#008000](faire plier)[/color]
+먹다 (meokda) [color=#008000](manger)[/color] -> 먹이다 (meok-ida) [color=#008000](faire manger)[/color]
+걷다 (geodda) [color=#008000](marcher)[/color] -> 걷게 하다 (geod-gae hada) [color=#008000](faire marcher)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그는 아이에게 밥을 먹였다.[font_size=18pt](Geuneun aie-gae bapeul meok yeotta.)[/font_size][/color] [color=#008000](Il a fait manger l'enfant.)[/color][/i][/indent]
+
+[b]b) Usage de '하게 하다' (hage hada)[/b]
+[indent]Pour certains verbes, les constructions causatives peuvent être formées avec '하게 하다' (hage hada), ce qui signifie 'faire faire quelque chose'. 
+[code]
+공부하다 (gongbu-hada) [color=#008000](étudier)[/color] -> 공부하게 하다 (gongbu hage hada) [color=#008000](faire étudier)[/color]
+운동하다 (undong-hada) [color=#008000](faire du sport)[/color] -> 운동하게 하다 (undong hage hada) [color=#008000](faire faire du sport)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]선생님이 학생들에게 공부하게 했다.[font_size=18pt](Seonsaengnime haksaengdeule-ge gongbu hage haetda.)[/font_size][/color] [color=#008000](Le professeur a fait étudier les élèves.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des constructions causatives[/color][/font_size]
+
+Les constructions causatives sont fréquentes dans les conversations quotidiennes en coréen pour indiquer l'action indirecte par un tiers.
+
+[indent]• Lorsqu'il s'agit de demander à quelqu'un de faire quelque chose, utilisez la forme causative adaptée :
+[i]Exemple : [color=#0000FF]그녀가 저에게 책을 읽게 했다.[font_size=18pt](Geunyeoga jeoe-gae chaekeul ilgae haetda.)[/font_size][/color] [color=#008000](Elle m'a fait lire un livre.)[/color][/i]
+
+- Pour indiquer que quelqu'un est contraint de faire une action :
+[i]Exemple : [color=#0000FF]그가 그것을 하게 만들었다.[font_size=18pt](Geuga geugeoseul hage mandeul-eotda.)[/font_size][/color] [color=#008000](Il l'a forcé à faire cela.)[/color][/i]
+
+- Les constructions causatives peuvent aussi être utilisées pour exprimer des causes plus douces ou volontaires :
+[i]Exemple : [color=#0000FF]친구가 나에게 그림을 그리게 했다.[font_size=18pt](Chinguga naege geurimeul geurigae haetda.)[/font_size][/color] [color=#008000](Un ami m'a fait dessiner.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Pour apporter plus de détails dans une phrase causative, on peut ajouter des informations sur le type d'action, le lieu, ou le temps, avant la forme causative.
+
+[indent]• Spécifier l'endroit de l'action
+[i]Exemple : [color=#0000FF]그가 아이에게 학교에서 공부하게 했다.[font_size=18pt](Geuga aie-gae hakkyo-eseo gongbu hage haetda.)[/font_size][/color] [color=#008000](Il a fait étudier l'enfant à l'école.)[/color][/i]
+
+- Préciser la nature de l'action
+[i]Exemple : [color=#0000FF]그녀가 날씨가 좋을 때 산책하게 했다.[font_size=18pt](Geunyeoga nalssiga joeul ttae sanchaek hage haetda.)[/font_size][/color] [color=#008000](Elle m'a fait me promener quand il faisait beau.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les constructions causatives permettent d'exprimer qu'une personne fait faire une action par une autre.
+[color=#FF0000]2.[/color] Utilisez des suffixes causatifs comme [color=#FF0000]이[/color] (i), [color=#FF0000]히[/color] (hi), [color=#FF0000]리[/color] (ri), [color=#FF0000]기[/color] (gi) ou l'expression [color=#FF0000]하게 하다[/color] (hage hada).
+[color=#FF0000]3.[/color] La spécification du lieu, du type d'action, ou du moment peut enrichir la phrase causative.
+[color=#FF0000]4.[/color] La compréhension et l'utilisation des constructions causatives peuvent rendre votre expression en coréen plus précise et nuancée.[/indent]
+
+[center][font_size=18][color=#808080]정확한 사동 표현을 사용하여 한국어로 더 자연스럽고 유창하게 표현하세요! (jeonghwag-han sadong pyoheoneul sayonghayeo hangugeoro deo jayeonseureop-go yuchanghage pyoheonhasaeyo!)[/color][/font_size][/center]

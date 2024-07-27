@@ -1,1 +1,81 @@
+[font_size=30][center][b][color=#0000FF]Les Comparaisons en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Faire des comparaisons en coréen est essentiel pour exprimer des différences et des similarités entre des personnes, des objets et des situations. Dans cette leçon, nous allons apprendre les structures de base pour formuler des comparaisons en coréen.
+
+[font_size=24][color=#4B0082]1. Comparer des objets ou des personnes[/color][/font_size]
+
+Pour comparer deux objets ou personnes, on utilise les structures suivantes :
+
+[b]a) Utiliser [color=#FF0000]더[/color] (deo) pour indiquer "plus que"[/b]
+[indent][code]
+형은 동생보다 더 크다.
+(hyeongeun dongsaengboda deo keuda.)
+Le grand frère est plus grand que le petit frère.
+[/code]
+
+Dans cette structure, "[color=#FF0000]보다[/color] (boda)" signifie "que" et est placé après l'objet de comparaison. "[color=#FF0000]더[/color] (deo)" signifie "plus".[/indent]
+
+[b]b) Utiliser [color=#FF0000]덜[/color] (deol) pour indiquer "moins que"[/b]
+[indent][code]
+이 책은 저 책보다 덜 두껍다.
+(i chaegeun jeo chaegboda deol dukkyeopda.)
+Ce livre est moins épais que ce livre-là.
+[/code]
+
+Même structure que ci-dessus, sauf que "[color=#FF0000]덜[/color] (deol)" signifie "moins".[/indent]
+
+[b]c) Utiliser [color=#FF0000]보다[/color] (boda) pour indiquer "plutôt que"[/b]
+[indent][code]
+커피보다 차를 더 좋아해요.
+(keopiboda chareul deo joahaeyo.)
+Je préfère le thé au café.
+[/code]
+
+"[color=#FF0000]보다[/color] (boda)" est utilisé pour indiquer une préférence entre deux choses.[/indent]
+
+[font_size=24][color=#4B0082]2. Comparaisons égales[/color][/font_size]
+
+Pour exprimer que deux objets ou personnes sont égaux ou similaires, on utilise les structures suivantes :
+
+[b]a) Utiliser [color=#FF0000]만큼[/color] (mankeum) pour indiquer "aussi... que"[/b]
+[indent][code]
+그녀는 나만큼 똑똑하다.
+(geunyeoneun namankeum ttokttokhada.)
+Elle est aussi intelligente que moi.
+[/code]
+
+"[color=#FF0000]만큼[/color] (mankeum)" est utilisé après le substantif avec lequel on compare.[/indent]
+
+[b]b) Utiliser [color=#FF0000]처럼[/color] (cheoreom) pour "comme"[/b]
+[indent][code]
+그는 천사처럼 친절하다.
+(geuneun cheonsacheoreom chinjeolhada.)
+Il est gentil comme un ange.
+[/code]
+
+"[color=#FF0000]처럼[/color] (cheoreom)" est utilisé après le substantif pour marquer la similitude.[/indent]
+
+[font_size=24][color=#4B0082]3. Comparaisons superlatives[/color][/font_size]
+
+Pour exprimer une comparaison superlative, comme "le plus... de", utilisez "[color=#FF0000]가장[/color] (gajang)" ou "[color=#FF0000]제일[/color] (jeil)".
+
+[indent][code]
+그녀가 가장 예쁘다.
+(geunyeoga gajang yeppeuda.)
+Elle est la plus jolie.
+[/code]
+
+"[color=#FF0000]가장[/color] (gajang)" et "[color=#FF0000]제일[/color] (jeil)" peuvent être utilisés de manière interchangeable pour indiquer le superlatif.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Utilisez "[color=#FF0000]더[/color] (deo)" pour indiquer "plus que", et "[color=#FF0000]덜[/color] (deol)" pour "moins que".
+[color=#FF0000]2.[/color] Utilisez "[color=#FF0000]보다[/color] (boda)" pour effectuer une comparaison directe entre deux choses.
+[color=#FF0000]3.[/color] Pour exprimer l'égalité, utilisez "[color=#FF0000]만큼[/color] (mankeum)" ou "[color=#FF0000]처럼[/color] (cheoreom)".
+[color=#FF0000]4.[/color] "[color=#FF0000]가장[/color] (gajang)" et "[color=#FF0000]제일[/color] (jeil)" sont utilisés pour exprimer le superlatif.[/indent]
+
+[center][font_size=18][color=#808080]한국어의 비교 구조를 이해하고 사용하십시오, 자연스럽고 정확한 표현을 위해! (hangug-ui bigyo gujoreul ihaehago sayonghasibsio, jayounseureobgo jeonghwaghan pyohyeoneul wihae!)[/color][/font_size][/center]

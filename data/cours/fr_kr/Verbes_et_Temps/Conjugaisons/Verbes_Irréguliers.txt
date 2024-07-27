@@ -1,1 +1,81 @@
+[font_size=30][center][b][color=#0000FF]Verbes Irréguliers en Coréen (Corée du Sud)[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+En coréen, comme dans de nombreuses langues, il existe des verbes irréguliers dont la forme change selon le temps ou l'usage grammaticale. Il est essentiel de bien connaître ces verbes pour s'exprimer correctement et fluidement en coréen. Cette leçon aborde certaines des règles et exceptions les plus courantes des verbes irréguliers.
+
+[font_size=24][color=#4B0082]1. Verbes en ㅂ (b)[/color][/font_size]
+
+Les verbes dont la racine se termine par ㅂ (b) subissent souvent une mutation en ㅂ (b) → 우 (u) ou 오 (o) lorsqu'ils sont suivis par une voyelle.
+
+[b]a) Verbes courants[/b]
+[indent]
+[code]
+돕다 (dopt-da) [color=#008000](aider)[/color] → 도와요 (dowa-yo) [color=#008000](j'aide)[/color]
+눕다 (nupt-da) [color=#008000](s'allonger)[/color] → 누워요 (nuwo-yo) [color=#008000](je m'allonge)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그는 나를 도와요.[font_size=18pt](Geuneun nareul dowayo.)[/font_size][/color] [color=#008000](Il m'aide.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Verbes en ㄷ (d)[/color][/font_size]
+
+Les verbes dont la racine se termine par ㄷ (d) changent souvent en ㄹ (l) lorsqu'ils sont suivis par une voyelle.
+
+[b]a) Verbes courants[/b]
+[indent]
+[code]
+듣다 (deut-da) [color=#008000](écouter)[/color] → 들어요 (deureo-yo) [color=#008000](j'écoute)[/color]
+걷다 (geot-da) [color=#008000](marcher)[/color] → 걸어요 (georeo-yo) [color=#008000](je marche)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]음악을 들어요.[font_size=18pt](Eumak-eul deureoyo.)[/font_size][/color] [color=#008000](J'écoute de la musique.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Verbes en 르 (reu)[/color][/font_size]
+
+Les verbes dont la racine contient 르 (reu) ajoutent ㄹ (l) avant ㅏ (a) ou ㅓ (eo) et perdent la voyelle 먹다 명사변형 (moek-da myeongsa-byeonhyeong), formant ainsi une nouvelle syllabe.
+
+[b]a) Verbes courants[/b]
+[indent]
+[code]
+다르다 (dareu-da) [color=#008000](être différent)[/color] → 달라요 (dalla-yo) [color=#008000](c'est différent)[/color]
+빠르다 (ppareu-da) [color=#008000](être rapide)[/color] → 빨라요 (ppalla-yo) [color=#008000](c'est rapide)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그것은 달라요.[font_size=18pt](Geugeos-eun dallayo.)[/font_size][/color] [color=#008000](C'est différent.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Verbes en ㅎ (h)[/color][/font_size]
+
+Les verbes terminant par ㅎ (h) subjuguent souvent cette arabe avant ㄴ (n) ou ㅅ (s).
+
+[b]a) Verbes courants[/b]
+[indent]
+[code]
+낳다 (nah-da) [color=#008000](donner naissance)[/color] → 낳아요 (nah-ayo) [color=#008000](je donne naissance)[/color]
+좋다 (johta) [color=#008000](être bon)[/color] → 좋아요 (joha-yo) [color=#008000](c'est bon)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그녀는 아이를 낳아요.[font_size=18pt](Geunyeoneun aireul nah-ayo.)[/font_size][/color] [color=#008000](Elle donne naissance à un bébé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Verbes en ㅅ (s)[/color][/font_size]
+
+Ces verbes abandonnent souvent ㅅ (s) avant une voyelle.
+
+[b]a) Verbes courants[/b]
+[indent]
+[code]
+잇다 (it-da) [color=#008000](relier)[/color] → 이어요 (ieo-yo) [color=#008000](je relie)[/color]
+짓다 (jit-da) [color=#008000](construire)[/color] → 지어요 (jieo-yo) [color=#008000](je construis)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그는 집을 지어요.[font_size=18pt](Geuneun jibeul jieo-yo.)[/font_size][/color] [color=#008000](Il construit une maison.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes irréguliers changent souvent de forme lorsqu'ils sont suivis par une voyelle.
+[color=#FF0000]2.[/color] Les principales modifications impliquent les suffixes ㅂ (b), ㄷ (d), 르 (reu), ㅎ (h), et ㅅ (s).
+[color=#FF0000]3.[/color] Il est crucial de mémoriser ces formes pour conjuguer correctement les verbes irréguliers.
+[color=#FF0000]4.[/color] Pratiquer régulièrement permet de se familiariser avec ces changements et d'améliorer la fluidité de votre coréen.[/indent]
+
+[center][font_size=18][color=#808080]불규칙 동사를 올바르게 사용하여 한국어 표현을 더 자연스럽게 만드세요! (bulgyuchik dongsareul olbareuge sayonghayeo hangug-eo pyohyeon-eul deo jawyeonseureobge mandeuseyo!)[/color][/font_size][/center]

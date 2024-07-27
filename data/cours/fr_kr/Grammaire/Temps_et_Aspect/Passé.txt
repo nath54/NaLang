@@ -1,1 +1,64 @@
+[font_size=30][center][b][color=#0000FF]Le Temps Passé en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Le temps passé en coréen est utilisé pour indiquer des actions ou des états qui se sont produits dans le passé. Il est essentiel de maîtriser cette structure pour parler de vos expériences et raconter des histoires en coréen. Comprendre les différentes formes du passé vous aidera à exprimer des événements passés de manière précise et naturelle.
+
+[font_size=24][color=#4B0082]1. Formation du temps passé[/color][/font_size]
+
+Pour former le passé en coréen, on ajoute généralement les terminaisons [i]었어요 (eosseoyo) / 였어요 (yeosseoyo)[/i] ou [i]았어요 (asseoyo)[/i] à la base du verbe. La terminaison choisie dépend de la dernière voyelle de la base du verbe :
+
+[b]a) Terminaison en -았어요 (asseoyo)[/b]
+[indent]Utilisée lorsque la dernière voyelle de la base du verbe est ㅏ (a) ou ㅗ (o).
+[code]
+가다 (gada) -> 갔어요 (gasseoyo) [color=#008000](aller -> être allé)[/color]
+보다 (boda) -> 보았어요 (boasseoyo) ou 봤어요 (bwa(sseoyo)) [color=#008000](regarder -> avoir regardé)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 학교에 갔어요.[font_size=18pt] (Naneun hakgyoe gasseoyo.)[/font_size][/color] [color=#008000](Je suis allé à l'école.)[/color][/i][/indent]
+
+[b]b) Terminaison en -었어요 (eosseoyo) / -였어요 (yeosseoyo)[/b]
+[indent]Utilisée lorsque la dernière voyelle de la base du verbe est n'importe quelle autre voyelle que ㅏ (a) ou ㅗ (o).
+[code]
+먹다 (meokda) -> 먹었어요 (meogeosseoyo) [color=#008000](manger -> avoir mangé)[/color]
+하다 (hada) -> 했어요 (haesseoyo) [color=#008000](faire -> avoir fait)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 밥을 먹었어요.[font_size=18pt] (Naneun babeul meogeosseoyo.)[/font_size][/color] [color=#008000](J'ai mangé du riz.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du temps passé[/color][/font_size]
+
+Le temps passé est utilisé pour décrire des actions qui ont été accomplies avant le moment de parler. Voici quelques règles et exemples pour bien utiliser le passé en coréen.
+
+[indent]• Pour parler d'actions terminées dans le passé.
+[i]Exemple : [color=#0000FF]어제 영화를 봤어요.[font_size=18pt] (Eoje yeonghwareul bwasseoyo.)[/font_size][/color] [color=#008000](J'ai regardé un film hier.)[/color][/i]
+
+- Pour raconter des expériences passées.
+[i]Exemple : [color=#0000FF]한국에 갔었어요.[font_size=18pt] (Hankuge gasseosseoyo.)[/font_size][/color] [color=#008000](Je suis allé(e) en Corée du Sud.)[/color][/i]
+
+- Pour décrire des états ou des sentiments passés.
+[i]Exemple : [color=#0000FF]그때 정말 행복했어요.[font_size=18pt] (Geuttae jeongmal haengbokhaesseoyo.)[/font_size][/color] [color=#008000](J'étais vraiment heureux(se) à ce moment-là.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Forme négative du passé[/color][/font_size]
+
+Pour former la négation au passé, on utilise la structure [i]지 않다 (ji anhta)[/i], précédée du verbe principal à la forme nominalisée. On ajoute ensuite la terminaison passée.
+
+[indent]• 
+[code]
+안 가다 (an gada) -> 가지 않았어요 (gaji anhasseoyo) [color=#008000](ne pas aller -> n'être pas allé)[/color]
+안 보다 (an boda) -> 보지 않았어요 (boji anhasseoyo) [color=#008000](ne pas regarder -> n'avoir pas regardé)[/color]
+안 먹다 (an meokda) -> 먹지 않았어요 (meokji anhasseoyo) [color=#008000](ne pas manger -> n'avoir pas mangé)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 학교에 가지 않았어요.[font_size=18pt] (Naneun hakgyoe gaji anhasseoyo.)[/font_size][/color] [color=#008000](Je ne suis pas allé à l'école.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les terminaisons pour former le passé sont [i]았어요 (asseoyo)[/i] et [i]었어요 (eosseoyo)[/i].
+[color=#FF0000]2.[/color] La dernière voyelle de la base du verbe détermine la terminaison à utiliser.
+[color=#FF0000]3.[/color] Utilisez le passé pour décrire des actions, expériences, états ou sentiments révolus.
+[color=#FF0000]4.[/color] La forme négative du passé se forme avec [i]지 않다 (ji anhta)[/i].[/indent]
+
+[center][font_size=18][color=#808080]과거 시제를 올바르게 사용해서 한국어를 더욱 자연스럽게 표현하세요! (gwageo sije-reul olbareuge sayonghaeseo hangugeo-reul deouk jayeonseureopge pyo hyeonhaseyo!)[/color][/font_size][/center]

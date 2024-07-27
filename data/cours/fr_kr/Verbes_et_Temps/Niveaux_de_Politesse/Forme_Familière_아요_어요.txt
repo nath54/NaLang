@@ -1,1 +1,60 @@
+[font_size=30][center][b][color=#0000FF]Les Niveaux de Politesse en Coréen : La Forme Familière 아요/어요[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+En coréen, la politesse est une partie essentielle de la communication. L'une des formes les plus couramment utilisées pour s'adresser à des amis, des membres de la famille ou des personnes plus jeunes est la forme familière 아요/어요 (a-yo/eo-yo). Cette leçon vous aidera à comprendre comment former et utiliser ces terminaisons verbales importantes.
+
+[font_size=24][color=#4B0082]1. Introduction à la Forme Familière[/color][/font_size]
+
+La forme familière en coréen est utilisée pour montrer une certaine proximité avec le locuteur. Elle est moins formelle que d'autres formes de verbes, mais reste respectueuse. Voici comment former cette structure de base :
+
+[b]a) Conjugaison avec la terminaison 아요 (a-yo)[/b]
+[indent]Utilisez la terminaison 아요 (a-yo) lorsque la racine du verbe contient une voyelle ouverte (a, o).
+[code]
+가다 (gada) [color=#008000](aller) → 가요 (gayo) [color=#008000](je vais / tu vas / il va)[/color]
+보다 (boda) [color=#008000](voir) → 봐요 (bwayo) [color=#008000](je vois / tu vois / il voit)[/color]
+끝나다 (kkeutnada) [color=#008000](finir) → 끝나요 (kkeutnayo) [color=#008000](je finis / tu finis / il finit)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 집에 가요.[font_size=18pt](Naneun jibe gayo.)[/font_size][/color] [color=#008000](Je vais à la maison.)[/color][/i][/indent]
+
+[b]b) Conjugaison avec la terminaison 어요 (eo-yo)[/b]
+[indent]Utilisez la terminaison 어요 (eo-yo) lorsque la racine du verbe contient une voyelle fermée (autres voyelles que a, o).
+[code]
+먹다 (meokda) [color=#008000](manger) → 먹어요 (meogeoyo) [color=#008000](je mange / tu manges / il mange)[/color]
+마시다 (masida) [color=#008000](boire) → 마셔요 (masyeoyo) [color=#008000](je bois / tu bois / il boit)[/color]
+읽다 (ikda) [color=#008000](lire) → 읽어요 (ilgeoyo) [color=#008000](je lis / tu lis / il lit)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 책을 읽어요.[font_size=18pt](Naneun chaegeul ilgeoyo.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Exceptions et Cas Particuliers[/color][/font_size]
+
+Certains verbes en coréen ne suivent pas toujours la règle directe de la terminaison et nécessitent une attention particulière.
+
+[indent]• Lorsque la racine du verbe se termine par une voyelle, la terminaison se combine directement sans ajouter de voyelle supplémentaire.
+[i]Exemple : [color=#0000FF]하다 (hada) [color=#008000](faire) → 해요 (haeyo) [color=#008000](je fais / tu fais / il fait)[/color][/color][/i]
+
+- Pour les verbes terminant par la voyelle 으 (eu), il faut omettre 으 (eu) avant d'ajouter la terminaison.
+[i]Exemple : [color=#0000FF]쓰다 (sseuda) [color=#008000](écrire) → 써요 (sseoyo) [color=#008000](j'écris / tu écris / il écrit)[/color][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Usage Pratique et Contextuel[/color][/font_size]
+
+Il est important de comprendre quand utiliser la forme familière et comment elle s'intègre dans vos conversations quotidiennes.
+
+[indent]• Utilisez cette forme principalement avec des amis, des membres de la famille ou des personnes plus jeunes que vous.
+[i]Exemple : [color=#0000FF]내 친구가 와요.[font_size=18pt](Nae chinguga wayo.)[/font_size][/color] [color=#008000](Mon ami vient.)[/color][/i]
+
+- Évitez cette forme lorsque vous vous adressez à des supérieurs, des étrangers ou dans des contextes formels.
+[i]Exemple : Battez en retraite : [color=#0000FF]선생님이 학교에 가세요.[font_size=18pt](Seonsaengnim-i hakgyoe gaseyo.)[/font_size][/color] [color=#008000](Le professeur va à l'école.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La forme familière 아요/어요 (a-yo/eo-yo) est utilisée pour des interactions proches et moins formelles.
+[color=#FF0000]2.[/color] Choisissez 아요 (a-yo) pour les verbes avec des racines contenant 'a' ou 'o', et 어요 (eo-yo) pour les autres voyelles.
+[color=#FF0000]3.[/color] Faites attention aux exceptions, notamment pour les verbes en '으' (eu) et ceux se terminant par une voyelle.
+[color=#FF0000]4.[/color] Utilisez cette forme principalement pour des interactions avec des personnes proches ou plus jeunes.[/indent]
+
+[center][font_size=18][color=#808080]가장 자연스러운 방식으로 한국어를 배워 보세요! (gajang jayounseureoun bangsigeuro hangugeo-reul baewobo세요!)[/color][/font_size][/center]

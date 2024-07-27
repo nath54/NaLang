@@ -1,1 +1,71 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes Réguliers en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+En coréen, les verbes réguliers suivent des règles spécifiques de conjugaison selon le temps grammatical. Maîtriser ces règles essentiels vous permettra de conjuguer correctement la majorité des verbes coréens.
+
+[font_size=24][color=#4B0082]1. Structure de base de la conjugaison des verbes réguliers[/color][/font_size]
+
+Les verbes réguliers en coréen se terminent en [color=#FF0000]다[/color] (da) à l'infinitif. Pour les conjuguer, on enlève cette terminaison et on ajoute les suffixes appropriés selon le temps et le niveau de politesse.
+
+[b]a) Présent Informel Poli[/b]
+[indent]Au présent informel poli, on utilise [color=#FF0000]아요[/color] (ayo) ou [color=#FF0000]어요[/color] (eoyo) en fonction de la dernière voyelle du radical.
+
+[code]
+가다 (gada) [color=#008000](aller) → 가요 (gayo) [color=#008000](vais)[/color]
+먹다 (meokda) [color=#008000](manger) → 먹어요 (meogeoyo) [color=#008000](mange)[/color]
+보다 (boda) [color=#008000](voir) → 봐요 (bwayo) [color=#008000](vois)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]저는 밥을 먹어요.[font_size=18pt](Jeoneun babeul meogeoyo.)[/font_size][/color] [color=#008000](Je mange du riz.)[/color][/i][/indent]
+
+[b]b) Passé Informel Poli[/b]
+[indent]Pour le passé informel poli, on ajoute [color=#FF0000]았어요[/color] (asseoyo) ou [color=#FF0000]었어요[/color] (eosseoyo) après le radical.
+
+[code]
+가다 (gada) [color=#008000](aller) → 갔어요 (gasseoyo) [color=#008000](suis allé)[/color]
+먹다 (meokda) [color=#008000](manger) → 먹었어요 (meogeosseoyo) [color=#008000](ai mangé)[/color]
+보다 (boda) [color=#008000](voir) → 봤어요 (bwasseoyo) [color=#008000](ai vu)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]어제 영화를 봤어요.[font_size=18pt](Eoje yeonghwareul bwasseoyo.)[/font_size][/color] [color=#008000](J'ai regardé un film hier.)[/color][/i][/indent]
+
+[b]c) Futur Informel Poli[/b]
+[indent]Pour le futur informel poli, on ajoute [color=#FF0000]ㄹ 거예요[/color] (l geoyeyo) ou [color=#FF0000]을 거예요[/color] (eul geoyeyo) après le radical.
+
+[code]
+가다 (gada) [color=#008000](aller) → 갈 거예요 (gal geoyeyo) [color=#008000](irai)[/color]
+먹다 (meokda) [color=#008000](manger) → 먹을 거예요 (meogeul geoyeyo) [color=#008000](mangerai)[/color]
+보다 (boda) [color=#008000](voir) → 볼 거예요 (bol geoyeyo) [color=#008000](verrai)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]내일 친구를 만날 거예요.[font_size=18pt](Naeil chingureul mannarl geoyeyo.)[/font_size][/color] [color=#008000](Je vais rencontrer un ami demain.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des suffixes selon la voyelle finale du radical[/color][/font_size]
+
+Les suffixes [color=#FF0000]아요[/color] (ayo) et [color=#FF0000]어요[/color] (eoyo) sont choisis en fonction de la dernière voyelle du radical.
+
+[indent]• Si la dernière voyelle du radical est [color=#FF0000]ㅏ[/color] (a) ou [color=#FF0000]ㅗ[/color] (o), utilisez [color=#FF0000]아요[/color] (ayo).
+[i]Exemple : [color=#0000FF]가다 (gada) → 가요 (gayo)[/color][/i]
+
+- Si la dernière voyelle est autre que [color=#FF0000]ㅏ[/color] (a) ou [color=#FF0000]ㅗ[/color] (o), utilisez [color=#FF0000]어요[/color] (eoyo).
+[i]Exemple : [color=#0000FF]먹다 (meokda) → 먹어요 (meogeoyo)[/color][/i][/indent]
+
+Pour le futur, utilisez [color=#FF0000]을 거예요[/color] (eul geoyeyo) si le radical se termine par une consonne, et [color=#FF0000]ㄹ 거예요[/color] (l geoyeyo) si le radical se termine par une voyelle.
+
+[indent]• Radical se terminant par une voyelle :
+[i]Exemple : [color=#0000FF]가다 (gada) → 갈 거예요 (gal geoyeyo)[/color][/i]
+
+- Radical se terminant par une consonne :
+[i]Exemple : [color=#0000FF]먹다 (meokda) → 먹을 거예요 (meogeul geoyeyo)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Enlevez la terminaison [color=#FF0000]다[/color] (da) de l'infinitif pour obtenir le radical du verbe.
+[color=#FF0000]2.[/color] Ajoutez les suffixes appropriés ([color=#FF0000]아요[/color] (ayo)/[color=#FF0000]어요[/color] (eoyo) pour le présent, [color=#FF0000]았어요[/color] (asseoyo)/[color=#FF0000]었어요[/color] (eosseoyo) pour le passé, [color=#FF0000]ㄹ 거예요[/color] (l geoyeyo)/[color=#FF0000]을 거예요[/color] (eul geoyeyo) pour le futur) en fonction de la dernière voyelle du radical.
+[color=#FF0000]3.[/color] Attention aux règles spécifiques liées à la voyelle finale du radical pour choisir les bons suffixes.
+[color=#FF0000]4.[/color] Conjuguez les verbes en respectant le niveau de politesse approprié à votre contexte.[/indent]
+
+[center][font_size=18][color=#808080]정확한 동사 활용으로 자신 있게 한국어를 배워 나가세요! (jeonghwakan dongsa hwalyongeuro jasin itge hangugeoreul baewona gaseyo!) [color=#4B0082](L’apprenez le coréen avec confiance en utilisant correctement les verbes !)[/color][/font_size][/center]

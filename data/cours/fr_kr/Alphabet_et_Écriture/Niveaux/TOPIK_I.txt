@@ -1,1 +1,105 @@
+[font_size=30][center][b][color=#0000FF]Niveau TOPIK I : Bases de l'Alphabet et Écriture en Coréen [/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Le Test of Proficiency in Korean (TOPIK) est un examen standardisé pour évaluer les compétences en langue coréenne. Le niveau TOPIK I se concentre sur les bases de l'alphabet coréen et les compétences élémentaires d'écriture.
+
+[font_size=24][color=#4B0082]1. L'Alphabet Coréen (Hangeul)[/color][/font_size]
+
+Le Hangeul est l'alphabet du coréen. Il est constitué de 14 consonnes de base et de 10 voyelles de base. Voici une présentation des lettres Hangeul avec une explication de leur prononciation en français :
+
+[b]a) Consonnes de base[/b]
+[indent][code]
+ㄱ (g/k)
+ㄴ (n)
+ㄷ (d/t)
+ㄹ (r/l)
+ㅁ (m)
+ㅂ (b/p)
+ㅅ (s)
+ㅇ (ng)
+ㅈ (j)
+ㅊ (ch)
+ㅋ (k)
+ㅌ (t)
+ㅍ (p)
+ㅎ (h)
+[/code]
+
+[i]Exemple : [color=#0000FF]한국 (Hanguk)[font_size=18pt](Corée du Sud)[/font_size][/color][/i][/indent]
+
+[b]b) Voyelles de base[/b]
+[indent][code]
+ㅏ (a)
+ㅑ (ya)
+ㅓ (eo)
+ㅕ (yeo)
+ㅗ (o)
+ㅛ (yo)
+ㅜ (u)
+ㅠ (yu)
+ㅡ (eu)
+ㅣ (i)
+[/code]
+
+[i]Exemple : [color=#0000FF]안녕 (annyeong)[font_size=18pt](salut)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Combinaison de lettres pour former des syllabes[/color][/font_size]
+
+Les lettres Hangeul se combinent pour former des syllabes. Une syllabe est structurée par une consonne initiale, une voyelle, et parfois une consonne finale.
+
+[indent]• Structure commune : [C + V] ou [C + V + C]
+[i]Exemple : [color=#0000FF]가 (ga)[font_size=18pt](aller)[/font_size], 집 (jib)[font_size=18pt](maison)[/color][/i][/indent]
+
+- Les consonnes et voyelles de base peuvent également se combiner pour créer des sons plus complexes.
+[indent][code]
+ㅐ (ae)
+ㅔ (e)
+ㅚ (oe)
+ㅢ (ui)
+[/code]
+
+[i]Exemple : [color=#0000FF]사랑 (sarang)[font_size=18pt](amour)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Système de transcription du Hangeul[/color][/font_size]
+
+Pour les débutants, il est essentiel de connaître le système de transcription romanisé du Hangeul. Cette transcription aide à lire correctement les mots coréens en utilisant l'alphabet latin.
+
+[indent]• Romanisation révisée
+[i]Exemple : [color=#0000FF]한글 (Hangeul)[font_size=18pt](alphabet coréen)[/font_size][/color][/i][/indent]
+
+- Exercez-vous à lire le Hangeul et sa transcription pour améliorer votre compréhension et prononciation.
+[i]Exemple : [color=#0000FF]서울 (Seoul)[font_size=18pt](Séoul)[/font_size][/color][/i]
+
+[font_size=24][color=#4B0082]4. Premiers mots et phrases à connaître[/color][/font_size]
+
+Pour vous familiariser avec l'utilisation du Hangeul, voici quelques mots et phrases essentiels pour la communication de base en coréen.
+
+[b]a) Salutations et expressions courantes[/b]
+[indent][code]
+안녕하세요 (annyeonghaseyo) [color=#008000](bonjour)[/color]
+감사합니다 (gamsahamnida) [color=#008000](merci)[/color]
+죄송합니다 (joesonghamnida) [color=#008000](je suis désolé)[/color]
+[/code][/indent]
+
+[i]Exemple : [color=#0000FF]안녕하세요, 만나서 반갑습니다. [font_size=18pt](Annyeonghaseyo, mannaseo bangapseumnida.)[/font_size][/color] [color=#008000](Bonjour, ravi de vous rencontrer.)[/color][/i]
+
+[b]b) Questions de base[/b]
+[indent][code]
+이름이 뭐예요? (ireumi mwoyeyo?) [color=#008000](Quel est votre nom?)[/color]
+어디에 가요? (eodie gayo?) [color=#008000](Où allez-vous?)[/color]
+얼마에요? (eolmaeyo?) [color=#008000](Combien ça coûte?)[/color]
+[/code][/indent]
+
+[i]Exemple : [color=#0000FF]물은 얼마에요? [font_size=18pt](Mureun eolmaeyo?)[/font_size][/color] [color=#008000](Combien ça coûte pour l'eau?)[/color][/i]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Hangeul est l'alphabet coréen composé de 14 consonnes et 10 voyelles de base.
+[color=#FF0000]2.[/color] Les syllabes coréennes se forment en combinant des consonnes et des voyelles.
+[color=#FF0000]3.[/color] La romanisation aide à la prononciation correcte des mots coréens.
+[color=#FF0000]4.[/color] Apprenez les salutations et expressions courantes pour vos premières conversations en coréen.[/indent]
+
+[center][font_size=18][color=#808080]한글을 배우면 새로운 기회를 발굴하게 될 것입니다! (Hangeureul baeumyeon saeroun gihoereul balgulgaga doel geosimnida!)[/color][/font_size][/center]

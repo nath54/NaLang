@@ -1,1 +1,78 @@
+[font_size=30][center][b][color=#0000FF]Le Présent en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+En coréen, le présent est utilisé pour exprimer des actions qui se déroulent actuellement ou des états qui sont vrais dans le présent. Il existe trois façons principales de conjuguer les verbes au présent selon le niveau de politesse : informel, formel et honorifique. Cette leçon vous guidera à travers ces différentes conjugaisons afin de vous permettre de choisir la forme appropriée dans différents contextes.
+
+[font_size=24][color=#4B0082]1. Structure de base du présent en coréen[/color][/font_size]
+
+En coréen, les verbes sont généralement constitués d'une racine suivie d'une terminaison. Pour conjuguer les verbes au présent, il faut ajouter la terminaison appropriée à la racine verbale en fonction du niveau de politesse souhaité.
+
+[b]a) Présent informel[/b]
+[indent]La forme informelle est utilisée avec des amis proches ou des personnes plus jeunes.
+
+[code]
+가다 (gada) [color=#008000](aller)[/color] ➜ 가 (ga) + ⵀ (a) ➜ 가요 (gayo)
+먹다 (meokda) [color=#008000](manger)[/color] ➜ 먹 (meok) + ⵀ (a) ➜ 먹어요 (meogeoyo)
+공부하다 (gongbuhada) [color=#008000](étudier)[/color] ➜ 공부하 (gongbuha) + ⵀ (a) ➜ 공부해요 (gongbuhaeyo)
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 학교에 가요.[font_size=18pt](Naneun hakgyoe gayo.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+
+[b]b) Présent formel[/b]
+[indent]La forme formelle est utilisée dans des contextes plus formels ou avec des inconnus.
+
+[code]
+가다 (gada) [color=#008000](aller)[/color] ➜ 가 (ga) + ⵀ (a) ➜ 갑니다 (gamnida)
+먹다 (meokda) [color=#008000](manger)[/color] ➜ 먹 (meok) + ⵀ (a) ➜ 먹습니다 (meokseumnida)
+공부하다 (gongbuhada) [color=#008000](étudier)[/color] ➜ 공부하 (gongbuha) + ⵀ (a) ➜ 공부합니다 (gongbuhamnida)
+[/code]
+
+[i]Exemple : [color=#0000FF]저는 학교에 갑니다.[font_size=18pt](Jeoneun hakgyoe gamnida.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+
+[b]c) Présent honorifique[/b]
+[indent]La forme honorifique est utilisée pour montrer du respect envers la personne à qui l'on s'adresse.
+
+[code]
+가다 (gada) [color=#008000](aller)[/color] ➜ 가시 (gasi) + ⵀ (a) ➜ 가십니다 (gasimnida)
+먹다 (meokda) [color=#008000](manger)[/color] ➜ 드시 (deusi) + ⵀ (a) ➜ 드십니다 (deusimnida)
+공부하다 (gongbuhada) [color=#008000](étudier)[/color] ➜ 공부하시 (gongbuhasi) + ⵀ (a) ➜ 공부하십니다 (gongbuhasimnida)
+[/code]
+
+[i]Exemple : [color=#0000FF]선생님께서 학교에 가십니다.[font_size=18pt](Seonsaengnimkkeseo hakgyoe gasimnida.)[/font_size][/color] [color=#008000](Le professeur va à l'école.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du présent en coréen[/color][/font_size]
+
+Le présent en coréen s'utilise pour décrire des actions en cours ou des vérités générales. Chaque niveau de politesse est approprié dans des circonstances différentes et il est important de choisir la bonne forme pour bien communiquer.
+
+[indent]• Forme informelle : Utilisée entre amis proches, famille ou personnes plus jeunes.
+[i]Exemple : [color=#0000FF]너는 뭐 해?[font_size=18pt](Neoneun mwo hae?) (Tu fais quoi?)[/font_size][/color][/i]
+
+- Forme formelle : Utilisée avec des inconnus ou dans des contextes professionnels.
+[i]Exemple : [color=#0000FF]지금 뭐 하세요?[font_size=18pt](Jigeum mwo haseyo?) (Que faites-vous maintenant?)[/font_size][/color][/i]
+
+- Forme honorifique : Utilisée pour montrer un grand respect.
+[i]Exemple : [color=#0000FF]할아버지께서 뭘 하십니까?[font_size=18pt](Harabeojikkeseo mwol hasimnikka?) (Que fait grand-père?)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires et exceptions[/color][/font_size]
+
+Certaines conjugaisons peuvent varier légèrement en fonction de la nature du verbe. Par exemple, certains verbes irréguliers subissent des modifications spécifiques.
+
+[indent]• Verbes irréguliers avec ㄷ comme terminaison de la racine
+[i]Exemple : 듣다 (deudda) [color=#008000](écouter)[/color] ➜ 들어요 (deureoyo)[/i]
+
+- Verbes irréguliers avec ㅂ comme terminaison de la racine
+[i]Exemple : 돕다 (dopda) [color=#008000](aider)[/color] ➜ 도와요 (dowayo)[/i]
+[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] En coréen, le présent se conjugue différemment selon le niveau de politesse.
+[color=#FF0000]2.[/color] Utilisez la forme informelle pour des conversations avec des proches ou des amis.
+[color=#FF0000]3.[/color] Utilisez la forme formelle dans des contextes professionnels ou avec des inconnus.
+[color=#FF0000]4.[/color] Utilisez la forme honorifique pour montrer un grand respect.
+[color=#FF0000]5.[/color] Faites attention aux verbes irréguliers qui peuvent avoir des modifications spécifiques dans leur conjugaison.[/indent]
+
+[center][font_size=18][color=#808080]한국어 현재 시제를 잘 사용하여 자연스럽고 정확하게 표현하세요! (hangug-eo hyeonjae sijaereul jal sayonghayeo jayeonseureobgo jeonghwaghage pyohyeonhaseyo!)[/color][/font_size][/center]

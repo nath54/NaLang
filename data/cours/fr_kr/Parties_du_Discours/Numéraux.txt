@@ -1,1 +1,105 @@
+[font_size=30][center][b][color=#0000FF]Les Numéraux en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Le Coréen utilise deux systèmes numéraux distincts : les numéraux sino-coréens et les numéraux natifs coréens. Chaque système a ses propres usages et contextes spécifiques, et il est essentiel de comprendre quand utiliser l'un ou l'autre.
+
+[font_size=24][color=#4B0082]1. Les numéraux sino-coréens (한자어 수 hanjaeo su)[/color][/font_size]
+
+Les numéraux sino-coréens sont basés sur les chiffres chinois et sont utilisés pour indiquer les numéros de téléphone, les dates, les quantités, les âges, les étages, et plus encore.
+
+[b]a) Chiffres de 1 à 10[/b]
+[indent]
+[code]
+1 일 (il)
+2 이 (i)
+3 삼 (sam)
+4 사 (sa)
+5 오 (o)
+6 육 (yuk)
+7 칠 (chil)
+8 팔 (pal)
+9 구 (gu)
+10 십 (sip)
+[/code]
+
+[i]Exemple : [color=#0000FF]오늘은 7월 15일입니다.[font_size=18pt](Oneureun chirwol sibilimnida.)[/font_size][/color] [color=#008000](Aujourd'hui, c'est le 15 juillet.)[/color][/i][/indent]
+
+[b]b) Nombres composés jusqu'à 100[/b]
+[indent]Les nombres sino-coréens se forment de manière additive pour les dizaines et les unités.
+
+[code]
+20 이십 (isip)
+30 삼십 (samsip)
+40 사십 (sasip)
+50 오십 (osip)
+60 육십 (yuksip)
+70 칠십 (chilsip)
+80 팔십 (palsip)
+90 구십 (gusip)
+100 백 (baek)
+[/code]
+
+[i]Exemple : [color=#0000FF]이 책은 25,000원입니다.[font_size=18pt](I chaegeun imanocheon wonimnida.)[/font_size][/color] [color=#008000](Ce livre coûte 25,000 wons.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les numéraux natifs coréens (고유어 수 goyu-eo su)[/color][/font_size]
+
+Les numéraux natifs coréens sont utilisés principalement pour compter les objets, les personnes, les âges (parfois) et pour les petites quantités.
+
+[b]a) Chiffres de 1 à 10[/b]
+[indent]
+[code]
+1 하나 (hana)
+2 둘 (dul)
+3 셋 (set)
+4 넷 (net)
+5 다섯 (daseot)
+6 여섯 (yeoseot)
+7 일곱 (ilgop)
+8 여덟 (yeodeol)
+9 아홉 (ahop)
+10 열 (yeol)
+[/code]
+
+[i]Exemple : [color=#0000FF]사과 다섯개 주세요.[font_size=18pt](Sagwa daseotgae juseyo.)[/font_size][/color] [color=#008000](Donnez-moi cinq pommes, s'il vous plaît.)[/color][/i][/indent]
+
+[b]b) Les dizaines[/b]
+[indent]Les dizaines suivent une structure logarithmique pour les numéraux natifs.
+
+[code]
+20 스물 (seumul)
+30 서른 (seoreun)
+40 마흔 (maheon)
+50 쉰 (swin)
+60 예순 (yesun)
+70 일흔 (ilheun)
+80 여든 (yeodeun)
+90 아흔 (aheon)
+[/code]
+
+[i]Exemple : [color=#0000FF]저는 서른살입니다.[font_size=18pt](Jeoneun seoreunsalimnida.)[/font_size][/color] [color=#008000](J'ai trente ans.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Combinaison et utilisation des numéraux[/color][/font_size]
+
+En coréen, l'utilisation des numéraux natifs ou sino-coréens dépend souvent du contexte, du type d'objet ou de l'action à décrire.
+
+[indent]• Utilisation pour les âges :
+  - Sino-coréens : [color=#FF0000]30세[/color] (samsip se) [color=#008000](30 ans)[/color]
+  - Natif coréens : [color=#FF0000]서른살[/color] (seoreun sal) [color=#008000](30 ans)[/color]
+
+• Compter les objets :
+  - Utilisez les numéraux natifs avec les compteurs appropriés.
+  - Exemples de compteurs courants : 개 (gae) pour les objets, 명 (myeong) pour les personnes, 권 (gwon) pour les livres.
+
+[i]Exemple : [color=#0000FF]책 세권을 샀습니다.[font_size=18pt](Chaek segwoneul satseumnida.)[/font_size][/color] [color=#008000](J'ai acheté trois livres.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les numéraux sino-coréens et natifs coréens ont des usages distincts.
+[color=#FF0000]2.[/color] Les numéraux sino-coréens sont largement utilisés pour les dates, les montants financiers, les étages, etc.
+[color=#FF0000]3.[/color] Les numéraux natifs coréens sont utilisés pour compter les objets, les personnes et les petites quantités.
+[color=#FF0000]4.[/color] Connaître les contextes d'utilisation vous aidera à utiliser correctement ces deux systèmes.[/indent]
+
+[center][font_size=18][color=#808080]숫자 사용을 잘 이해하면 한국어 학습이 더 쉬워질 것입니다! (Sutja sayongeul jal ihaehamyeon hangugeo hakseubi deo swiweojil geosimnida!)[/color][/font_size][/center]

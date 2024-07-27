@@ -1,1 +1,59 @@
+[font_size=30][center][b][color=#0000FF]Les Constructions en 고 en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les constructions en 고 (go) sont utilisées en coréen pour relier deux clauses ou actions. Elles servent à exprimer une séquence logique d'actions ou d'événements et à ajouter des informations supplémentaires. Maîtriser les constructions en 고 vous aidera à créer des phrases plus fluides et plus complexes en coréen.
+
+[font_size=24][color=#4B0082]1. Structure de base des constructions en 고[/color][/font_size]
+
+Pour assembler deux actions ou clauses en utilisant 고 (go), il suffit de prendre la racine du verbe et d'ajouter 고 (go) avant le deuxième verbe. Voici les constructions de base :
+
+[b]a) Séquence d'actions[/b]
+[indent]La construction en 고 (go) peut être utilisée pour indiquer que plusieurs actions sont réalisées de manière séquentielle.
+[code]
+나는 학교에 가고 도서관에서 공부했어요 (naneun hakgyoe gago doseogwaneseo gongbuhasseoyo) [color=#008000](Je suis allé à l'école et j'ai étudié à la bibliothèque.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]나는 아침을 먹고 회사에 갔어요.[font_size=18pt](naneun achimeul meokgo hoesae gasseoyo.)[/font_size][/color] [color=#008000](J'ai pris mon petit déjeuner et je suis allé au travail.)[/color][/i][/indent]
+
+[b]b) Ajouter des informations[/b]
+[indent]Vous pouvez utiliser 고 (go) pour ajouter des informations supplémentaires à une action ou une situation.
+[code]
+그는 피곤하고 배고팠어요 (geuneun pigonhago baegopasseoyo) [color=#008000](Il était fatigué et avait faim.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그녀는 친절하고 똑똑해요.[font_size=18pt](geunyeoneun chinjeolhago ttokttokhaeyo.)[/font_size][/color] [color=#008000](Elle est gentille et intelligente.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des constructions en 고[/color][/font_size]
+
+Les constructions en 고 (go) s’utilisent pour relier diverses clauses ou actions. Voici quelques règles et exemples pour vous aider à les utiliser correctement.
+
+[indent]• Pour exprimer une séquence d'actions de manière simple :
+[i]Exemple : [color=#0000FF]나는 집에 가고 TV를 봤어요.[font_size=18pt](naneun jibe gago TVreul bwasseoyo.)[/font_size][/color] [color=#008000](Je suis allé à la maison et j'ai regardé la télévision.)[/color][/i]
+
+- Pour décrire des états ou caractéristiques :
+[i]Exemple : [color=#0000FF]그녀는 예쁘고 키가 커요.[font_size=18pt](geunyeoneun yeppeugo kiga keoyo.)[/font_size][/color] [color=#008000](Elle est belle et grande.)[/color][/i]
+
+- Pour ajouter des détails additionnels à une action accomplie :
+[i]Exemple : [color=#0000FF]그는 공부하고 한국어를 배웠어요.[font_size=18pt](geuneun gongbuhago hangugeoreul baewosseoyo.)[/font_size][/color] [color=#008000](Il a étudié et appris le coréen.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Les constructions en 고 peuvent également être utilisées pour indiquer une cause ou un effet, bien que ce soit moins courant. Il est aussi possible d'insérer d'autres compléments pour enrichir les phrases.
+
+[indent]• Insertion d'un complément de temps ou de lieu
+[i]Exemple : [color=#0000FF]나는 친구 집에서 자고 아침에 일어났어요.[font_size=18pt](naneun chingu jibeseo jago achime ireonasseoyo.)[/font_size][/color] [color=#008000](J'ai dormi chez un ami et je me suis réveillé le matin.)[/color][/i]
+
+- Préciser les émotions ou les raisons
+[i]Exemple : [color=#0000FF]그는 노래를 들으면서 행복하고 즐거웠어요.[font_size=18pt](geuneun noraereul deureumyeonseo haengbokhago jeulgeowosseoyo.)[/font_size][/color] [color=#008000](Il était heureux et amusé en écoutant la musique.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les constructions en 고 (go) relient deux actions ou clauses pour créer une séquence ou ajouter des informations.
+[color=#FF0000]2.[/color] Ajoutez 고 (go) à la racine du premier verbe avant d'ajouter le deuxième verbe.
+[color=#FF0000]3.[/color] Utilisez 고 (go) pour décrire des séquences d'actions, des états ou des caractéristiques.
+[color=#FF0000]4.[/color] Les constructions en 고 peuvent être enrichies par des compléments de temps, de lieu ou des précisions émotionnelles.[/indent]
+
+[center][font_size=18][color=#808080]고를 사용하여 한국어 표현을 자연스럽게 만드세요! (goreul sayonghayeo hangugeo pyohyeoneul jayeonseureopge mandeuseyo!)[/color][/font_size][/center]

@@ -1,1 +1,79 @@
+[font_size=30][center][b][color=#0000FF]Les Onomatopées en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les onomatopées jouent un rôle important dans la langue coréenne, en ajoutant de la couleur et de l'expression aux conversations quotidiennes. Elles sont souvent utilisées pour décrire des sons naturels ou des actions répétitives et se retrouvent fréquemment dans la littérature, les bandes dessinées et les conversations familières.
+
+[font_size=24][color=#4B0082]1. Introduction aux onomatopées en coréen[/color][/font_size]
+
+Les onomatopées en coréen peuvent être divisées en plusieurs catégories, en fonction des sons qu'elles imitent ou des sensations qu'elles évoquent. Voici quelques-unes des catégories principales :
+
+[b]a) Sons de la nature[/b]
+[indent]Ces onomatopées imitent les sons naturels tels que le bruit de l'eau, du vent, ou des animaux.
+[code]
+쏴 (sswa) [color=#008000](bruit de l'eau qui coule rapidement)[/color]
+바람 (baram) [color=#008000](bruit du vent)[/color]
+짹짹 (jjaek-jjaek) [color=#008000](chant des oiseaux)[/color]
+멍멍 (meong-meong) [color=#008000](aboiement d'un chien)[/color]
+야옹 (ya-ong) [color=#008000](miaulement d'un chat)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]강이 쏴쏴 흘러요.[font_size=18pt](Gang-i sswa-sswa heulleoyo.)[/font_size][/color] [color=#008000](La rivière coule en faisant un bruit de courant.)[/color][/i][/indent]
+
+[b]b) Sons de la vie quotidienne[/b]
+[indent]Ces onomatopées décrivent les sons courant dans la vie de tous les jours.
+[code]
+똑똑 (ttok-ttok) [color=#008000](toc toc, bruit de quelqu'un qui frappe à la porte)[/color]
+쨍그랑 (jjaeng-geurang) [color=#008000](bruit de casse, comme un verre qui se brise)[/color]
+드르륵 (deureuruk) [color=#008000](bruit de quelque chose qui glisse ou d'un tiroir qu'on ouvre)[/color]
+빙글빙글 (bing-geul-bing-geul) [color=#008000](bruit de quelque chose qui tourne en cercle)[/color]
+가르랑 (ga-reu-rang) [color=#008000](ronronnement d'un chat)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그는 문을 똑똑 두드렸어요.[font_size=18pt](Geuneun muneul ttok-ttok dudeuryeosseoyo.)[/font_size][/color] [color=#008000](Il a frappé à la porte.)[/color][/i][/indent]
+
+[b]c) Sons exprimant des émotions ou des sensations[/b]
+[indent]Ces onomatopées sont utilisées pour décrire des sensations physiques ou des états émotionnels.
+[code]
+두근두근 (dugeun-dugeun) [color=#008000](battement de cœur rapide par excitation ou peur)[/color]
+쓱쓱 (sseuk-sseuk) [color=#008000](frottement léger, comme se frotter les mains)[/color]
+펑펑 (peong-peong) [color=#008000](bruit de pleurs bruyants ou de grosses larmes qui tombent)[/color]
+짤랑짤랑 (jjal-lang-jjal-lang) [color=#008000](bruit de cliquetis, comme des pièces qui s'entrechoquent)[/color]
+흠흠 (heum-heum) [color=#008000](racler la gorge pour attirer l'attention)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그녀의 심장은 두근두근 뛰고 있었어요.[font_size=18pt](Geunyeoui simjangeun dugeun-dugeun ttwigo isseosseoyo.)[/font_size][/color] [color=#008000](Son cœur battait fort.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des onomatopées dans les phrases[/color][/font_size]
+
+Les onomatopées peuvent être utilisées de manière autonome ou intégrées dans des phrases pour ajouter de la vivacité et du réalisme aux descriptions. Voici quelques règles et exemples pour leur utilisation correcte.
+
+[indent]• Utilisation autonome :
+[i]Exemple : [color=#0000FF]멍멍! (Meong-meong!)[/font_size][/color] [color=#008000](Woof! Woof!)[/color][/i]
+
+- Intégration dans une phrase :
+[i]Exemple : [color=#0000FF]비가 펑펑 내리고 있어요.[font_size=18pt](Biga peong-peong naerigo isseoyo.)[/font_size][/color] [color=#008000](Il pleut à verse.)[/color][/i]
+
+- Pour exprimer une émotion intense :
+[i]Exemple : [color=#0000FF]그는 두근두근 거리는 마음을 진정시키려고 노력했어요.[font_size=18pt](Geuneun dugeun-dugeun georineun maeumeul jinjeongsikiryogo noryeokhaesseoyo.)[/font_size][/color] [color=#008000](Il essayait de calmer son cœur battant fort.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Diversité et richesse des onomatopées coréennes[/color][/font_size]
+
+Le coréen est une langue riche en onomatopées, avec des nuances subtiles qui ajoutent de la profondeur et de la précision à la description des actions et des émotions. Elles sont souvent utilisées dans la littérature, les bandes dessinées (manhwa), les films, et même au quotidien pour rendre la communication plus expressive et vivante.
+
+[indent]• Usage dans la littérature :
+[i]Exemple : [color=#0000FF]그 고양이는 가르랑거리며 주인의 품에 안겼어요.[font_size=18pt](Geu goyangineun ga-reu-rang-georimyeo juineui pume angyeosseoyo.)[/font_size][/color] [color=#008000](Le chat ronronnait en étant blotti dans les bras de son maître.)[/color][/i]
+
+- Usage dans les bandes dessinées :
+[i]Exemple : [color=#0000FF]하늘에서 비 쏴쏴 내리기 시작했어요.[font_size=18pt](Haneul-eseo bi sswa-sswa naerigi sijakhaesseoyo.)[/font_size][/color] [color=#008000](La pluie a commencé à tomber fortement du ciel.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les onomatopées rendent la langue coréenne plus expressive et colorée.
+[color=#FF0000]2.[/color] Elles sont utilisées pour imiter les sons naturels, de la vie quotidienne, ou pour exprimer des émotions.
+[color=#FF0000]3.[/color] Les onomatopées peuvent être utilisées seules ou intégrées dans des phrases pour enrichir les descriptions.
+[color=#FF0000]4.[/color] La diversité des onomatopées en coréen permet une grande précision dans l'expression des sensations et des actions.[/indent]
+
+[center][font_size=18][color=#808080]온오마토페아를 사용하여 한국어 표현을 더 생동감 있게 만들어보세요! (Onomatoper-reul sayonghayeo hangugo pyohyeon-eul deo saengdonggam itge mandeureoboseyo!)[/color][/font_size][/center]

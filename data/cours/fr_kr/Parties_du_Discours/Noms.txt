@@ -1,1 +1,66 @@
+[font_size=30][center][b][color=#0000FF]Les Noms en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Les noms en coréen sont une des catégories de base des parties du discours. Comme en français, il existe des noms propres, des noms communs et des noms composés. Maîtriser les noms vous aidera à construire des phrases plus précises et naturelles.
+
+[font_size=24][color=#4B0082]1. Structure de base des noms[/color][/font_size]
+
+Les noms en coréen peuvent être classés en plusieurs catégories. Voici les plus courantes :
+
+[b]a) Noms simples[/b]
+[indent]Les noms simples se réfèrent généralement à une personne, un lieu, un objet ou un concept. 
+[code]
+사람 (saram) [color=#008000](personne)[/color]
+책 (chaek) [color=#008000](livre)[/color]
+서울 (Seoul) [color=#008000](Séoul)[/color]
+음식 (eumsig) [color=#008000](nourriture)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]그는 좋은 사람입니다.[font_size=18pt] (Geuneun joeun saramimnida.)[/font_size][/color] [color=#008000](C'est une bonne personne.)[/color][/i][/indent]
+
+[b]b) Noms composés[/b]
+[indent]Les noms composés en coréen sont formés en combinant deux ou plusieurs mots ensemble pour créer une nouvelle signification.
+[code]
+학교 (hakgyo) [color=#008000](école) -> 학 (hak) [color=#008000](apprendre) + 교 (gyo) [color=#008000](institution)[/color][/color]
+자동차 (jadongcha) [color=#008000](voiture) -> 자 (ja) [color=#008000](automatique) + 동 (dong) [color=#008000](mouvement) + 차 (cha) [color=#008000](véhicule)[/color][/color]
+이메일 (imeil) [color=#008000](e-mail) -> 이 (i) [color=#008000](électronique) + 메일 (meil) [color=#008000](courrier)[/color][/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]학생들이 학교에서 공부합니다.[font_size=18pt] (Haksaengdeuri hakgyoeseo gongbuhamnida.)[/font_size][/color] [color=#008000](Les étudiants étudient à l'école.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des noms[/color][/font_size]
+
+Les noms sont utilisés pour désigner des personnes, des lieux, des objets ou des concepts. Voici quelques règles et exemples pour vous aider à bien les utiliser.
+
+[indent]• Les noms propres commencent par une majuscule : 
+[i]Exemple : [color=#0000FF]저는 서울에 삽니다.[font_size=18pt] (Jeoneun Seoul-e samnida.)[/font_size][/color] [color=#008000](Je vis à Séoul.)[/color][/i]
+
+- Les noms communs sont souvent précédés de particules pour indiquer leur rôle grammatical : 
+[i]Exemple : [color=#0000FF]그 학생은 천재입니다.[font_size=18pt] (Geu haksaengeun cheonjaeimnida.)[/font_size][/color] [color=#008000](Cet étudiant est un génie.)[/color][/i]
+
+- Les noms composés peuvent ajouter de la précision et de la nuance à vos phrases :
+[i]Exemple : [color=#0000FF]저는 저녁에 이메일을 씁니다.[font_size=18pt] (Jeoneun jeonyeoge imeireul sseumnida.)[/font_size][/color] [color=#008000](J'écris un e-mail le soir.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Particules associées aux noms[/color][/font_size]
+
+En coréen, les noms sont souvent suivis de particules qui indiquent leur fonction dans la phrase. Voici quelques-unes des particules les plus courantes :
+
+[indent]• [b]이/가 (i/ga)[/b] - Sujet de la phrase
+[i]Exemple : [color=#0000FF]책이 테이블 위에 있습니다.[font_size=18pt] (Chaegi teibeul wie itsseumnida.)[/font_size][/color] [color=#008000](Le livre est sur la table.)[/color][/i]
+
+- [b]을/를 (eul/reul)[/b] - Objet direct
+[i]Exemple : [color=#0000FF]저는 책을 읽습니다.[font_size=18pt] (Jeoneun chaekeul ilseumnida.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i]
+
+- [b]은/는 (eun/neun)[/b] - Sujet de la phrase avec une nuance de contraste ou d'importance
+[i]Exemple : [color=#0000FF]사과는 빨갛습니다.[font_size=18pt] (Sagwaneun ppalgatsseumnida.)[/font_size][/color] [color=#008000](La pomme est rouge.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les noms en coréen peuvent être simples ou composés pour enrichir le sens.
+[color=#FF0000]2.[/color] Les noms sont souvent accompagnés de particules pour indiquer leur rôle grammatical.
+[color=#FF0000]3.[/color] La compréhension des noms et des particules est essentielle pour construire des phrases précises et naturelles en coréen.[/indent]
+
+[center][font_size=18][color=#808080]명사를 잘 사용하여 한국어 표현이 보다 자연스러워지게 하세요! (Myeongsareul jal sayonghayeo hangugeopyohyeoni boda jayeonseureowojige haseyo!)[/color][/font_size][/center]

@@ -1,1 +1,62 @@
+[font_size=30][center][b][color=#0000FF]Assimilation Phonologique en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+L'assimilation phonologique est un phénomène courant en coréen où un son change pour devenir similaire, voire identique, au son adjacent. Cela permet une prononciation plus fluide et naturelle. Comprendre ces règles d'assimilation est essentiel pour améliorer votre compréhension et votre prononciation du coréen.
+
+[font_size=24][color=#4B0082]1. Assimilation des Consonnes de Base[/color][/font_size]
+
+En coréen, certaines consonnes changent leur prononciation selon leur position dans le mot ou lorsqu'elles sont suivies par certaines autres consonnes. Voici quelques-unes des règles de base :
+
+[indent][color=#0000FF][b]a) Assimilation de ㅂ (b/p)[/b][/color]
+Quand ㅂ (b/p) est suivi par ㄴ (n) ou ㅁ (m), il se transforme en ㅁ (m).
+[code]
+입니다 (imnida) [color=#008000](c'est)[/color] – se prononce [color=#0000FF]임니다 (im-nida)[/color]
+입맛 (ib-maht) [color=#008000](appétit)[/color] – se prononce [color=#0000FF]임맛 (im-mat)[/color]
+[/code][/indent]
+
+[indent][color=#0000FF][b]b) Assimilation de ㄷ (d/t)[/b][/color]
+Quand ㄷ (d/t) est suivi par ㄴ (n), il se transforme en ㄴ (n).
+[code]
+같다 (gatda) [color=#008000](être pareil)[/color] – se prononce [color=#0000FF]간다 (gan-na)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Assimilation des Consonnes Fortes[/color][/font_size]
+
+Certaines consonnes fortes en coréen subissent une assimilation pour réduire l'effort articulatoire lors de la prononciation :
+
+[indent][color=#0000FF][b]a) Assimilation de ㄹ (r/l)[/b][/color]
+Quand ㄹ (r/l) suit ou précède ㄴ (n), la combinaison est souvent prononcée comme ㄴㄴ (nn).
+[code]
+한라산 (Hallasan) [color=#008000](Mont Hallasan)[/color] – se prononce [color=#0000FF]한나산 (Hannasan)[/color]
+
+설날 (Seollal) [color=#008000](Nouvel An lunaire)[/color] – se prononce [color=#0000FF]설날 (Seolnal)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Assimilation par Nasalisation[/color][/font_size]
+
+La nasalisation se produit en coréen lorsque certaines consonnes sont suivies par une consonne nasale comme ㄴ (n) ou ㅁ (m), et elles changent leur prononciation en conséquence :
+
+[indent][color=#0000FF][b]a) Nasalisation de ㄱ (g/k)[/b][/color]
+Quand ㄱ (g/k) est suivi par ㄴ (n) ou ㅁ (m), il se transforme en ㅇ (ng).
+[code]
+한국말 (han-guk-mal) [color=#008000](langue coréenne)[/color] – se prononce [color=#0000FF]한궁말 (han-gung-mal)[/color]
+
+국내 (guk-nae) [color=#008000](intérieur du pays)[/color] – se prononce [color=#0000FF]궁내 (gung-nae)[/color]
+[/code][/indent]
+
+[indent][color=#0000FF][b]b) Nasalisation de ㅂ (b/p)[/b][/color]
+Quand ㅂ (b/p) est suivi par ㄴ (n) ou ㅁ (m), il se nasalise en ㅁ (m).
+[code]
+밥먹다 (bap-mokda) [color=#008000](manger)[/color] – se prononce [color=#0000FF]밤먹다 (bam-mokda)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les règles d'assimilation phonologique permettent une prononciation plus fluide du coréen.
+[color=#FF0000]2.[/color] L'assimilation des consonnes, des consonnes fortes et par nasalisation sont les plus courantes.
+[color=#FF0000]3.[/color] Comprendre ces règles est essentiel pour améliorer votre prononciation et votre compréhension du coréen.[/indent]
+
+[center][font_size=18][color=#808080]동화 규칙을 올바르게 사용하여 한국어 발음을 자연스럽게 가꾸세요! (donghwa gyuchig-eul olbareuge sayonghayeo hangug-eo balam-eul jayeonseuleobge gagguseyo!)[/color][/font_size][/center]

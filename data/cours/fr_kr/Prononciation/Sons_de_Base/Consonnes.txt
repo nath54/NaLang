@@ -1,1 +1,69 @@
+[font_size=30][center][b][color=#0000FF]Les Consonnes de Base en Coréen[/color][/b][/center][/font_size]
 
+[center][color=#808080]__________[/color][/center]
+
+Le coréen (한글, hangeul) utilise un système alphabétique unique pour représenter les sons. Comprendre les consonnes de base est essentiel pour bien prononcer et lire cette langue. Chaque consonne a une forme unique et peut être utilisée de manière exhaustive pour former des mots.
+
+[font_size=24][color=#4B0082]1. Les Consonnes Simples[/color][/font_size]
+
+Les consonnes simples en coréen sont les sons de base que l'on apprend en premier. Voici une liste des consonnes simples avec leurs noms et leurs prononciations.
+
+[indent][b]a) Consonnes simples[/b]
+[code]
+ㄱ (기역, giyeok) [color=#008000]g/k[/color]
+ㄴ (니은, nieun) [color=#008000]n[/color]
+ㄷ (디귿, digeut) [color=#008000]d/t[/color]
+ㄹ (리을, rieul) [color=#008000]r/l[/color]
+ㅁ (미음, mieum) [color=#008000]m[/color]
+ㅂ (비읍, bieup) [color=#008000]b/p[/color]
+ㅅ (시옷, siot) [color=#008000]s[/color]
+ㅇ (이응, ieung) [color=#008000]ng (muet en position initiale)[/color]
+ㅈ (지읒, jieut) [color=#008000]j/ch[/color]
+ㅊ (치읓, chieut) [color=#008000]ch[/color]
+ㅋ (키읔, kieuk) [color=#008000]k[/color]
+ㅌ (티읕, tieut) [color=#008000]t[/color]
+ㅍ (피읖, pieup) [color=#008000]p[/color]
+ㅎ (히읗, hieut) [color=#008000]h[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]감사합니다.[font_size=18pt](gamsahamnida)[/font_size][/color] [color=#008000](Merci.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les Consonnes Doubles[/color][/font_size]
+
+Les consonnes doubles, ou "consonnes fortifiées", sont des sons plus intenses et prononcés de manière plus forte que leurs homologues simples. Elles sont également fondamentales dans la compréhension de la prononciation coréenne.
+
+[indent][b]a) Consonnes doubles[/b]
+[code]
+ㄲ (쌍기역, ssang giyeok) [color=#008000]kk[/color]
+ㄸ (쌍디귿, ssang digeut) [color=#008000]tt[/color]
+ㅃ (쌍비읍, ssang bieup) [color=#008000]pp[/color]
+ㅆ (쌍시옷, ssang siot) [color=#008000]ss[/color]
+ㅉ (쌍지읒, ssang jieut) [color=#008000]jj[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]빵.[font_size=18pt](ppang)[/font_size][/color] [color=#008000](Pain.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les Consonnes Aspirées[/color][/font_size]
+
+Les consonnes aspirées sont prononcées avec une légère émission d'air, ce qui les différencie des consonnes simples et doubles.
+
+[indent][b]a) Consonnes aspirées[/b]
+[code]
+ㅋ (키읔, kieuk) [color=#008000]kʰ[/color]
+ㅌ (티읕, tieut) [color=#008000]tʰ[/color]
+ㅍ (피읖, pieup) [color=#008000]pʰ[/color]
+ㅊ (치읓, chieut) [color=#008000]cʰ[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]학교.[font_size=18pt](hakgyo)[/font_size][/color] [color=#008000](École.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les consonnes simples forment la base de la prononciation coréenne.
+[color=#FF0000]2.[/color] Les consonnes doubles sont des versions intensifiées des consonnes simples et sont prononcées plus fermement.
+[color=#FF0000]3.[/color] Les consonnes aspirées sont accompagnées d'une légère émission d'air.
+[color=#FF0000]4.[/color] Maîtriser ces consonnes est crucial pour une bonne prononciation et compréhension de la langue coréenne.[/indent]
+
+[center][font_size=18][color=#808080]정확한 자음 발음으로 여러분의 한국어 실력을 향상시키세요! (jeonghwaghan jaeum bareumeuro yeoreobun-ui hangugeo sillyeogeul hyangsangsikiseoyo!)[/color][/font_size][/center]
