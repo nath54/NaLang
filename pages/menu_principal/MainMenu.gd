@@ -33,4 +33,4 @@ func _on_bt_quiz_pressed() -> void:
 
 
 func _on_bt_change_lang_pressed():
-	pass # Replace with function body.
+	get_tree().change_scene_to_file("res://pages/menu_principal/Parametres/Change_Languages_To_Learn.tscn");

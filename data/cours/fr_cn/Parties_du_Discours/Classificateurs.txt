@@ -1,0 +1,80 @@
+[font_size=30][center][b][color=#0000FF]Les Classificateurs en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En chinois, les classificateurs (ou spécificatifs) sont des mots utilisés pour décrire la quantité d'un nom avec précision. Ils sont indispensables lorsque l'on compte des objets, des animaux, des personnes, et même des concepts abstraits. Apprendre à utiliser les classificateurs correctement est essentiel pour parler chinois couramment et naturellement.
+
+[font_size=24][color=#4B0082]1. Introduction aux classificateurs[/color][/font_size]
+
+Les classificateurs sont utilisés en combinaison avec un nombre, un pronom démonstratif, ou un quantificateur. Voici quelques exemples de classificateurs courants pour divers noms :
+
+[b]a) Classificateurs pour les personnes et les objets généraux[/b]
+[indent]Le classificateur le plus courant pour les personnes et les objets est 个 (gè). Il peut s'utiliser dans de nombreux contextes généraux.
+
+[code][b]Exemple :[/b]
+一 (yī) 个 (gè) 人 (rén) [color=#008000](une personne)[/color]
+两 (liǎng) 个 (gè) 苹果 (píngguǒ) [color=#008000](deux pommes)[/color]
+[/code][/indent]
+
+[b]b) Classificateurs pour les animaux[/b]
+[indent]Pour les animaux, le classificateur le plus commun est 只 (zhī).
+
+[code][b]Exemple :[/b]
+一 (yī) 只 (zhī) 狗 (gǒu) [color=#008000](un chien)[/color]
+三 (sān) 只 (zhī) 猫 (māo) [color=#008000](trois chats)[/color]
+[/code][/indent]
+
+[b]c) Classificateurs pour les livres et publications[/b]
+[indent]Pour les livres et les publications, on utilise 本 (běn).
+
+[code][b]Exemple :[/b]
+一 (yī) 本 (běn) 书 (shū) [color=#008000](un livre)[/color]
+两 (liǎng) 本 (běn) 杂志 (zázhì) [color=#008000](deux magazines)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des classificateurs[/color][/font_size]
+
+Les classificateurs doivent être utilisés avec un nom, qui précise l’objet ou la personne comptée. La structure de la phrase est généralement : [Nombre + Classificateur + Nom].
+
+[indent]• Utiliser un nombre :
+[i]Exemple : [color=#0000FF]我有一只猫。[font_size=18pt](Wǒ yǒu yī zhī māo.)[/font_size][/color] [color=#008000](J'ai un chat.)[/color][/i]
+
+- Utiliser un pronom démonstratif :
+[i]Exemple : [color=#0000FF]这本书很有趣。[font_size=18pt](Zhè běn shū hěn yǒuqù.)[/font_size][/color] [color=#008000](Ce livre est très intéressant.)[/color][/i]
+
+- Utiliser un quantificateur :
+[i]Exemple : [color=#0000FF]几个人在这里？[font_size=18pt](Jǐ gè rén zài zhèli?) [/font_size][/color] [color=#008000](Combien de personnes sont ici ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Classificateurs spécifiques[/color][/font_size]
+
+Il existe une multitude de classificateurs spécifiques à différents types d'objets. Voici quelques-uns des plus couramment utilisés :
+
+[indent]• Classificateurs pour objets longs et fins :
+[code]条 (tiáo) [color=#008000](pour les objets longs comme les poissons, les routes, les rivières)[/color]
+
+[i]Exemple : [color=#0000FF]一条鱼[yī tiáo yú][/font_size][/color] [color=#008000](un poisson)[/color][/i][/code]
+
+- Classificateurs pour objets plats et larges :
+[code]张 (zhāng) [color=#008000](pour les objets plats comme les tables, les lits, les photos)[/color]
+
+[i]Exemple : [color=#0000FF]一张桌子[yī zhāng zhuōzi][/font_size][/color] [color=#008000](une table)[/color][/i][/code]
+
+- Classificateurs pour objets en pair :
+[code]双 (shuāng) [color=#008000](pour les objets qui vont par paire comme les chaussures)[/color]
+
+[i]Exemple : [color=#0000FF]一双鞋[yī shuāng xié][/font_size][/color] [color=#008000](une paire de chaussures)[/color][/i][/code][/indent]
+
+[font_size=24][color=#4B0082]4. Importance de mémoriser les classificateurs[/color][/font_size]
+
+Les classificateurs sont un aspect crucial de la langue chinoise. Leur usage est indispensable pour former des phrases grammaticalement correctes et naturelles. Il est donc primordial de les apprendre et de les utiliser correctement.
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les classificateurs sont nécessaires pour compter et quantifier des noms en chinois.
+[color=#FF0000]2.[/color] Utilisez les classificateurs appropriés pour chaque type de nom.
+[color=#FF0000]3.[/color] La structure de base est [Nombre + Classificateur + Nom].
+[color=#FF0000]4.[/color] La mémorisation des classificateurs est essentielle pour parler le chinois correctement.[/indent]
+
+[center][font_size=18][color=#808080]掌握量词的使用，让你的中文更加地道！(zhǎngwò liàngcí de shǐyòng, ràng nǐ de zhōngwén gèng jiā dìdào!)[/color][/font_size][/center]

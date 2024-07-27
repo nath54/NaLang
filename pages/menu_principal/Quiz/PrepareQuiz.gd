@@ -1,5 +1,13 @@
 extends Control
 
+#
+const OPTS_QUIZ_NB_QTS: Dictionary = {
+	0: 5,
+	1: 10,
+	2: 20
+};
+
+#
 var resbt = preload("res://pages/menu_principal/Quiz/BoutonAjoutFicheQuiz.tscn");
 
 #
@@ -13,6 +21,19 @@ func _ready() -> void:
 	#
 	%OptSens.select(Global.quiz_sens);
 	%OptType.select(Global.quiz_type);
+	#
+	var idx_opt_nb_qts: int = -1;
+	#
+	for idx_opt in OPTS_QUIZ_NB_QTS.keys():
+		if OPTS_QUIZ_NB_QTS[idx_opt] == Global.quiz_tot_questions:
+			idx_opt_nb_qts = idx_opt;
+			break;
+	#
+	if idx_opt_nb_qts == -1:
+		idx_opt_nb_qts = 1;
+		Global.quiz_tot_questions = OPTS_QUIZ_NB_QTS[idx_opt_nb_qts];
+	#
+	%OptNbQts.select(idx_opt_nb_qts);
 
 #
 func _on_bt_retour_pressed() -> void:
@@ -69,6 +90,10 @@ func _on_bt_start_quiz_pressed():
 	elif Global.quiz_type == Global.QUIZ_TYPE_INPUT:
 		get_tree().change_scene_to_file("res://pages/menu_principal/Quiz/Quiz_ecrire.tscn");
 
-
+#
 func _on_bt_ok_pressed():
 	%PopUpNoFicheSelected.visible = false;
+
+#
+func _on_opt_nb_qts_item_selected(index):
+	Global.quiz_tot_questions = OPTS_QUIZ_NB_QTS[index];

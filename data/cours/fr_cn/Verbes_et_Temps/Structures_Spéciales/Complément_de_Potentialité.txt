@@ -1,1 +1,65 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Compléments de Potentialité en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les compléments de potentialité sont utilisés en chinois pour indiquer si une action est possible ou non. Ils sont souvent formés en ajoutant des résultats potentiels ou des prépositions à des verbes. Comprendre et utiliser ces structures vous aidera à exprimer des capacités, des permissivités et des impossibilités en chinois.
+
+[font_size=24][color=#4B0082]1. Structure de base des compléments de potentialité[/color][/font_size]
+
+Pour exprimer la potentialité en chinois, on utilise généralement des verbes avec la possibilité ou l'impossibilité de l'action. Voici la structure de base :
+
+[b]a) Affirmatif : Potentialité positive[/b]
+[indent]Pour exprimer la possibilitité positive, on utilise souvent "得" (de) entre le verbe et le complément.
+[code]
+走得到 (zǒu de dào) [color=#008000](pouvoir y aller)[/color]
+看得到 (kàn de dào) [color=#008000](pouvoir voir)[/color]
+闻得到 (wén de dào) [color=#008000](pouvoir sentir)[/color]
+听得到 (tīng de dào) [color=#008000](pouvoir entendre)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我看得到黑板。[font_size=18pt](Wǒ kàn de dào hēibǎn.)[/font_size][/color] [color=#008000](Je peux voir le tableau noir.)[/color][/i][/indent]
+
+[b]b) Négatif : Potentialité négative[/b]
+[indent]Pour exprimer l'impossibilité, on utilise "不" (bù) ou "不能" (bù néng) avant le verbe.
+[code]
+走不到 (zǒu bù dào) [color=#008000](ne pas pouvoir y aller)[/color]
+看不到 (kàn bù dào) [color=#008000](ne pas pouvoir voir)[/color]
+闻不到 (wén bù dào) [color=#008000](ne pas pouvoir sentir)[/color]
+听不到 (tīng bù dào) [color=#008000](ne pas pouvoir entendre)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我听不到音乐。[font_size=18pt](Wǒ tīng bù dào yīnyuè.)[/font_size][/color] [color=#008000](Je ne peux pas entendre la musique.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des compléments de potentialité[/color][/font_size]
+
+Les compléments de potentialité servent à décrire la capacité ou l'incapacité de réaliser une action. Voici quelques règles et exemples pour vous aider à bien les utiliser.
+
+[indent]• Quand l'action est possible, utilisez [color=#FF0000]得[/color] (de) entre le verbe et le complément.
+[i]Exemple : [color=#0000FF]我们走得到那里。[font_size=18pt](Wǒmen zǒu de dào nàli.)[/font_size][/color] [color=#008000](Nous pouvons aller là-bas.)[/color][/i]
+
+- Quand l'action est impossible, utilisez [color=#FF0000]不[/color] (bù) ou [color=#FF0000]不能[/color] (bù néng) avant le verbe.
+[i]Exemple : [color=#0000FF]孩子拿不到那个书。[font_size=18pt](Háizi ná bù dào nàge shū.)[/font_size][/color] [color=#008000](L'enfant ne peut pas atteindre ce livre.)[/color][/i]
+
+- Pour exprimer la permission ou la capacité, on utilise [color=#FF0000]能[/color] (néng) avant le verbe.
+[i]Exemple : [color=#0000FF]他能吃得完这些饭。[font_size=18pt](Tā néng chī de wán zhèxiē fàn.)[/font_size][/color] [color=#008000](Il peut finir ce repas.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Il existe plusieurs nuances et façons d'utiliser les compléments de potentialité pour indiquer différents degrés de capacité ou d'incapacité.
+
+[indent]• Utilisation des adverbes pour renforcer ou atténuer la capacité.
+[i]Exemple : [color=#0000FF]他总是看得到远处的山。[font_size=18pt](Tā zǒng shì kàn de dào yuǎnchù de shān.)[/font_size][/color] [color=#008000](Il peut toujours voir les montagnes au loin.)[/color][/i]
+
+- Indiquer une limite de capacité ou d'incapacité.
+[i]Exemple : [color=#0000FF]我只能看到这个远度。[font_size=18pt](Wǒ zhǐ néng kàn dào zhège yuǎndù.)[/font_size][/color] [color=#008000](Je ne peux voir que jusqu'à cette distance.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les compléments de potentialité indiquent la capacité ou l'incapacité d'accomplir une action.
+[color=#FF0000]2.[/color] Utilisez [color=#FF0000]得[/color] (de) pour exprimer la possibilité positive et [color=#FF0000]不/不能[/color] (bù/bù néng) pour exprimer l'impossibilité.
+[color=#FF0000]3.[/color] La précision et la nuance sont essentielles pour exprimer correctement les compléments de potentialité.
+[color=#FF0000]4.[/color] Les compléments de potentialité peuvent être modifiés par des adverbes pour indiquer différents degrés de capacité.[/indent]
+
+[center][font_size=18][color=#808080]掌握潜力补语，让你的中文表达更加准确！(zhǎngwò qiánlì bǔyǔ, ràng nǐ de zhōngwén biǎodá gèng jiā zhǔnquè!) [Maîtrisez les compléments de potentialité pour rendre vos expressions chinoises plus précises!][/color][/font_size][/center]

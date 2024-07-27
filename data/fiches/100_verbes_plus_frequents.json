@@ -5,18 +5,18 @@
         "en": "100 most used verbs",
         "cn": "最常用的100个动词 (zui chang yong de 100 ge dong ci)",
         "de": "100 meistbenutzte Verben",
-        "ja": "最も使われる100の動詞 (mottomo tsukawareru 100 no doushi)",
+        "jp": "最も使われる100の動詞 (mottomo tsukawareru 100 no doushi)",
         "kr": "가장 많이 사용되는 100개의 동사 (gajang mani sayongdoeneun 100gaeui dongsa)",
         "ru": "100 самых используемых глаголов (100 samykh ispol'zuemykh glagolov)"
     },
-    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
+    "langs": ["es", "fr", "en", "cn", "de", "jp", "kr", "ru"],
     "elements": [{
             "es": ["Ser", "Estar"],
             "fr": ["Être"],
             "en": ["To be"],
             "cn": ["是", "shi"],
             "de": ["Sein"],
-            "ja": ["いる", "iru", "ある", "aru"],
+            "jp": ["いる", "iru", "ある", "aru"],
             "kr": ["이다", "ida", "있다", "itda"],
             "ru": ["Быть", "Byt'"]
         },
@@ -26,7 +26,7 @@
             "en": ["To have"],
             "cn": ["有", "you"],
             "de": ["Haben"],
-            "ja": ["持っている", "motte iru"],
+            "jp": ["持っている", "motte iru"],
             "kr": ["가지고 있다", "gajigo itda"],
             "ru": ["Иметь", "Imeet'"]
         },
@@ -36,7 +36,7 @@
             "en": ["To do", "To make"],
             "cn": ["做", "zuo"],
             "de": ["Machen"],
-            "ja": ["する", "suru"],
+            "jp": ["する", "suru"],
             "kr": ["하다", "hada"],
             "ru": ["Делать", "Delat'"]
         },
@@ -46,7 +46,7 @@
             "en": ["To say", "To tell"],
             "cn": ["说", "shuo"],
             "de": ["Sagen"],
-            "ja": ["言う", "iu"],
+            "jp": ["言う", "iu"],
             "kr": ["말하다", "malhada"],
             "ru": ["Сказать", "Skazat'"]
         },
@@ -56,7 +56,7 @@
             "en": ["To go"],
             "cn": ["去", "qu"],
             "de": ["Gehen"],
-            "ja": ["行く", "iku"],
+            "jp": ["行く", "iku"],
             "kr": ["가다", "gada"],
             "ru": ["Идти", "Idti"]
         },
@@ -66,7 +66,7 @@
             "en": ["To be able", "Can"],
             "cn": ["能", "neng"],
             "de": ["Können"],
-            "ja": ["できる", "dekiru"],
+            "jp": ["できる", "dekiru"],
             "kr": ["할 수 있다", "hal su itda"],
             "ru": ["Мочь", "Moch'"]
         },
@@ -76,7 +76,7 @@
             "en": ["To see"],
             "cn": ["看", "kan"],
             "de": ["Sehen"],
-            "ja": ["見る", "miru"],
+            "jp": ["見る", "miru"],
             "kr": ["보다", "boda"],
             "ru": ["Видеть", "Videt'"]
         },
@@ -86,7 +86,7 @@
             "en": ["To want"],
             "cn": ["想", "xiang"],
             "de": ["Wollen"],
-            "ja": ["欲しい", "hoshii"],
+            "jp": ["欲しい", "hoshii"],
             "kr": ["원하다", "wonhada"],
             "ru": ["Хотеть", "Khotet'"]
         },
@@ -96,7 +96,7 @@
             "en": ["To know"],
             "cn": ["知道", "zhi dao"],
             "de": ["Wissen"],
-            "ja": ["知っている", "shitte iru"],
+            "jp": ["知っている", "shitte iru"],
             "kr": ["알다", "alda"],
             "ru": ["Знать", "Znat'"]
         },
@@ -106,7 +106,7 @@
             "en": ["To arrive"],
             "cn": ["到达", "dao da"],
             "de": ["Ankommen"],
-            "ja": ["到着する", "touchaku suru"],
+            "jp": ["到着する", "touchaku suru"],
             "kr": ["도착하다", "dochakhada"],
             "ru": ["Прибыть", "Pribyit'"]
         },
@@ -116,7 +116,7 @@
             "en": ["To pass", "To happen"],
             "cn": ["通过", "tong guo"],
             "de": ["Passieren", "Vorbeigehen"],
-            "ja": ["通る", "tooru"],
+            "jp": ["通る", "tooru"],
             "kr": ["지나가다", "jinagada"],
             "ru": ["Проходить", "Prokhodit'"]
         },
@@ -126,7 +126,7 @@
             "en": ["To must", "To owe"],
             "cn": ["应该", "ying gai"],
             "de": ["Müssen", "Schulden"],
-            "ja": ["しなければならない", "shinakereba naranai"],
+            "jp": ["しなければならない", "shinakereba naranai"],
             "kr": ["해야 한다", "haeya handa"],
             "ru": ["Должен", "Dolzhen"]
         },
@@ -136,7 +136,7 @@
             "en": ["To put"],
             "cn": ["放", "fang"],
             "de": ["Setzen", "Stellen", "Legen"],
-            "ja": ["置く", "oku"],
+            "jp": ["置く", "oku"],
             "kr": ["놓다", "notda"],
             "ru": ["Положить", "Polozhit'"]
         },
@@ -146,7 +146,7 @@
             "en": ["To seem"],
             "cn": ["似乎", "si hu"],
             "de": ["Scheinen"],
-            "ja": ["見える", "mieru"],
+            "jp": ["見える", "mieru"],
             "kr": ["보이다", "boida"],
             "ru": ["Казаться", "Kazat'sya"]
         },
@@ -156,7 +156,7 @@
             "en": ["To stay", "To remain"],
             "cn": ["保持", "bao chi"],
             "de": ["Bleiben"],
-            "ja": ["残る", "nokoru"],
+            "jp": ["残る", "nokoru"],
             "kr": ["남다", "namda"],
             "ru": ["Остаться", "Ostatsya"]
         },
@@ -166,7 +166,7 @@
             "en": ["To believe"],
             "cn": ["相信", "xiang xin"],
             "de": ["Glauben"],
-            "ja": ["信じる", "shinjiru"],
+            "jp": ["信じる", "shinjiru"],
             "kr": ["믿다", "mitda"],
             "ru": ["Верить", "Verit'"]
         },
@@ -176,7 +176,7 @@
             "en": ["To speak"],
             "cn": ["说话", "shuo hua"],
             "de": ["Sprechen"],
-            "ja": ["話す", "hanasu"],
+            "jp": ["話す", "hanasu"],
             "kr": ["말하다", "malhada"],
             "ru": ["Говорить", "Govorit'"]
         },
@@ -186,7 +186,7 @@
             "en": ["To carry", "To wear"],
             "cn": ["拿", "na"],
             "de": ["Tragen"],
-            "ja": ["持つ", "motsu", "着る", "kiru"],
+            "jp": ["持つ", "motsu", "着る", "kiru"],
             "kr": ["들다", "deulda", "입다", "ipda"],
             "ru": ["Носить", "Nosit'", "Доставить", "Dostavit'"]
         },
@@ -196,7 +196,7 @@
             "en": ["To leave", "To let"],
             "cn": ["离开", "li kai"],
             "de": ["Lassen"],
-            "ja": ["置いておく", "oite oku", "許す", "yurusu"],
+            "jp": ["置いておく", "oite oku", "許す", "yurusu"],
             "kr": ["놓다", "notda", "허락하다", "heorakada"],
             "ru": ["Оставлять", "Ostavljat'", "Покидать", "Pokidat'"]
         },
@@ -206,7 +206,7 @@
             "en": ["To follow", "To continue"],
             "cn": ["跟随", "gen sui"],
             "de": ["Folgen"],
-            "ja": ["続く", "tsuzuku"],
+            "jp": ["続く", "tsuzuku"],
             "kr": ["따르다", "ttareuda"],
             "ru": ["Следовать", "Sledovat'"]
         },
@@ -216,7 +216,7 @@
             "en": ["To find"],
             "cn": ["找到", "zhao dao"],
             "de": ["Finden"],
-            "ja": ["見つける", "mitsukeru"],
+            "jp": ["見つける", "mitsukeru"],
             "kr": ["찾다", "chajda"],
             "ru": ["Найти", "Najti"]
         },
@@ -226,7 +226,7 @@
             "en": ["To call"],
             "cn": ["叫", "jiao"],
             "de": ["Rufen"],
-            "ja": ["呼ぶ", "yobu"],
+            "jp": ["呼ぶ", "yobu"],
             "kr": ["부르다", "bureuda"],
             "ru": ["Звонить", "Zvonit'", "Называть", "Nazyvat'"]
         },
@@ -236,7 +236,7 @@
             "en": ["To come"],
             "cn": ["来", "lai"],
             "de": ["Kommen"],
-            "ja": ["来る", "kuru"],
+            "jp": ["来る", "kuru"],
             "kr": ["오다", "oda"],
             "ru": ["Прийти", "Pritij"]
         },
@@ -246,7 +246,7 @@
             "en": ["To think"],
             "cn": ["想", "xiang"],
             "de": ["Denken"],
-            "ja": ["考える", "kangaeru"],
+            "jp": ["考える", "kangaeru"],
             "kr": ["생각하다", "saenggakada"],
             "ru": ["Думать", "Dumat'"]
         },
@@ -256,7 +256,7 @@
             "en": ["To leave", "To go out"],
             "cn": ["出去", "chu qu"],
             "de": ["Gehen", "Hinausgehen"],
-            "ja": ["出る", "deru"],
+            "jp": ["出る", "deru"],
             "kr": ["나가다", "nada"],
             "ru": ["Выйти", "Vyti"]
         },
@@ -266,7 +266,7 @@
             "en": ["To return"],
             "cn": ["回", "hui"],
             "de": ["Zurückkommen"],
-            "ja": ["戻る", "modoru"],
+            "jp": ["戻る", "modoru"],
             "kr": ["돌아가다", "doragada"],
             "ru": ["Возвращаться", "Vozvrashchatsya"]
         },
@@ -276,7 +276,7 @@
             "en": ["To take"],
             "cn": ["拿", "na"],
             "de": ["Nehmen"],
-            "ja": ["取る", "toru"],
+            "jp": ["取る", "toru"],
             "kr": ["잡다", "jabda"],
             "ru": ["Брать", "Brat'"]
         },
@@ -286,7 +286,7 @@
             "en": ["To meet", "To know"],
             "cn": ["认识", "ren shi"],
             "de": ["Kennen"],
-            "ja": ["知る", "shiru"],
+            "jp": ["知る", "shiru"],
             "kr": ["알다", "alda"],
             "ru": ["Знать", "Znat'"]
         },
@@ -296,7 +296,7 @@
             "en": ["To live"],
             "cn": ["住", "zhu"],
             "de": ["Leben"],
-            "ja": ["生きる", "ikiru"],
+            "jp": ["生きる", "ikiru"],
             "kr": ["살다", "salda"],
             "ru": ["Жить", "Zhit'"]
         },
@@ -306,7 +306,7 @@
             "en": ["To feel"],
             "cn": ["感觉", "gan jue"],
             "de": ["Fühlen"],
-            "ja": ["感じる", "kanjiru"],
+            "jp": ["感じる", "kanjiru"],
             "kr": ["느끼다", "neukkida"],
             "ru": ["Чувствовать", "Chuvstvovat'"]
         },
@@ -316,7 +316,7 @@
             "en": ["To treat", "To handle"],
             "cn": ["处理", "chu li"],
             "de": ["Behandeln"],
-            "ja": ["扱う", "atsukau"],
+            "jp": ["扱う", "atsukau"],
             "kr": ["다루다", "daruda"],
             "ru": ["Обработать", "Obrabotat'"]
         },
@@ -326,7 +326,7 @@
             "en": ["To watch", "To look"],
             "cn": ["看", "kan"],
             "de": ["Schauen"],
-            "ja": ["見る", "miru"],
+            "jp": ["見る", "miru"],
             "kr": ["보다", "boda"],
             "ru": ["Смотреть", "Smotret'"]
         },
@@ -336,7 +336,7 @@
             "en": ["To count", "To tell"],
             "cn": ["数", "shu", "告诉", "gao su"],
             "de": ["Zählen"],
-            "ja": ["数える", "kazoeru"],
+            "jp": ["数える", "kazoeru"],
             "kr": ["세다", "seda"],
             "ru": ["Считать", "Schitat'"]
         },
@@ -346,7 +346,7 @@
             "en": ["To start", "To begin"],
             "cn": ["开始", "kai shi"],
             "de": ["Anfangen"],
-            "ja": ["始める", "hajimeru"],
+            "jp": ["始める", "hajimeru"],
             "kr": ["시작하다", "sijakada"],
             "ru": ["Начать", "Nachat'"]
         },
@@ -356,7 +356,7 @@
             "en": ["To wait", "To hope"],
             "cn": ["等待", "deng dai"],
             "de": ["Warten"],
-            "ja": ["待つ", "matsu"],
+            "jp": ["待つ", "matsu"],
             "kr": ["기다리다", "gidalida"],
             "ru": ["Ждать", "Zhdat'"]
         },
@@ -366,7 +366,7 @@
             "en": ["To look for", "To search"],
             "cn": ["寻找", "xun zhao"],
             "de": ["Suchen"],
-            "ja": ["探す", "sagasu"],
+            "jp": ["探す", "sagasu"],
             "kr": ["찾다", "chajda"],
             "ru": ["Искать", "Iskat'"]
         },
@@ -376,7 +376,7 @@
             "en": ["To exist"],
             "cn": ["存在", "cun zai"],
             "de": ["Existieren"],
-            "ja": ["存在する", "sonzai suru"],
+            "jp": ["存在する", "sonzai suru"],
             "kr": ["존재하다", "jonjaehada"],
             "ru": ["Существовать", "Sushchestvovat'"]
         },
@@ -386,7 +386,7 @@
             "en": ["To enter"],
             "cn": ["进", "jin"],
             "de": ["Eintreten"],
-            "ja": ["入る", "hairu"],
+            "jp": ["入る", "hairu"],
             "kr": ["들어가다", "deureogada"],
             "ru": ["Войти", "Vojti"]
         },
@@ -396,7 +396,7 @@
             "en": ["To work"],
             "cn": ["工作", "gong zuo"],
             "de": ["Arbeiten"],
-            "ja": ["働く", "hataraku"],
+            "jp": ["働く", "hataraku"],
             "kr": ["일하다", "ilhada"],
             "ru": ["Работать", "Rabotate"]
         },
@@ -406,7 +406,7 @@
             "en": ["To write"],
             "cn": ["写", "xie"],
             "de": ["Schreiben"],
-            "ja": ["書く", "kaku"],
+            "jp": ["書く", "kaku"],
             "kr": ["쓰다", "sseudda"],
             "ru": ["Писать", "Pisat'"]
         },
@@ -416,7 +416,7 @@
             "en": ["To lose"],
             "cn": ["丢", "diu"],
             "de": ["Verlieren"],
-            "ja": ["失う", "ushinau"],
+            "jp": ["失う", "ushinau"],
             "kr": ["잃다", "ilhta"],
             "ru": ["Потерять", "Poteryat'"]
         },
@@ -426,7 +426,7 @@
             "en": ["To produce"],
             "cn": ["生产", "sheng chan"],
             "de": ["Produzieren"],
-            "ja": ["生産する", "seisan suru"],
+            "jp": ["生産する", "seisan suru"],
             "kr": ["생산하다", "saengsanhada"],
             "ru": ["Производить", "Proizvodit'"]
         }, {
@@ -435,7 +435,7 @@
             "en": ["To happen", "To occur"],
             "cn": ["发生", "fa sheng"],
             "de": ["Passieren"],
-            "ja": ["起こる", "okoru"],
+            "jp": ["起こる", "okoru"],
             "kr": ["발생하다", "balsaenghada"],
             "ru": ["Происходить", "Proiskhodit'"]
         },
@@ -445,7 +445,7 @@
             "en": ["To understand"],
             "cn": ["理解", "li jie"],
             "de": ["Verstehen"],
-            "ja": ["理解する", "rikai suru"],
+            "jp": ["理解する", "rikai suru"],
             "kr": ["이해하다", "ihaehada"],
             "ru": ["Понимать", "Ponimat'"]
         },
@@ -455,7 +455,7 @@
             "en": ["To ask for"],
             "cn": ["请求", "qing qiu"],
             "de": ["Bitten"],
-            "ja": ["頼む", "tanomu"],
+            "jp": ["頼む", "tanomu"],
             "kr": ["요청하다", "yocheonghada"],
             "ru": ["Просить", "Prosit'"]
         },
@@ -465,7 +465,7 @@
             "en": ["To receive"],
             "cn": ["收到", "shou dao"],
             "de": ["Erhalten"],
-            "ja": ["受け取る", "uketoru"],
+            "jp": ["受け取る", "uketoru"],
             "kr": ["받다", "batda"],
             "ru": ["Получать", "Poluchat'"]
         },
@@ -475,7 +475,7 @@
             "en": ["To remember"],
             "cn": ["记得", "ji de"],
             "de": ["Erinnern"],
-            "ja": ["覚えている", "oboete iru"],
+            "jp": ["覚えている", "oboete iru"],
             "kr": ["기억하다", "gieokada"],
             "ru": ["Помнить", "Pomnit'"]
         },
@@ -485,7 +485,7 @@
             "en": ["To finish"],
             "cn": ["结束", "jie shu"],
             "de": ["Beenden"],
-            "ja": ["終わる", "owaru"],
+            "jp": ["終わる", "owaru"],
             "kr": ["끝내다", "kkeutnaeda"],
             "ru": ["Закончить", "Zakonschit'"]
         },
@@ -495,7 +495,7 @@
             "en": ["To allow", "To permit"],
             "cn": ["允许", "yun xu"],
             "de": ["Erlauben"],
-            "ja": ["許す", "yurusu"],
+            "jp": ["許す", "yurusu"],
             "kr": ["허락하다", "heorakada"],
             "ru": ["Разрешать", "Razreshat'"]
         },
@@ -505,7 +505,7 @@
             "en": ["To appear"],
             "cn": ["出现", "chu xian"],
             "de": ["Erscheinen"],
-            "ja": ["現れる", "arawareru"],
+            "jp": ["現れる", "arawareru"],
             "kr": ["나타나다", "natanada"],
             "ru": ["Появляться", "Poyavlyat'sya"]
         },
@@ -515,7 +515,7 @@
             "en": ["To get", "To obtain"],
             "cn": ["得到", "de dao"],
             "de": ["Erhalten"],
-            "ja": ["手に入れる", "te ni ireru"],
+            "jp": ["手に入れる", "te ni ireru"],
             "kr": ["얻다", "eodda"],
             "ru": ["Получить", "Poluchit'"]
         },
@@ -525,7 +525,7 @@
             "en": ["To begin"],
             "cn": ["开始", "kai shi"],
             "de": ["Beginnen"],
-            "ja": ["始める", "hajimeru"],
+            "jp": ["始める", "hajimeru"],
             "kr": ["시작하다", "sijakada"],
             "ru": ["Начать", "Nachat'"]
         },
@@ -535,7 +535,7 @@
             "en": ["To serve"],
             "cn": ["服务", "fu wu"],
             "de": ["Dienen"],
-            "ja": ["仕える", "tsukaeru"],
+            "jp": ["仕える", "tsukaeru"],
             "kr": ["봉사하다", "bongsahada"],
             "ru": ["Служить", "Sluzhit'"]
         },
@@ -545,7 +545,7 @@
             "en": ["To take out"],
             "cn": ["拿出", "na chu"],
             "de": ["Rausnehmen"],
-            "ja": ["取り出す", "tori dasu"],
+            "jp": ["取り出す", "tori dasu"],
             "kr": ["꺼내다", "kkeonaeda"],
             "ru": ["Вытащить", "Vytashchit'"]
         },
@@ -555,7 +555,7 @@
             "en": ["To need"],
             "cn": ["需要", "xu yao"],
             "de": ["Brauchen"],
-            "ja": ["必要がある", "hitsuyou ga aru"],
+            "jp": ["必要がある", "hitsuyou ga aru"],
             "kr": ["필요하다", "piryohada"],
             "ru": ["Нуждаться", "Nuzhdatsya"]
         },
@@ -565,7 +565,7 @@
             "en": ["To maintain"],
             "cn": ["维持", "wei chi"],
             "de": ["Beibehalten"],
-            "ja": ["維持する", "iji suru"],
+            "jp": ["維持する", "iji suru"],
             "kr": ["유지하다", "yujihada"],
             "ru": ["Поддерживать", "Podderzhivat'"]
         },
@@ -575,7 +575,7 @@
             "en": ["To turn out"],
             "cn": ["结果", "jie guo"],
             "de": ["Sich herausstellen"],
-            "ja": ["結果としてなる", "kekka toshite naru"],
+            "jp": ["結果としてなる", "kekka toshite naru"],
             "kr": ["결과로 나타나다", "gyeolgwa ro natanada"],
             "ru": ["Показаться", "Pokazat'sya"]
         },
@@ -585,7 +585,7 @@
             "en": ["To read"],
             "cn": ["读", "du"],
             "de": ["Lesen"],
-            "ja": ["読む", "yomu"],
+            "jp": ["読む", "yomu"],
             "kr": ["읽다", "ilkda"],
             "ru": ["Читать", "Chitat'"]
         },
@@ -595,7 +595,7 @@
             "en": ["To fall"],
             "cn": ["落下", "luo xia"],
             "de": ["Fallen"],
-            "ja": ["落ちる", "ochiru"],
+            "jp": ["落ちる", "ochiru"],
             "kr": ["떨어지다", "tteoreojida"],
             "ru": ["Падать", "Padat'"]
         },
@@ -605,7 +605,7 @@
             "en": ["To change"],
             "cn": ["改变", "gai bian"],
             "de": ["Ändern"],
-            "ja": ["変える", "kaeru"],
+            "jp": ["変える", "kaeru"],
             "kr": ["변하다", "byeonhada"],
             "ru": ["Менять", "Menjat'"]
         },
@@ -615,7 +615,7 @@
             "en": ["To present"],
             "cn": ["介绍", "jie shao"],
             "de": ["Vorstellen"],
-            "ja": ["紹介する", "shoukai suru"],
+            "jp": ["紹介する", "shoukai suru"],
             "kr": ["소개하다", "sogae hada"],
             "ru": ["Представлять", "Predstavlyat'"]
         },
@@ -625,7 +625,7 @@
             "en": ["To create"],
             "cn": ["创建", "chuang jian"],
             "de": ["Erstellen"],
-            "ja": ["創造する", "souzou suru"],
+            "jp": ["創造する", "souzou suru"],
             "kr": ["창조하다", "changjohada"],
             "ru": ["Создавать", "Sozdavat'"]
         },
@@ -635,7 +635,7 @@
             "en": ["To open"],
             "cn": ["打开", "da kai"],
             "de": ["Öffnen"],
-            "ja": ["開ける", "akeru"],
+            "jp": ["開ける", "akeru"],
             "kr": ["열다", "yeolda"],
             "ru": ["Открывать", "Otkryvat'"]
         },
@@ -645,7 +645,7 @@
             "en": ["To consider"],
             "cn": ["考虑", "kao lü"],
             "de": ["Betrachten"],
-            "ja": ["考慮する", "kouryo suru"],
+            "jp": ["考慮する", "kouryo suru"],
             "kr": ["고려하다", "goryeo hada"],
             "ru": ["Рассматривать", "Rassmatrivat'"]
         },
@@ -655,7 +655,7 @@
             "en": ["To hear"],
             "cn": ["听", "ting"],
             "de": ["Hören"],
-            "ja": ["聞く", "kiku"],
+            "jp": ["聞く", "kiku"],
             "kr": ["듣다", "deutda"],
             "ru": ["Слышать", "Slyshat'"]
         },
@@ -665,7 +665,7 @@
             "en": ["To finish"],
             "cn": ["结束", "jie shu"],
             "de": ["Beenden"],
-            "ja": ["終わる", "owaru"],
+            "jp": ["終わる", "owaru"],
             "kr": ["끝내다", "kkeutnaeda"],
             "ru": ["Закончить", "Zakonschit'"]
         },
@@ -675,7 +675,7 @@
             "en": ["To convert"],
             "cn": ["转换", "zhuan huan"],
             "de": ["Konvertieren"],
-            "ja": ["変える", "kaeru"],
+            "jp": ["変える", "kaeru"],
             "kr": ["변환하다", "byeonhwanhada"],
             "ru": ["Конвертировать", "Konvertirovat'"]
         },
@@ -685,7 +685,7 @@
             "en": ["To win"],
             "cn": ["赢", "ying"],
             "de": ["Gewinnen"],
-            "ja": ["勝つ", "katsu"],
+            "jp": ["勝つ", "katsu"],
             "kr": ["이기다", "igida"],
             "ru": ["Побеждать", "Pobezhdat'"]
         },
@@ -695,7 +695,7 @@
             "en": ["To form"],
             "cn": ["形成", "xing cheng"],
             "de": ["Bildung"],
-            "ja": ["形成する", "keisei suru"],
+            "jp": ["形成する", "keisei suru"],
             "kr": ["형성하다", "hyeongseonghada"],
             "ru": ["Формировать", "Formirovat'"]
         },
@@ -705,7 +705,7 @@
             "en": ["To bring"],
             "cn": ["带", "dai"],
             "de": ["Bringen"],
-            "ja": ["持ってくる", "motte kuru"],
+            "jp": ["持ってくる", "motte kuru"],
             "kr": ["가져오다", "gajyeooda"],
             "ru": ["Приносить", "Prinosit'"]
         },
@@ -715,7 +715,7 @@
             "en": ["To leave"],
             "cn": ["离开", "li kai"],
             "de": ["Verlassen"],
-            "ja": ["去る", "saru"],
+            "jp": ["去る", "saru"],
             "kr": ["떠나다", "ddeonada"],
             "ru": ["Отправляться", "Otpravlyat'sya"]
         },
@@ -725,7 +725,7 @@
             "en": ["To die"],
             "cn": ["死", "si"],
             "de": ["Sterben"],
-            "ja": ["死ぬ", "shinu"],
+            "jp": ["死ぬ", "shinu"],
             "kr": ["죽다", "jukda"],
             "ru": ["Умирать", "Umirat'"]
         },
@@ -735,7 +735,7 @@
             "en": ["To accept"],
             "cn": ["接受", "jie shou"],
             "de": ["Akzeptieren"],
-            "ja": ["受け入れる", "ukeireru"],
+            "jp": ["受け入れる", "ukeireru"],
             "kr": ["받아들이다", "badadeurida"],
             "ru": ["Принимать", "Prinimat'"]
         },
@@ -745,7 +745,7 @@
             "en": ["To realize", "To carry out"],
             "cn": ["实现", "shi xian"],
             "de": ["Realisieren"],
-            "ja": ["実現する", "jitsugen suru"],
+            "jp": ["実現する", "jitsugen suru"],
             "kr": ["실현하다", "silhyeonhada"],
             "ru": ["Реализовывать", "Realizovyvat'"]
         },
@@ -755,7 +755,7 @@
             "en": ["To suppose"],
             "cn": ["假设", "jia she"],
             "de": ["Annehmen"],
-            "ja": ["仮定する", "katei suru"],
+            "jp": ["仮定する", "katei suru"],
             "kr": ["가정하다", "gajeonghada"],
             "ru": ["Предполагать", "Predpolagat'"]
         },
@@ -765,7 +765,7 @@
             "en": ["To understand"],
             "cn": ["理解", "li jie"],
             "de": ["Verstehen"],
-            "ja": ["理解する", "rikai suru"],
+            "jp": ["理解する", "rikai suru"],
             "kr": ["이해하다", "ihaehada"],
             "ru": ["Понимать", "Ponimat'"]
         },
@@ -775,7 +775,7 @@
             "en": ["To achieve", "To succeed"],
             "cn": ["达到", "da dao"],
             "de": ["Erreichen"],
-            "ja": ["達成する", "tassei suru"],
+            "jp": ["達成する", "tassei suru"],
             "kr": ["성취하다", "seongchwihada"],
             "ru": ["Добиваться", "Dobivatsya"]
         },
@@ -785,7 +785,7 @@
             "en": ["To explain"],
             "cn": ["解释", "jie shi"],
             "de": ["Erklären"],
-            "ja": ["説明する", "setsumei suru"],
+            "jp": ["説明する", "setsumei suru"],
             "kr": ["설명하다", "seolmyeonghada"],
             "ru": ["Объяснять", "Obyasnyat'"]
         },
@@ -795,7 +795,7 @@
             "en": ["To ask"],
             "cn": ["问", "wen"],
             "de": ["Fragen"],
-            "ja": ["質問する", "shitsumon suru"],
+            "jp": ["質問する", "shitsumon suru"],
             "kr": ["질문하다", "jilmunhada"],
             "ru": ["Спрашивать", "Sprashivat'"]
         },
@@ -805,7 +805,7 @@
             "en": ["To touch", "To play (an instrument)"],
             "cn": ["触摸", "chu mo"],
             "de": ["Berühren"],
-            "ja": ["触る", "sawaru"],
+            "jp": ["触る", "sawaru"],
             "kr": ["만지다", "manjida"],
             "ru": ["Трогать", "Trogat'"]
         },
@@ -815,7 +815,7 @@
             "en": ["To recognize"],
             "cn": ["认认", "ren ren"],
             "de": ["Erkennen"],
-            "ja": ["認める", "mitomeru"],
+            "jp": ["認める", "mitomeru"],
             "kr": ["알아보다", "araboada"],
             "ru": ["Признавать", "Priznavat'"]
         },
@@ -825,7 +825,7 @@
             "en": ["To study"],
             "cn": ["学习", "xue xi"],
             "de": ["Studieren"],
-            "ja": ["勉強する", "benkyou suru"],
+            "jp": ["勉強する", "benkyou suru"],
             "kr": ["공부하다", "gongbuhada"],
             "ru": ["Изучать", "Izuchat'"]
         },
@@ -835,7 +835,7 @@
             "en": ["To reach"],
             "cn": ["达到", "da dao"],
             "de": ["Erreichen"],
-            "ja": ["達する", "tassuru"],
+            "jp": ["達する", "tassuru"],
             "kr": ["도달하다", "dodalhada"],
             "ru": ["Достигать", "Dostigat'"]
         },
@@ -845,7 +845,7 @@
             "en": ["To be born"],
             "cn": ["出生", "chu sheng"],
             "de": ["Geboren werden"],
-            "ja": ["生まれる", "umareru"],
+            "jp": ["生まれる", "umareru"],
             "kr": ["태어나다", "taeonada"],
             "ru": ["Родиться", "Rodit'sya"]
         },
@@ -855,7 +855,7 @@
             "en": ["To direct"],
             "cn": ["领导", "ling dao"],
             "de": ["Leiten"],
-            "ja": ["指導する", "shidou suru"],
+            "jp": ["指導する", "shidou suru"],
             "kr": ["지도하다", "jidohada"],
             "ru": ["Руководить", "Rukovodit'"]
         },
@@ -865,7 +865,7 @@
             "en": ["To run"],
             "cn": ["跑", "pao"],
             "de": ["Laufen"],
-            "ja": ["走る", "hashiru"],
+            "jp": ["走る", "hashiru"],
             "kr": ["달리다", "dallida"],
             "ru": ["Бежать", "Bezhat'"]
         }, {
@@ -874,7 +874,7 @@
             "en": ["To use"],
             "cn": ["使用", "shi yong"],
             "de": ["Benutzen"],
-            "ja": ["使う", "tsukau"],
+            "jp": ["使う", "tsukau"],
             "kr": ["사용하다", "sayonghada"],
             "ru": ["Использовать", "Ispol'zovat'"]
         },
@@ -884,7 +884,7 @@
             "en": ["To pay"],
             "cn": ["支付", "zhi fu"],
             "de": ["Bezahlen"],
-            "ja": ["支払う", "shiharau"],
+            "jp": ["支払う", "shiharau"],
             "kr": ["지불하다", "jibulhada"],
             "ru": ["Платить", "Platit'"]
         },
@@ -894,7 +894,7 @@
             "en": ["To help"],
             "cn": ["帮助", "bang zhu"],
             "de": ["Helfen"],
-            "ja": ["助ける", "tasukeru"],
+            "jp": ["助ける", "tasukeru"],
             "kr": ["도와주다", "dowajuda"],
             "ru": ["Помогать", "Pomogat'"]
         },
@@ -904,7 +904,7 @@
             "en": ["To like"],
             "cn": ["喜欢", "xi huan"],
             "de": ["Mögen"],
-            "ja": ["好き", "suki"],
+            "jp": ["好き", "suki"],
             "kr": ["좋아하다", "joahada"],
             "ru": ["Нравиться", "Nravitsya"]
         },
@@ -914,7 +914,7 @@
             "en": ["To play"],
             "cn": ["玩", "wan"],
             "de": ["Spielen"],
-            "ja": ["遊ぶ", "asobu"],
+            "jp": ["遊ぶ", "asobu"],
             "kr": ["놀다", "nolda"],
             "ru": ["Играть", "Igrat'"]
         },
@@ -924,7 +924,7 @@
             "en": ["To listen"],
             "cn": ["听", "ting"],
             "de": ["Zuhören"],
-            "ja": ["聞く", "kiku"],
+            "jp": ["聞く", "kiku"],
             "kr": ["듣다", "deutda"],
             "ru": ["Слушать", "Slushat'"]
         },
@@ -934,7 +934,7 @@
             "en": ["To fulfill", "To accomplish"],
             "cn": ["完成", "wan cheng"],
             "de": ["Erfüllen"],
-            "ja": ["果たす", "hatasu"],
+            "jp": ["果たす", "hatasu"],
             "kr": ["완수하다", "wansuhada"],
             "ru": ["Выполнить", "Vypolnit'"]
         },
@@ -944,7 +944,7 @@
             "en": ["To offer"],
             "cn": ["提供", "ti gong"],
             "de": ["Anbieten"],
-            "ja": ["提供する", "teikyou suru"],
+            "jp": ["提供する", "teikyou suru"],
             "kr": ["제공하다", "jeonghada"],
             "ru": ["Предлагать", "Predlagat'"]
         },
@@ -954,7 +954,7 @@
             "en": ["To discover"],
             "cn": ["发现", "fa xian"],
             "de": ["Entdecken"],
-            "ja": ["発見する", "hakken suru"],
+            "jp": ["発見する", "hakken suru"],
             "kr": ["발견하다", "balgyeonhada"],
             "ru": ["Обнаружить", "Obnaruzhit'"]
         },
@@ -964,7 +964,7 @@
             "en": ["To lift", "To raise"],
             "cn": ["举起", "ju qi"],
             "de": ["Anheben"],
-            "ja": ["持ち上げる", "mochiageru"],
+            "jp": ["持ち上げる", "mochiageru"],
             "kr": ["들다", "deulda"],
             "ru": ["Поднимать", "Podnimat'"]
         },
@@ -974,7 +974,7 @@
             "en": ["To try"],
             "cn": ["尝试", "chang shi"],
             "de": ["Versuchen"],
-            "ja": ["試みる", "kokoromiru"],
+            "jp": ["試みる", "kokoromiru"],
             "kr": ["시도하다", "sidohada"],
             "ru": ["Пробовать", "Probovat'"]
         },
@@ -984,7 +984,7 @@
             "en": ["To use"],
             "cn": ["使用", "shi yong"],
             "de": ["Benutzen"],
-            "ja": ["使う", "tsukau"],
+            "jp": ["使う", "tsukau"],
             "kr": ["사용하다", "sayonghada"],
             "ru": ["Использовать", "Ispol'zovat'"]
         },
@@ -994,7 +994,7 @@
             "en": ["To forget"],
             "cn": ["忘记", "wang ji"],
             "de": ["Vergessen"],
-            "ja": ["忘れる", "wasureru"],
+            "jp": ["忘れる", "wasureru"],
             "kr": ["잊다", "ijda"],
             "ru": ["Забывать", "Zabyvat'"]
         },
@@ -1004,7 +1004,7 @@
             "en": ["To teach"],
             "cn": ["教", "jiao"],
             "de": ["Lehren"],
-            "ja": ["教える", "oshieru"],
+            "jp": ["教える", "oshieru"],
             "kr": ["가르치다", "gareuchida"],
             "ru": ["Учить", "Uchit'"]
         }

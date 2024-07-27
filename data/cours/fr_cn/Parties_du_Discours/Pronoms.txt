@@ -1,0 +1,75 @@
+[font_size=30][center][b][color=#0000FF]Les Pronoms en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les pronoms sont des mots qui remplacent les noms pour éviter les répétitions et faciliter la compréhension. En chinois, les pronoms diffèrent selon qu'ils désignent des personnes, des choses, ou des lieux. Apprendre ces pronoms est essentiel pour former des phrases correctes et fluides.
+
+[font_size=24][color=#4B0082]1. Pronoms personnels[/color][/font_size]
+
+Les pronoms personnels en chinois sont utilisés pour représenter les différentes personnes grammaticales : première, deuxième et troisième personne du singulier et du pluriel.
+
+[b]a) Pronoms personnels singuliers[/b]
+[indent][code]
+我 (wǒ) [color=#008000](je, moi)[/color]
+你 (nǐ) [color=#008000](tu, toi)[/color]
+他 (tā) [color=#008000](il, lui)[/color] / 她 (tā) [color=#008000](elle)[/color]
+它 (tā) [color=#008000](il/elle, pour les objets ou les animaux)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我是学生。[font_size=18pt](Wǒ shì xuéshēng.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i][/indent]
+
+[b]b) Pronoms personnels pluriels[/b]
+[indent][code]
+我们 (wǒmen) [color=#008000](nous)[/color]
+你们 (nǐmen) [color=#008000](vous)[/color]
+他们 (tāmen) [color=#008000](ils, eux)[/color] / 她们 (tāmen) [color=#008000](elles)[/color]
+它们 (tāmen) [color=#008000](ils/elles, pour les objets ou les animaux)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他们在学习。[font_size=18pt](Tāmen zài xuéxí.)[/font_size][/color] [color=#008000](Ils sont en train d'étudier.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Pronoms démonstratifs[/color][/font_size]
+
+Les pronoms démonstratifs en chinois sont utilisés pour indiquer des objets, des personnes, ou des lieux proches ou éloignés de l’interlocuteur.
+
+[indent][b]a) Proche de l'interlocuteur[/b]
+[indent][code]
+这 (zhè) [color=#008000](ce, cet, cette - proche)[/color]
+这儿 (zhèr) [color=#008000](ici)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]这是我的书。[font_size=18pt](Zhè shì wǒ de shū.)[/font_size][/color] [color=#008000](C'est mon livre.)[/color][/i][/indent]
+
+[b]b) Éloigné de l'interlocuteur[/b]
+[indent][code]
+那 (nà) [color=#008000](ce, cet, cette - éloigné)[/color]
+那儿 (nàr) [color=#008000](là-bas)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]那是他的学校。[font_size=18pt](Nà shì tā de xuéxiào.)[/font_size][/color] [color=#008000](C'est son école là-bas.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Pronoms interrogatifs[/color][/font_size]
+
+Les pronoms interrogatifs sont utilisés pour poser des questions en chinois. Ils permettent de demander des informations sur les personnes, les objets, le temps, le lieu, et plus encore.
+
+[indent][code]
+谁 (shéi) [color=#008000](qui)[/color]
+什么 (shénme) [color=#008000](quoi, que, quel)[/color]
+哪 (nǎ) [color=#008000](lequel, laquelle)[/color]
+哪儿 (nǎr) [color=#008000](où)[/color]
+多少 (duōshǎo) [color=#008000](combien)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]你是谁？[font_size=18pt](Nǐ shì shéi?) [/font_size][/color] [color=#008000](Qui es-tu ?)[/color][/i]
+[i]Exemple : [color=#0000FF]这是什么？[font_size=18pt](Zhè shì shénme?) [/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les pronoms personnels en chinois diffèrent selon le genre et le nombre.
+[color=#FF0000]2.[/color] Les pronoms démonstratifs indiquent la proximité ou l’éloignement par rapport à l'interlocuteur.
+[color=#FF0000]3.[/color] Les pronoms interrogatifs permettent de poser des questions sur les personnes, les objets, les lieux, etc.
+[color=#FF0000]4.[/color] Maîtriser les pronoms est essentiel pour une communication fluide en chinois.[/indent]
+
+[center][font_size=18][color=#808080]正确使用代词，令你的中文句子更加清晰流畅！(zhèngquè shǐyòng dàicí, lìng nǐ de zhōngwén jùzi gèng jiā qīngxī liúchàng!)[/color][/font_size][/center]

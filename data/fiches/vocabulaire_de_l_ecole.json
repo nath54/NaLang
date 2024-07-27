@@ -5,18 +5,18 @@
         "en": "School Vocabulary",
         "cn": "学校词汇 (xue xiao ci hui)",
         "de": "Schulvokabular",
-        "ja": "学校の語彙 (gakkou no goi)",
+        "jp": "学校の語彙 (gakkou no goi)",
         "kr": "학교 어휘 (hakgyo eohwi)",
         "ru": "Школьный словарь (shkol'niy slovar')"
     },
-    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
+    "langs": ["es", "fr", "en", "cn", "de", "jp", "kr", "ru"],
     "elements": [{
             "es": ["La escuela", "El colegio"],
             "fr": ["L'école"],
             "en": ["School"],
             "cn": ["学校", "xue xiao"],
             "de": ["Schule"],
-            "ja": ["学校", "gakkou"],
+            "jp": ["学校", "gakkou"],
             "kr": ["학교", "hakgyo"],
             "ru": ["школа", "shkola"]
         },
@@ -26,7 +26,7 @@
             "en": ["Student", "Pupil"],
             "cn": ["学生", "xue sheng"],
             "de": ["Schüler", "Student"],
-            "ja": ["学生", "gakusei"],
+            "jp": ["学生", "gakusei"],
             "kr": ["학생", "haksaeng"],
             "ru": ["студент", "ученик", "student", "uchenik"]
         },
@@ -36,7 +36,7 @@
             "en": ["Teacher"],
             "cn": ["老师", "lao shi"],
             "de": ["Lehrer"],
-            "ja": ["先生", "sensei"],
+            "jp": ["先生", "sensei"],
             "kr": ["선생님", "seonsaengnim"],
             "ru": ["учитель", "учительница", "uchitel'", "uchitelnitsa"]
         },
@@ -46,7 +46,7 @@
             "en": ["Class", "Classroom"],
             "cn": ["班级", "教室", "ban ji", "jiao shi"],
             "de": ["Klasse", "Klassenzimmer"],
-            "ja": ["クラス", "教室", "kurasu", "kyoushitsu"],
+            "jp": ["クラス", "教室", "kurasu", "kyoushitsu"],
             "kr": ["학급", "교실", "hakgeup", "gyosil"],
             "ru": ["класс", "аудитория", "klass", "auditoriya"]
         },
@@ -56,7 +56,7 @@
             "en": ["Book", "Textbook"],
             "cn": ["书", "教科书", "shu", "jiaokeshu"],
             "de": ["Buch", "Lehrbuch"],
-            "ja": ["本", "教科書", "hon", "kyoukasho"],
+            "jp": ["本", "教科書", "hon", "kyoukasho"],
             "kr": ["책", "교과서", "chaek", "gyogwaseo"],
             "ru": ["книга", "учебник", "kniga", "uchebnik"]
         },
@@ -66,7 +66,7 @@
             "en": ["Notebook"],
             "cn": ["笔记本", "bijiben"],
             "de": ["Notizbuch", "Heft"],
-            "ja": ["ノート", "nooto"],
+            "jp": ["ノート", "nooto"],
             "kr": ["공책", "gongchaek"],
             "ru": ["тетрадь", "tetrad'"]
         },
@@ -76,7 +76,7 @@
             "en": ["Pencil"],
             "cn": ["铅笔", "qianbi"],
             "de": ["Bleistift"],
-            "ja": ["鉛筆", "enpitsu"],
+            "jp": ["鉛筆", "enpitsu"],
             "kr": ["연필", "yeonpil"],
             "ru": ["карандаш", "karandash"]
         },
@@ -86,7 +86,7 @@
             "en": ["Pen"],
             "cn": ["钢笔", "gangbi"],
             "de": ["Stift", "Kugelschreiber"],
-            "ja": ["ペン", "pen"],
+            "jp": ["ペン", "pen"],
             "kr": ["펜", "pen"],
             "ru": ["ручка", "ruchka"]
         },
@@ -96,7 +96,7 @@
             "en": ["Blackboard", "Whiteboard"],
             "cn": ["黑板", "白板", "heiban", "baiban"],
             "de": ["Tafel"],
-            "ja": ["黒板", "ホワイトボード", "kokuban", "howaito boodo"],
+            "jp": ["黒板", "ホワイトボード", "kokuban", "howaito boodo"],
             "kr": ["칠판", "흰판", "chilpan", "huinpan"],
             "ru": ["доска", "doska"]
         },
@@ -106,7 +106,7 @@
             "en": ["Chalk"],
             "cn": ["粉笔", "fenbi"],
             "de": ["Kreide"],
-            "ja": ["チョーク", "chooku"],
+            "jp": ["チョーク", "chooku"],
             "kr": ["분필", "bunpil"],
             "ru": ["мел", "mel"]
         },
@@ -116,7 +116,7 @@
             "en": ["Desk"],
             "cn": ["桌子", "zhuozi"],
             "de": ["Tisch", "Schreibtisch"],
-            "ja": ["机", "tsukue"],
+            "jp": ["机", "tsukue"],
             "kr": ["책상", "chaeksang"],
             "ru": ["стол", "stol"]
         },
@@ -126,7 +126,7 @@
             "en": ["Chair"],
             "cn": ["椅子", "yizi"],
             "de": ["Stuhl"],
-            "ja": ["椅子", "isu"],
+            "jp": ["椅子", "isu"],
             "kr": ["의자", "uija"],
             "ru": ["стул", "stul"]
         },
@@ -136,7 +136,7 @@
             "en": ["Backpack"],
             "cn": ["背包", "beibao"],
             "de": ["Rucksack"],
-            "ja": ["リュックサック", "ryukkusakku"],
+            "jp": ["リュックサック", "ryukkusakku"],
             "kr": ["배낭", "baenang"],
             "ru": ["рюкзак", "ryukzak"]
         },
@@ -146,7 +146,7 @@
             "en": ["Exam", "Test"],
             "cn": ["考试", "考", "kaoshi", "kao"],
             "de": ["Prüfung", "Test"],
-            "ja": ["試験", "テスト", "shiken", "tesuto"],
+            "jp": ["試験", "テスト", "shiken", "tesuto"],
             "kr": ["시험", "shihom"],
             "ru": ["экзамен", "тест", "ekzamen", "test"]
         },
@@ -156,7 +156,7 @@
             "en": ["Recess", "Break"],
             "cn": ["休息", "xiuxi"],
             "de": ["Pause"],
-            "ja": ["休み時間", "yasumi jikan"],
+            "jp": ["休み時間", "yasumi jikan"],
             "kr": ["휴식 시간", "hyusik sigan"],
             "ru": ["перемена", "peremena"]
         },
@@ -166,7 +166,7 @@
             "en": ["Library"],
             "cn": ["图书馆", "tushuguan"],
             "de": ["Bibliothek"],
-            "ja": ["図書館", "toshokan"],
+            "jp": ["図書館", "toshokan"],
             "kr": ["도서관", "doseogwan"],
             "ru": ["библиотека", "biblioteka"]
         },
@@ -176,7 +176,7 @@
             "en": ["Gym", "Gymnasium"],
             "cn": ["体育馆", "tiyuguan"],
             "de": ["Turnhalle", "Fitnessstudio"],
-            "ja": ["体育館", "taiikukan"],
+            "jp": ["体育館", "taiikukan"],
             "kr": ["체육관", "cheyukgwan"],
             "ru": ["спортзал", "sportsal"]
         },
@@ -186,7 +186,7 @@
             "en": ["Playground"],
             "cn": ["操场", "caochang"],
             "de": ["Spielplatz", "Schulhof"],
-            "ja": ["遊び場", "asobiba"],
+            "jp": ["遊び場", "asobiba"],
             "kr": ["운동장", "undongjang"],
             "ru": ["детская площадка", "detskaya ploshchadka"]
         },
@@ -196,7 +196,7 @@
             "en": ["Principal", "Headmaster", "Headmistress"],
             "cn": ["校长", "xiao zhang"],
             "de": ["Schulleiter", "Schulleiterin"],
-            "ja": ["校長", "kouchou"],
+            "jp": ["校長", "kouchou"],
             "kr": ["교장", "gyojang"],
             "ru": ["директор", "директриса", "direktor", "direktrisa"]
         }

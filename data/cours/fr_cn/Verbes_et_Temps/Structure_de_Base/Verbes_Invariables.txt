@@ -1,1 +1,70 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Verbes Invariables en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes invariables sont une caractéristique intéressante de la langue chinoise. Contrairement à de nombreuses langues, les verbes en chinois ne se conjuguent pas. Ils ne changent pas de forme en fonction du sujet ou du temps. Comprendre leur fonctionnement est essentiel pour maîtriser la langue.
+
+[font_size=24][color=#4B0082]1. Qu'est-ce qu'un verbe invariable ?[/color][/font_size]
+
+En chinois, un verbe invariable est un verbe dont la forme demeure constante, quelle que soit la personne ou le temps de l'action. Cela signifie qu'aucune conjugaison n'est nécessaire pour indiquer le passé, le présent ou le futur.
+
+[b]a) Exemples de verbes invariables courants[/b]
+[indent][code]
+吃 (chī) [color=#008000](manger)[/color]
+喝 (hē) [color=#008000](boire)[/color]
+走 (zǒu) [color=#008000](marcher)[/color]
+说 (shuō) [color=#008000](parler)[/color]
+听 (tīng) [color=#008000](écouter)[/color]
+看 (kàn) [color=#008000](regarder)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我吃饭。[font_size=18pt](Wǒ chī fàn.)[/font_size][/color] [color=#008000](Je mange.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Indiquer le temps avec des verbes invariables[/color][/font_size]
+
+Puisque les verbes chinois ne changent pas de forme, d'autres éléments de la phrase sont utilisés pour indiquer le temps. Les particules temporelles et les expressions de temps jouent un rôle crucial dans ce cadre.
+
+[b]a) Indiquer le passé[/b]
+[indent]Pour indiquer qu'une action s'est déroulée dans le passé, on utilise souvent la particule [color=#FF0000]了[/color] (le) après le verbe.
+[code]
+我吃了饭。[font_size=18pt](Wǒ chī le fàn.)[/font_size] [color=#008000](J'ai mangé.)[/color]
+[/code][/indent]
+
+[b]b) Indiquer le futur[/b]
+[indent]Pour exprimer une action future, on utilise fréquemment l'auxiliaire [color=#FF0000]会[/color] (huì) avant le verbe.
+[code]
+我会吃饭。[font_size=18pt](Wǒ huì chī fàn.)[/font_size] [color=#008000](Je vais manger / Je mangerai.)[/color]
+[/code][/indent]
+
+[b]c) Exemples pratiques[/b]
+[indent]
+[i]Présent : [color=#0000FF]他喝水。[font_size=18pt](Tā hē shuǐ.)[/font_size][/color] [color=#008000](Il boit de l'eau.)[/color][/i]
+
+[i]Passé : [color=#0000FF]他喝了水。[font_size=18pt](Tā hē le shuǐ.)[/font_size][/color] [color=#008000](Il a bu de l'eau.)[/color][/i]
+
+[i]Futur : [color=#0000FF]他会喝水。[font_size=18pt](Tā huì hē shuǐ.)[/font_size][/color] [color=#008000](Il va boire de l'eau.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisation des mots de temps[/color][/font_size]
+
+Outre les particules, les expressions temporelles sont utilisées pour préciser davantage le moment de l'action.
+
+[b]a) Exemples de mots de temps[/b]
+[indent][code]
+昨天 (zuótiān) [color=#008000](hier)[/color]
+今天 (jīntiān) [color=#008000](aujourd'hui)[/color]
+明天 (míngtiān) [color=#008000](demain)[/color]
+现在 (xiànzài) [color=#008000](maintenant)[/color]
+刚才 (gāngcái) [color=#008000](il y a un instant)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我昨天看电影了。[font_size=18pt](Wǒ zuótiān kàn diànyǐng le.)[/font_size][/color] [color=#008000](J'ai regardé un film hier.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes en chinois sont invariables : ils ne changent pas de forme en fonction du temps ou de la personne.
+[color=#FF0000]2.[/color] On utilise des particules temporelles comme [color=#FF0000]了[/color] (le) et [color=#FF0000]会[/color] (huì) pour indiquer le moment d'une action.
+[color=#FF0000]3.[/color] Les expressions de temps ajoutent des précisions sur le moment de l'action.[/indent]
+
+[center][font_size=18][color=#808080]掌握汉语中的动词不变形式，让你的中文更加流利！(Zhǎngwò hànyǔ zhōng de dòngcí bù biàn xíngshì, ràng nǐ de zhōngwén gèng jiā liúlì!)[/color][/font_size][/center]

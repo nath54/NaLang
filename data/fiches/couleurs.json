@@ -1,244 +1,244 @@
 {
-    "name": {
-        "es": "Los colores",
-        "fr": "Les couleurs",
-        "en": "Colors",
-        "cn": "颜色 (yan se)",
-        "de": "Farben",
-        "ja": "色 (iro)",
-        "kr": "색깔 (saekkkal)",
-        "ru": "Цвета (Tsveta)"
-    },
-    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
-    "elements": [{
-            "es": ["El color"],
-            "fr": ["La couleur"],
-            "en": ["Color"],
-            "cn": ["颜色", "yan se"],
-            "de": ["Farbe"],
-            "ja": ["色", "iro"],
-            "kr": ["색", "saek"],
-            "ru": ["Цвет"]
-        },
-        {
-            "es": ["Azul"],
-            "fr": ["Bleu"],
-            "en": ["Blue"],
-            "cn": ["蓝色", "lan se"],
-            "de": ["Blau"],
-            "ja": ["青", "ao"],
-            "kr": ["파랑", "parang"],
-            "ru": ["Синий"]
-        },
-        {
-            "es": ["Azul marino"],
-            "fr": ["Bleu marine"],
-            "en": ["Navy blue"],
-            "cn": ["海军蓝", "hai jun lan"],
-            "de": ["Marineblau"],
-            "ja": ["ネイビーブルー", "nei bi bu ru"],
-            "kr": ["네이비 블루", "neibi beullu"],
-            "ru": ["Тёмно-синий"]
-        },
-        {
-            "es": ["Celeste"],
-            "fr": ["Bleu ciel"],
-            "en": ["Sky blue"],
-            "cn": ["天蓝色", "tian lan se"],
-            "de": ["Himmelblau"],
-            "ja": ["空色", "sora iro"],
-            "kr": ["하늘색", "haneulsaek"],
-            "ru": ["Небесно-голубой"]
-        },
-        {
-            "es": ["Añil"],
-            "fr": ["Indigo"],
-            "en": ["Indigo"],
-            "cn": ["靛蓝", "dian lan"],
-            "de": ["Indigo"],
-            "ja": ["藍色", "ai iro"],
-            "kr": ["인디고", "indigo"],
-            "ru": ["Индиго"]
-        },
-        {
-            "es": ["Turquesa"],
-            "fr": ["Turquoise"],
-            "en": ["Turquoise"],
-            "cn": ["绿松石", "lü song shi"],
-            "de": ["Türkis"],
-            "ja": ["ターコイズ", "taakoizu"],
-            "kr": ["터키석 색", "teokiseok saek"],
-            "ru": ["Бирюзовый"]
-        },
-        {
-            "es": ["Verde"],
-            "fr": ["Vert"],
-            "en": ["Green"],
-            "cn": ["绿色", "lü se"],
-            "de": ["Grün"],
-            "ja": ["緑", "midori"],
-            "kr": ["초록", "chorok"],
-            "ru": ["Зеленый"]
-        },
-        {
-            "es": ["Amarillo"],
-            "fr": ["Jaune"],
-            "en": ["Yellow"],
-            "cn": ["黄色", "huang se"],
-            "de": ["Gelb"],
-            "ja": ["黄色", "ki iro"],
-            "kr": ["노랑", "norang"],
-            "ru": ["Жёлтый"]
-        },
-        {
-            "es": ["Rosa"],
-            "fr": ["Rose"],
-            "en": ["Pink"],
-            "cn": ["粉色", "fen se"],
-            "de": ["Rosa"],
-            "ja": ["ピンク", "pingu"],
-            "kr": ["분홍색", "bunhong saek"],
-            "ru": ["Розовый"]
-        },
-        {
-            "es": ["Naranja"],
-            "fr": ["Orange"],
-            "en": ["Orange"],
-            "cn": ["橙色", "cheng se"],
-            "de": ["Orange"],
-            "ja": ["オレンジ", "orenji"],
-            "kr": ["주황색", "juhwang saek"],
-            "ru": ["Оранжевый"]
-        },
-        {
-            "es": ["Rojo"],
-            "fr": ["Rouge"],
-            "en": ["Red"],
-            "cn": ["红色", "hong se"],
-            "de": ["Rot"],
-            "ja": ["赤", "aka"],
-            "kr": ["빨강", "ppalgang"],
-            "ru": ["Красный"]
-        },
-        {
-            "es": ["Burdeos"],
-            "fr": ["Bordeaux"],
-            "en": ["Bordeaux"],
-            "cn": ["波尔多色", "bo er duo se"],
-            "de": ["Bordeaux"],
-            "ja": ["ボルドー", "borudoo"],
-            "kr": ["보르도", "boreudo"],
-            "ru": ["Бордовый"]
-        },
-        {
-            "es": ["Púrpura"],
-            "fr": ["Pourpre"],
-            "en": ["Purple"],
-            "cn": ["紫色", "zi se"],
-            "de": ["Purpur"],
-            "ja": ["紫", "murasaki"],
-            "kr": ["자주", "jaju"],
-            "ru": ["Пурпурный"]
-        },
-        {
-            "es": ["Violeta"],
-            "fr": ["Violet clair"],
-            "en": ["Light violet"],
-            "cn": ["浅紫色", "qian zi se"],
-            "de": ["Hellviolett"],
-            "ja": ["淡い紫色", "awai murasaki iro"],
-            "kr": ["연보라색", "yeonborasaek"],
-            "ru": ["Светло-фиолетовый"]
-        },
-        {
-            "es": ["Morado"],
-            "fr": ["Violet"],
-            "en": ["Violet"],
-            "cn": ["紫色", "zi se"],
-            "de": ["Violett"],
-            "ja": ["バイオレット", "baioretto"],
-            "kr": ["보라", "bora"],
-            "ru": ["Фиолетовый"]
-        },
-        {
-            "es": ["Beige"],
-            "fr": ["Beige"],
-            "en": ["Beige"],
-            "cn": ["米色", "mi se"],
-            "de": ["Beige"],
-            "ja": ["ベージュ", "beiju"],
-            "kr": ["베이지", "beiji"],
-            "ru": ["Бежевый"]
-        },
-        {
-            "es": ["Marrón"],
-            "fr": ["Marron"],
-            "en": ["Brown"],
-            "cn": ["棕色", "zong se"],
-            "de": ["Braun"],
-            "ja": ["茶色", "cha iro"],
-            "kr": ["갈색", "galsaek"],
-            "ru": ["Коричневый"]
-        },
-        {
-            "es": ["Negro"],
-            "fr": ["Noir"],
-            "en": ["Black"],
-            "cn": ["黑色", "hei se"],
-            "de": ["Schwarz"],
-            "ja": ["黒", "kuro"],
-            "kr": ["검정", "geomjeong"],
-            "ru": ["Чёрный"]
-        },
-        {
-            "es": ["Blanco"],
-            "fr": ["Blanc"],
-            "en": ["White"],
-            "cn": ["白色", "bai se"],
-            "de": ["Weiß"],
-            "ja": ["白", "shiro"],
-            "kr": ["흰색", "huinsaek"],
-            "ru": ["Белый"]
-        },
-        {
-            "es": ["Gris"],
-            "fr": ["Gris"],
-            "en": ["Gray"],
-            "cn": ["灰色", "hui se"],
-            "de": ["Grau"],
-            "ja": ["灰色", "hai iro"],
-            "kr": ["회색", "hoesaek"],
-            "ru": ["Серый"]
-        },
-        {
-            "es": ["Plateado"],
-            "fr": ["Argenté"],
-            "en": ["Silver"],
-            "cn": ["银色", "yin se"],
-            "de": ["Silber"],
-            "ja": ["銀色", "gin iro"],
-            "kr": ["은색", "eunsaek"],
-            "ru": ["Серебристый"]
-        },
-        {
-            "es": ["Dorado"],
-            "fr": ["Doré"],
-            "en": ["Gold"],
-            "cn": ["金色", "jin se"],
-            "de": ["Gold"],
-            "ja": ["金色", "kin iro"],
-            "kr": ["금색", "geumsaek"],
-            "ru": ["Золотой"]
-        },
-        {
-            "es": ["Cobrizo"],
-            "fr": ["Cuivré"],
-            "en": ["Copper"],
-            "cn": ["铜色", "tong se"],
-            "de": ["Kupfer"],
-            "ja": ["銅色", "do iro"],
-            "kr": ["구릿빛", "guritbit"],
-            "ru": ["Медный"]
-        }
-    ]
+	"name": {
+		"es": "Los colores",
+		"fr": "Les couleurs",
+		"en": "Colors",
+		"cn": "颜色 (yan se)",
+		"de": "Farben",
+		"jp": "色 (iro)",
+		"kr": "색깔 (saekkkal)",
+		"ru": "Цвета (Tsveta)"
+	},
+	"langs": ["es", "fr", "en", "cn", "de", "jp", "kr", "ru"],
+	"elements": [{
+			"es": ["El color"],
+			"fr": ["La couleur"],
+			"en": ["Color"],
+			"cn": ["颜色", "yan se"],
+			"de": ["Farbe"],
+			"jp": ["色", "iro"],
+			"kr": ["색", "saek"],
+			"ru": ["Цвет"]
+		},
+		{
+			"es": ["Azul"],
+			"fr": ["Bleu"],
+			"en": ["Blue"],
+			"cn": ["蓝色", "lan se"],
+			"de": ["Blau"],
+			"jp": ["青", "ao"],
+			"kr": ["파랑", "parang"],
+			"ru": ["Синий"]
+		},
+		{
+			"es": ["Azul marino"],
+			"fr": ["Bleu marine"],
+			"en": ["Navy blue"],
+			"cn": ["海军蓝", "hai jun lan"],
+			"de": ["Marineblau"],
+			"jp": ["ネイビーブルー", "nei bi bu ru"],
+			"kr": ["네이비 블루", "neibi beullu"],
+			"ru": ["Тёмно-синий"]
+		},
+		{
+			"es": ["Celeste"],
+			"fr": ["Bleu ciel"],
+			"en": ["Sky blue"],
+			"cn": ["天蓝色", "tian lan se"],
+			"de": ["Himmelblau"],
+			"jp": ["空色", "sora iro"],
+			"kr": ["하늘색", "haneulsaek"],
+			"ru": ["Небесно-голубой"]
+		},
+		{
+			"es": ["Añil"],
+			"fr": ["Indigo"],
+			"en": ["Indigo"],
+			"cn": ["靛蓝", "dian lan"],
+			"de": ["Indigo"],
+			"jp": ["藍色", "ai iro"],
+			"kr": ["인디고", "indigo"],
+			"ru": ["Индиго"]
+		},
+		{
+			"es": ["Turquesa"],
+			"fr": ["Turquoise"],
+			"en": ["Turquoise"],
+			"cn": ["绿松石", "lü song shi"],
+			"de": ["Türkis"],
+			"jp": ["ターコイズ", "taakoizu"],
+			"kr": ["터키석 색", "teokiseok saek"],
+			"ru": ["Бирюзовый"]
+		},
+		{
+			"es": ["Verde"],
+			"fr": ["Vert"],
+			"en": ["Green"],
+			"cn": ["绿色", "lü se"],
+			"de": ["Grün"],
+			"jp": ["緑", "midori"],
+			"kr": ["초록", "chorok"],
+			"ru": ["Зеленый"]
+		},
+		{
+			"es": ["Amarillo"],
+			"fr": ["Jaune"],
+			"en": ["Yellow"],
+			"cn": ["黄色", "huang se"],
+			"de": ["Gelb"],
+			"jp": ["黄色", "ki iro"],
+			"kr": ["노랑", "norang"],
+			"ru": ["Жёлтый"]
+		},
+		{
+			"es": ["Rosa"],
+			"fr": ["Rose"],
+			"en": ["Pink"],
+			"cn": ["粉色", "fen se"],
+			"de": ["Rosa"],
+			"jp": ["ピンク", "pingu"],
+			"kr": ["분홍색", "bunhong saek"],
+			"ru": ["Розовый"]
+		},
+		{
+			"es": ["Naranja"],
+			"fr": ["Orange"],
+			"en": ["Orange"],
+			"cn": ["橙色", "cheng se"],
+			"de": ["Orange"],
+			"jp": ["オレンジ", "orenji"],
+			"kr": ["주황색", "juhwang saek"],
+			"ru": ["Оранжевый"]
+		},
+		{
+			"es": ["Rojo"],
+			"fr": ["Rouge"],
+			"en": ["Red"],
+			"cn": ["红色", "hong se"],
+			"de": ["Rot"],
+			"jp": ["赤", "aka"],
+			"kr": ["빨강", "ppalgang"],
+			"ru": ["Красный"]
+		},
+		{
+			"es": ["Burdeos"],
+			"fr": ["Bordeaux"],
+			"en": ["Bordeaux"],
+			"cn": ["波尔多色", "bo er duo se"],
+			"de": ["Bordeaux"],
+			"jp": ["ボルドー", "borudoo"],
+			"kr": ["보르도", "boreudo"],
+			"ru": ["Бордовый"]
+		},
+		{
+			"es": ["Púrpura"],
+			"fr": ["Pourpre"],
+			"en": ["Purple"],
+			"cn": ["紫色", "zi se"],
+			"de": ["Purpur"],
+			"jp": ["紫", "murasaki"],
+			"kr": ["자주", "jaju"],
+			"ru": ["Пурпурный"]
+		},
+		{
+			"es": ["Violeta"],
+			"fr": ["Violet clair"],
+			"en": ["Light violet"],
+			"cn": ["浅紫色", "qian zi se"],
+			"de": ["Hellviolett"],
+			"jp": ["淡い紫色", "awai murasaki iro"],
+			"kr": ["연보라색", "yeonborasaek"],
+			"ru": ["Светло-фиолетовый"]
+		},
+		{
+			"es": ["Morado"],
+			"fr": ["Violet"],
+			"en": ["Violet"],
+			"cn": ["紫色", "zi se"],
+			"de": ["Violett"],
+			"jp": ["バイオレット", "baioretto"],
+			"kr": ["보라", "bora"],
+			"ru": ["Фиолетовый"]
+		},
+		{
+			"es": ["Beige"],
+			"fr": ["Beige"],
+			"en": ["Beige"],
+			"cn": ["米色", "mi se"],
+			"de": ["Beige"],
+			"jp": ["ベージュ", "beiju"],
+			"kr": ["베이지", "beiji"],
+			"ru": ["Бежевый"]
+		},
+		{
+			"es": ["Marrón"],
+			"fr": ["Marron"],
+			"en": ["Brown"],
+			"cn": ["棕色", "zong se"],
+			"de": ["Braun"],
+			"jp": ["茶色", "cha iro"],
+			"kr": ["갈색", "galsaek"],
+			"ru": ["Коричневый"]
+		},
+		{
+			"es": ["Negro"],
+			"fr": ["Noir"],
+			"en": ["Black"],
+			"cn": ["黑色", "hei se"],
+			"de": ["Schwarz"],
+			"jp": ["黒", "kuro"],
+			"kr": ["검정", "geomjeong"],
+			"ru": ["Чёрный"]
+		},
+		{
+			"es": ["Blanco"],
+			"fr": ["Blanc"],
+			"en": ["White"],
+			"cn": ["白色", "bai se"],
+			"de": ["Weiß"],
+			"jp": ["白", "shiro"],
+			"kr": ["흰색", "huinsaek"],
+			"ru": ["Белый"]
+		},
+		{
+			"es": ["Gris"],
+			"fr": ["Gris"],
+			"en": ["Gray"],
+			"cn": ["灰色", "hui se"],
+			"de": ["Grau"],
+			"jp": ["灰色", "hai iro"],
+			"kr": ["회색", "hoesaek"],
+			"ru": ["Серый"]
+		},
+		{
+			"es": ["Plateado"],
+			"fr": ["Argenté"],
+			"en": ["Silver"],
+			"cn": ["银色", "yin se"],
+			"de": ["Silber"],
+			"jp": ["銀色", "gin iro"],
+			"kr": ["은색", "eunsaek"],
+			"ru": ["Серебристый"]
+		},
+		{
+			"es": ["Dorado"],
+			"fr": ["Doré"],
+			"en": ["Gold"],
+			"cn": ["金色", "jin se"],
+			"de": ["Gold"],
+			"jp": ["金色", "kin iro"],
+			"kr": ["금색", "geumsaek"],
+			"ru": ["Золотой"]
+		},
+		{
+			"es": ["Cobrizo"],
+			"fr": ["Cuivré"],
+			"en": ["Copper"],
+			"cn": ["铜色", "tong se"],
+			"de": ["Kupfer"],
+			"jp": ["銅色", "do iro"],
+			"kr": ["구릿빛", "guritbit"],
+			"ru": ["Медный"]
+		}
+	]
 }

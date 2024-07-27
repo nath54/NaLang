@@ -1,0 +1,76 @@
+[font_size=30][center][b][color=#0000FF]Les Adjectifs en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les adjectifs jouent un rôle essentiel en chinois pour décrire des caractéristiques ou des qualités. Ils sont utilisés pour donner plus de détails sur les noms et peuvent être placés avant ou après ces derniers en fonction de la structure de la phrase.
+
+[font_size=24][color=#4B0082]1. Structure de base des adjectifs[/color][/font_size]
+
+En chinois, les adjectifs peuvent être utilisés de manière attributive ou prédicative. Voici les différentes façons de les employer :
+
+[b]a) Adjectifs attributifs[/b]
+[indent]Les adjectifs sont souvent placés avant le nom qu'ils décrivent, suivis de la particule 的 (de).
+[code]
+美丽的 (měilì de) [color=#008000](jolie)[/color]
+大的 (dà de) [color=#008000](grand)[/color]
+小的 (xiǎo de) [color=#008000](petit)[/color]
+老的 (lǎo de) [color=#008000](vieux)[/color]
+年轻的 (niánqīng de) [color=#008000](jeune)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]她是一个漂亮的女孩。[font_size=18pt](Tā shì yī gè piàoliang de nǚhái.)[/font_size][/color] [color=#008000](Elle est une jolie fille.)[/color][/i][/indent]
+
+[b]b) Adjectifs prédicatifs[/b]
+[indent]Les adjectifs peuvent être utilisés comme prédicats, généralement sans verbe intermédiaire équivalent à "être". 
+[code]
+她很漂亮。 (Tā hěn piàoliang.) [color=#008000](Elle est jolie.)[/color]
+他很高。 (Tā hěn gāo.) [color=#008000](Il est grand.)[/color]
+这个苹果很大。 (Zhè gè píngguǒ hěn dà.) [color=#008000](Cette pomme est grande.)[/color]
+[/code]
+
+[i]Note : Le mot 很 (hěn) [color=#008000](très)[/color] est souvent utilisé pour relier un sujet à un adjectif, même s'il ne signifie pas toujours "très".[/i][/indent]
+
+[font_size=24][color=#4B0082]2. Intensification des adjectifs[/color][/font_size]
+
+Pour renforcer le sens d'un adjectif, on peut utiliser des adverbes d'intensité. Voici quelques exemples courants :
+
+[indent]• 非常 (fēicháng) [color=#008000](très, extrêmement)[/color]
+[i]Exemple : [color=#0000FF]这本书非常有趣。[font_size=18pt](Zhè běn shū fēicháng yǒuqù.)[/font_size][/color] [color=#008000](Ce livre est extrêmement intéressant.)[/color][/i]
+
+- 特别 (tèbié) [color=#008000](particulièrement, spécialement)[/color]
+[i]Exemple : [color=#0000FF]他特别聪明。[font_size=18pt](Tā tèbié cōngmíng.)[/font_size][/color] [color=#008000](Il est particulièrement intelligent.)[/color][/i]
+
+- 很 (hěn) [color=#008000](très)[/color]
+[i]Exemple : [color=#0000FF]这道菜很辣。[font_size=18pt](Zhè dào cài hěn là.)[/font_size][/color] [color=#008000](Ce plat est très épicé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Comparaisons avec les adjectifs[/color][/font_size]
+
+Pour faire des comparaisons en chinois, on utilise souvent les mots 比 (bǐ) [color=#008000](comparer)[/color] et 更 (gèng) [color=#008000](plus)[/color]. Voici comment les utiliser :
+
+[indent]• Utilisation de 比 (bǐ)
+[i]Exemple : [color=#0000FF]她比我高。[font_size=18pt](Tā bǐ wǒ gāo.)[/font_size][/color] [color=#008000](Elle est plus grande que moi.)[/color][/i]
+
+- Utilisation de 更 (gèng)
+[i]Exemple : [color=#0000FF]他更聪明。[font_size=18pt](Tā gèng cōngmíng.)[/font_size][/color] [color=#008000](Il est encore plus intelligent.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Formulation des superlatifs[/color][/font_size]
+
+Pour exprimer le superlatif en chinois, on utilise le mot 最 (zuì) [color=#008000](le plus)[/color] avant l'adjectif.
+
+[indent][b]Exemples :[/b]
+[code]
+她是最漂亮的女孩。 (Tā shì zuì piàoliang de nǚhái.) [color=#008000](Elle est la plus jolie des filles.)[/color]
+这个地方最安静。 (Zhè gè dìfāng zuì ānjìng.) [color=#008000](Cet endroit est le plus calme.)[/color]
+他是最聪明的学生。 (Tā shì zuì cōngmíng de xuéshēng.) [color=#008000](Il est l'étudiant le plus intelligent.)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les adjectifs se placent souvent avant le nom avec la particule 的 (de), ou sont utilisés directement comme prédicats.
+[color=#FF0000]2.[/color] Utilisez 很 (hěn) pour relier un sujet et un adjectif, même s'il signifie "très".
+[color=#FF0000]3.[/color] Pour intensifier les adjectifs, des adverbes comme 非常 (fēicháng) et 特别 (tèbié) peuvent être utilisés.
+[color=#FF0000]4.[/color] Les comparaisons sont faites avec 比 (bǐ) et 更 (gèng), tandis que les superlatifs utilisent 最 (zuì).[/indent]
+
+[center][font_size=18][color=#808080]掌握形容词的用法，使你的中文表达更加丰富！(zhǎngwò xíngróngcí de yòngfǎ, shǐ nǐ de zhōngwén biǎodá gèng jiā fēngfù!)[/color][/font_size][/center]

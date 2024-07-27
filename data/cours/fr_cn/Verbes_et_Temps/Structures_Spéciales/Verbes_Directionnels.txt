@@ -1,1 +1,78 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Verbes Directionnels en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes directionnels sont une composante essentielle de la grammaire chinoise. Ils permettent de décrire non seulement l'action mais également la direction dans laquelle elle se déroule. Ces structures vous permettront de parler de déplacements avec précision et fluidité.
+
+[font_size=24][color=#4B0082]1. Qu'est-ce qu'un verbe directionnel ?[/color][/font_size]
+
+Les verbes directionnels en chinois combinent des verbes de base avec des directions. Ces structures sont divisées en directions simples et composées.
+
+[b]a) Directions simples[/b]
+[indent]Les directions simples utilisent des verbes de base qui indiquent un mouvement :
+[code]
+上 (shàng) [color=#008000](monter)[/color]
+下 (xià) [color=#008000](descendre)[/color]
+进 (jìn) [color=#008000](entrer)[/color]
+出 (chū) [color=#008000](sortir)[/color]
+回 (huí) [color=#008000](revenir)[/color]
+过 (guò) [color=#008000](traverser)[/color]
+起 (qǐ) [color=#008000](se lever)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他上楼了。[font_size=18pt](Tā shàng lóu le.)[/font_size][/color] [color=#008000](Il est monté (à l'étage).)[/color][/i][/indent]
+
+
+[b]b) Directions composées[/b]
+[indent]Les directions composées sont créées en ajoutant des caractères directionnels aux verbes de base :
+[code]
+上来 (shàng lái) [color=#008000](monter vers le locuteur)[/color]
+上去 (shàng qù) [color=#008000](monter loin du locuteur)[/color]
+下来 (xià lái) [color=#008000](descendre vers le locuteur)[/color]
+下去 (xià qù) [color=#008000](descendre loin du locuteur)[/color]
+进来 (jìn lái) [color=#008000](entrer vers le locuteur)[/color]
+进去 (jìn qù) [color=#008000](entrer loin du locuteur)[/color]
+出来 (chū lái) [color=#008000](sortir vers le locuteur)[/color]
+出去 (chū qù) [color=#008000](sortir loin du locuteur)[/color]
+回来 (huí lái) [color=#008000](revenir vers le locuteur)[/color]
+回去 (huí qù) [color=#008000](revenir loin du locuteur)[/color]
+过来 (guò lái) [color=#008000](traverser vers le locuteur)[/color]
+过去 (guò qù) [color=#008000](traverser loin du locuteur)[/color]
+起来 (qǐ lái) [color=#008000](se lever vers le haut)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他走过来了。[font_size=18pt](Tā zǒu guò lái le.)[/font_size][/color] [color=#008000](Il est venu ici (en marchant).)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des verbes directionnels[/color][/font_size]
+
+Les verbes directionnels s'utilisent pour indiquer la trajectoire de l'action. Voici quelques exemples pour illustrer leur usage dans différentes situations.
+
+[indent]• Lorsque l'action se dirige vers le locuteur, utilisez [color=#FF0000]来[/color] (lái).
+[i]Exemple : [color=#0000FF]他跑上来了。[font_size=18pt](Tā pǎo shàng lái le.)[/font_size][/color] [color=#008000](Il a couru ici (vers moi).)[/color][/i]
+
+- Lorsque l'action s'éloigne du locuteur, utilisez [color=#FF0000]去[/color] (qù).
+[i]Exemple : [color=#0000FF]她跑出去。[font_size=18pt](Tā pǎo chū qù.)[/font_size][/color] [color=#008000](Elle est sortie (en courant) (loin de moi).)[/color][/i]
+
+- Combinez plusieurs verbes directionnels pour décrire des actions complexes :
+[i]Exemple : [color=#0000FF]他走进来了然后上楼了。[font_size=18pt](Tā zǒu jìn lái le rán hòu shàng lóu le.)[/font_size][/color] [color=#008000](Il est entré dans la pièce et ensuite est monté (à l'étage).)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Ajouter des contextes supplémentaires[/color][/font_size]
+
+Pour rendre les phrases plus descriptives, il est possible d'ajouter des éléments contextuels tels que le lieu ou l'objectif de l'action.
+
+[indent]• Insertion d'un lieu
+[i]Exemple : [color=#0000FF]他跑进学校来了。[font_size=18pt](Tā pǎo jìn xué xiào lái le.)[/font_size][/color] [color=#008000](Il a couru vers l'école (venant vers moi).)[/color][/i]
+
+• Spécifier le but de l'action
+[i]Exemple : [color=#0000FF]她走上楼去看书。[font_size=18pt](Tā zǒu shàng lóu qù kàn shū.)[/font_size][/color] [color=#008000](Elle est montée à l'étage pour lire un livre.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes directionnels décrivent non seulement l'action mais aussi sa direction.
+[color=#FF0000]2.[/color] Utilisez [color=#FF0000]来[/color] (lái) pour indiquer un mouvement vers le locuteur et [color=#FF0000]去[/color] (qù) pour un mouvement s'en éloignant.
+[color=#FF0000]3.[/color] Combiner des verbes directionnels pour exprimer des mouvements complexes.
+[color=#FF0000]4.[/color] N'hésitez pas à intégrer des informations supplémentaires comme le lieu ou le but de l'action.[/indent]
+
+[center][font_size=18][color=#808080]通过正确使用方向动词，使你的中文表达更加细致精准！(tōng guò zhèngquè shǐyòng fāngxiàng dòngcí, shǐ nǐ de zhōngwén biǎodá gèng jiā xìzhì jīngzhǔn!)[/color][/font_size][/center]

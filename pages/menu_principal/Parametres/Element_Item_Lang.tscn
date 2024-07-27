@@ -1,0 +1,86 @@
+[gd_scene load_steps=4 format=3 uid="uid://dnsxcfyp11mff"]
+
+[ext_resource type="Texture2D" uid="uid://bgofumqgkirch" path="res://res/Flags/eu.svg" id="1_301qu"]
+[ext_resource type="Script" path="res://pages/menu_principal/Parametres/Element_Item_Lang.gd" id="1_tfqpe"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_648b5"]
+bg_color = Color(0.611765, 0.607843, 0.729412, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0, 0, 0, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+shadow_size = 2
+shadow_offset = Vector2(2, 2)
+
+[node name="Element_Item_Lang" type="Control"]
+custom_minimum_size = Vector2(250, 120)
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+script = ExtResource("1_tfqpe")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_648b5")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 15
+theme_override_constants/margin_top = 15
+theme_override_constants/margin_right = 15
+theme_override_constants/margin_bottom = 15
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 5
+theme_override_constants/margin_right = 5
+theme_override_constants/margin_bottom = 5
+
+[node name="TextureRect" type="TextureRect" parent="MarginContainer/HBoxContainer/MarginContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(100, 100)
+layout_mode = 2
+texture = ExtResource("1_301qu")
+expand_mode = 5
+stretch_mode = 5
+
+[node name="Label" type="Label" parent="MarginContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Langue"
+vertical_alignment = 1
+
+[node name="CenterContainer" type="CenterContainer" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="SelectButton" type="Button" parent="MarginContainer/HBoxContainer/CenterContainer"]
+custom_minimum_size = Vector2(150, 40)
+layout_mode = 2
+text = "sélectionner"
+
+[connection signal="pressed" from="MarginContainer/HBoxContainer/CenterContainer/SelectButton" to="." method="_on_select_button_pressed"]

@@ -1,7 +1,6 @@
 [gd_scene load_steps=8 format=3 uid="uid://dsyrsefer0lbe"]
 
-[ext_resource type="Script" path="res://pages/menu_principal/MainMenu.gd" id="1_af0ch"]
-[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="2_iclo8"]
+[ext_resource type="Script" path="res://pages/menu_principal/Parametres/Change_Languages_To_Learn.gd" id="1_bfp82"]
 [ext_resource type="Texture2D" uid="uid://csfumuixporbi" path="res://res/Flags/fr.svg" id="3_n738d"]
 [ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="4_1tnei"]
 [ext_resource type="Texture2D" uid="uid://bughjxo6wga5s" path="res://res/Flags/es.svg" id="5_7s0t3"]
@@ -16,14 +15,26 @@ outline_color = Color(0, 0, 0, 1)
 color = Color(0, 0, 0, 0.85098)
 thickness = 2
 
-[node name="MainMenu" type="Control"]
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_tid2i"]
+bg_color = Color(0.701961, 0.705882, 0.909804, 1)
+border_width_left = 4
+border_width_top = 4
+border_width_right = 4
+border_width_bottom = 4
+border_color = Color(0, 0, 0, 1)
+corner_radius_top_left = 5
+corner_radius_top_right = 5
+corner_radius_bottom_right = 5
+corner_radius_bottom_left = 5
+
+[node name="Change_Languages" type="Control"]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_af0ch")
+script = ExtResource("1_bfp82")
 
 [node name="Panel" type="Panel" parent="."]
 layout_mode = 1
@@ -45,38 +56,14 @@ grow_vertical = 2
 layout_mode = 2
 alignment = 1
 
-[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/VBoxContainer"]
-layout_mode = 2
-theme_override_constants/separation = 10
-
-[node name="Titre" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer"]
-layout_mode = 2
-theme_override_colors/font_color = Color(0.74902, 0.705882, 1, 1)
-theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
-theme_override_constants/shadow_offset_x = 2
-theme_override_constants/shadow_offset_y = 2
-theme_override_constants/outline_size = 4
-theme_override_constants/shadow_outline_size = 2
-theme_override_font_sizes/font_size = 35
-text = "NaLang"
-horizontal_alignment = 1
-vertical_alignment = 1
-
-[node name="Signature" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer"]
-layout_mode = 2
-theme_override_fonts/font = ExtResource("2_iclo8")
-text = "by Nathan Cerisara"
-horizontal_alignment = 2
-vertical_alignment = 1
-
 [node name="HSeparator" type="HSeparator" parent="CenterContainer/VBoxContainer"]
 layout_mode = 2
 theme_override_constants/separation = 50
 
 [node name="RichTextLabel" type="RichTextLabel" parent="CenterContainer/VBoxContainer"]
-custom_minimum_size = Vector2(0, 52)
+custom_minimum_size = Vector2(0, 30)
 layout_mode = 2
-text = "Apprenez de nouvelles langues plus facilement !"
+text = "Changer la langue d'apprentissage."
 
 [node name="HSeparator3" type="HSeparator" parent="CenterContainer/VBoxContainer"]
 layout_mode = 2
@@ -84,7 +71,7 @@ theme_override_constants/separation = 50
 
 [node name="VBoxContainer2" type="VBoxContainer" parent="CenterContainer/VBoxContainer"]
 layout_mode = 2
-theme_override_constants/separation = 10
+theme_override_constants/separation = 20
 
 [node name="Label" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer2"]
 layout_mode = 2
@@ -95,13 +82,43 @@ layout_mode = 2
 theme_override_constants/separation = 25
 alignment = 1
 
-[node name="Lang1" type="TextureRect" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2"]
+[node name="col_lang1" type="VBoxContainer" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="Bt_Lang1" type="Button" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/col_lang1"]
+self_modulate = Color(0.588235, 0.588235, 0.588235, 1)
+custom_minimum_size = Vector2(150, 110)
+layout_mode = 2
+disabled = true
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/col_lang1/Bt_Lang1"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 20
+
+[node name="Lang1" type="TextureRect" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/col_lang1/Bt_Lang1/MarginContainer"]
 unique_name_in_owner = true
 custom_minimum_size = Vector2(0, 100)
 layout_mode = 2
 texture = ExtResource("3_n738d")
 expand_mode = 2
 stretch_mode = 5
+
+[node name="Label" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/col_lang1"]
+custom_minimum_size = Vector2(100, 0)
+layout_mode = 2
+text = "langue des cours"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 2
 
 [node name="Label" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2"]
 layout_mode = 2
@@ -111,53 +128,42 @@ horizontal_alignment = 1
 vertical_alignment = 1
 text_direction = 1
 
-[node name="Lang2" type="TextureRect" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2"]
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="Bt_Lang2" type="Button" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/VBoxContainer"]
+self_modulate = Color(0.588235, 0.588235, 0.588235, 1)
+custom_minimum_size = Vector2(150, 110)
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/VBoxContainer/Bt_Lang2"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 20
+
+[node name="Lang2" type="TextureRect" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/VBoxContainer/Bt_Lang2/MarginContainer"]
 unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 100)
 layout_mode = 2
 texture = ExtResource("5_7s0t3")
 expand_mode = 2
 stretch_mode = 5
 
-[node name="CenterContainer" type="CenterContainer" parent="CenterContainer/VBoxContainer/VBoxContainer2"]
+[node name="Label" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/VBoxContainer"]
+custom_minimum_size = Vector2(100, 0)
 layout_mode = 2
-
-[node name="Bt_Change_Lang" type="Button" parent="CenterContainer/VBoxContainer/VBoxContainer2/CenterContainer"]
-custom_minimum_size = Vector2(100, 40)
-layout_mode = 2
-text = "changer"
-
-[node name="HSeparator4" type="HSeparator" parent="CenterContainer/VBoxContainer"]
-layout_mode = 2
-theme_override_constants/separation = 50
-
-[node name="GridContainer" type="GridContainer" parent="CenterContainer/VBoxContainer"]
-layout_mode = 2
-theme_override_constants/h_separation = 20
-theme_override_constants/v_separation = 20
-columns = 2
-
-[node name="Bt_NotionsImportantes" type="Button" parent="CenterContainer/VBoxContainer/GridContainer"]
-custom_minimum_size = Vector2(200, 100)
-layout_mode = 2
-text = "Notions
-Importantes"
-
-[node name="Bt_Lexique" type="Button" parent="CenterContainer/VBoxContainer/GridContainer"]
-custom_minimum_size = Vector2(200, 100)
-layout_mode = 2
-disabled = true
-text = "Exemples de
-discussions"
-
-[node name="Bt_FichesCustoms" type="Button" parent="CenterContainer/VBoxContainer/GridContainer"]
-custom_minimum_size = Vector2(200, 100)
-layout_mode = 2
-text = "Fiches"
-
-[node name="Bt_Quiz" type="Button" parent="CenterContainer/VBoxContainer/GridContainer"]
-custom_minimum_size = Vector2(200, 100)
-layout_mode = 2
-text = "Quiz"
+text = "langue à apprendre"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 2
 
 [node name="HSeparator2" type="HSeparator" parent="CenterContainer/VBoxContainer"]
 layout_mode = 2
@@ -168,23 +174,70 @@ theme_override_styles/separator = SubResource("StyleBoxLine_fr8l7")
 layout_mode = 2
 alignment = 1
 
-[node name="Bt_Quitter" type="Button" parent="CenterContainer/VBoxContainer/HBoxContainer"]
+[node name="Bt_Retour" type="Button" parent="CenterContainer/VBoxContainer/HBoxContainer"]
 custom_minimum_size = Vector2(100, 40)
 layout_mode = 2
 size_flags_horizontal = 6
-text = "Quitter"
+text = "Retour"
 
-[node name="Bt_Parametres" type="Button" parent="CenterContainer/VBoxContainer/HBoxContainer"]
-custom_minimum_size = Vector2(150, 40)
+[node name="PopUp_Select_Language" type="CenterContainer" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Control" type="Control" parent="PopUp_Select_Language"]
+custom_minimum_size = Vector2(550, 700)
 layout_mode = 2
-size_flags_horizontal = 6
-disabled = true
-text = "Paramètres"
 
-[connection signal="pressed" from="CenterContainer/VBoxContainer/VBoxContainer2/CenterContainer/Bt_Change_Lang" to="." method="_on_bt_change_lang_pressed"]
-[connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_NotionsImportantes" to="." method="_on_bt_notions_importantes_pressed"]
-[connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_Lexique" to="." method="_on_bt_lexique_pressed"]
-[connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_FichesCustoms" to="." method="_on_bt_fiches_customs_pressed"]
-[connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_Quiz" to="." method="_on_bt_quiz_pressed"]
-[connection signal="pressed" from="CenterContainer/VBoxContainer/HBoxContainer/Bt_Quitter" to="." method="_on_bt_quitter_pressed"]
-[connection signal="pressed" from="CenterContainer/VBoxContainer/HBoxContainer/Bt_Parametres" to="." method="_on_bt_parametres_pressed"]
+[node name="Panel" type="Panel" parent="PopUp_Select_Language/Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_tid2i")
+
+[node name="MarginContainer" type="MarginContainer" parent="PopUp_Select_Language/Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 15
+theme_override_constants/margin_top = 15
+theme_override_constants/margin_right = 15
+theme_override_constants/margin_bottom = 15
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PopUp_Select_Language/Control/MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 25
+
+[node name="Label" type="Label" parent="PopUp_Select_Language/Control/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Sélectionner une langue :"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HSeparator" type="HSeparator" parent="PopUp_Select_Language/Control/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="PopUp_Select_Language/Control/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Lang_Selection_Items" type="VBoxContainer" parent="PopUp_Select_Language/Control/MarginContainer/VBoxContainer/ScrollContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_constants/separation = 15
+
+[connection signal="pressed" from="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/col_lang1/Bt_Lang1" to="." method="_on_bt_lang_1_pressed"]
+[connection signal="pressed" from="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/VBoxContainer/Bt_Lang2" to="." method="_on_bt_lang_2_pressed"]
+[connection signal="pressed" from="CenterContainer/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

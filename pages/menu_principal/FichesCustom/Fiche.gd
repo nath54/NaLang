@@ -11,7 +11,7 @@ func _ready() -> void:
 		var data: Dictionary = Lib.load_file(Global.ouverture_fiche);
 		Global.ouverture_fiche = "";
 		#
-		$ScrollContainer/CenterContainer/Container/HBoxContainer2/Titre.text = "Fiche : "+data["name"][Global.current_lang_src];
+		%Titre.text = "Fiche : "+data["name"][Global.current_lang_src];
 		#
 		for elt in data["elements"]:
 			var wds1: Array = elt[Global.current_lang_src];
@@ -21,10 +21,10 @@ func _ready() -> void:
 			eltfiche.words_1 = wds1;
 			eltfiche.words_2 = wds2;
 			eltfiche.readonly = readonly;
-			$ScrollContainer/CenterContainer/Container/Container.add_child(eltfiche);
+			%Elts_Container.add_child(eltfiche);
 		#
 		if readonly:
-			$ScrollContainer/CenterContainer/Container/HBoxContainer2/Bt_modif.visible = false;
+			%Bt_modif.visible = false;
 
 
 func _on_bt_retour_pressed() -> void:

@@ -1,1 +1,56 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Verbes Résultatifs en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes résultatifs en chinois sont une combinaison de deux caractères où le premier caractère est un verbe et le deuxième caractère est le résultat de l'action du verbe. Ces structures permettent de décrire non seulement l'action, mais aussi son résultat, rendant la phrase plus complète et précise.
+
+[font_size=24][color=#4B0082]1. Structure de base des verbes résultatifs[/color][/font_size]
+
+Les verbes résultatifs en chinois sont construits en combinant un verbe avec un suffixe résultatif. Voici quelques suffixes courants et leurs usages :
+
+[b]a) Suffixes résultatifs communs[/b]
+[indent][code]
+到 (dào) [color=#008000](atteindre, arriver à)[/color]
+完 (wán) [color=#008000](terminer)[/color]
+见 (jiàn) [color=#008000](voir, percevoir)[/color]
+好 (hǎo) [color=#008000](bien, bon)[/color]
+坏 (huài) [color=#008000](cassé, mauvais)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我找到了钥匙。[font_size=18pt](Wǒ zhǎo dào le yàoshi.)[/font_size][/color] [color=#008000](J'ai trouvé la clé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des verbes résultatifs[/color][/font_size]
+
+Les verbes résultatifs s'utilisent pour exprimer qu'une action a eu un certain résultat. Voici quelques règles et exemples pour vous aider à bien les utiliser.
+
+[indent]• Exprimer l'achèvement d'une action avec [color=#FF0000]完[/color] (wán).
+[i]Exemple : [color=#0000FF]他写完了作业。[font_size=18pt](Tā xiě wán le zuòyè.)[/font_size][/color] [color=#008000](Il a fini ses devoirs.)[/color][/i]
+
+- Exprimer le résultat visible d'une action avec [color=#FF0000]见[/color] (jiàn).
+[i]Exemple : [color=#0000FF]我看见他了。[font_size=18pt](Wǒ kàn jiàn tā le.)[/font_size][/color] [color=#008000](Je l'ai vu.)[/color][/i]
+
+- Exprimer un résultat positif ou complet avec [color=#FF0000]好[/color] (hǎo).
+[i]Exemple : [color=#0000FF]饭做好了。[font_size=18pt](Fàn zuò hǎo le.)[/font_size][/color] [color=#008000](Le repas est prêt.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Les verbes résultatifs peuvent également être négativés ou utilisés avec des compléments pour donner plus de détails sur l'action.
+
+[indent]• Négation des verbes résultatifs
+[indent]Pour nier un verbe résultatif, on utilise généralement [color=#FF0000]没[/color] (méi) devant le verbe.
+[i]Exemple : [color=#0000FF]我没找到钥匙。[font_size=18pt](Wǒ méi zhǎo dào yàoshi.)[/font_size][/color] [color=#008000](Je n'ai pas trouvé la clé.)[/color][/i][/indent]
+
+- Utilisation avec des compléments
+[indent]Pour ajouter des détails, on peut insérer des compléments entre le verbe et le suffixe résultatif.
+[i]Exemple : [color=#0000FF]他没有写完他的作业。[font_size=18pt](Tā méiyǒu xiě wán tā de zuòyè.)[/font_size][/color] [color=#008000](Il n'a pas fini ses devoirs.)[/color][/i][/indent][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes résultatifs combinent un verbe et un suffixe pour indiquer l'action et son résultat.
+[color=#FF0000]2.[/color] Les suffixes résultatifs les plus courants sont [color=#FF0000]到[/color] (dào), [color=#FF0000]完[/color] (wán), [color=#FF0000]见[/color] (jiàn), [color=#FF0000]好[/color] (hǎo), et [color=#FF0000]坏[/color] (huài).
+[color=#FF0000]3.[/color] Les verbes résultatifs peuvent se nier avec [color=#FF0000]没[/color] (méi).
+[color=#FF0000]4.[/color] Les compléments peuvent être insérés pour ajouter plus de détails à l'action.[/indent]
+
+[center][font_size=18][color=#808080]掌握这类动词使你的中文表达更精确！(zhǎngwò zhè lèi dòngcí shǐ nǐ de zhōngwén biǎodá gèng jīngquè!)[/color][/font_size][/center]

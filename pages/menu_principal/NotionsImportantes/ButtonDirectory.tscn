@@ -7,6 +7,7 @@
 self_modulate = Color(0.611765, 0.611765, 1, 1)
 custom_minimum_size = Vector2(300, 60)
 size_flags_horizontal = 3
+mouse_filter = 1
 script = ExtResource("1_osk13")
 
 [node name="MarginContainer" type="MarginContainer" parent="."]

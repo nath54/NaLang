@@ -1,544 +1,544 @@
 {
-    "name": {
-        "es": "La familia",
-        "fr": "La famille",
-        "en": "Family",
-        "cn": "家庭 (jiā tíng)",
-        "de": "Familie",
-        "ja": "家族 (kazoku)",
-        "kr": "가족 (gajok)",
-        "ru": "Семья (sem'ya)"
-    },
-    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
-    "elements": [{
-            "es": ["La familia"],
-            "fr": ["La famille"],
-            "en": ["Family"],
-            "cn": ["家庭", "jiā tíng"],
-            "de": ["Familie"],
-            "ja": ["家族", "kazoku"],
-            "kr": ["가족", "gajok"],
-            "ru": ["Семья", "sem'ya"]
-        },
-        {
-            "es": ["Familiares y parientes"],
-            "fr": ["Parents proches et éloignés"],
-            "en": ["Relatives"],
-            "cn": ["亲戚", "qīn qi"],
-            "de": ["Verwandte"],
-            "ja": ["親戚", "shinseki"],
-            "kr": ["친척", "chincheok"],
-            "ru": ["Родственники", "rodstvenniki"]
-        },
-        {
-            "es": ["La genealogía"],
-            "fr": ["La généalogie"],
-            "en": ["Genealogy"],
-            "cn": ["家谱", "jiā pǔ"],
-            "de": ["Genealogie"],
-            "ja": ["系譜", "keifu"],
-            "kr": ["족보", "jokbo"],
-            "ru": ["Генеалогия", "genealogiia"]
-        },
-        {
-            "es": ["Los parientes"],
-            "fr": ["Les membres de la famille"],
-            "en": ["Family members"],
-            "cn": ["家人", "jiā rén"],
-            "de": ["Familienmitglieder"],
-            "ja": ["家族のメンバー", "kazoku no menbaa"],
-            "kr": ["가족 구성원", "gajok guseongwon"],
-            "ru": ["Члены семьи", "chleny sem'i"]
-        },
-        {
-            "es": ["El parentesco"],
-            "fr": ["Le lien de parenté"],
-            "en": ["Kinship"],
-            "cn": ["亲属关系", "qīn shǔ guān xì"],
-            "de": ["Verwandtschaftsverhältnis"],
-            "ja": ["親族関係", "shinzoku kankei"],
-            "kr": ["친족 관계", "chincheok gwangye"],
-            "ru": ["Родство", "rodstvo"]
-        },
-        {
-            "es": ["Un matrimonio"],
-            "fr": ["Un couple marié"],
-            "en": ["Married couple"],
-            "cn": ["已婚夫妇", "yǐ hūn fū fù"],
-            "de": ["Ehepaar"],
-            "ja": ["結婚したカップル", "kekkon shita kappuru"],
-            "kr": ["기혼 부부", "gihon bubu"],
-            "ru": ["Супружеская пара", "supruzheskaia para"]
-        },
-        {
-            "es": ["Una pareja"],
-            "fr": ["Un couple"],
-            "en": ["A couple"],
-            "cn": ["一对", "yī duì"],
-            "de": ["Ein Paar"],
-            "ja": ["カップル", "kappuru"],
-            "kr": ["커플", "keopeul"],
-            "ru": ["Пара", "para"]
-        },
-        {
-            "es": ["Fundar una familia"],
-            "fr": ["Fonder une famille"],
-            "en": ["To start a family"],
-            "cn": ["建立一个家庭", "jiàn lì yī gè jiā tíng"],
-            "de": ["Eine Familie gründen"],
-            "ja": ["家庭を築く", "katei o kizuku"],
-            "kr": ["가정을 꾸리다", "gajeong-eul kkulida"],
-            "ru": ["Создать семью", "sozdat' sem'yu"]
-        },
-        {
-            "es": ["Los padres"],
-            "fr": ["Les parents"],
-            "en": ["Parents"],
-            "cn": ["父母", "fù mǔ"],
-            "de": ["Eltern"],
-            "ja": ["両親", "ryōshin"],
-            "kr": ["부모", "bumo"],
-            "ru": ["Родители", "roditeli"]
-        },
-        {
-            "es": ["El padre"],
-            "fr": ["Le père"],
-            "en": ["Father"],
-            "cn": ["父亲", "fù qīn"],
-            "de": ["Vater"],
-            "ja": ["父", "chichi"],
-            "kr": ["아버지", "abeoji"],
-            "ru": ["Отец", "otets"]
-        },
-        {
-            "es": ["La madre"],
-            "fr": ["La mère"],
-            "en": ["Mother"],
-            "cn": ["母亲", "mǔ qīn"],
-            "de": ["Mutter"],
-            "ja": ["母", "haha"],
-            "kr": ["어머니", "eomeoni"],
-            "ru": ["Мать", "mat'"]
-        },
-        {
-            "es": ["Los papás"],
-            "fr": ["Le papa et la maman"],
-            "en": ["Mom and Dad"],
-            "cn": ["父母", "fù mǔ"],
-            "de": ["Mama und Papa"],
-            "ja": ["お父さんとお母さん", "otōsan to okāsan"],
-            "kr": ["엄마와 아빠", "eomma wa appa"],
-            "ru": ["Мама и папа", "mama i papa"]
-        },
-        {
-            "es": ["El papá"],
-            "fr": ["Le papa"],
-            "en": ["Dad"],
-            "cn": ["爸爸", "bà bà"],
-            "de": ["Papa"],
-            "ja": ["お父さん", "otōsan"],
-            "kr": ["아빠", "appa"],
-            "ru": ["Папа", "papa"]
-        },
-        {
-            "es": ["La mamá"],
-            "fr": ["La maman"],
-            "en": ["Mom"],
-            "cn": ["妈妈", "mā mā"],
-            "de": ["Mama"],
-            "ja": ["お母さん", "okāsan"],
-            "kr": ["엄마", "eomma"],
-            "ru": ["Мама", "mama"]
-        },
-        {
-            "es": ["Los hijos"],
-            "fr": ["Les enfants"],
-            "en": ["Children"],
-            "cn": ["孩子", "hái zi"],
-            "de": ["Kinder"],
-            "ja": ["子供", "kodomo"],
-            "kr": ["자녀", "janyeo"],
-            "ru": ["Дети", "deti"]
-        },
-        {
-            "es": ["El hijo"],
-            "fr": ["Le fils"],
-            "en": ["Son"],
-            "cn": ["儿子", "ér zi"],
-            "de": ["Sohn"],
-            "ja": ["息子", "musuko"],
-            "kr": ["아들", "adeul"],
-            "ru": ["Сын", "syn"]
-        },
-        {
-            "es": ["La hija"],
-            "fr": ["La fille"],
-            "en": ["Daughter"],
-            "cn": ["女儿", "nǚ ér"],
-            "de": ["Tochter"],
-            "ja": ["娘", "musume"],
-            "kr": ["딸", "ttal"],
-            "ru": ["Дочь", "doch'"]
-        },
-        {
-            "es": ["El hermano"],
-            "fr": ["Le frère"],
-            "en": ["Brother"],
-            "cn": ["兄弟", "xiōng dì"],
-            "de": ["Bruder"],
-            "ja": ["兄弟", "kyōdai"],
-            "kr": ["형제", "hyeongje"],
-            "ru": ["Брат", "brat"]
-        },
-        {
-            "es": ["La hermana"],
-            "fr": ["La soeur"],
-            "en": ["Sister"],
-            "cn": ["姐妹", "jiě mèi"],
-            "de": ["Schwester"],
-            "ja": ["姉妹", "shimai"],
-            "kr": ["자매", "jamae"],
-            "ru": ["Сестра", "sestra"]
-        },
-        {
-            "es": ["Los hermanos"],
-            "fr": ["Les frères et soeurs"],
-            "en": ["Siblings"],
-            "cn": ["兄弟姐妹", "xiōng dì jiě mèi"],
-            "de": ["Geschwister"],
-            "ja": ["兄弟姉妹", "kyōdai shimai"],
-            "kr": ["형제와 자매", "hyeongje wa jamae"],
-            "ru": ["Братья и сестры", "brat'ya i sestry"]
-        },
-        {
-            "es": ["El primogénito"],
-            "fr": ["L’aîné"],
-            "en": ["Firstborn"],
-            "cn": ["长子", "zhǎng zǐ"],
-            "de": ["Erstgeborene"],
-            "ja": ["長子", "chōshi"],
-            "kr": ["맏아들", "madadeul"],
-            "ru": ["Первенец", "pervenets"]
-        },
-        {
-            "es": ["Los gemelos"],
-            "fr": ["Les jumeaux"],
-            "en": ["Twins"],
-            "cn": ["双胞胎", "shuāng bāo tāi"],
-            "de": ["Zwillinge"],
-            "ja": ["双子", "futago"],
-            "kr": ["쌍둥이", "ssangdungi"],
-            "ru": ["Близнецы", "bliznetsy"]
-        },
-        {
-            "es": ["Las gemelas"],
-            "fr": ["Les jumelles"],
-            "en": ["Twin sisters"],
-            "cn": ["双胞胎姐妹", "shuāng bāo tāi jiě mèi"],
-            "de": ["Zwillingsschwestern"],
-            "ja": ["双子の姉妹", "futago no shimai"],
-            "kr": ["쌍둥이 자매", "ssangdungi jamae"],
-            "ru": ["Сестры-близнецы", "sestry-bliznetsy"]
-        },
-        {
-            "es": ["Los mellizos"],
-            "fr": ["Les faux jumeaux"],
-            "en": ["Fraternal twins"],
-            "cn": ["异卵双胞胎", "yì luǎn shuāng bāo tāi"],
-            "de": ["Zweieiige Zwillinge"],
-            "ja": ["二卵性双生児", "niransei sōseiji"],
-            "kr": ["이란성 쌍둥이", "iransung ssangdungi"],
-            "ru": ["Двуяйцевые близнецы", "dvuyaytsevye bliznetsy"]
-        },
-        {
-            "es": ["El abuelo"],
-            "fr": ["Le grand-père"],
-            "en": ["Grandfather"],
-            "cn": ["爷爷", "yé yé"],
-            "de": ["Großvater"],
-            "ja": ["おじいさん", "ojiisan"],
-            "kr": ["할아버지", "harabeoji"],
-            "ru": ["Дедушка", "dedushka"]
-        },
-        {
-            "es": ["La abuela"],
-            "fr": ["La grand-mère"],
-            "en": ["Grandmother"],
-            "cn": ["奶奶", "nǎi nǎi"],
-            "de": ["Großmutter"],
-            "ja": ["おばあさん", "obāsan"],
-            "kr": ["할머니", "halmeoni"],
-            "ru": ["Бабушка", "babushka"]
-        },
-        {
-            "es": ["Los abuelos"],
-            "fr": ["Les grands-parents"],
-            "en": ["Grandparents"],
-            "cn": ["祖父母", "zǔ fù mǔ"],
-            "de": ["Großeltern"],
-            "ja": ["祖父母", "sofubo"],
-            "kr": ["조부모님", "jobumonim"],
-            "ru": ["Бабушка и дедушка", "babushka i dedushka"]
-        },
-        {
-            "es": ["El nieto"],
-            "fr": ["Le petit-fils"],
-            "en": ["Grandson"],
-            "cn": ["孙子", "sūn zǐ"],
-            "de": ["Enkel"],
-            "ja": ["孫息子", "mago musuko"],
-            "kr": ["손자", "sonja"],
-            "ru": ["Внук", "vnuk"]
-        },
-        {
-            "es": ["La nieta"],
-            "fr": ["La petite-fille"],
-            "en": ["Granddaughter"],
-            "cn": ["孙女", "sūn nǚ"],
-            "de": ["Enkelin"],
-            "ja": ["孫娘", "mago musume"],
-            "kr": ["손녀", "sonnyeo"],
-            "ru": ["Внучка", "vnuchka"]
-        },
-        {
-            "es": ["Los nietos"],
-            "fr": ["Les petits-enfants"],
-            "en": ["Grandchildren"],
-            "cn": ["孙子孙女", "sūn zi sūn nǚ"],
-            "de": ["Enkelkinder"],
-            "ja": ["孫たち", "mago tachi"],
-            "kr": ["손자손녀", "sonjasonnyeo"],
-            "ru": ["Внуки", "vnuki"]
-        },
-        {
-            "es": ["El tío"],
-            "fr": ["L’oncle"],
-            "en": ["Uncle"],
-            "cn": ["叔叔", "shū shū"],
-            "de": ["Onkel"],
-            "ja": ["おじさん", "ojisan"],
-            "kr": ["삼촌", "samchon"],
-            "ru": ["Дядя", "dyadya"]
-        },
-        {
-            "es": ["La tía"],
-            "fr": ["La tante"],
-            "en": ["Aunt"],
-            "cn": ["阿姨", "ā yí"],
-            "de": ["Tante"],
-            "ja": ["おばさん", "obasan"],
-            "kr": ["이모", "imo"],
-            "ru": ["Тетя", "tetya"]
-        },
-        {
-            "es": ["Los tíos", "Las tías"],
-            "fr": ["Les oncles et tantes"],
-            "en": ["Uncles and aunts"],
-            "cn": ["叔叔和阿姨", "shū shū hé ā yí"],
-            "de": ["Onkel und Tanten"],
-            "ja": ["おじさんとおばさん", "ojisan to obasan"],
-            "kr": ["삼촌과 이모", "samchon gwa imo"],
-            "ru": ["Тети и дяди", "teti i dyadi"]
-        },
-        {
-            "es": ["El sobrino"],
-            "fr": ["Le neveu"],
-            "en": ["Nephew"],
-            "cn": ["侄子", "zhí zi"],
-            "de": ["Neffe"],
-            "ja": ["甥", "oi"],
-            "kr": ["조카", "joka"],
-            "ru": ["Племянник", "plemyannik"]
-        },
-        {
-            "es": ["La sobrina"],
-            "fr": ["La nièce"],
-            "en": ["Niece"],
-            "cn": ["侄女", "zhí nǚ"],
-            "de": ["Nichte"],
-            "ja": ["姪", "mei"],
-            "kr": ["조카", "joka"],
-            "ru": ["Племянница", "plemyannitsa"]
-        },
-        {
-            "es": ["Los sobrinos", "Las sobrinas"],
-            "fr": ["Les neveux et nièces"],
-            "en": ["Nephews and nieces"],
-            "cn": ["侄子和侄女", "zhí zi hé zhí nǚ"],
-            "de": ["Neffen und Nichten"],
-            "ja": ["甥と姪", "oi to mei"],
-            "kr": ["조카들", "jokadeul"],
-            "ru": ["Племянники и племянницы", "plemyanniki i plemyannitsy"]
-        },
-        {
-            "es": ["El primo"],
-            "fr": ["Le cousin"],
-            "en": ["Cousin (male)"],
-            "cn": ["表兄弟", "biǎo xiōng dì"],
-            "de": ["Cousin"],
-            "ja": ["いとこ（男性）", "itoko (dansei)"],
-            "kr": ["사촌 (남)", "sachon (nam)"],
-            "ru": ["Двоюродный брат", "dvoyurodny brat"]
-        },
-        {
-            "es": ["La prima"],
-            "fr": ["La cousine"],
-            "en": ["Cousin (female)"],
-            "cn": ["表姐妹", "biǎo jiě mèi"],
-            "de": ["Cousine"],
-            "ja": ["いとこ（女性）", "itoko (josei)"],
-            "kr": ["사촌 (여)", "sachon (yeo)"],
-            "ru": ["Двоюродная сестра", "dvoyurodnaya sestra"]
-        },
-        {
-            "es": ["Los primos", "Las primas"],
-            "fr": ["Les cousins et cousines"],
-            "en": ["Cousins"],
-            "cn": ["表兄弟姐妹", "biǎo xiōng dì jiě mèi"],
-            "de": ["Cousins und Cousinen"],
-            "ja": ["従兄弟たち", "itoko tachi"],
-            "kr": ["사촌들", "sachondeul"],
-            "ru": ["Кузены и кузины", "kuzeny i kuziny"]
-        },
-        {
-            "es": ["El primo hermano"],
-            "fr": ["Le cousin germain"],
-            "en": ["First cousin"],
-            "cn": ["堂兄", "táng xiōng"],
-            "de": ["Erstgeborener Cousin"],
-            "ja": ["従兄", "itoko"],
-            "kr": ["사촌 형제", "sachon hyeongje"],
-            "ru": ["Двоюродный брат (первый)", "dvoyurodny brat (pervyy)"]
-        },
-        {
-            "es": ["La familia política", "Los suegros"],
-            "fr": ["La belle famille"],
-            "en": ["In-laws"],
-            "cn": ["所有姻亲", "suǒ yǒu yīn qīn"],
-            "de": ["Schwiegerfamilie"],
-            "ja": ["義理の家族", "giri no kazoku"],
-            "kr": ["사돈", "sadon"],
-            "ru": ["Родня по браку", "rodnya po braku"]
-        },
-        {
-            "es": ["El padrastro", "El suegro"],
-            "fr": ["Le beau-père"],
-            "en": ["Stepfather", "Father-in-law"],
-            "cn": ["继父", "jì fù", "岳父", "yuè fù"],
-            "de": ["Stiefvater", "Schwiegervater"],
-            "ja": ["継父", "mamachichi", "義父", "gifu"],
-            "kr": ["계부", "gyebu", "장인", "jangin"],
-            "ru": ["Отчим", "otchim", "тесть", "test"]
-        },
-        {
-            "es": ["La madrastra", "La suegra"],
-            "fr": ["La belle-mère"],
-            "en": ["Stepmother", "Mother-in-law"],
-            "cn": ["继母", "jì mǔ", "岳母", "yuè mǔ"],
-            "de": ["Stiefmutter", "Schwiegermutter"],
-            "ja": ["継母", "mamahaha", "義母", "gibo"],
-            "kr": ["계모", "gyemo", "장모", "jangmo"],
-            "ru": ["Мачеха", "machekha", "тёща", "tёshcha"]
-        },
-        {
-            "es": ["El hijastro"],
-            "fr": ["Le beau-fils"],
-            "en": ["Stepson"],
-            "cn": ["继子", "jì zǐ"],
-            "de": ["Stiefsohn"],
-            "ja": ["継子", "keishi"],
-            "kr": ["의붓아들", "uibut adeul"],
-            "ru": ["Пасынок", "pasynok"]
-        },
-        {
-            "es": ["La hijastra", "La nuera"],
-            "fr": ["La belle-fille"],
-            "en": ["Stepdaughter", "Daughter-in-law"],
-            "cn": ["继女", "jì nǚ", "儿媳", "ér xí"],
-            "de": ["Stieftochter", "Schwiegertochter"],
-            "ja": ["継娘", "ken'yo", "義理の娘", "giri no musume"],
-            "kr": ["의붓딸", "uibut ddal", "며느리", "myeoneuri"],
-            "ru": ["Падчерица", "padcheritsa", "невестка", "nevesta"]
-        },
-        {
-            "es": ["El hermanastro"],
-            "fr": ["Le demi-frère"],
-            "en": ["Stepbrother"],
-            "cn": ["继兄", "jì xiōng"],
-            "de": ["Stiefbruder"],
-            "ja": ["義理の兄", "giri no ani"],
-            "kr": ["이복형제", "ibok hyeongje"],
-            "ru": ["Сводный брат", "svodny brat"]
-        },
-        {
-            "es": ["La hermanastra"],
-            "fr": ["La demi-soeur"],
-            "en": ["Stepsister"],
-            "cn": ["继姐", "jì jiě"],
-            "de": ["Stiefschwester"],
-            "ja": ["義理の姉", "giri no ane"],
-            "kr": ["이복자매", "ibok jamae"],
-            "ru": ["Сводная сестра", "svodnaya sestra"]
-        },
-        {
-            "es": ["La adopción"],
-            "fr": ["L’adoption"],
-            "en": ["Adoption"],
-            "cn": ["收养", "shōu yǎng"],
-            "de": ["Adoption"],
-            "ja": ["養子縁組", "yōshi engumi"],
-            "kr": ["입양", "ibyang"],
-            "ru": ["Усыновление", "usynovlenie"]
-        },
-        {
-            "es": ["Los hijos adoptivos"],
-            "fr": ["Les enfants adoptifs"],
-            "en": ["Adoptive children"],
-            "cn": ["收养的孩子", "shōu yǎng de hái zi"],
-            "de": ["Adoptivkinder"],
-            "ja": ["養子", "yōshi"],
-            "kr": ["입양아", "ibyang-a"],
-            "ru": ["Приемные дети", "priyomnye deti"]
-        },
-        {
-            "es": ["Los suegros"],
-            "fr": ["Les beaux-parents"],
-            "en": ["In-laws"],
-            "cn": ["岳父母", "yuè fù mǔ"],
-            "de": ["Schwiegereltern"],
-            "ja": ["義理の父母", "giri no fubo"],
-            "kr": ["사돈", "sadon"],
-            "ru": ["Тёща и тесть", "tёshcha i test"]
-        },
-        {
-            "es": ["El yerno"],
-            "fr": ["Le gendre"],
-            "en": ["Son-in-law"],
-            "cn": ["女婿", "nǚ xù"],
-            "de": ["Schwiegersohn"],
-            "ja": ["義理の息子", "giri no musuko"],
-            "kr": ["사위", "sawi"],
-            "ru": ["Зять", "zyat'"]
-        },
-        {
-            "es": ["El cuñado"],
-            "fr": ["Le beau-frère"],
-            "en": ["Brother-in-law"],
-            "cn": ["姐夫", "jiě fū"],
-            "de": ["Schwager"],
-            "ja": ["義理の弟", "giri no otōto"],
-            "kr": ["처남", "cheonam"],
-            "ru": ["Шурин", "shurin"]
-        },
-        {
-            "es": ["La cuñada"],
-            "fr": ["La belle-soeur"],
-            "en": ["Sister-in-law"],
-            "cn": ["嫂子", "sǎo zi"],
-            "de": ["Schwägerin"],
-            "ja": ["義理の妹", "giri no imōto"],
-            "kr": ["처형", "cheonhyeong"],
-            "ru": ["Золовка", "zolovka"]
-        }
-    ]
+	"name": {
+		"es": "La familia",
+		"fr": "La famille",
+		"en": "Family",
+		"cn": "家庭 (jiā tíng)",
+		"de": "Familie",
+		"jp": "家族 (kazoku)",
+		"kr": "가족 (gajok)",
+		"ru": "Семья (sem'ya)"
+	},
+	"langs": ["es", "fr", "en", "cn", "de", "jp", "kr", "ru"],
+	"elements": [{
+			"es": ["La familia"],
+			"fr": ["La famille"],
+			"en": ["Family"],
+			"cn": ["家庭", "jiā tíng"],
+			"de": ["Familie"],
+			"jp": ["家族", "kazoku"],
+			"kr": ["가족", "gajok"],
+			"ru": ["Семья", "sem'ya"]
+		},
+		{
+			"es": ["Familiares y parientes"],
+			"fr": ["Parents proches et éloignés"],
+			"en": ["Relatives"],
+			"cn": ["亲戚", "qīn qi"],
+			"de": ["Verwandte"],
+			"jp": ["親戚", "shinseki"],
+			"kr": ["친척", "chincheok"],
+			"ru": ["Родственники", "rodstvenniki"]
+		},
+		{
+			"es": ["La genealogía"],
+			"fr": ["La généalogie"],
+			"en": ["Genealogy"],
+			"cn": ["家谱", "jiā pǔ"],
+			"de": ["Genealogie"],
+			"jp": ["系譜", "keifu"],
+			"kr": ["족보", "jokbo"],
+			"ru": ["Генеалогия", "genealogiia"]
+		},
+		{
+			"es": ["Los parientes"],
+			"fr": ["Les membres de la famille"],
+			"en": ["Family members"],
+			"cn": ["家人", "jiā rén"],
+			"de": ["Familienmitglieder"],
+			"jp": ["家族のメンバー", "kazoku no menbaa"],
+			"kr": ["가족 구성원", "gajok guseongwon"],
+			"ru": ["Члены семьи", "chleny sem'i"]
+		},
+		{
+			"es": ["El parentesco"],
+			"fr": ["Le lien de parenté"],
+			"en": ["Kinship"],
+			"cn": ["亲属关系", "qīn shǔ guān xì"],
+			"de": ["Verwandtschaftsverhältnis"],
+			"jp": ["親族関係", "shinzoku kankei"],
+			"kr": ["친족 관계", "chincheok gwangye"],
+			"ru": ["Родство", "rodstvo"]
+		},
+		{
+			"es": ["Un matrimonio"],
+			"fr": ["Un couple marié"],
+			"en": ["Married couple"],
+			"cn": ["已婚夫妇", "yǐ hūn fū fù"],
+			"de": ["Ehepaar"],
+			"jp": ["結婚したカップル", "kekkon shita kappuru"],
+			"kr": ["기혼 부부", "gihon bubu"],
+			"ru": ["Супружеская пара", "supruzheskaia para"]
+		},
+		{
+			"es": ["Una pareja"],
+			"fr": ["Un couple"],
+			"en": ["A couple"],
+			"cn": ["一对", "yī duì"],
+			"de": ["Ein Paar"],
+			"jp": ["カップル", "kappuru"],
+			"kr": ["커플", "keopeul"],
+			"ru": ["Пара", "para"]
+		},
+		{
+			"es": ["Fundar una familia"],
+			"fr": ["Fonder une famille"],
+			"en": ["To start a family"],
+			"cn": ["建立一个家庭", "jiàn lì yī gè jiā tíng"],
+			"de": ["Eine Familie gründen"],
+			"jp": ["家庭を築く", "katei o kizuku"],
+			"kr": ["가정을 꾸리다", "gajeong-eul kkulida"],
+			"ru": ["Создать семью", "sozdat' sem'yu"]
+		},
+		{
+			"es": ["Los padres"],
+			"fr": ["Les parents"],
+			"en": ["Parents"],
+			"cn": ["父母", "fù mǔ"],
+			"de": ["Eltern"],
+			"jp": ["両親", "ryōshin"],
+			"kr": ["부모", "bumo"],
+			"ru": ["Родители", "roditeli"]
+		},
+		{
+			"es": ["El padre"],
+			"fr": ["Le père"],
+			"en": ["Father"],
+			"cn": ["父亲", "fù qīn"],
+			"de": ["Vater"],
+			"jp": ["父", "chichi"],
+			"kr": ["아버지", "abeoji"],
+			"ru": ["Отец", "otets"]
+		},
+		{
+			"es": ["La madre"],
+			"fr": ["La mère"],
+			"en": ["Mother"],
+			"cn": ["母亲", "mǔ qīn"],
+			"de": ["Mutter"],
+			"jp": ["母", "haha"],
+			"kr": ["어머니", "eomeoni"],
+			"ru": ["Мать", "mat'"]
+		},
+		{
+			"es": ["Los papás"],
+			"fr": ["Le papa et la maman"],
+			"en": ["Mom and Dad"],
+			"cn": ["父母", "fù mǔ"],
+			"de": ["Mama und Papa"],
+			"jp": ["お父さんとお母さん", "otōsan to okāsan"],
+			"kr": ["엄마와 아빠", "eomma wa appa"],
+			"ru": ["Мама и папа", "mama i papa"]
+		},
+		{
+			"es": ["El papá"],
+			"fr": ["Le papa"],
+			"en": ["Dad"],
+			"cn": ["爸爸", "bà bà"],
+			"de": ["Papa"],
+			"jp": ["お父さん", "otōsan"],
+			"kr": ["아빠", "appa"],
+			"ru": ["Папа", "papa"]
+		},
+		{
+			"es": ["La mamá"],
+			"fr": ["La maman"],
+			"en": ["Mom"],
+			"cn": ["妈妈", "mā mā"],
+			"de": ["Mama"],
+			"jp": ["お母さん", "okāsan"],
+			"kr": ["엄마", "eomma"],
+			"ru": ["Мама", "mama"]
+		},
+		{
+			"es": ["Los hijos"],
+			"fr": ["Les enfants"],
+			"en": ["Children"],
+			"cn": ["孩子", "hái zi"],
+			"de": ["Kinder"],
+			"jp": ["子供", "kodomo"],
+			"kr": ["자녀", "janyeo"],
+			"ru": ["Дети", "deti"]
+		},
+		{
+			"es": ["El hijo"],
+			"fr": ["Le fils"],
+			"en": ["Son"],
+			"cn": ["儿子", "ér zi"],
+			"de": ["Sohn"],
+			"jp": ["息子", "musuko"],
+			"kr": ["아들", "adeul"],
+			"ru": ["Сын", "syn"]
+		},
+		{
+			"es": ["La hija"],
+			"fr": ["La fille"],
+			"en": ["Daughter"],
+			"cn": ["女儿", "nǚ ér"],
+			"de": ["Tochter"],
+			"jp": ["娘", "musume"],
+			"kr": ["딸", "ttal"],
+			"ru": ["Дочь", "doch'"]
+		},
+		{
+			"es": ["El hermano"],
+			"fr": ["Le frère"],
+			"en": ["Brother"],
+			"cn": ["兄弟", "xiōng dì"],
+			"de": ["Bruder"],
+			"jp": ["兄弟", "kyōdai"],
+			"kr": ["형제", "hyeongje"],
+			"ru": ["Брат", "brat"]
+		},
+		{
+			"es": ["La hermana"],
+			"fr": ["La soeur"],
+			"en": ["Sister"],
+			"cn": ["姐妹", "jiě mèi"],
+			"de": ["Schwester"],
+			"jp": ["姉妹", "shimai"],
+			"kr": ["자매", "jamae"],
+			"ru": ["Сестра", "sestra"]
+		},
+		{
+			"es": ["Los hermanos"],
+			"fr": ["Les frères et soeurs"],
+			"en": ["Siblings"],
+			"cn": ["兄弟姐妹", "xiōng dì jiě mèi"],
+			"de": ["Geschwister"],
+			"jp": ["兄弟姉妹", "kyōdai shimai"],
+			"kr": ["형제와 자매", "hyeongje wa jamae"],
+			"ru": ["Братья и сестры", "brat'ya i sestry"]
+		},
+		{
+			"es": ["El primogénito"],
+			"fr": ["L’aîné"],
+			"en": ["Firstborn"],
+			"cn": ["长子", "zhǎng zǐ"],
+			"de": ["Erstgeborene"],
+			"jp": ["長子", "chōshi"],
+			"kr": ["맏아들", "madadeul"],
+			"ru": ["Первенец", "pervenets"]
+		},
+		{
+			"es": ["Los gemelos"],
+			"fr": ["Les jumeaux"],
+			"en": ["Twins"],
+			"cn": ["双胞胎", "shuāng bāo tāi"],
+			"de": ["Zwillinge"],
+			"jp": ["双子", "futago"],
+			"kr": ["쌍둥이", "ssangdungi"],
+			"ru": ["Близнецы", "bliznetsy"]
+		},
+		{
+			"es": ["Las gemelas"],
+			"fr": ["Les jumelles"],
+			"en": ["Twin sisters"],
+			"cn": ["双胞胎姐妹", "shuāng bāo tāi jiě mèi"],
+			"de": ["Zwillingsschwestern"],
+			"jp": ["双子の姉妹", "futago no shimai"],
+			"kr": ["쌍둥이 자매", "ssangdungi jamae"],
+			"ru": ["Сестры-близнецы", "sestry-bliznetsy"]
+		},
+		{
+			"es": ["Los mellizos"],
+			"fr": ["Les faux jumeaux"],
+			"en": ["Fraternal twins"],
+			"cn": ["异卵双胞胎", "yì luǎn shuāng bāo tāi"],
+			"de": ["Zweieiige Zwillinge"],
+			"jp": ["二卵性双生児", "niransei sōseiji"],
+			"kr": ["이란성 쌍둥이", "iransung ssangdungi"],
+			"ru": ["Двуяйцевые близнецы", "dvuyaytsevye bliznetsy"]
+		},
+		{
+			"es": ["El abuelo"],
+			"fr": ["Le grand-père"],
+			"en": ["Grandfather"],
+			"cn": ["爷爷", "yé yé"],
+			"de": ["Großvater"],
+			"jp": ["おじいさん", "ojiisan"],
+			"kr": ["할아버지", "harabeoji"],
+			"ru": ["Дедушка", "dedushka"]
+		},
+		{
+			"es": ["La abuela"],
+			"fr": ["La grand-mère"],
+			"en": ["Grandmother"],
+			"cn": ["奶奶", "nǎi nǎi"],
+			"de": ["Großmutter"],
+			"jp": ["おばあさん", "obāsan"],
+			"kr": ["할머니", "halmeoni"],
+			"ru": ["Бабушка", "babushka"]
+		},
+		{
+			"es": ["Los abuelos"],
+			"fr": ["Les grands-parents"],
+			"en": ["Grandparents"],
+			"cn": ["祖父母", "zǔ fù mǔ"],
+			"de": ["Großeltern"],
+			"jp": ["祖父母", "sofubo"],
+			"kr": ["조부모님", "jobumonim"],
+			"ru": ["Бабушка и дедушка", "babushka i dedushka"]
+		},
+		{
+			"es": ["El nieto"],
+			"fr": ["Le petit-fils"],
+			"en": ["Grandson"],
+			"cn": ["孙子", "sūn zǐ"],
+			"de": ["Enkel"],
+			"jp": ["孫息子", "mago musuko"],
+			"kr": ["손자", "sonja"],
+			"ru": ["Внук", "vnuk"]
+		},
+		{
+			"es": ["La nieta"],
+			"fr": ["La petite-fille"],
+			"en": ["Granddaughter"],
+			"cn": ["孙女", "sūn nǚ"],
+			"de": ["Enkelin"],
+			"jp": ["孫娘", "mago musume"],
+			"kr": ["손녀", "sonnyeo"],
+			"ru": ["Внучка", "vnuchka"]
+		},
+		{
+			"es": ["Los nietos"],
+			"fr": ["Les petits-enfants"],
+			"en": ["Grandchildren"],
+			"cn": ["孙子孙女", "sūn zi sūn nǚ"],
+			"de": ["Enkelkinder"],
+			"jp": ["孫たち", "mago tachi"],
+			"kr": ["손자손녀", "sonjasonnyeo"],
+			"ru": ["Внуки", "vnuki"]
+		},
+		{
+			"es": ["El tío"],
+			"fr": ["L’oncle"],
+			"en": ["Uncle"],
+			"cn": ["叔叔", "shū shū"],
+			"de": ["Onkel"],
+			"jp": ["おじさん", "ojisan"],
+			"kr": ["삼촌", "samchon"],
+			"ru": ["Дядя", "dyadya"]
+		},
+		{
+			"es": ["La tía"],
+			"fr": ["La tante"],
+			"en": ["Aunt"],
+			"cn": ["阿姨", "ā yí"],
+			"de": ["Tante"],
+			"jp": ["おばさん", "obasan"],
+			"kr": ["이모", "imo"],
+			"ru": ["Тетя", "tetya"]
+		},
+		{
+			"es": ["Los tíos", "Las tías"],
+			"fr": ["Les oncles et tantes"],
+			"en": ["Uncles and aunts"],
+			"cn": ["叔叔和阿姨", "shū shū hé ā yí"],
+			"de": ["Onkel und Tanten"],
+			"jp": ["おじさんとおばさん", "ojisan to obasan"],
+			"kr": ["삼촌과 이모", "samchon gwa imo"],
+			"ru": ["Тети и дяди", "teti i dyadi"]
+		},
+		{
+			"es": ["El sobrino"],
+			"fr": ["Le neveu"],
+			"en": ["Nephew"],
+			"cn": ["侄子", "zhí zi"],
+			"de": ["Neffe"],
+			"jp": ["甥", "oi"],
+			"kr": ["조카", "joka"],
+			"ru": ["Племянник", "plemyannik"]
+		},
+		{
+			"es": ["La sobrina"],
+			"fr": ["La nièce"],
+			"en": ["Niece"],
+			"cn": ["侄女", "zhí nǚ"],
+			"de": ["Nichte"],
+			"jp": ["姪", "mei"],
+			"kr": ["조카", "joka"],
+			"ru": ["Племянница", "plemyannitsa"]
+		},
+		{
+			"es": ["Los sobrinos", "Las sobrinas"],
+			"fr": ["Les neveux et nièces"],
+			"en": ["Nephews and nieces"],
+			"cn": ["侄子和侄女", "zhí zi hé zhí nǚ"],
+			"de": ["Neffen und Nichten"],
+			"jp": ["甥と姪", "oi to mei"],
+			"kr": ["조카들", "jokadeul"],
+			"ru": ["Племянники и племянницы", "plemyanniki i plemyannitsy"]
+		},
+		{
+			"es": ["El primo"],
+			"fr": ["Le cousin"],
+			"en": ["Cousin (male)"],
+			"cn": ["表兄弟", "biǎo xiōng dì"],
+			"de": ["Cousin"],
+			"jp": ["いとこ（男性）", "itoko (dansei)"],
+			"kr": ["사촌 (남)", "sachon (nam)"],
+			"ru": ["Двоюродный брат", "dvoyurodny brat"]
+		},
+		{
+			"es": ["La prima"],
+			"fr": ["La cousine"],
+			"en": ["Cousin (female)"],
+			"cn": ["表姐妹", "biǎo jiě mèi"],
+			"de": ["Cousine"],
+			"jp": ["いとこ（女性）", "itoko (josei)"],
+			"kr": ["사촌 (여)", "sachon (yeo)"],
+			"ru": ["Двоюродная сестра", "dvoyurodnaya sestra"]
+		},
+		{
+			"es": ["Los primos", "Las primas"],
+			"fr": ["Les cousins et cousines"],
+			"en": ["Cousins"],
+			"cn": ["表兄弟姐妹", "biǎo xiōng dì jiě mèi"],
+			"de": ["Cousins und Cousinen"],
+			"jp": ["従兄弟たち", "itoko tachi"],
+			"kr": ["사촌들", "sachondeul"],
+			"ru": ["Кузены и кузины", "kuzeny i kuziny"]
+		},
+		{
+			"es": ["El primo hermano"],
+			"fr": ["Le cousin germain"],
+			"en": ["First cousin"],
+			"cn": ["堂兄", "táng xiōng"],
+			"de": ["Erstgeborener Cousin"],
+			"jp": ["従兄", "itoko"],
+			"kr": ["사촌 형제", "sachon hyeongje"],
+			"ru": ["Двоюродный брат (первый)", "dvoyurodny brat (pervyy)"]
+		},
+		{
+			"es": ["La familia política", "Los suegros"],
+			"fr": ["La belle famille"],
+			"en": ["In-laws"],
+			"cn": ["所有姻亲", "suǒ yǒu yīn qīn"],
+			"de": ["Schwiegerfamilie"],
+			"jp": ["義理の家族", "giri no kazoku"],
+			"kr": ["사돈", "sadon"],
+			"ru": ["Родня по браку", "rodnya po braku"]
+		},
+		{
+			"es": ["El padrastro", "El suegro"],
+			"fr": ["Le beau-père"],
+			"en": ["Stepfather", "Father-in-law"],
+			"cn": ["继父", "jì fù", "岳父", "yuè fù"],
+			"de": ["Stiefvater", "Schwiegervater"],
+			"jp": ["継父", "mamachichi", "義父", "gifu"],
+			"kr": ["계부", "gyebu", "장인", "jangin"],
+			"ru": ["Отчим", "otchim", "тесть", "test"]
+		},
+		{
+			"es": ["La madrastra", "La suegra"],
+			"fr": ["La belle-mère"],
+			"en": ["Stepmother", "Mother-in-law"],
+			"cn": ["继母", "jì mǔ", "岳母", "yuè mǔ"],
+			"de": ["Stiefmutter", "Schwiegermutter"],
+			"jp": ["継母", "mamahaha", "義母", "gibo"],
+			"kr": ["계모", "gyemo", "장모", "jangmo"],
+			"ru": ["Мачеха", "machekha", "тёща", "tёshcha"]
+		},
+		{
+			"es": ["El hijastro"],
+			"fr": ["Le beau-fils"],
+			"en": ["Stepson"],
+			"cn": ["继子", "jì zǐ"],
+			"de": ["Stiefsohn"],
+			"jp": ["継子", "keishi"],
+			"kr": ["의붓아들", "uibut adeul"],
+			"ru": ["Пасынок", "pasynok"]
+		},
+		{
+			"es": ["La hijastra", "La nuera"],
+			"fr": ["La belle-fille"],
+			"en": ["Stepdaughter", "Daughter-in-law"],
+			"cn": ["继女", "jì nǚ", "儿媳", "ér xí"],
+			"de": ["Stieftochter", "Schwiegertochter"],
+			"jp": ["継娘", "ken'yo", "義理の娘", "giri no musume"],
+			"kr": ["의붓딸", "uibut ddal", "며느리", "myeoneuri"],
+			"ru": ["Падчерица", "padcheritsa", "невестка", "nevesta"]
+		},
+		{
+			"es": ["El hermanastro"],
+			"fr": ["Le demi-frère"],
+			"en": ["Stepbrother"],
+			"cn": ["继兄", "jì xiōng"],
+			"de": ["Stiefbruder"],
+			"jp": ["義理の兄", "giri no ani"],
+			"kr": ["이복형제", "ibok hyeongje"],
+			"ru": ["Сводный брат", "svodny brat"]
+		},
+		{
+			"es": ["La hermanastra"],
+			"fr": ["La demi-soeur"],
+			"en": ["Stepsister"],
+			"cn": ["继姐", "jì jiě"],
+			"de": ["Stiefschwester"],
+			"jp": ["義理の姉", "giri no ane"],
+			"kr": ["이복자매", "ibok jamae"],
+			"ru": ["Сводная сестра", "svodnaya sestra"]
+		},
+		{
+			"es": ["La adopción"],
+			"fr": ["L’adoption"],
+			"en": ["Adoption"],
+			"cn": ["收养", "shōu yǎng"],
+			"de": ["Adoption"],
+			"jp": ["養子縁組", "yōshi engumi"],
+			"kr": ["입양", "ibyang"],
+			"ru": ["Усыновление", "usynovlenie"]
+		},
+		{
+			"es": ["Los hijos adoptivos"],
+			"fr": ["Les enfants adoptifs"],
+			"en": ["Adoptive children"],
+			"cn": ["收养的孩子", "shōu yǎng de hái zi"],
+			"de": ["Adoptivkinder"],
+			"jp": ["養子", "yōshi"],
+			"kr": ["입양아", "ibyang-a"],
+			"ru": ["Приемные дети", "priyomnye deti"]
+		},
+		{
+			"es": ["Los suegros"],
+			"fr": ["Les beaux-parents"],
+			"en": ["In-laws"],
+			"cn": ["岳父母", "yuè fù mǔ"],
+			"de": ["Schwiegereltern"],
+			"jp": ["義理の父母", "giri no fubo"],
+			"kr": ["사돈", "sadon"],
+			"ru": ["Тёща и тесть", "tёshcha i test"]
+		},
+		{
+			"es": ["El yerno"],
+			"fr": ["Le gendre"],
+			"en": ["Son-in-law"],
+			"cn": ["女婿", "nǚ xù"],
+			"de": ["Schwiegersohn"],
+			"jp": ["義理の息子", "giri no musuko"],
+			"kr": ["사위", "sawi"],
+			"ru": ["Зять", "zyat'"]
+		},
+		{
+			"es": ["El cuñado"],
+			"fr": ["Le beau-frère"],
+			"en": ["Brother-in-law"],
+			"cn": ["姐夫", "jiě fū"],
+			"de": ["Schwager"],
+			"jp": ["義理の弟", "giri no otōto"],
+			"kr": ["처남", "cheonam"],
+			"ru": ["Шурин", "shurin"]
+		},
+		{
+			"es": ["La cuñada"],
+			"fr": ["La belle-soeur"],
+			"en": ["Sister-in-law"],
+			"cn": ["嫂子", "sǎo zi"],
+			"de": ["Schwägerin"],
+			"jp": ["義理の妹", "giri no imōto"],
+			"kr": ["처형", "cheonhyeong"],
+			"ru": ["Золовка", "zolovka"]
+		}
+	]
 }

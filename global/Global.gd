@@ -21,7 +21,7 @@ var ouverture_fiche_readonly: bool = true;
 # Paramètres du quiz actuel
 var quiz_selected_fiches: Array[String] = []; # list of "paths"
 var quiz_sens: int = QUIZ_SENS_SRC_DST; 
-var quiz_type: int = QUIZ_TYPE_CARTES;
+var quiz_type: int = QUIZ_TYPE_INPUT;
 var quiz_tot_questions: int = 10;
 var quiz_score: float = 0;
 var quiz_nb_current_questions: int = 0;
@@ -39,11 +39,19 @@ var fiches_uses: Dictionary = {}; # "path" -> Nb access
 
 # Langues actuelles
 var current_lang_src: String = "fr";
-var current_lang_dst: String = "cn";
+var current_lang_dst: String = "es";
 
 #
 var rng: RandomNumberGenerator = RandomNumberGenerator.new();
 
-
-
-
+#
+const LANGUAGES_NAMES: Dictionary = {
+	"fr": "Français",
+	"cn": "Chinois / Mandarin",
+	"jp": "Japonais",
+	"es": "Espagnol",
+	"en": "Anglais",
+	"de": "Allemand",
+	# "ru": "Russe",
+	"kr": "Coréen"
+};

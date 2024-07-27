@@ -5,18 +5,18 @@
         "en": "Food",
         "cn": "食物 (shi wu)",
         "de": "Essen",
-        "ja": "食べ物 (tabemono)",
+        "jp": "食べ物 (tabemono)",
         "kr": "음식 (eumsik)",
         "ru": "Еда (eda)"
     },
-    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
+    "langs": ["es", "fr", "en", "cn", "de", "jp", "kr", "ru"],
     "elements": [{
             "es": ["Pan"],
             "fr": ["Pain"],
             "en": ["Bread"],
             "cn": ["面包", "mian bao"],
             "de": ["Brot"],
-            "ja": ["パン", "pan"],
+            "jp": ["パン", "pan"],
             "kr": ["빵", "ppang"],
             "ru": ["Хлеб", "khleb"]
         },
@@ -26,7 +26,7 @@
             "en": ["Water"],
             "cn": ["水", "shui"],
             "de": ["Wasser"],
-            "ja": ["水", "mizu"],
+            "jp": ["水", "mizu"],
             "kr": ["물", "mul"],
             "ru": ["Вода", "voda"]
         },
@@ -36,7 +36,7 @@
             "en": ["Milk"],
             "cn": ["牛奶", "niu nai"],
             "de": ["Milch"],
-            "ja": ["牛乳", "gyuunyuu"],
+            "jp": ["牛乳", "gyuunyuu"],
             "kr": ["우유", "uyu"],
             "ru": ["Молоко", "moloko"]
         },
@@ -46,7 +46,7 @@
             "en": ["Meat"],
             "cn": ["肉", "rou"],
             "de": ["Fleisch"],
-            "ja": ["肉", "niku"],
+            "jp": ["肉", "niku"],
             "kr": ["고기", "gogi"],
             "ru": ["Мясо", "myaso"]
         },
@@ -56,7 +56,7 @@
             "en": ["Fish"],
             "cn": ["鱼", "yu"],
             "de": ["Fisch"],
-            "ja": ["魚", "sakana"],
+            "jp": ["魚", "sakana"],
             "kr": ["생선", "saengseon"],
             "ru": ["Рыба", "ryba"]
         },
@@ -66,7 +66,7 @@
             "en": ["Fruits"],
             "cn": ["水果", "shui guo"],
             "de": ["Früchte"],
-            "ja": ["果物", "kudamono"],
+            "jp": ["果物", "kudamono"],
             "kr": ["과일", "gwail"],
             "ru": ["Фрукты", "frukty"]
         },
@@ -76,7 +76,7 @@
             "en": ["Vegetables"],
             "cn": ["蔬菜", "shu cai"],
             "de": ["Gemüse"],
-            "ja": ["野菜", "yasai"],
+            "jp": ["野菜", "yasai"],
             "kr": ["채소", "chaeso"],
             "ru": ["Овощи", "ovoshchi"]
         },
@@ -86,7 +86,7 @@
             "en": ["Apple"],
             "cn": ["苹果", "ping guo"],
             "de": ["Apfel"],
-            "ja": ["りんご", "ringo"],
+            "jp": ["りんご", "ringo"],
             "kr": ["사과", "sagwa"],
             "ru": ["Яблоко", "yabloko"]
         },
@@ -96,7 +96,7 @@
             "en": ["Banana"],
             "cn": ["香蕉", "xiang jiao"],
             "de": ["Banane"],
-            "ja": ["バナナ", "banana"],
+            "jp": ["バナナ", "banana"],
             "kr": ["바나나", "banana"],
             "ru": ["Банан", "banan"]
         },
@@ -106,7 +106,7 @@
             "en": ["Orange"],
             "cn": ["橙子", "cheng zi"],
             "de": ["Orange"],
-            "ja": ["オレンジ", "orenji"],
+            "jp": ["オレンジ", "orenji"],
             "kr": ["오렌지", "orenji"],
             "ru": ["Апельсин", "apel'sin"]
         },
@@ -116,7 +116,7 @@
             "en": ["Rice"],
             "cn": ["米饭", "mi fan"],
             "de": ["Reis"],
-            "ja": ["ご飯", "gohan"],
+            "jp": ["ご飯", "gohan"],
             "kr": ["밥", "bap"],
             "ru": ["Рис", "ris"]
         },
@@ -126,7 +126,7 @@
             "en": ["Eggs"],
             "cn": ["鸡蛋", "ji dan"],
             "de": ["Eier"],
-            "ja": ["卵", "tamago"],
+            "jp": ["卵", "tamago"],
             "kr": ["계란", "gyeran"],
             "ru": ["Яйца", "yaytsa"]
         },
@@ -136,7 +136,7 @@
             "en": ["Cheese"],
             "cn": ["奶酪", "nai lao"],
             "de": ["Käse"],
-            "ja": ["チーズ", "chiizu"],
+            "jp": ["チーズ", "chiizu"],
             "kr": ["치즈", "chijeu"],
             "ru": ["Сыр", "syr"]
         },
@@ -146,7 +146,7 @@
             "en": ["Ice cream"],
             "cn": ["冰淇淋", "bing qi lin"],
             "de": ["Eiscreme"],
-            "ja": ["アイスクリーム", "aisukurīmu"],
+            "jp": ["アイスクリーム", "aisukurīmu"],
             "kr": ["아이스크림", "aiseukeurim"],
             "ru": ["Мороженое", "morozhenoe"]
         },
@@ -156,7 +156,7 @@
             "en": ["Coffee"],
             "cn": ["咖啡", "ka fei"],
             "de": ["Kaffee"],
-            "ja": ["コーヒー", "koohii"],
+            "jp": ["コーヒー", "koohii"],
             "kr": ["커피", "keopi"],
             "ru": ["Кофе", "kofe"]
         },
@@ -166,7 +166,7 @@
             "en": ["Tea"],
             "cn": ["茶", "cha"],
             "de": ["Tee"],
-            "ja": ["お茶", "ocha"],
+            "jp": ["お茶", "ocha"],
             "kr": ["차", "cha"],
             "ru": ["Чай", "chai"]
         },
@@ -176,7 +176,7 @@
             "en": ["Chicken"],
             "cn": ["鸡肉", "ji rou"],
             "de": ["Huhn"],
-            "ja": ["鶏肉", "toriniku"],
+            "jp": ["鶏肉", "toriniku"],
             "kr": ["닭고기", "dalgogi"],
             "ru": ["Курица", "kuritsa"]
         },
@@ -186,7 +186,7 @@
             "en": ["Pasta"],
             "cn": ["意大利面", "yi da li mian"],
             "de": ["Nudeln"],
-            "ja": ["パスタ", "pasuta"],
+            "jp": ["パスタ", "pasuta"],
             "kr": ["파스타", "pasuta"],
             "ru": ["Макароны", "makarony"]
         },
@@ -196,7 +196,7 @@
             "en": ["Soup"],
             "cn": ["汤", "tang"],
             "de": ["Suppe"],
-            "ja": ["スープ", "suupu"],
+            "jp": ["スープ", "suupu"],
             "kr": ["수프", "supeu"],
             "ru": ["Суп", "sup"]
         },
@@ -206,7 +206,7 @@
             "en": ["Salt"],
             "cn": ["盐", "yan"],
             "de": ["Salz"],
-            "ja": ["塩", "shio"],
+            "jp": ["塩", "shio"],
             "kr": ["소금", "sogeum"],
             "ru": ["Соль", "sol'"]
         },
@@ -216,7 +216,7 @@
             "en": ["Sugar"],
             "cn": ["糖", "tang"],
             "de": ["Zucker"],
-            "ja": ["砂糖", "satou"],
+            "jp": ["砂糖", "satou"],
             "kr": ["설탕", "seoltang"],
             "ru": ["Сахар", "sakhar"]
         },
@@ -226,7 +226,7 @@
             "en": ["Honey"],
             "cn": ["蜂蜜", "feng mi"],
             "de": ["Honig"],
-            "ja": ["蜂蜜", "hachi mitsu"],
+            "jp": ["蜂蜜", "hachi mitsu"],
             "kr": ["꿀", "kkul"],
             "ru": ["Мёд", "myod"]
         },
@@ -236,7 +236,7 @@
             "en": ["Pepper"],
             "cn": ["胡椒", "hu jiao"],
             "de": ["Pfeffer"],
-            "ja": ["胡椒", "koshou"],
+            "jp": ["胡椒", "koshou"],
             "kr": ["후추", "huchu"],
             "ru": ["Перец", "perets"]
         },
@@ -246,7 +246,7 @@
             "en": ["Oil"],
             "cn": ["油", "you"],
             "de": ["Öl"],
-            "ja": ["油", "abura"],
+            "jp": ["油", "abura"],
             "kr": ["기름", "gireum"],
             "ru": ["Масло", "maslo"]
         },
@@ -256,7 +256,7 @@
             "en": ["Candy"],
             "cn": ["糖果", "tang guo"],
             "de": ["Süßigkeit"],
-            "ja": ["飴", "ame"],
+            "jp": ["飴", "ame"],
             "kr": ["사탕", "satang"],
             "ru": ["Конфета", "konfeta"]
         },
@@ -266,7 +266,7 @@
             "en": ["Cake"],
             "cn": ["蛋糕", "dan gao"],
             "de": ["Kuchen"],
-            "ja": ["ケーキ", "keeki"],
+            "jp": ["ケーキ", "keeki"],
             "kr": ["케이크", "keikeu"],
             "ru": ["Торт", "tort"]
         },
@@ -276,7 +276,7 @@
             "en": ["Juice"],
             "cn": ["果汁", "guo zhi"],
             "de": ["Saft"],
-            "ja": ["ジュース", "juusu"],
+            "jp": ["ジュース", "juusu"],
             "kr": ["주스", "juseu"],
             "ru": ["Сок", "sok"]
         },
@@ -286,7 +286,7 @@
             "en": ["Salad"],
             "cn": ["沙拉", "sha la"],
             "de": ["Salat"],
-            "ja": ["サラダ", "sarada"],
+            "jp": ["サラダ", "sarada"],
             "kr": ["샐러드", "saelleodeu"],
             "ru": ["Салат", "salat"]
         },
@@ -296,7 +296,7 @@
             "en": ["Yogurt"],
             "cn": ["酸奶", "suan nai"],
             "de": ["Joghurt"],
-            "ja": ["ヨーグルト", "yooguruto"],
+            "jp": ["ヨーグルト", "yooguruto"],
             "kr": ["요거트", "yogeoteu"],
             "ru": ["Йогурт", "yogurt"]
         },
@@ -306,7 +306,7 @@
             "en": ["French fries", "Chips"],
             "cn": ["薯条", "shu tiao"],
             "de": ["Pommes frites"],
-            "ja": ["フライドポテト", "furaido poteto"],
+            "jp": ["フライドポテト", "furaido poteto"],
             "kr": ["감자튀김", "gamja twigim"],
             "ru": ["Картофель фри", "kartofel' fri"]
         },
@@ -316,7 +316,7 @@
             "en": ["Butter"],
             "cn": ["黄油", "huang you"],
             "de": ["Butter"],
-            "ja": ["バター", "bataa"],
+            "jp": ["バター", "bataa"],
             "kr": ["버터", "beoteo"],
             "ru": ["Масло", "maslo"]
         }

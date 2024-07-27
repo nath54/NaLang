@@ -1,0 +1,73 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes en chinois jouent un rôle central dans la construction des phrases. Ils indiquent l'action ou l'état et peuvent être modifiés pour exprimer le temps, l'aspect, et l'intention. Maîtriser les verbes est essentiel pour communiquer efficacement en chinois.
+
+[font_size=24][color=#4B0082]1. Verbes de base[/color][/font_size]
+
+Voici quelques verbes courants en chinois. Apprendre ces verbes vous donnera une base solide pour construire des phrases simples et communicatives.
+
+[b]a) Verbes courants[/b]
+[indent]Les verbes suivants sont parmi les plus utilisés en chinois. Ils couvrent une variété d'actions quotidiennes.
+[code]
+是 (shì) [color=#008000](être)[/color]
+有 (yǒu) [color=#008000](avoir)[/color]
+做 (zuò) [color=#008000](faire)[/color]
+去 (qù) [color=#008000](aller)[/color]
+来 (lái) [color=#008000](venir)[/color]
+吃 (chī) [color=#008000](manger)[/color]
+喝 (hē) [color=#008000](boire)[/color]
+说 (shuō) [color=#008000](dire/parler)[/color]
+看 (kàn) [color=#008000](voir/regarder)[/color]
+听 (tīng) [color=#008000](entendre/écouter)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我有一本书。[font_size=18pt](Wǒ yǒu yì běn shū.)[/font_size][/color] [color=#008000](J'ai un livre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Formes verbales[/color][/font_size]
+
+Les verbes en chinois peuvent être modifiés pour indiquer le temps et l'aspect de l'action. Voici quelques formes courantes :
+
+[b]a) Forme affirmative[/b]
+[indent]En chinois, la forme affirmative se construit simplement en utilisant le verbe sans modification. Le contexte (ou des marqueurs de temps) indique généralement le temps.
+
+[i]Exemple : [color=#0000FF]他吃苹果。[font_size=18pt](Tā chī píngguǒ.)[/font_size][/color] [color=#008000](Il mange une pomme.)[/color][/i][/indent]
+
+[b]b) Forme négative[/b]
+[indent]Pour nier une action, on utilise souvent 再 (bù) ou 没 (méi) avant le verbe. 再 (bù) est utilisé pour les temps futurs ou présents, tandis que 没 (méi) est utilisé pour le passé.
+
+[i]Exemple : [color=#0000FF]他不吃苹果。[font_size=18pt](Tā bù chī píngguǒ.)[/font_size][/color] [color=#008000](Il ne mange pas de pomme.)[/color][/i]
+
+[i]Exemple : [color=#0000FF]他没吃苹果。[font_size=18pt](Tā méi chī píngguǒ.)[/font_size][/color] [color=#008000](Il n'a pas mangé de pomme.)[/color][/i][/indent]
+
+[b]c) Forme interrogative[/b]
+[indent]Pour poser une question en chinois, il suffit généralement d'ajouter 吗 (ma) à la fin de la phrase.
+
+[i]Exemple : [color=#0000FF]你吃苹果吗？[font_size=18pt](Nǐ chī píngguǒ ma?) [/font_size][/color] [color=#008000](Manges-tu une pomme ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Verbes composés[/color][/font_size]
+
+Les verbes composés sont formés en combinant deux ou plusieurs caractères pour créer un nouveau verbe avec une signification unique. Ils sont fréquents en chinois moderne.
+
+[indent]• Exemples de verbes composés :
+[code]
+学习 (xué xí) [color=#008000](étudier, apprendre)[/color]
+工作 (gōng zuò) [color=#008000](travailler)[/color]
+明白 (míng bái) [color=#008000](comprendre)[/color]
+喜欢 (xǐ huan) [color=#008000](aimer, apprécier)[/color]
+帮助 (bāng zhù) [color=#008000](aider)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我喜欢学习中文。[font_size=18pt](Wǒ xǐhuan xuéxí zhōngwén.)[/font_size][/color] [color=#008000](J'aime apprendre le chinois.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes sont essentiels pour construire des phrases et exprimer des actions et des états.
+[color=#FF0000]2.[/color] Utilisez des verbes de base pour constituer une communication simple.
+[color=#FF0000]3.[/color] Connaître les différentes formes verbales pour affirmer, nier et poser des questions est crucial.
+[color=#FF0000]4.[/color] Les verbes composés sont courants et ajoutent de la richesse au vocabulaire.[/indent]
+
+[center][font_size=18][color=#808080]掌握这些动词，提升你的中文表达能力！(zhǎngwò zhèxiē dòngcí, tíshēng nǐ de zhōngwén biǎodá nénglì!)[/color][/font_size][/center]

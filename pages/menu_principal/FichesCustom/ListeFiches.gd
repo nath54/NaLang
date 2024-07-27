@@ -1,7 +1,7 @@
 extends Control
 
 const DATA_PATH: String = "res://data/fiches/";
-@onready var ListeFiches = $ScrollContainer/CenterContainer/VBoxContainer/VBoxContainer/ScrollContainer/MarginContainer/ListeFiches;
+@onready var ListeFiches = %ListeFiches;
 
 var bt_node = preload("res://pages/menu_principal/FichesCustom/Bt_Fiche.tscn");
 

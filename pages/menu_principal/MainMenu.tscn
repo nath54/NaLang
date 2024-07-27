@@ -174,12 +174,14 @@ size_flags_horizontal = 6
 text = "Quitter"
 
 [node name="Bt_Parametres" type="Button" parent="CenterContainer/VBoxContainer/HBoxContainer"]
+visible = false
 custom_minimum_size = Vector2(150, 40)
 layout_mode = 2
 size_flags_horizontal = 6
 disabled = true
 text = "Paramètres"
 
+[connection signal="pressed" from="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/CenterContainer/Bt_Change_Lang" to="." method="_on_bt_change_lang_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_NotionsImportantes" to="." method="_on_bt_notions_importantes_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_Lexique" to="." method="_on_bt_lexique_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_FichesCustoms" to="." method="_on_bt_fiches_customs_pressed"]

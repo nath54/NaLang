@@ -26,39 +26,35 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 
-[node name="ScrollContainer" type="ScrollContainer" parent="."]
+[node name="CenterContainer" type="CenterContainer" parent="."]
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-follow_focus = true
-
-[node name="CenterContainer" type="CenterContainer" parent="ScrollContainer"]
-layout_mode = 2
 size_flags_horizontal = 3
 size_flags_vertical = 3
 
-[node name="Container" type="ScrollContainer" parent="ScrollContainer/CenterContainer"]
+[node name="Container" type="ScrollContainer" parent="CenterContainer"]
 custom_minimum_size = Vector2(600, 900)
 layout_mode = 2
 
-[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer/CenterContainer/Container"]
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/Container"]
 layout_mode = 2
 size_flags_horizontal = 3
 size_flags_vertical = 3
 theme_override_constants/separation = 10
 
-[node name="HBoxContainer" type="HBoxContainer" parent="ScrollContainer/CenterContainer/Container/VBoxContainer"]
+[node name="HBoxContainer" type="HBoxContainer" parent="CenterContainer/Container/VBoxContainer"]
 layout_mode = 2
 
-[node name="Bt_Retour" type="Button" parent="ScrollContainer/CenterContainer/Container/VBoxContainer/HBoxContainer"]
+[node name="Bt_Retour" type="Button" parent="CenterContainer/Container/VBoxContainer/HBoxContainer"]
 custom_minimum_size = Vector2(100, 40)
 layout_mode = 2
 text = "Retour"
 
-[node name="Titre" type="Label" parent="ScrollContainer/CenterContainer/Container/VBoxContainer"]
+[node name="Titre" type="Label" parent="CenterContainer/Container/VBoxContainer"]
 layout_mode = 2
 theme_override_font_sizes/font_size = 25
 text = "Notions Importantes"
@@ -66,30 +62,40 @@ label_settings = SubResource("LabelSettings_aest7")
 horizontal_alignment = 1
 vertical_alignment = 1
 
-[node name="HSeparator" type="HSeparator" parent="ScrollContainer/CenterContainer/Container/VBoxContainer"]
+[node name="HSeparator" type="HSeparator" parent="CenterContainer/Container/VBoxContainer"]
 custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
 
-[node name="Path" type="Label" parent="ScrollContainer/CenterContainer/Container/VBoxContainer"]
+[node name="Path" type="Label" parent="CenterContainer/Container/VBoxContainer"]
 unique_name_in_owner = true
 custom_minimum_size = Vector2(500, 25)
 layout_mode = 2
 text = "Conjugaison / Indicatif / "
 autowrap_mode = 2
 
-[node name="HSeparator2" type="HSeparator" parent="ScrollContainer/CenterContainer/Container/VBoxContainer"]
+[node name="HSeparator2" type="HSeparator" parent="CenterContainer/Container/VBoxContainer"]
 custom_minimum_size = Vector2(500, 0)
 layout_mode = 2
 
-[node name="Directories_Files_Listing" type="VBoxContainer" parent="ScrollContainer/CenterContainer/Container/VBoxContainer"]
+[node name="ScrollContainer" type="ScrollContainer" parent="CenterContainer/Container/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+follow_focus = true
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/Container/VBoxContainer/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Directories_Files_Listing" type="VBoxContainer" parent="CenterContainer/Container/VBoxContainer/ScrollContainer/VBoxContainer"]
 unique_name_in_owner = true
 layout_mode = 2
 theme_override_constants/separation = 15
 
-[node name="ButtonDirectory" parent="ScrollContainer/CenterContainer/Container/VBoxContainer/Directories_Files_Listing" instance=ExtResource("3_blc0g")]
+[node name="ButtonDirectory" parent="CenterContainer/Container/VBoxContainer/ScrollContainer/VBoxContainer/Directories_Files_Listing" instance=ExtResource("3_blc0g")]
 layout_mode = 2
 
-[node name="TextContent" type="RichTextLabel" parent="ScrollContainer/CenterContainer/Container/VBoxContainer"]
+[node name="TextContent" type="RichTextLabel" parent="CenterContainer/Container/VBoxContainer/ScrollContainer/VBoxContainer"]
 unique_name_in_owner = true
 visible = false
 custom_minimum_size = Vector2(0, 650)
@@ -165,4 +171,4 @@ Pour conjuguer les verbes au présent, on remplace les terminaisons ar/er/ir de 
 
 "
 
-[connection signal="pressed" from="ScrollContainer/CenterContainer/Container/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]
+[connection signal="pressed" from="CenterContainer/Container/VBoxContainer/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]

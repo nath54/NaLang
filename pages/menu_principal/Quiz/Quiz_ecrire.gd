@@ -88,10 +88,12 @@ func init_quiz_display() -> void:
 	var txt_dst: String = "; ".join(PackedStringArray(Global.quiz_all_elements[Global.current_quiz_element][Global.current_lang_dst]));
 	#
 	%LineEdit.text = "";
+	%LineEdit.grab_focus();
+	#
 	if Global.current_quiz_question_sens == Global.QUIZ_SENS_SRC_DST:
-		%Label_Question.text = "Veuillez traduire en %s: %s" % [Global.current_lang_src, txt_src];
+		%Label_Question.text = "Veuillez traduire en [%s] : %s (%s)" % [Global.current_lang_dst, txt_src, Global.current_lang_src];
 	else:
-		%Label_Question.text = "Veuillez traduire en %s: %s" % [Global.current_lang_dst, txt_dst];
+		%Label_Question.text = "Veuillez traduire en [%s] : %s (%s)" % [Global.current_lang_src, txt_dst, Global.current_lang_dst];
 
 #
 func update_display() -> void:
@@ -125,3 +127,10 @@ func _on_bt_validate_pressed():
 
 func _on_bt_next_question_pressed():
 	next_stage_quiz();
+
+
+func _input(event):
+	if Input.is_action_just_pressed("Quiz_Input_Validate") and current_quiz_state in [1, 2]:
+		next_stage_quiz();
+
+

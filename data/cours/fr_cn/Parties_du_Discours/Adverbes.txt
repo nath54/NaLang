@@ -1,0 +1,98 @@
+[font_size=30][center][b][color=#0000FF]Les Adverbes en Chinois[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les adverbes sont des mots qui modifient ou qualifient des verbes, des adjectifs ou d'autres adverbes. En chinois, les adverbes sont essentiels pour exprimer la fréquence, la manière, le degré, et d'autres aspects d'une action ou d'un état.
+
+[font_size=24][color=#4B0082]1. Adverbes de Fréquence[/color][/font_size]
+
+Les adverbes de fréquence indiquent à quelle fréquence une action se produit.
+
+[b]a) Adverbes de fréquence communs[/b]
+[indent]Voici quelques-uns des adverbes de fréquence les plus courants en chinois :
+[code]
+总是 (zǒng shì) [color=#008000](toujours)[/color]
+经常 (jīng cháng) [color=#008000](souvent)[/color]
+平时 (píng shí) [color=#008000](d'habitude)[/color]
+有时 (yǒu shí) [color=#008000](parfois)[/color]
+很少 (hěn shǎo) [color=#008000](rarement)[/color]
+从不 (cóng bù) [color=#008000](jamais)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他总是很忙。[font_size=18pt](Tā zǒng shì hěn máng.)[/font_size][/color] [color=#008000](Il est toujours très occupé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Adverbes de Manière[/color][/font_size]
+
+Les adverbes de manière décrivent comment une action est effectuée.
+
+[b]a) Adverbes de manière communs[/b]
+[indent]Voici quelques adverbes de manière courants en chinois :
+[code]
+快 (kuài) [color=#008000](rapidement)[/color]
+慢 (màn) [color=#008000](lentement)[/color]
+小心 (xiǎo xīn) [color=#008000](prudemment)[/color]
+认真 (rèn zhēn) [color=#008000](sérieusement)[/color]
+安静 (ān jìng) [color=#008000](silencieusement)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]她说得很快。[font_size=18pt](Tā shuō dé hěn kuài.)[/font_size][/color] [color=#008000](Elle parle rapidement.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Adverbes de Degré[/color][/font_size]
+
+Les adverbes de degré modifient l'intensité d'un verbe ou d'un adjectif.
+
+[b]a) Adverbes de degré courants[/b]
+[indent]Voici quelques adverbes de degré courants en chinois :
+[code]
+很 (hěn) [color=#008000](très)[/color]
+非常 (fēi cháng) [color=#008000](extrêmement)[/color]
+太 (tài) [color=#008000](trop)[/color]
+有点 (yǒu diǎn) [color=#008000](un peu)[/color]
+完全 (wán quán) [color=#008000](complètement)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]这本书非常好看。[font_size=18pt](Zhè běn shū fēi cháng hǎo kàn.)[/font_size][/color] [color=#008000](Ce livre est extrêmement intéressant.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Adverbes de Temps[/color][/font_size]
+
+Les adverbes de temps indiquent quand une action se produit.
+
+[b]a) Adverbes de temps courants[/b]
+[indent]Voici quelques adverbes de temps courants en chinois :
+[code]
+现在 (xiàn zài) [color=#008000](maintenant)[/color]
+今天 (jīn tiān) [color=#008000](aujourd'hui)[/color]
+昨天 (zuó tiān) [color=#008000](hier)[/color]
+明天 (míng tiān) [color=#008000](demain)[/color]
+马上 (mǎ shàng) [color=#008000](tout de suite)[/color]
+刚才 (gāng cái) [color=#008000](à l'instant)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]我现在在学习。[font_size=18pt](Wǒ xiàn zài zài xué xí.)[/font_size][/color] [color=#008000](Je suis en train d'étudier maintenant.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Adverbes de Lieu[/color][/font_size]
+
+Les adverbes de lieu indiquent où une action se produit.
+
+[b]a) Adverbes de lieu courants[/b]
+[indent]Voici quelques adverbes de lieu courants en chinois :
+[code]
+这里 (zhè lǐ) [color=#008000](ici)[/color]
+那里 (nà lǐ) [color=#008000](là)[/color]
+哪儿 (nǎ'er) [color=#008000](où)[/color]
+外面 (wài miàn) [color=#008000](dehors)[/color]
+里面 (lǐ miàn) [color=#008000](à l'intérieur)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]他在那里工作。[font_size=18pt](Tā zài nà lǐ gōng zuò.)[/font_size][/color] [color=#008000](Il travaille là-bas.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les adverbes modifient ou qualifient des verbes, des adjectifs ou d'autres adverbes.
+[color=#FF0000]2.[/color] Il existe plusieurs types d'adverbes en chinois : de fréquence, de manière, de degré, de temps, et de lieu.
+[color=#FF0000]3.[/color] Les adverbes de degré sont importants pour exprimer l'intensité d'une action ou d'un état.
+[color=#FF0000]4.[/color] La place des adverbes en chinois peut varier, mais ils se trouvent souvent avant le verbe.[/indent]
+
+[center][font_size=18][color=#808080]掌握这些副词，让你的中文表达更加丰富多彩！(zhǎngwò zhèxiē fùcí, ràng nǐ de zhōngwén biǎodá gèng jiā fēngfù duōcǎi!) [color=#008000](Maîtrisez ces adverbes pour enrichir votre expression en chinois !)[/color][/font_size][/center]

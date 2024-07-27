@@ -1,464 +1,464 @@
 {
-    "name": {
-        "es": "Etapas de la vida social",
-        "fr": "Les étapes de la vie sociale",
-        "en": "Stages of social life",
-        "cn": "社会生活阶段 (she hui sheng huo jie duan)",
-        "de": "Phasen des sozialen Lebens",
-        "ja": "社会生活のステージ (shakai seikatsu no suteeji)",
-        "kr": "사회 생활의 단계 (sahoe saenghwal-ui dan-gye)",
-        "ru": "Этапы социальной жизни (Etapy sotsial'noy zhizni)"
-    },
-    "langs": ["es", "fr", "en", "cn", "de", "ja", "kr", "ru"],
-    "elements": [{
-            "es": ["El estado civil"],
-            "fr": ["L’état civil"],
-            "en": ["Marital status"],
-            "cn": ["婚姻状况", "hun yin zhuang kuang"],
-            "de": ["Familienstand"],
-            "ja": ["婚姻状況", "kon in jou kyo"],
-            "kr": ["결혼 여부", "gyeolhon yeobu"],
-            "ru": ["Семейное положение", "Semeĭnoe polozhenie"]
-        },
-        {
-            "es": ["El registro civil"],
-            "fr": ["Le registre civil"],
-            "en": ["Civil registration"],
-            "cn": ["户口登记", "hu kou deng ji"],
-            "de": ["Standesamt"],
-            "ja": ["戸籍登録", "ko seki tou roku"],
-            "kr": ["시민 등록", "simin deunglog"],
-            "ru": ["Гражданская регистрация", "Grazhdanskaya registratsiya"]
-        },
-        {
-            "es": ["La partida de matrimonio"],
-            "fr": ["L’acte de mariage"],
-            "en": ["Marriage certificate"],
-            "cn": ["结婚证书", "jie hun zheng shu"],
-            "de": ["Heiratsurkunde"],
-            "ja": ["結婚証明書", "kekkon shou mei sho"],
-            "kr": ["결혼 증명서", "gyeolhon jeungmyeongseo"],
-            "ru": ["Свидетельство о браке", "Svidetel'stvo o brake"]
-        },
-        {
-            "es": ["El libro de familia"],
-            "fr": ["Le livret de famille"],
-            "en": ["Family record book"],
-            "cn": ["家庭记录簿", "jia ting ji lu bu"],
-            "de": ["Familienstammbuch"],
-            "ja": ["家族手帳", "kazoku techou"],
-            "kr": ["가족 기록 책", "gajog gigog chaeg"],
-            "ru": ["Семейная книга", "Semeĭnaya kniga"]
-        },
-        {
-            "es": ["El registro de nacimiento"],
-            "fr": ["La déclaration de naissance"],
-            "en": ["Birth registration"],
-            "cn": ["出生登记", "chu sheng deng ji"],
-            "de": ["Geburtsanzeige"],
-            "ja": ["出生届", "shusshou todoke"],
-            "kr": ["출생 신고", "chulsaeng singo"],
-            "ru": ["Регистрация рождения", "Registratsiya rozhdeniya"]
-        },
-        {
-            "es": ["La partida de nacimiento"],
-            "fr": ["L’acte de naissance"],
-            "en": ["Birth certificate"],
-            "cn": ["出生证", "chu sheng zheng"],
-            "de": ["Geburtsurkunde"],
-            "ja": ["出生証明書", "shusshou shou mei sho"],
-            "kr": ["출생 증명서", "chulsaeng jeungmyeongseo"],
-            "ru": ["Свидетельство о рождении", "Svidetel'stvo o rozhdenii"]
-        },
-        {
-            "es": ["La soltería"],
-            "fr": ["Le célibat"],
-            "en": ["Singlehood"],
-            "cn": ["单身", "dan shen"],
-            "de": ["Single-Dasein"],
-            "ja": ["独身", "doku shin"],
-            "kr": ["독신", "dogsin"],
-            "ru": ["Холостяцкая жизнь", "Kholostyatskaya zhizn'"]
-        },
-        {
-            "es": ["Un soltero"],
-            "fr": ["Un célibataire"],
-            "en": ["A single man"],
-            "cn": ["单身男子", "dan shen nan zi"],
-            "de": ["Ein Single-Mann"],
-            "ja": ["独身男性", "doku shin dansei"],
-            "kr": ["독신 남자", "dogsin namja"],
-            "ru": ["Холостяк", "Kholostyak"]
-        },
-        {
-            "es": ["Una soltera"],
-            "fr": ["Une célibataire"],
-            "en": ["A single woman"],
-            "cn": ["单身女子", "dan shen nü zi"],
-            "de": ["Eine Single-Frau"],
-            "ja": ["独身女性", "doku shin josei"],
-            "kr": ["독신 여자", "dogsin yeoja"],
-            "ru": ["Одинокая женщина", "Odinokaya zhenshchina"]
-        },
-        {
-            "es": ["Enamorarse con"],
-            "fr": ["Tomber amoureux de"],
-            "en": ["To fall in love with"],
-            "cn": ["爱上", "ai shang"],
-            "de": ["Sich verlieben in"],
-            "ja": ["恋に落ちる", "koi ni ochiru"],
-            "kr": ["사랑에 빠지다", "salang-e ppajida"],
-            "ru": ["Влюбиться в", "Vlyubit'sya v"]
-        },
-        {
-            "es": ["Declararse"],
-            "fr": ["Se déclarer"],
-            "en": ["To declare oneself"],
-            "cn": ["示爱", "shi ai"],
-            "de": ["Sich erklären"],
-            "ja": ["告白する", "kokuhaku suru"],
-            "kr": ["고백하다", "gobaekhada"],
-            "ru": ["Признаваться", "Priznavat'sya"]
-        },
-        {
-            "es": ["El noviazgo"],
-            "fr": ["Les fiançailles"],
-            "en": ["Engagement"],
-            "cn": ["订婚", "ding hun"],
-            "de": ["Verlobung"],
-            "ja": ["婚約", "kon yaku"],
-            "kr": ["약혼", "yaknon"],
-            "ru": ["Помолвка", "Pomolvka"]
-        },
-        {
-            "es": ["Los novios"],
-            "fr": ["Les fiancés", "Les jeunes mariés"],
-            "en": ["The engaged couple", "The newlyweds"],
-            "cn": ["未婚夫妇", "wei hun fu fu", "新婚夫妇", "xin hun fu fu"],
-            "de": ["Das verlobte Paar", "Das frisch verheiratete Paar"],
-            "ja": ["婚約者", "kon yaku sha", "新婚夫婦", "shin kon fu fu"],
-            "kr": ["약혼한 커플", "yakon han keopeul", "신혼부부", "sin-honbubu"],
-            "ru": ["Помолвленная пара", "Pomolvlennaya para", "Молодожены", "Molodozheny"]
-        },
-        {
-            "es": ["Casarse con"],
-            "fr": ["Se marier avec"],
-            "en": ["To marry"],
-            "cn": ["结婚", "jie hun"],
-            "de": ["Heiraten"],
-            "ja": ["結婚する", "kekkon suru"],
-            "kr": ["결혼하다", "gyeolhonhada"],
-            "ru": ["Жениться", "Zhenit'sya"]
-        },
-        {
-            "es": ["Casarse con alguien por lo civil"],
-            "fr": ["Se marier avec quelqu’un au civil"],
-            "en": ["To marry someone civilly"],
-            "cn": ["民事结婚", "min shi jie hun"],
-            "de": ["Jemanden zivil heiraten"],
-            "ja": ["民事結婚する", "min ji kekkon suru"],
-            "kr": ["시민 결혼하다", "simin gyeolhonhada"],
-            "ru": ["Пожениться", "Pozhenit'sya"]
-        },
-        {
-            "es": ["Casarse con alguien por la Iglesia"],
-            "fr": ["Se marier avec quelqu’un à l’Eglise"],
-            "en": ["To marry someone in the church"],
-            "cn": ["教堂结婚", "jiao tang jie hun"],
-            "de": ["Kirchlich heiraten"],
-            "ja": ["教会で結婚する", "kyoukai de kekkon suru"],
-            "kr": ["교회에서 결혼하다", "gyohoe-eseo gyeolhonhada"],
-            "ru": ["Заключить церковный брак", "Zaklyuchit' tserkovnyĭ brak"]
-        },
-        {
-            "es": ["El matrimonio"],
-            "fr": ["Le mariage"],
-            "en": ["Marriage"],
-            "cn": ["婚姻", "hun yin"],
-            "de": ["Ehe"],
-            "ja": ["結婚", "kekkon"],
-            "kr": ["결혼", "gyeolhon"],
-            "ru": ["Брак", "Brak"]
-        },
-        {
-            "es": ["El matrimonio civil"],
-            "fr": ["Le mariage civil"],
-            "en": ["Civil marriage"],
-            "cn": ["民事婚姻", "min shi hun yin"],
-            "de": ["Zivilehe"],
-            "ja": ["市民結婚", "shimin kekkon"],
-            "kr": ["시민 결혼", "simin kyeolhon"],
-            "ru": ["Гражданский брак", "Grazhdansky brak"]
-        },
-        {
-            "es": ["El matrimonio canónico"],
-            "fr": ["Le mariage religieux"],
-            "en": ["Canonical marriage"],
-            "cn": ["宗教婚姻", "zong jiao hun yin"],
-            "de": ["Kirchliche Ehe"],
-            "ja": ["宗教結婚", "shukyou kekkon"],
-            "kr": ["종교 결혼", "jonggyo gyeolhon"],
-            "ru": ["Канонический брак", "Kanonicheskiĭ brak"]
-        },
-        {
-            "es": ["El marido"],
-            "fr": ["Le mari"],
-            "en": ["Husband"],
-            "cn": ["丈夫", "zhang fu"],
-            "de": ["Ehemann"],
-            "ja": ["夫", "otto"],
-            "kr": ["남편", "nampyeon"],
-            "ru": ["Муж", "Muzh"]
-        },
-        {
-            "es": ["La mujer"],
-            "fr": ["La femme"],
-            "en": ["Wife"],
-            "cn": ["妻子", "qi zi"],
-            "de": ["Ehefrau"],
-            "ja": ["妻", "tsuma"],
-            "kr": ["아내", "anae"],
-            "ru": ["Жена", "Zhena"]
-        },
-        {
-            "es": ["El esposo"],
-            "fr": ["L’époux"],
-            "en": ["Husband"],
-            "cn": ["丈夫", "zhang fu"],
-            "de": ["Ehemann"],
-            "ja": ["夫", "otto"],
-            "kr": ["배우자", "bae-uja"],
-            "ru": ["Супруг", "Suprug"]
-        },
-        {
-            "es": ["La esposa"],
-            "fr": ["L’épouse"],
-            "en": ["Wife"],
-            "cn": ["妻子", "qi zi"],
-            "de": ["Ehefrau"],
-            "ja": ["妻", "tsuma"],
-            "kr": ["배우자", "bae-uja"],
-            "ru": ["Супруга", "Supruga"]
-        },
-        {
-            "es": ["Los cónyuges"],
-            "fr": ["Les conjoints"],
-            "en": ["Spouses"],
-            "cn": ["配偶", "pei ou"],
-            "de": ["Ehepartner"],
-            "ja": ["配偶者", "hai guu sha"],
-            "kr": ["배우자", "bae-uja"],
-            "ru": ["Супруги", "Suprugi"]
-        },
-        {
-            "es": ["Una pareja de hecho"],
-            "fr": ["Un PACS", "Un pacte civil de solidarité"],
-            "en": ["Civil union", "Domestic partnership"],
-            "cn": ["民事结合", "min shi jie he", "同居伴侣", "tong ju ban lü"],
-            "de": ["Lebenspartnerschaft", "Eingetragene Lebenspartnerschaft"],
-            "ja": ["市民結合", "shimin ketsugou", "同棲パートナー", "dousei paatonaa"],
-            "kr": ["시민 연합", "simin yeonhab", "동거 동반자", "dong-geo dongbanja"],
-            "ru": ["Гражданский союз", "Grazhdansky soyuz", "Партнерские отношения", "Partnerskie otnosheniya"]
-        },
-        {
-            "es": ["El concubinato"],
-            "fr": ["Le concubinage"],
-            "en": ["Cohabitation"],
-            "cn": ["同居", "tong ju"],
-            "de": ["Konkubinat"],
-            "ja": ["同棲", "dousei"],
-            "kr": ["동거", "dong-geo"],
-            "ru": ["Сожительство", "Sozhitel'stvo"]
-        },
-        {
-            "es": ["Quedarse embarazada"],
-            "fr": ["Tomber enceinte"],
-            "en": ["To get pregnant"],
-            "cn": ["怀孕", "huai yun"],
-            "de": ["Schwanger werden"],
-            "ja": ["妊娠する", "ninshin suru"],
-            "kr": ["임신하다", "imsinhada"],
-            "ru": ["Забеременеть", "Zaberemenet'"]
-        },
-        {
-            "es": ["Estar en estado"],
-            "fr": ["Etre enceinte"],
-            "en": ["To be pregnant"],
-            "cn": ["怀孕", "huai yun"],
-            "de": ["Schwanger sein"],
-            "ja": ["妊娠している", "ninshin shiteiru"],
-            "kr": ["임신 중이다", "imsin jung-ida"],
-            "ru": ["Быть беременной", "Byt' beremennoy"]
-        },
-        {
-            "es": ["Estar de … meses"],
-            "fr": ["Être enceinte de … mois"],
-            "en": ["To be ... months pregnant"],
-            "cn": ["怀孕…个月", "huai yun ... ge yue"],
-            "de": ["... Monate schwanger sein"],
-            "ja": ["…ヶ月妊娠している", "... katsu getsu ninshin shiteiru"],
-            "kr": ["... 개월 임신 중이다", "... gae-wol imsin jung-ida"],
-            "ru": ["Быть беременной ... месяцев", "Byt' beremennoy ... mesyatsev"]
-        },
-        {
-            "es": ["El embarazo"],
-            "fr": ["La grossesse"],
-            "en": ["Pregnancy"],
-            "cn": ["怀孕期", "huai yun qi"],
-            "de": ["Schwangerschaft"],
-            "ja": ["妊娠", "ninshin"],
-            "kr": ["임신", "imsin"],
-            "ru": ["Беременность", "Beremennost'"]
-        },
-        {
-            "es": ["El nacimiento"],
-            "fr": ["La naissance"],
-            "en": ["Birth"],
-            "cn": ["出生", "chu sheng"],
-            "de": ["Geburt"],
-            "ja": ["誕生", "tanjou"],
-            "kr": ["출생", "chulsaeng"],
-            "ru": ["Рождение", "Rozhdenie"]
-        },
-        {
-            "es": ["Dar a luz"],
-            "fr": ["Accoucher"],
-            "en": ["To give birth"],
-            "cn": ["生孩子", "sheng hai zi"],
-            "de": ["Gebären"],
-            "ja": ["出産する", "shussan suru"],
-            "kr": ["출산하다", "chulsanhada"],
-            "ru": ["Родить ребенка", "Rodit' rebenka"]
-        },
-        {
-            "es": ["Tener hijos"],
-            "fr": ["Avoir des enfants"],
-            "en": ["To have children"],
-            "cn": ["有孩子", "you hai zi"],
-            "de": ["Kinder haben"],
-            "ja": ["子供を持つ", "kodomo wo motsu"],
-            "kr": ["아이를 갖다", "a-i reul gatda"],
-            "ru": ["Иметь детей", "Imet' detey"]
-        },
-        {
-            "es": ["La familia numerosa"],
-            "fr": ["La famille nombreuse"],
-            "en": ["Large family"],
-            "cn": ["大家庭", "da jia ting"],
-            "de": ["Großfamilie"],
-            "ja": ["大家族", "dai kazoku"],
-            "kr": ["대가족", "daegajog"],
-            "ru": ["Большая семья", "Bol'shaya sem'ya"]
-        },
-        {
-            "es": ["La familia pequeña"],
-            "fr": ["La petite famille"],
-            "en": ["Small family"],
-            "cn": ["小家庭", "xiao jia ting"],
-            "de": ["Kleine Familie"],
-            "ja": ["小家族", "shou kazoku"],
-            "kr": ["소가족", "sogajog"],
-            "ru": ["Малая семья", "Malaya sem'ya"]
-        },
-        {
-            "es": ["La familia monoparental"],
-            "fr": ["La famille monoparentale"],
-            "en": ["Single-parent family"],
-            "cn": ["单亲家庭", "dan qin jia ting"],
-            "de": ["Alleinerziehende Familie"],
-            "ja": ["ひとり親家庭", "hitori oya katei"],
-            "kr": ["한부모 가족", "hanbumo gajog"],
-            "ru": ["Семья с одним родителем", "Sem'ya s odnim roditelem"]
-        },
-        {
-            "es": ["La familia reconstituida"],
-            "fr": ["La famille recomposée"],
-            "en": ["Blended family"],
-            "cn": ["重组家庭", "chong zu jia ting"],
-            "de": ["Patchworkfamilie"],
-            "ja": ["再婚家庭", "saikon katei"],
-            "kr": ["재혼 가족", "jaehon gajog"],
-            "ru": ["Смешанная семья", "Smeshannaya sem'ya"]
-        },
-        {
-            "es": ["La separación"],
-            "fr": ["La séparation"],
-            "en": ["Separation"],
-            "cn": ["分居", "fen ju"],
-            "de": ["Trennung"],
-            "ja": ["離別", "riben"],
-            "kr": ["별거", "byeolgo"],
-            "ru": ["Раздельное проживание", "Razdel'noe prozhivanie"]
-        },
-        {
-            "es": ["Separarse"],
-            "fr": ["Se séparer"],
-            "en": ["To separate"],
-            "cn": ["分开", "fen kai"],
-            "de": ["Sich trennen"],
-            "ja": ["別れる", "wakareru"],
-            "kr": ["헤어지다", "he-eojida"],
-            "ru": ["Разделиться", "Razdelyat'sya"]
-        },
-        {
-            "es": ["El divorcio"],
-            "fr": ["Le divorce"],
-            "en": ["Divorce"],
-            "cn": ["离婚", "li hun"],
-            "de": ["Scheidung"],
-            "ja": ["離婚", "rikon"],
-            "kr": ["이혼", "ihon"],
-            "ru": ["Развод", "Razvod"]
-        },
-        {
-            "es": ["Divorciarse"],
-            "fr": ["Divorcer"],
-            "en": ["To get divorced"],
-            "cn": ["离婚", "li hun"],
-            "de": ["Sich scheiden lassen"],
-            "ja": ["離婚する", "rikon suru"],
-            "kr": ["이혼하다", "ihonhada"],
-            "ru": ["Разводиться", "Razvodit'sya"]
-        },
-        {
-            "es": ["La vuidedad"],
-            "fr": ["Le veuvage"],
-            "en": ["Widowhood"],
-            "cn": ["寡居", "gua ju"],
-            "de": ["Witwenschaft"],
-            "ja": ["未亡人であること", "miboujin de aru koto"],
-            "kr": ["과부", "gwabu"],
-            "ru": ["Вдовство", "Vdovstvo"]
-        },
-        {
-            "es": ["Un viudo"],
-            "fr": ["Un veuf"],
-            "en": ["A widower"],
-            "cn": ["鳏夫", "guan fu"],
-            "de": ["Ein Witwer"],
-            "ja": ["男やもめ", "otoko yamo me"],
-            "kr": ["홀아비", "holabi"],
-            "ru": ["Вдовец", "Vdovets"]
-        },
-        {
-            "es": ["Una viuda"],
-            "fr": ["Une veuve"],
-            "en": ["A widow"],
-            "cn": ["寡妇", "gua fu"],
-            "de": ["Eine Witwe"],
-            "ja": ["未亡人", "mibou jin"],
-            "kr": ["미망인", "mimang-in"],
-            "ru": ["Вдова", "Vdova"]
-        },
-        {
-            "es": ["Enviudar"],
-            "fr": ["Devenir veuf", "Devenir veuve"],
-            "en": ["To become a widower", "To become a widow"],
-            "cn": ["成为鳏夫", "cheng wei guan fu", "成为寡妇", "cheng wei gua fu"],
-            "de": ["Witwer werden", "Witwe werden"],
-            "ja": ["男やもめになる", "otoko yamo me ni naru", "未亡人になる", "mibou jin ni naru"],
-            "kr": ["홀아비가 되다", "holabiga doeda", "미망인이 되다", "mimang-ini doeda"],
-            "ru": ["Стать вдовцом", "Stat' vdovtsom", "Стать вдовой", "Stat' vdovoy"]
-        }
-    ]
+	"name": {
+		"es": "Etapas de la vida social",
+		"fr": "Les étapes de la vie sociale",
+		"en": "Stages of social life",
+		"cn": "社会生活阶段 (she hui sheng huo jie duan)",
+		"de": "Phasen des sozialen Lebens",
+		"jp": "社会生活のステージ (shakai seikatsu no suteeji)",
+		"kr": "사회 생활의 단계 (sahoe saenghwal-ui dan-gye)",
+		"ru": "Этапы социальной жизни (Etapy sotsial'noy zhizni)"
+	},
+	"langs": ["es", "fr", "en", "cn", "de", "jp", "kr", "ru"],
+	"elements": [{
+			"es": ["El estado civil"],
+			"fr": ["L’état civil"],
+			"en": ["Marital status"],
+			"cn": ["婚姻状况", "hun yin zhuang kuang"],
+			"de": ["Familienstand"],
+			"jp": ["婚姻状況", "kon in jou kyo"],
+			"kr": ["결혼 여부", "gyeolhon yeobu"],
+			"ru": ["Семейное положение", "Semeĭnoe polozhenie"]
+		},
+		{
+			"es": ["El registro civil"],
+			"fr": ["Le registre civil"],
+			"en": ["Civil registration"],
+			"cn": ["户口登记", "hu kou deng ji"],
+			"de": ["Standesamt"],
+			"jp": ["戸籍登録", "ko seki tou roku"],
+			"kr": ["시민 등록", "simin deunglog"],
+			"ru": ["Гражданская регистрация", "Grazhdanskaya registratsiya"]
+		},
+		{
+			"es": ["La partida de matrimonio"],
+			"fr": ["L’acte de mariage"],
+			"en": ["Marriage certificate"],
+			"cn": ["结婚证书", "jie hun zheng shu"],
+			"de": ["Heiratsurkunde"],
+			"jp": ["結婚証明書", "kekkon shou mei sho"],
+			"kr": ["결혼 증명서", "gyeolhon jeungmyeongseo"],
+			"ru": ["Свидетельство о браке", "Svidetel'stvo o brake"]
+		},
+		{
+			"es": ["El libro de familia"],
+			"fr": ["Le livret de famille"],
+			"en": ["Family record book"],
+			"cn": ["家庭记录簿", "jia ting ji lu bu"],
+			"de": ["Familienstammbuch"],
+			"jp": ["家族手帳", "kazoku techou"],
+			"kr": ["가족 기록 책", "gajog gigog chaeg"],
+			"ru": ["Семейная книга", "Semeĭnaya kniga"]
+		},
+		{
+			"es": ["El registro de nacimiento"],
+			"fr": ["La déclaration de naissance"],
+			"en": ["Birth registration"],
+			"cn": ["出生登记", "chu sheng deng ji"],
+			"de": ["Geburtsanzeige"],
+			"jp": ["出生届", "shusshou todoke"],
+			"kr": ["출생 신고", "chulsaeng singo"],
+			"ru": ["Регистрация рождения", "Registratsiya rozhdeniya"]
+		},
+		{
+			"es": ["La partida de nacimiento"],
+			"fr": ["L’acte de naissance"],
+			"en": ["Birth certificate"],
+			"cn": ["出生证", "chu sheng zheng"],
+			"de": ["Geburtsurkunde"],
+			"jp": ["出生証明書", "shusshou shou mei sho"],
+			"kr": ["출생 증명서", "chulsaeng jeungmyeongseo"],
+			"ru": ["Свидетельство о рождении", "Svidetel'stvo o rozhdenii"]
+		},
+		{
+			"es": ["La soltería"],
+			"fr": ["Le célibat"],
+			"en": ["Singlehood"],
+			"cn": ["单身", "dan shen"],
+			"de": ["Single-Dasein"],
+			"jp": ["独身", "doku shin"],
+			"kr": ["독신", "dogsin"],
+			"ru": ["Холостяцкая жизнь", "Kholostyatskaya zhizn'"]
+		},
+		{
+			"es": ["Un soltero"],
+			"fr": ["Un célibataire"],
+			"en": ["A single man"],
+			"cn": ["单身男子", "dan shen nan zi"],
+			"de": ["Ein Single-Mann"],
+			"jp": ["独身男性", "doku shin dansei"],
+			"kr": ["독신 남자", "dogsin namja"],
+			"ru": ["Холостяк", "Kholostyak"]
+		},
+		{
+			"es": ["Una soltera"],
+			"fr": ["Une célibataire"],
+			"en": ["A single woman"],
+			"cn": ["单身女子", "dan shen nü zi"],
+			"de": ["Eine Single-Frau"],
+			"jp": ["独身女性", "doku shin josei"],
+			"kr": ["독신 여자", "dogsin yeoja"],
+			"ru": ["Одинокая женщина", "Odinokaya zhenshchina"]
+		},
+		{
+			"es": ["Enamorarse con"],
+			"fr": ["Tomber amoureux de"],
+			"en": ["To fall in love with"],
+			"cn": ["爱上", "ai shang"],
+			"de": ["Sich verlieben in"],
+			"jp": ["恋に落ちる", "koi ni ochiru"],
+			"kr": ["사랑에 빠지다", "salang-e ppajida"],
+			"ru": ["Влюбиться в", "Vlyubit'sya v"]
+		},
+		{
+			"es": ["Declararse"],
+			"fr": ["Se déclarer"],
+			"en": ["To declare oneself"],
+			"cn": ["示爱", "shi ai"],
+			"de": ["Sich erklären"],
+			"jp": ["告白する", "kokuhaku suru"],
+			"kr": ["고백하다", "gobaekhada"],
+			"ru": ["Признаваться", "Priznavat'sya"]
+		},
+		{
+			"es": ["El noviazgo"],
+			"fr": ["Les fiançailles"],
+			"en": ["Engagement"],
+			"cn": ["订婚", "ding hun"],
+			"de": ["Verlobung"],
+			"jp": ["婚約", "kon yaku"],
+			"kr": ["약혼", "yaknon"],
+			"ru": ["Помолвка", "Pomolvka"]
+		},
+		{
+			"es": ["Los novios"],
+			"fr": ["Les fiancés", "Les jeunes mariés"],
+			"en": ["The engaged couple", "The newlyweds"],
+			"cn": ["未婚夫妇", "wei hun fu fu", "新婚夫妇", "xin hun fu fu"],
+			"de": ["Das verlobte Paar", "Das frisch verheiratete Paar"],
+			"jp": ["婚約者", "kon yaku sha", "新婚夫婦", "shin kon fu fu"],
+			"kr": ["약혼한 커플", "yakon han keopeul", "신혼부부", "sin-honbubu"],
+			"ru": ["Помолвленная пара", "Pomolvlennaya para", "Молодожены", "Molodozheny"]
+		},
+		{
+			"es": ["Casarse con"],
+			"fr": ["Se marier avec"],
+			"en": ["To marry"],
+			"cn": ["结婚", "jie hun"],
+			"de": ["Heiraten"],
+			"jp": ["結婚する", "kekkon suru"],
+			"kr": ["결혼하다", "gyeolhonhada"],
+			"ru": ["Жениться", "Zhenit'sya"]
+		},
+		{
+			"es": ["Casarse con alguien por lo civil"],
+			"fr": ["Se marier avec quelqu’un au civil"],
+			"en": ["To marry someone civilly"],
+			"cn": ["民事结婚", "min shi jie hun"],
+			"de": ["Jemanden zivil heiraten"],
+			"jp": ["民事結婚する", "min ji kekkon suru"],
+			"kr": ["시민 결혼하다", "simin gyeolhonhada"],
+			"ru": ["Пожениться", "Pozhenit'sya"]
+		},
+		{
+			"es": ["Casarse con alguien por la Iglesia"],
+			"fr": ["Se marier avec quelqu’un à l’Eglise"],
+			"en": ["To marry someone in the church"],
+			"cn": ["教堂结婚", "jiao tang jie hun"],
+			"de": ["Kirchlich heiraten"],
+			"jp": ["教会で結婚する", "kyoukai de kekkon suru"],
+			"kr": ["교회에서 결혼하다", "gyohoe-eseo gyeolhonhada"],
+			"ru": ["Заключить церковный брак", "Zaklyuchit' tserkovnyĭ brak"]
+		},
+		{
+			"es": ["El matrimonio"],
+			"fr": ["Le mariage"],
+			"en": ["Marriage"],
+			"cn": ["婚姻", "hun yin"],
+			"de": ["Ehe"],
+			"jp": ["結婚", "kekkon"],
+			"kr": ["결혼", "gyeolhon"],
+			"ru": ["Брак", "Brak"]
+		},
+		{
+			"es": ["El matrimonio civil"],
+			"fr": ["Le mariage civil"],
+			"en": ["Civil marriage"],
+			"cn": ["民事婚姻", "min shi hun yin"],
+			"de": ["Zivilehe"],
+			"jp": ["市民結婚", "shimin kekkon"],
+			"kr": ["시민 결혼", "simin kyeolhon"],
+			"ru": ["Гражданский брак", "Grazhdansky brak"]
+		},
+		{
+			"es": ["El matrimonio canónico"],
+			"fr": ["Le mariage religieux"],
+			"en": ["Canonical marriage"],
+			"cn": ["宗教婚姻", "zong jiao hun yin"],
+			"de": ["Kirchliche Ehe"],
+			"jp": ["宗教結婚", "shukyou kekkon"],
+			"kr": ["종교 결혼", "jonggyo gyeolhon"],
+			"ru": ["Канонический брак", "Kanonicheskiĭ brak"]
+		},
+		{
+			"es": ["El marido"],
+			"fr": ["Le mari"],
+			"en": ["Husband"],
+			"cn": ["丈夫", "zhang fu"],
+			"de": ["Ehemann"],
+			"jp": ["夫", "otto"],
+			"kr": ["남편", "nampyeon"],
+			"ru": ["Муж", "Muzh"]
+		},
+		{
+			"es": ["La mujer"],
+			"fr": ["La femme"],
+			"en": ["Wife"],
+			"cn": ["妻子", "qi zi"],
+			"de": ["Ehefrau"],
+			"jp": ["妻", "tsuma"],
+			"kr": ["아내", "anae"],
+			"ru": ["Жена", "Zhena"]
+		},
+		{
+			"es": ["El esposo"],
+			"fr": ["L’époux"],
+			"en": ["Husband"],
+			"cn": ["丈夫", "zhang fu"],
+			"de": ["Ehemann"],
+			"jp": ["夫", "otto"],
+			"kr": ["배우자", "bae-uja"],
+			"ru": ["Супруг", "Suprug"]
+		},
+		{
+			"es": ["La esposa"],
+			"fr": ["L’épouse"],
+			"en": ["Wife"],
+			"cn": ["妻子", "qi zi"],
+			"de": ["Ehefrau"],
+			"jp": ["妻", "tsuma"],
+			"kr": ["배우자", "bae-uja"],
+			"ru": ["Супруга", "Supruga"]
+		},
+		{
+			"es": ["Los cónyuges"],
+			"fr": ["Les conjoints"],
+			"en": ["Spouses"],
+			"cn": ["配偶", "pei ou"],
+			"de": ["Ehepartner"],
+			"jp": ["配偶者", "hai guu sha"],
+			"kr": ["배우자", "bae-uja"],
+			"ru": ["Супруги", "Suprugi"]
+		},
+		{
+			"es": ["Una pareja de hecho"],
+			"fr": ["Un PACS", "Un pacte civil de solidarité"],
+			"en": ["Civil union", "Domestic partnership"],
+			"cn": ["民事结合", "min shi jie he", "同居伴侣", "tong ju ban lü"],
+			"de": ["Lebenspartnerschaft", "Eingetragene Lebenspartnerschaft"],
+			"jp": ["市民結合", "shimin ketsugou", "同棲パートナー", "dousei paatonaa"],
+			"kr": ["시민 연합", "simin yeonhab", "동거 동반자", "dong-geo dongbanja"],
+			"ru": ["Гражданский союз", "Grazhdansky soyuz", "Партнерские отношения", "Partnerskie otnosheniya"]
+		},
+		{
+			"es": ["El concubinato"],
+			"fr": ["Le concubinage"],
+			"en": ["Cohabitation"],
+			"cn": ["同居", "tong ju"],
+			"de": ["Konkubinat"],
+			"jp": ["同棲", "dousei"],
+			"kr": ["동거", "dong-geo"],
+			"ru": ["Сожительство", "Sozhitel'stvo"]
+		},
+		{
+			"es": ["Quedarse embarazada"],
+			"fr": ["Tomber enceinte"],
+			"en": ["To get pregnant"],
+			"cn": ["怀孕", "huai yun"],
+			"de": ["Schwanger werden"],
+			"jp": ["妊娠する", "ninshin suru"],
+			"kr": ["임신하다", "imsinhada"],
+			"ru": ["Забеременеть", "Zaberemenet'"]
+		},
+		{
+			"es": ["Estar en estado"],
+			"fr": ["Etre enceinte"],
+			"en": ["To be pregnant"],
+			"cn": ["怀孕", "huai yun"],
+			"de": ["Schwanger sein"],
+			"jp": ["妊娠している", "ninshin shiteiru"],
+			"kr": ["임신 중이다", "imsin jung-ida"],
+			"ru": ["Быть беременной", "Byt' beremennoy"]
+		},
+		{
+			"es": ["Estar de … meses"],
+			"fr": ["Être enceinte de … mois"],
+			"en": ["To be ... months pregnant"],
+			"cn": ["怀孕…个月", "huai yun ... ge yue"],
+			"de": ["... Monate schwanger sein"],
+			"jp": ["…ヶ月妊娠している", "... katsu getsu ninshin shiteiru"],
+			"kr": ["... 개월 임신 중이다", "... gae-wol imsin jung-ida"],
+			"ru": ["Быть беременной ... месяцев", "Byt' beremennoy ... mesyatsev"]
+		},
+		{
+			"es": ["El embarazo"],
+			"fr": ["La grossesse"],
+			"en": ["Pregnancy"],
+			"cn": ["怀孕期", "huai yun qi"],
+			"de": ["Schwangerschaft"],
+			"jp": ["妊娠", "ninshin"],
+			"kr": ["임신", "imsin"],
+			"ru": ["Беременность", "Beremennost'"]
+		},
+		{
+			"es": ["El nacimiento"],
+			"fr": ["La naissance"],
+			"en": ["Birth"],
+			"cn": ["出生", "chu sheng"],
+			"de": ["Geburt"],
+			"jp": ["誕生", "tanjou"],
+			"kr": ["출생", "chulsaeng"],
+			"ru": ["Рождение", "Rozhdenie"]
+		},
+		{
+			"es": ["Dar a luz"],
+			"fr": ["Accoucher"],
+			"en": ["To give birth"],
+			"cn": ["生孩子", "sheng hai zi"],
+			"de": ["Gebären"],
+			"jp": ["出産する", "shussan suru"],
+			"kr": ["출산하다", "chulsanhada"],
+			"ru": ["Родить ребенка", "Rodit' rebenka"]
+		},
+		{
+			"es": ["Tener hijos"],
+			"fr": ["Avoir des enfants"],
+			"en": ["To have children"],
+			"cn": ["有孩子", "you hai zi"],
+			"de": ["Kinder haben"],
+			"jp": ["子供を持つ", "kodomo wo motsu"],
+			"kr": ["아이를 갖다", "a-i reul gatda"],
+			"ru": ["Иметь детей", "Imet' detey"]
+		},
+		{
+			"es": ["La familia numerosa"],
+			"fr": ["La famille nombreuse"],
+			"en": ["Large family"],
+			"cn": ["大家庭", "da jia ting"],
+			"de": ["Großfamilie"],
+			"jp": ["大家族", "dai kazoku"],
+			"kr": ["대가족", "daegajog"],
+			"ru": ["Большая семья", "Bol'shaya sem'ya"]
+		},
+		{
+			"es": ["La familia pequeña"],
+			"fr": ["La petite famille"],
+			"en": ["Small family"],
+			"cn": ["小家庭", "xiao jia ting"],
+			"de": ["Kleine Familie"],
+			"jp": ["小家族", "shou kazoku"],
+			"kr": ["소가족", "sogajog"],
+			"ru": ["Малая семья", "Malaya sem'ya"]
+		},
+		{
+			"es": ["La familia monoparental"],
+			"fr": ["La famille monoparentale"],
+			"en": ["Single-parent family"],
+			"cn": ["单亲家庭", "dan qin jia ting"],
+			"de": ["Alleinerziehende Familie"],
+			"jp": ["ひとり親家庭", "hitori oya katei"],
+			"kr": ["한부모 가족", "hanbumo gajog"],
+			"ru": ["Семья с одним родителем", "Sem'ya s odnim roditelem"]
+		},
+		{
+			"es": ["La familia reconstituida"],
+			"fr": ["La famille recomposée"],
+			"en": ["Blended family"],
+			"cn": ["重组家庭", "chong zu jia ting"],
+			"de": ["Patchworkfamilie"],
+			"jp": ["再婚家庭", "saikon katei"],
+			"kr": ["재혼 가족", "jaehon gajog"],
+			"ru": ["Смешанная семья", "Smeshannaya sem'ya"]
+		},
+		{
+			"es": ["La separación"],
+			"fr": ["La séparation"],
+			"en": ["Separation"],
+			"cn": ["分居", "fen ju"],
+			"de": ["Trennung"],
+			"jp": ["離別", "riben"],
+			"kr": ["별거", "byeolgo"],
+			"ru": ["Раздельное проживание", "Razdel'noe prozhivanie"]
+		},
+		{
+			"es": ["Separarse"],
+			"fr": ["Se séparer"],
+			"en": ["To separate"],
+			"cn": ["分开", "fen kai"],
+			"de": ["Sich trennen"],
+			"jp": ["別れる", "wakareru"],
+			"kr": ["헤어지다", "he-eojida"],
+			"ru": ["Разделиться", "Razdelyat'sya"]
+		},
+		{
+			"es": ["El divorcio"],
+			"fr": ["Le divorce"],
+			"en": ["Divorce"],
+			"cn": ["离婚", "li hun"],
+			"de": ["Scheidung"],
+			"jp": ["離婚", "rikon"],
+			"kr": ["이혼", "ihon"],
+			"ru": ["Развод", "Razvod"]
+		},
+		{
+			"es": ["Divorciarse"],
+			"fr": ["Divorcer"],
+			"en": ["To get divorced"],
+			"cn": ["离婚", "li hun"],
+			"de": ["Sich scheiden lassen"],
+			"jp": ["離婚する", "rikon suru"],
+			"kr": ["이혼하다", "ihonhada"],
+			"ru": ["Разводиться", "Razvodit'sya"]
+		},
+		{
+			"es": ["La vuidedad"],
+			"fr": ["Le veuvage"],
+			"en": ["Widowhood"],
+			"cn": ["寡居", "gua ju"],
+			"de": ["Witwenschaft"],
+			"jp": ["未亡人であること", "miboujin de aru koto"],
+			"kr": ["과부", "gwabu"],
+			"ru": ["Вдовство", "Vdovstvo"]
+		},
+		{
+			"es": ["Un viudo"],
+			"fr": ["Un veuf"],
+			"en": ["A widower"],
+			"cn": ["鳏夫", "guan fu"],
+			"de": ["Ein Witwer"],
+			"jp": ["男やもめ", "otoko yamo me"],
+			"kr": ["홀아비", "holabi"],
+			"ru": ["Вдовец", "Vdovets"]
+		},
+		{
+			"es": ["Una viuda"],
+			"fr": ["Une veuve"],
+			"en": ["A widow"],
+			"cn": ["寡妇", "gua fu"],
+			"de": ["Eine Witwe"],
+			"jp": ["未亡人", "mibou jin"],
+			"kr": ["미망인", "mimang-in"],
+			"ru": ["Вдова", "Vdova"]
+		},
+		{
+			"es": ["Enviudar"],
+			"fr": ["Devenir veuf", "Devenir veuve"],
+			"en": ["To become a widower", "To become a widow"],
+			"cn": ["成为鳏夫", "cheng wei guan fu", "成为寡妇", "cheng wei gua fu"],
+			"de": ["Witwer werden", "Witwe werden"],
+			"jp": ["男やもめになる", "otoko yamo me ni naru", "未亡人になる", "mibou jin ni naru"],
+			"kr": ["홀아비가 되다", "holabiga doeda", "미망인이 되다", "mimang-ini doeda"],
+			"ru": ["Стать вдовцом", "Stat' vdovtsom", "Стать вдовой", "Stat' vdovoy"]
+		}
+	]
 }

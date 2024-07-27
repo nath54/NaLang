@@ -1,3 +1,9 @@
+Je suis en train de créer une application pour apprendre de nouvelles langues.
+Cette application contient des cours organisés de manière hierarchique, avec des chapitres, des sous-chapitres, etc...
+
+Voici un exemple de leçon, du cours pour apprendre le Chinois / Mandarin : `cours\fr_cn\Grammaire\Structures_Avancées\Complément_de_Direction.txt`
+
+````bbcode
 [font_size=30][center][b][color=#0000FF]Les Compléments de Direction en Chinois[/color][/b][/center][/font_size]
 
 [center][color=#808080]__________[/color][/center]
@@ -75,3 +81,14 @@ Pour ajouter des indications supplémentaires comme le lieu ou le but de l'actio
 [color=#FF0000]4.[/color] Les compléments de direction peuvent être enrichis par des informations sur le lieu ou le but de l'action.[/indent]
 
 [center][font_size=18][color=#808080]正确使用方向补语，令你的中文表达更加自然流畅！(zhèngquè shǐyòng fāngxiàng bǔyǔ, lìng nǐ de zhōngwén biǎodá gèng jiā zìrán liúchàng!)[/color][/font_size][/center]
+```
+
+On remarque que les cours sont de format plein texte en utilisant des balises bbcode, qui sont utilisés par les Nodes RichTextLabel de Godot Engine. Les balises à utiliser sont : [b] (gras), [color] (couleur], [i] (italique), [indent] (ajouter une indentation), [font_size] (changer la taille de la police de caractère), [code] (pour styliser les exemples), [center] pour centrer le texte sur la ligne.
+Il ne faut pas utiliser/inventer d'autres balises. De plus, très important, quand on ouvre une balise, on la referme après !!!
+Il ne faut pas utiliser de markdown, cela n'est pas traité.
+
+Les leçons doivent donc respecter un certain standard et format (que l'on peut voir dans l'exemple). De plus, les leçons / cours / notions doivent être clairs, agréables à lire, complets, détaillés, et faciles à comprendre.
+
+Autre règle: Pour tous les mots / expressions / exemples / traductions en alphabet non latin, il faut absolument mettre juste après entre parenthèse la prononciation / traduction en language latin.
+Par exemple : `最常用的100个动词 (zui chang yong de 100 ge dong ci)`.
+Cette règle est super importante pour la compréhension des lecteurs qui ne connaissent pas encore l'alphabet non latin de la langue.
