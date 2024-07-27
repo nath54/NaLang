@@ -1,13 +1,13 @@
-[gd_scene load_steps=8 format=3 uid="uid://d013h3og61ea2"]
+[gd_scene load_steps=8 format=3 uid="uid://dsyrsefer0lbe"]
 
-[ext_resource type="Script" path="res://pages/menu_principal/MainMenu.gd" id="1_ai6pd"]
-[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="1_cuyiy"]
-[ext_resource type="Texture2D" uid="uid://csfumuixporbi" path="res://res/Flags/fr.svg" id="3_ihvs5"]
-[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="4_2f6tj"]
-[ext_resource type="Texture2D" uid="uid://bughjxo6wga5s" path="res://res/Flags/es.svg" id="4_625v4"]
+[ext_resource type="Script" path="res://pages/menu_principal/MainMenu.gd" id="1_af0ch"]
+[ext_resource type="FontFile" uid="uid://yt2613vljm7s" path="res://res/Merriweather/Merriweather-Italic.ttf" id="2_iclo8"]
+[ext_resource type="Texture2D" uid="uid://csfumuixporbi" path="res://res/Flags/fr.svg" id="3_n738d"]
+[ext_resource type="FontFile" uid="uid://bsr8nhufh0a8q" path="res://res/Merriweather/Merriweather-Regular.ttf" id="4_1tnei"]
+[ext_resource type="Texture2D" uid="uid://bughjxo6wga5s" path="res://res/Flags/es.svg" id="5_7s0t3"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_irfoa"]
-font = ExtResource("4_2f6tj")
+font = ExtResource("4_1tnei")
 font_size = 40
 outline_size = 5
 outline_color = Color(0, 0, 0, 1)
@@ -23,7 +23,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_ai6pd")
+script = ExtResource("1_af0ch")
 
 [node name="Panel" type="Panel" parent="."]
 layout_mode = 1
@@ -64,7 +64,7 @@ vertical_alignment = 1
 
 [node name="Signature" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer"]
 layout_mode = 2
-theme_override_fonts/font = ExtResource("1_cuyiy")
+theme_override_fonts/font = ExtResource("2_iclo8")
 text = "by Nathan Cerisara"
 horizontal_alignment = 2
 vertical_alignment = 1
@@ -84,6 +84,7 @@ theme_override_constants/separation = 50
 
 [node name="VBoxContainer2" type="VBoxContainer" parent="CenterContainer/VBoxContainer"]
 layout_mode = 2
+theme_override_constants/separation = 10
 
 [node name="Label" type="Label" parent="CenterContainer/VBoxContainer/VBoxContainer2"]
 layout_mode = 2
@@ -98,7 +99,7 @@ alignment = 1
 unique_name_in_owner = true
 custom_minimum_size = Vector2(0, 100)
 layout_mode = 2
-texture = ExtResource("3_ihvs5")
+texture = ExtResource("3_n738d")
 expand_mode = 2
 stretch_mode = 5
 
@@ -113,14 +114,14 @@ text_direction = 1
 [node name="Lang2" type="TextureRect" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2"]
 unique_name_in_owner = true
 layout_mode = 2
-texture = ExtResource("4_625v4")
+texture = ExtResource("5_7s0t3")
 expand_mode = 2
 stretch_mode = 5
 
-[node name="CenterContainer" type="CenterContainer" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2"]
+[node name="CenterContainer" type="CenterContainer" parent="CenterContainer/VBoxContainer/VBoxContainer2"]
 layout_mode = 2
 
-[node name="Bt_Change_Lang" type="Button" parent="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/CenterContainer"]
+[node name="Bt_Change_Lang" type="Button" parent="CenterContainer/VBoxContainer/VBoxContainer2/CenterContainer"]
 custom_minimum_size = Vector2(100, 40)
 layout_mode = 2
 text = "changer"
@@ -180,6 +181,7 @@ size_flags_horizontal = 6
 disabled = true
 text = "Paramètres"
 
+[connection signal="pressed" from="CenterContainer/VBoxContainer/VBoxContainer2/CenterContainer/Bt_Change_Lang" to="." method="_on_bt_change_lang_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_NotionsImportantes" to="." method="_on_bt_notions_importantes_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_Lexique" to="." method="_on_bt_lexique_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_FichesCustoms" to="." method="_on_bt_fiches_customs_pressed"]

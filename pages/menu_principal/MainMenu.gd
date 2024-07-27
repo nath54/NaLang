@@ -30,3 +30,7 @@ func _on_bt_fiches_customs_pressed() -> void:
 
 func _on_bt_quiz_pressed() -> void:
 	get_tree().change_scene_to_file("res://pages/menu_principal/Quiz/PrepareQuiz.tscn");
+
+
+func _on_bt_change_lang_pressed():
+	pass # Replace with function body.
