@@ -1,0 +1,77 @@
+[font_size=30][center][b][color=#0000FF]Le Prétérit en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le prétérit (Präteritum) est un temps verbal en allemand utilisé principalement dans la langue écrite pour décrire des actions passées. Contrairement au parfait (Perfekt), qui est plus courant dans la langue parlée, le prétérit est fréquemment utilisé dans les récits, les contes et les histoires.
+
+[font_size=24][color=#4B0082]1. Formation du prétérit[/color][/font_size]
+
+Il existe deux types principaux de verbes en allemand : les verbes faibles (réguliers) et les verbes forts (irréguliers). La formation du prétérit diffère pour ces deux groupes.
+
+[b]a) Verbes faibles[/b]
+[indent]Pour les verbes faibles, le prétérit est formé en ajoutant la terminaison -te, -test, -te, -ten, -tet, -ten au radical du verbe.
+
+[code]
+Exemple : machen (faire)
+ich machte [color=#008000](je faisais)[/color]
+du machtest [color=#008000](tu faisais)[/color]
+er/sie/es machte [color=#008000](il/elle/on faisait)[/color]
+wir machten [color=#008000](nous faisions)[/color]
+ihr machtet [color=#008000](vous faisiez)[/color]
+sie/Sie machten [color=#008000](ils/elles faisaient; vous faisiez - formel)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Ich machte meine Hausaufgaben.[font_size=18pt] (Je faisais mes devoirs.)[/font_size][/color][/i][/indent]
+
+[b]b) Verbes forts[/b]
+[indent]Les verbes forts changent leur voyelle radicale au prétérit et utilisent des terminaisons spécifiques différentes de celles des verbes faibles.
+
+[code]
+Exemple : gehen (aller)
+ich ging [color=#008000](j'allais)[/color]
+du gingst [color=#008000](tu allais)[/color]
+er/sie/es ging [color=#008000](il/elle/on allait)[/color]
+wir gingen [color=#008000](nous allions)[/color]
+ihr gingt [color=#008000](vous alliez)[/color]
+sie/Sie gingen [color=#008000](ils/elles allaient; vous alliez - formel)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Er ging in den Park.[font_size=18pt] (Il allait au parc.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du prétérit[/color][/font_size]
+
+Le prétérit est principalement utilisé dans les écrits formels, les narrations, et les descriptions d'événements passés. Il est couramment trouvé dans les livres, les journaux et les histoires.
+
+[indent]• Il est souvent utilisé avec des expressions de temps:
+[i]Exemple : [color=#0000FF]Letztes Jahr besuchten wir Berlin.[font_size=18pt] (L'année dernière, nous avons visité Berlin.)[/font_size][/color][/i]
+
+- Dans les contes et récits :
+[i]Exemple : [color=#0000FF]Es war einmal ein König.[font_size=18pt] (Il était une fois un roi.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Quelques verbes irréguliers courants[/color][/font_size]
+
+Voici une liste de quelques verbes irréguliers courants et leur forme au prétérit :
+
+[code]
+sein (être) : ich war [color=#008000](j'étais)[/color]
+haben (avoir) : ich hatte [color=#008000](j'avais)[/color]
+werden (devenir) : ich wurde [color=#008000](je devenais)[/color]
+kommen (venir) : ich kam [color=#008000](je venais)[/color]
+sehen (voir) : ich sah [color=#008000](je voyais)[/color]
+[/code]
+
+[i]Exemples : 
+[color=#0000FF]Ich war gestern müde.[font_size=18pt] (J'étais fatigué hier.)[/font_size][/color]
+[color=#0000FF]Wir hatten viel Spaß.[font_size=18pt] (Nous avons eu beaucoup de plaisir.)[/font_size][/color][/i]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le prétérit est principalement utilisé dans la langue écrite pour décrire des actions passées.
+[color=#FF0000]2.[/color] Les verbes faibles forment le prétérit en ajoutant les terminaisons -te aux radicaux.
+[color=#FF0000]3.[/color] Les verbes forts changent souvent leur voyelle radicale et ont des terminaisons spécifiques.
+[color=#FF0000]4.[/color] Apprenez les formes irrégulières des verbes courants pour améliorer votre utilisation du prétérit.
+[color=#FF0000]5.[/color] Utilisé fréquemment dans les récits et les descriptions d'événements passés écrits.[/indent]
+
+[center][font_size=18][color=#808080]Üben Sie das Präteritum regelmäßig, um Ihre Schreibfähigkeiten im Deutschen zu verbessern! (Üben Sie das Präteritum regelmäßig, um Ihre Schreibfähigkeiten im Deutschen zu verbessern!)[/color][/font_size][/center]

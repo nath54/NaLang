@@ -1,0 +1,53 @@
+[font_size=30][center][b][color=#0000FF]L'Accentuation en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'allemand a des règles spécifiques pour l'accentuation des mots, ce qui peut différer du français. Connaître ces règles est essentiel pour une bonne prononciation et compréhension des mots allemands.
+
+[font_size=24][color=#4B0082]1. L'Accent Principal[/color][/font_size]
+
+En allemand, chaque mot a un accent principal. Souvent, cet accent tombe sur la première syllabe du mot. Cependant, il peut varier selon différents facteurs, y compris l'origine du mot et les préfixes/suffixes utilisés. En voici quelques règles générales :
+
+[indent]• Pour les mots d'origine germanique, l'accent principal tombe généralement sur la première syllabe.
+[i]Exemple : [color=#0000FF]Wasser[font_size=18pt](wasser)[/font_size][/color] [color=#008000](eau)[/color][/i]
+
+- Pour les mots composés, l'accentuation se trouve généralement sur la première syllabe de la racine principale du mot.
+[i]Exemple : [color=#0000FF]Hausaufgabe[font_size=18pt](hausaufgabe)[/font_size][/color] [color=#008000](devoir à la maison)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les Préfixes et Suffixes[/color][/font_size]
+
+Certains préfixes et suffixes en allemand influencent l'accentuation. Voici comment :
+
+[indent]• Les préfixes non accentués (be-, ge-, er-, ver-, etc.) ne reçoivent pas l'accent principal. L'accent se place généralement sur la syllabe suivante.
+[i]Exemple : [color=#0000FF]verstehen[font_size=18pt](verstehen)[/font_size][/color] [color=#008000](comprendre)[/color][/i]
+
+- Les verbes à particule séparable ont leur accent principal sur la particule séparable lorsque celle-ci est détachée.
+[i]Exemple : [color=#0000FF]aufstehen[font_size=18pt](aufstehen)[/font_size][/color] [color=#008000](se lever)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les Mots d'Origine Étrangère[/color][/font_size]
+
+Les mots d'origine étrangère (Français, Anglais, etc.) apportent parfois leurs propres règles d'accentuation. Cependant, ces règles sont souvent adaptées à la phonétique allemande.
+
+[indent]• Les mots empruntés du français par exemple maintiennent souvent leur accentuation originale.
+[i]Exemple : [color=#0000FF]Restaurant[font_size=18pt](restaurant)[/font_size][/color] [color=#008000](restaurant)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. L'Accentuation des Noms et Adjectifs Composés[/color][/font_size]
+
+Les noms et adjectifs composés en allemand suivent une règle spécifique où l'accent principal vient généralement sur la première partie du mot composé.
+
+[indent]• Pour les noms composés :
+[i]Exemple : [color=#0000FF]Bücherschrank[font_size=18pt](bücherschrank)[/font_size][/color] [color=#008000](bibliothèque (meuble))[/color][/i]
+
+- Pour les adjectifs composés :
+[i]Exemple : [color=#0000FF]hochwertig[font_size=18pt](hochwertig)[/font_size][/color] [color=#008000](de haute qualité)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] L'accent principal en allemand tombe souvent sur la première syllabe d'un mot d'origine germanique.
+[color=#FF0000]2.[/color] Les préfixes et suffixes influencent l'accentuation; les préfixes non accentués ne reçoivent jamais l'accent principal.
+[color=#FF0000]3.[/color] Les mots empruntés adoptent parfois leur accentuation d'origine mais sont adaptés à la phonétique allemande.
+[color=#FF0000]4.[/color] Pour les mots composés, l'accent principal est sur la première partie du mot composé.[/indent]
+
+[center][font_size=18][color=#808080]Meistern Sie die richtige Akzentuierung und sprechen Sie genau und fließend Deutsch!(Maîtrisez la bonne accentuation et parlez un allemand précis et fluide!)[/color][/font_size][/center]

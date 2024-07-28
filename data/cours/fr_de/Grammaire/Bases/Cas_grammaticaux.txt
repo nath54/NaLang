@@ -1,0 +1,108 @@
+[font_size=30][center][b][color=#0000FF]Les Cas Grammaticaux en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les cas grammaticaux en allemand sont essentiels à maîtriser pour bien articuler vos phrases. Il existe quatre cas principaux : le nominatif, l'accusatif, le datif et le génitif. Chacun de ces cas a une fonction spécifique dans la phrase et affecte les articles, pronoms et parfois les noms.
+
+[font_size=24][color=#4B0082]1. Le nominatif[/color][/font_size]
+
+Le nominatif est utilisé pour le sujet de la phrase, c'est-à-dire celui qui effectue l'action du verbe.
+
+[b]Exemples :[/b]
+[indent][code]
+Der Mann (l'homme)
+Die Frau (la femme)
+Das Kind (l'enfant)
+Die Bücher (les livres)
+[/code]
+
+[i]Phrase : [color=#0000FF]Der Mann isst.[font_size=18pt](L'homme mange.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. L'accusatif[/color][/font_size]
+
+L'accusatif est utilisé pour le complément d'objet direct, c'est-à-dire celui qui reçoit directement l'action du verbe.
+
+[b]Exemples d'articles à l'accusatif :[/b]
+[indent][code]
+Den Mann (l'homme)
+Die Frau (la femme)
+Das Kind (l'enfant)
+Die Bücher (les livres)
+[/code]
+
+[i]Phrase : [color=#0000FF]Ich sehe den Mann.[font_size=18pt](Je vois l'homme.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Le datif[/color][/font_size]
+
+Le datif est utilisé pour le complément d'objet indirect, c'est-à-dire celui qui bénéficie de l'action du verbe.
+
+[b]Exemples d'articles au datif :[/b]
+[indent][code]
+Dem Mann (à l'homme)
+Der Frau (à la femme)
+Dem Kind (à l'enfant)
+Den Büchern (aux livres)
+[/code]
+
+[i]Phrase : [color=#0000FF]Ich gebe dem Mann ein Buch.[font_size=18pt](Je donne un livre à l'homme.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Le génitif[/color][/font_size]
+
+Le génitif montre une relation de possession ou d'appartenance.
+
+[b]Exemples d'articles au génitif :[/b]
+[indent][code]
+Des Mannes (de l'homme)
+Der Frau (de la femme)
+Des Kindes (de l'enfant)
+Der Bücher (des livres)
+[/code]
+
+[i]Phrase : [color=#0000FF]Das Buch des Mannes.[font_size=18pt](Le livre de l'homme.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]5. Tableaux des déclinaisons[/color][/font_size]
+
+Il est utile d'avoir en référence des tableaux de déclinaison pour articles définis et indéfinis en allemand.
+
+[b]Articles définis :[/b]
+[indent][code]
+           Nominatif  Accusatif  Datif  Génitif
+Masculin:  der        den        dem    des
+Féminin:   die        die        der    der
+Neutre:    das        das        dem    des
+Pluriel:   die        die        den    der
+[/code][/indent]
+
+[b]Articles indéfinis :[/b]
+[indent][code]
+           Nominatif  Accusatif  Datif  Génitif
+Masculin:  ein        einen      einem  eines
+Féminin:   eine       eine       einer  einer
+Neutre:    ein        ein        einem  eines
+[/code][/indent]
+
+[font_size=24][color=#4B0082]6. Précisions supplémentaires[/color][/font_size]
+
+En allemand, chaque cas peut être associé à certaines prépositions, lesquelles déterminent le cas à employer.
+
+[indent][b]Prépositions utilisant le Datif :[/b]
+Mit (avec), nach (après, vers), bei (chez), seit (depuis), von (de, par), zu (vers, à), aus (de, depuis)
+
+[i]Exemple : [color=#0000FF]Ich bin bei dem Freund.[font_size=18pt](Je suis chez l'ami.)[/font_size][/color][/i][/indent]
+
+[indent][b]Prépositions utilisant l'Accusatif :[/b]
+Durch (à travers), für (pour), gegen (contre), ohne (sans), um (autour de)
+
+[i]Exemple : [color=#0000FF]Das Geschenk ist für die Mutter.[font_size=18pt](Le cadeau est pour la mère.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le nominatif est utilisé pour le sujet de la phrase.
+[color=#FF0000]2.[/color] L'accusatif est utilisé pour le complément d'objet direct.
+[color=#FF0000]3.[/color] Le datif est utilisé pour le complément d'objet indirect.
+[color=#FF0000]4.[/color] Le génitif montre la possession ou l'appartenance.
+[color=#FF0000]5.[/color] Utilisez les tableaux de déclinaison pour vous aider à mémoriser les formes correctes.[/indent]
+
+[center][font_size=18][color=#808080]Richtiges Verwenden der grammatischen Fälle macht dein Deutsch klarer und verständlicher! (La bonne utilisation des cas grammaticaux rend votre allemand plus clair et compréhensible !)[/color][/font_size][/center]

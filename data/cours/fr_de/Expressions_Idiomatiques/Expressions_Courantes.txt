@@ -1,0 +1,85 @@
+[font_size=30][center][b][color=#0000FF]Les Expressions Courantes en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les expressions idiomatiques sont des éléments clés pour maîtriser une langue et communiquer de manière plus naturelle et fluide. En allemand, il existe de nombreuses expressions courantes qui sont utilisées dans la vie de tous les jours et qui peuvent parfois être déroutantes pour les nouveaux apprenants. Cette leçon vous permettra de découvrir et de comprendre certaines de ces expressions idiomatiques.
+
+[font_size=24][color=#4B0082]1. Expressions pour saluer [/color][/font_size]
+
+Apprendre à saluer correctement est essentiel dans n'importe quelle langue. Voici quelques expressions couramment utilisées en allemand pour saluer quelqu'un :
+
+[b]a) Bonjour et bonsoir[/b]
+[indent][code]
+Guten Morgen [color=#008000](Bonjour (le matin))[/color]
+Guten Tag [color=#008000](Bonjour (au cours de la journée))[/color]
+Guten Abend [color=#008000](Bonsoir)[/color]
+Gute Nacht [color=#008000](Bonne nuit)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Guten Morgen, wie geht es Ihnen?[font_size=18pt] (Bonjour, comment allez-vous ?)[/font_size][/color][/i][/indent]
+
+[b]b) Dire au revoir[/b]
+[indent][code]
+Auf Wiedersehen [color=#008000](Au revoir)[/color]
+Tschüss [color=#008000](Salut / Au revoir (informel))[/color]
+Bis bald [color=#008000](À bientôt)[/color]
+Bis später [color=#008000](À plus tard)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Auf Wiedersehen! Bis morgen.[font_size=18pt] (Au revoir! À demain.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Expressions courantes pour la vie quotidienne [/color][/font_size]
+
+Ces expressions sont fréquemment utilisées dans des conversations quotidiennes et vous aideront à interagir de manière plus naturelle.
+
+[b]a) Remerciements et souhaits[/b]
+[indent][code]
+Danke [color=#008000](Merci)[/color]
+Vielen Dank [color=#008000](Merci beaucoup)[/color]
+Bitte [color=#008000](S'il vous plaît / De rien)[/color]
+Alles Gute [color=#008000](Tout de bon / Bonne chance)[/color]
+Gute Besserung [color=#008000](Prompt rétablissement)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Vielen Dank für Ihre Hilfe.[font_size=18pt] (Merci beaucoup pour votre aide.)[/font_size][/color][/i][/indent]
+
+[b]b) Excuses et regrets[/b]
+[indent][code]
+Entschuldigung [color=#008000](Excusez-moi / Désolé)[/color]
+Es tut mir leid [color=#008000](Je suis désolé)[/color]
+Leider [color=#008000](Malheureusement)[/color]
+Kein Problem [color=#008000](Pas de problème)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Es tut mir leid, dass ich zu spät bin.[font_size=18pt] (Je suis désolé d'être en retard.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Expressions idiomatiques communes [/color][/font_size]
+
+Les expressions idiomatiques sont souvent métaphoriques et ne peuvent pas toujours être traduites littéralement. En voici quelques-unes couramment utilisées en allemand :
+
+[b]a) Expressions liées aux animaux[/b]
+[indent][code]
+Da steppt der Bär [color=#008000](Ça va être une fête de folie (littéralement "là où l'ours danse"))[/color]
+Einen Frosch im Hals haben [color=#008000](Avoir un chat dans la gorge (littéralement "avoir une grenouille dans la gorge"))[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Auf der Party gestern, da hat wirklich der Bär gesteppt![font_size=18pt] (La fête hier était vraiment folle !)[/font_size][/color][/i][/indent]
+
+[b]b) Expressions diverses[/b]
+[indent][code]
+Ich verstehe nur Bahnhof [color=#008000](Je n'y comprends rien du tout (littéralement "je ne comprends que la gare"))[/color]
+Ins Gras beißen [color=#008000](Mourir (littéralement "mordre l'herbe"))[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Er hat so kompliziert gesprochen, ich habe nur Bahnhof verstanden.[font_size=18pt] (Il parlait si compliqué que je n'y comprenais rien du tout.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les salutations en allemand changent selon le moment de la journée.
+[color=#FF0000]2.[/color] Les remerciements et les excuses jouent un rôle important dans la politesse quotidienne.
+[color=#FF0000]3.[/color] Les expressions idiomatiques reflètent souvent la culture et nécessitent une compréhension contextuelle.
+[color=#FF0000]4.[/color] Connaître ces expressions vous aidera à comprendre et à vous exprimer de manière plus naturelle en allemand.[/indent]
+
+[center][font_size=18][color=#808080]Viel Erfolg beim Erlernen der deutschen Ausdrücke! (Bon courage pour apprendre les expressions allemandes !)[/color][/font_size][/center]

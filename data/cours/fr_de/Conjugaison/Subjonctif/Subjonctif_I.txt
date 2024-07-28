@@ -1,0 +1,75 @@
+[font_size=30][center][b][color=#0000FF]Le Subjonctif I en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le subjonctif I (Konjunktiv I) en allemand est principalement utilisé dans le discours indirect et pour exprimer des souhaits ou des hypothèses. Cette leçon vous aidera à comprendre comment former et utiliser le subjonctif I correctement.
+
+[font_size=24][color=#4B0082]1. Formation du Subjonctif I[/color][/font_size]
+
+La formation du subjonctif I se fait à partir du radical du verbe à l'infinitif, suivi d'une terminaison spécifique. Voici les terminaisons pour les verbes réguliers :
+
+[indent][b]Verbes réguliers[/b]
+[code]
+ich -e
+du -est
+er/sie/es -e
+wir -en
+ihr -et
+sie/Sie -en
+[/code]
+
+[i]Exemple : Le verbe "machen" (faire)
+[color=#0000FF]machen[/color] - [color=#0000FF]mache[/color] (ich), [color=#0000FF]machest[/color] (du), [color=#0000FF]mache[/color] (er/sie/es), [color=#0000FF]machen[/color] (wir), [color=#0000FF]machet[/color] (ihr), [color=#0000FF]machen[/color] (sie/Sie)[/i][/indent]
+
+Pour les verbes irréguliers, il est important de connaître leurs formes spécifiques. Voici les plus courants :
+
+[indent][b]Verbes irréguliers[/b]
+[code]
+sein (être)
+ich sei
+du seist
+er/sie/es sei
+wir seien
+ihr seiet
+sie/Sie seien
+
+haben (avoir)
+ich habe
+du habest
+er/sie/es habe
+wir haben
+ihr habet
+sie/Sie haben
+[/code]
+
+[i]Exemple : Le verbe "sein" (être)
+[color=#0000FF]sein[/color] - [color=#0000FF]sei[/color] (ich), [color=#0000FF]seist[/color] (du), [color=#0000FF]sei[/color] (er/sie/es), [color=#0000FF]seien[/color] (wir), [color=#0000FF]seiet[/color] (ihr), [color=#0000FF]seien[/color] (sie/Sie)[/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Subjonctif I[/color][/font_size]
+
+Le subjonctif I est principalement utilisé pour rapporter des discours de manière indirecte et pour formuler des souhaits. Voici comment utiliser ce mode :
+
+[i]a) Discours indirect[/i]
+[indent]Lorsqu'on rapporte ce que quelqu'un d'autre a dit, on utilise souvent le subjonctif I pour indiquer le discours indirect.
+[i]Exemple : [color=#0000FF]Er sagte, er sei glücklich.[/color][/i] [color=#008000](Il a dit qu'il était heureux.)[/color][/indent]
+
+[i]b) Formuler des souhaits[/i]
+[indent]Le subjonctif I peut être utilisé pour exprimer des souhaits, souvent sous forme de formules de politesse ou de vœux.
+[i]Exemple : [color=#0000FF]Er lebe hoch![/color][/i] [color=#008000](Qu'il vive longtemps !)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Il est possible de rencontrer le subjonctif I dans des textes littéraires, journalistiques ou formels pour exprimer un haut degré de politesse ou de respect.
+
+[indent][color=#FF0000]Remarque :[/color] Le subjonctif I n'est plus très courant dans la langue parlée quotidienne. Pour le discours indirect au quotidien, le subjonctif II est souvent utilisé à la place pour sa clarté.[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le subjonctif I s'utilise principalement pour le discours indirect et pour formuler des souhaits.
+[color=#FF0000]2.[/color] Il se forme à partir du radical de l'infinitif avec des terminaisons spécifiques.
+[color=#FF0000]3.[/color] Les verbes irréguliers ont des formes spécifiques qu'il faut connaître.
+[color=#FF0000]4.[/color] Bien qu'il soit rare dans la langue parlée quotidienne, il reste important dans les contextes formels et littéraires.[/indent]
+
+[center][font_size=18][color=#808080]Beherrschst du den Konjunktiv I, wirkt dein Deutsch eleganter und höflicher! (Maîtrisez le subjonctif I, et votre allemand semblera plus élégant et poli!)[/color][/font_size][/center]

@@ -1,0 +1,64 @@
+[font_size=30][center][b][color=#0000FF]L'Infinitif en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'infinitif est la forme de base du verbe, non conjuguée. En allemand, l'infinitif est essentiel pour la formation de nombreux temps et modes verbaux. Comprendre et maîtriser l'utilisation de l'infinitif vous aidera à structurer vos phrases de manière correcte et précise.
+
+[font_size=24][color=#4B0082]1. Structure de base de l'infinitif[/color][/font_size]
+
+En allemand, les verbes à l'infinitif se terminent généralement par "-en" ou rarement par "-n". Voici quelques-uns des plus courants :
+
+[code]
+gehen (aller)
+kommen (venir)
+machen (faire)
+sehen (voir)
+schreiben (écrire)
+essen (manger)
+lesen (lire)
+sein (être)
+haben (avoir)
+spielen (jouer)
+[/code]
+
+[i]Exemple : [color=#0000FF]Ich möchte gehen.[font_size=18pt](Ich möchte gehen.)[/font_size][/color] [color=#008000](Je veux aller.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Utilisation de l'infinitif[/color][/font_size]
+
+L'infinitif est utilisé dans plusieurs situations en allemand. Voici les plus fréquentes :
+
+[indent]• Après les verbes de modalité (müssen (devoir), können (pouvoir), wollen (vouloir), sollen (devoir), dürfen (avoir la permission), mögen (aimer)).
+[i]Exemple : [color=#0000FF]Ich kann singen.[font_size=18pt](Ich kann singen.)[/font_size][/color] [color=#008000](Je peux chanter.)[/color][/i]
+
+- Après certains autres verbes comme sehen (voir), hören (entendre), lassen (laisser).
+[i]Exemple : [color=#0000FF]Ich sehe ihn spielen.[font_size=18pt](Ich sehe ihn spielen.)[/font_size][/color] [color=#008000](Je le vois jouer.)[/color][/i]
+
+- Avec l'auxiliaire "haben" (avoir) pour former le passé composé.
+[i]Exemple : [color=#0000FF]Ich habe gegessen.[font_size=18pt](Ich habe gegessen.)[/font_size][/color] [color=#008000](J'ai mangé.)[/color][/i]
+
+- Dans les propositions infinitives introduites par "zu" (de) pour exprimer l'intention ou la finalité.
+[i]Exemple : [color=#0000FF]Ich habe keine Zeit, zu lesen.[font_size=18pt](Ich habe keine Zeit, zu lesen.)[/font_size][/color] [color=#008000](Je n'ai pas le temps de lire.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Construction de l'infinitif avec "zu"[/color][/font_size]
+
+Lorsque l'infinitif est utilisé avec "zu" (à), il se place généralement à la fin de la phrase après le verbe principal. Voici quelques règles et exemples :
+
+[indent]• À la forme affirmative.
+[i]Exemple : [color=#0000FF]Er hat vor, nach Deutschland zu reisen.[font_size=18pt](Er hat vor, nach Deutschland zu reisen.)[/font_size][/color] [color=#008000](Il a l'intention de voyager en Allemagne.)[/color][/i]
+
+- Avec des phrases contenant des verbes tels que anfangen (commencer), aufhören (arrêter), versuchen (essayer), beabsichtigen (avoir l'intention de).
+[i]Exemple : [color=#0000FF]Sie beginnt zu arbeiten.[font_size=18pt](Sie beginnt zu arbeiten.)[/font_size][/color] [color=#008000](Elle commence à travailler.)[/color][/i]
+
+- Notez que "zu" ne se combine pas avec les verbes de modalité.
+[i]Exemple erroné : [color=#FF0000]Ich kann zu schlafen.[font_size=18pt](Ich kann zu schlafen.)[/font_size][/color] [color=#008000](Incorrect en allemand.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] L'infinitif est la forme de base du verbe, non conjuguée.
+[color=#FF0000]2.[/color] Il se termine généralement par "-en" ou "-n".
+[color=#FF0000]3.[/color] Il s'utilise après les verbes de modalité, certains autres verbes comme sehen (voir), laisser (lassen), et pour former le passé composé.
+[color=#FF0000]4.[/color] Lorsque combiné avec "zu", il exprime l'intention ou la finalité, sauf après les verbes de modalité.[/indent]
+
+[center][font_size=18][color=#808080]Richtig anwenden des Infinitivs deinen deutschen Ausdruck verbessern! (richtig anwenden des Infinitivs deinen deutschen Ausdruck verbessern!)[/color][/font_size][/center]

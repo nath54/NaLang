@@ -1,0 +1,115 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes de Modalité en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes de modalité en allemand sont importants pour exprimer différentes nuances de sens, telles que la possibilité, l'obligation, le désir ou la permission. Ils sont souvent utilisés en combinaison avec d'autres verbes à l'infinitif pour modifier leur sens.
+
+[font_size=24][color=#4B0082]1. Liste des verbes de modalité[/color][/font_size]
+
+Voici les principaux verbes de modalité en allemand, avec leur signification et leur conjugaison au présent :
+
+[indent][b]a) müssen (devoir)[/b]
+[code]
+ich muss [color=#008000](je dois)[/color]
+du musst [color=#008000](tu dois)[/color]
+er/sie/es muss [color=#008000](il/elle/on doit)[/color]
+wir müssen [color=#008000](nous devons)[/color]
+ihr müsst [color=#008000](vous devez)[/color]
+sie/Sie müssen [color=#008000](ils/elles/Vous doivent)[/color]
+[/code]
+
+[b]b) sollen (devoir moral, conseil)[/b]
+[code]
+ich soll [color=#008000](je dois)[/color]
+du sollst [color=#008000](tu dois)[/color]
+er/sie/es soll [color=#008000](il/elle/on doit)[/color]
+wir sollen [color=#008000](nous devons)[/color]
+ihr sollt [color=#008000](vous devez)[/color]
+sie/Sie sollen [color=#008000](ils/elles/Vous doivent)[/color]
+[/code]
+
+[b]c) können (pouvoir, être capable de)[/b]
+[code]
+ich kann [color=#008000](je peux)[/color]
+du kannst [color=#008000](tu peux)[/color]
+er/sie/es kann [color=#008000](il/elle/on peut)[/color]
+wir können [color=#008000](nous pouvons)[/color]
+ihr könnt [color=#008000](vous pouvez)[/color]
+sie/Sie können [color=#008000](ils/elles/Vous peuvent)[/color]
+[/code]
+
+[b]d) dürfen (avoir la permission, pouvoir)[/b]
+[code]
+ich darf [color=#008000](j'ai la permission, je peux)[/color]
+du darfst [color=#008000](tu as la permission, tu peux)[/color]
+er/sie/es darf [color=#008000](il/elle/on a la permission, il peut)[/color]
+wir dürfen [color=#008000](nous avons la permission, nous pouvons)[/color]
+ihr dürft [color=#008000](vous avez la permission, vous pouvez)[/color]
+sie/Sie dürfen [color=#008000](ils/elles/Vous ont la permission, ils/elles peuvent)[/color]
+[/code]
+
+[b]e) wollen (vouloir)[/b]
+[code]
+ich will [color=#008000](je veux)[/color]
+du willst [color=#008000](tu veux)[/color]
+er/sie/es will [color=#008000](il/elle/on veut)[/color]
+wir wollen [color=#008000](nous voulons)[/color]
+ihr wollt [color=#008000](vous voulez)[/color]
+sie/Sie wollen [color=#008000](ils/elles/Vous veulent)[/color]
+[/code]
+
+[b]f) mögen (aimer, vouloir)[/b]
+[code]
+ich mag [color=#008000](j'aime)[/color]
+du magst [color=#008000](tu aimes)[/color]
+er/sie/es mag [color=#008000](il/elle/on aime)[/color]
+wir mögen [color=#008000](nous aimons)[/color]
+ihr mögt [color=#008000](vous aimez)[/color]
+sie/Sie mögen [color=#008000](ils/elles/Vous aiment)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Ich muss heute arbeiten.[font_size=18pt] (Je dois travailler aujourd'hui.)[/font_size][/color] [color=#008000](Je dois travailler aujourd'hui.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Utilisation des verbes de modalité[/color][/font_size]
+
+Les verbes de modalité modifient le sens des verbes qu'ils accompagnent et leur infinitif se place généralement en fin de phrase.
+
+[indent]• Pour indiquer la capacité ou la possibilité, utilisez [color=#FF0000]können[/color]:
+[i]Exemple : [color=#0000FF]Er kann Deutsch sprechen.[font_size=18pt] (Il peut parler allemand.)[/font_size][/color] [color=#008000](Il peut parler allemand.)[/color][/i]
+
+- Pour exprimer une permission ou une autorisation, utilisez [color=#FF0000]dürfen[/color]:
+[i]Exemple : [color=#0000FF]Darf ich hier rauchen?[font_size=18pt](Puis-je fumer ici ?)[/font_size][/color] [color=#008000](Puis-je fumer ici ?)[/color][/i]
+
+- Pour exprimer une nécessité ou une obligation, utilisez [color=#FF0000]müssen[/color]:
+[i]Exemple : [color=#0000FF]Wir müssen morgen früh aufstehen.[font_size=18pt](Nous devons nous lever tôt demain.)[/font_size][/color] [color=#008000](Nous devons nous lever tôt demain.)[/color][/i]
+
+- Pour indiquer une volonté ou un souhait, utilisez [color=#FF0000]wollen[/color]:
+[i]Exemple : [color=#0000FF]Ich will ein neues Handy kaufen.[font_size=18pt](Je veux acheter un nouveau téléphone.)[/font_size][/color] [color=#008000](Je veux acheter un nouveau téléphone.)[/color][/i]
+
+- Pour exprimer le devoir moral ou donner un conseil, utilisez [color=#FF0000]sollen[/color]:
+[i]Exemple : [color=#0000FF]Du sollst mehr Wasser trinken.[font_size=18pt](Tu devrais boire plus d'eau.)[/font_size][/color] [color=#008000](Tu devrais boire plus d'eau.)[/color][/i]
+
+- Pour exprimer une préférence ou un désir, utilisez [color=#FF0000]mögen[/color]:
+[i]Exemple : [color=#0000FF]Ich mag Schokolade.[font_size=18pt](J'aime le chocolat.)[/font_size][/color] [color=#008000](J'aime le chocolat.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Particularités des verbes de modalité[/color][/font_size]
+
+Les verbes de modalité ont certaines particularités qui les distinguent des autres verbes :
+
+[indent]• Au passé, ils se conjuguent souvent avec le prétérit plutôt qu'avec le parfait :
+[i]Exemple : [color=#0000FF]Ich musste gehen.[font_size=18pt](Je devais partir.)[/font_size][/color] [color=#008000](Je devais partir.)[/color][/i]
+
+- Les phrases négatives avec des verbes de modalité peuvent changer de sens :
+[i]Exemple : [color=#0000FF]Ich kann nicht kommen.[font_size=18pt](Je ne peux pas venir.)[/font_size][/color] [color=#008000](Je ne peux pas venir.)[/color][/i]
+[i] Ich darf nicht kommen.[font_size=18pt](Je n'ai pas la permission de venir.)[/font_size][/color] [color=#008000](Je n'ai pas la permission de venir.)[/color][/i] [/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes de modalité modifient le sens des verbes qu'ils accompagnent.
+[color=#FF0000]2.[/color] Ils se conjuguent de manière irrégulière et leur infinitif se place à la fin de la phrase.
+[color=#FF0000]3.[/color] Utilisez le prétérit pour les conjuguer au passé.
+[color=#FF0000]4.[/color] Les phrases négatives avec des verbes de modalité peuvent avoir des significations différentes en fonction du verbe utilisé.[/indent]
+
+[center][font_size=18][color=#808080]Durch die richtige Verwendung von Modalverben wird dein Deutsch natürlicher und ausdrucksvoller! (Utilise correctement les verbes de modalité pour rendre ton allemand plus naturel et expressif!)[/color][/font_size][/center]

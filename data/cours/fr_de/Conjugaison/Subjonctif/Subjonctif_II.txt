@@ -1,0 +1,95 @@
+[font_size=30][center][b][color=#0000FF]Le Subjonctif II en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Subjonctif II (Konjunktiv II en allemand) est principalement utilisé pour exprimer des situations hypothétiques, des souhaits, ou des actions irréelles. Il correspond souvent au conditionnel en français. Connaître le subjonctif II en allemand est essentiel pour parler couramment et comprendre la nuance des phrases dans différents contextes.
+
+[font_size=24][color=#4B0082]1. Formation de base du Subjonctif II[/color][/font_size]
+
+Le Subjonctif II se forme généralement à partir de la forme prétérite (Präteritum) des verbes avec quelques modifications pour indiquer le subjonctif. Voici les étapes :
+
+[b]a) Verbes réguliers[/b]
+[indent]Pour les verbes réguliers, le subjonctif II est identique à leur prétérit sauf qu'on ajoute souvent un Umlaut (¨) dans la conjugaison.
+[code]
+kommen (venir) 
+ich käme [color=#008000](je viendrais)[/color]
+du kämest [color=#008000](tu viendrais)[/color]
+er/sie/es käme [color=#008000](il/elle/on viendrait)[/color]
+wir kämen [color=#008000](nous viendrions)[/color]
+ihr kämet [color=#008000](vous viendriez)[/color]
+sie/Sie kämen [color=#008000](ils/elles/Vous viendraient)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Wenn ich mehr Geld hätte, käme ich früher.[font_size=18pt](Si j'avais plus d'argent, je viendrais plus tôt.)[/font_size][/color] [color=#008000](If I had more money, I would come earlier.)[/color][/i][/indent]
+
+[b]b) Verbes irréguliers[/b]
+[indent]Pour les verbes irréguliers, il y a souvent une modification de la voyelle radicale avec un Umlaut et des terminaisons similaires à celles du prétérit.
+[code]
+sehen (voir)
+ich sähe [color=#008000](je verrais)[/color]
+du sähest [color=#008000](tu verrais)[/color]
+er/sie/es sähe [color=#008000](il/elle/on verrait)[/color]
+wir sähen [color=#008000](nous verrions)[/color]
+ihr sähet [color=#008000](vous verriez)[/color]
+sie/Sie sähen [color=#008000](ils/elles/Vous verraient)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Wenn ich dort wäre, sähe ich es selbst.[font_size=18pt](Si j'y étais, je le verrais moi-même.)[/font_size][/color] [color=#008000](If I were there, I would see it myself.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Subjonctif II[/color][/font_size]
+
+Le Subjonctif II est couramment utilisé pour exprimer des souhaits, des situations hypothétiques ou des conditions irréelles.
+
+[indent]• Pour exprimer un souhait irréalisable, on utilise souvent "würde" + infinitif du verbe.
+[i]Exemple : [color=#0000FF]Ich würde gerne reisen.[font_size=18pt](Je voudrais voyager.)[/font_size][/color] [color=#008000](I would like to travel.)[/color][/i]
+
+- Pour les conditions irréelles dans le passé, utilisez "hätte" ou "wäre" comme auxiliaire.
+[i]Exemple : [color=#0000FF]Wenn ich früher gelernt hätte, hätte ich den Test bestanden.[font_size=18pt](Si j'avais étudié plus tôt, j'aurais réussi le test.)[/font_size][/color] [color=#008000](If I had studied earlier, I would have passed the test.)[/color][/i]
+
+- Pour des situations hypothétiques présentes ou futures.
+[i]Exemple : [color=#0000FF]Wenn ich ein Auto hätte, würde ich ans Meer fahren.[font_size=18pt](Si j'avais une voiture, j'irais à la mer.)[/font_size][/color] [color=#008000](If I had a car, I would go to the sea.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Formes des auxiliaires au subjonctif II[/color][/font_size]
+
+Les auxiliaires "sein" (être), "haben" (avoir) et "werden" (devenir) sont particulièrement importants en allemand, et leur utilisation au subjonctif II est fréquente.
+
+[indent]• Sein
+[code]
+ich wäre [color=#008000](je serais)[/color]
+du wärst [color=#008000](tu serais)[/color]
+er/sie/es wäre [color=#008000](il/elle/on serait)[/color]
+wir wären [color=#008000](nous serions)[/color]
+ihr wärt [color=#008000](vous seriez)[/color]
+sie/Sie wären [color=#008000](ils/elles/Vous seraient)[/color]
+[/code]
+
+- Haben
+[code]
+ich hätte [color=#008000](j'aurais)[/color]
+du hättest [color=#008000](tu aurais)[/color]
+er/sie/es hätte [color=#008000](il/elle/on aurait)[/color]
+wir hätten [color=#008000](nous aurions)[/color]
+ihr hättet [color=#008000](vous auriez)[/color]
+sie/Sie hätten [color=#008000](ils/elles/Vous auraient)[/color]
+[/code]
+
+- Werden
+[code]
+ich würde [color=#008000](je deviendrais)[/color]
+du würdest [color=#008000](tu deviendrais)[/color]
+er/sie/es würde [color=#008000](il/elle/on deviendrait)[/color]
+wir würden [color=#008000](nous deviendrions)[/color]
+ihr würdet [color=#008000](vous deviendriez)[/color]
+sie/Sie würden [color=#008000](ils/elles/Vous deviendraient)[/color]
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Subjonctif II est utilisé pour exprimer des situations hypothétiques, des souhaits, et des actions irréelles.
+[color=#FF0000]2.[/color] La formation du Subjonctif II se base souvent sur la forme prétérite des verbes, avec l'ajout fréquemment d'un Umlaut.
+[color=#FF0000]3.[/color] Les auxiliaires "sein", "haben" et "werden" ont des formes spécifiques au Subjonctif II essentielles à maîtriser.
+[color=#FF0000]4.[/color] Utiliser "würde" + infinitif pour des constructions de souhait ou hypothétiques facilite la formation des phrases complexes.[/indent]
+
+[center][font_size=18][color=#808080]Richtiges Verwenden des Konjunktivs II macht Ihre deutschen Sätze reicher und nuancierter! (L'utilisation correcte du Subjonctif II enrichit et nuance vos phrases allemandes !)[/color][/font_size][/center]

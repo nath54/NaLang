@@ -1,0 +1,58 @@
+[font_size=30][center][b][color=#0000FF]Les Prépositions Mixtes en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les prépositions mixtes, également appelées prépositions à double régime, sont des prépositions en allemand qui peuvent régir à la fois le datif et l'accusatif, selon le contexte de la phrase. La compréhension de ces prépositions est essentielle pour construire des phrases précises et correctes en allemand.
+
+[font_size=24][color=#4B0082]1. Liste des prépositions mixtes courantes[/color][/font_size]
+
+Voici les prépositions mixtes les plus courantes en allemand, avec leur traduction en français :
+
+[code]
+an [color=#008000](à, sur)[/color]
+auf [color=#008000](sur, dessus)[/color]
+hinter [color=#008000](derrière)[/color]
+in [color=#008000](dans, en)[/color]
+neben [color=#008000](à côté de)[/color]
+über [color=#008000](au-dessus de)[/color]
+unter [color=#008000](sous, parmi)[/color]
+vor [color=#008000](devant, avant)[/color]
+zwischen [color=#008000](entre)[/color]
+[/code]
+
+[font_size=24][color=#4B0082]2. Utilisation des prépositions mixtes[/color][/font_size]
+
+Les prépositions mixtes changent leur déclinaison en fonction de la question posée :
+
+[indent]• Pour indiquer le lieu (Wo?), on utilise le datif.
+[i]Exemple : [color=#0000FF]Das Buch liegt auf dem Tisch.[font_size=18pt](Das Buch liegt auf dem Tisch.)[/font_size][/color] [color=#008000](Le livre est sur la table.)[/color][/i]
+
+- Pour indiquer le mouvement ou la direction (Wohin?), on utilise l'accusatif.
+[i]Exemple : [color=#0000FF]Ich lege das Buch auf den Tisch.[font_size=18pt](Ich lege das Buch auf den Tisch.)[/font_size][/color] [color=#008000](Je pose le livre sur la table.)[/color][/i][/indent]
+
+[indent]• Décrivez une situation statique avec le datif :
+[i]Exemple : [color=#0000FF]Er steht in der Tür.[font_size=18pt](Er steht in der Tür.)[/font_size][/color] [color=#008000](Il est debout dans la porte.)[/color][/i]
+
+- Décrivez un changement de position avec l'accusatif :
+[i]Exemple : [color=#0000FF]Er geht in die Tür.[font_size=18pt](Er geht in die Tür.)[/font_size][/color] [color=#008000](Il entre dans la porte.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Astuces pour retenir les prépositions mixtes[/color][/font_size]
+
+Voici quelques astuces pour vous aider à retenir l'utilisation des prépositions mixtes :
+
+[indent]• Souvenez-vous que le datif répond à la question "Wo?" (Où?) et décrit une position statique.
+[i]Exemple : [color=#0000FF]Die Katzen schlafen unter dem Bett.[font_size=18pt](Die Katzen schlafen unter dem Bett.)[/font_size][/color] [color=#008000](Les chats dorment sous le lit.)[/color][/i]
+
+- Souvenez-vous que l'accusatif répond à la question "Wohin?" (Où vers ?) et décrit un mouvement ou un changement de position.
+[i]Exemple : [color=#0000FF]Die Katzen laufen unter das Bett.[font_size=18pt](Die Katzen laufen unter das Bett.)[/font_size][/color] [color=#008000](Les chats courent sous le lit.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les prépositions mixtes peuvent régir à la fois le datif et l'accusatif en fonction de la question posée (Wo? ou Wohin?).
+[color=#FF0000]2.[/color] Utilisez le datif pour décrire une position statique.
+[color=#FF0000]3.[/color] Utilisez l'accusatif pour décrire un mouvement ou un changement de position.
+[color=#FF0000]4.[/color] Apprenez à poser les bonnes questions (Wo? et Wohin?) pour déterminer la déclinaison correcte.[/indent]
+
+[center][font_size=18][color=#808080]Richtiges Verständnis und Anwendung der doppelten Präpositionen werden Ihr Deutsch natürlicher und fließender machen![/color][/font_size][/center]

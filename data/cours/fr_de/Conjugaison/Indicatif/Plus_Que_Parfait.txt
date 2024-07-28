@@ -1,0 +1,67 @@
+[font_size=30][center][b][color=#0000FF]Le Plus-Que-Parfait en Allemand (Plusquamperfekt)[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Plus-Que-Parfait en allemand est utilisé pour exprimer une action qui s'est produite avant une autre action dans le passé. C’est l’équivalent de notre "Plus-Que-Parfait" en français. Comprendre et utiliser cette forme verbale vous aidera à décrire les relations temporelles entre différents événements passés.
+
+[font_size=24][color=#4B0082]1. Structure du Plus-Que-Parfait[/color][/font_size]
+
+Pour former le Plus-Que-Parfait, on utilise les verbes auxiliaires [b]sein[/b] (être) ou [b]haben[/b] (avoir) à l'imparfait, suivis du participe passé du verbe principal.
+
+[b]a) Règles générales[/b]
+[indent]Utilisez [b]haben[/b] pour les verbes transitifs et les verbes intransitifs sans changement d'état ou de lieu.
+Utilisez [b]sein[/b] pour les verbes intransitifs qui expriment un changement d’état ou de lieu et pour quelques verbes d’état spécifiques.
+[code]
+Ich hatte gemacht (j'avais fait) 
+Er war gegangen (il était parti)
+[/code][/indent]
+
+[b]b) Formation du participle passé[/b]
+[indent]Pour les verbes réguliers, le participe passé est généralement formé avec le préfixe [b]ge-[/b] et le suffixe [b]-t[/b].
+[code]
+machen (faire) -> gemacht (fait)
+sagen (dire) -> gesagt (dit)
+[/code]
+
+Pour les verbes irréguliers, le participe passé peut varier et doit être appris individuellement.
+[code]
+gehen (aller) -> gegangen (allé)
+sehen (voir) -> gesehen (vu)
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Plus-Que-Parfait[/color][/font_size]
+
+Utilisez le Plus-Que-Parfait pour indiquer une action qui s'était achevée avant une autre dans le passé.
+
+[indent]• Lorsqu’une action antérieure est mentionnée
+[i]Exemple : [color=#0000FF]Nachdem er gekommen war, gingen wir ins Kino.[font_size=18pt](Après qu'il fut arrivé, nous sommes allés au cinéma.)[/font_size][/color][/i]
+
+- Pour souligner la chaîne d'événements passés
+[i]Exemple : [color=#0000FF]Er hatte das Buch gelesen, bevor er schlafen ging.[font_size=18pt](Il avait lu le livre avant d'aller dormir.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Particules séparables et inséparables au Plus-Que-Parfait[/color][/font_size]
+
+Le placement des particules des verbes séparables change au Plus-Que-Parfait.
+
+[indent]• Verbes séparables
+[indent]Les particules des verbes séparables sont placées entre le préfixe [b]ge-[/b] et le radical du verbe.
+[code]
+ankommen (arriver) -> ich war angekommen (j'étais arrivé)
+[/code][/indent]
+
+- Verbes inséparables
+[indent]Les préfixes des verbes inséparables restent attachés au verbe.
+[code]
+vergessen (oublier) -> ich hatte vergessen (j'avais oublié)
+[/code][/indent][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Plus-Que-Parfait indique une action achevée avant une autre action passée.
+[color=#FF0000]2.[/color] Utilisez [b]sein[/b] ou [b]haben[/b] à l'imparfait suivi du participe passé pour former cette structure.
+[color=#FF0000]3.[/color] Le choix entre [b]sein[/b] et [b]haben[/b] dépend du verbe principal.
+[color=#FF0000]4.[/color] Préfixes séparables et inséparables influencent la formation du participe passé.[/indent]
+
+[center][font_size=18][color=#808080]Perfekte Anwendung des Plusquamperfekts macht Ihr Deutsch fließender und präziser![/color][/font_size][/center]

@@ -1,0 +1,80 @@
+[font_size=30][center][b][color=#0000FF]Les Nombres Ordinaux en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les nombres ordinaux en allemand sont utilisés pour exprimer la position ou le rang dans une séquence. Ils sont essentiels pour indiquer les dates, les positions dans une course, ou encore les étages d'un bâtiment. Les règles de formation des ordinaux en allemand sont simples mais doivent être apprises attentivement.
+
+[font_size=24][color=#4B0082]1. La formation générale des nombres ordinaux[/color][/font_size]
+
+En allemand, les nombres ordinaux de 1 à 19 sont formés en ajoutant le suffixe [b]“-te”[/b] au nombre cardinal. À partir de 20, le suffixe [b]“-ste”[/b] est utilisé. Cependant, certains nombres ordinaux ont des formes irrégulières.
+
+[b]a) De 1 à 19[/b]
+[indent][i]Note : Les nombres 1, 3, 7 et 8 sont irréguliers.[/i]
+[code]
+1. erste (premier/première)
+2. zweite (deuxième)
+3. dritte (troisième)
+4. vierte (quatrième)
+5. fünfte (cinquième)
+6. sechste (sixième)
+7. siebte (septième)
+8. achte (huitième)
+9. neunte (neuvième)
+10. zehnte (dixième)
+11. elfte (onzième)
+12. zwölfte (douzième)
+13. dreizehnte (treizième)
+14. vierzehnte (quatorzième)
+15. fünfzehnte (quinzième)
+16. sechzehnte (seizième)
+17. siebzehnte (dix-septième)
+18. achtzehnte (dix-huitième)
+19. neunzehnte (dix-neuvième)
+[/code]
+[i]Exemple : [color=#0000FF]Das ist mein erster Tag in der Schule.[font_size=18pt] (C'est mon premier jour à l'école.)[/font_size][/color][/i][/indent]
+
+[b]b) À partir de 20[/b]
+[indent][code]
+20. zwanzigste (vingtième)
+21. einundzwanzigste (vingt-et-unième)
+22. zweiundzwanzigste (vingt-deuxième)
+30. dreißigste (trentième)
+40. vierzigste (quarantième)
+50. fünfzigste (cinquantième)
+60. sechzigste (soixantième)
+70. siebzigste (soixante-dixième)
+80. achtzigste (quatre-vingtième)
+90. neunzigste (quatre-vingt-dixième)
+100. hundertste (centième)
+[/code]
+[i]Exemple : [color=#0000FF]Heute ist sein zwanzigster Geburtstag.[font_size=18pt] (Aujourd'hui c'est son vingtième anniversaire.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des nombres ordinaux[/color][/font_size]
+
+Les nombres ordinaux en allemand s'accordent en genre, en nombre et en cas avec le nom qu'ils déterminent. Ils prennent aussi des terminaisons spécifiques en fonction du contexte grammatical.
+
+[indent]• Pour indiquer les dates :
+[i]Exemple : [color=#0000FF]Heute ist der dritte Juli.[font_size=18pt] (Aujourd'hui, c'est le 3 juillet.)[/font_size][/color][/i]
+
+• Pour les étages et les positions :
+[i]Exemple : [color=#0000FF]Ich wohne im zweiten Stock.[font_size=18pt] (J'habite au deuxième étage.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Les nombres ordinaux peuvent se combiner avec d'autres mots pour former des expressions plus détaillées.
+[indent]• Indication du siècle :
+[i]Exemple : [color=#0000FF]Das zwanzigste Jahrhundert.[font_size=18pt] (Le vingtième siècle.)[/font_size][/color][/i]
+
+• Indication d'une séquence :
+[i]Exemple : [color=#0000FF]Er kam als dritter an.[font_size=18pt] (Il est arrivé en troisième position.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les nombres ordinaux en allemand se forment principalement en ajoutant les suffixes “-te” ou “-ste” aux cardinaux.
+[color=#FF0000]2.[/color] Nombre de 1 à 19 utilisent “-te”, avec quelques irrégularités pour 1, 3, 7 et 8.
+[color=#FF0000]3.[/color] À partir de 20, les nombres ordinaux prennent le suffixe “-ste”.
+[color=#FF0000]4.[/color] Les nombres ordinaux doivent s'accorder en genre, en nombre et en cas avec le nom qui les suit.[/indent]
+
+[center][font_size=18][color=#808080]Verwenden Sie Ordnungszahlen richtig, um Ihre deutschen Ausdrücke präzise und korrekt zu gestalten! (Utilisez correctement les nombres ordinaux pour rendre vos expressions allemandes précises et correctes!)[/color][/font_size][/center]

@@ -1,0 +1,79 @@
+[font_size=30][center][b][color=#0000FF]Les Pronoms Relatifs en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les pronoms relatifs en allemand permettent de relier des propositions relatives à une proposition principale, en précisant ou en donnant des informations supplémentaires sur un nom ou un pronom. Ils sont essentiels pour construire des phrases complexes et précises.
+
+[font_size=24][color=#4B0082]1. Les différents pronoms relatifs[/color][/font_size]
+
+En allemand, les pronoms relatifs se déclinent selon le genre, le nombre et le cas. Voici les principaux pronoms relatifs :
+
+[b]a) Masculin[/b]
+[indent][code]
+Nominatif : der [color=#008000](qui, que)[/color]
+Accusatif : den [color=#008000](que)[/color]
+Datif : dem [color=#008000](à qui, auquel)[/color]
+Génitif : dessen [color=#008000](dont)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]Der Mann, der dort steht, ist mein Vater.[font_size=18pt](L'homme qui se tient là est mon père.)[/font_size][/color][/i][/indent]
+
+[b]b) Féminin[/b]
+[indent][code]
+Nominatif : die [color=#008000](qui, que)[/color]
+Accusatif : die [color=#008000](que)[/color]
+Datif : der [color=#008000](à qui, à laquelle)[/color]
+Génitif : deren [color=#008000](dont)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]Die Frau, die ich gestern gesehen habe, ist meine Lehrerin.[font_size=18pt](La femme que j'ai vue hier est mon professeur.)[/font_size][/color][/i][/indent]
+
+[b]c) Neutre[/b]
+[indent][code]
+Nominatif : das [color=#008000](qui, que)[/color]
+Accusatif : das [color=#008000](que)[/color]
+Datif : dem [color=#008000](à qui, auquel)[/color]
+Génitif : dessen [color=#008000](dont)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]Das Buch, das auf dem Tisch liegt, gehört mir.[font_size=18pt](Le livre qui est sur la table m'appartient.)[/font_size][/color][/i][/indent]
+
+[b]d) Pluriel[/b]
+[indent][code]
+Nominatif : die [color=#008000](qui, que)[/color]
+Accusatif : die [color=#008000](que)[/color]
+Datif : denen [color=#008000](à qui, auxquels)[/color]
+Génitif : deren [color=#008000](dont)[/color]
+[/code]
+[i]Exemple : [color=#0000FF]Die Kinder, die im Park spielen, sind glücklich.[font_size=18pt](Les enfants qui jouent dans le parc sont heureux.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des pronoms relatifs[/color][/font_size]
+
+Les pronoms relatifs s'utilisent pour introduire une proposition relative qui apporte des informations complémentaires sur le nom ou le pronom qu'elle qualifie.
+
+[indent]• Le pronom relatif doit toujours être au début de la proposition relative.
+[i]Exemple : [color=#0000FF]Das Auto, das ich gekauft habe, ist rot.[font_size=18pt](La voiture que j'ai achetée est rouge.)[/font_size][/color][/i]
+
+- Le cas du pronom relatif dépend de sa fonction dans la proposition relative (sujet, objet direct, complément d'objet indirect, etc.).
+[i]Exemple : [color=#0000FF]Der Lehrer, den ich gestern getroffen habe, ist nett.[font_size=18pt](Le professeur que j'ai rencontré hier est gentil.)[/font_size][/color][/i]
+
+- Les pronoms relatifs en génitif expriment la possession.
+[i]Exemple : [color=#0000FF]Der Mann, dessen Hund bellte, ist mein Nachbar.[font_size=18pt](L'homme dont le chien aboyait est mon voisin.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions sur les propositions relatives[/color][/font_size]
+
+Les propositions relatives ajoutent des informations descriptives et peuvent préciser le contexte ou la situation.
+
+[indent]• La proposition relative est généralement en position médiane, après le nom qu'elle qualifie.
+[i]Exemple : [color=#0000FF]Das Mädchen, das im Garten spielt, ist meine Schwester.[font_size=18pt](La fille qui joue dans le jardin est ma sœur.)[/font_size][/color][/i]
+
+- Les noms et les pronoms qualifiés par une proposition relative doivent avoir une correspondance en genre et en nombre avec le pronom relatif.
+[i]Exemple : [color=#0000FF]Die Katzen, deren Augen leuchten, sind schön.[font_size=18pt](Les chats dont les yeux brillent sont beaux.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les pronoms relatifs relient des propositions relatives à une proposition principale.
+[color=#FF0000]2.[/color] Ils se déclinent selon le genre, le nombre et le cas.
+[color=#FF0000]3.[/color] La fonction du pronom relatif dans la proposition relative détermine son cas.
+[color=#FF0000]4.[/color] Les propositions relatives permettent d'ajouter des informations descriptives ou contextuelles.[/indent]
+
+[center][font_size=18][color=#808080]Die richtige Verwendung von Relativpronomen macht dein Deutsch präziser und flüssiger! (Die richtige Verwendung von Relativpronomen macht dein Deutsch präziser und flüssiger!)[/color][/font_size][/center]

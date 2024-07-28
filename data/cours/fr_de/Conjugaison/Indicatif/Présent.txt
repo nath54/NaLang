@@ -1,0 +1,82 @@
+[font_size=30][center][b][color=#0000FF]Le Présent de l'Indicatif en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le présent de l’indicatif est utilisé en allemand pour parler d'actions qui se passent en ce moment, d'actions habituelles ou de vérités générales. Il correspond à notre présent en français.
+
+[font_size=24][color=#4B0082]1. Formation du présent de l'indicatif[/color][/font_size]
+
+En allemand, la conjugaison des verbes au présent suit certaines règles basiques selon les trois groupes de verbes principaux : les verbes réguliers, les verbes irréguliers et les verbes de modalité.
+
+[b]a) Verbes réguliers[/b]
+[indent]Pour conjuguer un verbe régulier au présent, on prend le radical du verbe et on ajoute les terminaisons spécifiques aux personnes.
+[code]
+Manger (essen):
+[center][table][tr][td]je mange : ich esse[/td][/tr]
+[tr][td]tu manges : du isst[/td][/tr]
+[tr][td]il/elle mange : er/sie/es isst[/td][/tr]
+[tr][td]nous mangeons : wir essen[/td][/tr]
+[tr][td]vous mangez : ihr esst[/td][/tr]
+[tr][td]ils/elles mangent : sie/Sie essen[/td][/tr][/table][/center]
+[/code]
+Exemple : [color=#0000FF]Ich lerne Deutsch.[font_size=18pt](Je apprends allemand.)[/font_size][/color] [color=#008000](Je viens d'apprendre l'allemand.)[/color][/indent]
+
+[b]b) Verbes irréguliers[/b]
+[indent]Les verbes irréguliers changent souvent de radical lorsqu'ils sont conjugués. Il est important de les apprendre par cœur.
+[code]
+Aller (gehen):
+[center][table][tr][td]je vais : ich gehe[/td][/tr]
+[tr][td]tu vas : du gehst[/td][/tr]
+[tr][td]il/elle va : er/sie/es geht[/td][/tr]
+[tr][td]nous allons : wir gehen[/td][/tr]
+[tr][td]vous allez : ihr geht[/td][/tr]
+[tr][td]ils/elles vont : sie/Sie gehen[/td][/tr][/table][/center]
+[/code]
+
+Exemple : [color=#0000FF]Er spricht gut Deutsch.[font_size=18pt](Il parle bien allemand.)[/font_size][/color] [color=#008000](Il parle bien l'allemand.)[/indent]
+
+[b]c) Verbes de modalité[/b]
+[indent]Les verbes de modalité (comme können (pouvoir), müssen (devoir), wollen (vouloir)) ont des formes particulières et souvent irrégulières. Ces verbes sont suivis d'un infinitif.
+[code]
+Pouvoir (können):
+[center][table][tr][td]je peux : ich kann[/td][/tr]
+[tr][td]tu peux : du kannst[/td][/tr]
+[tr][td]il/elle peut : er/sie/es kann[/td][/tr]
+[tr][td]nous pouvons : wir können[/td][/tr]
+[tr][td]vous pouvez : ihr könnt[/td][/tr]
+[tr][td]ils/elles peuvent : sie/Sie können[/td][/tr][/table][/center]
+[/code]
+
+Exemple : [color=#0000FF]Wir können Deutsch sprechen.[font_size=18pt](Nous pouvons parler allemand.)[/font_size][/color] [color=#008000](Nous pouvons parler l'allemand.)[/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du présent de l'indicatif[/color][/font_size]
+
+Le présent de l'indicatif s'utilise dans plusieurs contextes en allemand. Voici quelques exemples pour mieux comprendre :
+
+[indent]• Pour exprimer des actions qui se passent actuellement :
+[i]Exemple : [color=#0000FF]Ich lese ein Buch.[font_size=18pt](Je lis un livre.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i]
+
+• Pour parler d'actions habituelles ou récurrentes :
+[i]Exemple : [color=#0000FF]Jeden Morgen trinke ich Kaffee.[font_size=18pt](Chaque matin je bois du café.)[/font_size][/color] [color=#008000](Chaque matin, je bois du café.)[/color][/i]
+
+• Pour des faits généraux ou des vérités universelles :
+[i]Exemple : [color=#0000FF]Die Erde ist rund.[font_size=18pt](La Terre est ronde.)[/font_size][/color] [color=#008000](La Terre est ronde.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Expressions courantes au présent de l'indicatif[/color][/font_size]
+
+Voici quelques expressions courantes employées au présent de l’indicatif en allemand :
+
+[indent][color=#0000FF]Wie geht es dir?[/color] [color=#008000](Comment vas-tu?) [/color]
+[color=#0000FF]Es regnet.[/color] [color=#008000](Il pleut.) [/color]
+[color=#0000FF]Ich habe Hunger.[/color] [color=#008000](J'ai faim.) [/color]
+[color=#0000FF]Wir fahren nach Hause.[/color] [color=#008000](Nous rentrons à la maison.) [/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le présent de l'indicatif s'utilise pour exprimer des actions actuelles, habituelles ou des vérités générales.
+[color=#FF0000]2.[/color] Les verbes réguliers, irréguliers et de modalité ont des formes spécifiques qu'il faut mémoriser.
+[color=#FF0000]3.[/color] Apprendre les verbes de modalité est crucial car ils sont très utilisés en allemand.[/indent]
+
+[center][font_size=18][color=#808080]Übe regelmäßig das Präsens, um dein Deutsch zu verbessern! (Entraîne-toi régulièrement avec le présent pour améliorer ton allemand !)[/color][/font_size][/center]

@@ -1,0 +1,86 @@
+[font_size=30][center][b][color=#0000FF]Les Conjonctions Subordonnantes en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les conjonctions subordonnantes (subordinierende Konjunktionen) en allemand sont utilisées pour introduire des propositions subordonnées. Elles sont essentielles pour créer des phrases complexes et nuancées. Contrairement aux conjonctions de coordination, elles modifient l'ordre des mots dans la proposition qu'elles introduisent.
+
+[font_size=24][color=#4B0082]1. Les principales conjonctions subordonnantes[/color][/font_size]
+
+Voici une liste des conjonctions subordonnantes les plus couramment utilisées en allemand :
+
+[b]a) dass (que)[/b]
+[indent]Cette conjonction introduit des propositions complétives.
+[code]
+Ich denke, dass er kommt. [color=#008000](Je pense qu'il vient.)[/color]
+[/code]
+
+[b]b) weil (parce que)[/b]
+[indent]Elle introduit des propositions causales.
+[code]
+Ich bleibe zu Hause, weil es regnet. [color=#008000](Je reste à la maison parce qu'il pleut.)[/color]
+[/code]
+
+[b]c) wenn (si, quand)[/b]
+[indent]Elle est utilisée pour introduire des conditions ou des événements qui se répètent.
+[code]
+Wenn es regnet, bleibe ich zu Hause. [color=#008000](S'il pleut, je reste à la maison.)[/color]
+[/code]
+
+[b]d) ob (si, whether en anglais)[/b]
+[indent]Utilisée pour les interrogatives indirectes.
+[code]
+Ich weiß nicht, ob er kommt. [color=#008000](Je ne sais pas s'il vient.)[/color]
+[/code]
+
+[b]e) weil et wenn utilisés avec Nebensatz (proposition subordonnée)[/b]
+[indent]Ces conjonctions modifient l'ordre des mots : le verbe conjugué se place à la fin de la proposition.
+[code]
+Er geht ins Bett, weil er müde ist. [color=#008000](Il va au lit parce qu'il est fatigué.)[/color]
+Wenn ich Zeit habe, besuche ich dich. [color=#008000](Quand j'ai du temps, je te rends visite.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Règles d'utilisation des conjonctions subordonnantes[/color][/font_size]
+
+Lorsque vous utilisez des conjonctions subordonnantes, l'ordre des mots dans la proposition subordonnée change. Voici quelques règles essentielles à suivre :
+
+- Le verbe conjugué se place toujours à la fin de la proposition subordonnée.
+[i]Exemple : [color=#0000FF]Ich glaube, dass er Deutsch spricht.[font_size=18pt](Ich glaube, dass er Deutsch spricht.)[/font_size][/color] [color=#008000](Je crois qu'il parle allemand.)[/color][/i]
+
+- Si la proposition principale commence avec la conjonction subordonnante, elle est suivie d'une virgule.
+[i]Exemple : [color=#0000FF]Wenn ich Zeit habe, besuche ich dich.[font_size=18pt](Wenn ich Zeit habe, besuche ich dich.)[/font_size][/color] [color=#008000](Quand j'ai du temps, je te rends visite.)[/color][/i]
+
+- La proposition principale et la proposition subordonnée peuvent être inversées sans changer le sens, mais cela peut influer sur la ponctuation.
+[i]Exemple : [color=#0000FF]Ich besuche dich, wenn ich Zeit habe.[font_size=18pt](Ich besuche dich, wenn ich Zeit habe.)[/font_size][/color] [color=#008000](Je te rends visite quand j'ai du temps.)[/color][/i]
+
+[font_size=24][color=#4B0082]3. Conjonctions subordonnantes supplémentaires[/color][/font_size]
+
+Voici quelques autres conjonctions subordonnantes courantes :
+
+[b]a) obwohl (bien que, even though en anglais)[/b]
+[indent]Elle introduit des concessions.
+[code]
+Er geht spazieren, obwohl es regnet. [color=#008000](Il va se promener bien qu'il pleuve.)[/color]
+[/code]
+
+[b]b) bevor (avant que)[/b]
+[indent]Elle est utilisée pour des événements qui se sont produits avant un autre événement.
+[code]
+Ich wasche mir die Hände, bevor ich esse. [color=#008000](Je me lave les mains avant de manger.)[/color]
+[/code]
+
+[b]c) nachdem (après que)[/b]
+[indent]Utilisée pour des événements qui se produisent après un autre événement.
+[code]
+Wir gehen ins Kino, nachdem wir gegessen haben. [color=#008000](Nous allons au cinéma après avoir mangé.)[/color]
+[/code]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les conjonctions subordonnantes introduisent des propositions subordonnées et modifient l'ordre des mots.
+[color=#FF0000]2.[/color] Le verbe conjugué se place toujours à la fin de la proposition subordonnée.
+[color=#FF0000]3.[/color] L'utilisation correcte des conjonctions subordonnantes est essentielle pour la clarté et la fluidité en allemand.
+[color=#FF0000]4.[/color] Les propositions principales et subordonnées peuvent être inversées, mais faites attention à la ponctuation.[/indent]
+
+[center][font_size=18][color=#808080]Üben Sie die Verwendung der subordinierenden Konjunktionen, um Ihre deutschen Sätze präziser und natürlicher zu gestalten![/color][/font_size][/center]

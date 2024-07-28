@@ -1,0 +1,100 @@
+[font_size=30][center][b][color=#0000FF]Les Déclinaisons des Adjectifs en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Comprendre les déclinaisons des adjectifs en allemand est essentiel pour bien maîtriser cette langue. Les adjectifs en allemand se déclinent selon le genre, le nombre et le cas du nom auquel ils se réfèrent. Cette leçon vous aidera à apprendre les différentes règles et formes de déclinaisons des adjectifs.
+
+[font_size=24][color=#4B0082]1. Introduction aux déclinaisons des adjectifs[/color][/font_size]
+
+En allemand, les déclinaisons des adjectifs varient en fonction de trois critères : le genre (masculin, féminin, neutre), le nombre (singulier, pluriel) et le cas (nominatif, accusatif, datif, génitif). Les déclinaisons peuvent aussi dépendre de la présence d'un déterminant défini (der, die, das) ou indéfini (ein, eine, ein).
+
+[b]a) Déclinaison après un déterminant défini[/b]
+[indent]Voici les terminaisons des adjectifs après un déterminant défini (der, die, das).
+
+[code]
+- Nominatif :
+  der große Mann [color=#008000](l'homme grand)[/color]
+  die schöne Frau [color=#008000](la femme belle)[/color]
+  das kleine Kind [color=#008000](l'enfant petit)[/color]
+  die großen Männer [color=#008000](les hommes grands)[/color]
+
+- Accusatif :
+  den großen Mann [color=#008000](l'homme grand)[/color]
+  die schöne Frau [color=#008000](la femme belle)[/color]
+  das kleine Kind [color=#008000](l'enfant petit)[/color]
+  die großen Männer [color=#008000](les hommes grands)[/color]
+
+- Datif :
+  dem großen Mann [color=#008000](à l'homme grand)[/color]
+  der schönen Frau [color=#008000](à la femme belle)[/color]
+  dem kleinen Kind [color=#008000](à l'enfant petit)[/color]
+  den großen Männern [color=#008000](aux hommes grands)[/color]
+
+- Génitif :
+  des großen Mannes [color=#008000](de l'homme grand)[/color]
+  der schönen Frau [color=#008000](de la femme belle)[/color]
+  des kleinen Kindes [color=#008000](de l'enfant petit)[/color]
+  der großen Männer [color=#008000](des hommes grands)[/color]
+[/code]
+[/indent]
+
+[b]b) Déclinaison après un déterminant indéfini[/b]
+[indent]Voici les terminaisons des adjectifs après un déterminant indéfini (ein, eine, ein).
+
+[code]
+- Nominatif :
+  ein großer Mann [color=#008000](un homme grand)[/color]
+  eine schöne Frau [color=#008000](une femme belle)[/color]
+  ein kleines Kind [color=#008000](un enfant petit)[/color]
+  keine großen Männer [color=#008000](pas des hommes grands)[/color]
+
+- Accusatif :
+  einen großen Mann [color=#008000](un homme grand)[/color]
+  eine schöne Frau [color=#008000](une femme belle)[/color]
+  ein kleines Kind [color=#008000](un enfant petit)[/color]
+  keine großen Männer [color=#008000](pas des hommes grands)[/color]
+
+- Datif :
+  einem großen Mann [color=#008000](à un homme grand)[/color]
+  einer schönen Frau [color=#008000](à une femme belle)[/color]
+  einem kleinen Kind [color=#008000](à un enfant petit)[/color]
+  keinen großen Männern [color=#008000](pas aux hommes grands)[/color]
+
+- Génitif :
+  eines großen Mannes [color=#008000](d'un homme grand)[/color]
+  einer schönen Frau [color=#008000](d'une femme belle)[/color]
+  eines kleinen Kindes [color=#008000](d'un enfant petit)[/color]
+  keiner großen Männer [color=#008000](pas des hommes grands)[/color]
+[/code]
+[/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des déclinaisons des adjectifs[/color][/font_size]
+
+Pour utiliser correctement les déclinaisons des adjectifs en allemand, il est important de connaître le genre, le nombre et le cas du nom auquel l'adjectif se réfère. Voici quelques exemples pour illustrer :
+
+[indent]• Avec un déterminant défini :
+[i]Exemple : [color=#0000FF]Der große Hund spielt im Garten.[font_size=18pt](Der große Hund spielt im Garten.)[/font_size][/color] [color=#008000](Le grand chien joue dans le jardin.)[/color][/i]
+
+- Avec un déterminant indéfini :
+[i]Exemple : [color=#0000FF]Ein großer Hund spielt im Garten.[font_size=18pt](Ein großer Hund spielt im Garten.)[/font_size][/color] [color=#008000](Un grand chien joue dans le jardin.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Cas particuliers et précisions[/color][/font_size]
+
+Il existe quelques cas particuliers et nuances à prendre en compte lors de la déclinaison des adjectifs.
+
+[indent]• Après les possessifs, les adjectifs se déclinent de la même façon qu'après les déterminants indéfinis.
+[i]Exemple : [color=#0000FF]Mein großer Hund ist alt.[font_size=18pt](Mein großer Hund ist alt.)[/font_size][/color] [color=#008000](Mon grand chien est vieux.)[/color][/i]
+
+- Dans certains contextes, les adjectifs peuvent également se décliner sans déterminant.
+[i]Exemple : [color=#0000FF]Großer Hund spielt im Garten.[font_size=18pt](Großer Hund spielt im Garten.)[/font_size][/color] [color=#008000](Grand chien joue dans le jardin.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les adjectifs en allemand se déclinent selon le genre, le nombre et le cas du nom auquel ils se réfèrent.
+[color=#FF0000]2.[/color] Les déclinaisons varient en fonction de la présence d'un déterminant défini ou indéfini.
+[color=#FF0000]3.[/color] Il est crucial de connaître les formes de déclinaison pour bien utiliser les adjectifs dans une phrase.
+[color=#FF0000]4.[/color] Les cas particuliers, comme les possessifs et l'absence de déterminant, doivent être pris en compte.[/indent]
+
+[center][font_size=18][color=#808080]Meistern Sie die Deklination der Adjektive, um Ihr Deutsch natürlicher und präziser zu machen! (Meistern Sie die Deklination der Adjektive, um Ihr Deutsch natürlicher und präziser zu machen!)[/color][/font_size][/center]

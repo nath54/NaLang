@@ -1,0 +1,92 @@
+[font_size=30][center][b][color=#0000FF]Les Nombres Cardinaux en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les nombres cardinaux en allemand sont utilisés pour exprimer des quantités et des nombres précis. Leur apprentissage est essentiel pour pouvoir compter, dire l'âge, parler de quantités et bien d'autres situations. Voici une introduction aux nombres cardinaux les plus courants.
+
+[font_size=24][color=#4B0082]1. Les nombres de 1 à 20[/color][/font_size]
+
+Apprenons d'abord les nombres de base de 1 à 20. Il est important de les mémoriser car ils servent de base pour former des nombres plus grands.
+
+[code]
+eins (1) [color=#008000](un)[/color]
+zwei (2) [color=#008000](deux)[/color]
+drei (3) [color=#008000](trois)[/color]
+vier (4) [color=#008000](quatre)[/color]
+fünf (5) [color=#008000](cinq)[/color]
+sechs (6) [color=#008000](six)[/color]
+sieben (7) [color=#008000](sept)[/color]
+acht (8) [color=#008000](huit)[/color]
+neun (9) [color=#008000](neuf)[/color]
+zehn (10) [color=#008000](dix)[/color]
+elf (11) [color=#008000](onze)[/color]
+zwölf (12) [color=#008000](douze)[/color]
+dreizehn (13) [color=#008000](treize)[/color]
+vierzehn (14) [color=#008000](quatorze)[/color]
+fünfzehn (15) [color=#008000](quinze)[/color]
+sechzehn (16) [color=#008000](seize)[/color]
+siebzehn (17) [color=#008000](dix-sept)[/color]
+achtzehn (18) [color=#008000](dix-huit)[/color]
+neunzehn (19) [color=#008000](dix-neuf)[/color]
+zwanzig (20) [color=#008000](vingt)[/color]
+[/code]
+
+[font_size=24][color=#4B0082]2. Les dizaines[/color][/font_size]
+
+Les nombres à partir de 21 en allemand sont formés en combinant l'unité avec la dizaine. Notez que les unités sont placées avant les dizaines et reliées par "und" (et).
+
+[code]
+dreißig (30) [color=#008000](trente)[/color]
+vierzig (40) [color=#008000](quarante)[/color]
+fünfzig (50) [color=#008000](cinquante)[/color]
+sechzig (60) [color=#008000](soixante)[/color]
+siebzig (70) [color=#008000](soixante-dix)[/color]
+achtzig (80) [color=#008000](quatre-vingts)[/color]
+neunzig (90) [color=#008000](quatre-vingt-dix)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]einundzwanzig (21)[/color] [color=#008000](vingt et un)[/color][/i]
+[i]Exemple : [color=#0000FF]zweiunddreißig (32)[/color] [color=#008000](trente-deux)[/color][/i]
+
+[font_size=24][color=#4B0082]3. Les centaines et les milliers[/color][/font_size]
+
+Les nombres par centaines et milliers suivent une structure semblable avec des règles spécifiques pour leur formation. Voici quelques bases :
+
+[indent]• Les centaines :
+[code]
+einhundert (100) [color=#008000](cent)[/color]
+zweihundert (200) [color=#008000](deux cent)[/color]
+dreihundert (300) [color=#008000](trois cent)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]einhundertzwanzig (120)[/color] [color=#008000](cent vingt)[/color][/i][/indent]
+
+[indent]• Les milliers :
+[code]
+eintausend (1000) [color=#008000](mille)[/color]
+zweitausend (2000) [color=#008000](deux mille)[/color]
+dreitausend (3000) [color=#008000](trois mille)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]eintausendfünfhundert (1500)[/color] [color=#008000](mille cinq cents)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Particularités des nombres en allemand[/color][/font_size]
+
+Il y a quelques particularités à noter pour les nombres en allemand :
+
+[indent]• La numérotation utilise souvent des traits-d’union pour séparer les parties des nombres complexes.
+[i]Exemple : [color=#0000FF]siebenunddreißig (37)[/color] [color=#008000](trente-sept)[/color][/i]
+
+- "Eins" (1) perd son "s" en combinaison avec d'autres nombres.
+[i]Exemple : [color=#0000FF]einundzwanzig (21)[/color] [color=#008000](vingt et un)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les nombres cardinaux en allemand suivent une logique différente avec l'unité placée avant la dizaine.
+[color=#FF0000]2.[/color] Les dizaines se combinent avec les unités grâce à l'utilisation de "und" (et).
+[color=#FF0000]3.[/color] Les centaines et les milliers sont formés en additionnant chaque élément du nombre.
+[color=#FF0000]4.[/color] Certains nombres subissent des transformations orthographiques lorsqu'ils sont combinés.[/indent]
+
+[center][font_size=18][color=#808080]Récitez et pratiquez ces nombres pour améliorer votre aisance en allemand ![/color][/font_size][/center]

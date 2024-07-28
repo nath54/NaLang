@@ -1,0 +1,62 @@
+[font_size=30][center][b][color=#0000FF]Le Futur Antérieur en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le futur antérieur, ou « Futur II » en allemand, est utilisé pour exprimer une action qui sera terminée dans le futur avant une autre action future ou un moment futur. Cette leçon vous aidera à comprendre la formation et l'utilisation du futur antérieur en allemand.
+
+[font_size=24][color=#4B0082]1. Formation du futur antérieur[/color][/font_size]
+
+Pour former le futur antérieur en allemand, on utilise l'auxiliaire [b]"werden"[/b] conjugué au présent, suivi du participe passé du verbe principal et de l'auxiliaire [b]"haben"[/b] ou [b]"sein"[/b] à l'infinitif en fin de phrase.
+
+[b]a) Auxiliaire "haben"[/b]
+[indent]Pour la plupart des verbes, l'auxiliaire utilisé est [b]"haben"[/b] (avoir).
+[code]
+ich werde gemacht haben (je serai fait)
+du wirst gemacht haben (tu seras fait)
+er/sie/es wird gemacht haben (il/elle/on sera fait)
+wir werden gemacht haben (nous serons faits)
+ihr werdet gemacht haben (vous serez faits)
+sie/Sie werden gemacht haben (ils/elles/vous [formel] seront faits)
+[/code][/indent]
+
+[b]b) Auxiliaire "sein"[/b]
+[indent]Certains verbes, notamment les verbes de mouvement et les verbes d'état, utilisent l'auxiliaire [b]"sein"[/b] (être).
+[code]
+ich werde gegangen sein (je serai allé)
+du wirst gegangen sein (tu seras allé)
+er/sie/es wird gegangen sein (il/elle/on sera allé)
+wir werden gegangen sein (nous serons allés)
+ihr werdet gegangen sein (vous serez allés)
+sie/Sie werden gegangen sein (ils/elles/vous [formel] seront allés)
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du futur antérieur[/color][/font_size]
+
+Le futur antérieur est souvent utilisé en allemand pour indiquer qu'une action sera complétée avant un certain moment futur ou une autre action future. Il est également utilisé pour exprimer des suppositions sur une action probablement terminée.
+
+[indent]• Pour indiquer qu'une action sera terminée dans le futur avant une autre action :
+[i]Exemple : [color=#0000FF]Bis morgen werde ich meine Hausaufgaben gemacht haben.[font_size=18pt](Bis morgen werde ich meine Hausaufgaben gemacht haben.)[/font_size][/color] [color=#008000](D'ici demain, j'aurai fait mes devoirs.)[/color][/i]
+
+- Pour exprimer une supposition ou une incertitude sur le passé, mais dans un futur perspective :
+[i]Exemple : [color=#0000FF]Er wird wohl schon zu Hause angekommen sein.[font_size=18pt](Er wird wohl schon zu Hause angekommen sein.)[/font_size][/color] [color=#008000](Il sera probablement déjà arrivé à la maison.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Quelques précisions supplémentaires[/color][/font_size]
+
+Il est important de noter la position des éléments dans la phrase allemande. Le participe passé du verbe principal se place en deuxième position ou en fin de proposition, tandis que l'auxiliaire conjugué "werden" prend la première place dans une phrase principale.
+
+[indent]• Position du participe passé et de l'auxiliaire
+[i]Exemple : [color=#0000FF]Ich werde das Buch gelesen haben, bevor du kommst.[font_size=18pt](Ich werde das Buch gelesen haben, bevor du kommst.)[/font_size][/color] [color=#008000](J'aurai lu le livre avant que tu n'arrives.)[/color][/i]
+
+- Faire attention à l'utilisation correcte de "haben" et "sein" en fonction du verbe employé.
+[i]Exemple : [color=#0000FF]Wir werden nach Hause gegangen sein.[font_size=18pt](Wir werden nach Hause gegangen sein.)[/font_size][/color] [color=#008000](Nous serons rentrés à la maison.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le futur antérieur est formé avec "werden" conjugué, le participe passé du verbe principal, et "haben" ou "sein" à l'infinitif.
+[color=#FF0000]2.[/color] "Haben" est utilisé avec la majorité des verbes, "sein" avec les verbes de mouvement ou d'état.
+[color=#FF0000]3.[/color] Il est utilisé pour indiquer une action qui sera complétée avant une autre action future ou pour exprimer des suppositions sur une action terminée.
+[color=#FF0000]4.[/color] Faites attention à la position des éléments dans la phrase et à l'usage correct des auxiliaires.[/indent]
+
+[center][font_size=18][color=#808080]Richtiges Verwenden des Futur II macht Ihr Deutsch flüssiger und präziser! (l'utilisation correcte du Futur II rendra votre allemand plus fluide et précis!)[/color][/font_size][/center]

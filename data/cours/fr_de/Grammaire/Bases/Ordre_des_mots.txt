@@ -1,0 +1,89 @@
+[font_size=30][center][b][color=#0000FF]L'Ordre des Mots en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'ordre des mots en allemand peut sembler déroutant au début, mais une fois que vous comprenez les règles de base, il devient beaucoup plus clair. En allemand, l'ordre des mots dans une phrase est en grande partie gouverné par la position du verbe. Comprendre cela vous permettra de construire des phrases correctes et naturelles.
+
+[font_size=24][color=#4B0082]1. L'ordre des mots dans les phrases affirmatives simples[/color][/font_size]
+
+[b]a) Structure de base[/b]
+[indent]En allemand, une phrase affirmative simple suit généralement cette structure : Sujet - Verbe - Compléments.
+[code]
+Sujet - Verbe - Complément.
+Er ([color=#008000]il[/color]) - liest ([color=#008000]lit[/color]) - ein Buch ([color=#008000]un livre[/color]).
+[/code]
+[i]Exemple : [color=#0000FF]Er liest ein Buch.[/color] [color=#008000](Il lit un livre.)[/color][/i][/indent]
+
+[b]b) Les compléments peuvent changer de place[/b]
+[indent]En fonction de ce que l'on veut mettre en avant, les compléments peuvent apparaître en début de phrase :
+[code]
+Zeit - Sujet - Verbe - ort.
+Morgen ([color=#008000]demain[/color]) - gehe ich ([color=#008000]je vais[/color]) - in die Stadt ([color=#008000]en ville[/color]).
+[/code]
+[i]Exemple : [color=#0000FF]Morgen gehe ich in die Stadt.[/color] [color=#008000](Demain, je vais en ville.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. L'ordre des mots dans les questions[/color][/font_size]
+
+En allemand, pour poser une question, le verbe est souvent placé en première position.
+
+[indent]• Questions fermées (oui/non)
+[code]
+Verbe - Sujet - Complément ?
+Liest ([color=#008000]lit[/color]) - er ([color=#008000]il[/color]) - ein Buch ([color=#008000]un livre[/color])?
+[/code]
+[i]Exemple : [color=#0000FF]Liest er ein Buch?[/color] [color=#008000](Lit-il un livre ?)[/color][/i]
+
+- Questions ouvertes (mots interrogatifs)
+[code]
+Interrogatif - Verbe - Sujet - Complément ?
+Was ([color=#008000]quoi[/color]) - liest ([color=#008000]lit[/color]) - er ([color=#008000]il[/color]) - jetzt ([color=#008000]maintenant[/color])?
+[/code]
+[i]Exemple : [color=#0000FF]Was liest er jetzt?[/color] [color=#008000](Que lit-il maintenant ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. L'ordre des mots dans les phrases subordonnées[/color][/font_size]
+
+Les phrases subordonnées en allemand placent souvent le verbe à la fin de la phrase.
+
+[indent]• Subordonnées avec des conjonctions de subordination
+[code]
+Conjonction - Sujet - Complément - Verbe.
+Weil ([color=#008000]parce que[/color]) - er ([color=#008000]il[/color]) - müde ([color=#008000]fatigué[/color]) - ist ([color=#008000]est[/color]).
+[/code]
+[i]Exemple : [color=#0000FF]Weil er müde ist.[/color] [color=#008000](Parce qu'il est fatigué.)[/color][/i]
+
+- Subordonnées relatives
+[code]
+Nom - relativpronomen - Sujet - Complément - Verbe.
+Das Buch ([color=#008000]le livre[/color]) - das ([color=#008000]que[/color]) - er ([color=#008000]il[/color]) - liest ([color=#008000]lit[/color]).
+[/code]
+[i]Exemple : [color=#0000FF]Das Buch, das er liest.[/color] [color=#008000](Le livre qu'il lit.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Précisions supplémentaires[/color][/font_size]
+
+Pour ajouter plus de contexte ou de détails à une phrase, l'ordre des compléments respecte généralement cette hiérarchie : Temps - Manière - Lieu.
+
+[indent]• Exemples avec plusieurs compléments
+[code]
+Ich - fahre - morgen - mit dem Zug - nach Berlin.
+Je ([color=#008000]je[/color]) - vais ([color=#008000]vais[/color]) - demain ([color=#008000]demain[/color]) - en train ([color=#008000]en train[/color]) - à Berlin ([color=#008000]à Berlin[/color]).
+[/code]
+[i]Exemple : [color=#0000FF]Ich fahre morgen mit dem Zug nach Berlin.[/color] [color=#008000](Je vais à Berlin en train demain.)[/color][/i]
+
+- En insistant sur le complément de lieu
+[code]
+Nach Berlin - fahre ich - morgen - mit dem Zug.
+À Berlin ([color=#008000]à Berlin[/color]) - vais-je ([color=#008000]je vais[/color]) - demain ([color=#008000]demain[/color]) - en train ([color=#008000]en train[/color]).
+[/code]
+[i]Exemple : [color=#0000FF]Nach Berlin fahre ich morgen mit dem Zug.[/color] [color=#008000](À Berlin, je vais en train demain.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] L'ordre des mots en allemand suit strictement l'emplacement du verbe.
+[color=#FF0000]2.[/color] Dans les phrases affirmatives simples, le sujet est souvent suivi du verbe puis du complément.
+[color=#FF0000]3.[/color] Dans les questions, le verbe vient en première position.
+[color=#FF0000]4.[/color] Dans les subordonnées, le verbe est placé à la fin de la phrase.
+[color=#FF0000]5.[/color] L'ordre des compléments respecte généralement la hiérarchie Temps - Manière - Lieu.[/indent]
+
+[center][font_size=18][color=#808080]Mit diesen Regeln wird dein Deutsch noch besser! (Avec ces règles, ton allemand sera encore meilleur!) [/color][/font_size][/center]

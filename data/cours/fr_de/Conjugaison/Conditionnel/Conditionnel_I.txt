@@ -1,0 +1,81 @@
+[font_size=30][center][b][color=#0000FF]Le Conditionnel I en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le conditionnel I, ou Konjunktiv I en allemand, est principalement utilisé pour rapporter des discours ou des déclarations de manière indirecte. Il est également utilisé pour exprimer le souhait ou la possibilité. Comprendre et utiliser le Konjunktiv I vous aidera à rendre vos discours en allemand plus formels et nuancés.
+
+[font_size=24][color=#4B0082]1. Formation du Konjunktiv I[/color][/font_size]
+
+La formation du Konjunktiv I se base sur la racine du verbe et sur des terminaisons spécifiques. Voici les étapes pour le conjuguer :
+
+[b]a) Conjugaison des verbes réguliers[/b]
+[indent]Pour les verbes réguliers, les terminaisons du Konjunktiv I sont ajoutées à la base du verbe à l'infinitif sans 'en'.
+[code]
+ich (e)
+du (est)
+er/sie/es (e)
+wir (en)
+ihr (et)
+sie/Sie (en)
+[/code]
+
+[i]Exemple : Le verbe [b]machen[/b] (faire)[/i]
+[indent]ich mache (je fasse)
+du machest (tu fasses)
+er/sie/es mache (il/elle fasse)
+wir machen (nous fassions)
+ihr machet (vous fassiez)
+sie/Sie machen (ils/elles fassent)
+[/indent]
+
+[b]b) Conjugaison des verbes irréguliers[/b]
+[indent]Pour les verbes irréguliers, les mêmes terminaisons sont appliquées, mais il y a des changements particuliers dans la base verbale pour certains verbes. Voici quelques exemples courants :
+[code]
+sein (être)
+ich sei
+du seiest
+er/sie/es sei
+wir seien
+ihr seiet
+sie/Sie seien
+[/code]
+[i]Exemple : Le verbe [b]haben[/b] (avoir)[/i]
+[indent]ich habe (j'aie)
+du habest (tu aies)
+er/sie/es habe (il/elle aie)
+wir haben (nous ayons)
+ihr habet (vous ayez)
+sie/Sie haben (ils/elles aient)
+[/indent]
+[/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Konjunktiv I pour le discours indirect[/color][/font_size]
+
+Le Konjunktiv I est souvent utilisé pour rapporter ce que quelqu'un a dit sans affirmer que c'est vrai ou faux. Cela permet de garder une certaine distance et de ne pas s'approprier les propos.
+
+[indent]• Utilisation dans le discours indirect
+[i]Exemple : [color=#0000FF]Er sagte, er gehe morgen ins Kino.[/color] [color=#008000](Il a dit qu'il irait au cinéma demain.)[/color][/i]
+
+• Utilisation pour des souhaits ou des possibilités
+[i]Exemple : [color=#0000FF]Es sei denn, dass das Wetter schlecht werde.[/color] [color=#008000](À moins que le temps ne se gâte.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Cas particuliers et précision[/color][/font_size]
+
+Il y a des cas dans lesquels le Konjunktiv I est en concurrence avec le Konjunktiv II. Souvent, pour éviter l'ambiguïté, on utilise le Konjunktiv II.
+
+[indent]• Ambiguïté entre Konjunktiv I et II :
+[i]Exemple : [color=#0000FF]Er sagte, er habe Zeit.[/color] [color=#008000](Il a dit qu'il avait du temps.)[/color]
+Si la phrase au Konjunktiv I peut prêter à confusion, on utilise alors le Konjunktiv II :
+[i]Exemple : [color=#0000FF]Er sagte, er hätte Zeit.[/color] [color=#008000](Il a dit qu'il aurait du temps.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Konjunktiv I est principalement utilisé pour le discours indirect en allemand.
+[color=#FF0000]2.[/color] Les terminaisons du Konjunktiv I se basent sur la base infinitive sans 'en'.
+[color=#FF0000]3.[/color] Pour les verbes irréguliers, les conjugaisons peuvent présenter des modifications dans la base verbale.
+[color=#FF0000]4.[/color] Le Konjunktiv II est parfois utilisé pour éviter des ambiguïtés avec le Konjunktiv I.
+[/indent]
+
+[center][font_size=18][color=#808080]Rendez votre discours plus nuancé et formel avec le Konjunktiv I ![/color][/font_size][/center]

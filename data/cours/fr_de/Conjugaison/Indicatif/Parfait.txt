@@ -1,0 +1,79 @@
+[font_size=30][center][b][color=#0000FF]Le Parfait en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le parfait (Perfekt) est un temps du passé en allemand qui est couramment utilisé dans la langue parlée pour exprimer des actions achevées. Contrairement au passé simple (Präteritum), il est souvent préféré pour les récits oraux. Cette leçon vous aidera à comprendre et utiliser correctement le parfait en allemand.
+
+[font_size=24][color=#4B0082]1. Formation du parfait[/color][/font_size]
+
+Pour former le parfait, on utilise le verbe auxiliaire "[b]haben[/b]" (avoir) ou "[b]sein[/b]" (être) au présent, suivi du participe passé du verbe principal.
+
+[b]a) Choix de l'auxiliaire[/b]
+[indent]
+- Utilisez [b]haben[/b] pour la plupart des verbes.
+[i]Exemple : [color=#0000FF]Ich habe gegessen.[font_size=18pt](Je habe gegessen.)[/font_size][/color] [color=#008000](J'ai mangé.)[/color][/i]
+
+- Utilisez [b]sein[/b] avec :
+[indent]- Les verbes de mouvement[font_size=18pt](kommen, gehen, fahren...)[/font_size] (venir, aller, conduire...).
+- Les verbes de changement d'état[font_size=18pt](werden, sterben...)[/font_size] (devenir, mourir...).
+- Quelques exceptions courantes[font_size=18pt](bleiben, passieren...)[/font_size] (rester, se passer...).
+
+[i]Exemple : [color=#0000FF]Er ist gegangen.[font_size=18pt](Er ist gegangen.)[/font_size][/color] [color=#008000](Il est allé.)[/color][/i]
+[i]Exemple : [color=#0000FF]Sie ist geblieben.[font_size=18pt](Sie ist geblieben.)[/font_size][/color] [color=#008000](Elle est restée.)[/color][/i][/indent]
+[/indent]
+
+[b]b) Participe passé des verbes réguliers et irréguliers[/b]
+[indent]Pour former le participe passé :
+- Ajoutez le préfixe "[b]ge-[/b]" au radical du verbe.
+- Ajoutez la terminaison "[b]-t[/b]" pour les verbes réguliers, et "[b]-en[/b]" pour la plupart des verbes irréguliers.
+
+[i]Exemple : [color=#0000FF]machen -> gemacht[font_size=18pt](faire -> fait)[/font_size][/color]
+[i]Exemple : [color=#0000FF]sehen -> gesehen[font_size=18pt](voir -> vu)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison au parfait[/color][/font_size]
+
+Voici les conjugaisons au parfait pour les verbes "haben" et "sein" avec des exemples :
+
+[indent][b]a) "haben" (avoir)[/b]
+[code]
+Ich habe gemacht [color=#008000](J'ai fait)[/color]
+Du hast gemacht [color=#008000](Tu as fait)[/color]
+Er/sie/es hat gemacht [color=#008000](Il/elle/on a fait)[/color]
+Wir haben gemacht [color=#008000](Nous avons fait)[/color]
+Ihr habt gemacht [color=#008000](Vous avez fait)[/color]
+Sie haben gemacht [color=#008000](Ils/elles ont fait)[/color]
+[/code]
+
+[b]b) "sein" (être)[/b]
+[code]
+Ich bin gegangen [color=#008000](Je suis allé)[/color]
+Du bist gegangen [color=#008000](Tu es allé)[/color]
+Er/sie/es ist gegangen [color=#008000](Il/elle/on est allé)[/color]
+Wir sind gegangen [color=#008000](Nous sommes allés)[/color]
+Ihr seid gegangen [color=#008000](Vous êtes allés)[/color]
+Sie sind gegangen [color=#008000](Ils/elles sont allés)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisation du parfait[/color][/font_size]
+
+Le parfait est principalement utilisé dans la langue parlée et les correspondances informelles pour décrire des actions passées achevées. Voici quelques règles et exemples :
+
+[indent]• Actions achevées dans le passé
+[i]Exemple : [color=#0000FF]Sie haben gestern einen Film gesehen.[font_size=18pt](Sie haben gestern einen Film gesehen.)[/font_size][/color] [color=#008000](Ils ont regardé un film hier.)[/color][/i]
+
+- Changements d'état ou de situation
+[i]Exemple : [color=#0000FF]Er ist Arzt geworden.[font_size=18pt](Er ist Arzt geworden.)[/font_size][/color] [color=#008000](Il est devenu médecin.)[/color][/i]
+
+- Mouvements terminés vers un point précis
+[i]Exemple : [color=#0000FF]Ich bin nach Hause gegangen.[font_size=18pt](Ich bin nach Hause gegangen.)[/font_size][/color] [color=#008000](Je suis rentré à la maison.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le parfait est utilisé en allemand pour décrire des actions passées achevées, particulièrement à l'oral.
+[color=#FF0000]2.[/color] Utilisez "haben" ou "sein" comme auxiliaire en fonction du verbe principal.
+[color=#FF0000]3.[/color] Formez le participe passé des verbes réguliers avec "[b]-t[/b]" et des verbes irréguliers souvent avec "[b]-en[/b]".
+[color=#FF0000]4.[/color] Le parfait est préféré pour les récits oraux en allemand moderne.[/indent]
+
+[center][font_size=18][color=#808080]Richtig das Perfekt benutzen, macht Ihr Deutsch deutlich natürlicher! (Richtig das Perfekt benutzen, macht Ihr Deutsch deutlich natürlicher!)[/color][/font_size][/center]

@@ -1,0 +1,80 @@
+[font_size=30][center][b][color=#0000FF]Les Articles Définis en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les articles définis en allemand sont utilisés de manière similaire au français pour indiquer des noms spécifiques et connus. Cependant, ils varient en fonction du genre et du cas grammatical. Il est essentiel de bien maîtriser ces articles pour parler et écrire correctement en allemand.
+
+[font_size=24][color=#4B0082]1. Les genres et les articles définis[/color][/font_size]
+
+En allemand, il existe trois genres : masculin, féminin et neutre. Chaque genre possède son propre article défini :
+
+[indent][b]a) Masculin[/b]
+[indent]Singulier : [b]der[/b] [color=#008000](le)[/color]
+
+[i]Exemple : [color=#0000FF]der Mann[/color] [color=#008000](l'homme)[/color][/i][/indent]
+
+[b]b) Féminin[/b]
+[indent]Singulier : [b]die[/b] [color=#008000](la)[/color]
+
+[i]Exemple : [color=#0000FF]die Frau[/color] [color=#008000](la femme)[/color][/i][/indent]
+
+[b]c) Neutre[/b]
+[indent]Singulier : [b]das[/b] [color=#008000](le/la)[/color]
+
+[i]Exemple : [color=#0000FF]das Kind[/color] [color=#008000](l'enfant)[/color][/i][/indent][/indent]
+
+[font_size=24][color=#4B0082]2. Les articles définis au pluriel[/color][/font_size]
+
+Indépendamment du genre, tous les noms prennent le même article défini au pluriel :
+
+[indent][b]Pluriel :[/b] [b]die[/b] [color=#008000](les)[/color]
+
+[i]Exemple : [color=#0000FF]die Männer[/color] [color=#008000](les hommes)[/color]
+[i]Exemple : [color=#0000FF]die Frauen[/color] [color=#008000](les femmes)[/color]
+[i]Exemple : [color=#0000FF]die Kinder[/color] [color=#008000](les enfants)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les cas grammaticaux[/color][/font_size]
+
+L'allemand utilise quatre cas grammaticaux : le nominatif, l'accusatif, le datif et le génitif. Les articles définis changent en fonction du cas et du genre du nom.
+
+[indent][b]a) Nominatif[/b]
+[indent]Masculin : der [color=#008000](le)[/color]
+Féminin : die [color=#008000](la)[/color]
+Neutre : das [color=#008000](le/la)[/color]
+Pluriel : die [color=#008000](les)[/color]
+
+[i]Exemple : [color=#0000FF]Der Hund ist groß.[/color] [color=#008000](Le chien est grand.)[/color][/i][/indent]
+
+[b]b) Accusatif[/b]
+[indent]Masculin : den [color=#008000](le)[/color]
+Féminin : die [color=#008000](la)[/color]
+Neutre : das [color=#008000](le/la)[/color]
+Pluriel : die [color=#008000](les)[/color]
+
+[i]Exemple : [color=#0000FF]Ich sehe den Hund.[/color] [color=#008000](Je vois le chien.)[/color][/i][/indent]
+
+[b]c) Datif[/b]
+[indent]Masculin : dem [color=#008000](au)[/color]
+Féminin : der [color=#008000](à la)[/color]
+Neutre : dem [color=#008000](au)[/color]
+Pluriel : den [color=#008000](aux)[/color]
+
+[i]Exemple : [color=#0000FF]Ich gebe dem Hund einen Knochen.[/color] [color=#008000](Je donne un os au chien.)[/color][/i][/indent]
+
+[b]d) Génitif[/b]
+[indent]Masculin : des [color=#008000](du)[/color]
+Féminin : der [color=#008000](de la)[/color]
+Neutre : des [color=#008000](du)[/color]
+Pluriel : der [color=#008000](des)[/color]
+
+[i]Exemple : [color=#0000FF]Das Haus des Mannes.[/color] [color=#008000](La maison de l'homme.)[/color][/i][/indent][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les articles définis en allemand varient selon le genre et le nombre.
+[color=#FF0000]2.[/color] Tous les genres partagent le même article défini au pluriel : [b]die[/b] [color=#008000](les)[/color].
+[color=#FF0000]3.[/color] Les articles définis changent selon les cas grammaticaux : nominatif, accusatif, datif et génitif.[/indent]
+
+[center][font_size=18][color=#808080]Das Beherrschen der bestimmten Artikel ist der Schlüssel zu einer korrekten Grammatik im Deutschen! (Maîtriser les articles définis est la clé d'une grammaire correcte en allemand !)[/color][/font_size][/center]

@@ -1,0 +1,74 @@
+[font_size=30][center][b][color=#0000FF]Les Expressions de Quantité en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les expressions de quantité sont essentielles pour indiquer le nombre ou la quantité de quelque chose. En allemand, comprendre et utiliser ces expressions vous aidera à parler de quantités de manière précise et naturelle.
+
+[font_size=24][color=#4B0082]1. Les Nombres de Base[/color][/font_size]
+
+Pour commencer, voici les nombres de base en allemand de 1 à 10 :
+
+[code]
+1 - Eins (eins)
+2 - Zwei (tsvai)
+3 - Drei (drai)
+4 - Vier (fir)
+5 - Fünf (fuenf)
+6 - Sechs (zeks)
+7 - Sieben (ziiben)
+8 - Acht (aHt)
+9 - Neun (noin)
+10 - Zehn (tsen)
+[/code]
+
+[i]Exemple : [color=#0000FF]Ich habe drei Äpfel.[font_size=18pt](Ich habe drai Äpfel.)[/font_size][/color] [color=#008000](J'ai trois pommes.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Les Quantités Indéfinies[/color][/font_size]
+
+Les quantités indéfinies sont utilisées pour parler de quantités non exactes. Voici quelques-unes des plus courantes en allemand :
+
+[indent][b]a) Viel (beaucoup de)[/b]
+[i]Exemple : [color=#0000FF]Es gibt viel Wasser.[font_size=18pt](Es gibt feel Wasser.)[/font_size][/color] [color=#008000](Il y a beaucoup d'eau.)[/color][/i]
+
+[b]b) Wenig (peu de)[/b]
+[i]Exemple : [color=#0000FF]Er trinkt wenig Milch.[font_size=18pt](Er trinkt venig Milch.)[/font_size][/color] [color=#008000](Il boit peu de lait.)[/color][/i]
+
+[b]c) Einige (quelques-uns/unes)[/b]
+[i]Exemple : [color=#0000FF]Ich habe einige Bücher.[font_size=18pt](Ich habe einige Bücher.)[/font_size][/color] [color=#008000](J'ai quelques livres.)[/color][/i]
+
+[b]d) Mehrere (plusieurs)[/b]
+[i]Exemple : [color=#0000FF]Es gibt mehrere Probleme.[font_size=18pt](Es gibt mehrere Probleme.)[/font_size][/color] [color=#008000](Il y a plusieurs problèmes.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les Expressions de Quantité Spécifiques[/color][/font_size]
+
+Quand vous voulez être plus précis quant à la quantité, vous pouvez utiliser des expressions spécifiques. En voici quelques-unes courantes en allemand :
+
+[indent][b]a) Ein paar (quelques, un petit nombre de)[/b]
+[i]Exemple : [color=#0000FF]Ich brauche ein paar Minuten.[font_size=18pt](Ich brauche ein paar Minuten.)[/font_size][/color] [color=#008000](J'ai besoin de quelques minutes.)[/color][/i]
+
+[b]b) Ein bisschen (un peu de)[/b]
+[i]Exemple : [color=#0000FF]Hast du ein bisschen Zeit?[font_size=18pt](Hast du ein bisschen Zeit?) [/font_size][/color] [color=#008000](As-tu un peu de temps ?)[/color][/i]
+
+[b]c) Eine Menge (une grande quantité de)[/b]
+[i]Exemple : [color=#0000FF]Er hat eine Menge Geld.[font_size=18pt](Er hat eine Menge Geld.)[/font_size][/color] [color=#008000](Il a une grande quantité d'argent.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Les Expressions de Quantité Négatives[/color][/font_size]
+
+Enfin, apprenons comment exprimer l'absence totale de quelque chose en allemand :
+
+[indent][b]a) Kein (aucun, aucune)[/b]
+[i]Exemple : [color=#0000FF]Ich habe kein Geld.[font_size=18pt](Ich habe kain Geld.)[/font_size][/color] [color=#008000](Je n'ai pas d'argent.)[/color][/i]
+
+[b]b) Nichts (rien)[/b]
+[i]Exemple : [color=#0000FF]Es gibt nichts zu tun.[font_size=18pt](Es gibt nichts zu tun.)[/font_size][/color] [color=#008000](Il n'y a rien à faire.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les nombres de base sont la fondation pour comprendre et exprimer les quantités en allemand.
+[color=#FF0000]2.[/color] Les quantités indéfinies vous permettent de parler de quantités approximatives.
+[color=#FF0000]3.[/color] Utiliser des expressions spécifiques pour être plus précis quant aux quantités.
+[color=#FF0000]4.[/color] Savoir comment exprimer l'absence totale de quelque chose est essentiel.[/indent]
+
+[center][font_size=18][color=#808080]Richtig Angeben von Mengen macht dein Deutsch viel präziser und natürlicher! (Indiquer correctement les quantités rend ton allemand beaucoup plus précis et naturel!)[/color][/font_size][/center]

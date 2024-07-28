@@ -1,0 +1,96 @@
+[font_size=30][center][b][color=#0000FF]L'Alphabet Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Apprendre l'alphabet est la première étape pour maîtriser une langue. L'alphabet allemand partage de nombreuses similitudes avec l'alphabet français, mais comporte également quelques différences notables. Cette leçon vous aide à découvrir les lettres de l'alphabet allemand, leur prononciation et quelques exemples pour chaque lettre.
+
+[font_size=24][color=#4B0082]1. L'alphabet allemand standard[/color][/font_size]
+
+L'alphabet allemand comporte 26 lettres, tout comme l'alphabet français, mais il inclut également des caractères spéciaux. Voici les lettres de l'alphabet allemand avec leur prononciation :
+
+[code]
+A [color=#008000](ah)[/color]
+B [color=#008000](beh)[/color]
+C [color=#008000](tseh)[/color]
+D [color=#008000](deh)[/color]
+E [color=#008000](eh)[/color]
+F [color=#008000](eff)[/color]
+G [color=#008000](geh)[/color]
+H [color=#008000](hah)[/color]
+I [color=#008000](ee)[/color]
+J [color=#008000](yot)[/color]
+K [color=#008000](kah)[/color]
+L [color=#008000](ell)[/color]
+M [color=#008000](emm)[/color]
+N [color=#008000](enn)[/color]
+O [color=#008000](oh)[/color]
+P [color=#008000](peh)[/color]
+Q [color=#008000](koo)[/color]
+R [color=#008000](err)[/color]
+S [color=#008000](ess)[/color]
+T [color=#008000](teh)[/color]
+U [color=#008000](oo)[/color]
+V [color=#008000](fow)[/color]
+W [color=#008000](veh)[/color]
+X [color=#008000](iks)[/color]
+Y [color=#008000](ypsilon)[/color]
+Z [color=#008000](tset)[/color]
+[/code]
+
+[font_size=24][color=#4B0082]2. Caractères spéciaux[/color][/font_size]
+
+En plus des 26 lettres standard, l'alphabet allemand comprend quatre caractères spéciaux :
+
+[code]
+Ä [color=#008000](a tréma - prononcé "è")[/color]
+Ö [color=#008000](o tréma - prononcé "eu")[/color]
+Ü [color=#008000](u tréma - prononcé "u arrondi")[/color]
+ß [color=#008000](eszett ou "s" sharp - prononcé comme un "s" doux)[/color]
+[/code]
+
+[font_size=24][color=#4B0082]3. Exemples et usage[/color][/font_size]
+
+Voici quelques exemples de mots allemands pour illustrer l'utilisation de chacune des lettres et caractères spéciaux :
+
+[indent]A - Apfel [color=#008000](pomme)[/color]
+B - Brot [color=#008000](pain)[/color]
+C - Café [color=#008000](café)[/color]
+D - Deutsch [color=#008000](allemand)[/color]
+E - Elefant [color=#008000](éléphant)[/color]
+F - Fisch [color=#008000](poisson)[/color]
+G - Garten [color=#008000](jardin)[/color]
+H - Haus [color=#008000](maison)[/color]
+I - Insel [color=#008000](île)[/color]
+J - Jahr [color=#008000](année)[/color]
+K - Katze [color=#008000](chat)[/color]
+L - Lampe [color=#008000](lampe)[/color]
+M - Mann [color=#008000](homme)[/color]
+N - Nacht [color=#008000](nuit)[/color]
+O - Obst [color=#008000](fruit)[/color]
+P - Polizei [color=#008000](police)[/color]
+Q - Quelle [color=#008000](source)[/color]
+R - Reise [color=#008000](voyage)[/color]
+S - Sonne [color=#008000](soleil)[/color]
+T - Tisch [color=#008000](table)[/color]
+U - Uhr [color=#008000](montre, horloge)[/color]
+V - Vater [color=#008000](père)[/color]
+W - Wagen [color=#008000](voiture)[/color]
+X - Xylophon [color=#008000](xylophone)[/color]
+Y - Yacht [color=#008000](yacht)[/color]
+Z - Zeit [color=#008000](temps)[/color]
+
+Ä - Äpfel [color=#008000](pommes)[/color]
+Ö - Öl [color=#008000](huile)[/color]
+Ü - Über [color=#008000](sur, au-dessus)[/color]
+ß - Straße [color=#008000](rue)[/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] L'alphabet allemand a 26 lettres, semblables à l'alphabet français.
+[color=#FF0000]2.[/color] Il y a quatre caractères spéciaux en allemand : Ä, Ö, Ü, ß.
+[color=#FF0000]3.[/color] La prononciation des lettres peut différer, alors apprenez bien la prononciation allemande pour chaque lettre.
+[color=#FF0000]4.[/color] Utilisez des exemples de mots pour pratiquer et mémoriser l'alphabet.[/indent]
+
+[center][font_size=18][color=#808080]Beherrsche das deutsche Alphabet und mache den ersten Schritt, um fließend Deutsch zu sprechen![/color][/font_size][/center]

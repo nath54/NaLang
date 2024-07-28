@@ -1,0 +1,82 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes Mixtes en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes mixtes en allemand, également appelés "verbes faibles irréguliers", combinent des éléments des verbes faibles et des verbes forts. Ils suivent généralement le modèle des verbes faibles pour la formation du prétérit (imparfait) et du participe passé mais changent de voyelle radicale comme les verbes forts.
+
+[font_size=24][color=#4B0082]1. Comprendre les verbes mixtes[/color][/font_size]
+
+En allemand, les verbes mixtes sont peu nombreux mais assez courants. Voici quelques exemples de verbes mixtes :
+[indent][code]
+denken (penser) - dachte (pensais), gedacht (pensé)
+bringen (apporter) - brachte (apportais), gebracht (apporté)
+wissen (savoir) - wusste (savais), gewusst (su)
+kennen (connaître) - kannte (connaissais), gekannt (connu)
+brennen (brûler) - brannte (brûlais), gebrannt (brûlé)
+nennen (nommer) - nannte (nommais), genannt (nommé)
+rennen (courir) - rannte (courais), gerannt (couru)
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison des verbes mixtes[/color][/font_size]
+
+Les verbes mixtes se conjuguent en combinant des caractéristiques des verbes faibles et des verbes forts. Voici un tableau de conjugaison pour montrer les différences entre le présent, le prétérit et le participe passé :
+
+[b]a) Présent[/b]
+[indent][code]
+Je pense - ich denke
+Tu penses - du denkst
+Il/Elle pense - er/sie denkt
+Nous pensons - wir denken
+Vous pensez - ihr denkt
+Ils/Elles pensent - sie denken
+[/code][/indent]
+
+[b]b) Prétérit[/b]
+[indent][code]
+Je pensais - ich dachte
+Tu pensais - du dachtest
+Il/Elle pensait - er/sie dachte
+Nous pensions - wir dachten
+Vous pensiez - ihr dachtet
+Ils/Elles pensaient - sie dachten
+[/code][/indent]
+
+[b]c) Participe passé[/b]
+[indent][code]
+pensé - gedacht
+apporté - gebracht
+su - gewusst
+connu - gekannt
+brûlé - gebrannt
+nommé - genannt
+couru - gerannt
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Application des verbes mixtes en contexte[/color][/font_size]
+
+Lors de l'utilisation des verbes mixtes dans des phrases, il est essentiel de bien connaître leur conjugaison irrégulière. Voici quelques exemples pratiques :
+
+[indent]• [i]Er hat gestern viel [b][color=#0000FF]gedacht[/color][/b] (réfléchi).[/i] (Il a beaucoup réfléchi hier.)
+
+- [i]Ich [b][color=#0000FF]bringe[/color][/b] (apporte) dir den Kaffee.[/i] (Je t'apporte le café.)
+
+- [i]Sie [b][color=#0000FF]wusste[/color][/b] (savait) die Antwort sofort.[/i] (Elle a su la réponse immédiatement.)
+
+- [i]Wir haben ihn überall [b][color=#0000FF]gekannt[/color][/b] (connu).[/i] (Nous l'avons connu partout.)
+
+- [i]Das Feuer hat die Hütte [b][color=#0000FF]gebrannt[/color][/b] (brûlé).[/i] (Le feu a brûlé la cabane.)
+
+- [i]Er [b][color=#0000FF]nannte[/color][/b] (nommait) ihn seinen besten Freund.[/i] (Il l'appelait son meilleur ami.)
+
+- [i][b][color=#0000FF]Rennst[/color][/b] (cours) du schnell?[/i] (Cours-tu vite ?)[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes mixtes combinent des caractéristiques des verbes faibles et forts.
+[color=#FF0000]2.[/color] Ils changent généralement de voyelle radicale comme les verbes forts.
+[color=#FF0000]3.[/color] Le prétérit et le participe passé des verbes mixtes suivent souvent le modèle des verbes faibles.
+[color=#FF0000]4.[/color] Il est essentiel de mémoriser la conjugaison irrégulière pour les utiliser correctement dans les phrases.[/indent]
+
+[center][font_size=18][color=#808080]Richtiges Verständnis und Beherrschung der Mischverben machen dein Deutsch fließender und präziser! (Ein bonnne maîtrise des verbes mixtes rendra votre allemand plus fluide et précis !)[/color][/font_size][/center]

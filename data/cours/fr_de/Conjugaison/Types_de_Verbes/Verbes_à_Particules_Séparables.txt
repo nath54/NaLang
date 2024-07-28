@@ -1,0 +1,83 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes à Particules Séparables en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes à particules séparables (Trennbare Verben) sont des verbes composés d'un verbe de base et d'une particule préfixale qui se sépare souvent du verbe dans la phrase. Comprendre comment ces verbes fonctionnent est crucial pour maîtriser la conjugaison et la syntaxe en allemand.
+
+[font_size=24][color=#4B0082]1. Structure de base des verbes à particules séparables[/color][/font_size]
+
+Un verbe à particules séparables se compose d'une particule (préfixe) et d'un verbe de base. Lorsqu'il est conjugué, la particule se place généralement à la fin de la phrase ou de la proposition.
+
+[b]a) Liste de particules courantes[/b]
+[indent]
+Les particules les plus courantes sont :
+[code]
+an [color=#008000](à, sur)[/color]
+auf [color=#008000](sur)[/color]
+aus [color=#008000](hors de)[/color]
+ein [color=#008000](dans)[/color]
+mit [color=#008000](avec)[/color]
+nach [color=#008000](après, vers)[/color]
+vor [color=#008000](devant, avant)[/color]
+zu [color=#008000](à, vers)[/color]
+zurück [color=#008000](en arrière, de retour)[/color]
+weg [color=#008000](loin, partir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]mitkommen[/color] [color=#008000](venir avec)[/color][/i][/indent]
+
+[b]b) Conjugaison des verbes à particules séparables[/b]
+[indent]
+Pour conjuguer un verbe à particules séparables, on sépare la particule et on la place à la fin de la phrase. Voici un exemple avec [b]anrufen[/b] (appeler) :
+[indent]
+[i]Infinitif : [color=#0000FF]anrufen[/color] [color=#008000](appeler)[/color][/i]
+
+[i]Présent :[/i]
+[code]
+Ich rufe Maria an. [color=#008000](J'appelle Maria.)[/color]
+Du rufst deinen Freund an. [color=#008000](Tu appelles ton ami.)[/color]
+Er/Sie/Es ruft uns an. [color=#008000](Il/Elle/Il (neutre) nous appelle.)[/color]
+Wir rufen euch an. [color=#008000](Nous vous appelons.)[/color]
+Ihr ruft ihn an. [color=#008000](Vous l'appelez.)[/color]
+Sie rufen ihre Eltern an. [color=#008000](Ils/Elles appellent leurs parents.)[/color]
+[/code]
+
+[i]Passé composé :[/i]
+[code]
+Ich habe Maria angerufen. [color=#008000](J'ai appelé Maria.)[/color]
+Du hast deinen Freund angerufen. [color=#008000](Tu as appelé ton ami.)[/color]
+[/code][/indent]
+[/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des verbes à particules séparables[/color][/font_size]
+
+Les verbes à particules séparables sont couramment utilisés pour préciser l'orientation, la direction, ou le but de l'action. Ils enrichissent la langue en offrant de nombreuses nuances.
+
+[indent]• La particule change le sens du verbe de base.
+[i]Exemple : [color=#0000FF]aufstehen[/color] [color=#008000](se lever)[/color] vs. [color=#0000FF]stehen[/color] [color=#008000](être debout)[/color][/i]
+
+- En position finale de la proposition principale, la particule apporte la nuance de la phrase.
+[i]Exemple : [color=#0000FF]Ich stehe um 6 Uhr auf.[/color] [color=#008000](Je me lève à 6 heures.)[/color][/i]
+
+- Dans les propositions subordonnées, la particule ne se sépare pas du verbe.
+[i]Exemple : [color=#0000FF]Ich weiß, dass du um 7 Uhr aufstehst.[/color] [color=#008000](Je sais que tu te lèves à 7 heures.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions et exceptions[/color][/font_size]
+
+Certaines particules peuvent être séparables ou inséparables selon le verbe avec lequel elles sont combinées. 
+
+[indent]• Exemples de particules séparables/inséparables
+[i]Exemple avec [color=#0000FF]durchbrechen[/color]:
+- Séparable : [color=#0000FF]Er bricht die Tür durch[/color]. [color=#008000](Il défonce la porte.)[/color]
+- Inséparable : [color=#0000FF]Er durchbricht die Mauer.[/color] [color=#008000](Il traverse le mur.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes à particules séparables se composent d'une particule et d'un verbe de base.
+[color=#FF0000]2.[/color] La particule se place généralement à la fin de la proposition principale.
+[color=#FF0000]3.[/color] La particule ne se sépare pas dans les propositions subordonnées.
+[color=#FF0000]4.[/color] Certaines particules sont séparables ou inséparables selon le contexte du verbe.[/indent]
+
+[center][font_size=18][color=#808080]Das richtige Anwenden trennbarer Verben macht dein Deutsch natürlicher und präziser![/color][/font_size][/center]

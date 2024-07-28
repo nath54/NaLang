@@ -1,0 +1,88 @@
+[font_size=30][center][b][color=#0000FF]Les Articles Indéfinis en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les articles indéfinis en allemand sont utilisés pour parler de personnes, d'animaux, de choses ou d'idées non spécifiques. Contrairement aux articles définis qui se traduisent par "le", "la", "les" en français, les articles indéfinis se traduisent par "un", "une", et des".
+
+[font_size=24][color=#4B0082]1. Les articles indéfinis en allemand[/color][/font_size]
+
+En allemand, il y a trois genres : masculin, féminin et neutre. Les articles indéfinis varient en fonction du genre et du cas grammatical (nominatif, accusatif, datif et génitif).
+
+[indent][b]a) Masculin[/b]
+[code]
+Nominatif : ein [color=#008000](un)[/color]
+Accusatif : einen [color=#008000](un - COD)[/color]
+Datif : einem [color=#008000](un - COI)[/color]
+Génitif : eines [color=#008000](d'un)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Ich habe einen Hund.[font_size=18pt](J'ai un chien.)[/font_size][/color] [color=#008000](Accusatif, car "Hund" est le complément d'objet direct.)[/color][/i]
+
+[b]b) Féminin[/b]
+[code]
+Nominatif : eine [color=#008000](une)[/color]
+Accusatif : eine [color=#008000](une - COD)[/color]
+Datif : einer [color=#008000](une - COI)[/color]
+Génitif : einer [color=#008000](d'une)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Das ist eine Katze.[font_size=18pt](C'est une chatte.)[/font_size][/color] [color=#008000](Nominatif, car "Katze" est le sujet de la phrase.)[/color][/i]
+
+[b]c) Neutre[/b]
+[code]
+Nominatif : ein [color=#008000](un / une)[/color]
+Accusatif : ein [color=#008000](un / une - COD)[/color]
+Datif : einem [color=#008000](un / une - COI)[/color]
+Génitif : eines [color=#008000](d'un / d'une)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Ich habe ein Buch.[font_size=18pt](J'ai un livre.)[/font_size][/color] [color=#008000](Accusatif, car "Buch" est le complément d'objet direct.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. L'accord des articles indéfinis avec les adjectifs[/color][/font_size]
+
+Les adjectifs qui suivent les articles indéfinis doivent également s'accorder en genre, nombre et cas. Voici comment cela fonctionne :
+
+[indent][b]a) Masculin[/b]
+[code]
+Nominatif : ein guter Mann [color=#008000](un homme bon)[/color]
+Accusatif : einen guten Mann [color=#008000](un homme bon - COD)[/color]
+Datif : einem guten Mann [color=#008000](un homme bon - COI)[/color]
+Génitif : eines guten Mannes [color=#008000](d'un homme bon)[/color]
+[/code]
+
+[b]b) Féminin[/b]
+[code]
+Nominatif : eine gute Frau [color=#008000](une femme bonne)[/color]
+Accusatif : eine gute Frau [color=#008000](une femme bonne - COD)[/color]
+Datif : einer guten Frau [color=#008000](une femme bonne - COI)[/color]
+Génitif : einer guten Frau [color=#008000](d'une femme bonne)[/color]
+[/code]
+
+[b]c) Neutre[/b]
+[code]
+Nominatif : ein gutes Kind [color=#008000](un enfant bon)[/color]
+Accusatif : ein gutes Kind [color=#008000](un enfant bon - COD)[/color]
+Datif : einem guten Kind [color=#008000](un enfant bon - COI)[/color]
+Génitif : eines guten Kindes [color=#008000](d'un enfant bon)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisation des articles indéfinis[/color][/font_size]
+
+Les articles indéfinis sont utilisés pour introduire quelque chose pour la première fois ou pour des choses non spécifiques. Ils accordent également des informations sur le genre et le cas du nom.
+
+[indent]• [color=#FF0000]For introducing something for the first time:[/color]
+[i]Exemple : [color=#0000FF]Ich sehe einen Mann.[font_size=18pt](Je vois un homme.)[/font_size][/color] [color=#008000](Accusatif.)[/color][/i]
+
+- [color=#FF0000]For unspecified items:[/color]
+[i]Exemple : [color=#0000FF]Eine Frau hat angerufen.[font_size=18pt](Une femme a appelé.)[/font_size][/color] [color=#008000](Nominatif.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les articles indéfinis allemands varient selon le genre et le cas du nom.
+[color=#FF0000]2.[/color] Les articles masculins et neutres varient en fonction du cas grammatical.
+[color=#FF0000]3.[/color] Les adjectifs s'accordent avec les articles indéfinis en genre, nombre et cas.
+[color=#FF0000]4.[/color] Les articles indéfinis sont utilisés pour introduire des noms non spécifiques ou mentionnés pour la première fois.[/indent]
+
+[center][font_size=18][color=#808080]Das korrekte Verwenden von unbestimmten Artikeln wird Ihre deutsche Kommunikation verbessern! (Das kor-reck-te Ver-vend-en von unbesh-timm-ten Ar-ti-keln wird Ihre deutsch-e Kom-mun-i-ka-tion ver-bessern!)[/color][/font_size][/center]

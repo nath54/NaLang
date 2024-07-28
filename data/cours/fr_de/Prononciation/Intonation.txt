@@ -1,0 +1,75 @@
+[font_size=30][center][b][color=#0000FF]L'Intonation en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'intonation joue un rôle crucial dans la langue allemande pour exprimer des questions, des affirmations et des émotions. Maîtriser l'intonation vous aidera non seulement à améliorer votre prononciation, mais aussi à rendre votre discours plus naturel et fluide.
+
+[font_size=24][color=#4B0082]1. L'intonation des déclarations[/color][/font_size]
+
+En allemand, les phrases déclaratives ont une mélodie descendante. Cela signifie que l'intonation baisse vers la fin de la phrase, ce qui peut être observé dans les phrases simples comme dans les phrases complexes.
+
+[b]a) Phrases simples[/b]
+[indent]Les phrases simples en allemand se terminent généralement par une intonation descendante.
+[code]
+Ich komme aus Deutschland. (Je viens d'Allemagne.)
+Das ist mein Freund. (C'est mon ami.)
+Ich mag Schokolade. (J'aime le chocolat.)
+[/code]
+
+[i]Exemple : [color=#0000FF]Ich komme aus Frankreich.[font_size=18pt](Je viens de France.)[/font_size][/color][/i][/indent]
+
+[b]b) Phrases complexes[/b]
+[indent]Les phrases complexes suivent également cette règle, même avec plusieurs propositions.
+[code]
+Wenn es regnet, bleiben wir zu Hause. (Quand il pleut, nous restons à la maison.)
+Obwohl er müde ist, geht er zur Arbeit. (Même s'il est fatigué, il va au travail.)
+[/code]
+
+[i]Exemple : [color=#0000FF]Wenn ich Zeit habe, besuche ich dich.[font_size=18pt](Quand j'ai le temps, je te rends visite.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. L'intonation des questions[/color][/font_size]
+
+Les questions, en allemand, ont des intonations différentes selon qu'elles sont des questions oui/non ou des questions avec mots interrogatifs.
+
+[b]a) Questions oui/non[/b]
+[indent]Pour les questions fermées (oui/non), l'intonation monte vers la fin de la phrase.
+[code]
+Kommst du mit? (Viens-tu avec moi?)
+Hast du das Buch gelesen? (As-tu lu le livre?)
+[/code]
+
+[i]Exemple : [color=#0000FF]Hast du Hunger?[font_size=18pt](As-tu faim?)[/font_size][/color][/i][/indent]
+
+[b]b) Questions avec mots interrogatifs[/b]
+[indent]Les questions ouvertes utilisant des mots interrogatifs (qui, quoi, où, quand, comment, pourquoi) ont généralement une intonation descendante, similaire aux déclarations.
+[code]
+Wie heißt du? (Comment tu t'appelles?)
+Woher kommst du? (D'où viens-tu?)
+Was machst du? (Que fais-tu?)
+[/code]
+
+[i]Exemple : [color=#0000FF]Wann kommst du nach Hause?[font_size=18pt](Quand rentres-tu à la maison?)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. L'intonation des exclamations[/color][/font_size]
+
+Les phrases exclamatives se caractérisent par une intonation plus élevée au début et une chute plus abrupte à la fin, ce qui aide à marquer l'intensité et l'émotion.
+
+[indent]• Exemples d'exclamations :
+[code]
+Wie schön! (Comme c'est beau!)
+Das ist fantastisch! (C'est fantastique!)
+So ein Glück! (Quelle chance!)
+[/code]
+
+[i]Exemple : [color=#0000FF]Du bist unglaublich![font_size=18pt](Tu es incroyable!)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les phrases déclaratives en allemand se terminent par une intonation descendante.
+[color=#FF0000]2.[/color] Les questions oui/non ont une intonation montante en fin de phrase.
+[color=#FF0000]3.[/color] Les questions avec mots interrogatifs suivent une intonation descendante, similaire aux déclarations.
+[color=#FF0000]4.[/color] Les exclamations commencent par une intonation élevée et descendent abruptement pour marquer l'émotion.[/indent]
+
+[center][font_size=18][color=#808080]Richtig anwenden der Intonation macht dein Deutsch natürlicher und ausdrucksvoller! (Bien utiliser l'intonation rend ton allemand plus naturel et expressif !)[/color][/font_size][/center]

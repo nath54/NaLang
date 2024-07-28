@@ -1,0 +1,84 @@
+[font_size=30][center][b][color=#0000FF]Les Pronoms Démonstratifs en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les pronoms démonstratifs en allemand permettent de désigner une personne, une chose ou une idée spécifique. Ils sont essentiels pour indiquer clairement de quoi ou de qui on parle dans une conversation. 
+
+[font_size=24][color=#4B0082]1. Les pronoms démonstratifs principaux[/color][/font_size]
+
+Il existe plusieurs pronoms démonstratifs en allemand, chaque pronom variant selon le genre (masculin, féminin, neutre) et le nombre (singulier, pluriel).
+
+[b]a) "Dieser" (ce, cette)[/b]
+[indent]"Dieser" (ce, cette) change de forme selon le cas, le genre et le nombre.
+
+[code]
+Nominatif :
+- Masculin : dieser [color=#008000](ce)[/color]
+- Féminin : diese [color=#008000](cette)[/color]
+- Neutre : dieses [color=#008000](ce)[/color]
+- Pluriel : diese [color=#008000](ces)[/color]
+
+Accusatif :
+- Masculin : diesen [color=#008000](ce)[/color]
+- Féminin : diese [color=#008000](cette)[/color]
+- Neutre : dieses [color=#008000](ce)[/color]
+- Pluriel : diese [color=#008000](ces)[/color]
+
+Datif :
+- Masculin : diesem [color=#008000](à ce)[/color]
+- Féminin : dieser [color=#008000](à cette)[/color]
+- Neutre : diesem [color=#008000](à ce)[/color]
+- Pluriel : diesen [color=#008000](à ces)[/color]
+
+Génitif :
+- Masculin : dieses [color=#008000](de ce)[/color]
+- Féminin : dieser [color=#008000](de cette)[/color]
+- Neutre : dieses [color=#008000](de ce)[/color]
+- Pluriel : dieser [color=#008000](de ces)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Dieser Mann ist mein Vater.[font_size=18pt](Dieser Mann ist mein Vater.)[/font_size][/color] [color=#008000](Cet homme est mon père.)[/color][/i][/indent]
+
+[b]b) "Jener" (celui-là, celle-là)[/b]
+[indent]"Jener" (celui-là, celle-là) est utilisé pour désigner quelque chose de plus éloigné.
+
+[code]
+Nominatif :
+- Masculin : jener [color=#008000](celui-là)[/color]
+- Féminin : jene [color=#008000](celle-là)[/color]
+- Neutre : jenes [color=#008000](celui-là)[/color]
+- Pluriel : jene [color=#008000](ceux-là)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Jenes Haus gehört meiner Tante.[font_size=18pt](Jenes Haus gehört meiner Tante.)[/font_size][/color] [color=#008000](Cette maison-là appartient à ma tante.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des pronoms démonstratifs[/color][/font_size]
+
+Les pronoms démonstratifs sont utilisés pour clarifier ou mettre l'accent sur l'objet ou la personne dont on parle, surtout lorsqu'il y a plusieurs sujets ou objets possibles.
+
+[indent]• Pour insister sur une personne ou chose en particulier :
+[i]Exemple : [color=#0000FF]Ich mag diesen Kuchen, nicht jenen.[font_size=18pt](Ich mag diesen Kuchen, nicht jenen.)[/font_size][/color] [color=#008000](J'aime ce gâteau-ci, pas celui-là.)[/color][/i]
+
+- Pour différencier entre plusieurs objets :
+[i]Exemple : [color=#0000FF]Dieses Buch ist interessant, aber jenes ist langweilig.[font_size=18pt](Dieses Buch ist interessant, aber jenes ist langweilig.)[/font_size][/color] [color=#008000](Ce livre-ci est intéressant, mais celui-là est ennuyeux.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Formes contractées et usage formel[/color][/font_size]
+
+Dans des contextes informels, les formes de "dieser" peuvent être contractées, surtout à l'oral.
+
+[indent]• Contraction courante :
+[i]Exemple : [color=#0000FF]Der da (celui-là).[font_size=18pt](Der da (celui-là).)[/font_size][/color]
+
+- Usage formel et soutenu :
+[i]Exemple : [color=#0000FF]Jener Herr dort drüben ist der Direktor.[font_size=18pt](Jener Herr dort drüben ist der Direktor.)[/font_size][/color] [color=#008000](Cet homme là-bas est le directeur.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les pronoms démonstratifs indiquent de manière précise à quoi ou à qui on fait référence.
+[color=#FF0000]2.[/color] "Dieser" et "jener" varient selon le cas, le genre et le nombre.
+[color=#FF0000]3.[/color] Utilisez "dieser" pour indiquer quelque chose de proche et "jener" pour quelque chose de plus éloigné.
+[color=#FF0000]4.[/color] Les formes contractées sont courantes en langage informel, mais "jener" est plus formel et soutenu.[/indent]
+
+[center][font_size=18][color=#808080]Richtiges Verwenden der Demonstrativpronomen macht deine deutsche Sprache klarer und präziser![/color][/font_size][/center]

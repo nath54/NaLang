@@ -1,0 +1,64 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes Réfléchis en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes réfléchis en allemand sont des verbes utilisés pour indiquer qu'une action est effectuée par le sujet sur lui-même. Ils se construisent avec un pronom réfléchi et sont couramment employés pour exprimer des actions quotidiennes.
+
+[font_size=24][color=#4B0082]1. Structure de base des verbes réfléchis[/color][/font_size]
+
+En allemand, les verbes réfléchis sont souvent accompagnés des pronoms réfléchis suivants :
+
+[indent][b]Pronoms réfléchis :[/b]
+[code]
+ich – mich [color=#008000](me / moi)[/color]
+du – dich [color=#008000](te / toi)[/color]
+er/sie/es/man – sich [color=#008000](se / soi)[/color]
+wir – uns [color=#008000](nous)[/color]
+ihr – euch [color=#008000](vous)[/color]
+sie/Sie – sich [color=#008000](se / soi, politesse)[/color]
+[/code][/indent]
+
+
+[i]Exemple : [color=#0000FF]Ich wasche mich.[font_size=18pt](Je me lave.)[/font_size][/color] [color=#008000](Ich wasche mich.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Utilisation des verbes réfléchis[/color][/font_size]
+
+Les verbes réfléchis sont utilisés pour exprimer des actions que le sujet fait sur lui-même. Voici quelques exemples courants et leur utilisation :
+
+[indent][b]a) Se brosser les dents[/b]
+[code]
+Ich putze mir die Zähne. [color=#008000](Je me brosse les dents.)[/color]
+Du putzt dir die Zähne. [color=#008000](Tu te brosses les dents.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Er putzt sich die Zähne.[font_size=18pt](Il se brosse les dents.)[/font_size][/color] [color=#008000](Er putzt sich die Zähne.)[/color][/i]
+
+[b]b) Se réveiller[/b]
+[code]
+Ich wache auf. [color=#008000](Je me réveille.)[/color]
+Du wachst auf. [color=#008000](Tu te réveilles.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Wir wachen auf.[font_size=18pt](Nous nous réveillons.)[/font_size][/color] [color=#008000](Wir wachen auf.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Verbes réflexifs contre verbes non réflexifs[/color][/font_size]
+
+Il existe également des verbes en allemand qui peuvent être à la fois réflexifs et non réflexifs, en fonction de leur usage dans la phrase. Par exemple:
+
+[indent][b]Se souvenir[/b]
+[code]
+Ich erinnere mich an dich. [color=#008000](Je me souviens de toi.)[/color]
+Er erinnert sich an seine Kindheit. [color=#008000](Il se souvient de son enfance.)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Sie erinnern sich an ihre Urlaub.[font_size=18pt](Ils se souviennent de leurs vacances.)[/font_size][/color] [color=#008000](Sie erinnern sich an ihre Urlaub.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes réfléchis expriment une action effectuée par le sujet sur lui-même.
+[color=#FF0000]2.[/color] Les pronoms réfléchis varient selon le sujet : ich – mich, du – dich, er/sie/es/man – sich, wir – uns, ihr – euch, sie/Sie – sich.
+[color=#FF0000]3.[/color] Certains verbes peuvent être utilisés à la fois de manière réflexive et non réflexive, selon le contexte de la phrase.[/indent]
+
+[center][font_size=18][color=#808080]Das Verständnis der reflexiven Verben wird Ihr Deutsch natürlicher und flüssiger machen! (La compréhension des verbes réfléchis rendra votre allemand plus naturel et fluide!)[/color][/font_size][/center]

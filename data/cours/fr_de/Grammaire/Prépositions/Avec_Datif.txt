@@ -1,0 +1,73 @@
+[font_size=30][center][b][color=#0000FF]Les Prépositions avec Datif en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En allemand, certaines prépositions sont toujours suivies du datif. Connaître et utiliser correctement ces prépositions est crucial pour maîtriser les structures grammaticales de la langue. Cette leçon vous aidera à comprendre ces prépositions et à les utiliser de manière appropriée.
+
+[font_size=24][color=#4B0082]1. Liste des prépositions qui gouvernent le datif[/color][/font_size]
+
+Voici une liste des prépositions les plus courantes en allemand qui sont suivies du datif :
+
+[b]a) Prépositions simples[/b]
+[indent]
+[code]
+aus [color=#008000](de, hors de)[/color]
+bei [color=#008000](chez, auprès de)[/color]
+mit [color=#008000](avec)[/color]
+nach [color=#008000](après, vers)[/color]
+seit [color=#008000](depuis)[/color]
+von [color=#008000](de, par)[/color]
+zu [color=#008000](à, vers)[/color]
+außer [color=#008000](excepté, sauf)[/color]
+gegenüber [color=#008000](en face de, vis-à-vis de)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Ich gehe mit meinem Freund ins Kino.[font_size=18pt](Ich gehe mit meinem Freund ins Kino.)[/font_size][/color] [color=#008000](Je vais au cinéma avec mon ami.)[/color][/i][/indent]
+
+[b]b) Prépositions composées[/b]
+[indent]
+Certaines prépositions sont plus complexes et se composent de plusieurs mots, mais elles suivent également la règle du datif :
+[code]
+außerhalb von [color=#008000](en dehors de)[/color]
+innerhalb von [color=#008000](à l'intérieur de)[/color]
+statt [color=#008000](au lieu de)[/color]
+trotz [color=#008000](malgré)[/color]
+während [color=#008000](pendant)[/color]
+wegen [color=#008000](à cause de)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Trotz des schlechten Wetters gingen wir spazieren.[font_size=18pt](Trotz des schlechten Wetters gingen wir spazieren.)[/font_size][/color] [color=#008000](Malgré le mauvais temps, nous sommes allés nous promener.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Usage des prépositions avec le datif[/color][/font_size]
+
+Les prépositions de datif affectent le cas des noms et des pronoms qui les suivent. Voici quelques règles pour bien utiliser ces prépositions.
+
+[indent]• Action continue et état :
+[i]Exemple : [color=#0000FF]Ich wohne seit einem Jahr in Berlin.[font_size=18pt](Ich wohne seit einem Jahr in Berlin.)[/font_size][/color] [color=#008000](Je vis à Berlin depuis un an.)[/color][/i]
+
+- Direction et destination :
+[i]Exemple : [color=#0000FF]Er geht zu seiner Freundin.[font_size=18pt](Er geht zu seiner Freundin.)[/font_size][/color] [color=#008000](Il va chez sa copine.)[/color][/i]
+
+- Association et accompaniment :
+[i]Exemple : [color=#0000FF]Wir sprechen mit unserem Lehrer.[font_size=18pt](Wir sprechen mit unserem Lehrer.)[/font_size][/color] [color=#008000](Nous parlons avec notre professeur.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Pour ajouter des informations supplémentaires comme le lieu ou l'heure, il est possible de combiner plusieurs datifs dans une même phrase. 
+
+[indent]• Combinaison avec indication de temps :
+[i]Exemple : [color=#0000FF]Ich bin seit Montag bei meinen Eltern.[font_size=18pt](Ich bin seit Montag bei meinen Eltern.)[/font_size][/color] [color=#008000](Je suis chez mes parents depuis lundi.)[/color][/i]
+
+- Précision du lieu :
+[i]Exemple : [color=#0000FF]Der Park ist gegenüber dem Bahnhof.[font_size=18pt](Der Park ist gegenüber dem Bahnhof.)[/font_size][/color] [color=#008000](Le parc est en face de la gare.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les prépositions de datif déterminent le cas des noms et des pronoms qui suivent.
+[color=#FF0000]2.[/color] Utiliser correctement les prépositions avec le datif assure des phrases grammaticalement correctes.
+[color=#FF0000]3.[/color] Les prépositions peuvent exprimer divers contextes, y compris le temps, la direction, et l'association.
+[color=#FF0000]4.[/color] Il est possible de combiner des prépositions de datif pour ajouter des détails supplémentaires comme l'emplacement et le temps.[/indent]
+
+[center][font_size=18][color=#808080]Richtiges Verwenden der Dativpräpositionen bringt Ihre Deutschkenntnisse auf ein höheres Niveau! (Richtiges Verwenden der Dativpräpositionen bringt Ihre Deutschkenntnisse auf ein höheres Niveau!)[/color][/font_size][/center]

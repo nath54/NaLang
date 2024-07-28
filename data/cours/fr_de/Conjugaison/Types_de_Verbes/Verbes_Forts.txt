@@ -1,0 +1,98 @@
+[font_size=30][center][b][color=#0000FF]Les Verbes Forts en Allemand[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les verbes forts en allemand sont des verbes irréguliers qui modifient leur radical vocalique aux différents temps. Contrairement aux verbes faibles, les verbes forts ne suivent pas une structure uniforme pour la conjugaison. Apprendre à reconnaître et utiliser les verbes forts est essentiel pour parler allemand couramment.
+
+[font_size=24][color=#4B0082]1. Caractéristiques des verbes forts[/color][/font_size]
+
+Les verbes forts en allemand se distinguent par les caractéristiques suivantes:
+
+[indent]• Changement de voyelle dans le radical du verbe
+[indent][i]Exemple : [color=#0000FF]sehen (voir)[/color] devient [color=#0000FF]sah[/color] au prétérit et [color=#0000FF]gesehen[/color] au participe passé.[/i][/indent]
+
+• Formation du prétérit sans ajout de [color=#FF0000]–t–[/color] 
+[indent][i]Exemple : [color=#0000FF]singen (chanter)[/color] devient [color=#0000FF]sang[/color] au prétérit, sans [color=#FF0000]-t-[/color].[/i][/indent]
+
+• Formation du participe passé avec le préfixe [color=#FF0000]ge–[/color] et le suffixe [color=#FF0000]–en[/color]
+[indent][i]Exemple : [color=#0000FF]schreiben (écrire)[/color] devient [color=#0000FF]geschrieben[/color] au participe passé.[/i][/indent][/indent]
+
+[font_size=24][color=#4B0082]2. Conjugaison des verbes forts[/color][/font_size]
+
+Voici quelques-uns des verbes forts les plus courants en allemand avec leur conjugaison au présent, prétérit, et participe passé :
+
+[indent][code]
+sehen (voir)
+Präsens (Présent): ich sehe, du siehst, er/sie/es sieht
+Präteritum (Prétérit): ich sah, du sahst, er/sie/es sah
+Perfekt (Participe Passé): gesehen
+
+lesen (lire)
+Präsens (Présent): ich lese, du liest, er/sie/es liest
+Präteritum (Prétérit): ich las, du last, er/sie/es las
+Perfekt (Participe Passé): gelesen
+
+schreiben (écrire)
+Präsens (Présent): ich schreibe, du schreibst, er/sie/es schreibt
+Präteritum (Prétérit): ich schrieb, du schriebst, er/sie/es schrieb
+Perfekt (Participe Passé): geschrieben
+
+singen (chanter)
+Präsens (Présent): ich singe, du singst, er/sie/es singt
+Präteritum (Prétérit): ich sang, du sangst, er/sie/es sang
+Perfekt (Participe Passé): gesungen
+
+nehmen (prendre)
+Präsens (Présent): ich nehme, du nimmst, er/sie/es nimmt
+Präteritum (Prétérit): ich nahm, du nahmst, er/sie/es nahm
+Perfekt (Participe Passé): genommen
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Groupes de verbes forts[/color][/font_size]
+
+Les verbes forts peuvent être regroupés selon leurs schémas de changement vocalique. Voici quelques exemples de ces groupes :
+
+[indent][b]a) Changement [color=#FF0000]i[/color] → [color=#FF0000]a[/color] → [color=#FF0000]u[/color][/b]
+[indent][i]Exemple : [color=#0000FF]finden (trouver)[/color][/i]
+[code]
+Präsens: ich finde, du findest, er/sie/es findet
+Präteritum: ich fand, du fandst, er/sie/es fand
+Perfekt: gefunden
+[/code][/indent]
+
+[b]b) Changement [color=#FF0000]e[/color] → [color=#FF0000]a[/color] → [color=#FF0000]e[/color][/b]
+[indent][i]Exemple : [color=#0000FF]lesen (lire)[/color][/i]
+[code]
+Präsens: ich lese, du liest, er/sie/es liest
+Präteritum: ich las, du lasst, er/sie/es las
+Perfekt: gelesen
+[/code][/indent]
+
+[b]c) Changement [color=#FF0000]ei[/color] → [color=#FF0000]ie[/color] → [color=#FF0000]ie[/color][/b]
+[indent][i]Exemple : [color=#0000FF]schreiben (écrire)[/color][/i]
+[code]
+Präsens: ich schreibe, du schreibst, er/sie/es schreibt
+Präteritum: ich schrieb, du schriebst, er/sie/es schrieb
+Perfekt: geschrieben
+[/code][/indent][/indent]
+
+[font_size=24][color=#4B0082]4. Précisions supplémentaires[/color][/font_size]
+
+Lorsque vous apprenez les verbes forts, il est important de prendre en compte certaines particularités :
+
+[indent]• Dans certains cas, le changement vocalique peut affecter également la 2ème et 3ème personne du singulier au présent.
+[i]Exemple : [color=#0000FF]fahren (conduire)[/color] devient [color=#00FF00]du fährst[/color] et [color=#00FF00]er/sie/es fährt[/color] au présent.[/i]
+
+• Certains verbes forts suivent des schémas irréguliers qu'il faut mémoriser individuellement.
+[i]Exemple : [color=#0000FF]sein (être)[/color] est totalement irrégulier.[/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les verbes forts en allemand changent de voyelle dans leur radical selon les temps.
+[color=#FF0000]2.[/color] Ils forment le prétérit sans [color=#FF0000]–t–[/color] et le participe passé avec [color=#FF0000]ge–[/color] + [color=#FF0000]–en[/color].
+[color=#FF0000]3.[/color] Ils peuvent être regroupés par schéma de changement vocalique pour faciliter l'apprentissage.
+[color=#FF0000]4.[/color] Certaines formes peuvent varier à la 2ème et 3ème personne du présent et peuvent avoir des schémas irréguliers qu'il faut mémoriser individuellement.[/indent]
+
+[center][font_size=18][color=#808080]Richtiges Beherrschen der starken Verben macht dein Deutsch natürlicher und flüssiger! (Bien maîtriser les verbes forts rend votre allemand plus naturel et fluide!) [/color][/font_size][/center]
