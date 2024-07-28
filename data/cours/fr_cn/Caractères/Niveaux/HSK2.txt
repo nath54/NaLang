@@ -38,7 +38,7 @@ Ces radicaux peuvent se combiner pour former des caractères plus complexes :
 
 Le HSK2 est le deuxième niveau officiel du test de compétence en chinois. Ce niveau est conçu pour les étudiants ayant étudié le chinois pendant environ 2 à 4 mois, à raison de 2 à 3 heures par semaine. Le niveau HSK2 couvre environ 300 mots et expressions.
 
-[b]a) Vocabulaire</b]
+[b]a) Vocabulaire[/b]
 [indent]Voici quelques mots de vocabulaire typiques du HSK2 :
 
 [code]
@@ -89,4 +89,4 @@ Apprendre le chinois peut être intimidant au début, mais avec la bonne méthod
 [color=#FF0000]3.[/color] La structure des phrases en chinois est généralement S-V-O.
 [color=#FF0000]4.[/color] La pratique régulière et l'utilisation de ressources éducatives sont essentielles pour progresser.[/indent]
 
-[center][font_size=18][color=#808080]好好学习，天天向上！(hǎo hǎo xué xí, tiān tiān xiàng shàng) [color=#008000](Étudie bien et progresse chaque jour !)[/color][/font_size][/center]
+[center][font_size=18][color=#808080]好好学习，天天向上！(hǎo hǎo xué xí, tiān tiān xiàng shàng) [/color] [color=#008000](Étudie bien et progresse chaque jour !)[/color][/font_size][/center]

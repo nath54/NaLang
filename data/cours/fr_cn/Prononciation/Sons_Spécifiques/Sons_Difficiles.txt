@@ -15,7 +15,7 @@ Le son [color=#FF0000]zh[/color] se produit lorsque l'on place la langue contre 
 重要 (zhòng yào) [color=#008000](important)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他是中国人。[color/#008000] (tā shì zhōng guó rén) [color=#008000](Il est chinois.)[/color][/i]
+[i]Exemple : [color=#0000FF]他是中国人。[/color][color= #008000] (tā shì zhōng guó rén)[/color] [color=#008000](Il est chinois.)[/color][/i]
 [/indent]
 
 [font_size=24][color=#4B0082]2. Le son "Ch" (ch)[/color][/font_size]
@@ -29,7 +29,7 @@ Le son [color=#FF0000]ch[/color] est similaire à "tch" en français, mais il es
 茶 (chá) [color=#008000](thé)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我吃苹果。[color/#008000] (wǒ chī píng guǒ) [color=#008000](Je mange une pomme.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我吃苹果。[/color][color= #008000] (wǒ chī píng guǒ)[/color] [color=#008000](Je mange une pomme.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Le son "Sh" (sh)[/color][/font_size]
 
@@ -42,7 +42,7 @@ Le son [color=#FF0000]sh[/color] est produit en plaçant la langue contre le pal
 时候 (shí hòu) [color=#008000](temps, moment)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]这是我的书。[color/#008000] (zhè shì wǒ de shū) [color=#008000](Ceci est mon livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]这是我的书。[/color][color= #008000] (zhè shì wǒ de shū)[/color] [color=#008000](Ceci est mon livre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Le son "R" (r)[/color][/font_size]
 
@@ -55,7 +55,7 @@ Le son [color=#FF0000]r[/color] en chinois est l'un des plus difficiles à saisi
 然后 (rán hòu) [color=#008000](ensuite)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我们有三个人。[color/#008000] (wǒ men yǒu sān gè rén) [color=#008000](Nous sommes trois personnes.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我们有三个人。[/color][color= #008000] (wǒ men yǒu sān gè rén)[/color] [color=#008000](Nous sommes trois personnes.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]5. Le son "C" (c)[/color][/font_size]
 
@@ -68,7 +68,7 @@ Le son [color=#FF0000]c[/color] est produit en plaçant la langue contre les den
 次 (cì) [color=#008000](fois)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]这是第一次。[color/#008000] (zhè shì dì yī cì) [color=#008000](C'est la première fois.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]这是第一次。[/color][color= #008000] (zhè shì dì yī cì)[/color] [color=#008000](C'est la première fois.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]6. Le son "Z" (z)[/color][/font_size]
 
@@ -81,7 +81,7 @@ Le son [color=#FF0000]z[/color] est similaire au "ds" dans "midsummer" en anglai
 怎么 (zěn me) [color=#008000](comment)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]你怎么了？[color/#008000] (nǐ zěn me le) [color=#008000](Que se passe-t-il ?) [/color][/i][/indent]
+[i]Exemple : [color=#0000FF]你怎么了？[/color][color= #008000] (nǐ zěn me le)[/color] [color=#008000](Que se passe-t-il ?) [/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

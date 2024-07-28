@@ -2,7 +2,7 @@
 
 [center][color=#808080]__________[/color][/center]
 
-Le pinyin est le système de romanisation officiel du mandarin en Chine. Il utilise l'alphabet latin pour représenter les sons chinois et sert de guide pour la prononciation. Un mot en pinyin est composé d'une initiale (consonne) et d'une finale (voyelle ou ensemble de voyelles). Dans ce cours, nous allons nous concentrer sur les **initiales** en pinyin.
+Le pinyin est le système de romanisation officiel du mandarin en Chine. Il utilise l'alphabet latin pour représenter les sons chinois et sert de guide pour la prononciation. Un mot en pinyin est composé d'une initiale (consonne) et d'une finale (voyelle ou ensemble de voyelles). Dans ce cours, nous allons nous concentrer sur les [b]initiales[/b] en pinyin.
 
 [font_size=24][color=#4B0082]1. Les initiales en pinyin[/color][/font_size]
 

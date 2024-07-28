@@ -51,15 +51,15 @@ Pour transformer une phrase affirmative en phrase négative ou interrogative, on
 [indent]Le mot "不" (bù) [color=#008000](ne ... pas)[/color] est placé avant le verbe pour former la négation.
 
 [code]
-我不看书。[/color] (wǒ bù kàn shū) [color=#008000](Je ne lis pas de livre.)[/color]
+[color=#0000FF]我不看书。[/color] (wǒ bù kàn shū) [color=#008000](Je ne lis pas de livre.)[/color]
 [/code]
 
 [b]b) Forme interrogative[/b]
 [indent]Pour poser une question, on utilise la particule "吗" (ma) à la fin de la phrase, ou bien on utilise la forme affirmative-négative
 
 [code]
-你今天看书吗？[/color] (nǐ jīntiān kàn shū ma) [color=#008000](Est-ce que tu lis un livre aujourd'hui ?)[/color]
-你看不看书？[/color] (nǐ kàn bù kàn shū) [color=#008000](Lis-tu un livre ou non ?)[/color]
+[color=#0000FF]你今天看书吗？[/color] (nǐ jīntiān kàn shū ma) [color=#008000](Est-ce que tu lis un livre aujourd'hui ?)[/color]
+[color=#0000FF]你看不看书？[/color] (nǐ kàn bù kàn shū) [color=#008000](Lis-tu un livre ou non ?)[/color]
 [/code]
 
 [i]Exemple : [color=#0000FF]他现在工作吗？[/color] (tā xiànzài gōngzuò ma) [color=#008000](Est-il en train de travailler maintenant ?)[/color][/i][/indent]
@@ -69,13 +69,13 @@ Pour transformer une phrase affirmative en phrase négative ou interrogative, on
 Les verbes d'état comme "être" et "avoir" sont couramment utilisés au présent. En chinois mandarin :
 
 [indent][b]a) "Être" : 是 (shì)[/b]
-[j]• [color=#0000FF]我是老师。[/color] (wǒ shì lǎoshī) [color=#008000](Je suis professeur.)[/color][j]
+[i]• [color=#0000FF]我是老师。[/color] (wǒ shì lǎoshī) [color=#008000](Je suis professeur.)[/color][/i]
 
 [b]b) "Avoir" : 有 (yǒu)[/b]
-[j]• [color=#0000FF]我有一本书。[/color] (wǒ yǒu yī běn shū) [color=#008000](J'ai un livre.)[/color][j]
+[i]• [color=#0000FF]我有一本书。[/color] (wǒ yǒu yī běn shū) [color=#008000](J'ai un livre.)[/color][/i]
 
 Le verbe "être" n'est pas utilisé pour dire que quelqu'un ou quelque chose est dans un certain lieu, on utilise "在" (zài) pour cela :
-[j]• [color=#0000FF]他在家。[/color] (tā zài jiā) [color=#008000](Il est à la maison.)[/color][j][/indent]
+[i]• [color=#0000FF]他在家。[/color] (tā zài jiā) [color=#008000](Il est à la maison.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -104,4 +104,4 @@ Exemple :
 [color=#FF0000]3.[/color] Comprendre la structure et l'origine d'un 成语 (chéngyǔ) est essentiel pour une utilisation correcte.
 [color=#FF0000]4.[/color] L'apprentissage et la mémorisation des 成语 (chéngyǔ) peuvent être facilités en connaissant les histoires et en pratiquant régulièrement.[/indent]
 
-[center][font_size=18][color=#808080]好好学习，天天向上! (hǎo hǎo xué xí, tiān tiān xiàng shàng) [color=#008000](Travaille bien et progresse chaque jour!)[/color][/font_size][/center]
+[center][font_size=18][color=#808080]好好学习，天天向上! (hǎo hǎo xué xí, tiān tiān xiàng shàng) [/color] [color=#008000](Travaille bien et progresse chaque jour!)[/color][/font_size][/center]

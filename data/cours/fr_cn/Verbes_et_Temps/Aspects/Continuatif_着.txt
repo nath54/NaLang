@@ -15,7 +15,7 @@ Pour exprimer l'idée qu'une action est en train de se dérouler, on ajoute simp
 sujet + verbe + 着 (zhe) + complément
 [/code]
 
-[i]Exemple : [color=#0000FF]他在看着书。[color] (tā zài kànzhe shū) [color=#008000](Il est en train de lire un livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他在看着书。[/color] (tā zài kànzhe shū) [color=#008000](Il est en train de lire un livre.)[/color][/i][/indent]
 
 Cette structure indique que l'action de lire est en cours.
 
@@ -26,7 +26,7 @@ Cette structure indique que l'action de lire est en cours.
 sujet + verbe 1 + 着 (zhe) + complément 1 + verbe 2 + complément 2
 [/code]
 
-[i]Exemple : [color=#0000FF]她笑着说话。[color] (tā xiàozhe shuōhuà) [color=#008000](Elle parle en souriant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]她笑着说话。[/color] (tā xiàozhe shuōhuà) [color=#008000](Elle parle en souriant.)[/color][/i][/indent]
 
 L'utilisation de 着 (zhe) ici spécifie que les deux actions (rire et parler) se font en même temps.
 
@@ -38,9 +38,9 @@ Il est important de distinguer 着 (zhe) des autres marqueurs d'aspect comme 了
 • 了 (le) : Indique qu'une action est terminée.
 • 过 (guo) : Indique qu'une action a été réalisée à un moment dans le passé.
 
-[i]Exemple : [color=#0000FF]他在吃饭。[color] (tā zài chīfàn) [color=#008000](Il est en train de manger.)[/color]
-[color=#0000FF]他吃了饭。[color] (tā chīle fàn) [color=#008000](Il a mangé.)[/color]
-[color=#0000FF]他吃过饭。[color] (tā chīguo fàn) [color=#008000](Il a déjà mangé.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他在吃饭。[/color] (tā zài chīfàn) [color=#008000](Il est en train de manger.)[/color]
+[color=#0000FF]他吃了饭。[/color] (tā chīle fàn) [color=#008000](Il a mangé.)[/color]
+[color=#0000FF]他吃过饭。[/color] (tā chīguo fàn) [color=#008000](Il a déjà mangé.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisation avec 在 (zài)[/color][/font_size]
 
@@ -52,7 +52,7 @@ L'aspect continuatif 着 (zhe) est souvent utilisé en combinaison avec 在 (zà
 sujet + 在 (zài) + verbe + 着 (zhe) + complément
 [/code]
 
-[i]Exemple : [color=#0000FF]他在跑着。[color] (tā zài pǎozhe) [color=#008000](Il est en train de courir.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他在跑着。[/color] (tā zài pǎozhe) [color=#008000](Il est en train de courir.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Nuances d'utilisation[/color][/font_size]
 
@@ -61,21 +61,21 @@ L'utilisation de 着 (zhe) offre quelques nuances spécifiques :
 [b]a) Description d'actions continues et régulières[/b]
 [indent]Les actions continues ou habitielles peuvent également être décrites avec 着 (zhe).
 
-[i]Exemple : [color=#0000FF]他常常带着帽子。[color] (tā chángcháng dàizhe màozi) [color=#008000](Il porte souvent un chapeau.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他常常带着帽子。[/color] (tā chángcháng dàizhe màozi) [color=#008000](Il porte souvent un chapeau.)[/color][/i][/indent]
 
 [b]b) Verbes d'état[/b]
 [indent]Les verbes d'état comme 站 (zhàn) [color=#008000](se tenir debout)[/color], 坐 (zuò) [color=#008000](s'asseoir)[/color], et 躺 (tǎng) [color=#008000](se coucher)[/color] utilisent souvent 着 (zhe) pour montrer la continuation de cet état.
 
-[i]Exemple : [color=#0000FF]他站着看书。[color] (tā zhànzhe kàn shū) [color=#008000](Il lit debout.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他站着看书。[/color] (tā zhànzhe kàn shū) [color=#008000](Il lit debout.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]5. Exemples supplémentaires[/color][/font_size]
 
 Voici quelques exemples pour illustrer les différentes utilisations de 着 (zhe) :
 
 [indent][code]
-门开着。[color] (mén kāizhe) [color=#008000](La porte est ouverte.)[/color]
-他听着音乐做作业。[color] (tā tīngzhe yīnyuè zuò zuòyè) [color=#008000](Il fait ses devoirs en écoutant de la musique.)[/color]
-天空挂着彩虹。[color] (tiānkōng guàzhe cǎihóng) [color=#008000](Il y a un arc-en-ciel dans le ciel.)[/color]
+门开着。[/color] (mén kāizhe) [color=#008000](La porte est ouverte.)[/color]
+他听着音乐做作业。[/color] (tā tīngzhe yīnyuè zuò zuòyè) [color=#008000](Il fait ses devoirs en écoutant de la musique.)[/color]
+天空挂着彩虹。[/color] (tiānkōng guàzhe cǎihóng) [color=#008000](Il y a un arc-en-ciel dans le ciel.)[/color]
 [/code]
 
 Ces phrases montrent différentes situations où 着 (zhe) indique une action en cours ou une situation continue.[/indent]

@@ -13,14 +13,14 @@ Les mots "将" (jiāng) et "会" (huì) sont fréquemment utilisés pour exprime
 
 [code]
 他将去北京。[color=#008000](Tā jiāng qù Běijīng.)[/color]
-Il ira à Pékin.[/i][/code][/indent]
+[i]Il ira à Pékin.[/i][/code][/indent]
 
 [b]b) "会" (huì)[/b]
 [indent]"会" (huì) est plus couramment utilisé pour parler d'événements futurs lors d'une conversation orale.
 
 [code]
 我会给你打电话。[color=#008000](Wǒ huì gěi nǐ dǎ diànhuà.)[/color]
-Je te téléphonerai.[/i][/code][/indent]
+[i]Je te téléphonerai.[/i][/code][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de "要" (yào)[/color][/font_size]
 
@@ -28,7 +28,7 @@ Je te téléphonerai.[/i][/code][/indent]
 
 [indent][code]
 我们要去看电影。[color=#008000](Wǒmen yào qù kàn diànyǐng.)[/color]
-Nous allons aller voir un film.[/i][/code][/indent]
+[i]Nous allons aller voir un film.[/i][/code][/indent]
 
 [font_size=24][color=#4B0082]3. L'emploi des séries temporelles[/color][/font_size]
 
@@ -37,17 +37,17 @@ Les expressions temporelles spécifiques comme "明天" (míngtiān) : demain, "
 [b]a) "明天" (míngtiān)[/b]
 [indent][code]
 明天我去上海。[color=#008000](Míngtiān wǒ qù Shànghǎi.)[/color]
-Demain, je vais à Shanghai.[/i][/code][/indent]
+[i]Demain, je vais à Shanghai.[/i][/code][/indent]
 
 [b]b) "下周" (xià zhōu)[/b]
 [indent][code]
 下周我们开会。[color=#008000](Xià zhōu wǒmen kāihuì.)[/color]
-La semaine prochaine, nous aurons une réunion.[/i][/code][/indent]
+[i]La semaine prochaine, nous aurons une réunion.[/i][/code][/indent]
 
 [b]c) "以后" (yǐhòu)[/b]
 [indent][code]
 我以后会给你回信。[color=#008000](Wǒ yǐhòu huì gěi nǐ huíxìn.)[/color]
-Je te répondrai plus tard.[/i][/code][/indent]
+[i]Je te répondrai plus tard.[/i][/code][/indent]
 
 [font_size=24][color=#4B0082]4. Construction de phrases avec les expressions temporelles du futur[/color][/font_size]
 
@@ -55,10 +55,10 @@ La construction des phrases pour indiquer des actions futures suit des règles s
 
 [indent][code]
 晚上我要学习中文。[color=#008000](Wǎnshàng wǒ yào xuéxí Zhōngwén.)[/color]
-Ce soir, je vais étudier le chinois.[/i][/code]
+[i]Ce soir, je vais étudier le chinois.[/i][/code]
 [code]
 他明年会去留学。[color=#008000](Tā míngnián huì qù liúxué.)[/color]
-L'année prochaine, il ira étudier à l'étranger.[/i][/code][/indent]
+[i]L'année prochaine, il ira étudier à l'étranger.[/i][/code][/indent]
 
 [font_size=24][color=#4B0082]5. Exemples supplémentaires[/color][/font_size]
 
@@ -66,13 +66,13 @@ Pour mieux comprendre, voici quelques phrases supplémentaires :
 
 [indent][code]
 下个月我要搬家。[color=#008000](Xià ge yuè wǒ yào bānjiā.)[/color]
-Le mois prochain, je vais déménager.[/i][/code]
+[i]Le mois prochain, je vais déménager.[/i][/code]
 [code]
 今年夏天我们会去海边度假。[color=#008000](Jīnnián xiàtiān wǒmen huì qù hǎibiān dùjià.)[/color]
-Cet été, nous irons en vacances à la plage.[/i][/code]
+[i]Cet été, nous irons en vacances à la plage.[/i][/code]
 [code]
 你以后打算做什么？[color=#008000](Nǐ yǐhòu dǎsuàn zuò shénme?) [/color]
-Que comptes-tu faire plus tard ?[/i][/code][/indent]
+[i]Que comptes-tu faire plus tard ?[/i][/code][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

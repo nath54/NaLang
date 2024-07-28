@@ -69,7 +69,7 @@ La pratique des tons peut être difficile au début, mais avec de l'entraînemen
 
 Les tons ne changent pas lorsque vous utilisez des mots dans une phrase, mais la fluidité et l'intonation globale de la phrase peuvent influencer légèrement leur perception. Il est donc essentiel de s'entraîner à dire des phrases complètes.
 
-[indent][i]Exemple : [color=#0000FF]妈妈骂马。[small](Mā ma mà mǎ.)[/color] [color=#008000](Maman gronde le cheval.)[/color][/i][/indent]
+[indent][i]Exemple : [color=#0000FF]妈妈骂马。(Mā ma mà mǎ.)[/color] [color=#008000](Maman gronde le cheval.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

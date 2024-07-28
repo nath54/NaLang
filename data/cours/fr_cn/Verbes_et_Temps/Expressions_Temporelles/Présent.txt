@@ -51,10 +51,10 @@ En chinois, plusieurs expressions permettent de situer une action dans le prése
 L'utilisation correcte des expressions temporelles permet de structurer la phrase et de clarifier le moment de l'action. Voici quelques règles générales pour bien les utiliser.
 
 [indent]• Les expressions comme 现在 (xiàn zài) et 正在 (zhèng zài) se placent généralement [u]avant[/u] le verbe.
-[color=#0000FF]现在，他在学习。[color=#008000](Maintenant, il étudie.)[/color]
+[color=#0000FF]现在，他在学习。[/color][color=#008000](Maintenant, il étudie.)[/color]
 
 - Les expressions plus longues comme 这几天 (zhè jǐ tiān) peuvent se placer [u]au début[/u] ou [u]à la fin[/u] de la phrase pour accentuer.
-[color=#0000FF]这几天，她很忙。[color=#008000](Ces jours-ci, elle est très occupée.)[/color]
+[color=#0000FF]这几天，她很忙。[/color][color=#008000](Ces jours-ci, elle est très occupée.)[/color]
 她很忙，这几天。[color=#008000](Elle est très occupée, ces jours-ci.)[/color][/indent]
 
 [font_size=24][color=#4B0082]3. Les nuances et exceptions[/color][/font_size]

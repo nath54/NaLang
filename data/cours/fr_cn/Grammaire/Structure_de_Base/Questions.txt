@@ -13,21 +13,21 @@ Ces questions permettent de répondre par "oui" ou "non". En chinois, on utilise
 [indent]On ajoute le mot interrogatif [color=#FF0000]吗 (ma)[/color] à la fin d'une phrase déclarative pour en faire une question.
 
 [code]
-你是学生吗？[color=#008000](nǐ shì xuésheng ma?) [br](Es-tu étudiant ?)[/color]
-他喜欢中国菜吗？[color=#008000](tā xǐhuan zhōngguó cài ma?) [br](Aime-t-il la cuisine chinoise ?)[/color]
+你是学生吗？[color=#008000](nǐ shì xuésheng ma?)  (Es-tu étudiant ?)[/color]
+他喜欢中国菜吗？[color=#008000](tā xǐhuan zhōngguó cài ma?)  (Aime-t-il la cuisine chinoise ?)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]你有哥哥吗？[/color] [color=#008000](nǐ yǒu gēge ma?) [br](As-tu un frère aîné ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]你有哥哥吗？[/color] [color=#008000](nǐ yǒu gēge ma?)  (As-tu un frère aîné ?)[/color][/i][/indent]
 
 [b]b) Structure A不A (A bu A)[/b]
 [indent]Cette structure consiste à répéter le verbe ou l'adjectif et à insérer [color=#FF0000]不 (bù)[/color] entre les deux. Elle est utilisée pour poser une question à choix binaire.
 
 [code]
-你是不是学生？[color=#008000](nǐ shì bù shì xuésheng?) [br](Es-tu étudiant ?)[/color]
-他喜欢不喜欢中国菜？[color=#008000](tā xǐhuan bù xǐhuan zhōngguó cài?) [br](Aime-t-il ou non la cuisine chinoise ?)[/color]
+你是不是学生？[color=#008000](nǐ shì bù shì xuésheng?)  (Es-tu étudiant ?)[/color]
+他喜欢不喜欢中国菜？[color=#008000](tā xǐhuan bù xǐhuan zhōngguó cài?)  (Aime-t-il ou non la cuisine chinoise ?)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]你去不去？[/color] [color=#008000](nǐ qù bù qù?) [br](Y vas-tu ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]你去不去？[/color] [color=#008000](nǐ qù bù qù?)  (Y vas-tu ?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Les questions ouvertes (开放题 (kāi fàng tí))[/color][/font_size]
 
@@ -46,40 +46,40 @@ Ces questions demandent des informations spécifiques et ne peuvent pas être r�
 多少 (duōshao) [color=#008000](combien)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]你叫什么名字？[/color] [color=#008000](nǐ jiào shénme míngzi?) [br](Comment t'appelles-tu ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]你叫什么名字？[/color] [color=#008000](nǐ jiào shénme míngzi?)  (Comment t'appelles-tu ?)[/color][/i][/indent]
 
 [b]b) Placement des mots interrogatifs[/b]
 [indent]Les mots interrogatifs occupent la même place que les mots qu'ils remplacent dans la phrase.
 
 [code]
-你喜欢什么？[color=#008000](nǐ xǐhuan shénme?) [br](Que-aimes tu?)[/color]
-她是谁？[color=#008000](tā shì shéi?) [br](Qui est-ce ?)[/color]
-他什么时候来？[color=#008000](tā shénme shíhou lái?) [br](Quand vient-il?)[/color]
+你喜欢什么？[color=#008000](nǐ xǐhuan shénme?)  (Que-aimes tu?)[/color]
+她是谁？[color=#008000](tā shì shéi?)  (Qui est-ce ?)[/color]
+他什么时候来？[color=#008000](tā shénme shíhou lái?)  (Quand vient-il?)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他去哪儿了？[/color] [color=#008000](tā qù nǎr le?) [br](Où est-il allé?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他去哪儿了？[/color] [color=#008000](tā qù nǎr le?)  (Où est-il allé?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Les questions par alternative (选择题 (xuǎnzé tí))[/color][/font_size]
 
 Ces questions offrent plusieurs options de réponse que l'interlocuteur doit choisir :
 
 [indent][code]
-你是法国人还是中国人？[color=#008000](nǐ shì fǎguó rén háishì zhōngguó rén?) [br](Es-tu Français ou Chinois?)[/color]
-你喝茶还是咖啡？[color=#008000](nǐ hē chá háishì kāfēi?) [br](Prends-tu du thé ou du café?)[/color]
+你是法国人还是中国人？[color=#008000](nǐ shì fǎguó rén háishì zhōngguó rén?)  (Es-tu Français ou Chinois?)[/color]
+你喝茶还是咖啡？[color=#008000](nǐ hē chá háishì kāfēi?)  (Prends-tu du thé ou du café?)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]你要苹果还是香蕉？[/color] [color=#008000](nǐ yào píngguǒ háishì xiāngjiāo?) [br](Veux-tu des pommes ou des bananes?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]你要苹果还是香蕉？[/color] [color=#008000](nǐ yào píngguǒ háishì xiāngjiāo?)  (Veux-tu des pommes ou des bananes?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Les questions rhétoriques (反问句 (fǎn wèn jù))[/color][/font_size]
 
 Les questions rhétoriques sont posées pour souligner un point, souvent lorsque la réponse est évidente.
 
 [indent][code]
-你以为我是谁？[color=#008000](nǐ yǐwéi wǒ shì shéi?) [br](Pour qui me prends-tu?)[/color]
-太阳不是每天都升起吗？[color=#008000](tàiyáng bù shì měitiān dōu shēngqǐ ma?) [br](Le soleil ne se lève-t-il pas chaque jour?)[/color]
+你以为我是谁？[color=#008000](nǐ yǐwéi wǒ shì shéi?)  (Pour qui me prends-tu?)[/color]
+太阳不是每天都升起吗？[color=#008000](tàiyáng bù shì měitiān dōu shēngqǐ ma?)  (Le soleil ne se lève-t-il pas chaque jour?)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]你看不到吗？[/color] [color=#008000](nǐ kàn bú dào ma?) [br](Ne le vois-tu pas?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]你看不到吗？[/color] [color=#008000](nǐ kàn bú dào ma?)  (Ne le vois-tu pas?)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 
@@ -91,4 +91,4 @@ Les questions rhétoriques sont posées pour souligner un point, souvent lorsque
 [color=#FF0000]4.[/color] Les questions rhétoriques sont utilisées pour insister sur une évidence.
 [/indent]
 
-[center][font_size=18][color=#808080]掌握这些问题结构，你的汉语会越来越流利！(zhǎngwò zhèxiē wèntí jiégòu, nǐ de hànyǔ huì yuè lái yuè liúli!) [br](Maîtrise ces structures de questions et ton chinois deviendra de plus en plus fluide!)[/color][/font_size][/center]
+[center][font_size=18][color=#808080]掌握这些问题结构，你的汉语会越来越流利！(zhǎngwò zhèxiē wèntí jiégòu, nǐ de hànyǔ huì yuè lái yuè liúli!)  (Maîtrise ces structures de questions et ton chinois deviendra de plus en plus fluide!)[/color][/font_size][/center]

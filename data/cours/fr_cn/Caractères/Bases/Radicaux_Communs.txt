@@ -17,7 +17,7 @@ Les caractères chinois ne sont pas basés sur un alphabet mais sur des logogram
 
 • Les caractères composés sont formés en combinant plusieurs caractères simples ou radicaux. Exemple :
 [code]
-休 (xiū) [color=#008000](se reposer, formé par 人 (rén) et 木 (mù) [arbre])[/color]
+休 (xiū) [color=#008000](se reposer, formé par 人 (rén) et 木 (mù) (arbre))[/color]
 明 (míng) [color=#008000](lumineux, formé par 日 (rì) (soleil) et 月 (yuè) (lune))[/color]
 [/code][/indent]
 
@@ -107,4 +107,4 @@ Les caractères chinois ont souvent des composants qui indiquent le sens et d'au
 [color=#FF0000]4.[/color] Décomposer les caractères, utiliser des mnémotechniques et pratiquer régulièrement la calligraphie sont des méthodes efficaces pour apprendre.
 [color=#FF0000]5.[/color] Connaître les radicaux et les éléments phonétiques facilite la compréhension et la mémorisation des caractères.[/indent]
 
-[center][font_size=18][color=#808080]学会这些技巧, 你会变成中文高手！(Xuéhuì zhèxiē jìqiǎo, nǐ huì biàn chéng zhōngwén gāoshǒu!) [color=#008000] (Apprenez ces astuces, et vous deviendrez un maître du chinois !)[/color][/font_size][/center]
+[center][font_size=18][color=#808080]学会这些技巧, 你会变成中文高手！(Xuéhuì zhèxiē jìqiǎo, nǐ huì biàn chéng zhōngwén gāoshǒu!) [/color] [color=#008000] (Apprenez ces astuces, et vous deviendrez un maître du chinois !)[/color][/font_size][/center]
