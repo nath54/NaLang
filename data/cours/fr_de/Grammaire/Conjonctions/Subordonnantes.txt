@@ -12,25 +12,25 @@ Voici une liste des conjonctions subordonnantes les plus couramment utilisées e
 [indent]Cette conjonction introduit des propositions complétives.
 [code]
 Ich denke, dass er kommt. [color=#008000](Je pense qu'il vient.)[/color]
-[/code]
+[/code][/indent]
 
 [b]b) weil (parce que)[/b]
 [indent]Elle introduit des propositions causales.
 [code]
 Ich bleibe zu Hause, weil es regnet. [color=#008000](Je reste à la maison parce qu'il pleut.)[/color]
-[/code]
+[/code][/indent]
 
 [b]c) wenn (si, quand)[/b]
 [indent]Elle est utilisée pour introduire des conditions ou des événements qui se répètent.
 [code]
 Wenn es regnet, bleibe ich zu Hause. [color=#008000](S'il pleut, je reste à la maison.)[/color]
-[/code]
+[/code][/indent]
 
 [b]d) ob (si, whether en anglais)[/b]
 [indent]Utilisée pour les interrogatives indirectes.
 [code]
 Ich weiß nicht, ob er kommt. [color=#008000](Je ne sais pas s'il vient.)[/color]
-[/code]
+[/code][/indent]
 
 [b]e) weil et wenn utilisés avec Nebensatz (proposition subordonnée)[/b]
 [indent]Ces conjonctions modifient l'ordre des mots : le verbe conjugué se place à la fin de la proposition.
@@ -60,19 +60,19 @@ Voici quelques autres conjonctions subordonnantes courantes :
 [indent]Elle introduit des concessions.
 [code]
 Er geht spazieren, obwohl es regnet. [color=#008000](Il va se promener bien qu'il pleuve.)[/color]
-[/code]
+[/code][/indent]
 
 [b]b) bevor (avant que)[/b]
 [indent]Elle est utilisée pour des événements qui se sont produits avant un autre événement.
 [code]
 Ich wasche mir die Hände, bevor ich esse. [color=#008000](Je me lave les mains avant de manger.)[/color]
-[/code]
+[/code][/indent]
 
 [b]c) nachdem (après que)[/b]
 [indent]Utilisée pour des événements qui se produisent après un autre événement.
 [code]
 Wir gehen ins Kino, nachdem wir gegessen haben. [color=#008000](Nous allons au cinéma après avoir mangé.)[/color]
-[/code]
+[/code][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

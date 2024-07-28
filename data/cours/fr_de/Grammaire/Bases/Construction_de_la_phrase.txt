@@ -13,7 +13,7 @@ Ordre des mots dans une phrase déclarative simple :
 L'ordre des mots en allemand est strict, particulièrement pour les verbes conjugués. Le verbe principal se situe toujours en deuxième position dans une phrase déclarative. Voici quelques exemples pour illustrer cette règle :
 
 [i]Exemple : [color=#0000FF]Ich gehe ins Kino.[font_size=18pt] (Je vais au cinéma.)[/font_size][/color][/i]
-[i]Exemple : [color=#0000FF]Er liest ein Buch.[font_size=18pt] (Il lit un livre.)[/font_size][/color][/indent]
+[i]Exemple : [color=#0000FF]Er liest ein Buch.[font_size=18pt] (Il lit un livre.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Phrases avec plusieurs verbes[/color][/font_size]
 
@@ -22,7 +22,7 @@ Lorsque vous avez des phrases avec des verbes modaux ou des verbes en position s
 [indent][b]Sujet + Verbe (conjugué) + Complément(s) + Verbe (infinitif/participe passé)[/b]
 
 [i]Exemple : [color=#0000FF]Ich will einen Film sehen.[font_size=18pt] (Je veux voir un film.)[/font_size][/color][/i]
-[i]Exemple : [color=#0000FF]Er hat das Haus verlassen.[font_size=18pt] (Il a quitté la maison.)[/font_size][/color][/indent]
+[i]Exemple : [color=#0000FF]Er hat das Haus verlassen.[font_size=18pt] (Il a quitté la maison.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Les questions[/color][/font_size]
 
@@ -31,14 +31,14 @@ Pour poser des questions fermées (réponse par oui ou non) en allemand, le verb
 [indent][b]Verbe + Sujet + Complément(s)[/b]
 
 [i]Exemple : [color=#0000FF]Gehen Sie ins Kino? [font_size=18pt] (Allez-vous au cinéma?) [/font_size][/color][/i]
-[i]Exemple : [color=#0000FF]Liest du ein Buch? [font_size=18pt] (Lis-tu un livre?) [/font_size][/color][/indent]
+[i]Exemple : [color=#0000FF]Liest du ein Buch? [font_size=18pt] (Lis-tu un livre?) [/font_size][/color][/i][/indent]
 
 Pour les questions ouvertes (qui, quoi, où, etc.), le pronom interrogatif vient en premier, suivi par le verbe, puis le sujet et les compléments.
 
 [indent][b]Pronom interrogatif + Verbe + Sujet + Complément(s)[/b]
 
 [i]Exemple : [color=#0000FF]Wann kommst du? [font_size=18pt] (Quand viens-tu?) [/font_size][/color][/i]
-[i]Exemple : [color=#0000FF]Wo wohnt er? [font_size=18pt] (Où habite-t-il?) [/font_size][/color][/indent]
+[i]Exemple : [color=#0000FF]Wo wohnt er? [font_size=18pt] (Où habite-t-il?) [/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Les propositions subordonnées[/color][/font_size]
 
@@ -47,7 +47,7 @@ Dans les propositions subordonnées, le verbe conjugué est placé à la fin de 
 [indent][b]Conjonction + Sujet + Complément(s) + Verbe (conjugué)[/b]
 
 [i]Exemple : [color=#0000FF]Ich weiß, dass er ins Kino geht. [font_size=18pt] (Je sais qu'il va au cinéma.) [/font_size][/color][/i]
-[i]Exemple : [color=#0000FF]Er sagt, dass er ein Buch liest. [font_size=18pt] (Il dit qu'il lit un livre.) [/font_size][/color][/indent]
+[i]Exemple : [color=#0000FF]Er sagt, dass er ein Buch liest. [font_size=18pt] (Il dit qu'il lit un livre.) [/font_size][/color][/i][/indent]
 
 Les conjonctions courantes en allemand incluent : [b]dass[/b] (que), [b]weil[/b] (parce que), [b]obwohl[/b] (bien que), [b]wenn[/b] (si), etc.
 
@@ -58,7 +58,7 @@ En allemand, il y a également des règles spécifiques pour l'ordre des complé
 [indent][b]Quand? + Pourquoi? + Comment? + Où?[/b]
 
 [i]Exemple : [color=#0000FF]Er fährt jeden Tag mit dem Bus zur Arbeit. [font_size=18pt] (Il va tous les jours au travail en bus.) [/font_size][/color][/i]
-[i]Exemple : [color=#0000FF]Wir haben gestern wegen des Wetters zu Hause geblieben. [font_size=18pt] (Nous sommes restés hier à la maison à cause du temps.) [/font_size][/color][/indent]
+[i]Exemple : [color=#0000FF]Wir haben gestern wegen des Wetters zu Hause geblieben. [font_size=18pt] (Nous sommes restés hier à la maison à cause du temps.) [/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -29,8 +29,8 @@ Indépendamment du genre, tous les noms prennent le même article défini au plu
 
 [indent][b]Pluriel :[/b] [b]die[/b] [color=#008000](les)[/color]
 
-[i]Exemple : [color=#0000FF]die Männer[/color] [color=#008000](les hommes)[/color]
-[i]Exemple : [color=#0000FF]die Frauen[/color] [color=#008000](les femmes)[/color]
+[i]Exemple : [color=#0000FF]die Männer[/color] [color=#008000](les hommes)[/color][/i]
+[i]Exemple : [color=#0000FF]die Frauen[/color] [color=#008000](les femmes)[/color][/i]
 [i]Exemple : [color=#0000FF]die Kinder[/color] [color=#008000](les enfants)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Les cas grammaticaux[/color][/font_size]

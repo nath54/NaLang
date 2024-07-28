@@ -47,10 +47,10 @@ du siehst dir etwas an [color=#008000](tu te regardes quelque chose)[/color]
 Les verbes réfléchis peuvent parfois différer entre le français et l'allemand, et il est important de noter ces différences pour éviter les erreurs de traduction.
 
 [indent]• Certains verbes réfléchis en français ne le sont pas en allemand :
-[i]Exemple : [color=#0000FF]sich erinnern (se rappeler / se souvenir)[/font_size][/color] [color=#008000]Ich erinnere mich daran. [font_size=18pt](Je m'en souviens.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]sich erinnern (se rappeler / se souvenir)[/color] [color=#008000]Ich erinnere mich daran. [font_size=18pt](Je m'en souviens.)[/font_size][/color][/i]
 
 - Inversement, certains verbes non réfléchis en français peuvent l'être en allemand :
-[i]Exemple : [color=#0000FF]sich beeilen (se dépêcher)[/font_size][/color] [color=#008000]Ich beeile mich. [font_size=18pt](Je me dépêche.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]sich beeilen (se dépêcher)[/color] [color=#008000]Ich beeile mich. [font_size=18pt](Je me dépêche.)[/font_size][/color][/i][/indent]
 
 [font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
 
