@@ -1,1 +1,76 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Present Perfect Continuous en anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Present Perfect Continuous est utilisé en anglais pour indiquer une action qui a commencé dans le passé et continue jusqu'à maintenant ou qui a récemment pris fin mais dont les effets perdurent. Il met l'accent sur la durée ou la continuité de cette action. Maîtriser cette structure est essentiel pour exprimer des actions en cours dans le passé récent de manière naturelle et précise.
+
+[font_size=24][color=#4B0082]1. Formation du Present Perfect Continuous[/color][/font_size]
+
+Le Present Perfect Continuous se forme avec le verbe "to have" au present perfect (have/has), suivi de "been" et du verbe principal à la forme en -ing. Voici la structure :
+
+[b]a) Affirmative[/b]
+[indent]
+[code]
+Sujet + have/has + been + V-ing
+[/code]
+
+[i]Exemple : [color=#0000FF]She has been working.[/color] [color=#008000](Elle a travaillé / Elle travaille encore.)[/color][/i][/indent]
+
+[b]b) Négative[/b]
+[indent]
+[code]
+Sujet + have/has + not + been + V-ing
+[/code]
+
+[i]Exemple : [color=#0000FF]They have not been studying.[/color] [color=#008000](Ils n'ont pas étudié.)[/color][/i][/indent]
+
+[b]c) Interrogative[/b]
+[indent]
+[code]
+Have/Has + sujet + been + V-ing
+[/code]
+
+[i]Exemple : [color=#0000FF]Has he been reading?[/color] [color=#008000](A-t-il lu / Est-ce qu'il lit encore ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Present Perfect Continuous[/color][/font_size]
+
+Le Present Perfect Continuous est principalement utilisé dans deux contextes :
+
+[indent]• Pour indiquer une action qui a commencé dans le passé et continue dans le présent :
+[i]Exemple : [color=#0000FF]They have been living here for five years.[/color] [color=#008000](Ils vivent ici depuis cinq ans.)[/color][/i]
+
+- Pour indiquer une action récente dont les effets sont encore visibles ou ressentis :
+[i]Exemple : [color=#0000FF]He's tired because he has been running.[/color] [color=#008000](Il est fatigué parce qu'il a couru.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Indicateurs temporels courants[/color][/font_size]
+
+Certains mots ou expressions sont souvent utilisés avec le Present Perfect Continuous pour exprimer la durée ou la continuité de l'action.
+
+[indent]
+[b]a) For[/b]
+[indent][color=#0000FF]For five hours[/color] [color=#008000](pendant cinq heures)[/color][/indent]
+
+[b]b) Since[/b]
+[indent][color=#0000FF]Since Monday[/color] [color=#008000](depuis lundi)[/color][/indent]
+
+[b]c) Recently, Lately[/b]
+[indent][color=#0000FF]Recently[/color] [color=#008000](récemment)[/color]
+[color=#0000FF]Lately[/color] [color=#008000](dernièrement)[/color][/indent][/indent]
+
+[i]Exemples :[/i]
+[indent]
+[color=#0000FF]I have been working here since April.[/color] [color=#008000](Je travaille ici depuis avril.)[/color]
+
+[color=#0000FF]She has been feeling better lately.[/color] [color=#008000](Elle se sent mieux ces derniers temps.)[/color]
+[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Present Perfect Continuous met l'accent sur la durée ou la continuité d'une action commencée dans le passé.
+[color=#FF0000]2.[/color] Il se forme avec "have/has" + "been" + V-ing.
+[color=#FF0000]3.[/color] Utilisez "for", "since", "recently", et "lately" pour indiquer la durée ou la continuité.
+[color=#FF0000]4.[/color] Il est souvent utilisé pour des actions qui continuent jusqu'à maintenant ou des actions récentes dont les effets sont visibles.[/indent]
+
+[center][font_size=18][color=#808080]Master the Present Perfect Continuous to make your English more fluent and natural![/color][/font_size][/center]

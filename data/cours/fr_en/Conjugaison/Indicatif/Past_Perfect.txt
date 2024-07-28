@@ -1,1 +1,63 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Past Perfect en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Past Perfect est utilisé pour décrire une action qui s'est terminée avant une autre action passée. Il permet de clarifier l'ordre des événements dans le passé. Comprendre et utiliser correctement le Past Perfect rendra votre expression en anglais plus précise et fluide.
+
+[font_size=24][color=#4B0082]1. Formation du Past Perfect[/color][/font_size]
+
+Le Past Perfect est formé avec l'auxiliaire "had" suivi du participe passé du verbe. Cette structure est utilisée pour toutes les personnes (I, you, he, she, it, we, they).
+
+[b]a) Verbes réguliers[/b]
+[indent]Les verbes réguliers forment le participe passé en ajoutant "-ed" à la base verbale.
+[code]
+to talk (parler) → talked (parlé)
+to finish (finir) → finished (fini)
+to start (commencer) → started (commencé)
+[/code]
+
+[i]Exemple : [color=#0000FF]She had finished her homework before dinner.[/color] [color=#008000](Elle avait fini ses devoirs avant le dîner.)[/color][/i][/indent]
+
+[b]b) Verbes irréguliers[/b]
+[indent]Les verbes irréguliers ont des formes de participes passés spécifiques qu'il faut mémoriser.
+[code]
+to go (aller) → gone (allé)
+to see (voir) → seen (vu)
+to write (écrire) → written (écrit)
+[/code]
+
+[i]Exemple : [color=#0000FF]He had gone to bed when I called.[/color] [color=#008000](Il était allé se coucher quand j'ai appelé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Past Perfect[/color][/font_size]
+
+Le Past Perfect est principalement utilisé pour montrer qu'une action passée a eu lieu avant une autre action dans le passé. C'est souvent utile pour clarifier l'ordre des événements.
+
+[indent]• Pour la première action dans une séquence passée :
+[i]Exemple : [color=#0000FF]By the time we arrived, the concert had already started.[/color] [color=#008000](Quand nous sommes arrivés, le concert avait déjà commencé.)[/color][/i]
+
+- Pour exprimer des actions qui ont été accomplies avant un certain point dans le passé :
+[i]Exemple : [color=#0000FF]She had lived in London before she moved to Paris.[/color] [color=#008000](Elle avait vécu à Londres avant de déménager à Paris.)[/color][/i]
+
+- Pour faire des conditionnelles du type "if only":
+[i]Exemple : [color=#0000FF]If only I had known, I would have helped her.[/color] [color=#008000](Si seulement j'avais su, je l'aurais aidée.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Pour ajouter des précisions sur les actions passées en utilisant le Past Perfect, on peut introduire des expressions de temps ou des clauses subordonnées.
+
+[indent]• Utilisation des expressions de temps
+[i]Exemple : [color=#0000FF]After he had finished, he went to bed.[/color] [color=#008000](Après avoir fini, il est allé se coucher.)[/color][/i]
+
+- Relation entre deux actions passées avec une clause subordonnée :
+[i]Exemple : [color=#0000FF]She didn't have a job because she had lost her previous one.[/color] [color=#008000](Elle n'avait pas de travail parce qu'elle avait perdu le précédent.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Past Perfect se forme avec "had" + participe passé.
+[color=#FF0000]2.[/color] Il clarifie l'ordre des événements dans le passé.
+[color=#FF0000]3.[/color] Utilisez le Past Perfect pour montrer qu'une action a eu lieu avant une autre action passée.
+[color=#FF0000]4.[/color] Les verbes réguliers ajoutent "-ed" pour le participe passé ; les verbes irréguliers ont des formes spécifiques à mémoriser.[/indent]
+
+[center][font_size=18][color=#808080]Utilisez le Past Perfect pour rendre votre discours en anglais plus clair et précis ![/color][/font_size][/center]

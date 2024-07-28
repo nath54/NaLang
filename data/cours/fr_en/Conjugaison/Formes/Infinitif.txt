@@ -1,1 +1,93 @@
- 
+[font_size=30][center][b][color=#0000FF]L'infinitif en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'infinitif est une forme verbale non conjuguée qui est souvent utilisée pour exprimer le but ou l'intention d'une action, ainsi que pour former des périphrases verbales. En anglais, l'infinitif peut apparaître sous deux formes : l'infinitif avec "to" et l'infinitif sans "to". Comprendre comment et quand utiliser ces deux formes est crucial pour comprendre et parler anglais de manière fluide.
+
+[font_size=24][color=#4B0082]1. L'infinitif avec "to"[/color][/font_size]
+
+L'infinitif avec "to" est la forme la plus courante lorsqu'il s'agit de l'infinitif en anglais. Il s'utilise après certains verbes, adjectifs, noms, ainsi qu'après certaines expressions. Voici comment il est structuré :
+
+[indent][b]a) Après certains verbes[/b]
+Certains verbes exigent que l'infinitif qui les suit soit précédé de "to".
+[code]
+want [color=#008000](vouloir)[/color]
+decide [color=#008000](décider)[/color]
+promise [color=#008000](promettre)[/color]
+hope [color=#008000](espérer)[/color]
+learn [color=#008000](apprendre)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]She wants to learn Spanish.[font_size=18pt](Elle veut apprendre l'espagnol.)[/font_size][/color][/i][/indent]
+
+[indent][b]b) Après adjectifs et noms[/b]
+On utilise également "to" + infinitif après certains adjectifs et noms pour donner des informations supplémentaires.
+[code]
+happy [color=#008000](heureux)[/color]
+ready [color=#008000](prêt)[/color]
+ability [color=#008000](capacité)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]He is ready to leave.[font_size=18pt](Il est prêt à partir.)[/font_size][/color][/i][/indent]
+
+[indent][b]c) Avec certaines expressions[/b]
+Certaines expressions suivent la structure "to" + infinitif.
+[code]
+in order to [color=#008000](afin de)[/color]
+be able to [color=#008000](être capable de)[/color]
+have to [color=#008000](devoir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]I need a dictionary in order to translate this text.[font_size=18pt](J'ai besoin d'un dictionnaire afin de traduire ce texte.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. L'infinitif sans "to"[/color][/font_size]
+
+L'infinitif sans "to", aussi appelé l'infinitif nu, est utilisé après certains verbes modaux et certains autres verbes spécifiques. Voici quelques contextes où l'infinitif sans "to" est approprié :
+
+[indent][b]a) Après les verbes modaux[/b]
+Les verbes modaux comme can, may, must, will, et shall ne sont pas suivis par "to".
+[code]
+can [color=#008000](pouvoir)[/color]
+may [color=#008000](pouvoir)[/color]
+must [color=#008000](devoir)[/color]
+will [color=#008000](vouloir)[/color]
+shall [color=#008000](devoir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]She can swim very well.[font_size=18pt](Elle sait très bien nager.)[/font_size][/color][/i][/indent]
+
+[indent][b]b) Après certains verbes de perception et des verbes causatifs[/b]
+On utilise également l'infinitif nu après certains verbes tels que see, watch, hear, let, make.
+[code]
+see [color=#008000](voir)[/color]
+watch [color=#008000](regarder)[/color]
+hear [color=#008000](entendre)[/color]
+let [color=#008000](laisser)[/color]
+make [color=#008000](faire)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]I saw him leave.[font_size=18pt](Je l'ai vu partir.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Structures et exceptions[/color][/font_size]
+
+Il existe également des structures et des exceptions spécifiques où l'infinitif avec ou sans "to" peut être utilisé. Voici quelques exemples :
+
+[indent]• Après "why" dans des questions informelles
+[i]Exemple : [color=#0000FF]Why wait?[font_size=18pt](Pourquoi attendre ?)[/font_size][/color] [color=#008000](Pourquoi attendre ?)[/color][/i]
+
+- Après "but" et "except"
+[i]Exemple : [color=#0000FF]He did nothing but complain.[font_size=18pt](Il n'a fait que se plaindre.)[/font_size][/color] [color=#008000](Il n'a fait que se plaindre.)[/color][/i]
+
+- Utilisation de la forme continue de l'infinitif avec "to be" + verbe-ing
+[i]Exemple : [color=#0000FF]She seems to be running late.[font_size=18pt](Il semble qu'elle soit en retard.)[/font_size][/color] [color=#008000](Il semble qu'elle soit en retard.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] L'infinitif peut être utilisé avec ou sans "to" selon les contextes et les verbes précédents.
+[color=#FF0000]2.[/color] Les verbes modaux sont une exception notable et n'utilisent pas "to" avant l'infinitif.
+[color=#FF0000]3.[/color] Des verbes comme see, hear, let et make sont suivis de l'infinitif nu.
+[color=#FF0000]4.[/color] Certaines expressions et verbes exigent l'utilisation de "to" + infinitif pour exprimer des intentions ou des objectifs.[/indent]
+
+[center][font_size=18][color=#808080]Understanding and using the infinitive correctly will make your English sound more natural and fluent![/color][/font_size][/center]

@@ -1,1 +1,92 @@
- 
+[font_size=30][center][b][color=#0000FF]Comment Poser des Questions en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Poser des questions est une compétence essentielle pour communiquer dans une nouvelle langue. En anglais, la structure des questions peut varier en fonction du type de question que vous posez. Cette leçon vous aidera à comprendre et à maîtriser les différentes formes de questions en anglais.
+
+[font_size=24][color=#4B0082]1. Questions fermées (Yes/No Questions)[/color][/font_size]
+
+Les questions fermées sont des questions qui peuvent être répondues par "Yes" (Oui) ou "No" (Non). Voici comment structurer ces questions :
+
+[b]a) Avec le verbe "to be" (être)[/b]
+[indent]Pour poser une question avec le verbe "to be", il suffit d'inverser le sujet et le verbe.
+[code]
+Affirmation : You are happy. (Tu es heureux.)
+Question : Are you happy? (Es-tu heureux?)
+[/code][/indent]
+
+[b]b) Avec les verbes modaux (can, will, should, etc.)[/b]
+[indent]Pour poser une question avec un verbe modal, placez le verbe modal avant le sujet.
+[code]
+Affirmation : She can swim. (Elle sait nager.)
+Question : Can she swim? (Sait-elle nager?)
+[/code][/indent]
+
+[b]c) Avec le verbe "to do" (faire) pour les autres verbes[/b]
+[indent]Si le verbe principal n'est pas "to be" ou un verbe modal, utilisez "do/does" au présent ou "did" au passé.
+[code]
+Affirmation : You like pizza. (Tu aimes la pizza.)
+Question : Do you like pizza? (Aimes-tu la pizza?)
+
+Affirmation : He went to the store. (Il est allé au magasin.)
+Question : Did he go to the store? (Est-il allé au magasin?)
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Questions ouvertes (Wh- Questions)[/color][/font_size]
+
+Les questions ouvertes commencent par un mot interrogatif comme "who" (qui), "what" (quoi), "where" (où), etc. Elles demandent plus d'information qu'un simple "yes" ou "no".
+
+[b]a) Structure de base des questions ouvertes[/b]
+[indent]Les questions ouvertes sont formées en plaçant le mot interrogatif au début de la question.
+[code]
+Who are you? (Qui es-tu?)
+What is this? (Qu'est-ce que c'est?)
+Where are we going? (Où allons-nous?)
+When does the movie start? (Quand commence le film?)
+Why are you late? (Pourquoi es-tu en retard?)
+How do you do this? (Comment fais-tu cela?)
+[/code][/indent]
+
+[b]b) Utilisation des verbes modaux et du présent du verbe "to do"[/b]
+[indent]Comme pour les questions fermées, les questions ouvertes peuvent utiliser des verbes modaux ou "do/does/did".
+[code]
+What can you see? (Que peux-tu voir?)
+Where does she live? (Où habite-t-elle?)
+Why did you call me? (Pourquoi m'as-tu appelé?)
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Questions en Tags[/color][/font_size]
+
+Les questions en tags sont utilisées pour vérifier une information ou demander confirmation. Elles ajoutent une courte question à la fin d'une phrase affirmative.
+
+[indent]Pour former une question en tag, on utilise l'auxiliaire de la phrase principale et on inverse le sujet et l'auxiliaire :
+[code]
+It is raining, isn’t it? (Il pleut, n'est-ce pas?)
+You have finished, haven’t you? (Tu as fini, n'est-ce pas?)
+She can help, can’t she? (Elle peut aider, n'est-ce pas?)
+[/code][/indent]
+
+[font_size=24][color=#4B0082]4. Questions indirectes[/color][/font_size]
+
+Les questions indirectes sont des questions qui sont intégrées dans une phrase plus longue ou une déclaration. Elles sont souvent plus polies.
+
+[indent]Pour former une question indirecte, commencez par une phrase introductive et suivez avec la question. Notez que l'ordre des mots dans la question indirecte ressemble plus à une phrase affirmative.
+[code]
+Directe : Where is the bank? (Où est la banque?)
+Indirecte : Could you tell me where the bank is? (Pourriez-vous me dire où se trouve la banque?)
+
+Directe : What time does the movie start? (À quelle heure commence le film?)
+Indirecte : Do you know what time the movie starts? (Savez-vous à quelle heure commence le film?)
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les questions fermées peuvent être répondues par "yes" ou "no".
+[color=#FF0000]2.[/color] Les questions ouvertes commencent par un mot interrogatif et demandent plus d'information.
+[color=#FF0000]3.[/color] Les questions en tags sont utilisées pour vérifier ou confirmer des informations.
+[color=#FF0000]4.[/color] Les questions indirectes sont plus polies et sont intégrées dans une phrase plus longue.
+[color=#FF0000]5.[/color] Inversez le sujet et l'auxiliaire pour former une question.[/indent]
+
+[center][font_size=18][color=#808080]Poser des questions en anglais avec confiance facilitera grandement votre communication ![/color][/font_size][/center]

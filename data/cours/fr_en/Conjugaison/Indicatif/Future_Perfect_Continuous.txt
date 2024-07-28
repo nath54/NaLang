@@ -1,1 +1,69 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Futur Antérieur Continu en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le futur antérieur continu (Future Perfect Continuous) est un temps verbal utilisé pour exprimer une action qui sera en cours à un moment spécifique dans le futur et qui aura commencé à un certain point avant ce moment. C'est un temps utile pour indiquer la durée d'une action future.
+
+[font_size=24][color=#4B0082]1. Structure du futur antérieur continu[/color][/font_size]
+
+La structure du futur antérieur continu en anglais est la suivante : 
+[indent]
+[b]Sujet + will have been + Verbe en -ing[/b]
+
+Voici la décomposition :
+[code]
+- "will" pour le futur
+- "have been" pour indiquer que c'est une action qui aura commencé et sera en cours
+- Verbe + -ing pour montrer que c'est une action continue
+[/code]
+
+[i]Exemple : [color=#0000FF]By next year, I will have been working here for five years.[font_size=18pt](D'ici l'année prochaine, j'aurai travaillé ici pendant cinq ans.)[/font_size][/color]
+[/i]
+[/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du futur antérieur continu[/color][/font_size]
+
+L'utilisation principale du futur antérieur continu est de parler de la durée d'une action à un moment précis dans le futur. Voici quelques exemples et règles pour bien l'utiliser :
+
+[indent] - Pour indiquer combien de temps une action aura duré à un point donné dans le futur.
+
+[i]Exemple : [color=#0000FF]In June, she will have been studying for three years.[font_size=18pt](En juin, elle aura étudié pendant trois ans.)[/font_size][/color]
+[/i]
+
+- Pour expliquer la durée d'une action qui se terminera à un point spécifique dans le futur.
+
+[i]Exemple : [color=#0000FF]By the time you arrive, they will have been playing for an hour.[font_size=18pt](Quand tu arriveras, ils auront joué pendant une heure.)[/font_size][/color]
+[/i]
+
+- Pour montrer une action en cours dans le futur à un moment précis.
+
+[i]Exemple : [color=#0000FF]By 2025, he will have been working in this company for 10 years.[font_size=18pt](En 2025, il aura travaillé dans cette entreprise pendant 10 ans.)[/font_size][/color]
+[/i]
+[/indent]
+
+[font_size=24][color=#4B0082]3. Précisions et règles supplémentaires[/color][/font_size]
+
+Voici quelques règles supplémentaires sur l'utilisation du futur antérieur continu :
+
+[indent]• On utilise souvent des expressions de temps pour indiquer la période future spécifique, telles que :
+[indent]- By (d'ici)[/indent]
+[indent]- For (pendant)[/indent]
+[indent]- In (dans)[/indent]
+[i]Exemple : [color=#0000FF]By the end of this month, she will have been teaching for ten years.[font_size=18pt](À la fin de ce mois, elle aura enseigné pendant dix ans.)[/font_size][/color]
+[/i]
+
+• Il est important de noter que ce temps se concentre sur la durée et non sur l'action en elle-même.
+
+[i]Exemple : [color=#0000FF]By next week, they will have been traveling for a month.[font_size=18pt](D'ici la semaine prochaine, ils auront voyagé pendant un mois.)[/font_size][/color]
+[/i]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le futur antérieur continu est utilisé pour indiquer la durée d'une action à un moment futur.
+[color=#FF0000]2.[/color] La formation est : Sujet + will have been + Verbe en -ing.
+[color=#FF0000]3.[/color] Ce temps se concentre sur la durée de l'action jusqu'à un point spécifique dans le futur.
+[color=#FF0000]4.[/color] Utilisez souvent des expressions de temps pour spécifier la période future exacte.[/indent]
+
+[center][font_size=18][color=#808080]Mastering the Future Perfect Continuous will enhance your English fluency![/color][/font_size][/center]

@@ -1,1 +1,97 @@
- 
+[font_size=30][center][b][color=#0000FF]L'Alphabet en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Apprendre l'alphabet en anglais est la première étape fondamentale pour maîtriser la langue. Il est crucial de bien connaître chaque lettre, ainsi que sa prononciation correcte. L'alphabet anglais comporte 26 lettres : 5 voyelles et 21 consonnes.
+
+[font_size=24][color=#4B0082]1. Les lettres de l'alphabet[/color][/font_size]
+
+Voici les lettres de l'alphabet anglais avec leur prononciation en alphabet latin :
+
+[b]A - Z[/b]
+[indent]
+[A a] - [color=#008000](é)[/color]
+[B b] - [color=#008000](bi)[/color]
+[C c] - [color=#008000](si)[/color]
+[D d] - [color=#008000](di)[/color]
+[E e] - [color=#008000](i)[/color]
+[F f] - [color=#008000](èf)[/color]
+[G g] - [color=#008000](dji)[/color]
+[H h] - [color=#008000](èitch)[/color]
+[I i] - [color=#008000](aï)[/color]
+[J j] - [color=#008000](dji)[/color]
+[K k] - [color=#008000](ké)[/color]
+[L l] - [color=#008000](èl)[/color]
+[M m] - [color=#008000](èm)[/color]
+[N n] - [color=#008000](èn)[/color]
+[O o] - [color=#008000](o)[/color]
+[P p] - [color=#008000](pi)[/color]
+[Q q] - [color=#008000](kiou)[/color]
+[R r] - [color=#008000](ar)[/color]
+[S s] - [color=#008000](ès)[/color]
+[T t] - [color=#008000](ti)[/color]
+[U u] - [color=#008000](you)[/color]
+[V v] - [color=#008000](vi)[/color]
+[W w] - [color=#008000](dabl-you)[/color]
+[X x] - [color=#008000](èks)[/color]
+[Y y] - [color=#008000](waï)[/color]
+[Z z] - [color=#008000](zèd)[/color]
+[/indent]
+
+[font_size=24][color=#4B0082]2. Les voyelles et consonnes[/color][/font_size]
+
+L'alphabet anglais est composé de 5 voyelles et 21 consonnes. Connaître la distinction entre les deux est crucial pour la prononciation et la phonétique.
+
+[b]a) Les voyelles[/b]
+[indent]
+A, E, I, O, U
+[/indent]
+
+[b]b) Les consonnes[/b]
+[indent]
+B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X, Y, Z
+[/indent]
+
+[font_size=24][color=#4B0082]3. Prononciation et exemples[/color][/font_size]
+
+La prononciation de chaque lettre peut varier en fonction des mots. Voici quelques exemples pour mieux les comprendre :
+
+[indent]
+[b]A[/b] - [color=#008000](é)[/color] - [i]Apple[/i] [color=#008000](É-pel)[/color]
+[b]B[/b] - [color=#008000](bi)[/color] - [i]Ball[/i] [color=#008000](Bôle)[/color]
+[b]C[/b] - [color=#008000](si)[/color] - [i]Cat[/i] [color=#008000](Kât)[/color]
+[b]D[/b] - [color=#008000](di)[/color] - [i]Dog[/i] [color=#008000](Dôg)[/color]
+[b]E[/b] - [color=#008000](i)[/color] - [i]Elephant[/i] [color=#008000](É-lé-fant)[/color]
+[b]F[/b] - [color=#008000](èf)[/color] - [i]Fish[/i] [color=#008000](Fich)[/color]
+[b]G[/b] - [color=#008000](dji)[/color] - [i]Giraffe[/i] [color=#008000](Djé-raf)[/color]
+[b]H[/b] - [color=#008000](èitch)[/color] - [i]House[/i] [color=#008000](Haouss)[/color]
+[b]I[/b] - [color=#008000](aï)[/color] - [i]Ice[/i] [color=#008000](Aïs)[/color]
+[b]J[/b] - [color=#008000](dji)[/color] - [i]Jelly[/i] [color=#008000](Djé-li)[/color]
+[b]K[/b] - [color=#008000](ké)[/color] - [i]Kite[/i] [color=#008000](Kaït)[/color]
+[b]L[/b] - [color=#008000](èl)[/color] - [i]Lion[/i] [color=#008000](Laï-on)[/color]
+[b]M[/b] - [color=#008000](èm)[/color] - [i]Monkey[/i] [color=#008000](Mon-ki)[/color]
+[b]N[/b] - [color=#008000](èn)[/color] - [i]Nest[/i] [color=#008000](Nèst)[/color]
+[b]O[/b] - [color=#008000](o)[/color] - [i]Orange[/i] [color=#008000](Or-range)[/color]
+[b]P[/b] - [color=#008000](pi)[/color] - [i]Pencil[/i] [color=#008000](Pèn-sil)[/color]
+[b]Q[/b] - [color=#008000](kiou)[/color] - [i]Queen[/i] [color=#008000](Kouine)[/color]
+[b]R[/b] - [color=#008000](ar)[/color] - [i]Rabbit[/i] [color=#008000](Ra-bit)[/color]
+[b]S[/b] - [color=#008000](ès)[/color] - [i]Sun[/i] [color=#008000](Son)[/color]
+[b]T[/b] - [color=#008000](ti)[/color] - [i]Tiger[/i] [color=#008000](Taï-geur)[/color]
+[b]U[/b] - [color=#008000](you)[/color] - [i]Umbrella[/i] [color=#008000](Om-bré-la)[/color]
+[b]V[/b] - [color=#008000](vi)[/color] - [i]Violin[/i] [color=#008000](Vaï-o-lin)[/color]
+[b]W[/b] - [color=#008000](dabl-you)[/color] - [i]Window[/i] [color=#008000](Win-do)[/color]
+[b]X[/b] - [color=#008000](èks)[/color] - [i]Xylophone[/i] [color=#008000](Zaï-lo-fône)[/color]
+[b]Y[/b] - [color=#008000](waï)[/color] - [i]Yellow[/i] [color=#008000](Yé-lo)[/color]
+[b]Z[/b] - [color=#008000](zèd)[/color] - [i]Zebra[/i] [color=#008000](Zi-bra)[/color]
+[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] L'alphabet anglais comporte 26 lettres : 5 voyelles et 21 consonnes.
+[color=#FF0000]2.[/color] Chaque lettre a une prononciation spécifique qui peut varier selon les mots.
+[color=#FF0000]3.[/color] La connaissance de l'alphabet est essentielle pour la compréhension et l'apprentissage de la langue anglaise.
+[/indent]
+
+[center][font_size=18][color=#808080]Bien maîtriser l'alphabet vous aidera à progresser rapidement en anglais ![/color][/font_size][/center]

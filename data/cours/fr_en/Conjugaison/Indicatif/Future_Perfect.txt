@@ -1,1 +1,64 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Future Perfect en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Future Perfect est utilisé en anglais pour indiquer une action qui sera achevée à un moment spécifique dans le futur. Cette structure est souvent employée pour montrer qu'une action aura été complétée avant une certaine heure, date ou avant qu'une autre action ne se produise.
+
+[font_size=24][color=#4B0082]1. Structure du Future Perfect[/color][/font_size]
+
+La formation du Future Perfect suit une structure assez simple : 
+[indent][color=#FF0000]sujet + will have + participe passé du verbe[/color][/indent]
+
+Exemple :
+[indent][i][color=#0000FF]I will have finished my work by 6 PM.[/color][/i] [color=#008000](J'aurai terminé mon travail avant 18h.)[/color][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisations du Future Perfect[/color][/font_size]
+
+Le Future Perfect est employé dans différentes situations pour indiquer qu'une action sera terminée dans le futur avant un moment précis. Voici quelques utilisations courantes :
+
+[b]a) Indiquer une action qui sera complétée avant un moment donné[/b]
+[indent]• Pour montrer qu'une action sera terminée avant une date ou une heure précise.
+[i]Exemple : [color=#0000FF]She will have left by the time you arrive.[/color][/i] [color=#008000](Elle sera partie avant que tu n'arrives.)[/color][/indent]
+
+[b]b) Exprimer une action qui sera accomplie avant un autre événement dans le futur[/b]
+[indent]• Utilisé pour indiquer que quelque chose va se produire avant qu'un autre événement futur n'arrive.
+[i]Exemple : [color=#0000FF]We will have eaten by the time the movie starts.[/color][/i] [color=#008000](Nous aurons mangé avant que le film ne commence.)[/color][/indent]
+
+[font_size=24][color=#4B0082]3. Formation du participe passé[/color][/font_size]
+
+Pour conjuguer un verbe au Future Perfect, il est essentiel de connaître la forme du participe passé de ce verbe. En anglais, les participes passés peuvent être réguliers ou irréguliers.
+
+[b]a) Participes passés réguliers[/b]
+[indent]Les verbes réguliers forment leur participe passé en ajoutant [-ed] à la base verbale.
+[i]Exemples : 
+[indent]• [color=#0000FF]work[/color] [color=#008000](travailler)[/color] → [color=#0000FF]worked[/color] [color=#008000](travaillé)[/color]
+• [color=#0000FF]finish[/color] [color=#008000](finir)[/color] → [color=#0000FF]finished[/color] [color=#008000](fini)[/color][/indent][/i][/indent]
+
+[b]b) Participes passés irréguliers[/b]
+[indent]Les verbes irréguliers ont des formes de participe passé qui ne suivent pas une règle fixe et doivent être mémorisés.
+[i]Exemples :
+[indent]• [color=#0000FF]go[/color] [color=#008000](aller)[/color] → [color=#0000FF]gone[/color] [color=#008000](allé)[/color]
+• [color=#0000FF]see[/color] [color=#008000](voir)[/color] → [color=#0000FF]seen[/color] [color=#008000](vu)[/color][/indent][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Utilisation des adverbes de temps[/color][/font_size]
+
+Le Future Perfect est souvent accompagné d'adverbes ou de phrases adverbiales de temps pour préciser le moment d'achèvement de l'action.
+
+[b]a) By + moment précis[/b]
+[indent]• Utilisé pour indiquer qu'une action sera terminée avant un moment spécifique.
+[i]Exemple : [color=#0000FF]By this time next year, I will have graduated.[/color][/i] [color=#008000](À cette période l'année prochaine, j'aurai été diplômé.)[/color][/indent]
+
+[b]b) Before + événement futur[/b]
+[indent]• Utilisé pour montrer qu'une action sera terminée avant un autre événement dans le futur.
+[i]Exemple : [color=#0000FF]They will have arrived before the meeting starts.[/color][/i] [color=#008000](Ils seront arrivés avant que la réunion ne commence.)[/color][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Future Perfect est utilisé pour indiquer qu'une action sera terminée à un moment spécifique dans le futur.
+[color=#FF0000]2.[/color] La structure du Future Perfect est [color=#FF0000]sujet + will have + participe passé[/color].
+[color=#FF0000]3.[/color] Les participes passés peuvent être réguliers (ajout de [-ed]) ou irréguliers (à mémoriser).
+[color=#FF0000]4.[/color] Utilisez des adverbes de temps comme [color=#FF0000]by[/color] ou [color=#FF0000]before[/color] pour préciser le moment d'achèvement de l'action.[/indent]
+
+[center][font_size=18][color=#808080]Utilize the Future Perfect to make your English expressions more precise and nuanced![/color][/font_size][/center]

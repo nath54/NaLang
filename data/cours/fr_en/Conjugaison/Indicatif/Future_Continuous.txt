@@ -1,1 +1,70 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Future Continuous en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Future Continuous, aussi appelé Future Progressive, est un temps utilisé pour parler d'actions qui seront en cours à un moment spécifique dans le futur. Il apporte une notion de continuité dans l'avenir et peut être très utile pour décrire des évènements futurs de manière détaillée.
+
+[font_size=24][color=#4B0082]1. Structure du Future Continuous[/color][/font_size]
+
+La structure du Future Continuous est assez simple. Voici comment on le forme :
+
+[b]Forme affirmative[/b]
+[indent]Le Future Continuous se forme en utilisant le verbe auxiliaire "[color=#FF0000]will[/color]" suivi de "[color=#FF0000]be[/color]" et du verbe principal avec la terminaison "[color=#FF0000]ing[/color]".
+[code]
+Sujet + will + be + verbe-ing
+[/code]
+
+[i]Exemple : [color=#0000FF]She will be studying.[/color] [color=#008000](Elle sera en train d'étudier.)[/color][/i][/indent]
+
+[b]Forme négative[/b]
+[indent]Pour former la négation, il suffit d'ajouter "[color=#FF0000]not[/color]" après "[color=#FF0000]will[/color]".
+[code]
+Sujet + will + not + be + verbe-ing
+[/code]
+
+[i]Exemple : [color=#0000FF]They will not be playing.[/color] [color=#008000](Ils ne seront pas en train de jouer.)[/color][/i][/indent]
+
+[b]Forme interrogative[/b]
+[indent]Pour poser une question en Future Continuous, on inverse "[color=#FF0000]will[/color]" et le sujet.
+[code]
+Will + sujet + be + verbe-ing ?
+[/code]
+
+[i]Exemple : [color=#0000FF]Will you be working?[/color] [color=#008000](Seras-tu en train de travailler ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Usage du Future Continuous[/color][/font_size]
+
+Le Future Continuous est particulièrement utile dans les situations suivantes :
+
+[indent]• Pour décrire une action en cours à un moment précis dans le futur :
+[i]Exemple : [color=#0000FF]At 8 PM, he will be watching TV.[/color] [color=#008000](À 20h, il sera en train de regarder la télévision.)[/color][/i]
+
+- Pour exprimer une action qui se déroulera en parallèle d'une autre action future :
+[i]Exemple : [color=#0000FF]While you are reading, I will be cooking dinner.[/color] [color=#008000](Pendant que tu liras, je préparerai le dîner.)[/color][/i]
+
+- Pour anticiper une action qui sera en cours avec une certaine certitude :
+[i]Exemple : [color=#0000FF]She will be traveling by this time next month.[/color] [color=#008000](Elle sera en train de voyager à cette date le mois prochain.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Différences avec les autres temps du futur[/color][/font_size]
+
+Comprendre quand utiliser le Future Continuous par rapport à d'autres temps futurs est crucial pour une bonne maîtrise de l'anglais :
+
+[indent]• [b]Future Simple[/b] : Utilisé pour des actions futures sans notion de continuité.
+[i]Exemple : [color=#0000FF]I will call you tomorrow.[/color] [color=#008000](Je t'appellerai demain.)[/color][/i]
+
+- [b]Future Perfect[/b] : Utilisé pour des actions qui seront terminées à un moment spécifique dans le futur.
+[i]Exemple : [color=#0000FF]By next week, they will have finished the project.[/color] [color=#008000](D'ici la semaine prochaine, ils auront terminé le projet.)[/color][/i]
+
+- [b]Future Perfect Continuous[/b] : Utilisé pour des actions qui seront en cours et auront une certaine durée à un moment spécifique dans le futur.
+[i]Exemple : [color=#0000FF]By 2025, she will have been working here for 10 years.[/color] [color=#008000](En 2025, cela fera 10 ans qu'elle travaillera ici.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Future Continuous décrit une action en cours à un moment spécifique dans le futur.
+[color=#FF0000]2.[/color] Il se forme avec "[color=#FF0000]will be[/color]" + "[color=#FF0000]verbe-ing[/color]".
+[color=#FF0000]3.[/color] Utilisez-le pour des actions parallèles, avec certitude, ou avec une notion de durée future.
+[color=#FF0000]4.[/color] Différenciez-le du Future Simple, Future Perfect et Future Perfect Continuous pour une utilisation optimale.[/indent]
+
+[center][font_size=18][color=#808080]Utiliser correctement le Future Continuous rendra vos phrases en anglais plus précises et naturelles ! (Using the Future Continuous correctly will make your English sentences more accurate and natural!)[/color][/font_size][/center]

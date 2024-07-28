@@ -1,1 +1,57 @@
- 
+[font_size=30][center][b][color=#0000FF]L'Intonation en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+L'intonation joue un rôle crucial dans la prononciation de la langue anglaise. Non seulement elle affecte la compréhension des phrases, mais elle peut aussi changer le sens d'une phrase entière. Apprendre et maîtriser les différentes structures d'intonation vous aidera à parler anglais de manière plus fluide et naturelle.
+
+[font_size=24][color=#4B0082]1. Qu'est-ce que l'intonation?[/color][/font_size]
+
+L'intonation fait référence à la variation du ton de la voix lorsque nous parlons. En anglais, il y a principalement deux types d'intonation : montante et descendante.
+
+[b]a) Intonation descendante[/b]
+[indent]Cette intonation est typiquement utilisée dans les phrases déclaratives, les ordres, et les questions qui commencent par des mots interrogatifs comme "what", "where", "when", "why", et "how".
+[i]Exemple : [color=#0000FF]She is going home.[/color] [color=#008000](Elle rentre à la maison.)[/color][/i][/indent]
+
+[b]b) Intonation montante[/b]
+[indent]Cette intonation est généralement employée dans les questions fermées qui peuvent être répondues par "oui" ou "non". 
+[i]Exemple : [color=#0000FF]Are you coming?[/color] [color=#008000](Viens-tu ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. L'intonation dans les questions[/color][/font_size]
+
+Les questions en anglais peuvent être divisées en deux grandes catégories basées sur l'intonation : les questions fermées et les questions ouvertes.
+
+[indent]• [b][color=#FF0000]Questions fermées :[/color][/b]
+Ces questions attendent une réponse par "oui" ou "non". L'intonation monte généralement à la fin de la question.
+[i]Exemple : [color=#0000FF]Do you speak English?[/color] [color=#008000](Parles-tu anglais ?)[/color][/i]
+
+• [b][color=#FF0000]Questions ouvertes :[/color][/b]
+Ces questions commencent par des mots interrogatifs et l'intonation descend généralement à la fin de la question.
+[i]Exemple : [color=#0000FF]Where are you going?[/color] [color=#008000](Où vas-tu ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. L'intonation dans les énumérations[/color][/font_size]
+
+Lorsque vous énumérez plusieurs éléments, l'intonation monte légèrement sur chaque élément de la liste, sauf le dernier, où l'intonation descend. Cela signale à l'auditeur que la liste est complète.
+
+[indent][i]Exemple : [color=#0000FF]I bought apples, bananas, oranges, and grapes.[/color] [color=#008000](J'ai acheté des pommes, des bananes, des oranges, et des raisins.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Intonation et intention[/color][/font_size]
+
+L'intonation peut aussi révéler l'intention ou l'émotion derrière une phrase. Par exemple, une intonation montante peut signaler la surprise ou l'incertitude, tandis qu'une intonation descendante peut indiquer la certitude ou l'énonciation d'un fait.
+
+[indent]• [b][color=#FF0000]Surprise ou incrédulité :[/color][/b]
+[i]Exemple : [color=#0000FF]You did what?[/color] [color=#008000](Tu as fait quoi ?)[/color][/i]
+
+• [b][color=#FF0000]Certitude ou affirmation :[/color][/b]
+[i]Exemple : [color=#0000FF]This is the best choice.[/color] [color=#008000](C'est le meilleur choix.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] L'intonation est la variation du ton de la voix et est essentielle pour la compréhension en anglais.
+[color=#FF0000]2.[/color] L'intonation descendante est utilisée pour les phrases déclaratives et les questions en "wh-".
+[color=#FF0000]3.[/color] L'intonation montante est utilisée pour les questions fermées.
+[color=#FF0000]4.[/color] Les énumérations ont une intonation montante sur chaque élément sauf le dernier où elle descend.
+[color=#FF0000]5.[/color] L'intonation peut indiquer l'émotion ou l'intention derrière une phrase.[/indent]
+
+[center][font_size=18][color=#808080]Maîtrisez l'intonation pour communiquer en anglais avec confiance et naturel![/color][/font_size][/center]

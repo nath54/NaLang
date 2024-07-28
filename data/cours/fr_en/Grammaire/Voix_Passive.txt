@@ -1,1 +1,63 @@
- 
+[font_size=30][center][b][color=#0000FF]La Voix Passive en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+La voix passive est utilisée en anglais pour mettre l'accent sur l'action elle-même ou sur l'objet de l'action plutôt que sur l'auteur de l'action. Elle est particulièrement utile lorsque l'identité de l'actionnaire est inconnue ou sans importance.
+
+[font_size=24][color=#4B0082]1. Formation de la voix passive[/color][/font_size]
+
+Pour former la voix passive en anglais, on utilise le verbe "to be" conjugué au temps correspondant suivi du participe passé du verbe principal. La structure générale est la suivante :
+
+[indent][b]Sujet + verbe "to be" + participe passé (+ complément d'agent)[/b][/indent]
+
+[b]Exemples de conjugaison à différents temps :[/b]
+
+[indent][code]
+Présent simple : The book is read. [color=#008000](Le livre est lu.)[/color]
+Présent continu : The book is being read. [color=#008000](Le livre est en train d'être lu.)[/color]
+Prétérit : The book was read. [color=#008000](Le livre a été lu.)[/color]
+Prétérit continu : The book was being read. [color=#008000](Le livre était en train d'être lu.)[/color]
+Futur : The book will be read. [color=#008000](Le livre sera lu.)[/color]
+Présent parfait : The book has been read. [color=#008000](Le livre a été lu.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation de la voix passive[/color][/font_size]
+
+La voix passive est souvent utilisée pour les raisons suivantes :
+
+[indent]• Mettre l'accent sur l'objet de l'action plutôt que sur l'agent.
+[i]Exemple : [color=#0000FF]The cake was eaten by the children.[font_size=18pt] (Le gâteau a été mangé par les enfants.)[/font_size][/color][/i]
+
+- Lorsque l'agent de l'action est inconnu ou sans importance.
+[i]Exemple : [color=#0000FF]The window was broken.[font_size=18pt] (La fenêtre a été cassée.)[/font_size][/color][/i]
+
+- Pour éviter d'accuser ou d'attribuer la faute à quelqu'un.
+[i]Exemple : [color=#0000FF]Mistakes were made.[font_size=18pt] (Des erreurs ont été commises.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Complément d'agent en voix passive[/color][/font_size]
+
+Le complément d'agent en voix passive introduit la personne ou la chose qui réalise l'action. Il est introduit par la préposition "by".
+
+[indent][b]Exemple :[/b]
+[i]Exemple : [color=#0000FF]The novel was written by the author.[font_size=18pt] (Le roman a été écrit par l'auteur.)[/font_size][/color][/i][/indent]
+Cependant, le complément d'agent est souvent omis si l'identité du sujet est évidente ou non pertinente.
+
+[font_size=24][color=#4B0082]4. Transformation active-passive[/color][/font_size]
+
+Lorsqu'une phrase active est transformée en phrase passive, l'objet direct de la phrase active devient le sujet de la phrase passive.
+
+[indent][b]Exemple :[/b]
+[i]Phrase active : [color=#0000FF]The chef cooks the meal.[font_size=18pt] (Le chef cuisine le repas.)[/font_size][/color]
+
+Phrase passive : [color=#0000FF]The meal is cooked by the chef.[font_size=18pt] (Le repas est cuisiné par le chef.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La voix passive met l'accent sur l'action ou l'objet plutôt que sur l'actionnaire.
+[color=#FF0000]2.[/color] La structure de la voix passive est : Sujet + verbe "to be" + participe passé (+ complément d'agent).
+[color=#FF0000]3.[/color] Le complément d'agent introduit par "by" est souvent omis.
+[color=#FF0000]4.[/color] Pour transformer une phrase active en passive, l'objet direct devient le sujet de la phrase passive.[/indent]
+
+[center][font_size=18][color=#808080]Maîtrisez la voix passive pour enrichir votre expression en anglais ![/color][/font_size][/center]

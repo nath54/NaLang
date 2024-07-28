@@ -1,1 +1,83 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Conjonctions en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les conjonctions sont des mots qui servent à lier des mots, des phrases ou des propositions. Elles sont essentielles pour structurer les phrases et rendre le discours plus fluide. Comprendre et utiliser correctement les conjonctions vous permettra d'améliorer votre expression écrite et orale en anglais.
+
+[font_size=24][color=#4B0082]1. Les conjonctions de coordination[/color][/font_size]
+
+Les conjonctions de coordination lient des mots ou des groupes de mots de même nature grammaticale. Voici les plus courantes :
+
+[b]a) Les conjonctions les plus fréquentes[/b]
+[indent][code]
+and [color=#008000](et)[/color]
+but [color=#008000](mais)[/color]
+or [color=#008000](ou)[/color]
+nor [color=#008000](ni)[/color]
+for [color=#008000](car)[/color]
+so [color=#008000](donc)[/color]
+yet [color=#008000](encore, pourtant)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]She likes tea and coffee.[/color] [color=#008000](Elle aime le thé et le café.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Les conjonctions de subordination[/color][/font_size]
+
+Les conjonctions de subordination introduisent des propositions subordonnées, c’est-à-dire des propositions qui complètent le sens d’une autre proposition.
+
+[b]a) Les conjonctions les plus courantes[/b]
+[indent][code]
+because [color=#008000](parce que)[/color]
+although [color=#008000](bien que)[/color]
+if [color=#008000](si)[/color]
+when [color=#008000](quand)[/color]
+until [color=#008000](jusqu'à ce que)[/color]
+while [color=#008000](tandis que, pendant que)[/color]
+since [color=#008000](depuis que)[/color]
+as [color=#008000](comme, alors que)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]I stayed home because it was raining.[/color] [color=#008000](Je suis resté(e) chez moi parce qu'il pleuvait.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les conjonctions corélatives[/color][/font_size]
+
+Les conjonctions corélatives fonctionnent en paires pour relier des mots ou des groupes de mots de même nature grammaticale.
+
+[b]a) Les paires de conjonctions les plus fréquentes[/b]
+[indent][code]
+either...or [color=#008000](soit...soit)[/color]
+neither...nor [color=#008000](ni...ni)[/color]
+both...and [color=#008000](à la fois...et)[/color]
+not only...but also [color=#008000](non seulement...mais aussi)[/color]
+whether...or [color=#008000](que...ou)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]You can either have coffee or tea.[/color] [color=#008000](Tu peux soit prendre du café, soit du thé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Utilisation avancée des conjonctions[/color][/font_size]
+
+Les conjonctions permettent de créer des phrases complexes et nuancées. Voici quelques conseils pour les utiliser correctement :
+
+[indent]• Utilisez [color=#FF0000]and[/color] pour ajouter des informations ou des éléments similaires :
+[i]Exemple : [color=#0000FF]She bought apples and oranges.[/color] [color=#008000](Elle a acheté des pommes et des oranges.)[/color][/i]
+
+- Utilisez [color=#FF0000]but[/color] pour montrer une opposition ou une contradiction :
+[i]Exemple : [color=#0000FF]He is rich but unhappy.[/color] [color=#008000](Il est riche mais malheureux.)[/color][/i]
+
+- Utilisez [color=#FF0000]because[/color] pour donner une raison :
+[i]Exemple : [color=#0000FF]They stayed home because it was snowing.[/color] [color=#008000](Ils sont restés chez eux parce qu'il neigeait.)[/color][/i]
+
+- Utilisez des conjonctions corélatives pour insister sur deux éléments appartenant à la même structure grammaticale :
+[i]Exemple : [color=#0000FF]She is both smart and hardworking.[/color] [color=#008000](Elle est à la fois intelligente et travailleuse.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les conjonctions lient des mots, des phrases ou des propositions pour structurer le discours.
+[color=#FF0000]2.[/color] Les conjonctions de coordination lient des éléments de même nature grammaticale.
+[color=#FF0000]3.[/color] Les conjonctions de subordination introduisent des propositions subordonnées.
+[color=#FF0000]4.[/color] Les conjonctions corélatives fonctionnent en paires pour relier des éléments similaires.
+[color=#FF0000]5.[/color] Utiliser correctement les conjonctions permet de créer des phrases complexes et nuancées.[/indent]
+
+[center][font_size=18][color=#808080]Utilisez les conjonctions pour rendre votre expression en anglais plus fluide et nuancée ![/color][/font_size][/center]

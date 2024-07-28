@@ -1,1 +1,82 @@
+[font_size=30][center][b][color=#0000FF]Le Gérondif en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En anglais, le gérondif est une forme verbale qui se termine par -ing. Il a des usages variés et très fréquents, notamment pour former des noms verbaux. Maîtriser le gérondif vous aidera à rendre votre expression en anglais plus fluide et naturelle.
+
+[font_size=24][color=#4B0082]1. Formation du gérondif[/color][/font_size]
+
+Pour former le gérondif, on ajoute simplement -ing à la base verbale. Voici quelques exemples :
+
+[code]
+work -> working (travailler -> en train de travailler)
+eat -> eating (manger -> en train de manger)
+play -> playing (jouer -> en train de jouer)
+read -> reading (lire -> en train de lire)
+[/code]
+
+[i]Exemple : [color=#0000FF]She is reading a book.[font_size=18pt](Elle est en train de lire un livre.)[/font_size][/color][/i]
+
+[font_size=24][color=#4B0082]2. Utilisation du gérondif[/color][/font_size]
+
+Le gérondif peut avoir différents usages dans une phrase. Voici quelques fonctions principales :
+
+[b]a) Comme sujet ou complément du verbe[/b]
+[indent]Le gérondif peut être utilisé comme sujet ou complément dans une phrase.
+[code]
+Swimming is fun. (nager est amusant)
+I enjoy reading. (j'aime lire)
+[/code]
+
+[i]Exemple : [color=#0000FF]Running in the morning is refreshing.[font_size=18pt](Courir le matin est rafraîchissant.)[/font_size][/color][/i][/indent]
+
+[b]b) Après certaines prépositions[/b]
+[indent]Le gérondif suit souvent les prépositions en anglais.
+[code]
+He is good at playing the guitar. (il joue bien de la guitare)
+She is interested in learning Spanish. (elle est intéressée à apprendre l'espagnol)
+[/code]
+
+[i]Exemple : [color=#0000FF]They are thinking about moving to a new city.[font_size=18pt](Ils pensent déménager dans une nouvelle ville.)[/font_size][/color][/i][/indent]
+
+[b]c) Après certains verbes[/b]
+[indent]Certains verbes sont généralement suivis d'un gérondif plutôt que d'un infinitif.
+[code]
+He enjoys cooking. (il aime cuisiner)
+They kept talking. (ils ont continué à parler)
+[/code]
+
+[i]Exemple : [color=#0000FF]She admitted breaking the vase.[font_size=18pt](Elle a admis avoir cassé le vase.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions et exceptions[/color][/font_size]
+
+Il existe quelques exceptions et particularités à prendre en compte avec le gérondif :
+
+[indent]• Les verbes se terminant par une voyelle suivie d'une consonne doublent généralement la consonne avant d'ajouter -ing.
+[code]
+run -> running (courir -> en train de courir)
+sit -> sitting (s'asseoir -> en train de s'asseoir)
+[/code]
  
+- Les verbes se terminant par -e suppriment souvent le -e avant d'ajouter -ing.
+[code]
+make -> making (faire -> en train de faire)
+write -> writing (écrire -> en train d'écrire)
+[/code]
+
+- Certains verbes changent légèrement d'orthographe.
+[code]
+lie -> lying (mentir -> en train de mentir)
+die -> dying (mourir -> en train de mourir)
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le gérondif se forme en ajoutant -ing à la base verbale.
+[color=#FF0000]2.[/color] Il peut être utilisé comme sujet, complément, après certaines prépositions et certains verbes.
+[color=#FF0000]3.[/color] Il y a des exceptions orthographiques, notamment pour les verbes se terminant par -e ou par une voyelle + consonne.
+[color=#FF0000]4.[/color] Maîtriser le gérondif vous permet d'enrichir votre expression en anglais.[/indent]
+
+[center][font_size=18][color=#808080]Rappelez-vous, utiliser le gérondif correctement rendra votre anglais plus naturel et expressif ![/color][/font_size][/center]

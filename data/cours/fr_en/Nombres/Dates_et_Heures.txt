@@ -1,1 +1,115 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Dates et les Heures en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Lorsque vous apprenez l'anglais, il est important de savoir comment exprimer les dates et les heures. Cela vous aide à planifier, comprendre des horaires, et parler du temps sans difficulté. Cette leçon couvre les modalités de base pour exprimer les dates et les heures en anglais.
+
+[font_size=24][color=#4B0082]1. Les jours de la semaine[/color][/font_size]
+
+Les jours de la semaine en anglais sont :
+
+[indent]
+[code]
+Monday (Lundi)
+Tuesday (Mardi)
+Wednesday (Mercredi)
+Thursday (Jeudi)
+Friday (Vendredi)
+Saturday (Samedi)
+Sunday (Dimanche)
+[/code]
+[/indent]
+
+[font_size=24][color=#4B0082]2. Les mois de l'année[/color][/font_size]
+
+Les mois de l'année en anglais sont :
+
+[indent]
+[code]
+January (Janvier)
+February (Février)
+March (Mars)
+April (Avril)
+May (Mai)
+June (Juin)
+July (Juillet)
+August (Août)
+September (Septembre)
+October (Octobre)
+November (Novembre)
+December (Décembre)
+[/code]
+[/indent]
+
+[font_size=24][color=#4B0082]3. Comment donner la date[/color][/font_size]
+
+En anglais, les dates sont généralement exprimées sous la forme Mois/Jour/Année ou Jour/Mois/Année. Voici quelques exemples de formats courants :
+
+[indent] [b]a) Format britannique (Jour/Mois/Année)[/b]
+[indent]Exemple : [color=#0000FF]25th December 2023[/color] [color=#008000](25 décembre 2023)[/color][/indent]
+
+[b]b) Format américain (Mois/Jour/Année)[/b]
+[indent]Exemple : [color=#0000FF]December 25, 2023[/color] [color=#008000](25 décembre 2023)[/color][/indent]
+
+[b]c) Types de prononciation[/b]
+[indent]Exemple : [color=#0000FF]October 5, 2021[/color] peut être prononcé [color=#008000](Le 5 octobre 2021)[/color] en anglais : [color=#0000FF]October fifth, twenty twenty-one[/color] [color=#008000](Cinquième octobre, deux mille vingt et un)[/color][/indent]
+
+[i]Note :[/i] Les nombres ordinaux (first, second, third, etc.) sont souvent utilisés lorsqu’on dit les dates à voix haute.[/indent]
+
+[font_size=24][color=#4B0082]4. Donner l'heure[/color][/font_size]
+
+Pour exprimer l'heure en anglais, plusieurs formes peuvent être utilisées.
+
+[indent] [b]a) Les heures en format 12 heures[/b]
+[indent]Les heures en anglais peuvent être exprimées en utilisant le format 12 heures, avec "am" pour les heures avant midi et "pm" pour les heures après midi :
+
+[i]Exemple : [color=#0000FF]6:30 am[/color] [color=#008000](6h30 du matin)[/color]
+Exemple : [color=#0000FF]8:45 pm[/color] [color=#008000](20h45 du soir)[/color][/i][/indent]
+
+[b]b) Les heures en format 24 heures[/b]
+[indent]Dans les contextes plus formels, comme les horaires de train ou d'avion, on utilise le format 24 heures, aussi connu sous le nom de format militaire.
+
+[i]Exemple : [color=#0000FF]18:30[/color] [color=#008000](18h30)[/color][/i][/indent]
+
+[b]c) Prononciation des heures quart / demie[/b]
+[indent]On utilise "quarter" pour le quart d'heure et "half" pour la demie-heure.
+
+[i]Exemple : [color=#0000FF]8:15[/color] peut être prononcé [color=#0000FF]a quarter past eight[/color] [color=#008000](huit heures et quart)[/color]
+[i]Exemple : [color=#0000FF]5:30[/color] peut être prononcé [color=#0000FF]half past five[/color] [color=#008000](cinq heures et demie)[/color][/i][/indent][/indent]
+
+[font_size=24][color=#4B0082]5. Indications temporelles courantes[/color][/font_size]
+
+Voici quelques expressions temporelles courantes en anglais, utiles pour parler des dates et des heures.
+
+[indent]
+[code]
+Yesterday (Hier)
+Today (Aujourd'hui)
+Tomorrow (Demain)
+Last week (La semaine dernière)
+This week (Cette semaine)
+Next week (La semaine prochaine)
+Last month (Le mois dernier)
+This month (Ce mois-ci)
+Next month (Le mois prochain)
+Last year (L'année dernière)
+This year (Cette année)
+Next year (L'année prochaine)
+At the moment (En ce moment)
+In the morning (Le matin)
+In the afternoon (L'après-midi)
+In the evening (Le soir)
+At night (La nuit)
+[/code]
+[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les jours de la semaine et les mois de l'année en anglais doivent être mémorisés pour bien exprimer les dates.
+[color=#FF0000]2.[/color] Les dates peuvent être exprimées en format britannique (Jour/Mois/Année) ou américain (Mois/Jour/Année).
+[color=#FF0000]3.[/color] Pour indiquer l'heure, utilisez les formats 12 heures (avec "am" et "pm") ou 24 heures en fonction du contexte.
+[color=#FF0000]4.[/color] Apprenez les expressions temporelles courantes pour mieux comprendre et parler des différents moments de la journée, des semaines, des mois et des années.[/indent]
+
+[center][font_size=18][color=#808080]Maîtriser les dates et les heures en anglais vous aidera à communiquer de manière plus précise et efficace ![/color][/font_size][/center]

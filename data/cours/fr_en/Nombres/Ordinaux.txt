@@ -1,1 +1,84 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Nombres Ordinaux en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les nombres ordinaux sont utilisés en anglais pour indiquer la position ou l'ordre d'éléments dans une série. Contrairement aux nombres cardinaux (un, deux, trois), les nombres ordinaux expriment des rangs ou des positions tels que premier, deuxième, troisième, etc.
+
+[font_size=24][color=#4B0082]1. Les nombres ordinaux de 1 à 20[/color][/font_size]
+
+Voici la liste des nombres ordinaux de 1 à 20 en anglais avec leur prononciation et traduction :
+
+[indent][code]
+1st - first (premier)
+2nd - second (deuxième)
+3rd - third (troisième)
+4th - fourth (quatrième)
+5th - fifth (cinquième)
+6th - sixth (sixième)
+7th - seventh (septième)
+8th - eighth (huitième)
+9th - ninth (neuvième)
+10th - tenth (dixième)
+11th - eleventh (onzième)
+12th - twelfth (douzième)
+13th - thirteenth (treizième)
+14th - fourteenth (quatorzième)
+15th - fifteenth (quinzième)
+16th - sixteenth (seizième)
+17th - seventeenth (dix-septième)
+18th - eighteenth (dix-huitième)
+19th - nineteenth (dix-neuvième)
+20th - twentieth (vingtième)
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Les nombres ordinaux à partir de 21[/color][/font_size]
+
+À partir du 21e nombre ordinal, la règle est de prendre la forme du nombre cardinal et d'y ajouter le suffixe ordinal correspondant (st, nd, rd, th). Voici quelques exemples pour illustrer :
+
+[b]a) Nombres ordinaux courants[/b]
+[indent][code]
+21st - twenty-first (vingt-et-unième)
+22nd - twenty-second (vingt-deuxième)
+23rd - twenty-third (vingt-troisième)
+24th - twenty-fourth (vingt-quatrième)
+30th - thirtieth (trentième)
+40th - fortieth (quarantième)
+50th - fiftieth (cinquantième)
+60th - sixtieth (soixantième)
+70th - seventieth (soixante-dixième)
+80th - eightieth (quatre-vingtième)
+90th - ninetieth (quatre-vingt-dixième)
+100th - hundredth (centième)
+[/code][/indent]
+
+[i]Exemple : [color=#0000FF]She finished in 21st place. (Elle a terminé à la vingt-et-unième place.)[/color][/i]
+
+[font_size=24][color=#4B0082]3. Usage des nombres ordinaux[/color][/font_size]
+
+Les nombres ordinaux sont utilisés dans divers contextes, tels que les dates, les classements et les instructions séquentielles.
+
+[indent]• Pour indiquer la date 
+[i]Exemple : [color=#0000FF]Her birthday is on the 5th of May. (Son anniversaire est le 5 mai.)[/color][/i]
+
+- Pour les classements et positions
+[i]Exemple : [color=#0000FF]He came in third place. (Il est arrivé à la troisième place.)[/color][/i]
+
+- Pour donner des instructions séquentielles
+[i]Exemple : [color=#0000FF]First, mix the ingredients. (Premièrement, mélangez les ingrédients.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Points à noter[/color][/font_size]
+
+- Les nombres ordinaux de zéro à trente et puis de dizaines en dizaines (40, 50, 60, ...) sont les plus couramment utilisés.
+- Les suffixes "st", "nd", "rd" et "th" sont ajoutés aux nombres cardinaux pour former leurs équivalents ordinaux.
+- Seuls les nombres terminant en 1, 2 et 3 prennent "st", "nd" et "rd" respectivement, tous les autres prennent "th".
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les nombres ordinaux sont utilisés pour indiquer la position ou l'ordre.
+[color=#FF0000]2.[/color] Les suffixes "st", "nd", "rd" et "th" sont essentiels pour former les nombres ordinaux.
+[color=#FF0000]3.[/color] Les nombres ordinaux sont couramment utilisés pour les dates, les rangs et les séquences.
+[color=#FF0000]4.[/color] Les formes les plus communes sont de 1 à 20 et les dizaines jusqu'à 100.[/indent]
+
+[center][font_size=18][color=#808080]Utilisez correctement les nombres ordinaux pour des descriptions claires et précises en anglais ![/color][/font_size][/center]

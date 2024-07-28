@@ -1,1 +1,107 @@
- 
+[font_size=30][center][b][color=#0000FF]La Négation en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+En anglais, la négation est essentielle pour exprimer des idées contraires ou opposées. Elle se forme généralement en utilisant l'auxiliaire "do" et l'adverbe "not", en ajoutant des contractions fréquentes dans le langage parlé.
+
+[font_size=24][color=#4B0082]1. La négation avec l'auxiliaire "do"[/color][/font_size]
+
+Le moyen le plus courant de former la négation en anglais est d'utiliser l'auxiliaire "do" suivi de "not". Voici des exemples avec différents temps :
+
+[b]a) Présent simple[/b]
+[indent]Pour les verbes ordinaires, on utilise "do not" ou sa forme contractée "don't". Le sujet placé avant "do not".
+[code]
+I do not like (je n'aime pas)
+You do not like (tu n'aimes pas)
+He/She/It does not like (il/elle/on n'aime pas)
+We do not like (nous n'aimons pas)
+They do not like (ils/elles n'aiment pas)
+[/code]
+
+[i]Exemple : [color=#0000FF]I don't like apples.[font_size=18pt](Je n'aime pas les pommes.)[/font_size][/color][/i][/indent]
+
+[b]b) Passé simple[/b]
+[indent]Pour parler du passé, on utilise "did not" ou sa forme contractée "didn't".
+[code]
+I did not like (je n'aimais pas)
+You did not like (tu n'aimais pas)
+He/She/It did not like (il/elle/on n'aimait pas)
+We did not like (nous n'aimions pas)
+They did not like (ils/elles n'aimaient pas)
+[/code]
+
+[i]Exemple : [color=#0000FF]He didn't go to school yesterday.[font_size=18pt](Il n'est pas allé à l'école hier.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. La négation avec "be" et autres verbes auxiliaires[/color][/font_size]
+
+Les verbes "be", "have", "will", "can", etc., se construisent différemment en négation, souvent sans nécessiter "do".
+
+[b]a) Verbe "be"[/b]
+[indent]
+[code]
+I am not (je ne suis pas)
+You are not (tu n'es pas)
+He/She/It is not (il/elle/on n'est pas)
+We are not (nous ne sommes pas)
+They are not (ils/elles ne sont pas)
+[/code]
+
+[i]Exemple : [color=#0000FF]They aren't ready yet.[font_size=18pt](Ils ne sont pas encore prêts.)[/font_size][/color][/i][/indent]
+
+[b]b) Verbes modaux (can, will, must, etc.)[/b]
+[indent]
+[code]
+I cannot (je ne peux pas)
+You cannot (tu ne peux pas)
+He/She/It cannot (il/elle/on ne peut pas)
+We cannot (nous ne pouvons pas)
+They cannot (ils/elles ne peuvent pas)
+
+I will not (je ne vais pas)
+You will not (tu ne vas pas)
+He/She/It will not (il/elle/on ne va pas)
+We will not (nous n'allons pas)
+They will not (ils/elles ne vont pas)
+[/code]
+
+[i]Exemple : [color=#0000FF]She can't find her keys.[font_size=18pt](Elle ne trouve pas ses clés.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]We won't attend the meeting.[font_size=18pt](Nous n'assisterons pas à la réunion.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. La négation avec "have"[/color][/font_size]
+
+Le verbe "have" présente deux constructions pour la négation :
+
+[b]a) "Have" comme verbe ordinaire (do not)[/b]
+[indent]
+[code]
+I do not have (je n'ai pas)
+You do not have (tu n'as pas)
+He/She/It does not have (il/elle/on n'a pas)
+We do not have (nous n'avons pas)
+They do not have (ils/elles n'ont pas)
+[/code]
+
+[i]Exemple : [color=#0000FF]I don't have a car.[font_size=18pt](Je n'ai pas de voiture.)[/font_size][/color][/i][/indent]
+
+[b]b) "Have" comme auxiliaire (have not)[/b]
+[indent]
+[code]
+I have not (je n'ai pas)
+You have not (tu n'as pas)
+He/She/It has not (il/elle/on n'a pas)
+We have not (nous n'avons pas)
+They have not (ils/elles n'ont pas)
+[/code]
+
+[i]Exemple : [color=#0000FF]They haven't finished their homework.[font_size=18pt](Ils n'ont pas fini leurs devoirs.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La négation en anglais se forme principalement avec "do not" (ou "don't") pour les verbes ordinaires.
+[color=#FF0000]2.[/color] Les verbes auxiliaires et modaux (be, will, can, etc.) se négativent directement sans "do".
+[color=#FF0000]3.[/color] "Have" peut se négativer de deux manières selon son emploi comme verbe ordinaire ou auxiliaire.
+[color=#FF0000]4.[/color] Les contractions ("don't", "can't", "won't", etc.) sont couramment utilisées en anglais parlé.[/indent]
+
+[center][font_size=18][color=#808080]La pratique régulière de la négation rend votre anglais plus précis et naturel ![/color][/font_size][/center]

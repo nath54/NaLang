@@ -1,1 +1,75 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Sons Vocaliques en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les sons vocaliques en anglais sont essentiels pour bien comprendre et se faire comprendre. Maîtriser ces sons améliorera votre prononciation et votre compréhension orale. Cette leçon vous présente les différents sons vocaliques en anglais ainsi que des exemples pour chaque son.
+
+[font_size=24][color=#4B0082]1. Sons vocaliques simples[/color][/font_size]
+
+Les sons vocaliques simples, ou voyelles pures, sont les sons produits par une seule articulation. Voici les principaux :
+
+[b]a) Les voyelles courtes[/b]
+[indent]Les voyelles courtes sont couramment utilisées en anglais et sont souvent difficiles à maîtriser pour les non-anglophones.
+[code]
+[i]Exemple :[/i]
+ɪ [i](comme dans "sit" - s'asseoir)[/i]
+ʊ [i](comme dans "book" - livre)[/i]
+ɛ [i](comme dans "bed" - lit)[/i]
+æ [i](comme dans "cat" - chat)[/i]
+ʌ [i](comme dans "cup" - tasse)[/i]
+ə [i](comme dans "the" - le, la, les)[/i]
+[/code]
+
+[i]Exemple : [color=#0000FF]The cat sat on the bed.[font_size=18pt]([ðə kæt sæt ɒn ðə bɛd].)[/font_size][/color][/i][/indent]
+
+[b]b) Les voyelles longues[/b]
+[indent]Les voyelles longues sont tenues plus longtemps que les voyelles courtes.
+[code]
+[i]Exemple :[/i]
+iː [i](comme dans "see" - voir)[/i]
+uː [i](comme dans "boot" - botte)[/i]
+ɔː [i](comme dans "saw" - vu)[/i]
+ɜː [i](comme dans "bird" - oiseau)[/i]
+ɑː [i](comme dans "car" - voiture)[/i]
+[/code]
+
+[i]Exemple : [color=#0000FF]She sees the moon.[font_size=18pt]([ʃiː siːz ðə muːn].)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Diphtongues[/color][/font_size]
+
+Les diphtongues sont des sons vocaliques composés de deux voyelles qui se combinent en un seul son.
+
+[indent][i]Exemple :[/i]
+eɪ [i](comme dans "say" - dire)[/i]
+aɪ [i](comme dans "my" - mon, ma)[/i]
+ɔɪ [i](comme dans "boy" - garçon)[/i]
+aʊ [i](comme dans "now" - maintenant)[/i]
+əʊ [i](comme dans "go" - aller)[/i]
+ɪə [i](comme dans "here" - ici)[/i]
+eə [i](comme dans "air" - air)[/i]
+ʊə [i](comme dans "tour" - tour)[/i]
+
+[i]Exemple : [color=#0000FF]The boy is playing in the air.[font_size=18pt]( [ðə bɔɪ ɪz ˈpleɪɪŋ ɪn ðə eə].)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Utilisation des sons vocaliques en contextes[/color][/font_size]
+
+Il est important de connaître comment les sons vocaliques fonctionnent dans des contextes de mots et de phrases pour améliorer votre fluidité.
+
+[indent]• Les voyelles changent souvent de son en fonction de leur position dans le mot et du stress de la syllabe.
+[i]Exemple : [color=#0000FF]Present - to present.[font_size=18pt]( ˈprɛzənt - prɪˈzɛnt).[/font_size][/color][/i]
+
+- Certaines voyelles peuvent être réduites à des schwas ([ə]) dans des syllabes non accentuées.
+[i]Exemple : [color=#0000FF]About.[font_size=18pt]( əˈbaʊt).[/font_size][/color][/i]
+
+- Pratiquez avec des phrases et des textes pour vous habituer aux différents sons vocaliques.
+[i]Exemple : [color=#0000FF]She sells sea shells by the sea shore.[font_size=18pt]( [ʃi sɛlz si ʃɛlz baɪ ðə si ʃɔːr]).[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les sons vocaliques peuvent être courts ou longs et influencent grandement la prononciation correcte.
+[color=#FF0000]2.[/color] Les diphtongues sont des combinaisons de deux voyelles en un seul son.
+[color=#FF0000]3.[/color] Maîtriser les sons vocaliques est crucial pour une bonne prononciation et compréhension de l'anglais.[/indent]
+
+[center][font_size=18][color=#808080]Bonne chance dans votre apprentissage des sons vocaliques en anglais ![/color][/font_size][/center]

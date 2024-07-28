@@ -1,1 +1,70 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Pronoms Démonstratifs en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les pronoms démonstratifs en anglais sont utilisés pour montrer ou indiquer des objets ou des personnes spécifiques. Ils sont particulièrement utiles pour clarifier de quoi ou de qui on parle sans avoir à répéter le nom. Apprendre à utiliser correctement ces pronoms aidera à rendre votre communication en anglais plus fluide et précise.
+
+[font_size=24][color=#4B0082]1. Les pronoms démonstratifs de base[/color][/font_size]
+
+En anglais, il existe quatre pronoms démonstratifs principaux que vous devez connaître :
+
+[b]a) Singularité[/b]
+[indent]Les pronoms démonstratifs pour désigner une seule chose ou personne sont :
+[code]
+this [color=#008000](ceci, cela - près du locuteur)[/color]
+that [color=#008000](ceci, cela - loin du locuteur)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]This is my book.[font_size=18pt] (Ceci est mon livre.)[/font_size][/color] [color=#008000](près du locuteur)[/color][/i] 
+[i]Exemple : [color=#0000FF]That is your car.[font_size=18pt] (Cela est ta voiture.)[/font_size][/color] [color=#008000](loin du locuteur)[/color][/i][/indent]
+
+[b]b) Pluralité[/b]
+[indent]Les pronoms démonstratifs pour désigner plusieurs choses ou personnes sont :
+[code]
+these [color=#008000](ceux-ci, celles-ci - près du locuteur)[/color]
+those [color=#008000](ceux-là, celles-là - loin du locuteur)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]These are my friends.[font_size=18pt] (Ceux-ci sont mes amis.)[/font_size][/color] [color=#008000](près du locuteur)[/color][/i] 
+[i]Exemple : [color=#0000FF]Those are their houses.[font_size=18pt] (Ceux-là sont leurs maisons.)[/font_size][/color] [color=#008000](loin du locuteur)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des pronoms démonstratifs[/color][/font_size]
+
+Les pronoms démonstratifs sont utilisés en fonction de la distance et du nombre des objets ou des personnes qu'ils désignent. Voici quelques règles et exemples pour une bonne utilisation.
+
+[indent]• [color=#FF0000]This[/color] et [color=#FF0000]these[/color] pour désigner des choses proches du locuteur :
+[i]Exemple : [color=#0000FF]This apple is delicious.[font_size=18pt] (Cette pomme est délicieuse.)[/font_size][/color] [color=#008000](pomme proche du locuteur)[/color][/i]
+[i]Exemple : [color=#0000FF]These books are interesting.[font_size=18pt] (Ces livres sont intéressants.)[/font_size][/color] [color=#008000](livres proches du locuteur)[/color][/i]
+
+- [color=#FF0000]That[/color] et [color=#FF0000]those[/color] pour désigner des choses éloignées du locuteur :
+[i]Exemple : [color=#0000FF]That building is tall.[font_size=18pt] (Ce bâtiment est grand.)[/font_size][/color] [color=#008000](bâtiment éloigné du locuteur)[/color][/i]
+[i]Exemple : [color=#0000FF]Those stars are beautiful.[font_size=18pt] (Ces étoiles sont belles.)[/font_size][/color] [color=#008000](étoiles éloignées du locuteur)[/color][/i]
+
+- Utilisation en tant que sujet ou objet dans une phrase :
+[i]Exemple : [color=#0000FF]This is a great movie.[font_size=18pt] (Ceci est un excellent film.)[/font_size][/color]
+[i]Exemple : [color=#0000FF]Can you pass me that?[font_size=18pt] (Peux-tu me passer cela?) [/font_size][/color] [color=#008000](utilisé comme objet)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Particularités et exceptions[/color][/font_size]
+
+Certaines situations peuvent nécessiter des clarifications ou une utilisation précise des pronoms démonstratifs. Voici quelques points à noter :
+
+[indent]• Utilisation pour insister sur quelque chose ou quelqu'un en particulier.
+[i]Exemple : [color=#0000FF]I can't believe this![font_size=18pt] (Je ne peux pas croire ceci!) [/font_size][/color][/i]
+
+- Pour indiquer un contraste entre deux choses :
+[i]Exemple : [color=#0000FF]This is good, but that is better.[font_size=18pt] (Ceci est bien, mais cela est mieux.)[/font_size][/color][/i]
+
+- Utilisation dans des expressions idiomatiques ou familières :
+[i]Exemple : [color=#0000FF]That's it![font_size=18pt] (C'est tout!) [/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]These are the times that try men's souls.[font_size=18pt] (Ce sont des temps qui éprouvent les âmes des hommes.) [/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les pronoms démonstratifs sont utilisés pour indiquer des objets ou personnes spécifiques et leur distance par rapport au locuteur.
+[color=#FF0000]2.[/color] [color=#FF0000]This[/color] et [color=#FF0000]these[/color] indiquent une proximité, tandis que [color=#FF0000]that[/color] et [color=#FF0000]those[/color] indiquent une distance.
+[color=#FF0000]3.[/color] Il est essentiel de choisir le bon pronom démonstratif en fonction du nombre (singulier ou pluriel) de l'objet ou de la personne désignée.
+[color=#FF0000]4.[/color] Les pronoms démonstratifs peuvent être utilisés pour créer des contrastes ou des emphases dans les phrases.[/indent]
+
+[center][font_size=18][color=#808080]Utilisez correctement les pronoms démonstratifs pour rendre votre anglais plus précis et naturel![/color][/font_size][/center]

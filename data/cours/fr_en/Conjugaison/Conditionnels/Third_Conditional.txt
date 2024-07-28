@@ -1,1 +1,69 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Troisième Conditionnel en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le troisième conditionnel est utilisé en anglais pour parler de situations hypothétiques du passé qui n'ont pas eu lieu. Il permet d'exprimer des regrets, des reproches ou des réflexions sur des événements qui auraient pu se passer autrement.
+
+[font_size=24][color=#4B0082]1. Structure du Troisième Conditionnel[/color][/font_size]
+
+La structure de base du troisième conditionnel est la suivante :
+[indent][code]If + past perfect, would have + past participle[/code][/indent]
+
+Cette structure nécessite deux parties : une proposition conditionnelle (if) et une proposition principale (result).
+
+[b]a) Proposition conditionnelle[/b]
+[indent]La proposition conditionnelle utilise le [b]past perfect[/b], qui se forme avec "had" suivi du participe passé du verbe.
+[code]
+If I had known (Si j'avais su)
+If we had left (Si nous étions partis)
+If they had seen (S'ils avaient vu)
+[/code]
+
+[i]Exemple : [color=#0000FF]If I had known about the meeting, [font_size=18pt](Si j'avais su pour la réunion,)[/font_size][/color][/i][/indent]
+
+[b]b) Proposition principale[/b]
+[indent]La proposition principale utilise "would have" suivi du participe passé du verbe pour exprimer le résultat hypothétique.
+[code]
+I would have gone (je serais allé)
+We would have arrived (nous serions arrivés)
+They would have helped (ils auraient aidé)
+[/code]
+
+[i]Exemple : [color=#0000FF]I would have gone to it. [font_size=18pt](je serais allé à la réunion.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Troisième Conditionnel[/color][/font_size]
+
+Le troisième conditionnel est principalement utilisé pour exprimer des regrets ou des réflexions sur des événements passés.
+
+[indent]• Exprimer des regrets ou des souhaits non réalisés
+[i]Exemple : [color=#0000FF]If she had studied harder, she would have passed the exam. [font_size=18pt](Si elle avait étudié plus dur, elle aurait réussi l'examen.)[/font_size][/color][/i]
+
+- Faire des reproches sur des actions passées
+[i]Exemple : [color=#0000FF]If you had listened to me, we wouldn't have been late. [font_size=18pt](Si tu m'avais écouté, nous ne serions pas en retard.)[/font_size][/color][/i]
+
+- Réfléchir à des situations alternatives
+[i]Exemple : [color=#0000FF]If they had taken the earlier flight, they would have avoided the storm. [font_size=18pt](S'ils avaient pris le vol précédent, ils auraient évité la tempête.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Variantes du Troisième Conditionnel[/color][/font_size]
+
+Il existe quelques variantes de la structure de base pour exprimer des nuances différentes ou pour utiliser d'autres modaux tels que "could" ou "might."
+
+[indent]• Utiliser "could have" pour indiquer la possibilité
+[i]Exemple : [color=#0000FF]If he had run faster, he could have won the race. [font_size=18pt](S'il avait couru plus vite, il aurait pu gagner la course.)[/font_size][/color][/i]
+
+- Utiliser "might have" pour indiquer une probabilité ou une incertitude
+[i]Exemple : [color=#0000FF]If it had rained, the event might have been canceled. [font_size=18pt](S'il avait plu, l'événement aurait pu être annulé.)[/font_size][/color][/i]
+
+- Utiliser "should have" pour exprimer un reproche ou une obligation non remplie
+[i]Exemple : [color=#0000FF]If you had called, we should have been notified sooner. [font_size=18pt](Si tu avais appelé, nous aurions dû être informés plus tôt.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le troisième conditionnel est utilisé pour parler de situations passées hypothétiques.
+[color=#FF0000]2.[/color] La structure de base est [color=#FF0000]If + past perfect, would have + past participle[/color].
+[color=#FF0000]3.[/color] Il exprime des regrets, des reproches ou des réflexions sur des situations qui auraient pu se passer autrement.
+[color=#FF0000]4.[/color] Des variantes avec "could", "might" ou "should" permettent d'exprimer différentes nuances.[/indent]
+
+[center][font_size=18][color=#808080]Master the third conditional to speak more precisely about hypothetical past events![/color][/font_size][/center]

@@ -1,1 +1,113 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Présent Simple en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le present simple (présent simple) est l'un des temps de base de l'anglais. Il est principalement utilisé pour exprimer des habitudes, des vérités générales, des situations permanentes, et des événements futurs fixes.
+
+[font_size=24][color=#4B0082]1. Structure du présent simple[/color][/font_size]
+
+Au présent simple, les verbes en anglais suivent une structure très simple pour les formes affirmatives, négatives et interrogatives.
+
+[b]a) Affirmative[/b]
+[indent]Pour les formes affirmatives, on utilise la forme de base du verbe. Notez que pour la troisième personne du singulier (he, she, it), on ajoute un [i] -s[/i] au verbe.
+[code]
+I walk (Je marche)
+You walk (Tu marches)
+He/She/It walks (Il/Elle marche)
+We walk (Nous marchons)
+You walk (Vous marchez)
+They walk (Ils/Elles marchent)
+[/code]
+
+[i]Exemple : [color=#0000FF]She reads every day.[font_size=18pt](Elle lit tous les jours.)[/font_size][/color][/i][/indent]
+
+[b]b) Negative[/b]
+[indent]Pour former des phrases négatives, on utilise l'auxiliaire [i]do[/i] et la négation [i]not[/i]. À la troisième personne du singulier, [i]does[/i] est utilisé.
+[code]
+I do not (don't) walk (Je ne marche pas)
+You do not (don't) walk (Tu ne marches pas)
+He/She/It does not (doesn't) walk (Il/Elle ne marche pas)
+We do not (don't) walk (Nous ne marchons pas)
+You do not (don't) walk (Vous ne marchez pas)
+They do not (don't) walk (Ils/Elles ne marchent pas)
+[/code]
+
+[i]Exemple : [color=#0000FF]He does not (doesn't) play football.[font_size=18pt](Il ne joue pas au football.)[/font_size][/color][/i][/indent]
+
+[b]c) Interrogative[/b]
+[indent]Pour former des questions, on inverse l'ordre du sujet et de l'auxiliaire [i]do[/i]. Pour la troisième personne du singulier, on utilise [i]does[/i].
+[code]
+Do I walk? (Est-ce que je marche?)
+Do you walk? (Est-ce que tu marches?)
+Does he/she/it walk? (Est-ce qu'il/elle marche?)
+Do we walk? (Est-ce que nous marchons?)
+Do you walk? (Est-ce que vous marchez?)
+Do they walk? (Est-ce qu'ils/elles marchent?)
+[/code]
+
+[i]Exemple : [color=#0000FF]Do they live in Paris?[font_size=18pt](Est-ce qu'ils vivent à Paris?) [/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du présent simple[/color][/font_size]
+
+Le présent simple est utilisé dans plusieurs contextes spécifiques en anglais.
+
+[indent]• [b]Habitudes et actions répétées[/b]
+[i]Exemple : [color=#0000FF]She drinks coffee every morning. [font_size=18pt](Elle boit du café tous les matins.)[/font_size][/color][/i]
+
+- [b]Vérités générales et faits scientifiques[/b]
+[i]Exemple : [color=#0000FF]The sun rises in the east.[font_size=18pt](Le soleil se lève à l'est.)[/font_size][/color][/i]
+
+- [b]Situations permanentes ou à long terme[/b]
+[i]Exemple : [color=#0000FF]They work in a bank.[font_size=18pt](Ils travaillent dans une banque.)[/font_size][/color][/i]
+
+- [b]Événements futurs fixes (horaires, programmes)[/b]
+[i]Exemple : [color=#0000FF]The train leaves at 6 PM.[font_size=18pt](Le train part à 18 heures.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Les verbes irréguliers au présent simple[/color][/font_size]
+
+La plupart des verbes en anglais suivent les règles standard du présent simple, mais certains verbes sont irréguliers.
+
+[indent]Les verbes [i]to be[/i], [i]to have[/i], et [i]to do[/i] sont les principaux verbes irréguliers à connaître.
+
+[b]To be (être)[/b]
+[code]
+I am (Je suis)
+You are (Tu es)
+He/She/It is (Il/Elle est)
+We are (Nous sommes)
+You are (Vous êtes)
+They are (Ils/Elles sont)
+[/code]
+
+[b]To have (avoir)[/b]
+[code]
+I have (J'ai)
+You have (Tu as)
+He/She/It has (Il/Elle a)
+We have (Nous avons)
+You have (Vous avez)
+They have (Ils/Elles ont)
+[/code]
+
+[b]To do (faire)[/b]
+[code]
+I do (Je fais)
+You do (Tu fais)
+He/She/It does (Il/Elle fait)
+We do (Nous faisons)
+You do (Vous faites)
+They do (Ils/Elles font)
+[/code]
+
+[i]Exemple : [color=#0000FF]She has a pen.[font_size=18pt](Elle a un stylo.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le présent simple est utilisé pour exprimer des habitudes, des vérités générales, des situations permanentes, et des événements futurs fixes.
+[color=#FF0000]2.[/color] La troisième personne du singulier ajoute un [i] -s[/i] au verbe.
+[color=#FF0000]3.[/color] Les formes négatives et interrogatives nécessitent les auxiliaires [i]do[/i] et [i]does[/i].
+[color=#FF0000]4.[/color] Certains verbes, comme [i]to be[/i], [i]to have[/i], et [i]to do[/i], sont irréguliers et nécessitent une attention particulière.[/indent]
+
+[center][font_size=18][color=#808080]Master the present simple to make your English communication clear and effective![/color][/font_size][/center]

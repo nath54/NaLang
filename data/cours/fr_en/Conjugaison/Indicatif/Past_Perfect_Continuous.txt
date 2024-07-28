@@ -1,1 +1,58 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Past Perfect Continuous en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le past perfect continuous est un temps que l'on utilise pour désigner une action continue qui était en cours à un moment donné dans le passé. Ce temps est souvent utilisé pour montrer que quelque chose avait commencé avant un certain point dans le passé et continuait jusqu'à ce point.
+
+[font_size=24][color=#4B0082]1. Structure du Past Perfect Continuous[/color][/font_size]
+
+[indent]La structure du past perfect continuous est composée de :
+[code]
+sujet + had been + verbe-ing
+[/code]
+
+Voici une explication des éléments :
+- [b]sujet[/b] : il peut s'agir de n'importe quel sujet (I, you, he, she, we, they, etc.).
+- [b]had been[/b] : la forme fixe utilisée pour indiquer le past perfect continuous.
+- [b]verbe-ing[/b] : la base verbale à laquelle on ajoute le suffixe -ing.
+
+[i]Exemple : [color=#0000FF]She had been reading.[/color] [color=#008000](Elle avait été en train de lire.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Past Perfect Continuous[/color][/font_size]
+
+Le past perfect continuous est souvent employé pour mettre en évidence la durée d'une action ou pour expliquer la cause d'une situation dans le passé.
+
+[indent]• Pour marquer la durée d'une action avant un autre événement dans le passé :
+[i]Exemple : [color=#0000FF]They had been working for hours before the manager arrived.[/color] [color=#008000](Ils avaient travaillé pendant des heures avant que le manager n'arrive.)[/color][/i]
+
+• Pour indiquer une action continue dont le résultat était visible dans le passé :
+[i]Exemple : [color=#0000FF]He was tired because he had been running.[/color] [color=#008000](Il était fatigué parce qu'il avait couru.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Différences entre le Past Perfect et le Past Perfect Continuous[/color][/font_size]
+
+Bien que le past perfect (had + participe passé) et le past perfect continuous (had been + verbe-ing) soient similaires, ils diffèrent par l'accent mis sur la continuité de l'action.
+
+[indent]• [b]Past Perfect :[/b] met l'accent sur le résultat d'une action passée.
+[i]Exemple : [color=#0000FF]She had finished her homework before dinner.[/color] [color=#008000](Elle avait terminé ses devoirs avant le dîner.)[/color][/i]
+
+• [b]Past Perfect Continuous :[/b] met l'accent sur la durée ou la continuité d'une action passée.
+[i]Exemple : [color=#0000FF]She had been doing her homework for an hour when her friend called.[/color] [color=#008000](Elle faisait ses devoirs depuis une heure quand son ami a appelé.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Informations complémentaires et conseils[/color][/font_size]
+
+[indent]• Utilisez des marqueurs de temps pour indiquer la durée de l'action :
+[i]Exemple : [color=#0000FF]They had been living in Canada for five years before they moved to the USA.[/color] [color=#008000](Ils vivaient au Canada depuis cinq ans avant de déménager aux États-Unis.)[/color][/i]
+
+• Le past perfect continuous s'utilise souvent avec des expressions comme "for" et "since" :
+[i]Exemple : [color=#0000FF]I had been waiting for her since noon.[/color] [color=#008000](Je l'attendais depuis midi.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le past perfect continuous est utilisé pour indiquer des actions continues dans le passé.
+[color=#FF0000]2.[/color] La structure du past perfect continuous est : sujet + had been + verbe-ing.
+[color=#FF0000]3.[/color] Utilisez-le pour souligner la durée d'une action ou pour expliquer une situation dans le passé.
+[color=#FF0000]4.[/color] Différenciez bien le past perfect de son équivalent continu en fonction de l'accent que vous souhaitez mettre, soit sur le résultat, soit sur la durée.[/indent]
+
+[center][font_size=18][color=#808080]Master the past perfect continuous to express nuanced actions in the past and enhance your English fluency![/color][/font_size][/center]

@@ -1,1 +1,111 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Nombres Cardinaux en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les nombres cardinaux sont utilisés pour exprimer une quantité. En anglais, comme dans la plupart des langues, ils sont fondamentaux pour la communication quotidienne. Cette leçon couvre les chiffres de 0 à 20, puis les dizaines jusqu'à 100, et ensuite les centaines et milliers.
+
+[font_size=24][color=#4B0082]1. Nombres de 0 à 20[/color][/font_size]
+
+Les nombres de 0 à 20 sont essentiels dans toutes les langues. Voici la liste des nombres dans cette catégorie :
+
+[b]a) Nombres de 0 à 10[/b]
+[indent]
+[code]
+0 - Zero (zéro)
+1 - One (un)
+2 - Two (deux)
+3 - Three (trois)
+4 - Four (quatre)
+5 - Five (cinq)
+6 - Six (six)
+7 - Seven (sept)
+8 - Eight (huit)
+9 - Nine (neuf)
+10 - Ten (dix)
+[/code]
+
+[i]Exemple : [color=#0000FF]I have two cats.[font_size=18pt] (J'ai deux chats.)[/font_size][/color][/i][/indent]
+
+[b]b) Nombres de 11 à 20[/b]
+[indent]
+[code]
+11 - Eleven (onze)
+12 - Twelve (douze)
+13 - Thirteen (treize)
+14 - Fourteen (quatorze)
+15 - Fifteen (quinze)
+16 - Sixteen (seize)
+17 - Seventeen (dix-sept)
+18 - Eighteen (dix-huit)
+19 - Nineteen (dix-neuf)
+20 - Twenty (vingt)
+[/code]
+
+[i]Exemple : [color=#0000FF]She is twenty years old.[font_size=18pt] (Elle a vingt ans.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Nombres par dizaines jusqu'à 100[/color][/font_size]
+
+Les dizaines sont également importantes et sont souvent utilisées en combinaison avec les nombres unitaires pour former des nombres plus grands.
+
+[b]a) Les dizaines de 30 à 100[/b]
+[indent]
+[code]
+30 - Thirty (trente)
+40 - Forty (quarante)
+50 - Fifty (cinquante)
+60 - Sixty (soixante)
+70 - Seventy (soixante-dix)
+80 - Eighty (quatre-vingts)
+90 - Ninety (quatre-vingt-dix)
+100 - One hundred (cent)
+[/code]
+
+[i]Exemple : [color=#0000FF]There are ninety students in the hall.[font_size=18pt] (Il y a quatre-vingt-dix étudiants dans le hall.)[/font_size][/color][/i]
+
+[b]Note :[/b] Pour les nombres comme 21, 22,... etc., on combine les dizaines et unités. Par exemple, 21 se dira [color=#0000FF]twenty-one[/color] (vingt-et-un), 35 se dira [color=#0000FF]thirty-five[/color] (trente-cinq).[/indent]
+
+[font_size=24][color=#4B0082]3. Nombres supérieurs à 100[/color][/font_size]
+
+Passons maintenant aux nombres supérieurs à 100, incluant les centaines et les milliers.
+
+[b]a) Les centaines[/b]
+[indent]
+[code]
+100 - One hundred (cent)
+200 - Two hundred (deux cents)
+300 - Three hundred (trois cents)
+400 - Four hundred (quatre cents)
+500 - Five hundred (cinq cents)
+600 - Six hundred (six cents)
+700 - Seven hundred (sept cents)
+800 - Eight hundred (huit cents)
+900 - Nine hundred (neuf cents)
+[/code]
+
+[i]Exemple : [color=#0000FF]There are five hundred pages in the book.[font_size=18pt] (Il y a cinq cents pages dans le livre.)[/font_size][/color][/i]
+[/indent]
+
+[b]b) Les milliers[/b]
+[indent]
+[code]
+1,000 - One thousand (mille)
+2,000 - Two thousand (deux mille)
+3,000 - Three thousand (trois mille)
+4,000 - Four thousand (quatre mille)
+5,000 - Five thousand (cinq mille)
+[/code]
+
+[i]Exemple : [color=#0000FF]The population of the town is ten thousand.[font_size=18pt] (La population de la ville est de dix mille.)[/font_size][/color][/i]
+[/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les nombres cardinaux sont utilisés pour indiquer des quantités. 
+[color=#FF0000]2.[/color] Les nombres de 0 à 20 sont basiques et ont des formes spécifiques différentes des dizaines.
+[color=#FF0000]3.[/color] Les dizaines de 30 à 100 suivent un modèle en anglais qui est régulier mais nécessite une mémorisation des formes de base.
+[color=#FF0000]4.[/color] Les centaines et les milliers sont construits en ajoutant les mots "hundred" (cent) et "thousand" (mille) après les nombres de base.
+[/indent]
+
+[center][font_size=18][color=#808080]Apprenez ces nombres et utilisez-les dans votre communication quotidienne pour améliorer votre anglais ![/color][/font_size][/center]

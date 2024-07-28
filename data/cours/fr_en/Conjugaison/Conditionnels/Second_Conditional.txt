@@ -1,1 +1,70 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Second Conditional en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Second Conditional est utilisé en anglais pour exprimer des situations hypothétiques ou imaginaires, généralement dans le présent ou le futur. Il permet de parler de choses qui ne sont pas réelles, mais que l'on imagine.
+
+[font_size=24][color=#4B0082]1. Structure du Second Conditional[/color][/font_size]
+
+La structure du Second Conditional est relativement simple. Elle se compose de deux parties : la proposition "if" et la proposition principale.
+
+[b]a) Proposition "if"[/b]
+[indent]La proposition "if" utilise le verbe au passé simple.
+[code]
+If + sujet + verbe au passé simple
+[/code]
+
+[i]Exemple : [color=#0000FF]If I won the lottery, [font_size=18pt](Si je gagnais à la loterie,)[/font_size][/color][/i][/indent]
+
+[b]b) Proposition principale[/b]
+[indent]La proposition principale utilise "would" suivi de la base verbale.
+[code]
+sujet + would + base verbale
+[/code]
+
+[i]Exemple : [color=#0000FF]I would buy a big house. [font_size=18pt](j'achèterais une grande maison.)[/font_size][/color][/i][/indent]
+
+L'ensemble de la structure se présente donc comme suit :
+[indent]
+[code]
+If + sujet + verbe au passé simple, sujet + would + base verbale
+[/code]
+
+[i]Exemple complet : [color=#0000FF]If I won the lottery, I would buy a big house. [font_size=18pt](Si je gagnais à la loterie, j'achèterais une grande maison.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Second Conditional[/color][/font_size]
+
+Le Second Conditional est utilisé pour exprimer des situations hypothétiques qui sont peu réalistes ou imaginaires. Ces situations ne sont généralement pas envisagées comme pouvant réellement se produire.
+
+[indent]• Pour exprimer des souhaits irréalistes ou des rêves :
+[i]Exemple : [color=#0000FF]If I were a millionaire, I would travel the world. [font_size=18pt](Si j'étais millionnaire, je ferais le tour du monde.)[/font_size][/color][/i]
+
+- Pour donner des conseils en utilisant "If I were you" :
+[i]Exemple : [color=#0000FF]If I were you, I would study harder. [font_size=18pt](Si j'étais toi, j'étudierais plus sérieusement.)[/font_size][/color][/i]
+
+- Pour parler de situations irréelles dans le futur :
+[i]Exemple : [color=#0000FF]If it stopped raining, we would go for a walk. [font_size=18pt](S'il arrêtait de pleuvoir, nous irions nous promener.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions Supplémentaires[/color][/font_size]
+
+Il est important de noter que dans la proposition "if", le verbe "to be" s'utilise sous la forme "were" pour tous les sujets.
+
+[indent]• Utilisation de "were" pour tous les sujets :
+[i]Exemple : [color=#0000FF]If she were here, she would help us. [font_size=18pt](Si elle était ici, elle nous aiderait.)[/font_size][/color][/i][/indent]
+
+De plus, l'ordre des propositions peut être inversé sans changer le sens de la phrase. La virgule n'est nécessaire que lorsque la proposition "if" précède la proposition principale.
+
+[indent]• Inversion des propositions :
+[i]Exemple : [color=#0000FF]I would buy a big house if I won the lottery. [font_size=18pt](J'achèterais une grande maison si je gagnais à la loterie.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points Clés à Retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Second Conditional exprime des situations hypothétiques ou imaginaires.
+[color=#FF0000]2.[/color] La proposition "if" utilise le verbe au passé simple.
+[color=#FF0000]3.[/color] La proposition principale utilise "would" suivi de la base verbale.
+[color=#FF0000]4.[/color] "Were" est utilisé pour tous les sujets dans la proposition "if".
+[color=#FF0000]5.[/color] L'ordre des propositions peut être inversé sans changer le sens de la phrase.[/indent]
+
+[center][font_size=18][color=#808080]Utilisez le Second Conditional pour rendre vos pensées en anglais plus nuancées et expressives ![/color][/font_size][/center]

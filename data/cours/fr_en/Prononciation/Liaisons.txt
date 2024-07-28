@@ -1,1 +1,70 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Liaisons en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les liaisons en anglais, également appelées "connected speech", sont des techniques utilisées pour rendre la langue parlée plus fluide et naturelle. Comprendre et maîtriser ces liaisons peut grandement améliorer votre compréhension et votre prononciation de l'anglais parlé.
+
+[font_size=24][color=#4B0082]1. Les types de liaisons[/color][/font_size]
+
+En anglais, les liaisons se produisent souvent de plusieurs manières différentes. Voici les plus courantes :
+
+[b]a) Liaisons consonne-voyelle[/b]
+[indent]Une consonne à la fin d'un mot se connecte à une voyelle au début du mot suivant.
+[code]
+Don't ask [color=#008000](ne demande pas)[/color]
+An apple [color=#008000](une pomme)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Let's eat an apple.[font_size=18pt](Lèts eet an æpl.)[/font_size][/color] [color=#008000](Mangeons une pomme.)[/color][/i][/indent]
+
+[b]b) Liaisons consonne-consonne[/b]
+[indent]Parfois, une consonne à la fin d'un mot peut influencer la consonne du mot suivant.
+[code]
+Black coffee [color=#008000](café noir)[/color]
+Best time [color=#008000](meilleur moment)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]She asked for black coffee.[font_size=18pt](Shi askt fɔr blæk kɔfi.)[/font_size][/color] [color=#008000](Elle a demandé du café noir.)[/color][/i][/indent]
+
+[b]c) Liaisons voyelle-voyelle[/b]
+[indent]Quand deux voyelles apparaissent, un son glissant peut se produire entre elles.
+[code]
+Go away [color=#008000](va-t'en)[/color]
+My only [color=#008000](mon seul)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]Go away immediately.[font_size=18pt](Goʊ əwey ɪˈmiːdiətli.)[/font_size][/color] [color=#008000](Va-t'en immédiatement.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Importance des liaisons dans la prononciation[/color][/font_size]
+
+Les liaisons jouent un rôle clé dans la fluidité et la compréhension de l'anglais parlé. Voici pourquoi elles sont importantes :
+
+[indent]• Elles rendent la langue plus fluide et naturelle.
+[i]Exemple : [color=#0000FF]It's an interesting idea.[font_size=18pt](ɪts ən intərɛstɪŋ aɪˈdiːə.)[/font_size][/color] [color=#008000](C'est une idée intéressante.)[/color][/i]
+
+- Elles peuvent aider à distinguer les mots dans la chaîne parlée.
+[i]Exemple : [color=#0000FF]I scream vs. Ice cream.[font_size=18pt](aɪ skriːm vɜrsəs aɪs kriːm.)[/font_size][/color] [color=#008000](Je crie vs. Glace.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Conseils pour pratiquer les liaisons[/color][/font_size]
+
+Voici quelques stratégies pour améliorer votre utilisation des liaisons :
+
+[indent]• Écouter des locuteurs natifs et répéter après eux.
+[i]Exemple : [color=#0000FF]Watching movies or listening to podcasts.[font_size=18pt](Wɑtʃɪŋ muviz ɔr lɪsənɪŋ tʊ pɑdkæsts.)[/font_size][/color] [color=#008000](Regarder des films ou écouter des podcasts.)[/color][/i]
+
+- Enregistrer votre propre voix et comparer avec des exemples natifs.
+[i]Exemple : [color=#0000FF]Record yourself and then play it back.[font_size=18pt](rɪkɔrd jɔrˈsɛlf ænd ˈðɛn pleɪ ɪt bæk.)[/font_size][/color] [color=#008000](Enregistrez-vous et écoutez ensuite.)[/color][/i]
+
+- Pratiquer des phrases courtes avec liaisons intentionnellement mises en place.
+[i]Exemple : [color=#0000FF]Practice: "An interesting book", "Go away now", etc.[font_size=18pt](ˈPræktɪs: "ən ɪntərɛstɪŋ bʊk", "goʊ əwey naʊ", etc.)[/font_size][/color] [color=#008000](Pratiquez : "Un livre intéressant", "Va-t'en maintenant", etc.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les liaisons rendent l'anglais parlé plus naturel et fluide.
+[color=#FF0000]2.[/color] Différents types de liaisons existent : consonne-voyelle, consonne-consonne, voyelle-voyelle.
+[color=#FF0000]3.[/color] Pratiquer les liaisons peut améliorer la compréhension et la prononciation.
+[color=#FF0000]4.[/color] Utiliser des ressources natives et s'enregistrer peuvent aider à progresser.[/indent]
+
+[center][font_size=18][color=#808080]Practice these connections to make your English sound more natural and fluent![/color][/font_size][/center]

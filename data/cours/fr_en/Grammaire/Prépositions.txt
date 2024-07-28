@@ -1,1 +1,95 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Prépositions en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les prépositions sont des mots essentiels en anglais qui servent à établir des relations entre les différents éléments d'une phrase. Elles peuvent indiquer la direction, le lieu, le temps, et bien d'autres relations. Comprendre l'utilisation correcte des prépositions vous aidera à communiquer plus clairement et efficacement en anglais.
+
+[font_size=24][color=#4B0082]1. Prépositions de lieu[/color][/font_size]
+
+Les prépositions de lieu sont utilisées pour indiquer où se trouve quelque chose ou quelqu'un.
+
+[b]a) Prépositions courantes[/b]
+[indent][code]
+In [color=#008000](dans, en)[/color]
+On [color=#008000](sur)[/color]
+At [color=#008000](à, chez)[/color]
+Under [color=#008000](sous)[/color]
+Over [color=#008000](au-dessus)[/color]
+Between [color=#008000](entre)[/color]
+Among [color=#008000](parmi)[/color]
+Behind [color=#008000](derrière)[/color]
+Near [color=#008000](près de)[/color]
+Next to [color=#008000](à côté de)[/color]
+In front of [color=#008000](en face de)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]She is sitting on the chair.[font_size=18pt](Elle est assise sur la chaise.)[/font_size][/color] [color=#008000](sur la chaise)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Prépositions de temps[/color][/font_size]
+
+Les prépositions de temps servent à indiquer quand une action se produit.
+
+[b]a) Prépositions courantes[/b]
+[indent][code]
+At [color=#008000](à, moment précis)[/color]
+In [color=#008000](en, mois/année/saison/durée)[/color]
+On [color=#008000](jour/date précise)[/color]
+During [color=#008000](pendant)[/color]
+Before [color=#008000](avant)[/color]
+After [color=#008000](après)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]They arrived at 9 o'clock.[font_size=18pt](Ils sont arrivés à 9 heures.)[/font_size][/color] [color=#008000](à 9 heures)[/color][/i]
+
+[b]b) Expressions courantes avec prépositions de temps[/b]
+[indent][code]
+At night [color=#008000](la nuit)[/color]
+In the morning [color=#008000](le matin)[/color]
+On Monday [color=#008000](le lundi)[/color]
+In April [color=#008000](en avril)[/color]
+During the meeting [color=#008000](pendant la réunion)[/color]
+Before the event [color=#008000](avant l'événement)[/color]
+After lunch [color=#008000](après le déjeuner)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]I will call you in the morning.[font_size=18pt](Je t'appellerai le matin.)[/font_size][/color] [color=#008000](le matin)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Prépositions de direction[/color][/font_size]
+
+Les prépositions de direction sont utilisées pour décrire le mouvement d'un endroit à un autre.
+
+[b]a) Prépositions courantes[/b]
+[indent][code]
+To [color=#008000](vers, à destination de)[/color]
+Into [color=#008000](dans, mouvement vers l'intérieur)[/color]
+Out of [color=#008000](hors de, mouvement vers l'extérieur)[/color]
+Toward [color=#008000](vers, en direction de)[/color]
+From [color=#008000](de, venant de)[/color]
+Through [color=#008000](à travers)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]She walked into the room.[font_size=18pt](Elle est entrée dans la pièce.)[/font_size][/color] [color=#008000](dans la pièce)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Utilisation des prépositions: Règles et Exceptions[/color][/font_size]
+
+Certaines prépositions peuvent prêter à confusion. Voici quelques règles et exceptions courantes.
+
+[indent]• Prépositions suivies du gérondif (verbe en -ing)
+[i]Exemple : [color=#0000FF]I am interested in learning English.[font_size=18pt](Je suis intéressé par l'apprentissage de l'anglais.)[/font_size][/color] [color=#008000](par l'apprentissage)[/color][/i]
+
+- Prépositions avec expressions idiomatiques
+[i]Exemple : [color=#0000FF]She is good at playing tennis.[font_size=18pt](Elle est douée pour jouer au tennis.)[/font_size][/color] [color=#008000](pour jouer)[/color][/i]
+
+- Prépositions dans des questions indirectes
+[i]Exemple : [color=#0000FF]Can you tell me where the library is?[font_size=18pt](Peux-tu me dire où se trouve la bibliothèque ?)[/font_size][/color] [color=#008000](où se trouve)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les prépositions sont essentielles pour établir des relations entre les éléments d'une phrase.
+[color=#FF0000]2.[/color] Les prépositions de lieu, de temps et de direction ont des usages spécifiques.
+[color=#FF0000]3.[/color] Les expressions idiomatiques peuvent nécessiter des prépositions particulières.
+[color=#FF0000]4.[/color] La pratique continue et l'écoute attentive aideront à maîtriser l'utilisation correcte des prépositions.[/indent]
+
+[center][font_size=18][color=#808080]Understand and use prepositions correctly to enhance your English communication skills![/color][/font_size][/center]

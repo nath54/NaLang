@@ -1,1 +1,77 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Faux Amis en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les faux amis sont des mots qui se ressemblent beaucoup entre deux langues mais qui ont des significations très différentes. En anglais et en français, de nombreux mots peuvent prêter à confusion. Cette leçon vous aidera à éviter les pièges des faux amis courants et à améliorer votre compréhension et votre expression en anglais.
+
+[font_size=24][color=#4B0082]1. Qu'est-ce qu'un faux ami ?[/color][/font_size]
+
+Un faux ami est un mot qui ressemble à un mot d'une autre langue concernant la forme ou la prononciation mais qui n'a pas la même signification. Voici quelques faux amis courants entre le français et l'anglais :
+
+[indent][b]1.1. Actuellement vs. Actually[/b]
+[code]
+Actuellement (at the moment, currently) ↔ Actually (en fait)
+''Actuellement'' signifie "en ce moment" tandis que "actually" signifie "en fait".
+[i]Exemple : [color=#0000FF]Il travaille actuellement sur un nouveau projet.[/color] [color=#008000](He is currently working on a new project.)[/color][/i]
+[i]Exemple : [color=#0000FF]Actually, I don't think that's a good idea.[/color] [color=#008000](En fait, je ne pense pas que ce soit une bonne idée.)[/color][/i]
+[/code]
+
+[b]1.2. Sensible vs. Sensitive[/b]
+[code]
+Sensible (reasonable) ↔ Sensitive (sensible)
+''Sensible'' en anglais signifie "raisonnable" alors que "sensitive" signifie "sensible".
+[i]Exemple : [color=#0000FF]Be sensible and save some money for emergencies.[/color] [color=#008000](Sois raisonnable et économise pour les urgences.)[/color][/i]
+[i]Exemple : [color=#0000FF]She has very sensitive skin.[/color] [color=#008000](Elle a une peau très sensible.)[/color][/i]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Autres faux amis courants[/color][/font_size]
+
+Voici une liste de quelques autres faux amis couramment rencontrés entre le français et l'anglais :
+
+[indent][b]2.1. Librairie vs. Library[/b]
+[code]
+Librairie (bookstore) ↔ Library (bibliothèque)
+''Librairie'' désigne un magasin de livres, alors que ''library'' signifie une bibliothèque.
+[i]Exemple : [color=#0000FF]J'ai acheté ce livre dans une librairie.[/color] [color=#008000](I bought this book in a bookstore.)[/color][/i]
+[i]Exemple : [color=#0000FF]I borrowed this book from the library.[/color] [color=#008000](J'ai emprunté ce livre à la bibliothèque.)[/color][/i]
+[/code]
+
+[b]2.2. Préservatif vs. Preservative[/b]
+[code]
+Préservatif (condom) ↔ Preservative (agent de conservation)
+''Préservatif'' en français signifie "condom" et ''preservative'' en anglais signifie "agent de conservation".
+[i]Exemple : [color=#0000FF]Il est important d'utiliser un préservatif для la sécurité.[/color] [color=#008000](It is important to use a condom for safety.)[/color][/i]
+[i]Exemple : [color=#0000FF]This food contains no artificial preservatives.[/color] [color=#008000](Cette nourriture ne contient pas d'agents de conservation artificiels.)[/color][/i]
+[/code]
+
+[b]2.3. Attendre vs. To Attend[/b]
+[code]
+Attendre (to wait) ↔ To Attend (assister à, participer à)
+''Attendre'' signifie "attendre" tandis que ''to attend'' signifie "assister à (un événement)".
+[i]Exemple : [color=#0000FF]Je dois attendre mon ami ici.[/color] [color=#008000](I have to wait for my friend here.)[/color][/i]
+[i]Exemple : [color=#0000FF]I will attend the meeting tomorrow.[/color] [color=#008000](Je vais assister à la réunion demain.)[/color][/i]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]3. Identifier et éviter les faux amis[/color][/font_size]
+
+Pour éviter les erreurs causées par les faux amis, il est essentiel :
+
+[indent]• De toujours vérifier le sens des mots similaires dans un dictionnaire bilingue fiable.
+[i]Exemple : [color=#0000FF]La traduction efficace des faux amis demande de la prudence.[/color] [color=#008000](The effective translation of false friends requires caution.)[/color][/i]
+
+- De faire attention au contexte dans lequel les mots sont utilisés.
+[i]Exemple : [color=#0000FF]Le contexte aide à déterminer la signification exacte.[/color] [color=#008000](Context helps to determine the exact meaning.)[/color][/i]
+
+- D’apprendre progressivement les faux amis et d’essayer de les utiliser correctement dans des phrases.
+[i]Exemple : [color=#0000FF]Évitez de confondre les faux amis en pratiquant régulièrement.[/color] [color=#008000](Avoid confusing false friends by practicing regularly.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les faux amis ont des formes similaires mais des significations différentes dans deux langues.
+[color=#FF0000]2.[/color] Vérifiez toujours le sens précis d’un mot pour éviter les erreurs.
+[color=#FF0000]3.[/color] Prenez en compte le contexte pour bien comprendre et utiliser les mots.
+[color=#FF0000]4.[/color] Pratiquez régulièrement pour maîtriser les faux amis et améliorer votre anglais.[/indent]
+
+[center][font_size=18][color=#808080]Pratiquez régulièrement pour éviter les pièges des faux amis et rendre votre anglais plus fluide et exact ![/color][/font_size][/center]

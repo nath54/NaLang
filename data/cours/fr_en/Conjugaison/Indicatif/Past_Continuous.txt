@@ -1,1 +1,65 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Past Continuous en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Past Continuous est utilisé en anglais pour parler d'actions en cours à un moment précis dans le passé. Il permet de décrire la durée ou la continuité d'une action passée et se forme en combinant l'auxiliaire "be" au passé avec le verbe principal au participe présent (forme en -ing).
+
+[font_size=24][color=#4B0082]1. Structure du Past Continuous[/color][/font_size]
+
+Pour former le Past Continuous, on utilise :
+
+[b]a) L'auxiliaire "be" au passé[/b]
+[indent]Les formes passées de "be" sont :
+[code]
+was [color=#008000](pour les sujets I, he, she, it)[/color]
+were [color=#008000](pour les sujets you, we, they)[/color]
+[/code]
+
+[b]b) Le verbe principal au participe présent[/b]
+[indent]On ajoute -ing à la base verbale :
+
+[i]Exemple : [color=#0000FF]to play (jouer) → playing[/color][/i][/indent][/indent]
+
+[b]c) Structure générale[/b]
+[indent][code]
+Sujet + "was/were" + verbe-ing
+[/code]
+
+[i]Exemple : [color=#0000FF]I was playing (Je jouais).[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Past Continuous[/color][/font_size]
+
+Le Past Continuous s'emploie dans plusieurs contextes pour décrire des actions passées.
+
+[indent]• Pour indiquer une action en cours à un moment précis dans le passé.
+[i]Exemple : [color=#0000FF]At 8 PM, I was eating dinner.[font_size=18pt](À 20h, je dînais.)[/font_size][/color][/i]
+
+- Pour décrire des actions interrompues par une autre action passée, souvent exprimée au past simple.
+[i]Exemple : [color=#0000FF]I was reading a book when he called.[font_size=18pt](Je lisais un livre quand il a appelé.)[/font_size][/color][/i]
+
+- Pour montrer deux actions qui se déroulent en même temps dans le passé.
+[i]Exemple : [color=#0000FF]While she was cooking, he was watching TV.[font_size=18pt](Pendant qu'elle cuisinait, il regardait la télévision.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Mots-clés et Indicateurs de Temps[/color][/font_size]
+
+Certains mots et expressions de temps sont souvent utilisés avec le Past Continuous pour indiquer la simultanéité ou la durée.
+
+[indent]• While (pendant que)
+[i]Exemple : [color=#0000FF]While I was working, they were playing.[font_size=18pt](Pendant que je travaillais, ils jouaient.)[/font_size][/color][/i]
+
+- At that moment (à ce moment-là)
+[i]Exemple : [color=#0000FF]At that moment, I was thinking about my future.[font_size=18pt](À ce moment-là, je pensais à mon avenir.)[/font_size][/color][/i]
+
+- When (quand), souvent utilisé pour introduire l'action au past simple qui interrompt l'action en cours.
+[i]Exemple : [color=#0000FF]When the phone rang, I was writing a letter.[font_size=18pt](Quand le téléphone a sonné, j'écrivais une lettre.)[/font_size][/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Past Continuous décrit des actions en cours à un moment précis dans le passé.
+[color=#FF0000]2.[/color] La structure est composée de "was/were" + verbe-ing.
+[color=#FF0000]3.[/color] Utilisez le Past Continuous pour des actions simultanées ou interrompues par une action brusque.
+[color=#FF0000]4.[/color] Les mots-clés comme "while", "when" et "at that moment" sont souvent des indicateurs d'utilisation du Past Continuous.[/indent]
+
+[center][font_size=18][color=#808080]Utiliser le Past Continuous rend vos descriptions du passé plus vivantes et détaillées![/color][/font_size][/center]

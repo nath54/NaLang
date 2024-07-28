@@ -1,1 +1,49 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Zero Conditional en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Zero Conditional est utilisé en anglais pour parler de faits généraux, de vérités universelles et d'actions qui sont toujours vraies si une certaine condition est remplie. Il se compose de deux parties : la proposition conditionnelle (si) et la proposition principale (alors).
+
+[font_size=24][color=#4B0082]1. Structure du Zero Conditional[/color][/font_size]
+
+La structure du Zero Conditional est assez simple. Elle se compose de deux clauses :
+[b]If + [présent simple], [présent simple][/b]
+
+[indent]Voici quelques exemples pour illustrer cette structure :
+[code]
+[i]If you heat water to 100 degrees Celsius, it boils.[/i] [color=#008000](Si vous chauffez de l'eau à 100 degrés Celsius, elle bout.)[/color]
+[i]If it rains, the grass gets wet.[/i] [color=#008000](S'il pleut, l'herbe est mouillée.)[/color]
+[i]If you mix red and blue, you get purple.[/i] [color=#008000](Si vous mélangez du rouge et du bleu, vous obtenez du violet.)[/color]
+[/code][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Zero Conditional[/color][/font_size]
+
+Le Zero Conditional est utilisé pour parler de situations générales où la condition et le résultat sont toujours vrais. Il se distingue des autres types de conditionnels par le fait qu'il exprime des vérités universelles et des lois scientifiques ou des habitudes.
+
+[b]Vérités Universelles[/b]
+[indent][i]Exemple : [color=#0000FF]If you freeze water, it turns into ice.[/color] [color=#008000](Si vous congelez de l'eau, elle se transforme en glace.)[/color][/i][/indent]
+
+[b]Lois Scientifiques[/b]
+[indent][i]Exemple : [color=#0000FF]If you drop an object, it falls.[/color] [color=#008000](Si vous laissez tomber un objet, il tombe.)[/color][/i][/indent]
+
+[b]Habitudes[/b]
+[indent][i]Exemple : [color=#0000FF]If I have a headache, I take an aspirin.[/color] [color=#008000](Si j'ai mal à la tête, je prends une aspirine.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Comparaison avec d'autres conditionnels[/color][/font_size]
+
+Il est important de ne pas confondre le Zero Conditional avec les autres types de conditionnels (first, second, third). Le Zero Conditional se distingue par l'utilisation du présent simple dans les deux propositions et par le fait qu'il décrit des vérités générales et des situations qui sont toujours vraies.
+
+[indent][i]Exemple : [color=#0000FF]If you add two and two, you get four.[/color] [color=#008000](Si vous ajoutez deux et deux, vous obtenez quatre.)[/color][/i]
+Contrairement au First Conditional qui décrit des situations possibles dans le futur :
+[i]Exemple : [color=#0000FF]If it rains tomorrow, we will cancel the picnic.[/color] [color=#008000](S'il pleut demain, nous annulerons le pique-nique.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Zero Conditional est utilisé pour exprimer des vérités générales et des lois scientifiques.
+[color=#FF0000]2.[/color] La structure est : If + présent simple, présent simple.
+[color=#FF0000]3.[/color] Ce type de conditionnel est différent des autres car il parle de choses qui sont toujours vraies.
+[color=#FF0000]4.[/color] Les exemples incluent des situations telles que des vérités universelles, des lois scientifiques et des habitudes.[/indent]
+
+[center][font_size=18][color=#808080]En maîtrisant le Zero Conditional, vous améliorerez la précision et la clarté de votre expression en anglais ![/color][/font_size][/center]

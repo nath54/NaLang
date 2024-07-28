@@ -1,1 +1,81 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Phrasal Verbs en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les phrasal verbs sont des verbes composés, typiques de la langue anglaise, où un verbe est combiné avec une particule (préposition ou adverbe) pour créer une nouvelle signification. Comprendre et utiliser les phrasal verbs vous permettra de parler anglais de manière plus fluide et naturelle.
+
+[font_size=24][color=#4B0082]1. Structure de base des phrasal verbs[/color][/font_size]
+
+Un phrasal verb est constitué de deux ou trois mots : un verbe principal et une particule (ou deux). Voici les types de phrasal verbs les plus courants :
+
+[b]a) Phrasal verbs intransitifs[/b]
+[indent]Les phrasal verbs intransitifs n'ont pas de complément d'objet direct.
+[code]
+Break down [color=#008000](Tomber en panne)[/color]
+Get up [color=#008000](Se lever)[/color]
+Come over [color=#008000](Venir)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]My car broke down.[font_size=18pt](Ma voiture est tombée en panne.)[/font_size][/color] [color=#008000](My car broke down.)[/color][/i][/indent]
+
+[b]b) Phrasal verbs transitifs[/b]
+[indent]Les phrasal verbs transitifs nécessitent un complément d'objet direct. Certains d'entre eux sont séparables, d'autres non.
+[code]
+Find out [color=#008000](Découvrir)[/color]
+Give up [color=#008000](Abandonner)[/color]
+Put off [color=#008000](Reporter)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]She found out the truth.[font_size=18pt](Elle a découvert la vérité.)[/font_size][/color] [color=#008000](She found out the truth.)[/color][/i]
+
+- Phrasal verbs séparables
+[indent]Les phrasal verbs séparables peuvent avoir le complément d'objet placé entre le verbe et la particule.
+[code]
+Turn off (éteindre)
+Example: [color=#0000FF]Turn off the light.[font_size=18pt](Éteins la lumière.)[/font_size][/color] [color=#008000](Turn off the light.)[/color]
+Example: [color=#0000FF]Turn the light off.[font_size=18pt](Éteins la lumière.)[/font_size][/color] [color=#008000](Turn the light off.)[/color]
+[/code][/indent]
+
+- Phrasal verbs inséparables
+[indent]Les phrasal verbs inséparables ne peuvent pas séparer le verbe et la particule par le complément d'objet.
+[code]
+Look after (prendre soin de)
+Example: [color=#0000FF]Look after the baby.[font_size=18pt](Prends soin du bébé.)[/font_size][/color] [color=#008000](Look after the baby.)[/color]
+Example: [color=#0000FF]She looks after her sister.[font_size=18pt](Elle prend soin de sa sœur.)[/font_size][/color] [color=#008000](She looks after her sister.)[/color]
+[/code][/indent][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation des phrasal verbs[/color][/font_size]
+
+Les phrasal verbs s'utilisent comme des verbes normaux mais ajoutent souvent une nuance précise ou idiomatique à l'action qu'ils décrivent. Voici quelques conseils et exemples pour bien les utiliser :
+
+[indent]• Utiliser des phrasal verbs pour simplifier des phrases complexes :
+[i]Exemple : [color=#0000FF]He handed in his assignment.[font_size=18pt](Il a rendu son devoir.)[/font_size][/color] [color=#008000](He handed in his assignment.)[/color][/i]
+
+- Remplacer des verbes formels par des phrasal verbs pour un langage plus courant :
+[i]Exemple : [color=#0000FF]She turned down the offer.[font_size=18pt](Elle a refusé l'offre.)[/font_size][/color] [color=#008000](She turned down the offer.)[/color][/i]
+
+- Prendre note des changements de sens entre le verbe seul et le phrasal verb :
+[i]Exemple : [color=#0000FF]She ran out of time.[font_size=18pt](Elle a manqué de temps.)[/font_size][/color] [color=#008000](She ran out of time.)[/color] vs. [color=#0000FF]She ran out.[font_size=18pt](Elle est sortie en courant.)[/font_size][/color] [color=#008000](She ran out.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
+
+Pour certaines expressions, la compréhension du contexte est essentielle pour interpréter correctement le sens du phrasal verb. Voici quelques phrasal verbs contextuellement sensibles avec des exemples :
+
+[indent]• Set up
+[i]Exemple : [color=#0000FF]He set up the equipment.[font_size=18pt](Il a installé le matériel.)[/font_size][/color] [color=#008000](He set up the equipment.)[/color]
+[i]Exemple : [color=#0000FF]It was a set up![font_size=18pt](C'était un coup monté !)[/font_size][/color] [color=#008000](It was a set up!)[/color][/i]
+
+- Take off
+[i]Exemple : [color=#0000FF]The plane took off.[font_size=18pt](L'avion a décollé.)[/font_size][/color] [color=#008000](The plane took off.)[/color]
+[i]Exemple : [color=#0000FF]He took off his coat.[font_size=18pt](Il a enlevé son manteau.)[/font_size][/color] [color=#008000](He took off his coat.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les phrasal verbs combinent des verbes avec des particules pour former de nouvelles significations.
+[color=#FF0000]2.[/color] Certains phrasal verbs sont intransitifs, d'autres sont transitifs (séparables ou non).
+[color=#FF0000]3.[/color] Utilisez des phrasal verbs pour rendre votre anglais plus courant et naturel.
+[color=#FF0000]4.[/color] Comprenez bien le contexte pour interpréter correctement les phrasal verbs.[/indent]
+
+[center][font_size=18][color=#808080]Mastering phrasal verbs will make your English sound more natural and idiomatic![/color][/font_size][/center]

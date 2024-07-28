@@ -1,1 +1,100 @@
- 
+[font_size=30][center][b][color=#0000FF]La Construction de la Phrase en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Comprendre la construction des phrases en anglais est essentiel pour parler et écrire correctement. Les phrases en anglais suivent généralement un ordre spécifique des mots, ce qui les rend différentes de nombreuses autres langues.
+
+[font_size=24][color=#4B0082]1. Structure de base de la phrase[/color][/font_size]
+
+La structure de base d'une phrase en anglais est Suj+Verbe+Objet (SVO). Voici les éléments principaux :
+
+[b]a) Sujet (Subject)[/b]
+[indent]Le sujet est la personne ou la chose qui effectue l'action de la phrase.
+[code]
+I (je)
+You (tu, vous)
+He/She/It (il/elle)
+We (nous)
+They (ils/elles)
+[/code]
+
+[i]Exemple : [color=#0000FF]She runs.[font_size=18pt](Elle court.)[/font_size][/color] [color=#008000](Elle court.)[/color][/i][/indent]
+
+[b]b) Verbe (Verb)[/b]
+[indent]Le verbe indique l'action ou l'état du sujet.
+[code]
+run (courir)
+eat (manger)
+is (être)
+have (avoir)
+[/code]
+
+[i]Exemple : [color=#0000FF]They eat.[font_size=18pt](Ils mangent.)[/font_size][/color] [color=#008000](Ils mangent.)[/color][/i][/indent]
+
+[b]c) Objet (Object)[/b]
+[indent]L'objet reçoit l'action du verbe.
+[code]
+apple (pomme)
+car (voiture)
+dog (chien)
+book (livre)
+[/code]
+
+[i]Exemple : [color=#0000FF]He reads a book.[font_size=18pt](Il lit un livre.)[/font_size][/color] [color=#008000](Il lit un livre.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Phrases complexes[/color][/font_size]
+
+En plus de la structure de base, les phrases en anglais peuvent être enrichies avec différents compléments et informations.
+
+[indent]• Adjectifs et adverbes
+[indent]Les adjectifs décrivent les noms, et les adverbes modifient les verbes.
+[code]
+beautiful (beau/belle) [color=#008000](adjectif)[/color]
+quickly (rapidement) [color=#008000](adverbe)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]They run quickly.[font_size=18pt](Ils courent rapidement.)[/font_size][/color] [color=#008000](Ils courent rapidement.)[/color][/i]
+
+- Prépositions
+Les prépositions relient les noms et les verbes à d'autres éléments de la phrase.
+[code]
+in (dans)
+on (sur)
+at (à)
+with (avec)
+[/code]
+
+[i]Exemple : [color=#0000FF]She sits on the chair.[font_size=18pt](Elle est assise sur la chaise.)[/font_size][/color] [color=#008000](Elle est assise sur la chaise.)[/color][/i][/indent][/indent]
+
+[font_size=24][color=#4B0082]3. Phrases interrogatives et négatives[/color][/font_size]
+
+La construction des phrases interrogatives et négatives suit aussi des règles spécifiques.
+
+[indent]• Phrases interrogatives
+[indent]Pour poser des questions, on utilise souvent l'inversion Sujet-Verbe ou des auxiliaires.
+[code]
+Do you eat? (Est-ce que tu manges ?)
+Is he here? (Est-il ici ?)
+[/code]
+
+[i]Exemple : [color=#0000FF]Does she run? [font_size=18pt](Est-ce qu'elle court ?)[/font_size][/color] [color=#008000](Est-ce qu'elle court ?)[/color][/i]
+
+- Phrases négatives
+Pour nier une phrase, on utilise "not" avec un auxiliaire.
+[code]
+do not (ne pas) -> don't
+is not (n'est pas) -> isn't
+[/code]
+
+[i]Exemple : [color=#0000FF]They do not eat. [font_size=18pt](Ils ne mangent pas.)[/font_size][/color] [color=#008000](Ils ne mangent pas.)[/color][/i][/indent][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] La structure de base des phrases en anglais est Suj+Verbe+Objet (SVO).
+[color=#FF0000]2.[/color] Les phrases peuvent être enrichies par des adjectifs, adverbes et prépositions.
+[color=#FF0000]3.[/color] Les phrases interrogatives et négatives nécessitent des auxiliaires et des transformations spécifiques.
+[color=#FF0000]4.[/color] Comprendre la structure de la phrase en anglais est crucial pour une expression claire et correcte.[/indent]
+
+[center][font_size=18][color=#808080]Master the construction of sentences to improve your English fluency![/color][/font_size][/center]

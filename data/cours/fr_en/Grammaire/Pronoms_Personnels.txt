@@ -1,1 +1,68 @@
- 
+[font_size=30][center][b][color=#0000FF]Les Pronoms Personnels en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Les pronoms personnels sont des mots qui servent à remplacer les noms propres et les noms communs dans une phrase. Ils permettent d'éviter les répétitions et de rendre les phrases plus fluides et naturelles. En anglais, ils se divisent en deux catégories principales : les pronoms sujets et les pronoms objets.
+
+[font_size=24][color=#4B0082]1. Les Pronoms Sujets[/color][/font_size]
+
+Les pronoms sujets remplacent le sujet d'une phrase et indiquent qui fait l'action. Voici une liste des pronoms sujets en anglais :
+
+[code]
+I [color=#008000](je)[/color]
+You [color=#008000](tu / vous)[/color]
+He [color=#008000](il, pour un homme)[/color]
+She [color=#008000](elle, pour une femme)[/color]
+It [color=#008000](il/elle, pour une chose ou un animal)[/color]
+We [color=#008000](nous)[/color]
+They [color=#008000](ils/elles)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]She is a teacher.[font_size=18pt] (Elle est enseignante.)[/font_size][/color] [color=#008000](Elle est enseignante.)[/color][/i]
+
+[font_size=24][color=#4B0082]2. Les Pronoms Objets[/color][/font_size]
+
+Les pronoms objets remplacent l'objet direct ou indirect d'une phrase et indiquent sur qui ou sur quoi l'action est effectuée. Voici une liste des pronoms objets en anglais :
+
+[code]
+Me [color=#008000](me/moi)[/color]
+You [color=#008000](te/toi/vous)[/color]
+Him [color=#008000](le/lui, pour un homme)[/color]
+Her [color=#008000](la/lui, pour une femme)[/color]
+It [color=#008000](le/la, pour une chose ou un animal)[/color]
+Us [color=#008000](nous)[/color]
+Them [color=#008000](les/leur)[/color]
+[/code]
+
+[i]Exemple : [color=#0000FF]I saw him at the store.[font_size=18pt] (Je l'ai vu au magasin.)[/font_size][/color] [color=#008000](Je l'ai vu au magasin.)[/color][/i]
+
+[font_size=24][color=#4B0082]3. Utilisation des Pronoms Personnels[/color][/font_size]
+
+En anglais, il est essentiel d'utiliser correctement les pronoms personnels pour que les phrases soient grammaticalement correctes et faciles à comprendre. Voici quelques règles clés à suivre :
+
+[indent]• Assurez-vous que le pronom sujet correspond au verbe en termes de nombre (singulier ou pluriel) et de personne.
+[i]Exemple : [color=#0000FF]They are playing.[font_size=18pt] (Ils jouent.)[/font_size][/color] [color=#008000](Ils jouent.)[/color][/i]
+
+- Utilisez les pronoms objets après un verbe ou une préposition.
+[i]Exemple : [color=#0000FF]Can you help me?[font_size=18pt] (Peux-tu m'aider ?)[/font_size][/color] [color=#008000](Peux-tu m'aider ?)[/color][/i]
+
+- N’oubliez pas que "it" peut être utilisé pour des objets, des animaux ou des concepts abstraits.
+[i]Exemple : [color=#0000FF]I found it interesting.[font_size=18pt] (Je l'ai trouvé intéressant.)[/font_size][/color] [color=#008000](Je l'ai trouvé intéressant.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]4. Pronoms de Politesse et de Neutralité[/color][/font_size]
+
+En anglais, "you" est utilisé à la fois pour le singulier et le pluriel, ainsi que pour des formes formelles et informelles. De plus, "they" peut être utilisé comme pronom singulier neutre pour éviter les ambiguïtés de genre, ce qui est de plus en plus accepté dans l'usage contemporain.
+
+[indent]• Utilisation de "they" comme pronom singulier neutre.
+[i]Exemple : [color=#0000FF]Someone left their umbrella here.[font_size=18pt] (Quelqu'un a laissé son parapluie ici.)[/font_size][/color] [color=#008000](Quelqu'un a laissé son parapluie ici.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Les pronoms personnels remplacent les noms pour éviter les répétitions.
+[color=#FF0000]2.[/color] Les pronoms sujets sont utilisés pour indiquer qui fait l'action.
+[color=#FF0000]3.[/color] Les pronoms objets indiquent sur qui ou sur quoi l'action est effectuée.
+[color=#FF0000]4.[/color] "You" peut être singulier ou pluriel, et "they" peut être utilisé comme pronom singulier neutre pour éviter les ambiguïtés de genre.[/indent]
+
+[center][font_size=18][color=#808080]Utiliser correctement les pronoms personnels rend votre anglais plus précis et naturel ![/color][/font_size][/center]

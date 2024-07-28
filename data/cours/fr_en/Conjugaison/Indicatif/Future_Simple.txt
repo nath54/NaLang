@@ -1,1 +1,74 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Future Simple en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Future Simple est utilisé en anglais pour parler d'actions futures. Ce temps est employé pour exprimer des décisions instantanées, des prédictions ou des événements futurs.
+
+[font_size=24][color=#4B0082]1. Formation du Future Simple[/color][/font_size]
+
+Pour former le Future Simple, il suffit d'utiliser l'auxiliaire "will" suivi de la base verbale.
+
+[b]a) Affirmative[/b]
+[indent]La structure de base est :
+[code]
+Sujet + will + base verbale
+[/code]
+
+[i]Exemple : [color=#0000FF]I will go to the market tomorrow.[/color] [color=#008000](J'irai au marché demain.)[/color][/i][/indent]
+
+[b]b) Négative[/b]
+[indent]Pour former la négation, on utilise "will not" ou sa contraction "won't" suivi de la base verbale.
+[code]
+Sujet + will not / won't + base verbale
+[/code]
+
+[i]Exemple : [color=#0000FF]She will not (won't) attend the meeting.[/color] [color=#008000](Elle n'assistera pas à la réunion.)[/color][/i][/indent]
+
+[b]c) Interrogative[/b]
+[indent]Pour poser une question, on inverse le sujet et "will" :
+[code]
+Will + sujet + base verbale ?
+[/code]
+
+[i]Exemple : [color=#0000FF]Will they arrive on time?[/color] [color=#008000](Arriveront-ils à l'heure ?)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Future Simple[/color][/font_size]
+
+Le Future Simple est utilisé dans plusieurs contextes pour exprimer des actions futures.
+
+[indent]• Pour exprimer des décisions ou actions prises au moment où l'on parle.
+[i]Exemple : [color=#0000FF]I'll answer the phone.[/color] [color=#008000](Je vais répondre au téléphone.)[/color][/i]
+
+- Pour exprimer des prédictions ou des événements futurs sur lesquels on a peu de contrôle.
+[i]Exemple : [color=#0000FF]It will rain tomorrow.[/color] [color=#008000](Il pleuvra demain.)[/color][/i]
+
+- Pour exprimer des promesses, des offres ou des menaces.
+[i]Exemple : [color=#0000FF]I will help you with your homework.[/color] [color=#008000](Je t'aiderai avec tes devoirs.)[/color][/i]
+
+- Pour parler d'événements futurs que l'on considère comme certains.
+[i]Exemple : [color=#0000FF]She will turn 18 next week.[/color] [color=#008000](Elle aura 18 ans la semaine prochaine.)[/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Expressions courantes avec le Future Simple[/color][/font_size]
+
+Certaines expressions sont couramment utilisées avec le Future Simple pour renforcer l'idée d'un futur certain ou probable.
+
+[indent]• [i]I think / I suppose / I believe + sujet + will + base verbale[/i]
+[i]Exemple : [color=#0000FF]I think she will come to the party.[/color] [color=#008000](Je pense qu'elle viendra à la fête.)[/color][/i]
+
+- [i]Be sure that + sujet + will + base verbale[/i]
+[i]Exemple : [color=#0000FF]Be sure that they will support you.[/color] [color=#008000](Soyez sûr qu'ils vous soutiendront.)[/color][/i]
+
+- [i]Probably / Definitely / Certainly + sujet + will + base verbale[/i]
+[i]Exemple : [color=#0000FF]They will probably arrive late.[/color] [color=#008000](Ils arriveront probablement en retard.)[/color][/i][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Future Simple s'emploie pour parler d'actions futures, des prédictions ou des décisions prises sur le moment.
+[color=#FF0000]2.[/color] La structure de base est : Sujet + will + base verbale.
+[color=#FF0000]3.[/color] On utilise "will not" ou "won't" pour former la négation.
+[color=#FF0000]4.[/color] Pour les questions, on inverse "will" et le sujet.
+[color=#FF0000]5.[/color] Le Future Simple est souvent employé avec des expressions comme "I think", "probably", "be sure that", etc.[/indent]
+
+[center][font_size=18][color=#808080]Utilisez correctement le Future Simple pour exprimer vos actions futures en anglais ![/color][/font_size][/center]

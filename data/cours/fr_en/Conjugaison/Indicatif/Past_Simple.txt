@@ -1,1 +1,81 @@
- 
+[font_size=30][center][b][color=#0000FF]Le Past Simple en Anglais[/color][/b][/center][/font_size]
+
+[center][color=#808080]__________[/color][/center]
+
+Le Past Simple (passé simple) est l'un des temps les plus couramment utilisés en anglais pour décrire des actions qui se sont terminées dans le passé. Il est essentiel de maîtriser ce temps pour raconter des histoires, parler d'événements passés et exprimer des faits historiques.
+
+[font_size=24][color=#4B0082]1. Formation du Past Simple[/color][/font_size]
+
+Le Past Simple se forme différemment pour les verbes réguliers et irréguliers.
+
+[b]a) Verbes réguliers[/b]
+[indent]Pour les verbes réguliers, il suffit d'ajouter [color=#008000]-ed[/color] à la base verbale.
+
+[code]
+To work (travailler) → worked (travaillé)
+To play (jouer) → played (joué)
+To listen (écouter) → listened (écouté)
+[/code]
+
+[i]Exemple : [color=#0000FF]She worked late yesterday.[font_size=18pt](Elle a travaillé tard hier.)[/font_size][/color][/i][/indent]
+
+[b]b) Verbes irréguliers[/b]
+[indent]Les verbes irréguliers ont des formes spécifiques qui doivent être mémorisées, car ils ne suivent pas de règle fixe.
+
+[code]
+To go (aller) → went (allé)
+To have (avoir) → had (eu)
+To see (voir) → saw (vu)
+[/code]
+
+[i]Exemple : [color=#0000FF]He went to the store last week.[font_size=18pt](Il est allé au magasin la semaine dernière.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]2. Utilisation du Past Simple[/color][/font_size]
+
+Le Past Simple est utilisé pour parler d'actions qui se sont terminées à un moment spécifique dans le passé.
+
+[indent]• Actions ponctuelles dans le passé
+[i]Exemple : [color=#0000FF]I met him two days ago.[font_size=18pt](Je l'ai rencontré il y a deux jours.)[/font_size][/color][/i]
+
+- Actions répétées ou habituelles dans le passé
+[i]Exemple : [color=#0000FF]They visited their grandparents every summer.[font_size=18pt](Ils rendaient visite à leurs grands-parents chaque été.)[/font_size][/color][/i]
+
+- Faits ou vérités générales sur le passé
+[i]Exemple : [color=#0000FF]He was a famous scientist.[font_size=18pt](Il était un scientifique célèbre.)[/font_size][/color][/i][/indent]
+
+[font_size=24][color=#4B0082]3. Formation des phrases négatives et interrogatives[/color][/font_size]
+
+Pour former des phrases négatives et des questions au Past Simple, on utilise l'auxiliaire [color=#FF0000]did[/color] et sa forme négative [color=#FF0000]did not[/color] (didn't).
+
+[indent]• Phrases négatives
+[indent]La structure est : [color=#FF0000]Sujet + did not (didn't) + base verbale[/color].
+
+[i]Exemple : [color=#0000FF]She didn't eat breakfast this morning.[font_size=18pt](Elle n'a pas pris de petit déjeuner ce matin.)[/font_size][/color][/i][/indent]
+
+- Questions
+[indent]La structure est : [color=#FF0000]Did + sujet + base verbale[/color] ?
+
+[i]Exemple : [color=#0000FF]Did they watch the movie yesterday?[font_size=18pt](Ont-ils regardé le film hier ?)[/font_size][/color][/i][/indent][/indent]
+
+[font_size=24][color=#4B0082]4. Mots et expressions de temps souvent utilisés avec le Past Simple[/color][/font_size]
+
+Certains mots et expressions de temps sont fréquemment utilisés avec le Past Simple pour indiquer le moment précis où l'action s'est produite :
+
+[indent][code]
+Yesterday (hier)
+Last (dernier/dernière) - e.g., last week (la semaine dernière), last year (l'année dernière)
+Ago (il y a) - e.g., two days ago (il y a deux jours)
+In [year] (en [année]) - e.g., in 1999 (en 1999)
+When (quand)
+[/code][/indent]
+
+[center][color=#808080]__________[/color][/center]
+
+[font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
+
+[indent][color=#FF0000]1.[/color] Le Past Simple décrit des actions terminées dans le passé.
+[color=#FF0000]2.[/color] Ajoutez [color=#FF0000]-ed[/color] pour les verbes réguliers; mémorisez les formes irrégulières.
+[color=#FF0000]3.[/color] Utilisez [color=#FF0000]did[/color] pour former des phrases négatives et des questions.
+[color=#FF0000]4.[/color] Des mots comme "yesterday", "last week", et "ago" sont souvent utilisés avec le Past Simple.[/indent]
+
+[center][font_size=18][color=#808080]Master the Past Simple to tell your stories with confidence! (Maîtrisez le Past Simple pour raconter vos histoires avec confiance!)[/color][/font_size][/center]
