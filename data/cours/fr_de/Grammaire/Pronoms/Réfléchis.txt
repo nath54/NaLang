@@ -8,15 +8,15 @@ Les pronoms réfléchis sont utilisés en allemand pour indiquer que le sujet d'
 
 Les pronoms réfléchis en allemand varient selon la personne grammaticale et le cas (accusatif ou datif). Voici un tableau récapitulatif pour les principales personnes grammaticales :
 
-[table]
-[tr][th]Personne[/th][th]Accusatif[/th][th]Datif[/th][/tr]
-[tr][td]Je (ich)[/td][td]mich[/td][td]mir[/td][/tr]
-[tr][td]Tu (du)[/td][td]dich[/td][td]dir[/td][/tr]
-[tr][td]Il/Elle (er/sie/es)[/td][td]sich[/td][td]sich[/td][/tr]
-[tr][td]Nous (wir)[/td][td]uns[/td][td]uns[/td][/tr]
-[tr][td]Vous (ihr)[/td][td]euch[/td][td]euch[/td][/tr]
-[tr][td]Ils/Elles (sie/Sie)[/td][td]sich[/td][td]sich[/td][/tr]
-[/table]
+
+Personne - Accusatif - Datif
+•Je (ich) - mich - mir
+•Tu (du) - dich - dir
+•Il/Elle (er/sie/es) - sich - sich
+•Nous (wir) - uns - uns
+•Vous (ihr) - euch - euch
+•Ils/Elles (sie/Sie) - sich - sich
+
 
 [font_size=24][color=#4B0082]2. Utilisation des pronoms réfléchis[/color][/font_size]
 

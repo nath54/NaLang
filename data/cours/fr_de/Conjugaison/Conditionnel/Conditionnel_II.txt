@@ -43,27 +43,27 @@ gehen (aller) -> gegangen [color=#008000](allé)[/color]
 sujet + auxiliaire (haben/sein) au subjonctif II + participe passé.
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich hätte das Buch gelesen.[/font_size] [color=#008000](J'aurais lu le livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich hätte das Buch gelesen.[/color] [color=#008000](J'aurais lu le livre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du Conditionnel II[/color][/font_size]
 
 Le conditionnel II s'utilise pour exprimer des situations hypothétiques dans le passé, des regrets ou des actions irréelles. Voici quelques règles et exemples pour bien comprendre son utilisation.
 
 [indent]• Pour exprimer des regrets ou des souhaits non réalisés dans le passé.
-[i]Exemple : [color=#0000FF]Ich wäre gern nach Deutschland gereist.[/font_size] [color=#008000](J'aurais aimé voyager en Allemagne.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich wäre gern nach Deutschland gereist.[/color] [color=#008000](J'aurais aimé voyager en Allemagne.)[/color][/i]
 
 - Pour exprimer des actions qui auraient pu se produire dans une situation hypothétique.
-[i]Exemple : [color=#0000FF]Wenn ich mehr Zeit gehabt hätte, hätte ich dir geholfen.[/font_size] [color=#008000](Si j'avais eu plus de temps, je t'aurais aidé.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wenn ich mehr Zeit gehabt hätte, hätte ich dir geholfen.[/color] [color=#008000](Si j'avais eu plus de temps, je t'aurais aidé.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Il est important de noter que l'auxiliaire à utiliser (haben ou sein) dépend du verbe principal, tout comme dans les temps composés. Les verbes de mouvement et de changement d'état utilisent "sein" comme auxiliaire, alors que la plupart des autres verbes utilisent "haben".
 
 [indent]• Utilisation de "haben"
-[i]Exemple : [color=#0000FF]Ich hätte den Kuchen gegessen.[/font_size] [color=#008000](J'aurais mangé le gâteau.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich hätte den Kuchen gegessen.[/color] [color=#008000](J'aurais mangé le gâteau.)[/color][/i]
 
 - Utilisation de "sein"
-[i]Exemple : [color=#0000FF]Ich wäre nach Hause gegangen.[/font_size] [color=#008000](Je serais allé à la maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich wäre nach Hause gegangen.[/color] [color=#008000](Je serais allé à la maison.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

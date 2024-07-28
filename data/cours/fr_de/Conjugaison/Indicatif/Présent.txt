@@ -12,12 +12,12 @@ En allemand, la conjugaison des verbes au présent suit certaines règles basiqu
 [indent]Pour conjuguer un verbe régulier au présent, on prend le radical du verbe et on ajoute les terminaisons spécifiques aux personnes.
 [code]
 Manger (essen):
-[center][table][tr][td]je mange : ich esse[/td][/tr]
-[tr][td]tu manges : du isst[/td][/tr]
-[tr][td]il/elle mange : er/sie/es isst[/td][/tr]
-[tr][td]nous mangeons : wir essen[/td][/tr]
-[tr][td]vous mangez : ihr esst[/td][/tr]
-[tr][td]ils/elles mangent : sie/Sie essen[/td][/tr][/table][/center]
+[indent]•je mange : ich esse
+•tu manges : du isst
+•il/elle mange : er/sie/es isst
+•nous mangeons : wir essen
+•vous mangez : ihr esst
+•ils/elles mangent : sie/Sie essen[/indent]
 [/code]
 Exemple : [color=#0000FF]Ich lerne Deutsch.[font_size=18pt](Je apprends allemand.)[/font_size][/color] [color=#008000](Je viens d'apprendre l'allemand.)[/color][/indent]
 
@@ -25,29 +25,29 @@ Exemple : [color=#0000FF]Ich lerne Deutsch.[font_size=18pt](Je apprends allemand
 [indent]Les verbes irréguliers changent souvent de radical lorsqu'ils sont conjugués. Il est important de les apprendre par cœur.
 [code]
 Aller (gehen):
-[center][table][tr][td]je vais : ich gehe[/td][/tr]
-[tr][td]tu vas : du gehst[/td][/tr]
-[tr][td]il/elle va : er/sie/es geht[/td][/tr]
-[tr][td]nous allons : wir gehen[/td][/tr]
-[tr][td]vous allez : ihr geht[/td][/tr]
-[tr][td]ils/elles vont : sie/Sie gehen[/td][/tr][/table][/center]
+[indent]•je vais : ich gehe
+•tu vas : du gehst
+•il/elle va : er/sie/es geht
+•nous allons : wir gehen
+•vous allez : ihr geht
+•ils/elles vont : sie/Sie gehen[/indent]
 [/code]
 
-Exemple : [color=#0000FF]Er spricht gut Deutsch.[font_size=18pt](Il parle bien allemand.)[/font_size][/color] [color=#008000](Il parle bien l'allemand.)[/indent]
+Exemple : [color=#0000FF]Er spricht gut Deutsch.[/color][color=#008000](Il parle bien l'allemand.)[/color][/indent]
 
 [b]c) Verbes de modalité[/b]
 [indent]Les verbes de modalité (comme können (pouvoir), müssen (devoir), wollen (vouloir)) ont des formes particulières et souvent irrégulières. Ces verbes sont suivis d'un infinitif.
 [code]
 Pouvoir (können):
-[center][table][tr][td]je peux : ich kann[/td][/tr]
-[tr][td]tu peux : du kannst[/td][/tr]
-[tr][td]il/elle peut : er/sie/es kann[/td][/tr]
-[tr][td]nous pouvons : wir können[/td][/tr]
-[tr][td]vous pouvez : ihr könnt[/td][/tr]
-[tr][td]ils/elles peuvent : sie/Sie können[/td][/tr][/table][/center]
+[indent]•je peux : ich kann
+•tu peux : du kannst
+•il/elle peut : er/sie/es kann
+•nous pouvons : wir können
+•vous pouvez : ihr könnt
+•ils/elles peuvent : sie/Sie können[/indent]
 [/code]
 
-Exemple : [color=#0000FF]Wir können Deutsch sprechen.[font_size=18pt](Nous pouvons parler allemand.)[/font_size][/color] [color=#008000](Nous pouvons parler l'allemand.)[/indent]
+Exemple : [color=#0000FF]Wir können Deutsch sprechen.[/color] [color=#008000](Nous pouvons parler l'allemand.)[/color][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du présent de l'indicatif[/color][/font_size]
 
