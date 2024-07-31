@@ -86,7 +86,7 @@ La position des adverbes dans une phrase anglaise peut varier selon leur type et
 Il est important de ne pas confondre les adverbes et les adjectifs. Les adverbes modifient des verbes, des adjectifs ou d'autres adverbes, tandis que les adjectifs modifient des noms.
 
 [indent]• Utilisation incorrecte d'un adjectif à la place d'un adverbe :
-[i]Exemple : [color=#FF0000]He ran quick.[font_size=18pt] (Incorrect, doit être : He ran quickly.)[/font_size][/color]
+[i]Exemple : [color=#FF0000]He ran quick.[font_size=18pt] (Incorrect, doit être : He ran quickly.)[/font_size][/color][/i]
 
 - Utilisation incorrecte d'un adverbe à la place d'un adjectif :
 [i]Exemple : [color=#FF0000]She is happily.[font_size=18pt] (Incorrect, doit être : She is happy.)[/font_size][/color][/i][/indent]

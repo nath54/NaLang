@@ -51,7 +51,7 @@ Light [color=#008000](Léger)[/color]
 Few [color=#008000](Peu)[/color]
 Many [color=#008000](Beaucoup)[/color]
 Several [color=#008000](Plusieurs)[/color]
-[code]
+[/code]
 
 [i]Exemple : [color=#0000FF]He has many books.[font_size=18pt](Il a beaucoup de livres.)[/font_size][/color][/i][/indent]
 
@@ -73,7 +73,7 @@ Round [color=#008000](Rond)[/color]
 Square [color=#008000](Carré)[/color]
 Triangular [color=#008000](Triangulaire)[/color]
 Rectangular [color=#008000](Rectangulaire)[/color]
-[code]
+[/code]
 
 [i]Exemple : [color=#0000FF]The table is round.[font_size=18pt](La table est ronde.)[/font_size][/color][/i][/indent]
 
@@ -84,7 +84,7 @@ Red [color=#008000](Rouge)[/color]
 Blue [color=#008000](Bleu)[/color]
 Green [color=#008000](Vert)[/color]
 Yellow [color=#008000](Jaune)[/color]
-[code]
+[/code]
 
 [i]Exemple : [color=#0000FF]She is wearing a red dress.[font_size=18pt](Elle porte une robe rouge.)[/font_size][/color][/i][/indent]
 
@@ -95,7 +95,7 @@ French [color=#008000](Français)[/color]
 Chinese [color=#008000](Chinois)[/color]
 American [color=#008000](Américain)[/color]
 Italian [color=#008000](Italien)[/color]
-[code]
+[/code]
 
 [i]Exemple : [color=#0000FF]He likes Italian food.[font_size=18pt](Il aime la cuisine italienne.)[/font_size][/color][/i][/indent]
 
@@ -106,7 +106,7 @@ Quand plusieurs adjectifs sont utilisés avant un nom, ils suivent généralemen
 [indent]
 [code]
 A beautiful old big round green Chinese wooden ball [color=#008000](Une belle vieille grande balle ronde verte en bois chinoise)[/color]
-[code]
+[/code]
 
 [i]Exemple : [color=#0000FF]She has a beautiful big old red American car.[font_size=18pt](Elle a une belle grande vieille voiture rouge américaine.)[/font_size][/color][/i]
 [/indent]
