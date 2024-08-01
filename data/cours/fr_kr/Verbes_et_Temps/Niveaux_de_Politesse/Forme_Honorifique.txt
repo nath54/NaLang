@@ -11,12 +11,12 @@ En coréen, la forme honorifique est souvent marquée par des changements dans l
 [b]a) Utilisation des suffixes honorifiques[/b]
 [indent]Les verbes sont souvent modifiés en ajoutant le suffixe honorifique [color=#FF0000]시[/color] (si) avant la terminaison du verbe.
 [code]
-먹다 (meokda) [color=#008000](manger) -> 드시다 (deusida) [color=#008000](manger honorifique)[/color]
-있다 (itda) [color=#008000](être, exister) -> 계시다 (gyesida) [color=#008000](être honorifique)[/color]
-보다 (boda) [color=#008000](voir) -> 보시다 (bosida) [color=#008000](voir honorifique)[/color]
+먹다 (meokda) [color=#008000](manger) -> 드시다 (deusida)[/color] [color=#008000](manger honorifique)[/color]
+있다 (itda) [color=#008000](être, exister) -> 계시다 (gyesida)[/color] [color=#008000](être honorifique)[/color]
+보다 (boda) [color=#008000](voir) -> 보시다 (bosida)[/color] [color=#008000](voir honorifique)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]할머니께서 밥을 드셔요.[font_size=18pt](halmeoni kkeseo babeul deusyeoyo.)[/font_size][/color] [color=#008000](Grand-mère mange.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]할머니께서 밥을 드셔요.[font_size=18](halmeoni kkeseo babeul deusyeoyo.)[/font_size][/color] [color=#008000](Grand-mère mange.)[/color][/i][/indent]
 
 [b]b) Terminaisons honorifiques[/b]
 [indent]Les terminaisons des verbes changent également pour refléter le respect.
@@ -26,30 +26,30 @@ En coréen, la forme honorifique est souvent marquée par des changements dans l
 하시다 (hasida)
 [/code]
 
-[i]Exemple : [color=#0000FF]선생님이 말씀하십니다.[font_size=18pt](seonsaengnim-i malsseumhasimnida.)[/font_size][/color] [color=#008000](Le professeur parle.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]선생님이 말씀하십니다.[font_size=18](seonsaengnim-i malsseumhasimnida.)[/font_size][/color] [color=#008000](Le professeur parle.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Usage des formes honorifiques[/color][/font_size]
 
 Les formes honorifiques sont utilisées en fonction du contexte et de la relation entre les locuteurs. Voici quelques règles pour vous aider à savoir quand utiliser ces formes respectueuses.
 
 [indent]• Utilisez les formes honorifiques pour des personnes plus âgées ou de rang supérieur.
-[i]Exemple : [color=#0000FF]부모님이 오셨어요.[font_size=18pt](bumonim-i osyeosseoyo.)[/font_size][/color] [color=#008000](Mes parents sont venus.)[/color][/i]
+[i]Exemple : [color=#0000FF]부모님이 오셨어요.[font_size=18](bumonim-i osyeosseoyo.)[/font_size][/color] [color=#008000](Mes parents sont venus.)[/color][/i]
 
 - Utilisez les si vous êtes dans un environnement formel, comme au travail ou dans une interview.
-[i]Exemple : [color=#0000FF]회장님께서 회의를 주재하십니다.[font_size=18pt](hoejangnim kkeseo hoeui-reul jujaehasimnida.)[/font_size][/color] [color=#008000](Le président dirige la réunion.)[/color][/i]
+[i]Exemple : [color=#0000FF]회장님께서 회의를 주재하십니다.[font_size=18](hoejangnim kkeseo hoeui-reul jujaehasimnida.)[/font_size][/color] [color=#008000](Le président dirige la réunion.)[/color][/i]
 
 - Pour montrer du respect lorsque vous parlez à quelqu'un que vous ne connaissez pas bien.
-[i]Exemple : [color=#0000FF]이 분이 누구십니까?[font_size=18pt](i bun-i nugu-simnikka?) [/font_size][/color] [color=#008000](Qui est cette personne ? (respectueux))[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]이 분이 누구십니까?[font_size=18](i bun-i nugu-simnikka?) [/font_size][/color] [color=#008000](Qui est cette personne ? (respectueux))[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Pour être sûr de bien respecter les niveaux de politesse, il est important de connaître le contexte culturel et de toujours évaluer votre relation avec votre interlocuteur.
 
 [indent]• Si le contexte est ambigu, il est souvent plus sûr d'utiliser une forme plus honorifique.
-[i]Exemple : [color=#0000FF]김 선생님께서 말씀이 있으십니다.[font_size=18pt](Kim seonsaengnim kkeseo malsseumi isseusimnida.) [/font_size][/color] [color=#008000](Le professeur Kim a quelque chose à dire.)[/color][/i]
+[i]Exemple : [color=#0000FF]김 선생님께서 말씀이 있으십니다.[font_size=18](Kim seonsaengnim kkeseo malsseumi isseusimnida.) [/font_size][/color] [color=#008000](Le professeur Kim a quelque chose à dire.)[/color][/i]
 
 - Faites attention aux verbes qui changent complètement dans leur forme honorifique.
-[i]Exemple : [color=#0000FF]주무시다 (jumusida) [font_size=18pt](dormir honorifiquement) -> 자다 (jada) [color=#008000](dormir)[/color][/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]주무시다 (jumusida) [font_size=18](dormir honorifiquement) -> 자다 (jada) [color=#008000](dormir)[/color][/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

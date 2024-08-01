@@ -23,7 +23,7 @@ Danke schön [color=#008000](Merci beaucoup)[/color]
 Entschuldigung [color=#008000](Excusez-moi)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Guten Morgen, wie geht es Ihnen?[font_size=18pt](Guten Morgen, wie geht es Ihnen? (Bonjour, comment allez-vous?))[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Guten Morgen, wie geht es Ihnen?[font_size=18](Guten Morgen, wie geht es Ihnen? (Bonjour, comment allez-vous?))[/font_size][/color][/i][/indent]
 
 [b]b) Expressions de respect et de politesse[/b]
 [indent]Ces expressions sont couramment utilisées pour montrer du respect et de la courtoisie envers les autres.
@@ -34,7 +34,7 @@ Könnten Sie bitte... [color=#008000](Pourriez-vous s'il vous plaît...)[/color]
 Dürfte ich... [color=#008000](Puis-je...)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Könnten Sie mir bitte helfen?[font_size=18pt](Könnten Sie mir bitte helfen? (Pourriez-vous m'aider, s'il vous plaît?))[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Könnten Sie mir bitte helfen?[font_size=18](Könnten Sie mir bitte helfen? (Pourriez-vous m'aider, s'il vous plaît?))[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisations particulières des expressions de politesse[/color][/font_size]
 
@@ -42,12 +42,12 @@ Il est important de savoir quand et comment utiliser ces expressions pour être 
 
 [indent]• Utilisation formelle vs informelle
 En allemand, le choix entre les formes formelles et informelles est essentiel. Utilisez “[color=#FF0000]du[/color]” pour les amis, la famille ou les personnes de votre âge, et “[color=#FF0000]Sie[/color]” pour montrer du respect envers les inconnus, les personnes plus âgées ou dans des contextes professionnels.
-[i]Exemple (formel) : [color=#0000FF]Wie geht es Ihnen?[font_size=18pt](Wie geht es Ihnen? (Comment allez-vous?))[/font_size][/color] [color=#008000](Formel)[/color][/i]
-[i]Exemple (informel) : [color=#0000FF]Wie geht es dir?[font_size=18pt](Wie geht es dir? (Comment vas-tu?))[/font_size][/color] [color=#008000](Informel)[/color][/i][/indent]
+[i]Exemple (formel) : [color=#0000FF]Wie geht es Ihnen?[font_size=18](Wie geht es Ihnen? (Comment allez-vous?))[/font_size][/color] [color=#008000](Formel)[/color][/i]
+[i]Exemple (informel) : [color=#0000FF]Wie geht es dir?[font_size=18](Wie geht es dir? (Comment vas-tu?))[/font_size][/color] [color=#008000](Informel)[/color][/i][/indent]
 
 [indent]• Usage des remerciements
 Exprimer la gratitude même pour les petites actions est très apprécié en Allemagne.
-[i]Exemple : [color=#0000FF]Danke schön für Ihre Hilfe.[font_size=18pt](Danke schön für Ihre Hilfe. (Merci beaucoup pour votre aide.))[/font_size][/color] [color=#008000](Formel)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Danke schön für Ihre Hilfe.[font_size=18](Danke schön für Ihre Hilfe. (Merci beaucoup pour votre aide.))[/font_size][/color] [color=#008000](Formel)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Réponses courantes aux expressions de politesse[/color][/font_size]
 
@@ -60,7 +60,7 @@ Gern geschehen [color=#008000](Avec plaisir)[/color]
 Kein Problem [color=#008000](Pas de problème)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Danke für Ihre Hilfe. – Gern geschehen.[font_size=18pt](Danke für Ihre Hilfe. – Gern geschehen. (Merci pour votre aide. – Avec plaisir.))[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Danke für Ihre Hilfe. – Gern geschehen.[font_size=18](Danke für Ihre Hilfe. – Gern geschehen. (Merci pour votre aide. – Avec plaisir.))[/font_size][/color][/i][/indent]
 
 [indent]• Réactions aux excuses
 [code]
@@ -69,7 +69,7 @@ Schon gut [color=#008000](C'est bon)[/color]
 Macht nichts [color=#008000](Cela ne fait rien)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Entschuldigung, ich bin zu spät. – Schon gut.[font_size=18pt](Entschuldigung, ich bin zu spät. – Schon gut. (Désolé, je suis en retard. – C'est bon.))[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Entschuldigung, ich bin zu spät. – Schon gut.[font_size=18](Entschuldigung, ich bin zu spät. – Schon gut. (Désolé, je suis en retard. – C'est bon.))[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

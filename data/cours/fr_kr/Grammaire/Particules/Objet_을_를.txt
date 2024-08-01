@@ -30,19 +30,19 @@ Les particules d'objet [color=#FF0000]을[/color] (eul) et [color=#FF0000]를[/c
 Les particules d'objet sont directement attachées après le nom sans espace. Voici quelques exemples d'utilisation dans des phrases complètes :
 
 [indent]• [b]Phrase avec 을 (eul) :[/b]
-[indent][i]Exemple : [color=#0000FF]나는 책을 읽어요.[font_size=18pt](Naneun chaek-eul ilg-eoyo.)[/font_size][/color] [color=#008000](Je lis le livre.)[/color][/i][/indent]
+[indent][i]Exemple : [color=#0000FF]나는 책을 읽어요.[font_size=18](Naneun chaek-eul ilg-eoyo.)[/font_size][/color] [color=#008000](Je lis le livre.)[/color][/i][/indent]
 
 • [b]Phrase avec 를 (reul) :[/b]
-[indent][i]Exemple : [color=#0000FF]나는 사과를 먹어요.[font_size=18pt](Naneun sagwa-reul meogeoyo.)[/font_size][/color] [color=#008000](Je mange la pomme.)[/color][/i][/indent][/indent]
+[indent][i]Exemple : [color=#0000FF]나는 사과를 먹어요.[font_size=18](Naneun sagwa-reul meogeoyo.)[/font_size][/color] [color=#008000](Je mange la pomme.)[/color][/i][/indent][/indent]
 
 [font_size=24][color=#4B0082]3. Exceptions et variations[/color][/font_size]
 
 Certaines variantes de style formel et informel peuvent changer la terminaison des mots ou leur particule d'objet. En général, cependant, les règles de base restent les mêmes.
 
 [indent]• Différences entre parler formel et informel
-[i]Exemple : [color=#0000FF]저는 영화를 봅니다.[font_size=18pt](Jeoneun yeonghwa-reul bamnida.)[/font_size][/color] [color=#008000](Je regarde un film.)[/color] [color=#FF0000](formel)[/color][/i]
+[i]Exemple : [color=#0000FF]저는 영화를 봅니다.[font_size=18](Jeoneun yeonghwa-reul bamnida.)[/font_size][/color] [color=#008000](Je regarde un film.)[/color] [color=#FF0000](formel)[/color][/i]
 
-[i]Exemple : [color=#0000FF]나는 영화를 봐.[font_size=18pt](Naneun yeonghwa-reul bwa.)[/font_size][/color] [color=#008000](Je regarde un film.)[/color] [color=#FF0000](informel)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 영화를 봐.[font_size=18](Naneun yeonghwa-reul bwa.)[/font_size][/color] [color=#008000](Je regarde un film.)[/color] [color=#FF0000](informel)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

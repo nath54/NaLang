@@ -20,7 +20,7 @@ drinnen [color=#008000](à l'intérieur)[/color]
 draußen [color=#008000](à l'extérieur)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich bin hier.[font_size=18pt](Je suis ici)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich bin hier.[font_size=18](Je suis ici)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Adverbes de Lieu Composés[/color][/font_size]
 
@@ -38,30 +38,30 @@ innerhalb [color=#008000](à l'intérieur de)[/color]
 außerhalb [color=#008000](à l'extérieur de)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Er ging nach draußen.[font_size=18pt](Il est allé à l'extérieur)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er ging nach draußen.[font_size=18](Il est allé à l'extérieur)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisation des Adverbes de Lieu[/color][/font_size]
 
 Les adverbes de lieu permettent de préciser la localisation spatiale dans le contexte d'une action ou d'un état. Voici quelques règles et exemples pour bien les utiliser.
 
 [indent]• Pour indiquer une position statique, utilisez des adverbes simples comme [color=#FF0000]hier[/color] (ici) ou [color=#FF0000]dort[/color] (là-bas).
-[i]Exemple : [color=#0000FF]Das Buch ist dort.[font_size=18pt](Le livre est là-bas.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Das Buch ist dort.[font_size=18](Le livre est là-bas.)[/font_size][/color][/i]
 
 - Pour décrire un mouvement, utilisez des adverbes composés comme [color=#FF0000]aufwärts[/color] (vers le haut) ou [color=#FF0000]abwärts[/color] (vers le bas).
-[i]Exemple : [color=#0000FF]Sie läuft aufwärts.[font_size=18pt](Elle marche vers le haut.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Sie läuft aufwärts.[font_size=18](Elle marche vers le haut.)[/font_size][/color][/i]
 
 - Combinez les adverbes de lieu avec des prépositions pour plus de précisions.
-[i]Exemple : [color=#0000FF]Er wohnt außerhalb der Stadt.[font_size=18pt](Il habite en dehors de la ville.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er wohnt außerhalb der Stadt.[font_size=18](Il habite en dehors de la ville.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Précisions Supplémentaires[/color][/font_size]
 
 Pour apporter plus de détails dans vos descriptions, vous pouvez combiner les adverbes de lieu avec d'autres informations comme le moment de l'action ou le mode de déplacement.
 
 [indent]• Ajouter un complément de temps
-[i]Exemple : [color=#0000FF]Wir treffen uns morgen hier.[font_size=18pt](Nous nous retrouvons ici demain.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Wir treffen uns morgen hier.[font_size=18](Nous nous retrouvons ici demain.)[/font_size][/color][/i]
 
 - Préciser le mode de déplacement
-[i]Exemple : [color=#0000FF]Er fährt mit dem Auto nach draußen.[font_size=18pt](Il va à l'extérieur en voiture.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er fährt mit dem Auto nach draußen.[font_size=18](Il va à l'extérieur en voiture.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

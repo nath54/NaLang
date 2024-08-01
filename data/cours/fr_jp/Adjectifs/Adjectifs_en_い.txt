@@ -21,7 +21,7 @@ Les adjectifs en い (i) se terminent par la syllabe い (i) dans leur forme de 
 悪い (わるい, warui) [color=#008000](mauvais)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]大きい家。[font_size=18pt](おおきいいえ, ookii ie.)[/font_size][/color] [color=#008000](Une grande maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]大きい家。[font_size=18](おおきいいえ, ookii ie.)[/font_size][/color] [color=#008000](Une grande maison.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Conjugaison des adjectifs en い (i)[/color][/font_size]
 
@@ -35,7 +35,7 @@ Pour former le passé, remplacez い (i) par かった (katta).
 新しい ➔ 新しかった (あたらしかった, atarashikatta) [color=#008000](était nouveau)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]その本は新しかった。[font_size=18pt](そのほんはあたらしかった, sono hon wa atarashikatta.)[/font_size][/color] [color=#008000](Ce livre était nouveau.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]その本は新しかった。[font_size=18](そのほんはあたらしかった, sono hon wa atarashikatta.)[/font_size][/color] [color=#008000](Ce livre était nouveau.)[/color][/i][/indent]
 
 [b]b) Forme négative[/b]
 [indent]
@@ -45,7 +45,7 @@ Pour former la négation, remplacez い (i) par くない (kunai).
 新しい ➔ 新しくない (あたらしくない, atarashikunai) [color=#008000](pas nouveau)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]この車は新しくない。[font_size=18pt](このくるまはあたらしくない, kono kuruma wa atarashikunai.)[/font_size][/color] [color=#008000](Cette voiture n'est pas nouvelle.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]この車は新しくない。[font_size=18](このくるまはあたらしくない, kono kuruma wa atarashikunai.)[/font_size][/color] [color=#008000](Cette voiture n'est pas nouvelle.)[/color][/i][/indent]
 
 [b]c) Forme passée négative[/b]
 [indent]
@@ -55,20 +55,20 @@ Pour former la forme passée négative, remplacez い (i) par くなかった (k
 新しい ➔ 新しくなかった (あたらしくなかった, atarashikunakatta) [color=#008000](n'était pas nouveau)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]その本は新しくなかった。[font_size=18pt](そのほんはあたらしくなかった, sono hon wa atarashikunakatta.)[/font_size][/color] [color=#008000](Ce livre n'était pas nouveau.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]その本は新しくなかった。[font_size=18](そのほんはあたらしくなかった, sono hon wa atarashikunakatta.)[/font_size][/color] [color=#008000](Ce livre n'était pas nouveau.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisation des adjectifs en い (i)[/color][/font_size]
 
 Les adjectifs en い (i) peuvent être placés directement avant un nom ou utilisés de manière prédicative après des substantifs. Voici quelques règles d'utilisation :
 
 [indent]• Devant un nom :
-[i]Exemple : [color=#0000FF]大きい犬。[font_size=18pt](おおきいいぬ, ookii inu.)[/font_size][/color] [color=#008000](Un grand chien.)[/color][/i]
+[i]Exemple : [color=#0000FF]大きい犬。[font_size=18](おおきいいぬ, ookii inu.)[/font_size][/color] [color=#008000](Un grand chien.)[/color][/i]
 
 - Après un substantif pour décrire :
-[i]Exemple : [color=#0000FF]犬が大きい。[font_size=18pt](いぬがおおきい, inu ga ookii.)[/font_size][/color] [color=#008000](Le chien est grand.)[/color][/i]
+[i]Exemple : [color=#0000FF]犬が大きい。[font_size=18](いぬがおおきい, inu ga ookii.)[/font_size][/color] [color=#008000](Le chien est grand.)[/color][/i]
 
 - En combinaison avec d'autres adjectifs ou des noms :
-[i]Exemple : [color=#0000FF]新しくて大きい家。[font_size=18pt](あたらしくておおきいいえ, atarashikute ookii ie.)[/font_size][/color] [color=#008000](Une maison grande et nouvelle.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]新しくて大きい家。[font_size=18](あたらしくておおきいいえ, atarashikute ookii ie.)[/font_size][/color] [color=#008000](Une maison grande et nouvelle.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

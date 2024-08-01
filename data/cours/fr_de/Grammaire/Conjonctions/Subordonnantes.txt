@@ -44,13 +44,13 @@ Wenn ich Zeit habe, besuche ich dich. [color=#008000](Quand j'ai du temps, je te
 Lorsque vous utilisez des conjonctions subordonnantes, l'ordre des mots dans la proposition subordonnée change. Voici quelques règles essentielles à suivre :
 
 - Le verbe conjugué se place toujours à la fin de la proposition subordonnée.
-[i]Exemple : [color=#0000FF]Ich glaube, dass er Deutsch spricht.[font_size=18pt](Ich glaube, dass er Deutsch spricht.)[/font_size][/color] [color=#008000](Je crois qu'il parle allemand.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich glaube, dass er Deutsch spricht.[font_size=18](Ich glaube, dass er Deutsch spricht.)[/font_size][/color] [color=#008000](Je crois qu'il parle allemand.)[/color][/i]
 
 - Si la proposition principale commence avec la conjonction subordonnante, elle est suivie d'une virgule.
-[i]Exemple : [color=#0000FF]Wenn ich Zeit habe, besuche ich dich.[font_size=18pt](Wenn ich Zeit habe, besuche ich dich.)[/font_size][/color] [color=#008000](Quand j'ai du temps, je te rends visite.)[/color][/i]
+[i]Exemple : [color=#0000FF]Wenn ich Zeit habe, besuche ich dich.[font_size=18](Wenn ich Zeit habe, besuche ich dich.)[/font_size][/color] [color=#008000](Quand j'ai du temps, je te rends visite.)[/color][/i]
 
 - La proposition principale et la proposition subordonnée peuvent être inversées sans changer le sens, mais cela peut influer sur la ponctuation.
-[i]Exemple : [color=#0000FF]Ich besuche dich, wenn ich Zeit habe.[font_size=18pt](Ich besuche dich, wenn ich Zeit habe.)[/font_size][/color] [color=#008000](Je te rends visite quand j'ai du temps.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich besuche dich, wenn ich Zeit habe.[font_size=18](Ich besuche dich, wenn ich Zeit habe.)[/font_size][/color] [color=#008000](Je te rends visite quand j'ai du temps.)[/color][/i]
 
 [font_size=24][color=#4B0082]3. Conjonctions subordonnantes supplémentaires[/color][/font_size]
 

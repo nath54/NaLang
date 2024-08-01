@@ -20,7 +20,7 @@ ihr kämet [color=#008000](vous viendriez)[/color]
 sie/Sie kämen [color=#008000](ils/elles/Vous viendraient)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Wenn ich mehr Geld hätte, käme ich früher.[font_size=18pt](Si j'avais plus d'argent, je viendrais plus tôt.)[/font_size][/color] [color=#008000](If I had more money, I would come earlier.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wenn ich mehr Geld hätte, käme ich früher.[font_size=18](Si j'avais plus d'argent, je viendrais plus tôt.)[/font_size][/color] [color=#008000](If I had more money, I would come earlier.)[/color][/i][/indent]
 
 [b]b) Verbes irréguliers[/b]
 [indent]Pour les verbes irréguliers, il y a souvent une modification de la voyelle radicale avec un Umlaut et des terminaisons similaires à celles du prétérit.
@@ -34,20 +34,20 @@ ihr sähet [color=#008000](vous verriez)[/color]
 sie/Sie sähen [color=#008000](ils/elles/Vous verraient)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Wenn ich dort wäre, sähe ich es selbst.[font_size=18pt](Si j'y étais, je le verrais moi-même.)[/font_size][/color] [color=#008000](If I were there, I would see it myself.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wenn ich dort wäre, sähe ich es selbst.[font_size=18](Si j'y étais, je le verrais moi-même.)[/font_size][/color] [color=#008000](If I were there, I would see it myself.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du Subjonctif II[/color][/font_size]
 
 Le Subjonctif II est couramment utilisé pour exprimer des souhaits, des situations hypothétiques ou des conditions irréelles.
 
 [indent]• Pour exprimer un souhait irréalisable, on utilise souvent "würde" + infinitif du verbe.
-[i]Exemple : [color=#0000FF]Ich würde gerne reisen.[font_size=18pt](Je voudrais voyager.)[/font_size][/color] [color=#008000](I would like to travel.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich würde gerne reisen.[font_size=18](Je voudrais voyager.)[/font_size][/color] [color=#008000](I would like to travel.)[/color][/i]
 
 - Pour les conditions irréelles dans le passé, utilisez "hätte" ou "wäre" comme auxiliaire.
-[i]Exemple : [color=#0000FF]Wenn ich früher gelernt hätte, hätte ich den Test bestanden.[font_size=18pt](Si j'avais étudié plus tôt, j'aurais réussi le test.)[/font_size][/color] [color=#008000](If I had studied earlier, I would have passed the test.)[/color][/i]
+[i]Exemple : [color=#0000FF]Wenn ich früher gelernt hätte, hätte ich den Test bestanden.[font_size=18](Si j'avais étudié plus tôt, j'aurais réussi le test.)[/font_size][/color] [color=#008000](If I had studied earlier, I would have passed the test.)[/color][/i]
 
 - Pour des situations hypothétiques présentes ou futures.
-[i]Exemple : [color=#0000FF]Wenn ich ein Auto hätte, würde ich ans Meer fahren.[font_size=18pt](Si j'avais une voiture, j'irais à la mer.)[/font_size][/color] [color=#008000](If I had a car, I would go to the sea.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wenn ich ein Auto hätte, würde ich ans Meer fahren.[font_size=18](Si j'avais une voiture, j'irais à la mer.)[/font_size][/color] [color=#008000](If I had a car, I would go to the sea.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Formes des auxiliaires au subjonctif II[/color][/font_size]
 

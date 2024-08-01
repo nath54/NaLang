@@ -17,7 +17,7 @@ Les pronoms personnels en coréen varient selon le niveau de politesse. Voici le
 저희 (jeo-hui) [color=#008000](nous - formel)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]저는 학생입니다。[font_size=18pt](Jeoneun haksaeng-imnida.)[/font_size][/color] [color=#008000](Je suis étudiant - formel.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]저는 학생입니다。[font_size=18](Jeoneun haksaeng-imnida.)[/font_size][/color] [color=#008000](Je suis étudiant - formel.)[/color][/i][/indent]
 
 [b]b) Pronoms de la deuxième personne[/b]
 [indent]Les pronoms de la deuxième personne se réfèrent à la personne à qui on parle. Notez que les Coréens utilisent rarement les pronoms de deuxième personne, ils préfèrent utiliser les titres ou noms.
@@ -26,7 +26,7 @@ Les pronoms personnels en coréen varient selon le niveau de politesse. Voici le
 당신 (dangsin) [color=#008000](vous - formel, rare)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]너는 학생이니?[font_size=18pt](Neoneun haksaeng-ini?) [/font_size][/color] [color=#008000](Es-tu étudiant ?) (informel)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]너는 학생이니?[font_size=18](Neoneun haksaeng-ini?) [/font_size][/color] [color=#008000](Es-tu étudiant ?) (informel)[/color][/i][/indent]
 
 [b]c) Pronoms de la troisième personne[/b]
 [indent]Les pronoms de la troisième personne se réfèrent à la personne ou à l'objet dont on parle.
@@ -36,7 +36,7 @@ Les pronoms personnels en coréen varient selon le niveau de politesse. Voici le
 그들 (geudeul) [color=#008000](ils, elles)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그는 학생입니다。[font_size=18pt](Geuneun haksaeng-imnida.)[/font_size][/color] [color=#008000](Il est étudiant - formel.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 학생입니다。[font_size=18](Geuneun haksaeng-imnida.)[/font_size][/color] [color=#008000](Il est étudiant - formel.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Pronoms démonstratifs[/color][/font_size]
 
@@ -47,21 +47,21 @@ Les pronoms démonstratifs indiquent l'emplacement des objets ou des personnes p
 이 (i) [color=#008000](ce, cette - proche de moi)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]이 책은 재미있어요。[font_size=18pt](I chaegeun jaemiisseoyo.)[/font_size][/color] [color=#008000](Ce livre est intéressant - proche du locuteur.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]이 책은 재미있어요。[font_size=18](I chaegeun jaemiisseoyo.)[/font_size][/color] [color=#008000](Ce livre est intéressant - proche du locuteur.)[/color][/i][/indent]
 
 [b]b) Proche de l'auditeur[/b]
 [indent][code]
 그 (geu) [color=#008000](ce, cette - proche de toi)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그 책은 재미있어요。[font_size=18pt](Geu chaegeun jaemiisseoyo.)[/font_size][/color] [color=#008000](Ce livre est intéressant - proche de l'auditeur.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그 책은 재미있어요。[font_size=18](Geu chaegeun jaemiisseoyo.)[/font_size][/color] [color=#008000](Ce livre est intéressant - proche de l'auditeur.)[/color][/i][/indent]
 
 [b]c) Loin de l'auditeur et du locuteur[/b]
 [indent][code]
 저 (jeo) [color=#008000](ce, cette - là-bas)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]저 책은 재미있어요。[font_size=18pt](Jeo chaegeun jaemiisseoyo.)[/font_size][/color] [color=#008000](Ce livre est intéressant - là-bas.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]저 책은 재미있어요。[font_size=18](Jeo chaegeun jaemiisseoyo.)[/font_size][/color] [color=#008000](Ce livre est intéressant - là-bas.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Pronoms possessifs[/color][/font_size]
 
@@ -77,7 +77,7 @@ Les pronoms possessifs en coréen se forment en ajoutant "-의 (-ui)" après les
 저희의 (jeo-hui-ui) [color=#008000](notre - formel)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]저의 집은 여기입니다。[font_size=18pt](Jeo-ui jib-eun yeogi-imnida.)[/font_size][/color] [color=#008000](Ma maison est ici - formel.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]저의 집은 여기입니다。[font_size=18](Jeo-ui jib-eun yeogi-imnida.)[/font_size][/color] [color=#008000](Ma maison est ici - formel.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

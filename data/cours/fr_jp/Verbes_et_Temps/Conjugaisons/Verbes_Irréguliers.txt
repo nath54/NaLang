@@ -19,7 +19,7 @@ Passé poli : しました (shimashita)
 Passé négatif : しなかった (shinakatta)
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は宿題をします。[font_size=18pt](Kare wa shukudai o shimasu.)[/font_size][/color] [color=#008000](Il fait ses devoirs.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は宿題をします。[font_size=18](Kare wa shukudai o shimasu.)[/font_size][/color] [color=#008000](Il fait ses devoirs.)[/color][/i][/indent]
 
 [b]b) Venir : 来る (kuru)[/b]
 [indent]Ce verbe est tout aussi important et voici ses principales conjugaisons :
@@ -32,17 +32,17 @@ Passé poli : 来ました (kimashita)
 Passé négatif : 来なかった (konakatta)
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は家に来ました。[font_size=18pt](Kare wa ie ni kimashita.)[/font_size][/color] [color=#008000](Il est venu à la maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は家に来ました。[font_size=18](Kare wa ie ni kimashita.)[/font_size][/color] [color=#008000](Il est venu à la maison.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation et conjugaison des verbes irréguliers[/color][/font_size]
 
 Les verbes irréguliers する et 来る sont indispensables. Il est crucial de savoir les conjuguer correctement selon le contexte.
 
 [indent]• する (suru) s'utilise souvent avec des noms pour former des expressions composées :
-[i]Exemple : [color=#0000FF]テニスをする。[font_size=18pt](Tenisu o suru.)[/font_size][/color] [color=#008000](Jouer au tennis.)[/color][/i]
+[i]Exemple : [color=#0000FF]テニスをする。[font_size=18](Tenisu o suru.)[/font_size][/color] [color=#008000](Jouer au tennis.)[/color][/i]
 
 - 来る (kuru) est utilisé pour indiquer le fait de venir vers un lieu spécifique :
-[i]Exemple : [color=#0000FF]電車が来る。[font_size=18pt](Densha ga kuru.)[/font_size][/color] [color=#008000](Le train arrive.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]電車が来る。[font_size=18](Densha ga kuru.)[/font_size][/color] [color=#008000](Le train arrive.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Autres verbes irréguliers[/color][/font_size]
 
@@ -59,7 +59,7 @@ Passé poli : 行きました (ikimashita)
 Passé négatif : 行かなかった (ikanakatta)
 [/code]
 
-[i]Exemple : [color=#0000FF]彼女は学校に行きます。[font_size=18pt](Kanojo wa gakkou ni ikimasu.)[/font_size][/color] [color=#008000](Elle va à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼女は学校に行きます。[font_size=18](Kanojo wa gakkou ni ikimasu.)[/font_size][/color] [color=#008000](Elle va à l'école.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -74,7 +74,7 @@ Exemple : [color=#0000FF]8:45 pm[/color] [color=#008000](20h45 du soir)[/color][
 [b]c) Prononciation des heures quart / demie[/b]
 [indent]On utilise "quarter" pour le quart d'heure et "half" pour la demie-heure.
 
-[i]Exemple : [color=#0000FF]8:15[/color] peut être prononcé [color=#0000FF]a quarter past eight[/color] [color=#008000](huit heures et quart)[/color]
+[i]Exemple : [color=#0000FF]8:15[/color] peut être prononcé [color=#0000FF]a quarter past eight[/color] [color=#008000](huit heures et quart)[/color][/i]
 [i]Exemple : [color=#0000FF]5:30[/color] peut être prononcé [color=#0000FF]half past five[/color] [color=#008000](cinq heures et demie)[/color][/i][/indent][/indent]
 
 [font_size=24][color=#4B0082]5. Indications temporelles courantes[/color][/font_size]

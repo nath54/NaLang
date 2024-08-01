@@ -11,33 +11,33 @@ Pour former une phrase avec "야 되다", on ajoute "야" à la racine du verbe,
 [b]a) Racine du verbe + "야 되다"[/b]
 [indent]Cette structure est utilisée pour exprimer la nécessité.
 [code]
-가다 (gada) [color=#008000](aller) → 가야 되다 (gaya doeda) [color=#008000](devoir aller)[/color]
-먹다 (meokda) [color=#008000](manger) → 먹어야 되다 (meog-eoya doeda) [color=#008000](devoir manger)[/color]
-보다 (boda) [color=#008000](voir) → 봐야 되다 (bwaya doeda) [color=#008000](devoir voir)[/color]
-하다 (hada) [color=#008000](faire) → 해야 되다 (haeya doeda) [color=#008000](devoir faire)[/color]
+가다 (gada) [color=#008000](aller) → 가야 되다 (gaya doeda)[/color] [color=#008000](devoir aller)[/color]
+먹다 (meokda) [color=#008000](manger) → 먹어야 되다 (meog-eoya doeda)[/color] [color=#008000](devoir manger)[/color]
+보다 (boda) [color=#008000](voir) → 봐야 되다 (bwaya doeda)[/color] [color=#008000](devoir voir)[/color]
+하다 (hada) [color=#008000](faire) → 해야 되다 (haeya doeda)[/color] [color=#008000](devoir faire)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]저는 지금 가야 돼요.[font_size=18pt](Jeoneun jigeum gaya dwaeyo.)[/font_size][/color] [color=#008000](Je dois y aller maintenant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]저는 지금 가야 돼요.[font_size=18](Jeoneun jigeum gaya dwaeyo.)[/font_size][/color] [color=#008000](Je dois y aller maintenant.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de "야 되다" en contexte[/color][/font_size]
 
 La structure "야 되다" est utilisée dans différentes situations pour indiquer ce qui est nécessaire ou ce que quelqu'un doit faire.
 
 [indent]• Pour exprimer une obligation personnelle ou une nécessité.
-[i]Exemple : [color=#0000FF]내일 시험 공부를 해야 돼요.[font_size=18pt](Naeil siheom gongbureul haeya dwaeyo.)[/font_size][/color] [color=#008000](Je dois étudier pour l'examen demain.)[/color][/i]
+[i]Exemple : [color=#0000FF]내일 시험 공부를 해야 돼요.[font_size=18](Naeil siheom gongbureul haeya dwaeyo.)[/font_size][/color] [color=#008000](Je dois étudier pour l'examen demain.)[/color][/i]
 
 - Pour indiquer des règlements ou des règles à suivre.
-[i]Exemple : [color=#0000FF]여기서 신발을 벗어야 돼요.[font_size=18pt](Yeogiseo sinbareul beoseoya dwaeyo.)[/font_size][/color] [color=#008000](Il faut enlever ses chaussures ici.)[/color][/i]
+[i]Exemple : [color=#0000FF]여기서 신발을 벗어야 돼요.[font_size=18](Yeogiseo sinbareul beoseoya dwaeyo.)[/font_size][/color] [color=#008000](Il faut enlever ses chaussures ici.)[/color][/i]
 
 - Pour exprimer la nécessité dans un contexte médical.
-[i]Exemple : [color=#0000FF]약을 먹어야 돼요.[font_size=18pt](Yageul meog-eoya dwaeyo.)[/font_size][/color] [color=#008000](Je dois prendre des médicaments.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]약을 먹어야 돼요.[font_size=18](Yageul meog-eoya dwaeyo.)[/font_size][/color] [color=#008000](Je dois prendre des médicaments.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Variantes de "야 되다"[/color][/font_size]
 
 Il est aussi possible d'utiliser "야 하다 (ya hada)" à la place de "야 되다". Les deux sont interchangeables et ont le même sens. Cependant, "야 되다" est plus commun.
 
 [indent]• Utilisation de "야 하다" :
-[i]Exemple : [color=#0000FF]빨리 집에 가야 해요.[font_size=18pt](Ppalli jibe gaya haeyo.)[/font_size][/color] [color=#008000](Je dois rentrer rapidement à la maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]빨리 집에 가야 해요.[font_size=18](Ppalli jibe gaya haeyo.)[/font_size][/color] [color=#008000](Je dois rentrer rapidement à la maison.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -16,7 +16,7 @@ AはBより...です。(A wa B yori... desu.)
 A est plus... que B.
 [/code]
 
-[i]Exemple : [color=#0000FF]この本はあの本よりも面白いです。[font_size=18pt](Kono hon wa ano hon yori mo omoshiroi desu.)[/font_size][/color] [color=#008000](Ce livre est plus intéressant que celui-là.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]この本はあの本よりも面白いです。[font_size=18](Kono hon wa ano hon yori mo omoshiroi desu.)[/font_size][/color] [color=#008000](Ce livre est plus intéressant que celui-là.)[/color][/i][/indent]
 
 [b]b) Utilisation de もっと (motto)[/b]
 [indent]もっと (motto) signifie "plus" et peut être utilisé pour renforcer la comparaison.
@@ -26,7 +26,7 @@ Aはもっと...です。(A wa motto... desu.)
 A est encore plus...
 [/code]
 
-[i]Exemple : [color=#0000FF]彼はもっと勉強しています。[font_size=18pt](Kare wa motto benkyou shiteimasu.)[/font_size][/color] [color=#008000](Il étudie encore plus.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼はもっと勉強しています。[font_size=18](Kare wa motto benkyou shiteimasu.)[/font_size][/color] [color=#008000](Il étudie encore plus.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Comparaison d'infériorité[/color][/font_size]
 
@@ -40,7 +40,7 @@ AはBほど...ではありません。(A wa B hodo...de wa arimasen.)
 A n'est pas aussi... que B.
 [/code]
 
-[i]Exemple : [color=#0000FF]この映画はその映画ほど面白くないです。[font_size=18pt](Kono eiga wa sono eiga hodo omoshirokunai desu.)[/font_size][/color] [color=#008000](Ce film n'est pas aussi intéressant que celui-là.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]この映画はその映画ほど面白くないです。[font_size=18](Kono eiga wa sono eiga hodo omoshirokunai desu.)[/font_size][/color] [color=#008000](Ce film n'est pas aussi intéressant que celui-là.)[/color][/i][/indent]
 
 [b]b) Utilisation de あまり...ない (amari...nai)[/b]
 [indent]あまり (amari) combiné avec ない (nai) permet d'exprimer que quelque chose n'est pas beaucoup ou pas très.
@@ -50,7 +50,7 @@ Aはあまり...ではありません。(A wa amari...de wa arimasen.)
 A n'est pas très...
 [/code]
 
-[i]Exemple : [color=#0000FF]彼はあまり早くありません。[font_size=18pt](Kare wa amari hayaku arimasen.)[/font_size][/color] [color=#008000](Il n'est pas très rapide.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼はあまり早くありません。[font_size=18](Kare wa amari hayaku arimasen.)[/font_size][/color] [color=#008000](Il n'est pas très rapide.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Comparaison d'égalité[/color][/font_size]
 
@@ -64,7 +64,7 @@ AはBと同じくらい...です。(A wa B to onaji kurai... desu.)
 A est aussi... que B.
 [/code]
 
-[i]Exemple : [color=#0000FF]彼女は彼と同じくらい背が高いです。[font_size=18pt](Kanojo wa kare to onaji kurai se ga takai desu.)[/font_size][/color] [color=#008000](Elle est aussi grande que lui.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼女は彼と同じくらい背が高いです。[font_size=18](Kanojo wa kare to onaji kurai se ga takai desu.)[/font_size][/color] [color=#008000](Elle est aussi grande que lui.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

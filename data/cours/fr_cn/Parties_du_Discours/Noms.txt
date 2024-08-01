@@ -18,7 +18,7 @@ Les noms en chinois peuvent être classés en plusieurs catégories. Voici les p
 学生 (xué shēng) [color=#008000](étudiant)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他是我的朋友。[font_size=18pt](Tā shì wǒ de péng yǒu.)[/font_size][/color] [color=#008000](Il est mon ami.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他是我的朋友。[font_size=18](Tā shì wǒ de péng yǒu.)[/font_size][/color] [color=#008000](Il est mon ami.)[/color][/i][/indent]
 
 [b]b) Noms de lieux[/b]
 [indent]Les noms de lieux font référence à des emplacements géographiques, des pays, des villes, etc.
@@ -30,7 +30,7 @@ Les noms en chinois peuvent être classés en plusieurs catégories. Voici les p
 家 (jiā) [color=#008000](maison)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]她在学校工作。[font_size=18pt](Tā zài xué xiào gōng zuò.)[/font_size][/color] [color=#008000](Elle travaille à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]她在学校工作。[font_size=18](Tā zài xué xiào gōng zuò.)[/font_size][/color] [color=#008000](Elle travaille à l'école.)[/color][/i][/indent]
 
 [b]c) Noms d'objets[/b]
 [indent]Les noms d'objets désignent des choses tangibles comme des meubles, des véhicules, des outils, etc.
@@ -42,7 +42,7 @@ Les noms en chinois peuvent être classés en plusieurs catégories. Voici les p
 手机 (shǒu jī) [color=#008000](téléphone portable)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他有一台新电脑。[font_size=18pt](Tā yǒu yī tái xīn diàn nǎo.)[/font_size][/color] [color=#008000](Il a un nouvel ordinateur.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他有一台新电脑。[font_size=18](Tā yǒu yī tái xīn diàn nǎo.)[/font_size][/color] [color=#008000](Il a un nouvel ordinateur.)[/color][/i][/indent]
 
 [b]d) Noms de concepts et d'idées[/b]
 [indent]Ces noms font référence à des notions abstraites, des sentiments, des activités ou des événements.
@@ -54,7 +54,7 @@ Les noms en chinois peuvent être classés en plusieurs catégories. Voici les p
 进步 (jìn bù) [color=#008000](progrès)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]幸福是最重要的。[font_size=18pt](Xìng fú shì zuì zhòng yào de.)[/font_size][/color] [color=#008000](Le bonheur est le plus important.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]幸福是最重要的。[font_size=18](Xìng fú shì zuì zhòng yào de.)[/font_size][/color] [color=#008000](Le bonheur est le plus important.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. L'utilisation des classificateurs avec les noms[/color][/font_size]
 
@@ -79,7 +79,7 @@ En chinois, les noms sont souvent accompagnés de classificateurs (également ap
 两本书 (liǎng běn shū) [color=#008000](deux livres)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我有两本书和三只猫。[font_size=18pt](Wǒ yǒu liǎng běn shū hé sān zhī māo.)[/font_size][/color] [color=#008000](J'ai deux livres et trois chats.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我有两本书和三只猫。[font_size=18](Wǒ yǒu liǎng běn shū hé sān zhī māo.)[/font_size][/color] [color=#008000](J'ai deux livres et trois chats.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Formation des noms composés[/color][/font_size]
 
@@ -100,7 +100,7 @@ Les noms composés sont formés en combinant deux ou plusieurs mots pour créer 
 游泳池 (yóu yǒng chí) [color=#008000](piscine) [literal](nager + bassin)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]她去游泳池了。[font_size=18pt](Tā qù yóu yǒng chí le.)[/font_size][/color] [color=#008000](Elle est allée à la piscine.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]她去游泳池了。[font_size=18](Tā qù yóu yǒng chí le.)[/font_size][/color] [color=#008000](Elle est allée à la piscine.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

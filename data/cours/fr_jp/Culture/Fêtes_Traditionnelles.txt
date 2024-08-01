@@ -15,7 +15,7 @@ Le Nouvel An est la fête la plus importante au Japon. Il est célébré du 1er 
 • Envoi et réception de cartes de vœux 新年の挨拶 (shinnen no aisatsu)
 [/indent]
 
-[i]Exemple : [color=#0000FF]新年明けましておめでとうございます。[font_size=18pt](Shinnen akemashite omedetō gozaimasu.)[/font_size][/color] [color=#008000](Bonne année !)[/color][/i]
+[i]Exemple : [color=#0000FF]新年明けましておめでとうございます。[font_size=18](Shinnen akemashite omedetō gozaimasu.)[/font_size][/color] [color=#008000](Bonne année !)[/color][/i]
 
 [font_size=24][color=#4B0082]2. La Fête des Lanternes - 灯篭流し (tōrō nagashi)[/color][/font_size]
 
@@ -27,7 +27,7 @@ Cette fête a lieu en août pour commémorer les âmes des ancêtres.
 • Préparation du お盆料理 (obon ryōri) pour honorer les esprits des ancêtres
 [/indent]
 
-[i]Exemple : [color=#0000FF]家族と一緒に灯篭流しをしました。[font_size=18pt](Kazoku to issho ni tōrō nagashi o shimashita.)[/font_size][/color] [color=#008000](Nous avons fait flotter des lanternes avec ma famille.)[/color][/i]
+[i]Exemple : [color=#0000FF]家族と一緒に灯篭流しをしました。[font_size=18](Kazoku to issho ni tōrō nagashi o shimashita.)[/font_size][/color] [color=#008000](Nous avons fait flotter des lanternes avec ma famille.)[/color][/i]
 
 [font_size=24][color=#4B0082]3. La Fête des Enfants - こどもの日 (kodomo no hi)[/color][/font_size]
 
@@ -39,7 +39,7 @@ La Fête des Enfants est célébrée le 5 mai et met particulièrement en avant 
 • Préparation et dégustation de 餅 (mochi) et de sucreries spéciales
 [/indent]
 
-[i]Exemple : [color=#0000FF]こどもの日には鯉のぼりを飾ります。[font_size=18pt](Kodomo no hi ni wa koinobori o kazarimasu.)[/font_size][/color] [color=#008000](Pour la Fête des Enfants, nous décorons avec des carpes en tissu.)[/color][/i]
+[i]Exemple : [color=#0000FF]こどもの日には鯉のぼりを飾ります。[font_size=18](Kodomo no hi ni wa koinobori o kazarimasu.)[/font_size][/color] [color=#008000](Pour la Fête des Enfants, nous décorons avec des carpes en tissu.)[/color][/i]
 
 [font_size=24][color=#4B0082]4. La Fête des Étoiles - 七夕 (tanabata)[/color][/font_size]
 
@@ -51,7 +51,7 @@ Célébrée le 7 juillet, cette fête est basée sur une légende romantique ent
 • Préparation de plats traditionnels japonais
 [/indent]
 
-[i]Exemple : [color=#0000FF]七夕に願い事を書いて竹に飾ります。[font_size=18pt](Tanabata ni negaigoto o kaite take ni kazarimasu.)[/font_size][/color] [color=#008000](Lors de la fête de Tanabata, nous écrivons nos souhaits et les accrochons à des branches de bambou.)[/color][/i]
+[i]Exemple : [color=#0000FF]七夕に願い事を書いて竹に飾ります。[font_size=18](Tanabata ni negaigoto o kaite take ni kazarimasu.)[/font_size][/color] [color=#008000](Lors de la fête de Tanabata, nous écrivons nos souhaits et les accrochons à des branches de bambou.)[/color][/i]
 
 [center][color=#808080]__________[/color][/center]
 

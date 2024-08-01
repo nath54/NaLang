@@ -12,51 +12,51 @@ En allemand, il y a trois principales formes d'impératif : pour la deuxième pe
 [indent]Pour former l'impératif à la deuxième personne du singulier, on utilise la base du verbe sans le pronom et souvent sans la terminaison -st du présent.
 [code]
 Comme par exemple : [bär] [color=#008000](porter)[/color]
-du trägst  -> [color=#FF0000]Trag![/color] [color=#008000](Porte !)[/color]
+du trägst  -> [color=#FF0000]Trag![/color] [color=#008000](Porte !)[/color][/code]
 
-[i]Exemple : [color=#0000FF]Sei ruhig ![font_size=18pt](Calme-toi !)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Sei ruhig ![font_size=18](Calme-toi !)[/font_size][/color][/i][/indent]
 
 [b]b) Impératif pour "ihr"[/b]
 [indent]Pour la deuxième personne du pluriel, on utilise la forme du verbe conjugué à "ihr" sans le pronom.
 [code]
 Comme par exemple : [bdrinken] [color=#008000](boire)[/color]
-ihr trinkt  -> [color=#FF0000]Trinkt![/color] [color=#008000](Buvez !)[/color]
+ihr trinkt  -> [color=#FF0000]Trinkt![/color] [color=#008000](Buvez !)[/color][/code]
 
-[i]Exemple : [color=#0000FF]Gebt mir das Buch![font_size=18pt](Donnez-moi le livre !)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Gebt mir das Buch![font_size=18](Donnez-moi le livre !)[/font_size][/color][/i][/indent]
 
 [b]c) Impératif pour "wir"[/b]
 [indent]Pour la première personne du pluriel, on utilise la forme du verbe conjugué à "wir" mais en inversant le sujet et le verbe.
 [code]
 Comme par exemple : [bgehen] [color=#008000](aller)[/color]
-wir gehen  -> [color=#FF0000]Gehen wir![/color] [color=#008000](Allons-y !)[/color]
+wir gehen  -> [color=#FF0000]Gehen wir![/color] [color=#008000](Allons-y !)[/color][/code]
 
-[i]Exemple : [color=#0000FF]Lassen wir gehen![font_size=18pt](Partons !)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Lassen wir gehen![font_size=18](Partons !)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de l'impératif[/color][/font_size]
 
 L'impératif s'utilise pour adresser directement une demande ou une commande à quelqu'un. Voici quelques règles et exemples pour bien utiliser l'impératif en allemand.
 
 [indent]• Lorsque vous vous adressez à une personne familière, utilisez la forme du "du".
-[i]Exemple : [color=#0000FF]Mach deine Hausaufgaben![font_size=18pt](Fais tes devoirs !)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Mach deine Hausaufgaben![font_size=18](Fais tes devoirs !)[/font_size][/color][/i]
 
 - Lorsque vous vous adressez à un groupe de personnes, utilisez la forme du "ihr".
-[i]Exemple : [color=#0000FF]Schreibt das auf![font_size=18pt](Écrivez ça !)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Schreibt das auf![font_size=18](Écrivez ça !)[/font_size][/color][/i]
 
 - Lorsque vous incluez vous-même dans l'ordre ou la suggestion, utilisez la forme du "wir".
-[i]Exemple : [color=#0000FF]Gehen wir ins Kino![font_size=18pt](Allons au cinéma !)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Gehen wir ins Kino![font_size=18](Allons au cinéma !)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Exemples avancés avec l'impératif[/color][/font_size]
 
 Pour bien comprendre l'utilisation de l'impératif en contexte, voici quelques exemples avancés.
 
 [indent]• Utilisation avec des compléments
-[i]Exemple : [color=#0000FF]Bringt mir den Schlüssel![font_size=18pt](Apportez-moi la clé !)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Bringt mir den Schlüssel![font_size=18](Apportez-moi la clé !)[/font_size][/color][/i]
 
 - Utilisation avec des verbes réfléchis
-[i]Exemple : [color=#0000FF]Wasch dich![font_size=18pt](Lave-toi !)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Wasch dich![font_size=18](Lave-toi !)[/font_size][/color][/i]
 
 - Utilisation avec des verbes modaux
-[i]Exemple : [color=#0000FF]Könnt ihr das Fenster öffnen?[font_size=18pt](Pouvez-vous ouvrir la fenêtre ?) Devient :[/font_size][/color] [color=#FF0000]Öffnet das Fenster![/color] [color=#008000](Ouvrez la fenêtre !)[/color] [/i][/indent]
+[i]Exemple : [color=#0000FF]Könnt ihr das Fenster öffnen?[font_size=18](Pouvez-vous ouvrir la fenêtre ?) Devient :[/font_size][/color] [color=#FF0000]Öffnet das Fenster![/color] [color=#008000](Ouvrez la fenêtre !)[/color] [/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -16,7 +16,7 @@ Das Kind (l'enfant)
 Die Bücher (les livres)
 [/code]
 
-[i]Phrase : [color=#0000FF]Der Mann isst.[font_size=18pt](L'homme mange.)[/font_size][/color][/i][/indent]
+[i]Phrase : [color=#0000FF]Der Mann isst.[font_size=18](L'homme mange.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. L'accusatif[/color][/font_size]
 
@@ -30,7 +30,7 @@ Das Kind (l'enfant)
 Die Bücher (les livres)
 [/code]
 
-[i]Phrase : [color=#0000FF]Ich sehe den Mann.[font_size=18pt](Je vois l'homme.)[/font_size][/color][/i][/indent]
+[i]Phrase : [color=#0000FF]Ich sehe den Mann.[font_size=18](Je vois l'homme.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Le datif[/color][/font_size]
 
@@ -44,7 +44,7 @@ Dem Kind (à l'enfant)
 Den Büchern (aux livres)
 [/code]
 
-[i]Phrase : [color=#0000FF]Ich gebe dem Mann ein Buch.[font_size=18pt](Je donne un livre à l'homme.)[/font_size][/color][/i][/indent]
+[i]Phrase : [color=#0000FF]Ich gebe dem Mann ein Buch.[font_size=18](Je donne un livre à l'homme.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Le génitif[/color][/font_size]
 
@@ -58,7 +58,7 @@ Des Kindes (de l'enfant)
 Der Bücher (des livres)
 [/code]
 
-[i]Phrase : [color=#0000FF]Das Buch des Mannes.[font_size=18pt](Le livre de l'homme.)[/font_size][/color][/i][/indent]
+[i]Phrase : [color=#0000FF]Das Buch des Mannes.[font_size=18](Le livre de l'homme.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]5. Tableaux des déclinaisons[/color][/font_size]
 
@@ -88,12 +88,12 @@ En allemand, chaque cas peut être associé à certaines prépositions, lesquell
 [indent][b]Prépositions utilisant le Datif :[/b]
 Mit (avec), nach (après, vers), bei (chez), seit (depuis), von (de, par), zu (vers, à), aus (de, depuis)
 
-[i]Exemple : [color=#0000FF]Ich bin bei dem Freund.[font_size=18pt](Je suis chez l'ami.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich bin bei dem Freund.[font_size=18](Je suis chez l'ami.)[/font_size][/color][/i][/indent]
 
 [indent][b]Prépositions utilisant l'Accusatif :[/b]
 Durch (à travers), für (pour), gegen (contre), ohne (sans), um (autour de)
 
-[i]Exemple : [color=#0000FF]Das Geschenk ist für die Mutter.[font_size=18pt](Le cadeau est pour la mère.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das Geschenk ist für die Mutter.[font_size=18](Le cadeau est pour la mère.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

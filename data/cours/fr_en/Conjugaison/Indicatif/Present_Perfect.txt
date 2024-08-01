@@ -29,39 +29,39 @@ go (aller) - gone (allé)
 see (voir) - seen (vu)
 [/code]
 
-[i]Exemple : [color=#0000FF]I have visited Paris.[font_size=18pt](J'ai visité Paris.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I have visited Paris.[font_size=18](J'ai visité Paris.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisations du Present Perfect[/color][/font_size]
 
 Le Present Perfect s'utilise dans plusieurs contextes :
 
 [indent]• Pour une action passée ayant une conséquence sur le présent :
-[i]Exemple : [color=#0000FF]She has lost her keys.[font_size=18pt](Elle a perdu ses clés.)[/font_size][/color] [color=#008000](Elle ne peut pas entrer maintenant.)[/color][/i]
+[i]Exemple : [color=#0000FF]She has lost her keys.[font_size=18](Elle a perdu ses clés.)[/font_size][/color] [color=#008000](Elle ne peut pas entrer maintenant.)[/color][/i]
 
 - Pour une action qui vient tout juste de se produire (souvent avec "just") :
-[i]Exemple : [color=#0000FF]They have just arrived.[font_size=18pt](Ils viennent d'arriver.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]They have just arrived.[font_size=18](Ils viennent d'arriver.)[/font_size][/color][/i]
 
 - Pour des actions passées sans indication de temps :
-[i]Exemple : [color=#0000FF]I have been to Japan.[font_size=18pt](Je suis allé au Japon.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]I have been to Japan.[font_size=18](Je suis allé au Japon.)[/font_size][/color][/i]
 
 - Pour des actions répétées dans le passé avec une implication présente :
-[i]Exemple : [color=#0000FF]He has visited that museum several times.[font_size=18pt](Il a visité ce musée plusieurs fois.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He has visited that museum several times.[font_size=18](Il a visité ce musée plusieurs fois.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Expressions courantes avec le Present Perfect[/color][/font_size]
 
 Certaines expressions sont souvent utilisées avec le Present Perfect pour marquer le lien avec le présent.
 
 [indent]• [i]Ever (déjà)[/i]
-[i]Exemple : [color=#0000FF]Have you ever been to New York?[font_size=18pt](As-tu déjà été à New York ?)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Have you ever been to New York?[font_size=18](As-tu déjà été à New York ?)[/font_size][/color][/i]
 
 - [i]Never (jamais)[/i]
-[i]Exemple : [color=#0000FF]I have never seen that movie.[font_size=18pt](Je n'ai jamais vu ce film.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]I have never seen that movie.[font_size=18](Je n'ai jamais vu ce film.)[/font_size][/color][/i]
 
 - [i]Already (déjà)[/i]
-[i]Exemple : [color=#0000FF]She has already finished her homework.[font_size=18pt](Elle a déjà fini ses devoirs.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]She has already finished her homework.[font_size=18](Elle a déjà fini ses devoirs.)[/font_size][/color][/i]
 
 - [i]Yet (encore)[/i]
-[i]Exemple : [color=#0000FF]They haven't arrived yet.[font_size=18pt](Ils ne sont pas encore arrivés.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]They haven't arrived yet.[font_size=18](Ils ne sont pas encore arrivés.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

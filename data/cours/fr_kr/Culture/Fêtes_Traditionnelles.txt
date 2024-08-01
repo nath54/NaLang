@@ -15,7 +15,7 @@ Les membres de la famille s'inclinent devant une table d’offrandes pour honore
 Les Hanbok (한복) [color=#008000](vêtements traditionnels)[/color] sont souvent portés lors de cette occasion.
 [/code]
 
-[i]Exemple : [color=#0000FF]Seollal est l'occasion de préparer et de manger des Tteokguk (떡국) [font_size=18pt](soupe de gâteau de riz).[/font_size][/color] [color=#008000](Cette soupe symbolise un passage vers la nouvelle année).[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Seollal est l'occasion de préparer et de manger des Tteokguk (떡국) [font_size=18](soupe de gâteau de riz).[/font_size][/color] [color=#008000](Cette soupe symbolise un passage vers la nouvelle année).[/color][/i][/indent]
 
 [b]b) Jeux et divertissements[/b]
 [indent]
@@ -24,7 +24,7 @@ Le jeu Yutnori (윷놀이) [color=#008000](jeu de société traditionnel)[/color
 Des cerfs-volants appelés Yeon (연) [color=#008000](cerf-volants)[/color] sont également volés.
 [/code]
 
-[i]Exemple : [color=#0000FF]On s'amuse souvent en jouant au Yutnori en famille pendant Seollal.[font_size=18pt](Cela fait partie des traditions).[/font_size][/color] [color=#008000](Il s'agit d'un jeu de plateau similaire aux jeux de l'oie).[color=#008000][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]On s'amuse souvent en jouant au Yutnori en famille pendant Seollal.[font_size=18](Cela fait partie des traditions).[/font_size][/color] [color=#008000](Il s'agit d'un jeu de plateau similaire aux jeux de l'oie).[/color][color=#008000][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Chuseok (추석)[/color][/font_size]
 
@@ -37,7 +37,7 @@ Le charye (차례) [color=#008000](rite ancestral)[/color] est également observ
 On prépare et on partage des plats traditionnels comme les Songpyeon (송편) [color=#008000](gâteaux de riz en forme de demi-lune)[/color].
 [/code]
 
-[i]Exemple : [color=#0000FF]Les familles préparent souvent des Songpyeon ensemble pendant Chuseok.[font_size=18pt](C'est une tradition).[/font_size][/color] [color=#008000](Ces gâteaux sont remplis de graines de sésame, de haricots rouges ou de châtaignes).[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Les familles préparent souvent des Songpyeon ensemble pendant Chuseok.[font_size=18](C'est une tradition).[/font_size][/color] [color=#008000](Ces gâteaux sont remplis de graines de sésame, de haricots rouges ou de châtaignes).[/color][/i][/indent]
 
 [b]b) Activités culturelles[/b]
 [indent]
@@ -46,7 +46,7 @@ Les danses traditionnelles telles que Ganggangsullae (강강술래) [color=#0080
 Les jeux traditionnels comme Ssireum (씨름) [color=#008000](lutte coréenne)[/color] sont aussi populaires.
 [/code]
 
-[i]Exemple : [color=#0000FF]Pendant Chuseok, on peut assister à des performances de Ganggangsullae.[font_size=18pt](Cette danse est très ancienne).[/font_size][/color] [color=#008000](Elle est pratiquée par les femmes sous la pleine lune).[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Pendant Chuseok, on peut assister à des performances de Ganggangsullae.[font_size=18](Cette danse est très ancienne).[/font_size][/color] [color=#008000](Elle est pratiquée par les femmes sous la pleine lune).[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Jeongwol Daeboreum (정월 대보름)[/color][/font_size]
 
@@ -59,7 +59,7 @@ Les gens montent sur les collines pour voir la première pleine lune et prier po
 Les noix, appelées dans cette occasion "bureom" (부럼), sont cassées avec les dents pour éloigner les mauvais esprits.
 [/code]
 
-[i]Exemple : [color=#0000FF]Les Coréens cassent des noix pendant Jeongwol Daeboreum pour éloigner les maladies.[font_size=18pt](C'est une coutume).[/font_size][/color] [color=#008000](C'est aussi censé renforcer les dents).[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Les Coréens cassent des noix pendant Jeongwol Daeboreum pour éloigner les maladies.[font_size=18](C'est une coutume).[/font_size][/color] [color=#008000](C'est aussi censé renforcer les dents).[/color][/i][/indent]
 
 [b]b) Jeux et festivités[/b]
 [indent]
@@ -68,7 +68,7 @@ Les enfants font tourner des "jweahwaji" (쥐불놀이) [color=#008000](lanterne
 Les familles partagent du riz gluant mélangé avec de la pâte de haricot rouge appelée "ogokbap" (오곡밥) [color=#008000](riz aux cinq céréales)[/color].
 [/code]
 
-[i]Exemple : [color=#0000FF]Pendant Jeongwol Daeboreum, les enfants jouent au jeu des lanternes de feu, appelé Jweahwaji.[font_size=18pt](Ils s'amusent beaucoup).[/font_size][/color] [color=#008000](Cette activité symbolise la purification de la terre).[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Pendant Jeongwol Daeboreum, les enfants jouent au jeu des lanternes de feu, appelé Jweahwaji.[font_size=18](Ils s'amusent beaucoup).[/font_size][/color] [color=#008000](Cette activité symbolise la purification de la terre).[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

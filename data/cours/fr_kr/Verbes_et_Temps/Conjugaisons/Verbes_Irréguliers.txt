@@ -15,7 +15,7 @@ Les verbes dont la racine se termine par ㅂ (b) subissent souvent une mutation 
 눕다 (nupt-da) [color=#008000](s'allonger)[/color] → 누워요 (nuwo-yo) [color=#008000](je m'allonge)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그는 나를 도와요.[font_size=18pt](Geuneun nareul dowayo.)[/font_size][/color] [color=#008000](Il m'aide.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 나를 도와요.[font_size=18](Geuneun nareul dowayo.)[/font_size][/color] [color=#008000](Il m'aide.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Verbes en ㄷ (d)[/color][/font_size]
 
@@ -28,7 +28,7 @@ Les verbes dont la racine se termine par ㄷ (d) changent souvent en ㄹ (l) lor
 걷다 (geot-da) [color=#008000](marcher)[/color] → 걸어요 (georeo-yo) [color=#008000](je marche)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]음악을 들어요.[font_size=18pt](Eumak-eul deureoyo.)[/font_size][/color] [color=#008000](J'écoute de la musique.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]음악을 들어요.[font_size=18](Eumak-eul deureoyo.)[/font_size][/color] [color=#008000](J'écoute de la musique.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Verbes en 르 (reu)[/color][/font_size]
 
@@ -41,7 +41,7 @@ Les verbes dont la racine contient 르 (reu) ajoutent ㄹ (l) avant ㅏ (a) ou �
 빠르다 (ppareu-da) [color=#008000](être rapide)[/color] → 빨라요 (ppalla-yo) [color=#008000](c'est rapide)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그것은 달라요.[font_size=18pt](Geugeos-eun dallayo.)[/font_size][/color] [color=#008000](C'est différent.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그것은 달라요.[font_size=18](Geugeos-eun dallayo.)[/font_size][/color] [color=#008000](C'est différent.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Verbes en ㅎ (h)[/color][/font_size]
 
@@ -54,7 +54,7 @@ Les verbes terminant par ㅎ (h) subjuguent souvent cette arabe avant ㄴ (n) ou
 좋다 (johta) [color=#008000](être bon)[/color] → 좋아요 (joha-yo) [color=#008000](c'est bon)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그녀는 아이를 낳아요.[font_size=18pt](Geunyeoneun aireul nah-ayo.)[/font_size][/color] [color=#008000](Elle donne naissance à un bébé.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그녀는 아이를 낳아요.[font_size=18](Geunyeoneun aireul nah-ayo.)[/font_size][/color] [color=#008000](Elle donne naissance à un bébé.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]5. Verbes en ㅅ (s)[/color][/font_size]
 
@@ -67,7 +67,7 @@ Ces verbes abandonnent souvent ㅅ (s) avant une voyelle.
 짓다 (jit-da) [color=#008000](construire)[/color] → 지어요 (jieo-yo) [color=#008000](je construis)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그는 집을 지어요.[font_size=18pt](Geuneun jibeul jieo-yo.)[/font_size][/color] [color=#008000](Il construit une maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 집을 지어요.[font_size=18](Geuneun jibeul jieo-yo.)[/font_size][/color] [color=#008000](Il construit une maison.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

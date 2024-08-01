@@ -19,33 +19,33 @@ entlang [color=#008000](le long de)[/color]
 [/code]
 
 [i]Exemples :[/i]
-[indent][i]1. Er geht [color=#0000FF]durch den Park.[/color] [font_size=18pt](Il traverse le parc.)[/font_size]
-2. Das Geschenk ist [color=#0000FF]für dich.[/color] [font_size=18pt](Le cadeau est pour toi.)[/font_size][/i][/indent]
+[indent][i]1. Er geht [color=#0000FF]durch den Park.[/color] [font_size=18](Il traverse le parc.)[/font_size]
+2. Das Geschenk ist [color=#0000FF]für dich.[/color] [font_size=18](Le cadeau est pour toi.)[/font_size][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des prépositions avec accusatif[/color][/font_size]
 
 Ces prépositions modifient le cas des noms et des pronoms qui les suivent en accusatif. Cela signifie que vous devez également ajuster les articles et les adjectifs correspondants.
 
 [indent]• [b]durch[/b] [color=#008000](à travers)[/color] :
-[i]Exemple : [color=#0000FF]Wir laufen durch den Wald.[/color] [font_size=18pt](Nous marchons à travers la forêt.)[/font_size][/i]
+[i]Exemple : [color=#0000FF]Wir laufen durch den Wald.[/color] [font_size=18](Nous marchons à travers la forêt.)[/font_size][/i]
 
 • [b]für[/b] [color=#008000](pour)[/color] :
-[i]Exemple : [color=#0000FF]Dieses Buch ist für meinen Bruder.[/color] [font_size=18pt](Ce livre est pour mon frère.)[/font_size][/i]
+[i]Exemple : [color=#0000FF]Dieses Buch ist für meinen Bruder.[/color] [font_size=18](Ce livre est pour mon frère.)[/font_size][/i]
 
 • [b]gegen[/b] [color=#008000](contre)[/color] :
-[i]Exemple : [color=#0000FF]Ich bin gegen die Idee.[/color] [font_size=18pt](Je suis contre l'idée.)[/font_size][/i]
+[i]Exemple : [color=#0000FF]Ich bin gegen die Idee.[/color] [font_size=18](Je suis contre l'idée.)[/font_size][/i]
 
 • [b]ohne[/b] [color=#008000](sans)[/color] :
-[i]Exemple : [color=#0000FF]Er reist ohne seine Eltern.[/color] [font_size=18pt](Il voyage sans ses parents.)[/font_size][/i]
+[i]Exemple : [color=#0000FF]Er reist ohne seine Eltern.[/color] [font_size=18](Il voyage sans ses parents.)[/font_size][/i]
 
 • [b]um[/b] [color=#008000](autour de)[/color] :
-[i]Exemple : [color=#0000FF]Wir sitzen um den Tisch.[/color] [font_size=18pt](Nous sommes assis autour de la table.)[/font_size][/i]
+[i]Exemple : [color=#0000FF]Wir sitzen um den Tisch.[/color] [font_size=18](Nous sommes assis autour de la table.)[/font_size][/i]
 
 • [b]bis[/b] [color=#008000](jusqu'à)[/color] :
-[i]Exemple : [color=#0000FF]Die Party dauert bis Mitternacht.[/color] [font_size=18pt](La fête dure jusqu'à minuit.)[/font_size][/i]
+[i]Exemple : [color=#0000FF]Die Party dauert bis Mitternacht.[/color] [font_size=18](La fête dure jusqu'à minuit.)[/font_size][/i]
 
 • [b]entlang[/b] [color=#008000](le long de)[/color] :
-[i]Exemple : [color=#0000FF]Er geht die Straße entlang.[/color] [font_size=18pt](Il marche le long de la rue.)[/font_size][/i][/indent]
+[i]Exemple : [color=#0000FF]Er geht die Straße entlang.[/color] [font_size=18](Il marche le long de la rue.)[/font_size][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Transformations des articles et des adjectifs[/color][/font_size]
 
@@ -64,8 +64,8 @@ Accusatif : einen Mann, eine Frau, ein Kind, (keine Form Pluriel)
 [/code]
 
 [i]Exemples :[/i]
-[indent][i]1. [color=#0000FF]Ich sehe den Hund.[/color] [font_size=18pt](Je vois le chien.)[/font_size]
-2. [color=#0000FF]Sie hat einen Apfel.[/color] [font_size=18pt](Elle a une pomme.)[/font_size][/i][/indent]
+[indent][i]1. [color=#0000FF]Ich sehe den Hund.[/color] [font_size=18](Je vois le chien.)[/font_size]
+2. [color=#0000FF]Sie hat einen Apfel.[/color] [font_size=18](Elle a une pomme.)[/font_size][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

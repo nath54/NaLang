@@ -11,32 +11,32 @@ Pour indiquer la capacité de faire quelque chose, on utilise できる (dekiru)
 [b]a) Forme positive[/b]
 [indent]Verbe en forme du dictionnaire + ことができる (koto ga dekiru)
 
-[i]Exemple : [color=#0000FF]日本語を話すことができる。[font_size=18pt](Nihongo o hanasu koto ga dekiru.)[/font_size][/color] [color=#008000](Je peux parler japonais.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]日本語を話すことができる。[font_size=18](Nihongo o hanasu koto ga dekiru.)[/font_size][/color] [color=#008000](Je peux parler japonais.)[/color][/i][/indent]
 
 [b]b) Forme négative[/b]
 [indent]Verbe en forme du dictionnaire + ことができない (koto ga dekinai)
 
-[i]Exemple : [color=#0000FF]ギターを弾くことができない。[font_size=18pt](Gitā o hiku koto ga dekinai.)[/font_size][/color] [color=#008000](Je ne peux pas jouer de la guitare.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]ギターを弾くことができない。[font_size=18](Gitā o hiku koto ga dekinai.)[/font_size][/color] [color=#008000](Je ne peux pas jouer de la guitare.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de できる (dekiru) dans différentes situations[/color][/font_size]
 
 [indent][i]• Capacité personnelle
-[color=#0000FF]車を運転することができる。[font_size=18pt](Kuruma o unten suru koto ga dekiru.)[/font_size][/color] [color=#008000](Je peux conduire une voiture.)[/color]
+[color=#0000FF]車を運転することができる。[font_size=18](Kuruma o unten suru koto ga dekiru.)[/font_size][/color] [color=#008000](Je peux conduire une voiture.)[/color]
 
 - Capacité due à des circonstances extérieures
-[color=#0000FF]今日は外に出かけることができない。[font_size=18pt](Kyō wa soto ni dekakeru koto ga dekinai.)[/font_size][/color] [color=#008000](Aujourd'hui, je ne peux pas sortir.)[/color]
+[color=#0000FF]今日は外に出かけることができない。[font_size=18](Kyō wa soto ni dekakeru koto ga dekinai.)[/font_size][/color] [color=#008000](Aujourd'hui, je ne peux pas sortir.)[/color]
 
 - Capacité dans un cadre de permissions
-[color=#0000FF]ここで写真を撮ることができます。[font_size=18pt](Koko de shashin o toru koto ga dekimasu.)[/font_size][/color] [color=#008000](Vous pouvez prendre des photos ici.)[/color][/i][/indent]
+[color=#0000FF]ここで写真を撮ることができます。[font_size=18](Koko de shashin o toru koto ga dekimasu.)[/font_size][/color] [color=#008000](Vous pouvez prendre des photos ici.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Forme contractée et familière[/color][/font_size]
 
 Dans le discours informel, できる (dekiru) peut être utilisé directement après le verbe principal quand il est sous sa forme potentielle.
 
-[indent][i]Exemple : [color=#0000FF]日本語が話せる。[font_size=18pt](Nihongo ga hanaseru.)[/font_size][/color] [color=#008000](Je peux parler japonais.)[/color]
+[indent][i]Exemple : [color=#0000FF]日本語が話せる。[font_size=18](Nihongo ga hanaseru.)[/font_size][/color] [color=#008000](Je peux parler japonais.)[/color]
 
 - Forme négative contractée
-[color=#0000FF]ギターが弾けない。[font_size=18pt](Gitā ga hikenai.)[/font_size][/color] [color=#008000](Je ne peux pas jouer de la guitare.)[/color][/i][/indent]
+[color=#0000FF]ギターが弾けない。[font_size=18](Gitā ga hikenai.)[/font_size][/color] [color=#008000](Je ne peux pas jouer de la guitare.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

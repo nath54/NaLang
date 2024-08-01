@@ -30,7 +30,7 @@ ich wasche mich [color=#008000](je me lave)[/color]
 du wäschst dich [color=#008000](tu te laves)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich wasche mich jeden Morgen.[font_size=18pt](Ich wasche mich jeden Morgen.)[/font_size][/color] [color=#008000](Je me lave chaque matin.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich wasche mich jeden Morgen.[font_size=18](Ich wasche mich jeden Morgen.)[/font_size][/color] [color=#008000](Je me lave chaque matin.)[/color][/i][/indent]
 
 [b]b) Verbes réfléchis au datif[/b]
 [indent]D'autres verbes utilisent le pronom réfléchi au cas datif, généralement pour indiquer un bénéfice personnel de l'action.
@@ -40,17 +40,17 @@ ich sehe mir etwas an [color=#008000](je me regarde quelque chose)[/color]
 du siehst dir etwas an [color=#008000](tu te regardes quelque chose)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich sehe mir einen Film an.[font_size=18pt](Ich sehe mir einen Film an.)[/font_size][/color] [color=#008000](Je me regarde un film.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich sehe mir einen Film an.[font_size=18](Ich sehe mir einen Film an.)[/font_size][/color] [color=#008000](Je me regarde un film.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Différences culturelles et astuces pratiques[/color][/font_size]
 
 Les verbes réfléchis peuvent parfois différer entre le français et l'allemand, et il est important de noter ces différences pour éviter les erreurs de traduction.
 
 [indent]• Certains verbes réfléchis en français ne le sont pas en allemand :
-[i]Exemple : [color=#0000FF]sich erinnern (se rappeler / se souvenir)[/color] [color=#008000]Ich erinnere mich daran. [font_size=18pt](Je m'en souviens.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]sich erinnern (se rappeler / se souvenir)[/color] [color=#008000]Ich erinnere mich daran. [font_size=18](Je m'en souviens.)[/font_size][/color][/i]
 
 - Inversement, certains verbes non réfléchis en français peuvent l'être en allemand :
-[i]Exemple : [color=#0000FF]sich beeilen (se dépêcher)[/color] [color=#008000]Ich beeile mich. [font_size=18pt](Je me dépêche.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]sich beeilen (se dépêcher)[/color] [color=#008000]Ich beeile mich. [font_size=18](Je me dépêche.)[/font_size][/color][/i][/indent]
 
 [font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
 

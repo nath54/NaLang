@@ -16,7 +16,7 @@ En japonais, la structure de base d'une phrase simple est assez différente de c
 彼は水を飲みます。[color=#008000](Kare wa mizu o nomimasu.)[/color] [color=#008000](Il boit de l'eau.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]犬は公園を走ります。[font_size=18pt](Inu wa kouen o hashirimasu.)[/font_size][/color] [color=#008000](Le chien court dans le parc.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]犬は公園を走ります。[font_size=18](Inu wa kouen o hashirimasu.)[/font_size][/color] [color=#008000](Le chien court dans le parc.)[/color][/i][/indent]
 
 [b]b) Les particules "は" (wa) et "を" (o)[/b]
 [indent]Les particules sont des éléments grammaticaux qui suivent les mots pour indiquer leur fonction dans la phrase. Le japonais utilise souvent les particules "は" (wa) pour marquer le sujet et "を" (o) pour marquer l'objet direct.
@@ -25,27 +25,27 @@ En japonais, la structure de base d'une phrase simple est assez différente de c
 彼女は歌を歌います。[color=#008000](Kanojo wa uta o utaimasu.)[/color] [color=#008000](Elle chante une chanson.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は車を運転します。[font_size=18pt](Kare wa kuruma o untenshimasu.)[/font_size][/color] [color=#008000](Il conduit une voiture.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は車を運転します。[font_size=18](Kare wa kuruma o untenshimasu.)[/font_size][/color] [color=#008000](Il conduit une voiture.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Les adjectifs et la négation[/color][/font_size]
 
 En japonais, les adjectifs peuvent se placer avant les noms qu'ils décrivent. La négation des verbes se fait généralement en ajoutant "ません" (masen) à la fin du verbe.
 
 [indent]• Adjectifs avant les noms
-[i]Exemple : [color=#0000FF]美しい花があります。[font_size=18pt](Utsukushii hana ga arimasu.)[/font_size][/color] [color=#008000](Il y a une belle fleur.)[/color][/i]
+[i]Exemple : [color=#0000FF]美しい花があります。[font_size=18](Utsukushii hana ga arimasu.)[/font_size][/color] [color=#008000](Il y a une belle fleur.)[/color][/i]
 
 - Négation des verbes
-[i]Exemple : [color=#0000FF]私は本を読みません。[font_size=18pt](Watashi wa hon o yomimasen.)[/font_size][/color] [color=#008000](Je ne lis pas de livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は本を読みません。[font_size=18](Watashi wa hon o yomimasen.)[/font_size][/color] [color=#008000](Je ne lis pas de livre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Les phrases interrogatives[/color][/font_size]
 
 Pour poser des questions en japonais, il suffit généralement d’ajouter "か" (ka) à la fin de la phrase. 
 
 [indent]• Formation des questions
-[i]Exemple : [color=#0000FF]あなたは学生ですか？[font_size=18pt](Anata wa gakusei desu ka?)[/font_size][/color] [color=#008000](Es-tu étudiant ?)[/color][/i]
+[i]Exemple : [color=#0000FF]あなたは学生ですか？[font_size=18](Anata wa gakusei desu ka?)[/font_size][/color] [color=#008000](Es-tu étudiant ?)[/color][/i]
 
 - Exemple avec objet
-[i]Exemple : [color=#0000FF]彼は肉を食べますか？[font_size=18pt](Kare wa niku o tabemasu ka?)[/font_size][/color] [color=#008000](Mange-t-il de la viande ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は肉を食べますか？[font_size=18](Kare wa niku o tabemasu ka?)[/font_size][/color] [color=#008000](Mange-t-il de la viande ?)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

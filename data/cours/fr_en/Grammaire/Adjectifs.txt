@@ -17,7 +17,7 @@ A fast car [color=#008000](Une voiture rapide)[/color]
 An interesting book [color=#008000](Un livre intéressant)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She has a beautiful cat.[font_size=18pt](Elle a un beau chat.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She has a beautiful cat.[font_size=18](Elle a un beau chat.)[/font_size][/color][/i][/indent]
 
 [b]b) Adjectifs après un verbe d'état[/b]
 [indent]Les adjectifs peuvent également suivre des verbes comme "be", "seem", "become", "look", etc.
@@ -28,7 +28,7 @@ The car is fast. [color=#008000](La voiture est rapide.)[/color]
 The book seems interesting. [color=#008000](Le livre semble intéressant.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]The sky is blue.[font_size=18pt](Le ciel est bleu.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]The sky is blue.[font_size=18](Le ciel est bleu.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Types d'adjectifs[/color][/font_size]
 
@@ -43,7 +43,7 @@ Heavy [color=#008000](Lourd)[/color]
 Light [color=#008000](Léger)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She is a smart girl.[font_size=18pt](Elle est une fille intelligente.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She is a smart girl.[font_size=18](Elle est une fille intelligente.)[/font_size][/color][/i][/indent]
 
 [b]b) Adjectifs de quantité[/b]
 [indent]Ils indiquent la quantité d'un nom.
@@ -53,7 +53,7 @@ Many [color=#008000](Beaucoup)[/color]
 Several [color=#008000](Plusieurs)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]He has many books.[font_size=18pt](Il a beaucoup de livres.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He has many books.[font_size=18](Il a beaucoup de livres.)[/font_size][/color][/i][/indent]
 
 [b]c) Adjectifs de taille[/b]
 [indent]Ils décrivent la taille d'un nom.
@@ -64,7 +64,7 @@ Tall [color=#008000](Grand en hauteur)[/color]
 Short [color=#008000](Petit en hauteur)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]They live in a big house.[font_size=18pt](Ils vivent dans une grande maison.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]They live in a big house.[font_size=18](Ils vivent dans une grande maison.)[/font_size][/color][/i][/indent]
 
 [b]d) Adjectifs de forme[/b]
 [indent]Ils décrivent la forme d'un nom.
@@ -75,7 +75,7 @@ Triangular [color=#008000](Triangulaire)[/color]
 Rectangular [color=#008000](Rectangulaire)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]The table is round.[font_size=18pt](La table est ronde.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]The table is round.[font_size=18](La table est ronde.)[/font_size][/color][/i][/indent]
 
 [b]e) Adjectifs de couleur[/b]
 [indent]Ils décrivent la couleur d'un nom.
@@ -86,7 +86,7 @@ Green [color=#008000](Vert)[/color]
 Yellow [color=#008000](Jaune)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She is wearing a red dress.[font_size=18pt](Elle porte une robe rouge.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She is wearing a red dress.[font_size=18](Elle porte une robe rouge.)[/font_size][/color][/i][/indent]
 
 [b]f) Adjectifs d'origine[/b]
 [indent]Ils indiquent l'origine ou la source d'un nom.
@@ -97,7 +97,7 @@ American [color=#008000](Américain)[/color]
 Italian [color=#008000](Italien)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]He likes Italian food.[font_size=18pt](Il aime la cuisine italienne.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He likes Italian food.[font_size=18](Il aime la cuisine italienne.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Ordre des adjectifs[/color][/font_size]
 
@@ -108,7 +108,7 @@ Quand plusieurs adjectifs sont utilisés avant un nom, ils suivent généralemen
 A beautiful old big round green Chinese wooden ball [color=#008000](Une belle vieille grande balle ronde verte en bois chinoise)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She has a beautiful big old red American car.[font_size=18pt](Elle a une belle grande vieille voiture rouge américaine.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]She has a beautiful big old red American car.[font_size=18](Elle a une belle grande vieille voiture rouge américaine.)[/font_size][/color][/i]
 [/indent]
 
 [font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]

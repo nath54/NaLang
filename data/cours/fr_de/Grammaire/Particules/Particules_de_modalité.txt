@@ -9,48 +9,48 @@ Les particules de modalité, également appelées particules modales, sont des m
 En allemand, les particules modales sont très courantes et jouent un rôle important dans les conversations quotidiennes. Voici une liste de quelques particules modales couramment utilisées :
 
 [b]a) Ja[/b] [indent][color=#008000](Oui, pour marquer une évidence ou une confirmation)[/color]
-[i]Exemple : [color=#0000FF]Das ist ja schön.[font_size=18pt](Das ist ja schön.)[/font_size][/color] [color=#008000](C'est vraiment joli.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das ist ja schön.[font_size=18](Das ist ja schön.)[/font_size][/color] [color=#008000](C'est vraiment joli.)[/color][/i][/indent]
 
 [b]b) Doch[/b] [indent][color=#008000](Si, pour contredire une négation)[/color]
-[i]Exemple : [color=#0000FF]Komm doch mit.[font_size=18pt](Komm doch mit.)[/font_size][/color] [color=#008000](Viens donc avec nous.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Komm doch mit.[font_size=18](Komm doch mit.)[/font_size][/color] [color=#008000](Viens donc avec nous.)[/color][/i][/indent]
 
 [b]c) Mal[/b] [indent][color=#008000](Juste, pour adoucir une demande)[/color]
-[i]Exemple : [color=#0000FF]Wart mal kurz.[font_size=18pt](Wart mal kurz.)[/font_size][/color] [color=#008000](Attends un instant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wart mal kurz.[font_size=18](Wart mal kurz.)[/font_size][/color] [color=#008000](Attends un instant.)[/color][/i][/indent]
 
 [b]d) Wohl[/b] [indent][color=#008000](Probablement, pour exprimer une incertitude)[/color]
-[i]Exemple : [color=#0000FF]Er wird wohl schon da sein.[font_size=18pt](Er wird wohl schon da sein.)[/font_size][/color] [color=#008000](Il sera probablement déjà là.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er wird wohl schon da sein.[font_size=18](Er wird wohl schon da sein.)[/font_size][/color] [color=#008000](Il sera probablement déjà là.)[/color][/i][/indent]
 
 [b]e) Eben[/b] [indent][color=#008000](Justement, pour insister sur une évidence)[/color]
-[i]Exemple : [color=#0000FF]Das ist eben so.[font_size=18pt](Das ist eben so.)[/font_size][/color] [color=#008000](C'est simplement comme ça.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das ist eben so.[font_size=18](Das ist eben so.)[/font_size][/color] [color=#008000](C'est simplement comme ça.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des particules modales dans les phrases[/color][/font_size]
 
 L'usage des particules modales peut varier en fonction du contexte et de l'intention du locuteur. Voici quelques exemples et règles générales pour les utiliser correctement.
 
 [indent]• [b]Ja[/b] : Utilisé pour souligner une évidence ou une information supposée connue de l'interlocuteur.
-[i]Exemple : [color=#0000FF]Du bist ja früh da.[font_size=18pt](Du bist ja früh da.)[/font_size][/color] [color=#008000](Tu es vraiment (étonnamment) là tôt.)[/color][/i]
+[i]Exemple : [color=#0000FF]Du bist ja früh da.[font_size=18](Du bist ja früh da.)[/font_size][/color] [color=#008000](Tu es vraiment (étonnamment) là tôt.)[/color][/i]
 
 - [b]Doch[/b] : Utilisé pour contredire une affirmation négative ou pour insister sur une demande.
-[i]Exemple : [color=#0000FF]Er hat doch gesagt, dass er kommt.[font_size=18pt](Er hat doch gesagt, dass er kommt.)[/font_size][/color] [color=#008000](Il a pourtant dit qu'il viendrait.)[/color][/i]
+[i]Exemple : [color=#0000FF]Er hat doch gesagt, dass er kommt.[font_size=18](Er hat doch gesagt, dass er kommt.)[/font_size][/color] [color=#008000](Il a pourtant dit qu'il viendrait.)[/color][/i]
 
 - [b]Mal[/b] : Utilisé souvent pour atténuer une demande ou rendre une instruction moins impérative.
-[i]Exemple : [color=#0000FF]Geh mal zum Arzt.[font_size=18pt](Geh mal zum Arzt.)[/font_size][/color] [color=#008000](Va donc chez le médecin.)[/color][/i]
+[i]Exemple : [color=#0000FF]Geh mal zum Arzt.[font_size=18](Geh mal zum Arzt.)[/font_size][/color] [color=#008000](Va donc chez le médecin.)[/color][/i]
 
 - [b]Wohl[/b] : Utilisé pour exprimer une incertitude ou une supposition.
-[i]Exemple : [color=#0000FF]Es wird wohl regnen.[font_size=18pt](Es wird wohl regnen.)[/font_size][/color] [color=#008000](Il va probablement pleuvoir.)[/color][/i]
+[i]Exemple : [color=#0000FF]Es wird wohl regnen.[font_size=18](Es wird wohl regnen.)[/font_size][/color] [color=#008000](Il va probablement pleuvoir.)[/color][/i]
 
 - [b]Eben[/b] : Utilisé pour insister sur la vérité ou une évidence.
-[i]Exemple : [color=#0000FF]Du hast eben keine Wahl.[font_size=18pt](Du hast eben keine Wahl.)[/font_size][/color] [color=#008000](Tu n'as tout simplement pas le choix.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Du hast eben keine Wahl.[font_size=18](Du hast eben keine Wahl.)[/font_size][/color] [color=#008000](Tu n'as tout simplement pas le choix.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires et variations[/color][/font_size]
 
 Certaines particules peuvent avoir des significations multiples ou changer légèrement de sens en fonction du contexte de la phrase. 
 
 [indent]• [b]Schon[/b] : Peut signifier "déjà" mais aussi ajouter une nuance de confiance ou d'insistance.
-[i]Exemple : [color=#0000FF]Das wird schon klappen.[font_size=18pt](Das wird schon klappen.)[/font_size][/color] [color=#008000](Ça va marcher, je suis sûr.)[/color][/i]
+[i]Exemple : [color=#0000FF]Das wird schon klappen.[font_size=18](Das wird schon klappen.)[/font_size][/color] [color=#008000](Ça va marcher, je suis sûr.)[/color][/i]
 
 - [b]Halt[/b] : Utilisé pour souligner le caractère inévitable ou fataliste d'une situation.
-[i]Exemple : [color=#0000FF]Es ist halt so.[font_size=18pt](Es ist halt so.)[/font_size][/color] [color=#008000](C'est tout simplement comme ça.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Es ist halt so.[font_size=18](Es ist halt so.)[/font_size][/color] [color=#008000](C'est tout simplement comme ça.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

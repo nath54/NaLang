@@ -17,7 +17,7 @@ En coréen, les verbes sont généralement constitués d'une racine suivie d'une
 공부하다 (gongbuhada) [color=#008000](étudier)[/color] ➜ 공부하 (gongbuha) + ⵀ (a) ➜ 공부해요 (gongbuhaeyo)
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 학교에 가요.[font_size=18pt](Naneun hakgyoe gayo.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 학교에 가요.[font_size=18](Naneun hakgyoe gayo.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
 
 [b]b) Présent formel[/b]
 [indent]La forme formelle est utilisée dans des contextes plus formels ou avec des inconnus.
@@ -28,7 +28,7 @@ En coréen, les verbes sont généralement constitués d'une racine suivie d'une
 공부하다 (gongbuhada) [color=#008000](étudier)[/color] ➜ 공부하 (gongbuha) + ⵀ (a) ➜ 공부합니다 (gongbuhamnida)
 [/code]
 
-[i]Exemple : [color=#0000FF]저는 학교에 갑니다.[font_size=18pt](Jeoneun hakgyoe gamnida.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]저는 학교에 갑니다.[font_size=18](Jeoneun hakgyoe gamnida.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
 
 [b]c) Présent honorifique[/b]
 [indent]La forme honorifique est utilisée pour montrer du respect envers la personne à qui l'on s'adresse.
@@ -39,20 +39,20 @@ En coréen, les verbes sont généralement constitués d'une racine suivie d'une
 공부하다 (gongbuhada) [color=#008000](étudier)[/color] ➜ 공부하시 (gongbuhasi) + ⵀ (a) ➜ 공부하십니다 (gongbuhasimnida)
 [/code]
 
-[i]Exemple : [color=#0000FF]선생님께서 학교에 가십니다.[font_size=18pt](Seonsaengnimkkeseo hakgyoe gasimnida.)[/font_size][/color] [color=#008000](Le professeur va à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]선생님께서 학교에 가십니다.[font_size=18](Seonsaengnimkkeseo hakgyoe gasimnida.)[/font_size][/color] [color=#008000](Le professeur va à l'école.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du présent en coréen[/color][/font_size]
 
 Le présent en coréen s'utilise pour décrire des actions en cours ou des vérités générales. Chaque niveau de politesse est approprié dans des circonstances différentes et il est important de choisir la bonne forme pour bien communiquer.
 
 [indent]• Forme informelle : Utilisée entre amis proches, famille ou personnes plus jeunes.
-[i]Exemple : [color=#0000FF]너는 뭐 해?[font_size=18pt](Neoneun mwo hae?) (Tu fais quoi?)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]너는 뭐 해?[font_size=18](Neoneun mwo hae?) (Tu fais quoi?)[/font_size][/color][/i]
 
 - Forme formelle : Utilisée avec des inconnus ou dans des contextes professionnels.
-[i]Exemple : [color=#0000FF]지금 뭐 하세요?[font_size=18pt](Jigeum mwo haseyo?) (Que faites-vous maintenant?)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]지금 뭐 하세요?[font_size=18](Jigeum mwo haseyo?) (Que faites-vous maintenant?)[/font_size][/color][/i]
 
 - Forme honorifique : Utilisée pour montrer un grand respect.
-[i]Exemple : [color=#0000FF]할아버지께서 뭘 하십니까?[font_size=18pt](Harabeojikkeseo mwol hasimnikka?) (Que fait grand-père?)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]할아버지께서 뭘 하십니까?[font_size=18](Harabeojikkeseo mwol hasimnikka?) (Que fait grand-père?)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires et exceptions[/color][/font_size]
 

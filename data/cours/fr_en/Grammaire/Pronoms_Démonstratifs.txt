@@ -15,8 +15,8 @@ this [color=#008000](ceci, cela - près du locuteur)[/color]
 that [color=#008000](ceci, cela - loin du locuteur)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]This is my book.[font_size=18pt] (Ceci est mon livre.)[/font_size][/color] [color=#008000](près du locuteur)[/color][/i] 
-[i]Exemple : [color=#0000FF]That is your car.[font_size=18pt] (Cela est ta voiture.)[/font_size][/color] [color=#008000](loin du locuteur)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]This is my book.[font_size=18] (Ceci est mon livre.)[/font_size][/color] [color=#008000](près du locuteur)[/color][/i] 
+[i]Exemple : [color=#0000FF]That is your car.[font_size=18] (Cela est ta voiture.)[/font_size][/color] [color=#008000](loin du locuteur)[/color][/i][/indent]
 
 [b]b) Pluralité[/b]
 [indent]Les pronoms démonstratifs pour désigner plusieurs choses ou personnes sont :
@@ -25,38 +25,38 @@ these [color=#008000](ceux-ci, celles-ci - près du locuteur)[/color]
 those [color=#008000](ceux-là, celles-là - loin du locuteur)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]These are my friends.[font_size=18pt] (Ceux-ci sont mes amis.)[/font_size][/color] [color=#008000](près du locuteur)[/color][/i] 
-[i]Exemple : [color=#0000FF]Those are their houses.[font_size=18pt] (Ceux-là sont leurs maisons.)[/font_size][/color] [color=#008000](loin du locuteur)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]These are my friends.[font_size=18] (Ceux-ci sont mes amis.)[/font_size][/color] [color=#008000](près du locuteur)[/color][/i] 
+[i]Exemple : [color=#0000FF]Those are their houses.[font_size=18] (Ceux-là sont leurs maisons.)[/font_size][/color] [color=#008000](loin du locuteur)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des pronoms démonstratifs[/color][/font_size]
 
 Les pronoms démonstratifs sont utilisés en fonction de la distance et du nombre des objets ou des personnes qu'ils désignent. Voici quelques règles et exemples pour une bonne utilisation.
 
 [indent]• [color=#FF0000]This[/color] et [color=#FF0000]these[/color] pour désigner des choses proches du locuteur :
-[i]Exemple : [color=#0000FF]This apple is delicious.[font_size=18pt] (Cette pomme est délicieuse.)[/font_size][/color] [color=#008000](pomme proche du locuteur)[/color][/i]
-[i]Exemple : [color=#0000FF]These books are interesting.[font_size=18pt] (Ces livres sont intéressants.)[/font_size][/color] [color=#008000](livres proches du locuteur)[/color][/i]
+[i]Exemple : [color=#0000FF]This apple is delicious.[font_size=18] (Cette pomme est délicieuse.)[/font_size][/color] [color=#008000](pomme proche du locuteur)[/color][/i]
+[i]Exemple : [color=#0000FF]These books are interesting.[font_size=18] (Ces livres sont intéressants.)[/font_size][/color] [color=#008000](livres proches du locuteur)[/color][/i]
 
 - [color=#FF0000]That[/color] et [color=#FF0000]those[/color] pour désigner des choses éloignées du locuteur :
-[i]Exemple : [color=#0000FF]That building is tall.[font_size=18pt] (Ce bâtiment est grand.)[/font_size][/color] [color=#008000](bâtiment éloigné du locuteur)[/color][/i]
-[i]Exemple : [color=#0000FF]Those stars are beautiful.[font_size=18pt] (Ces étoiles sont belles.)[/font_size][/color] [color=#008000](étoiles éloignées du locuteur)[/color][/i]
+[i]Exemple : [color=#0000FF]That building is tall.[font_size=18] (Ce bâtiment est grand.)[/font_size][/color] [color=#008000](bâtiment éloigné du locuteur)[/color][/i]
+[i]Exemple : [color=#0000FF]Those stars are beautiful.[font_size=18] (Ces étoiles sont belles.)[/font_size][/color] [color=#008000](étoiles éloignées du locuteur)[/color][/i]
 
 - Utilisation en tant que sujet ou objet dans une phrase :
-[i]Exemple : [color=#0000FF]This is a great movie.[font_size=18pt] (Ceci est un excellent film.)[/font_size][/color]
-[i]Exemple : [color=#0000FF]Can you pass me that?[font_size=18pt] (Peux-tu me passer cela?) [/font_size][/color] [color=#008000](utilisé comme objet)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]This is a great movie.[font_size=18] (Ceci est un excellent film.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Can you pass me that?[font_size=18] (Peux-tu me passer cela?) [/font_size][/color] [color=#008000](utilisé comme objet)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Particularités et exceptions[/color][/font_size]
 
 Certaines situations peuvent nécessiter des clarifications ou une utilisation précise des pronoms démonstratifs. Voici quelques points à noter :
 
 [indent]• Utilisation pour insister sur quelque chose ou quelqu'un en particulier.
-[i]Exemple : [color=#0000FF]I can't believe this![font_size=18pt] (Je ne peux pas croire ceci!) [/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]I can't believe this![font_size=18] (Je ne peux pas croire ceci!) [/font_size][/color][/i]
 
 - Pour indiquer un contraste entre deux choses :
-[i]Exemple : [color=#0000FF]This is good, but that is better.[font_size=18pt] (Ceci est bien, mais cela est mieux.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]This is good, but that is better.[font_size=18] (Ceci est bien, mais cela est mieux.)[/font_size][/color][/i]
 
 - Utilisation dans des expressions idiomatiques ou familières :
-[i]Exemple : [color=#0000FF]That's it![font_size=18pt] (C'est tout!) [/font_size][/color][/i]
-[i]Exemple : [color=#0000FF]These are the times that try men's souls.[font_size=18pt] (Ce sont des temps qui éprouvent les âmes des hommes.) [/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]That's it![font_size=18] (C'est tout!) [/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]These are the times that try men's souls.[font_size=18] (Ce sont des temps qui éprouvent les âmes des hommes.) [/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -17,7 +17,7 @@ er/sie/es (e)
 wir (en)
 ihr (et)
 sie/Sie (en)
-[/code]
+[/code][/indent]
 
 [i]Exemple : Le verbe [b]machen[/b] (faire)[/i]
 [indent]ich mache (je fasse)
@@ -64,7 +64,7 @@ Le Konjunktiv I est souvent utilisé pour rapporter ce que quelqu'un a dit sans 
 Il y a des cas dans lesquels le Konjunktiv I est en concurrence avec le Konjunktiv II. Souvent, pour éviter l'ambiguïté, on utilise le Konjunktiv II.
 
 [indent]• Ambiguïté entre Konjunktiv I et II :
-[i]Exemple : [color=#0000FF]Er sagte, er habe Zeit.[/color] [color=#008000](Il a dit qu'il avait du temps.)[/color]
+[i]Exemple : [color=#0000FF]Er sagte, er habe Zeit.[/color] [color=#008000](Il a dit qu'il avait du temps.)[/color][/i]
 Si la phrase au Konjunktiv I peut prêter à confusion, on utilise alors le Konjunktiv II :
 [i]Exemple : [color=#0000FF]Er sagte, er hätte Zeit.[/color] [color=#008000](Il a dit qu'il aurait du temps.)[/color][/i][/indent]
 

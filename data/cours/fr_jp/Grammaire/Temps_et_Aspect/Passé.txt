@@ -11,54 +11,54 @@ Pour former le passé des verbes japonais, on distingue généralement entre les
 [b]a) Verbes du premier groupe (les verbes en -u)[/b]
 [indent]Pour les verbes du premier groupe, on remplace la terminaison -u par -tta.
 [code]
-書く (kaku) [color=#008000](écrire) → 書いた (kaita) [color=#008000](écrit)[/color]
-話す (hanasu) [color=#008000](parler) → 話した (hanashita) [color=#008000](parlé)[/color]
-聞く (kiku) [color=#008000](écouter) → 聞いた (kiita) [color=#008000](écouté)[/color]
-読む (yomu) [color=#008000](lire) → 読んだ (yonda) [color=#008000](lu)[/color]
-[code]
+書く (kaku) [color=#008000](écrire) → 書いた (kaita)[/color] [color=#008000](écrit)[/color]
+話す (hanasu) [color=#008000](parler) → 話した (hanashita)[/color] [color=#008000](parlé)[/color]
+聞く (kiku) [color=#008000](écouter) → 聞いた (kiita)[/color] [color=#008000](écouté)[/color]
+読む (yomu) [color=#008000](lire) → 読んだ (yonda)[/color] [color=#008000](lu)[/color]
+[/code]
 
-[i]Exemple : [color=#0000FF]彼女は手紙を書いた。[font_size=18pt](Kanojo wa tegami o kaita.)[/font_size][/color] [color=#008000](Elle a écrit une lettre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼女は手紙を書いた。[font_size=18](Kanojo wa tegami o kaita.)[/font_size][/color] [color=#008000](Elle a écrit une lettre.)[/color][/i][/indent]
 
 [b]b) Verbes du deuxième groupe (les verbes en -iru et -eru)[/b]
 [indent]Pour les verbes du deuxième groupe, on remplace simplement la terminaison -ru par -ta.
 [code]
-食べる (taberu) [color=#008000](manger) → 食べた (tabeta) [color=#008000](mangé)[/color]
-見る (miru) [color=#008000](voir) → 見た (mita) [color=#008000](vu)[/color]
-[code]
+食べる (taberu) [color=#008000](manger) → 食べた (tabeta)[/color] [color=#008000](mangé)[/color]
+見る (miru) [color=#008000](voir) → 見た (mita)[/color] [color=#008000](vu)[/color]
+[/code]
 
-[i]Exemple : [color=#0000FF]彼は映画を見た。[font_size=18pt](Kare wa eiga o mita.)[/font_size][/color] [color=#008000](Il a vu un film.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は映画を見た。[font_size=18](Kare wa eiga o mita.)[/font_size][/color] [color=#008000](Il a vu un film.)[/color][/i][/indent]
 
 [b]c) Verbes irréguliers[/b]
 [indent]Il existe quelques verbes irréguliers importants qui ne suivent pas les règles précédentes.
 [code]
-する (suru) [color=#008000](faire) → した (shita) [color=#008000](fait)[/color]
-来る (kuru) [color=#008000](venir) → 来た (kita) [color=#008000](venu)[/color]
-[code]
+する (suru) [color=#008000](faire) → した (shita)[/color] [color=#008000](fait)[/color]
+来る (kuru) [color=#008000](venir) → 来た (kita)[/color] [color=#008000](venu)[/color]
+[/code]
 
-[i]Exemple : [color=#0000FF]彼は仕事をした。[font_size=18pt](Kare wa shigoto o shita.)[/font_size][/color] [color=#008000](Il a travaillé.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は仕事をした。[font_size=18](Kare wa shigoto o shita.)[/font_size][/color] [color=#008000](Il a travaillé.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du Passé[/color][/font_size]
 
 Le passé s'emploie pour décrire des actions complètes ou évoquer des événements passés et terminés. Il est aussi utile pour raconter des anecdotes ou exprimer des expériences vécues.
 
 [indent]• Décrire une action terminée :
-[i]Exemple : [color=#0000FF]私は昨日、寿司を食べた。[font_size=18pt](Watashi wa kinō, sushi o tabeta.)[/font_size][/color] [color=#008000](J'ai mangé des sushis hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]私は昨日、寿司を食べた。[font_size=18](Watashi wa kinō, sushi o tabeta.)[/font_size][/color] [color=#008000](J'ai mangé des sushis hier.)[/color][/i]
 
 - Raconter une anecdote :
-[i]Exemple : [color=#0000FF]去年、日本に行った。[font_size=18pt](Kyonen, Nihon ni itta.)[/font_size][/color] [color=#008000](Je suis allé au Japon l'année dernière.)[/color][/i]
+[i]Exemple : [color=#0000FF]去年、日本に行った。[font_size=18](Kyonen, Nihon ni itta.)[/font_size][/color] [color=#008000](Je suis allé au Japon l'année dernière.)[/color][/i]
 
 - Exprimer une expérience vécue :
-[i]Exemple : [color=#0000FF]彼は山に登ったことがある。[font_size=18pt](Kare wa yama ni nobotta koto ga aru.)[/font_size][/color] [color=#008000](Il a déjà grimpé une montagne.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は山に登ったことがある。[font_size=18](Kare wa yama ni nobotta koto ga aru.)[/font_size][/color] [color=#008000](Il a déjà grimpé une montagne.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Il est aussi possible de combiner des adverbes temporels pour situer l'action dans le passé de manière plus précise.
 
 [indent]• Utilisation d'adverbes temporels
-[i]Exemple : [color=#0000FF]彼はおととい学校に行った。[font_size=18pt](Kare wa ototoi gakkō ni itta.)[/font_size][/color] [color=#008000](Il est allé à l'école avant-hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼はおととい学校に行った。[font_size=18](Kare wa ototoi gakkō ni itta.)[/font_size][/color] [color=#008000](Il est allé à l'école avant-hier.)[/color][/i]
 
 - Indication de durée ou de moment précis :
-[i]Exemple : [color=#0000FF]去年の夏、海にも行った。[font_size=18pt](Kyonen no natsu, umi ni mo itta.)[/font_size][/color] [color=#008000](L'été dernier, je suis aussi allé à la mer.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]去年の夏、海にも行った。[font_size=18](Kyonen no natsu, umi ni mo itta.)[/font_size][/color] [color=#008000](L'été dernier, je suis aussi allé à la mer.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

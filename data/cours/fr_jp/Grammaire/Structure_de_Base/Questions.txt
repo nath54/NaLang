@@ -12,7 +12,7 @@ La manière la plus simple et directe de poser une question en japonais est d'aj
 彼は学生ですか。 (Kare wa gakusei desu ka?) [color=#008000](Est-il étudiant ?)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]これは何ですか？[font_size=18pt](Kore wa nan desu ka?) [/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]これは何ですか？[font_size=18](Kore wa nan desu ka?) [/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Mots interrogatifs[/color][/font_size]
 
@@ -30,7 +30,7 @@ En ajoutant des mots interrogatifs à vos questions, vous pouvez demander des in
 どちら (dochira) [color=#008000](lequel des deux / où, formel)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は誰ですか？[font_size=18pt](Kare wa dare desu ka?) [/font_size][/color] [color=#008000](Qui est-il ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は誰ですか？[font_size=18](Kare wa dare desu ka?) [/font_size][/color] [color=#008000](Qui est-il ?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Questions avec "ですか" (desu ka) et "ますか" (masu ka)[/color][/font_size]
 
@@ -41,14 +41,14 @@ Pour des questions polies, utilisez "ですか" (desu ka) pour les phrases descr
 これは新しいですか？ (Kore wa atarashii desu ka?) [color=#008000](Est-ce nouveau ?)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は先生ですか？[font_size=18pt](Kare wa sensei desu ka?) [/font_size][/color] [color=#008000](Est-il professeur ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は先生ですか？[font_size=18](Kare wa sensei desu ka?) [/font_size][/color] [color=#008000](Est-il professeur ?)[/color][/i][/indent]
 
 [b]b) Verbes d'action[/b]
 [indent][code]
 あなたは行きますか？ (Anata wa ikimasu ka?) [color=#008000](Irez-vous ?)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼女は食べますか？[font_size=18pt](Kanojo wa tabemasu ka?) [/font_size][/color] [color=#008000](Va-t-elle manger ?)[/color][/i][/indent][/indent]
+[i]Exemple : [color=#0000FF]彼女は食べますか？[font_size=18](Kanojo wa tabemasu ka?) [/font_size][/color] [color=#008000](Va-t-elle manger ?)[/color][/i][/indent][/indent]
 
 [font_size=24][color=#4B0082]4. Utilisation de [かどうか] (ka dō ka)[/color][/font_size]
 
@@ -58,7 +58,7 @@ Pour poser des questions indirectes ou alternatives, on utilise "かどうか" (
 彼が来るかどうかはまだ分かりません。 (Kare ga kuru ka dō ka wa mada wakarimasen.) [color=#008000](Je ne sais pas encore s'il viendra ou non.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼女が好きかどうか教えてください。[font_size=18pt](Kanojo ga suki ka dō ka oshiete kudasai.) [/font_size][/color] [color=#008000](Dites-moi si vous l'aimez ou non.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼女が好きかどうか教えてください。[font_size=18](Kanojo ga suki ka dō ka oshiete kudasai.) [/font_size][/color] [color=#008000](Dites-moi si vous l'aimez ou non.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

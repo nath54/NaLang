@@ -16,7 +16,7 @@ La construction de la forme causative dépend de la classe verbale à laquelle l
 飲む (nomu) [color=#008000](boire)[/color] → 飲ませる (nomaseru) [color=#008000](faire boire)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は彼を学校へ行かせた。[font_size=18pt](Watashi wa kare o gakkou e ikaseta.)[/font_size][/color] [color=#008000](Je l'ai envoyé à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は彼を学校へ行かせた。[font_size=18](Watashi wa kare o gakkou e ikaseta.)[/font_size][/color] [color=#008000](Je l'ai envoyé à l'école.)[/color][/i][/indent]
 
 [b]b) Verbes du groupe 2 (一段動詞, ichidan doushi)[/b]
 [indent]Pour les verbes du groupe 2, on enlève la terminaison る (ru) et ajoute させる (saseru) pour la forme causative.
@@ -26,7 +26,7 @@ La construction de la forme causative dépend de la classe verbale à laquelle l
 起きる (okiru) [color=#008000](se lever)[/color] → 起きさせる (okisaseru) [color=#008000](faire se lever)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]母は子供に野菜を食べさせました。[font_size=18pt](Haha wa kodomo ni yasai o tabesasemashita.)[/font_size][/color] [color=#008000](La mère a fait manger des légumes à l'enfant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]母は子供に野菜を食べさせました。[font_size=18](Haha wa kodomo ni yasai o tabesasemashita.)[/font_size][/color] [color=#008000](La mère a fait manger des légumes à l'enfant.)[/color][/i][/indent]
 
 [b]c) Verbes irréguliers[/b]
 [indent]Pour les verbes irréguliers, les formes causatives sont également irrégulières :
@@ -35,16 +35,16 @@ La construction de la forme causative dépend de la classe verbale à laquelle l
 来る (kuru) [color=#008000](venir)[/color] → 来させる (kosaseru) [color=#008000](faire venir)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]先生は学生に宿題をさせる。[font_size=18pt](Sensei wa gakusei ni shukudai o saseru.)[/font_size][/color] [color=#008000](Le professeur fait faire les devoirs aux étudiants.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]先生は学生に宿題をさせる。[font_size=18](Sensei wa gakusei ni shukudai o saseru.)[/font_size][/color] [color=#008000](Le professeur fait faire les devoirs aux étudiants.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de la forme causative[/color][/font_size]
 Les verbes causatifs sont utilisés pour dire qu'une personne fait effectuer une action à une autre. Voici quelques règles pour mieux comprendre leur utilisation.
 
 [indent]• Utilisation de la particule を (wo) avec les verbes causatifs
-[i]Exemple : [color=#0000FF]私は彼に宿題をさせた。[font_size=18pt](Watashi wa kare ni shukudai o saseta.)[/font_size][/color] [color=#008000](Je lui ai fait faire ses devoirs.)[/color][/i]
+[i]Exemple : [color=#0000FF]私は彼に宿題をさせた。[font_size=18](Watashi wa kare ni shukudai o saseta.)[/font_size][/color] [color=#008000](Je lui ai fait faire ses devoirs.)[/color][/i]
 
 - Utilisation de la particule に (ni) pour indiquer la personne à qui on fait faire l'action
-[i]Exemple : [color=#0000FF]母は弟に皿を洗わせた。[font_size=18pt](Haha wa otouto ni sara o arawaseta.)[/font_size][/color] [color=#008000](La mère a fait laver les assiettes à son frère cadet.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]母は弟に皿を洗わせた。[font_size=18](Haha wa otouto ni sara o arawaseta.)[/font_size][/color] [color=#008000](La mère a fait laver les assiettes à son frère cadet.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Formes causatives passives[/color][/font_size]
 
@@ -56,7 +56,7 @@ Pour indiquer que quelqu’un a été forcé de faire quelque chose contre sa vo
 見る (miru) [color=#008000](voir)[/color] → 見させられる (misaserareru) [color=#008000](être forcé de voir)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は彼に宿題をさせられた。[font_size=18pt](Watashi wa kare ni shukudai o saserareta.)[/font_size][/color] [color=#008000](J'ai été forcé de faire ses devoirs.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は彼に宿題をさせられた。[font_size=18](Watashi wa kare ni shukudai o saserareta.)[/font_size][/color] [color=#008000](J'ai été forcé de faire ses devoirs.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

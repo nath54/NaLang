@@ -11,22 +11,22 @@ En japonais, l'accent tonique se manifeste par un changement de hauteur entre le
 [indent][b]a) Hauteur tonale[/b]
 Le japonais utilise deux niveaux de hauteur tonale : haut (H) et bas (L). Le schéma tonale d'un mot peut varier selon les dialectes, mais en général, l'accent tonique est une baisse de hauteur après une syllabe accentuée.
 
-[i]Exemple : [color=#0000FF]橋 [font_size=18pt](hashi)[/font_size][/color] [color=#008000](pont) [L-H-H][/color] vs. [color=#0000FF]箸 [font_size=18pt](hashi)[/font_size][/color] [color=#008000](baguettes) [H-L-H][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]橋 [font_size=18](hashi)[/font_size][/color] [color=#008000](pont) [L-H-H][/color] vs. [color=#0000FF]箸 [font_size=18](hashi)[/font_size][/color] [color=#008000](baguettes) [H-L-H][/color][/i][/indent]
 
 [b]b) Différences régionales[/b]
 [indent]Il existe des différences régionales dans les schémas d'accent tonique. Par exemple, le dialecte de Tokyo et celui de Kansai peuvent avoir des accents différents pour les mêmes mots.
 
-[i]Exemple : [color=#0000FF]雨 [font_size=18pt](ame)[/font_size][/color] [color=#008000](pluie) Tokyo [L-H], Kansai [H-L][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]雨 [font_size=18](ame)[/font_size][/color] [color=#008000](pluie) Tokyo [L-H], Kansai [H-L][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Importance de l'accent tonique[/color][/font_size]
 
 Bien que l'accent tonique ne soit pas toujours essentiel à la compréhension, une mauvaise utilisation peut mener à des malentendus. Voici quelques exemples pour illustrer ce point.
 
 [indent]• L'accent tonique peut changer le sens d'un mot malgré des prononciations similaires.
-[i]Exemple : [color=#0000FF]はし [font_size=18pt](hashi)[/font_size][/color] [color=#008000](pont) [L-H-H] vs. [color=#0000FF]はし [font_size=18pt](hashi)[/font_size][/color] [color=#008000](baguettes) [H-L-H][/color][/i]
+[i]Exemple : [color=#0000FF]はし [font_size=18](hashi)[/font_size][/color] [color=#008000](pont)[/color] [L-H-H] vs. [color=#0000FF]はし [font_size=18](hashi)[/font_size][/color] [color=#008000](baguettes) [H-L-H][/color][/i]
 
 - L'accent tonique peut également indiquer une différence grammaticale.
-[i]Exemple : [color=#0000FF]がくせい [font_size=18pt](gakusei)[/font_size][/color] [color=#008000](étudiant) [L-H-H-H] vs. [color=#0000FF]がくせい [font_size=18pt](gakusei)[/font_size][/color] [color=#008000](étudiants) [L-H-L-H][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]がくせい [font_size=18](gakusei)[/font_size][/color] [color=#008000](étudiant)[/color] [L-H-H-H] vs. [color=#0000FF]がくせい [font_size=18](gakusei)[/font_size][/color] [color=#008000](étudiants) [L-H-L-H][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Comment identifier l'accent tonique[/color][/font_size]
 

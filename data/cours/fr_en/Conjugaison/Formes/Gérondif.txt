@@ -15,7 +15,7 @@ play -> playing (jouer -> en train de jouer)
 read -> reading (lire -> en train de lire)
 [/code]
 
-[i]Exemple : [color=#0000FF]She is reading a book.[font_size=18pt](Elle est en train de lire un livre.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]She is reading a book.[font_size=18](Elle est en train de lire un livre.)[/font_size][/color][/i]
 
 [font_size=24][color=#4B0082]2. Utilisation du gérondif[/color][/font_size]
 
@@ -28,7 +28,7 @@ Swimming is fun. (nager est amusant)
 I enjoy reading. (j'aime lire)
 [/code]
 
-[i]Exemple : [color=#0000FF]Running in the morning is refreshing.[font_size=18pt](Courir le matin est rafraîchissant.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Running in the morning is refreshing.[font_size=18](Courir le matin est rafraîchissant.)[/font_size][/color][/i][/indent]
 
 [b]b) Après certaines prépositions[/b]
 [indent]Le gérondif suit souvent les prépositions en anglais.
@@ -37,7 +37,7 @@ He is good at playing the guitar. (il joue bien de la guitare)
 She is interested in learning Spanish. (elle est intéressée à apprendre l'espagnol)
 [/code]
 
-[i]Exemple : [color=#0000FF]They are thinking about moving to a new city.[font_size=18pt](Ils pensent déménager dans une nouvelle ville.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]They are thinking about moving to a new city.[font_size=18](Ils pensent déménager dans une nouvelle ville.)[/font_size][/color][/i][/indent]
 
 [b]c) Après certains verbes[/b]
 [indent]Certains verbes sont généralement suivis d'un gérondif plutôt que d'un infinitif.
@@ -46,7 +46,7 @@ He enjoys cooking. (il aime cuisiner)
 They kept talking. (ils ont continué à parler)
 [/code]
 
-[i]Exemple : [color=#0000FF]She admitted breaking the vase.[font_size=18pt](Elle a admis avoir cassé le vase.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She admitted breaking the vase.[font_size=18](Elle a admis avoir cassé le vase.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions et exceptions[/color][/font_size]
 

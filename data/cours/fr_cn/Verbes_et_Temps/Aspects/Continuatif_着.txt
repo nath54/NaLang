@@ -73,9 +73,9 @@ L'utilisation de 着 (zhe) offre quelques nuances spécifiques :
 Voici quelques exemples pour illustrer les différentes utilisations de 着 (zhe) :
 
 [indent][code]
-门开着。[/color] (mén kāizhe) [color=#008000](La porte est ouverte.)[/color]
-他听着音乐做作业。[/color] (tā tīngzhe yīnyuè zuò zuòyè) [color=#008000](Il fait ses devoirs en écoutant de la musique.)[/color]
-天空挂着彩虹。[/color] (tiānkōng guàzhe cǎihóng) [color=#008000](Il y a un arc-en-ciel dans le ciel.)[/color]
+[color=#0000FF]门开着。[/color] (mén kāizhe) [color=#008000](La porte est ouverte.)[/color]
+[color=#0000FF]他听着音乐做作业。[/color] (tā tīngzhe yīnyuè zuò zuòyè) [color=#008000](Il fait ses devoirs en écoutant de la musique.)[/color]
+[color=#0000FF]天空挂着彩虹。[/color] (tiānkōng guàzhe cǎihóng) [color=#008000](Il y a un arc-en-ciel dans le ciel.)[/color]
 [/code]
 
 Ces phrases montrent différentes situations où 着 (zhe) indique une action en cours ou une situation continue.[/indent]

@@ -15,7 +15,7 @@ machen (faire) → gemacht (fait)
 spielen (jouer) → gespielt (joué)
 lieben (aimer) → geliebt (aimé)
 [/code]
-[i]Exemple : [color=#0000FF]Er hat Fußball gespielt.[font_size=18pt](Il a joué au football.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er hat Fußball gespielt.[font_size=18](Il a joué au football.)[/font_size][/color][/i][/indent]
 
 [b]b) Verbes irréguliers (starke Verben)[/b]
 [indent]Les verbes irréguliers ont des formes de participe passé qui varient et doivent être mémorisées individuellement. Ils prennent également le préfixe "ge-" mais peuvent avoir une terminaison en "-en".
@@ -24,7 +24,7 @@ sehen (voir) → gesehen (vu)
 gehen (aller) → gegangen (allé)
 essen (manger) → gegessen (mangé)
 [/code]
-[i]Exemple : [color=#0000FF]Sie hat den Film gesehen.[font_size=18pt](Elle a vu le film.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Sie hat den Film gesehen.[font_size=18](Elle a vu le film.)[/font_size][/color][/i][/indent]
 
 [b]c) Verbes mixtes (Mischverben)[/b]
 [indent]Les verbes mixtes combinent des éléments des verbes réguliers et irréguliers. Ils forment leur participe passé avec "ge-" et "-t" mais ont une modification du radical vocalique.
@@ -33,7 +33,7 @@ denken (penser) → gedacht (pensé)
 bringen (apporter) → gebracht (apporté)
 nennen (nommer) → genannt (nommé)
 [/code]
-[i]Exemple : [color=#0000FF]Er hat das Buch gebracht.[font_size=18pt](Il a apporté le livre.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er hat das Buch gebracht.[font_size=18](Il a apporté le livre.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du participe passé[/color][/font_size]
 
@@ -41,11 +41,11 @@ Le participe passé est utilisé principalement dans deux contextes : les temps 
 
 [indent]• [color=#FF0000]Temps composés[/color]
 Le participe passé est utilisé avec les auxiliaires "haben" (avoir) et "sein" (être) pour former le passé composé, le plus-que-parfait, etc.
-[i]Exemple : [color=#0000FF]Ich habe gelernt.[font_size=18pt](J'ai étudié.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Ich habe gelernt.[font_size=18](J'ai étudié.)[/font_size][/color][/i]
 
 - [color=#FF0000]Voix passive[/color]
 Le participe passé est également utilisé avec l'auxiliaire "werden" pour former la voix passive.
-[i]Exemple : [color=#0000FF]Das Haus wird gebaut.[font_size=18pt](La maison est en train d'être construite.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das Haus wird gebaut.[font_size=18](La maison est en train d'être construite.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Verbes sans "ge-" au participe passé[/color][/font_size]
 
@@ -56,14 +56,14 @@ Certains verbes ne prennent pas le préfixe "ge-" dans leur participe passé. Ce
 studieren (étudier) → studiert (étudié)
 reparieren (réparer) → repariert (réparé)
 [/code]
-[i]Exemple : [color=#0000FF]Er hat die Maschine repariert.[font_size=18pt](Il a réparé la machine.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Er hat die Maschine repariert.[font_size=18](Il a réparé la machine.)[/font_size][/color][/i]
 
 - Verbes à préverbes inséparables (be-, ent-, er-, ge-, miss-, ver-, zer-)
 [code]
 bekommen (recevoir) → bekommen (reçu)
 verdecken (couvrir) → verdeckt (couvert)
 [/code]
-[i]Exemple : [color=#0000FF]Sie hat das Geld bekommen.[font_size=18pt](Elle a reçu l'argent.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Sie hat das Geld bekommen.[font_size=18](Elle a reçu l'argent.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

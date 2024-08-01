@@ -37,7 +37,7 @@ Génitif :
 - Pluriel : dieser [color=#008000](de ces)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Dieser Mann ist mein Vater.[font_size=18pt](Dieser Mann ist mein Vater.)[/font_size][/color] [color=#008000](Cet homme est mon père.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Dieser Mann ist mein Vater.[font_size=18](Dieser Mann ist mein Vater.)[/font_size][/color] [color=#008000](Cet homme est mon père.)[/color][/i][/indent]
 
 [b]b) "Jener" (celui-là, celle-là)[/b]
 [indent]"Jener" (celui-là, celle-là) est utilisé pour désigner quelque chose de plus éloigné.
@@ -50,27 +50,27 @@ Nominatif :
 - Pluriel : jene [color=#008000](ceux-là)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Jenes Haus gehört meiner Tante.[font_size=18pt](Jenes Haus gehört meiner Tante.)[/font_size][/color] [color=#008000](Cette maison-là appartient à ma tante.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Jenes Haus gehört meiner Tante.[font_size=18](Jenes Haus gehört meiner Tante.)[/font_size][/color] [color=#008000](Cette maison-là appartient à ma tante.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des pronoms démonstratifs[/color][/font_size]
 
 Les pronoms démonstratifs sont utilisés pour clarifier ou mettre l'accent sur l'objet ou la personne dont on parle, surtout lorsqu'il y a plusieurs sujets ou objets possibles.
 
 [indent]• Pour insister sur une personne ou chose en particulier :
-[i]Exemple : [color=#0000FF]Ich mag diesen Kuchen, nicht jenen.[font_size=18pt](Ich mag diesen Kuchen, nicht jenen.)[/font_size][/color] [color=#008000](J'aime ce gâteau-ci, pas celui-là.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich mag diesen Kuchen, nicht jenen.[font_size=18](Ich mag diesen Kuchen, nicht jenen.)[/font_size][/color] [color=#008000](J'aime ce gâteau-ci, pas celui-là.)[/color][/i]
 
 - Pour différencier entre plusieurs objets :
-[i]Exemple : [color=#0000FF]Dieses Buch ist interessant, aber jenes ist langweilig.[font_size=18pt](Dieses Buch ist interessant, aber jenes ist langweilig.)[/font_size][/color] [color=#008000](Ce livre-ci est intéressant, mais celui-là est ennuyeux.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Dieses Buch ist interessant, aber jenes ist langweilig.[font_size=18](Dieses Buch ist interessant, aber jenes ist langweilig.)[/font_size][/color] [color=#008000](Ce livre-ci est intéressant, mais celui-là est ennuyeux.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Formes contractées et usage formel[/color][/font_size]
 
 Dans des contextes informels, les formes de "dieser" peuvent être contractées, surtout à l'oral.
 
 [indent]• Contraction courante :
-[i]Exemple : [color=#0000FF]Der da (celui-là).[font_size=18pt](Der da (celui-là).)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Der da (celui-là).[font_size=18](Der da (celui-là).)[/font_size][/color][/i]
 
 - Usage formel et soutenu :
-[i]Exemple : [color=#0000FF]Jener Herr dort drüben ist der Direktor.[font_size=18pt](Jener Herr dort drüben ist der Direktor.)[/font_size][/color] [color=#008000](Cet homme là-bas est le directeur.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Jener Herr dort drüben ist der Direktor.[font_size=18](Jener Herr dort drüben ist der Direktor.)[/font_size][/color] [color=#008000](Cet homme là-bas est le directeur.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

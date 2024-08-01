@@ -15,7 +15,7 @@ Pour former le passé en coréen, on ajoute généralement les terminaisons [i]�
 보다 (boda) -> 보았어요 (boasseoyo) ou 봤어요 (bwa(sseoyo)) [color=#008000](regarder -> avoir regardé)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 학교에 갔어요.[font_size=18pt] (Naneun hakgyoe gasseoyo.)[/font_size][/color] [color=#008000](Je suis allé à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 학교에 갔어요.[font_size=18] (Naneun hakgyoe gasseoyo.)[/font_size][/color] [color=#008000](Je suis allé à l'école.)[/color][/i][/indent]
 
 [b]b) Terminaison en -었어요 (eosseoyo) / -였어요 (yeosseoyo)[/b]
 [indent]Utilisée lorsque la dernière voyelle de la base du verbe est n'importe quelle autre voyelle que ㅏ (a) ou ㅗ (o).
@@ -24,20 +24,20 @@ Pour former le passé en coréen, on ajoute généralement les terminaisons [i]�
 하다 (hada) -> 했어요 (haesseoyo) [color=#008000](faire -> avoir fait)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 밥을 먹었어요.[font_size=18pt] (Naneun babeul meogeosseoyo.)[/font_size][/color] [color=#008000](J'ai mangé du riz.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 밥을 먹었어요.[font_size=18] (Naneun babeul meogeosseoyo.)[/font_size][/color] [color=#008000](J'ai mangé du riz.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du temps passé[/color][/font_size]
 
 Le temps passé est utilisé pour décrire des actions qui ont été accomplies avant le moment de parler. Voici quelques règles et exemples pour bien utiliser le passé en coréen.
 
 [indent]• Pour parler d'actions terminées dans le passé.
-[i]Exemple : [color=#0000FF]어제 영화를 봤어요.[font_size=18pt] (Eoje yeonghwareul bwasseoyo.)[/font_size][/color] [color=#008000](J'ai regardé un film hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]어제 영화를 봤어요.[font_size=18] (Eoje yeonghwareul bwasseoyo.)[/font_size][/color] [color=#008000](J'ai regardé un film hier.)[/color][/i]
 
 - Pour raconter des expériences passées.
-[i]Exemple : [color=#0000FF]한국에 갔었어요.[font_size=18pt] (Hankuge gasseosseoyo.)[/font_size][/color] [color=#008000](Je suis allé(e) en Corée du Sud.)[/color][/i]
+[i]Exemple : [color=#0000FF]한국에 갔었어요.[font_size=18] (Hankuge gasseosseoyo.)[/font_size][/color] [color=#008000](Je suis allé(e) en Corée du Sud.)[/color][/i]
 
 - Pour décrire des états ou des sentiments passés.
-[i]Exemple : [color=#0000FF]그때 정말 행복했어요.[font_size=18pt] (Geuttae jeongmal haengbokhaesseoyo.)[/font_size][/color] [color=#008000](J'étais vraiment heureux(se) à ce moment-là.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그때 정말 행복했어요.[font_size=18] (Geuttae jeongmal haengbokhaesseoyo.)[/font_size][/color] [color=#008000](J'étais vraiment heureux(se) à ce moment-là.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Forme négative du passé[/color][/font_size]
 
@@ -50,7 +50,7 @@ Pour former la négation au passé, on utilise la structure [i]지 않다 (ji an
 안 먹다 (an meokda) -> 먹지 않았어요 (meokji anhasseoyo) [color=#008000](ne pas manger -> n'avoir pas mangé)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 학교에 가지 않았어요.[font_size=18pt] (Naneun hakgyoe gaji anhasseoyo.)[/font_size][/color] [color=#008000](Je ne suis pas allé à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 학교에 가지 않았어요.[font_size=18] (Naneun hakgyoe gaji anhasseoyo.)[/font_size][/color] [color=#008000](Je ne suis pas allé à l'école.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

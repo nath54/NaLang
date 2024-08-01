@@ -8,7 +8,7 @@ L'étiquette japonaise est un aspect essentiel de la culture japonaise. Comprend
 
 Les salutations sont fondamentales dans la culture japonaise, et elles s'accompagnent souvent de révérences.
 
-[b]a) Salutations</b]
+[b]a) Salutations[/b]
 [indent]Les salutations les plus courantes incluent :
 [code]
 こんにちは (konnichiwa) [color=#008000](Bonjour)[/color]
@@ -17,7 +17,7 @@ Les salutations sont fondamentales dans la culture japonaise, et elles s'accompa
 [/code]
 
 [i]Exemple : 
-[color=#0000FF]おはようございます。[font_size=18pt](Ohayou gozaimasu.)[/font_size][/color] 
+[color=#0000FF]おはようございます。[font_size=18](Ohayou gozaimasu.)[/font_size][/color] 
 [color=#008000](Bonjour, le matin.)[/color][/i][/indent]
 
 [b]b) Révérences[/b]
@@ -29,10 +29,10 @@ Les salutations sont fondamentales dans la culture japonaise, et elles s'accompa
 [/code]
 
 [i]Exemple : 
-[color=#0000FF]彼は深いお辞儀をしました。[font_size=18pt](Kare wa fukai ojigi o shimashita.)[/font_size][/color] 
+[color=#0000FF]彼は深いお辞儀をしました。[font_size=18](Kare wa fukai ojigi o shimashita.)[/font_size][/color] 
 [color=#008000](Il a fait une révérence profonde.)[/color][/i][/indent]
 
-[font_size=24][color=#4B0082]2. Politesse en Social</color][/font_size]
+[font_size=24][color=#4B0082]2. Politesse en Social[/color][/font_size]
 
 La politesse est essentielle dans les interactions sociales au Japon. Voici quelques règles à suivre :
 
@@ -43,14 +43,14 @@ La politesse est essentielle dans les interactions sociales au Japon. Voici quel
 [color=#FF0000]-くん (-kun)[/color] [color=#008000](Utilisé pour les garçons et les jeunes hommes)[/color]
 
 [i]Exemple : 
-[color=#0000FF]田中さんに会いました。[font_size=18pt](Tanaka-san ni aimashita.)[/font_size][/color] 
+[color=#0000FF]田中さんに会いました。[font_size=18](Tanaka-san ni aimashita.)[/font_size][/color] 
 [color=#008000](J'ai rencontré M. Tanaka.)[/color][/i]
 
 - Montrez du respect en parlant :
 Utilisez des formules de politesse comme [color=#FF0000]ありがとうございます (arigatou gozaimasu)[/color] [color=#008000](Merci beaucoup)[/color] et [color=#FF0000]すみません (sumimasen)[/color] [color=#008000](Excusez-moi)[/color].
 
 [i]Exemple : 
-[color=#0000FF]遅れてすみませんでした。[font_size=18pt](Okurete sumimasen deshita.)[/font_size][/color] 
+[color=#0000FF]遅れてすみませんでした。[font_size=18](Okurete sumimasen deshita.)[/font_size][/color] 
 [color=#008000](Je suis désolé d'être en retard.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Comportement à Table[/color][/font_size]
@@ -61,14 +61,14 @@ Le comportement à table est une autre facette importante de l'étiquette japona
 • Après avoir terminé de manger, dites [color=#FF0000]ごちそうさまでした (gochisousama deshita)[/color] [color=#008000](Merci pour le repas)[/color].
 
 [i]Exemple : 
-[color=#0000FF]ごちそうさまでした。[font_size=18pt](Gochisousama deshita.)[/font_size][/color] 
+[color=#0000FF]ごちそうさまでした。[font_size=18](Gochisousama deshita.)[/font_size][/color] 
 [color=#008000](Merci pour le repas.)[/color][/i]
 
 - Ne plantez pas vos baguettes (箸, hashi) dans du riz, c'est un geste associé aux rites funéraires.
 - Ne passez pas de nourriture directement de vos baguettes à celles de quelqu'un d'autre. Cela rappelle les rites de transfert des ossements lors des funérailles.
 
 [i]Exemple : 
-[color=#0000FF]箸を使うときは注意してください。[font_size=18pt](Hashi o tsukau toki wa chuui shite kudasai.)[/font_size][/color] 
+[color=#0000FF]箸を使うときは注意してください。[font_size=18](Hashi o tsukau toki wa chuui shite kudasai.)[/font_size][/color] 
 [color=#008000](Faites attention lorsque vous utilisez les baguettes.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]

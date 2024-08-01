@@ -18,27 +18,27 @@ Pour former une phrase avec l'aspect expérientiel "たことがある (ta koto 
 見る (miru) [color=#008000](voir)[/color] -> 見たことがある (mita koto ga aru) [color=#008000](avoir vu)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は日本に行ったことがあります。[font_size=18pt](Watashi wa Nihon ni itta koto ga arimasu.)[/font_size][/color] [color=#008000](Je suis déjà allé au Japon.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は日本に行ったことがあります。[font_size=18](Watashi wa Nihon ni itta koto ga arimasu.)[/font_size][/color] [color=#008000](Je suis déjà allé au Japon.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de "たことがある" dans des phrases[/color][/font_size]
 
 Cette structure est utile non seulement pour parler de vos propres expériences, mais aussi pour poser des questions sur les expériences des autres.
 
 [indent]• Parler de ses propres expériences
-[i]Exemple : [color=#0000FF]彼は寿司を食べたことがある。[font_size=18pt](Kare wa sushi o tabeta koto ga aru.)[/font_size][/color] [color=#008000](Il a déjà mangé des sushis.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は寿司を食べたことがある。[font_size=18](Kare wa sushi o tabeta koto ga aru.)[/font_size][/color] [color=#008000](Il a déjà mangé des sushis.)[/color][/i]
 
 - Poser des questions sur les expériences des autres
-[i]Exemple : [color=#0000FF]あなたは富士山に登ったことがありますか？[font_size=18pt](Anata wa Fujisan ni nobotta koto ga arimasu ka?)[/font_size][/color] [color=#008000](Avez-vous déjà gravi le mont Fuji ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]あなたは富士山に登ったことがありますか？[font_size=18](Anata wa Fujisan ni nobotta koto ga arimasu ka?)[/font_size][/color] [color=#008000](Avez-vous déjà gravi le mont Fuji ?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Négation et variations de "たことがある"[/color][/font_size]
 
 Pour nier une expérience ou pour parler de plusieurs expériences, d'autres structures peuvent être utilisées en combinaison avec "たことがある (ta koto ga aru)".
 
 [indent]• Nier une expérience
-[i]Exemple : [color=#0000FF]私は一度も北海道に行ったことがありません。[font_size=18pt](Watashi wa ichido mo Hokkaidō ni itta koto ga arimasen.)[/font_size][/color] [color=#008000](Je ne suis jamais allé à Hokkaidō.)[/color][/i]
+[i]Exemple : [color=#0000FF]私は一度も北海道に行ったことがありません。[font_size=18](Watashi wa ichido mo Hokkaidō ni itta koto ga arimasen.)[/font_size][/color] [color=#008000](Je ne suis jamais allé à Hokkaidō.)[/color][/i]
 
 - Parler de plusieurs expériences
-[i]Exemple : [color=#0000FF]彼は色々な国に行ったことがある。[font_size=18pt](Kare wa iroirona kuni ni itta koto ga aru.)[/font_size][/color] [color=#008000](Il a été dans plusieurs pays.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は色々な国に行ったことがある。[font_size=18](Kare wa iroirona kuni ni itta koto ga aru.)[/font_size][/color] [color=#008000](Il a été dans plusieurs pays.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

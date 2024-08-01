@@ -17,7 +17,7 @@ happily (joyeusement)
 sadly (tristement)
 [/code]
 
-[i]Exemple : [color=#0000FF]She sings beautifully.[font_size=18pt] (Elle chante magnifiquement.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She sings beautifully.[font_size=18] (Elle chante magnifiquement.)[/font_size][/color][/i][/indent]
 
 [b]b) Adverbes de lieu[/b]
 [indent]Les adverbes de lieu indiquent où se déroule l'action.
@@ -28,7 +28,7 @@ everywhere (partout)
 nowhere (nulle part)
 [/code]
 
-[i]Exemple : [color=#0000FF]He looked everywhere.[font_size=18pt] (Il a cherché partout.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He looked everywhere.[font_size=18] (Il a cherché partout.)[/font_size][/color][/i][/indent]
 
 [b]c) Adverbes de temps[/b]
 [indent]Les adverbes de temps précisent quand l'action se produit.
@@ -39,7 +39,7 @@ yesterday (hier)
 tomorrow (demain)
 [/code]
 
-[i]Exemple : [color=#0000FF]We will meet tomorrow.[font_size=18pt] (Nous nous rencontrerons demain.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]We will meet tomorrow.[font_size=18] (Nous nous rencontrerons demain.)[/font_size][/color][/i][/indent]
 
 [b]d) Adverbes de fréquence[/b]
 [indent]Les adverbes de fréquence indiquent la fréquence de l'action.
@@ -50,7 +50,7 @@ sometimes (parfois)
 never (jamais)
 [/code]
 
-[i]Exemple : [color=#0000FF]She often goes to the gym.[font_size=18pt] (Elle va souvent à la salle de sport.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She often goes to the gym.[font_size=18] (Elle va souvent à la salle de sport.)[/font_size][/color][/i][/indent]
 
 [b]e) Adverbes de degré[/b]
 [indent]Les adverbes de degré modifient l'intensité d'un verbe, d'un adjectif ou d'un autre adverbe.
@@ -61,35 +61,35 @@ too (trop)
 almost (presque)
 [/code]
 
-[i]Exemple : [color=#0000FF]He is very tall.[font_size=18pt] (Il est très grand.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He is very tall.[font_size=18] (Il est très grand.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Position des adverbes dans la phrase[/color][/font_size]
 
 La position des adverbes dans une phrase anglaise peut varier selon leur type et ce qu'ils modifient. Voici quelques règles générales :
 
 [indent]• Les adverbes de manière et de lieu se placent généralement après le verbe principal ou après le complément d'objet direct si le verbe en a un.
-[i]Exemple : [color=#0000FF]She speaks English fluently.[font_size=18pt] (Elle parle couramment l'anglais.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]She speaks English fluently.[font_size=18] (Elle parle couramment l'anglais.)[/font_size][/color][/i]
 
 - Les adverbes de temps peuvent se placer en début ou en fin de phrase.
-[i]Exemple : [color=#0000FF]Yesterday, we visited the museum.[font_size=18pt] (Hier, nous avons visité le musée.)[/font_size][/color]
-[color=#0000FF]We visited the museum yesterday.[font_size=18pt] (Nous avons visité le musée hier.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Yesterday, we visited the museum.[font_size=18] (Hier, nous avons visité le musée.)[/font_size][/color]
+[color=#0000FF]We visited the museum yesterday.[font_size=18] (Nous avons visité le musée hier.)[/font_size][/color][/i]
 
 - Les adverbes de fréquence se placent généralement avant le verbe principal mais après l'auxiliaire ou le verbe "to be".
-[i]Exemple : [color=#0000FF]She always arrives on time.[font_size=18pt] (Elle arrive toujours à l'heure.)[/font_size][/color][/i]
-[i]Exemple : [color=#0000FF]They are never late.[font_size=18pt] (Ils ne sont jamais en retard.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]She always arrives on time.[font_size=18] (Elle arrive toujours à l'heure.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]They are never late.[font_size=18] (Ils ne sont jamais en retard.)[/font_size][/color][/i]
 
 - Les adverbes de degré se placent souvent avant l'adjectif ou adverbe qu'ils modifient.
-[i]Exemple : [color=#0000FF]She is quite intelligent.[font_size=18pt] (Elle est assez intelligente.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She is quite intelligent.[font_size=18] (Elle est assez intelligente.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Adverbes et adjectifs[/color][/font_size]
 
 Il est important de ne pas confondre les adverbes et les adjectifs. Les adverbes modifient des verbes, des adjectifs ou d'autres adverbes, tandis que les adjectifs modifient des noms.
 
 [indent]• Utilisation incorrecte d'un adjectif à la place d'un adverbe :
-[i]Exemple : [color=#FF0000]He ran quick.[font_size=18pt] (Incorrect, doit être : He ran quickly.)[/font_size][/color][/i]
+[i]Exemple : [color=#FF0000]He ran quick.[font_size=18] (Incorrect, doit être : He ran quickly.)[/font_size][/color][/i]
 
 - Utilisation incorrecte d'un adverbe à la place d'un adjectif :
-[i]Exemple : [color=#FF0000]She is happily.[font_size=18pt] (Incorrect, doit être : She is happy.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#FF0000]She is happily.[font_size=18] (Incorrect, doit être : She is happy.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

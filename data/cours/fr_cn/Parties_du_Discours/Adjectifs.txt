@@ -18,7 +18,7 @@ En chinois, les adjectifs peuvent être utilisés de manière attributive ou pr�
 年轻的 (niánqīng de) [color=#008000](jeune)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]她是一个漂亮的女孩。[font_size=18pt](Tā shì yī gè piàoliang de nǚhái.)[/font_size][/color] [color=#008000](Elle est une jolie fille.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]她是一个漂亮的女孩。[font_size=18](Tā shì yī gè piàoliang de nǚhái.)[/font_size][/color] [color=#008000](Elle est une jolie fille.)[/color][/i][/indent]
 
 [b]b) Adjectifs prédicatifs[/b]
 [indent]Les adjectifs peuvent être utilisés comme prédicats, généralement sans verbe intermédiaire équivalent à "être". 
@@ -35,23 +35,23 @@ En chinois, les adjectifs peuvent être utilisés de manière attributive ou pr�
 Pour renforcer le sens d'un adjectif, on peut utiliser des adverbes d'intensité. Voici quelques exemples courants :
 
 [indent]• 非常 (fēicháng) [color=#008000](très, extrêmement)[/color]
-[i]Exemple : [color=#0000FF]这本书非常有趣。[font_size=18pt](Zhè běn shū fēicháng yǒuqù.)[/font_size][/color] [color=#008000](Ce livre est extrêmement intéressant.)[/color][/i]
+[i]Exemple : [color=#0000FF]这本书非常有趣。[font_size=18](Zhè běn shū fēicháng yǒuqù.)[/font_size][/color] [color=#008000](Ce livre est extrêmement intéressant.)[/color][/i]
 
 - 特别 (tèbié) [color=#008000](particulièrement, spécialement)[/color]
-[i]Exemple : [color=#0000FF]他特别聪明。[font_size=18pt](Tā tèbié cōngmíng.)[/font_size][/color] [color=#008000](Il est particulièrement intelligent.)[/color][/i]
+[i]Exemple : [color=#0000FF]他特别聪明。[font_size=18](Tā tèbié cōngmíng.)[/font_size][/color] [color=#008000](Il est particulièrement intelligent.)[/color][/i]
 
 - 很 (hěn) [color=#008000](très)[/color]
-[i]Exemple : [color=#0000FF]这道菜很辣。[font_size=18pt](Zhè dào cài hěn là.)[/font_size][/color] [color=#008000](Ce plat est très épicé.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]这道菜很辣。[font_size=18](Zhè dào cài hěn là.)[/font_size][/color] [color=#008000](Ce plat est très épicé.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Comparaisons avec les adjectifs[/color][/font_size]
 
 Pour faire des comparaisons en chinois, on utilise souvent les mots 比 (bǐ) [color=#008000](comparer)[/color] et 更 (gèng) [color=#008000](plus)[/color]. Voici comment les utiliser :
 
 [indent]• Utilisation de 比 (bǐ)
-[i]Exemple : [color=#0000FF]她比我高。[font_size=18pt](Tā bǐ wǒ gāo.)[/font_size][/color] [color=#008000](Elle est plus grande que moi.)[/color][/i]
+[i]Exemple : [color=#0000FF]她比我高。[font_size=18](Tā bǐ wǒ gāo.)[/font_size][/color] [color=#008000](Elle est plus grande que moi.)[/color][/i]
 
 - Utilisation de 更 (gèng)
-[i]Exemple : [color=#0000FF]他更聪明。[font_size=18pt](Tā gèng cōngmíng.)[/font_size][/color] [color=#008000](Il est encore plus intelligent.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他更聪明。[font_size=18](Tā gèng cōngmíng.)[/font_size][/color] [color=#008000](Il est encore plus intelligent.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Formulation des superlatifs[/color][/font_size]
 

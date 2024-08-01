@@ -31,7 +31,7 @@ En allemand, les nombres ordinaux de 1 à 19 sont formés en ajoutant le suffixe
 18. achtzehnte (dix-huitième)
 19. neunzehnte (dix-neuvième)
 [/code]
-[i]Exemple : [color=#0000FF]Das ist mein erster Tag in der Schule.[font_size=18pt] (C'est mon premier jour à l'école.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das ist mein erster Tag in der Schule.[font_size=18] (C'est mon premier jour à l'école.)[/font_size][/color][/i][/indent]
 
 [b]b) À partir de 20[/b]
 [indent][code]
@@ -47,26 +47,26 @@ En allemand, les nombres ordinaux de 1 à 19 sont formés en ajoutant le suffixe
 90. neunzigste (quatre-vingt-dixième)
 100. hundertste (centième)
 [/code]
-[i]Exemple : [color=#0000FF]Heute ist sein zwanzigster Geburtstag.[font_size=18pt] (Aujourd'hui c'est son vingtième anniversaire.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Heute ist sein zwanzigster Geburtstag.[font_size=18] (Aujourd'hui c'est son vingtième anniversaire.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des nombres ordinaux[/color][/font_size]
 
 Les nombres ordinaux en allemand s'accordent en genre, en nombre et en cas avec le nom qu'ils déterminent. Ils prennent aussi des terminaisons spécifiques en fonction du contexte grammatical.
 
 [indent]• Pour indiquer les dates :
-[i]Exemple : [color=#0000FF]Heute ist der dritte Juli.[font_size=18pt] (Aujourd'hui, c'est le 3 juillet.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Heute ist der dritte Juli.[font_size=18] (Aujourd'hui, c'est le 3 juillet.)[/font_size][/color][/i]
 
 • Pour les étages et les positions :
-[i]Exemple : [color=#0000FF]Ich wohne im zweiten Stock.[font_size=18pt] (J'habite au deuxième étage.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich wohne im zweiten Stock.[font_size=18] (J'habite au deuxième étage.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Les nombres ordinaux peuvent se combiner avec d'autres mots pour former des expressions plus détaillées.
 [indent]• Indication du siècle :
-[i]Exemple : [color=#0000FF]Das zwanzigste Jahrhundert.[font_size=18pt] (Le vingtième siècle.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Das zwanzigste Jahrhundert.[font_size=18] (Le vingtième siècle.)[/font_size][/color][/i]
 
 • Indication d'une séquence :
-[i]Exemple : [color=#0000FF]Er kam als dritter an.[font_size=18pt] (Il est arrivé en troisième position.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er kam als dritter an.[font_size=18] (Il est arrivé en troisième position.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

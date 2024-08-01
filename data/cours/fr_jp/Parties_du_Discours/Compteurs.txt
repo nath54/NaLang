@@ -9,7 +9,7 @@ En japonais, les compteurs sont des mots spécifiques utilisés pour compter dif
 [indent][b]a) Compteur général[/b]
 [indent]Le compteur général le plus courant est つ (tsu). Il est souvent utilisé pour compter des objets abstraits sans distinction particulière.
 
-[i]Exemple : [color=#0000FF]三つ (mittsu) - trois objets[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]三つ (mittsu) - trois objets[/color][/i][/indent][/indent]
 
 [b]b) Compteurs spécifiques[/b]
 [indent]Il existe une grande variété de compteurs spécifiques utilisés pour différents types d'objets ou d'êtres.

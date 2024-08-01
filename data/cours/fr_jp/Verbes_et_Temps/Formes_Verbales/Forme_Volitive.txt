@@ -16,7 +16,7 @@ La formation de la forme volitive dépend du groupe auquel appartient le verbe. 
 話す (はなす, hanasu) -> 話そう (はなそう, hanasou) [color=#008000](Parlons)[/color]
 買う (かう, kau) -> 買おう (かおう, kaou) [color=#008000](Achetons)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]明日は海へ行こう。[font_size=18pt](あしたはうみへいこう, Ashita wa umi e ikou.)[/font_size][/color] [color=#008000](Allons à la mer demain.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]明日は海へ行こう。[font_size=18](あしたはうみへいこう, Ashita wa umi e ikou.)[/font_size][/color] [color=#008000](Allons à la mer demain.)[/color][/i][/indent]
 
 [b]b) Verbes du groupe 2 (一段動詞 (ichidan doushi))[/b]
 [indent]Pour les verbes du groupe 2, on remplace la terminaison [color=#FF0000]る[/color] (ru) par [color=#FF0000]よう[/color] (you). Voici quelques exemples :
@@ -25,7 +25,7 @@ La formation de la forme volitive dépend du groupe auquel appartient le verbe. 
 食べる (たべる, taberu) -> 食べよう (たべよう, tabeyou) [color=#008000](Mangeons)[/color]
 見る (みる, miru) -> 見よう (みよう, miyou) [color=#008000](Regardons)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]一緒に映画を見よう。[font_size=18pt](いっしょにえいがをみよう, Issho ni eiga o miyou.)[/font_size][/color] [color=#008000](Regardons un film ensemble.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]一緒に映画を見よう。[font_size=18](いっしょにえいがをみよう, Issho ni eiga o miyou.)[/font_size][/color] [color=#008000](Regardons un film ensemble.)[/color][/i][/indent]
 
 [b]c) Verbes irréguliers[/b]
 [indent]Il existe deux verbes irréguliers principaux dont la forme volitive doit être apprise par cœur :
@@ -34,20 +34,20 @@ La formation de la forme volitive dépend du groupe auquel appartient le verbe. 
 する (する, suru) -> しよう (しよう, shiyou) [color=#008000](Faisons)[/color]
 来る (くる, kuru) -> 来よう (こよう, koyou) [color=#008000](Venons)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]一緒に勉強しよう。[font_size=18pt](いっしょにべんきょうしよう, Issho ni benkyou shiyou.)[/font_size][/color] [color=#008000](Étudions ensemble.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]一緒に勉強しよう。[font_size=18](いっしょにべんきょうしよう, Issho ni benkyou shiyou.)[/font_size][/color] [color=#008000](Étudions ensemble.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de la forme volitive[/color][/font_size]
 
 La forme volitive est utilisée dans divers contextes où l'on veut exprimer une intention ou une invitation. Voici quelques exemples :
 
 [indent]• Pour proposer une activité commune :
-[i]Exemple : [color=#0000FF]公園へ行こう。[font_size=18pt](こうえんへいこう, Kouen e ikou.)[/font_size][/color] [color=#008000](Allons au parc.)[/color][/i]
+[i]Exemple : [color=#0000FF]公園へ行こう。[font_size=18](こうえんへいこう, Kouen e ikou.)[/font_size][/color] [color=#008000](Allons au parc.)[/color][/i]
 
 - Pour exprimer une volonté personnelle :
-[i]Exemple : [color=#0000FF]もっと日本語を勉強しよう。[font_size=18pt](もっとにほんごをべんきょうしよう, Motto nihongo o benkyou shiyou.)[/font_size][/color] [color=#008000](Je vais étudier davantage le japonais.)[/color][/i]
+[i]Exemple : [color=#0000FF]もっと日本語を勉強しよう。[font_size=18](もっとにほんごをべんきょうしよう, Motto nihongo o benkyou shiyou.)[/font_size][/color] [color=#008000](Je vais étudier davantage le japonais.)[/color][/i]
 
 - Pour motiver ou encourager :
-[i]Exemple : [color=#0000FF]一緒に頑張ろう。[font_size=18pt](いっしょにがんばろう, Issho ni ganbarou.)[/font_size][/color] [color=#008000](Faisons de notre mieux ensemble.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]一緒に頑張ろう。[font_size=18](いっしょにがんばろう, Issho ni ganbarou.)[/font_size][/color] [color=#008000](Faisons de notre mieux ensemble.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Variantes formelles et informelles[/color][/font_size]
 
@@ -55,10 +55,10 @@ Bien que la forme volitive soit souvent utilisée dans des contextes informels, 
 
 [indent]• Dans les situations formelles, la forme volitive peut être rendue plus polie en utilisant des expressions comme [color=#FF0000]～ましょう[/color] (mashou) :
 
-[i]Exemple : [color=#0000FF]帰りましょう。[font_size=18pt](かえりましょう, Kaerimashou.)[/font_size][/color] [color=#008000](Rentrons chez nous.)[/color][/i]
+[i]Exemple : [color=#0000FF]帰りましょう。[font_size=18](かえりましょう, Kaerimashou.)[/font_size][/color] [color=#008000](Rentrons chez nous.)[/color][/i]
 
 - La forme [color=#FF0000]～ませんか[/color] (masen ka) peut aussi être utilisée pour proposer gentiment une action :
-[i]Exemple : [color=#0000FF]一緒に食事をしませんか。[font_size=18pt](いっしょにしょくじをしませんか, Issho ni shokuji o shimasen ka.)[/font_size][/color] [color=#008000](Ne devons-nous pas manger ensemble ?) [sous-entendu : Mangeons ensemble].[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]一緒に食事をしませんか。[font_size=18](いっしょにしょくじをしませんか, Issho ni shokuji o shimasen ka.)[/font_size][/color] [color=#008000](Ne devons-nous pas manger ensemble ?) [sous-entendu : Mangeons ensemble].[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

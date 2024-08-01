@@ -22,7 +22,7 @@ Chaque caractère chinois est composé de traits fondamentaux. Il est crucial de
 • 一 (yī) - horizontal (héng)
 • 丨 (gǔn) - vertical (shù)
 • 丿 (piě) - incliné vers la gauche
-• 乀/乁 (nà) - incliné vers la droite[/code]
+• 乀/乁 (nà) - incliné vers la droite[/code][/indent]
 
 [b]b) Les Traits Composés[/b]
 

@@ -35,20 +35,20 @@ sie/Sie werden gegangen sein (ils/elles/vous [formel] seront allés)
 Le futur antérieur est souvent utilisé en allemand pour indiquer qu'une action sera complétée avant un certain moment futur ou une autre action future. Il est également utilisé pour exprimer des suppositions sur une action probablement terminée.
 
 [indent]• Pour indiquer qu'une action sera terminée dans le futur avant une autre action :
-[i]Exemple : [color=#0000FF]Bis morgen werde ich meine Hausaufgaben gemacht haben.[font_size=18pt](Bis morgen werde ich meine Hausaufgaben gemacht haben.)[/font_size][/color] [color=#008000](D'ici demain, j'aurai fait mes devoirs.)[/color][/i]
+[i]Exemple : [color=#0000FF]Bis morgen werde ich meine Hausaufgaben gemacht haben.[font_size=18](Bis morgen werde ich meine Hausaufgaben gemacht haben.)[/font_size][/color] [color=#008000](D'ici demain, j'aurai fait mes devoirs.)[/color][/i]
 
 - Pour exprimer une supposition ou une incertitude sur le passé, mais dans un futur perspective :
-[i]Exemple : [color=#0000FF]Er wird wohl schon zu Hause angekommen sein.[font_size=18pt](Er wird wohl schon zu Hause angekommen sein.)[/font_size][/color] [color=#008000](Il sera probablement déjà arrivé à la maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er wird wohl schon zu Hause angekommen sein.[font_size=18](Er wird wohl schon zu Hause angekommen sein.)[/font_size][/color] [color=#008000](Il sera probablement déjà arrivé à la maison.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Quelques précisions supplémentaires[/color][/font_size]
 
 Il est important de noter la position des éléments dans la phrase allemande. Le participe passé du verbe principal se place en deuxième position ou en fin de proposition, tandis que l'auxiliaire conjugué "werden" prend la première place dans une phrase principale.
 
 [indent]• Position du participe passé et de l'auxiliaire
-[i]Exemple : [color=#0000FF]Ich werde das Buch gelesen haben, bevor du kommst.[font_size=18pt](Ich werde das Buch gelesen haben, bevor du kommst.)[/font_size][/color] [color=#008000](J'aurai lu le livre avant que tu n'arrives.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich werde das Buch gelesen haben, bevor du kommst.[font_size=18](Ich werde das Buch gelesen haben, bevor du kommst.)[/font_size][/color] [color=#008000](J'aurai lu le livre avant que tu n'arrives.)[/color][/i]
 
 - Faire attention à l'utilisation correcte de "haben" et "sein" en fonction du verbe employé.
-[i]Exemple : [color=#0000FF]Wir werden nach Hause gegangen sein.[font_size=18pt](Wir werden nach Hause gegangen sein.)[/font_size][/color] [color=#008000](Nous serons rentrés à la maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wir werden nach Hause gegangen sein.[font_size=18](Wir werden nach Hause gegangen sein.)[/font_size][/color] [color=#008000](Nous serons rentrés à la maison.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

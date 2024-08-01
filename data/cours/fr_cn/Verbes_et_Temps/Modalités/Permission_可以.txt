@@ -69,7 +69,7 @@ Quand on utilise un adverbe de négation comme "不" (bù), il se place avant "�
 
 [code]
 明天你会可以参加。 (míng tiān nǐ huì kě yǐ cān jiā.) [color=#008000](Demain, tu pourras participer.)[/color]
-[/code]
+[/code][/indent]
 
 [b]b) Permission conditionnelle[/b]
 [indent]Pour exprimer des conditions, utilisez "如果" (rú guǒ) suivi de la condition, puis "可以" (kě yǐ).

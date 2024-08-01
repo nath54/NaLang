@@ -26,7 +26,7 @@ Avec l'introduction du système d'écriture chinois, la langue japonaise a subi 
 [code]
 漢詩 (kanshi) [color=#008000](poèmes chinois)[/color]
 万葉集 (Man'yōshū) [color=#008000](Collection de Dix Mille Feuilles)[/color] [/code]
-[i]Exemple : [color=#0000FF]万葉集は日本最古の詩歌集です。(Man'yōshū wa Nihon saiko no shiika-shū desu.)[/font_size][/color] [color=#008000](Le Man'yōshū est la plus ancienne collection de poèmes du Japon.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]万葉集は日本最古の詩歌集です。(Man'yōshū wa Nihon saiko no shiika-shū desu.)[/color] [color=#008000](Le Man'yōshū est la plus ancienne collection de poèmes du Japon.)[/color][/i][/indent]
 
 [b]c) Période Heian (平安時代, Heian jidai)[/b]
 [indent]S'étendant de 794 à 1185, cette période est marquée par l'émergence des deux systèmes de syllabaires japonais : hiragana (ひらがな) et katakana (カタカナ). 

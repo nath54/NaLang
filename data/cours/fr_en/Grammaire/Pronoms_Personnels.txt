@@ -18,7 +18,7 @@ We [color=#008000](nous)[/color]
 They [color=#008000](ils/elles)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She is a teacher.[font_size=18pt] (Elle est enseignante.)[/font_size][/color] [color=#008000](Elle est enseignante.)[/color][/i]
+[i]Exemple : [color=#0000FF]She is a teacher.[font_size=18] (Elle est enseignante.)[/font_size][/color] [color=#008000](Elle est enseignante.)[/color][/i]
 
 [font_size=24][color=#4B0082]2. Les Pronoms Objets[/color][/font_size]
 
@@ -34,27 +34,27 @@ Us [color=#008000](nous)[/color]
 Them [color=#008000](les/leur)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]I saw him at the store.[font_size=18pt] (Je l'ai vu au magasin.)[/font_size][/color] [color=#008000](Je l'ai vu au magasin.)[/color][/i]
+[i]Exemple : [color=#0000FF]I saw him at the store.[font_size=18] (Je l'ai vu au magasin.)[/font_size][/color] [color=#008000](Je l'ai vu au magasin.)[/color][/i]
 
 [font_size=24][color=#4B0082]3. Utilisation des Pronoms Personnels[/color][/font_size]
 
 En anglais, il est essentiel d'utiliser correctement les pronoms personnels pour que les phrases soient grammaticalement correctes et faciles à comprendre. Voici quelques règles clés à suivre :
 
 [indent]• Assurez-vous que le pronom sujet correspond au verbe en termes de nombre (singulier ou pluriel) et de personne.
-[i]Exemple : [color=#0000FF]They are playing.[font_size=18pt] (Ils jouent.)[/font_size][/color] [color=#008000](Ils jouent.)[/color][/i]
+[i]Exemple : [color=#0000FF]They are playing.[font_size=18] (Ils jouent.)[/font_size][/color] [color=#008000](Ils jouent.)[/color][/i]
 
 - Utilisez les pronoms objets après un verbe ou une préposition.
-[i]Exemple : [color=#0000FF]Can you help me?[font_size=18pt] (Peux-tu m'aider ?)[/font_size][/color] [color=#008000](Peux-tu m'aider ?)[/color][/i]
+[i]Exemple : [color=#0000FF]Can you help me?[font_size=18] (Peux-tu m'aider ?)[/font_size][/color] [color=#008000](Peux-tu m'aider ?)[/color][/i]
 
 - N’oubliez pas que "it" peut être utilisé pour des objets, des animaux ou des concepts abstraits.
-[i]Exemple : [color=#0000FF]I found it interesting.[font_size=18pt] (Je l'ai trouvé intéressant.)[/font_size][/color] [color=#008000](Je l'ai trouvé intéressant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I found it interesting.[font_size=18] (Je l'ai trouvé intéressant.)[/font_size][/color] [color=#008000](Je l'ai trouvé intéressant.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Pronoms de Politesse et de Neutralité[/color][/font_size]
 
 En anglais, "you" est utilisé à la fois pour le singulier et le pluriel, ainsi que pour des formes formelles et informelles. De plus, "they" peut être utilisé comme pronom singulier neutre pour éviter les ambiguïtés de genre, ce qui est de plus en plus accepté dans l'usage contemporain.
 
 [indent]• Utilisation de "they" comme pronom singulier neutre.
-[i]Exemple : [color=#0000FF]Someone left their umbrella here.[font_size=18pt] (Quelqu'un a laissé son parapluie ici.)[/font_size][/color] [color=#008000](Quelqu'un a laissé son parapluie ici.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Someone left their umbrella here.[font_size=18] (Quelqu'un a laissé son parapluie ici.)[/font_size][/color] [color=#008000](Quelqu'un a laissé son parapluie ici.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

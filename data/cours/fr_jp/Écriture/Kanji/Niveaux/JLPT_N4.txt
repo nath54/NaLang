@@ -16,7 +16,7 @@ Voici une liste des Kanji que vous devez connaître pour le niveau N4. Chaque Ka
 今日 (kyou) [color=#008000](aujourd'hui)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]今日は晴れです。[font_size=18pt](Kyou wa hare desu.)[/font_size][/color] [color=#008000](Aujourd'hui, il fait beau.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]今日は晴れです。[font_size=18](Kyou wa hare desu.)[/font_size][/color] [color=#008000](Aujourd'hui, il fait beau.)[/color][/i][/indent]
 
 [b]b) 人 (hito, jin, nin) - Personne, Être humain[/b]
 [indent]
@@ -26,7 +26,7 @@ Voici une liste des Kanji que vous devez connaître pour le niveau N4. Chaque Ka
 人気 (ninki) [color=#008000](popularité)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は人気があります。[font_size=18pt](Kare wa ninki ga arimasu.)[/font_size][/color] [color=#008000](Il est populaire.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は人気があります。[font_size=18](Kare wa ninki ga arimasu.)[/font_size][/color] [color=#008000](Il est populaire.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Kanji de direction et de lieu[/color][/font_size]
 
@@ -40,7 +40,7 @@ Ces Kanji sont fréquemment utilisés pour indiquer des directions ou des lieux.
 北海道 (hokkaidou) [color=#008000](Hokkaido)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]北風が強い。[font_size=18pt](Kitakaze ga tsuyoi.)[/font_size][/color] [color=#008000](Le vent du nord est fort.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]北風が強い。[font_size=18](Kitakaze ga tsuyoi.)[/font_size][/color] [color=#008000](Le vent du nord est fort.)[/color][/i][/indent]
 
 [b]b) 学 (gaku, manabu) - Apprendre, Étudier[/b]
 [indent]
@@ -50,7 +50,7 @@ Ces Kanji sont fréquemment utilisés pour indiquer des directions ou des lieux.
 学問 (gakumon) [color=#008000](étude)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は学生です。[font_size=18pt](Kare wa gakusei desu.)[/font_size][/color] [color=#008000](Il est étudiant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は学生です。[font_size=18](Kare wa gakusei desu.)[/font_size][/color] [color=#008000](Il est étudiant.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Kanji de description et d'identité[/color][/font_size]
 
@@ -64,7 +64,7 @@ Les Kanji suivants sont utilisés pour décrire des attributs ou identifier des 
 大人 (otona) [color=#008000](adulte)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は大人です。[font_size=18pt](Kare wa otona desu.)[/font_size][/color] [color=#008000](Il est adulte.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は大人です。[font_size=18](Kare wa otona desu.)[/font_size][/color] [color=#008000](Il est adulte.)[/color][/i][/indent]
 
 [b]b) 小 (shou, chii) - Petit[/b]
 [indent]
@@ -74,7 +74,7 @@ Les Kanji suivants sont utilisés pour décrire des attributs ou identifier des 
 小鳥 (kotori) [color=#008000](petit oiseau)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]小さい鳥がいます。[font_size=18pt](Chiisai tori ga imasu.)[/font_size][/color] [color=#008000](Il y a un petit oiseau.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]小さい鳥がいます。[font_size=18](Chiisai tori ga imasu.)[/font_size][/color] [color=#008000](Il y a un petit oiseau.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Utilisation pratique et mémorisation[/color][/font_size]
 

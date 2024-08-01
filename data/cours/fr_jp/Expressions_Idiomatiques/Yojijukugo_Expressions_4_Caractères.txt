@@ -19,7 +19,7 @@ Voici quelques exemples de Yojijukugo, accompagnés de leur signification et de 
 二鳥 = deux oiseaux ([color=#008000]にちょう, nichō[/color])
 [/code]
 
-[i]Exemple : [color=#0000FF]このプロジェクトは一石二鳥だ。[font_size=18pt](Kono purojekuto wa isseki nichō da.)[/font_size][/color] [color=#008000](Ce projet tue deux oiseaux avec une pierre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]このプロジェクトは一石二鳥だ。[font_size=18](Kono purojekuto wa isseki nichō da.)[/font_size][/color] [color=#008000](Ce projet tue deux oiseaux avec une pierre.)[/color][/i][/indent]
 
 [b]b) 七転八起 ([color=#0000FF]しちてんはっき, shichiten hakki[/color])[/b]
 [indent]Signification : Tomber sept fois, se relever huit fois (persévérance).
@@ -28,7 +28,7 @@ Voici quelques exemples de Yojijukugo, accompagnés de leur signification et de 
 八起 = huit relèvements ([color=#008000]はっき, hakki[/color])
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は七転八起の精神を持っている。[font_size=18pt](Kare wa shichiten hakki no seishin o motte iru.)[/font_size][/color] [color=#008000](Il a un esprit de persévérance.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は七転八起の精神を持っている。[font_size=18](Kare wa shichiten hakki no seishin o motte iru.)[/font_size][/color] [color=#008000](Il a un esprit de persévérance.)[/color][/i][/indent]
 
 [b]c) 自業自得 ([color=#0000FF]じごうじとく, jigō jitoku[/color])[/b]
 [indent]Signification : On récolte ce qu'on sème (on subit les conséquences de ses propres actions).
@@ -37,17 +37,17 @@ Voici quelques exemples de Yojijukugo, accompagnés de leur signification et de 
 自得 = les récolter ([color=#008000]じとく, jitoku[/color])
 [/code]
 
-[i]Exemple : [color=#0000FF]彼の失敗は自業自得だ。[font_size=18pt](Kare no shippai wa jigō jitoku da.)[/font_size][/color] [color=#008000](Son échec est mérité.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼の失敗は自業自得だ。[font_size=18](Kare no shippai wa jigō jitoku da.)[/font_size][/color] [color=#008000](Son échec est mérité.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisation des Yojijukugo[/color][/font_size]
 
 Les Yojijukugo peuvent être utilisés dans une variété de contextes pour exprimer des idées profondes de manière concise. Voici quelques règles pour leur utilisation :
 
 [indent]• Utilisez-les pour résumer des situations complexes.
-[i]Exemple : [color=#0000FF]彼の成功は一石二鳥の結果だった。[font_size=18pt](Kare no seikō wa isseki nichō no kekka datta.)[/font_size][/color] [color=#008000](Son succès était le résultat de faire d'une pierre deux coups.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼の成功は一石二鳥の結果だった。[font_size=18](Kare no seikō wa isseki nichō no kekka datta.)[/font_size][/color] [color=#008000](Son succès était le résultat de faire d'une pierre deux coups.)[/color][/i]
 
 - Employez-les pour ajouter une touche littéraire ou poétique à votre discours.
-[i]Exemple : [color=#0000FF]七転八起の精神が大事だ。[font_size=18pt](Shichiten hakki no seishin ga daiji da.)[/font_size][/color] [color=#008000](L'esprit de persévérance est important.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]七転八起の精神が大事だ。[font_size=18](Shichiten hakki no seishin ga daiji da.)[/font_size][/color] [color=#008000](L'esprit de persévérance est important.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Précisions Supplémentaires[/color][/font_size]
 
@@ -57,7 +57,7 @@ Il existe des milliers de Yojijukugo, chacun avec des nuances uniques. Voici que
 [i]Exemple : [color=#0000FF]考え方の違いという意味を持つ四字熟語：異口同音 ([font_size=15]いくどうおん, ikudōon[/font_size])[/color] [color=#008000](Une expression qui signifie "différents avis, même voix" :異口同音)[/color][/i]
 
 - Pratiquez en les utilisant dans des phrases pour les mémoriser.
-[i]Exemple : [color=#0000FF]彼の意見と私の意見は異口同音だ。[font_size=18pt](Kare no iken to watashi no iken wa ikudōon da.)[/font_size][/color] [color=#008000](Son avis et mon avis sont similaires.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼の意見と私の意見は異口同音だ。[font_size=18](Kare no iken to watashi no iken wa ikudōon da.)[/font_size][/color] [color=#008000](Son avis et mon avis sont similaires.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

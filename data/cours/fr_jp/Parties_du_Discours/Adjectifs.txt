@@ -18,7 +18,7 @@ Les adjectifs en い (i) se terminent généralement par le son "i". Ils peuvent
 安い (yasui) [color=#008000](bon marché)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は新しい車を買った。[font_size=18pt](Kare wa atarashii kuruma o katta.)[/font_size][/color] [color=#008000](Il a acheté une nouvelle voiture.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は新しい車を買った。[font_size=18](Kare wa atarashii kuruma o katta.)[/font_size][/color] [color=#008000](Il a acheté une nouvelle voiture.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Les Adjectifs en な (na)[/color][/font_size]
 
@@ -34,7 +34,7 @@ Les adjectifs en な (na) ne se terminent pas par le son "i" et nécessitent gé
 好きな (suki na) [color=#008000](préféré; aimé)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は静かな場所が好きだ。[font_size=18pt](Kare wa shizuka na basho ga suki da.)[/font_size][/color] [color=#008000](Il aime les endroits calmes.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は静かな場所が好きだ。[font_size=18](Kare wa shizuka na basho ga suki da.)[/font_size][/color] [color=#008000](Il aime les endroits calmes.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Conjugaison des Adjectifs[/color][/font_size]
 
@@ -46,7 +46,7 @@ Présent négatif : 大きくない (ookiku nai) [color=#008000](pas grand)[/col
 Passé affirmatif : 大きかった (ookikatta) [color=#008000](était grand)[/color]
 Passé négatif : 大きくなかった (ookiku nakatta) [color=#008000](n'était pas grand)[/color]
 
-[i]Exemple : [color=#0000FF]その建物は大きくなかった。[font_size=18pt](Sono tatemono wa ookiku nakatta.)[/font_size][/color] [color=#008000](Ce bâtiment n'était pas grand.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]その建物は大きくなかった。[font_size=18](Sono tatemono wa ookiku nakatta.)[/font_size][/color] [color=#008000](Ce bâtiment n'était pas grand.)[/color][/i][/indent]
 
 [b]b) Adjectifs en な (na)[/b]
 [indent]Présent affirmatif : 静かだ (shizuka da) [color=#008000](calme)[/color]
@@ -54,7 +54,7 @@ Présent négatif : 静かじゃない (shizuka janai) [color=#008000](pas calme
 Passé affirmatif : 静かだった (shizuka datta) [color=#008000](était calme)[/color]
 Passé négatif : 静かじゃなかった (shizuka janakatta) [color=#008000](n'était pas calme)[/color]
 
-[i]Exemple : [color=#0000FF]その部屋は静かじゃなかった。[font_size=18pt](Sono heya wa shizuka janakatta.)[/font_size][/color] [color=#008000](Cette pièce n'était pas calme.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]その部屋は静かじゃなかった。[font_size=18](Sono heya wa shizuka janakatta.)[/font_size][/color] [color=#008000](Cette pièce n'était pas calme.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

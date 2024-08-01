@@ -17,7 +17,7 @@ Les noms en japonais ne changent pas en fonction du genre (masculin/féminin) ou
 食べ物 (たべもの, tabemono) [color=#008000](nourriture)[/color]
 [/code][/indent]
 
-[i]Exemple : [color=#0000FF]私は猫が好きです。[font_size=18pt](Watashi wa neko ga suki desu.)[/font_size][/color] [color=#008000](J'aime les chats.)[/color][/i]
+[i]Exemple : [color=#0000FF]私は猫が好きです。[font_size=18](Watashi wa neko ga suki desu.)[/font_size][/color] [color=#008000](J'aime les chats.)[/color][/i]
 
 [font_size=24][color=#4B0082]2. Classification des noms[/color][/font_size]
 
@@ -31,7 +31,7 @@ Les noms en japonais peuvent être classés en trois grandes catégories : les n
 会社 (かいしゃ, kaisha) [color=#008000](entreprise)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は会社に行きます。[font_size=18pt](Watashi wa kaisha ni ikimasu.)[/font_size][/color] [color=#008000](Je vais à l'entreprise.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は会社に行きます。[font_size=18](Watashi wa kaisha ni ikimasu.)[/font_size][/color] [color=#008000](Je vais à l'entreprise.)[/color][/i][/indent]
 
 [b]b) Noms propres[/b]
 [indent]Les noms propres sont des noms spécifiques désignant des personnes, des lieux, des organisations, etc.
@@ -41,7 +41,7 @@ Les noms en japonais peuvent être classés en trois grandes catégories : les n
 田中 (たなか, Tanaka) [color=#008000](Tanaka)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]田中さんは日本に住んでいます。[font_size=18pt](Tanaka-san wa Nihon ni sundeimasu.)[/font_size][/color] [color=#008000](M. Tanaka vit au Japon.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]田中さんは日本に住んでいます。[font_size=18](Tanaka-san wa Nihon ni sundeimasu.)[/font_size][/color] [color=#008000](M. Tanaka vit au Japon.)[/color][/i][/indent]
 
 [b]c) Pronoms[/b]
 [indent]Les pronoms remplacent des noms pour éviter les répétitions et peuvent désigner des personnes ou des objets. Les plus courants sont :
@@ -53,23 +53,23 @@ Les noms en japonais peuvent être classés en trois grandes catégories : les n
 それ (sore) [color=#008000](cela, ça)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は先生です。[font_size=18pt](Kare wa sensei desu.)[/font_size][/color] [color=#008000](Il est professeur.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は先生です。[font_size=18](Kare wa sensei desu.)[/font_size][/color] [color=#008000](Il est professeur.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisation des particules avec les noms[/color][/font_size]
 
 En japonais, les particules sont utilisées pour indiquer la fonction des noms dans la phrase. Voici quelques particules courantes utilisées avec les noms :
 
 [indent]• [color=#FF0000]は[/color] (wa) : Particule de thème
-[i]Exemple : [color=#0000FF]私は学生です。[font_size=18pt](Watashi wa gakusei desu.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i]
+[i]Exemple : [color=#0000FF]私は学生です。[font_size=18](Watashi wa gakusei desu.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i]
 
 • [color=#FF0000]が[/color] (ga) : Particule de sujet
-[i]Exemple : [color=#0000FF]猫がいます。[font_size=18pt](Neko ga imasu.)[/font_size][/color] [color=#008000](Il y a un chat.)[/color][/i]
+[i]Exemple : [color=#0000FF]猫がいます。[font_size=18](Neko ga imasu.)[/font_size][/color] [color=#008000](Il y a un chat.)[/color][/i]
 
 • [color=#FF0000]を[/color] (wo) : Particule d'objet direct
-[i]Exemple : [color=#0000FF]本を読みます。[font_size=18pt](Hon wo yomimasu.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i]
+[i]Exemple : [color=#0000FF]本を読みます。[font_size=18](Hon wo yomimasu.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i]
 
 • [color=#FF0000]に[/color] (ni) : Particule de destination ou d'heure
-[i]Exemple : [color=#0000FF]学校に行きます。[font_size=18pt](Gakkō ni ikimasu.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]学校に行きます。[font_size=18](Gakkō ni ikimasu.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -23,7 +23,7 @@ Les kanji N2 sont souvent utilisés dans les journaux, la littérature et les m�
 関 (kan, seki) [color=#008000](barrière, connexion)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]漢字を勉強しています。[font_size=18pt](Kanji o benkyō shiteimasu.)[/font_size][/color] [color=#008000](J'étudie les kanji.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]漢字を勉強しています。[font_size=18](Kanji o benkyō shiteimasu.)[/font_size][/color] [color=#008000](J'étudie les kanji.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Structures de Kanji Complexes[/color][/font_size]
 
@@ -39,13 +39,13 @@ Les kanji peuvent être combinés pour former des mots composés, ce qui est fr�
 機械 (kikai) [color=#008000](machine)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼の意見はとても興味深い。[font_size=18pt](Kare no iken wa totemo kyōmibukai.)[/font_size][/color] [color=#008000](Son opinion est très intéressante.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼の意見はとても興味深い。[font_size=18](Kare no iken wa totemo kyōmibukai.)[/font_size][/color] [color=#008000](Son opinion est très intéressante.)[/color][/i][/indent]
 
 [b]b) Kanji Compostés : Règles et Variations[/b]
 [indent]Pour comprendre et retenir les kanji composés, il est utile de connaître certaines règles générales :
 [indent]• Les caractères ont souvent une lecture kun'yomi (natif japonais) et on'yomi (lecture sino-japonaise).[/indent]
 [indent]• Les mots composés utilisent principalement la lecture on'yomi.[/indent]
-[i]Exemple : [color=#0000FF]動物園 (dōbutsu-en) [font_size=18pt](zoo)[/font_size][/color] ([color=#008000](dō)[/color] [mouvement] + [color=#008000](butsu)[/color] [objet] + [color=#008000](en)[/color] [jardin])[/i][/indent]
+[i]Exemple : [color=#0000FF]動物園 (dōbutsu-en) [font_size=18](zoo)[/font_size][/color] ([color=#008000](dō)[/color] [mouvement] + [color=#008000](butsu)[/color] [objet] + [color=#008000](en)[/color] [jardin])[/i][/indent]
 
 [font_size=24][color=#4B0082]3. Conseils pour Apprendre les Kanji[/color][/font_size]
 

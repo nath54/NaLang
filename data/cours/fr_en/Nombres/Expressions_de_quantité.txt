@@ -14,7 +14,7 @@ Pour communiquer des quantités exactes, on utilise des expressions spécifiques
 one (un), two (deux), three (trois), etc.
 [/code]
 
-[i]Exemple : [color=#0000FF]I have three apples.[font_size=18pt] (J'ai trois pommes.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I have three apples.[font_size=18] (J'ai trois pommes.)[/font_size][/color][/i][/indent]
 
 [b]b) Quantités exactes avec "of"[/b]
 [indent]On utilise "of" pour exprimer des quantités précises avec certains noms.
@@ -22,7 +22,7 @@ one (un), two (deux), three (trois), etc.
 a cup of (une tasse de), a bottle of (une bouteille de), a piece of (un morceau de), etc.
 [/code]
 
-[i]Exemple : [color=#0000FF]I need a cup of sugar.[font_size=18pt] (J'ai besoin d'une tasse de sucre.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I need a cup of sugar.[font_size=18] (J'ai besoin d'une tasse de sucre.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Quantités Indéfinies[/color][/font_size]
 
@@ -34,8 +34,8 @@ Les quantités indéfinies sont utilisées quand on parle de quantités non spé
 some (quelques), any (des)
 [/code]
 
-[i]Exemple : [color=#0000FF]I have some friends.[font_size=18pt] (J'ai quelques amis.)[/font_size][/color]
-[i]Exemple : [color=#0000FF]Do you have any questions?[font_size=18pt] (Avez-vous des questions?) [/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I have some friends.[font_size=18] (J'ai quelques amis.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Do you have any questions?[font_size=18] (Avez-vous des questions?) [/font_size][/color][/i][/indent]
 
 [b]b) Much, many, a lot of[/b]
 [indent] "Much" et "many" sont utilisés pour de grandes quantités. "Much" est utilisé avec des noms non comptables, tandis que "many" est utilisé avec des noms comptables. "A lot of" peut être utilisé avec les deux.
@@ -43,9 +43,9 @@ some (quelques), any (des)
 much (beaucoup de), many (beaucoup de), a lot of (beaucoup de)
 [/code]
 
-[i]Exemple : [color=#0000FF]I don't have much time.[font_size=18pt] (Je n'ai pas beaucoup de temps.)[/font_size][/color]
-[i]Exemple : [color=#0000FF]She has many books.[font_size=18pt] (Elle a beaucoup de livres.)[/font_size][/color]
-[i]Exemple : [color=#0000FF]They have a lot of money.[font_size=18pt] (Ils ont beaucoup d'argent.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I don't have much time.[font_size=18] (Je n'ai pas beaucoup de temps.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]She has many books.[font_size=18] (Elle a beaucoup de livres.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]They have a lot of money.[font_size=18] (Ils ont beaucoup d'argent.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Expressions de Quantité Spécifiques[/color][/font_size]
 
@@ -57,8 +57,8 @@ Certaines expressions de quantité sont spécifiques et fréquemment utilisées 
 few (peu de), little (peu de)
 [/code]
 
-[i]Exemple : [color=#0000FF]Few people know about this.[font_size=18pt] (Peu de gens le savent.)[/font_size][/color]
-[i]Exemple : [color=#0000FF]We have little water left.[font_size=18pt] (Il nous reste peu d'eau.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Few people know about this.[font_size=18] (Peu de gens le savent.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]We have little water left.[font_size=18] (Il nous reste peu d'eau.)[/font_size][/color][/i][/indent]
 
 [b]b) Plenty of et enough[/b]
 [indent] "Plenty of" et "enough" sont utilisés pour exprimer des quantités suffisantes ou abondantes.
@@ -66,8 +66,8 @@ few (peu de), little (peu de)
 plenty of (beaucoup de), enough (assez de)
 [/code]
 
-[i]Exemple : [color=#0000FF]There's plenty of food for everyone.[font_size=18pt] (Il y a beaucoup de nourriture pour tout le monde.)[/font_size][/color]
-[i]Exemple : [color=#0000FF]Do we have enough chairs?[font_size=18pt] (Avons-nous assez de chaises?) [/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]There's plenty of food for everyone.[font_size=18] (Il y a beaucoup de nourriture pour tout le monde.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Do we have enough chairs?[font_size=18] (Avons-nous assez de chaises?) [/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Quantités Approximatives[/color][/font_size]
 
@@ -79,8 +79,8 @@ Les quantités approximatives permettent de donner une idée générale sans êt
 about (environ), around (environ), approximately (approximativement)
 [/code]
 
-[i]Exemple : [color=#0000FF]There are about 20 people in the room.[font_size=18pt] (Il y a environ 20 personnes dans la pièce.)[/font_size][/color]
-[i]Exemple : [color=#0000FF]The concert will last around two hours.[font_size=18pt] (Le concert durera environ deux heures.) [/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]There are about 20 people in the room.[font_size=18] (Il y a environ 20 personnes dans la pièce.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]The concert will last around two hours.[font_size=18] (Le concert durera environ deux heures.) [/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

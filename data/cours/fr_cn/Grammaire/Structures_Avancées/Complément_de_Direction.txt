@@ -20,7 +20,7 @@ Pour exprimer la direction en chinois, on utilise généralement deux niveaux de
 起 (qǐ) [color=#008000](se lever)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他下楼了。[font_size=18pt](Tā xià lóu le.)[/font_size][/color] [color=#008000](Il est descendu.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他下楼了。[font_size=18](Tā xià lóu le.)[/font_size][/color] [color=#008000](Il est descendu.)[/color][/i][/indent]
 
 [b]b) Directions composées[/b]
 [indent]Les directions composées sont obtenues en ajoutant des suffixes directionnels à ces verbes.
@@ -40,30 +40,30 @@ Pour exprimer la direction en chinois, on utilise généralement deux niveaux de
 起来 (qǐ lái) [color=#008000](se lever vers le haut)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他走上来了。[font_size=18pt](Tā zǒu shàng lái le.)[/font_size][/color] [color=#008000](Il est monté (vers moi).)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他走上来了。[font_size=18](Tā zǒu shàng lái le.)[/font_size][/color] [color=#008000](Il est monté (vers moi).)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des compléments de direction[/color][/font_size]
 
 Les compléments de direction s'utilisent pour décrire la direction d'une action liée au mouvement. Voici quelques règles et exemples pour vous aider à bien les utiliser.
 
 [indent]• Quand l'action se dirige vers le locuteur, utilisez [color=#FF0000]来[/color] (lái).
-[i]Exemple : [color=#0000FF]他走进屋里来了。[font_size=18pt](Tā zǒu jìn wū li lái le.)[/font_size][/color] [color=#008000](Il est entré dans la maison (vers moi).)[/color][/i]
+[i]Exemple : [color=#0000FF]他走进屋里来了。[font_size=18](Tā zǒu jìn wū li lái le.)[/font_size][/color] [color=#008000](Il est entré dans la maison (vers moi).)[/color][/i]
 
 - Quand l'action s'éloigne du locuteur, utilisez [color=#FF0000]去[/color] (qù).
-[i]Exemple : [color=#0000FF]他走出教室去。[font_size=18pt](Tā zǒu chū jiàoshì qù.)[/font_size][/color] [color=#008000](Il est sorti de la salle de classe (s'éloignant de moi).)[/color][/i]
+[i]Exemple : [color=#0000FF]他走出教室去。[font_size=18](Tā zǒu chū jiàoshì qù.)[/font_size][/color] [color=#008000](Il est sorti de la salle de classe (s'éloignant de moi).)[/color][/i]
 
 - Combinez les verbes d'action pour décrire des mouvements plus complexes :
-[i]Exemple : [color=#0000FF]他跑进来了。[font_size=18pt](Tā pǎo jìn lái le.)[/font_size][/color] [color=#008000](Il a couru à l'intérieur (vers moi).)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他跑进来了。[font_size=18](Tā pǎo jìn lái le.)[/font_size][/color] [color=#008000](Il a couru à l'intérieur (vers moi).)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Pour ajouter des indications supplémentaires comme le lieu ou le but de l'action, il est possible d'insérer des compléments entre le verbe de mouvement et le directionnel.
 
 [indent]• Insertion d'un lieu
-[i]Exemple : [color=#0000FF]他跑进教室来了。[font_size=18pt](Tā pǎo jìn jiàoshì lái le.)[/font_size][/color] [color=#008000](Il a couru dans la salle de classe (vers moi).)[/color][/i]
+[i]Exemple : [color=#0000FF]他跑进教室来了。[font_size=18](Tā pǎo jìn jiàoshì lái le.)[/font_size][/color] [color=#008000](Il a couru dans la salle de classe (vers moi).)[/color][/i]
 
 - Préciser le but de l'action
-[i]Exemple : [color=#0000FF]他走上楼去看书。[font_size=18pt](Tā zǒu shàng lóu qù kàn shū.)[/font_size][/color] [color=#008000](Il est monté à l'étage pour lire un livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他走上楼去看书。[font_size=18](Tā zǒu shàng lóu qù kàn shū.)[/font_size][/color] [color=#008000](Il est monté à l'étage pour lire un livre.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

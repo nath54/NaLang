@@ -62,19 +62,19 @@ Les verbes qui se terminent par "su" changent en "shite".
 Voici des exemples concrets pour vous aider à bien comprendre comment utiliser cette structure :
 
 [a] Ne pas fumer ici :
-[i]Exemple : [color=#0000FF]ここでタバコを吸ってはいけない。[font_size=18pt](Koko de tabako wo sutte wa ikenai.)[/font_size][/color] [color=#008000](Il est interdit de fumer ici.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]ここでタバコを吸ってはいけない。[font_size=18](Koko de tabako wo sutte wa ikenai.)[/font_size][/color] [color=#008000](Il est interdit de fumer ici.)[/color][/i]
 
-[b] Ne pas entrer sans permission :
-[indent][i]Exemple : [color=#0000FF]許可なく入ってはいけない。[font_size=18pt](Kyoka naku haitte wa ikenai.)[/font_size][/color] [color=#008000](Il est interdit d'entrer sans permission.)[/color][/i][/indent]
+[b] Ne pas entrer sans permission :[/b]
+[indent][i]Exemple : [color=#0000FF]許可なく入ってはいけない。[font_size=18](Kyoka naku haitte wa ikenai.)[/font_size][/color] [color=#008000](Il est interdit d'entrer sans permission.)[/color][/i][/indent]
 
 [c] Ne pas parler fort :
-[indent][i]Exemple : [color=#0000FF]大声で話してはいけない。[font_size=18pt](Oogoe de hanashite wa ikenai.)[/font_size][/color] [color=#008000](Il est interdit de parler fort.)[/color][/i][/indent]
+[indent][i]Exemple : [color=#0000FF]大声で話してはいけない。[font_size=18](Oogoe de hanashite wa ikenai.)[/font_size][/color] [color=#008000](Il est interdit de parler fort.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Nuances de politesse[/color][/font_size]
 
 Il est à noter que はいけない (wa ikenai) est souvent utilisé dans des contextes où l'interdiction est ferme. Pour des situations plus polies ou formelles, on peut utiliser てはいけません (te wa ikemasen).
 
-[i]Exemple : [color=#0000FF]ここでタバコを吸ってはいけません。[font_size=18pt](Koko de tabako wo sutte wa ikemasen.)[/font_size][/color] [color=#008000](Il est interdit de fumer ici.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]ここでタバコを吸ってはいけません。[font_size=18](Koko de tabako wo sutte wa ikemasen.)[/font_size][/color] [color=#008000](Il est interdit de fumer ici.)[/color][/i]
 
 [center][color=#808080]__________[/color][/center]
 

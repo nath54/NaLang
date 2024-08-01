@@ -18,7 +18,7 @@ En chinois, un verbe invariable est un verbe dont la forme demeure constante, qu
 看 (kàn) [color=#008000](regarder)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我吃饭。[font_size=18pt](Wǒ chī fàn.)[/font_size][/color] [color=#008000](Je mange.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我吃饭。[font_size=18](Wǒ chī fàn.)[/font_size][/color] [color=#008000](Je mange.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Indiquer le temps avec des verbes invariables[/color][/font_size]
 
@@ -27,22 +27,22 @@ Puisque les verbes chinois ne changent pas de forme, d'autres éléments de la p
 [b]a) Indiquer le passé[/b]
 [indent]Pour indiquer qu'une action s'est déroulée dans le passé, on utilise souvent la particule [color=#FF0000]了[/color] (le) après le verbe.
 [code]
-我吃了饭。[font_size=18pt](Wǒ chī le fàn.)[/font_size] [color=#008000](J'ai mangé.)[/color]
+我吃了饭。[font_size=18](Wǒ chī le fàn.)[/font_size] [color=#008000](J'ai mangé.)[/color]
 [/code][/indent]
 
 [b]b) Indiquer le futur[/b]
 [indent]Pour exprimer une action future, on utilise fréquemment l'auxiliaire [color=#FF0000]会[/color] (huì) avant le verbe.
 [code]
-我会吃饭。[font_size=18pt](Wǒ huì chī fàn.)[/font_size] [color=#008000](Je vais manger / Je mangerai.)[/color]
+我会吃饭。[font_size=18](Wǒ huì chī fàn.)[/font_size] [color=#008000](Je vais manger / Je mangerai.)[/color]
 [/code][/indent]
 
 [b]c) Exemples pratiques[/b]
 [indent]
-[i]Présent : [color=#0000FF]他喝水。[font_size=18pt](Tā hē shuǐ.)[/font_size][/color] [color=#008000](Il boit de l'eau.)[/color][/i]
+[i]Présent : [color=#0000FF]他喝水。[font_size=18](Tā hē shuǐ.)[/font_size][/color] [color=#008000](Il boit de l'eau.)[/color][/i]
 
-[i]Passé : [color=#0000FF]他喝了水。[font_size=18pt](Tā hē le shuǐ.)[/font_size][/color] [color=#008000](Il a bu de l'eau.)[/color][/i]
+[i]Passé : [color=#0000FF]他喝了水。[font_size=18](Tā hē le shuǐ.)[/font_size][/color] [color=#008000](Il a bu de l'eau.)[/color][/i]
 
-[i]Futur : [color=#0000FF]他会喝水。[font_size=18pt](Tā huì hē shuǐ.)[/font_size][/color] [color=#008000](Il va boire de l'eau.)[/color][/i][/indent]
+[i]Futur : [color=#0000FF]他会喝水。[font_size=18](Tā huì hē shuǐ.)[/font_size][/color] [color=#008000](Il va boire de l'eau.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisation des mots de temps[/color][/font_size]
 
@@ -57,7 +57,7 @@ Outre les particules, les expressions temporelles sont utilisées pour préciser
 刚才 (gāngcái) [color=#008000](il y a un instant)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我昨天看电影了。[font_size=18pt](Wǒ zuótiān kàn diànyǐng le.)[/font_size][/color] [color=#008000](J'ai regardé un film hier.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我昨天看电影了。[font_size=18](Wǒ zuótiān kàn diànyǐng le.)[/font_size][/color] [color=#008000](J'ai regardé un film hier.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

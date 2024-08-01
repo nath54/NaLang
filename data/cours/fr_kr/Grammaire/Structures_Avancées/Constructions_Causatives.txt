@@ -17,7 +17,7 @@ Par exemple :
 걷다 (geodda) [color=#008000](marcher)[/color] -> 걷게 하다 (geod-gae hada) [color=#008000](faire marcher)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그는 아이에게 밥을 먹였다.[font_size=18pt](Geuneun aie-gae bapeul meok yeotta.)[/font_size][/color] [color=#008000](Il a fait manger l'enfant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 아이에게 밥을 먹였다.[font_size=18](Geuneun aie-gae bapeul meok yeotta.)[/font_size][/color] [color=#008000](Il a fait manger l'enfant.)[/color][/i][/indent]
 
 [b]b) Usage de '하게 하다' (hage hada)[/b]
 [indent]Pour certains verbes, les constructions causatives peuvent être formées avec '하게 하다' (hage hada), ce qui signifie 'faire faire quelque chose'. 
@@ -26,30 +26,30 @@ Par exemple :
 운동하다 (undong-hada) [color=#008000](faire du sport)[/color] -> 운동하게 하다 (undong hage hada) [color=#008000](faire faire du sport)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]선생님이 학생들에게 공부하게 했다.[font_size=18pt](Seonsaengnime haksaengdeule-ge gongbu hage haetda.)[/font_size][/color] [color=#008000](Le professeur a fait étudier les élèves.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]선생님이 학생들에게 공부하게 했다.[font_size=18](Seonsaengnime haksaengdeule-ge gongbu hage haetda.)[/font_size][/color] [color=#008000](Le professeur a fait étudier les élèves.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des constructions causatives[/color][/font_size]
 
 Les constructions causatives sont fréquentes dans les conversations quotidiennes en coréen pour indiquer l'action indirecte par un tiers.
 
 [indent]• Lorsqu'il s'agit de demander à quelqu'un de faire quelque chose, utilisez la forme causative adaptée :
-[i]Exemple : [color=#0000FF]그녀가 저에게 책을 읽게 했다.[font_size=18pt](Geunyeoga jeoe-gae chaekeul ilgae haetda.)[/font_size][/color] [color=#008000](Elle m'a fait lire un livre.)[/color][/i]
+[i]Exemple : [color=#0000FF]그녀가 저에게 책을 읽게 했다.[font_size=18](Geunyeoga jeoe-gae chaekeul ilgae haetda.)[/font_size][/color] [color=#008000](Elle m'a fait lire un livre.)[/color][/i]
 
 - Pour indiquer que quelqu'un est contraint de faire une action :
-[i]Exemple : [color=#0000FF]그가 그것을 하게 만들었다.[font_size=18pt](Geuga geugeoseul hage mandeul-eotda.)[/font_size][/color] [color=#008000](Il l'a forcé à faire cela.)[/color][/i]
+[i]Exemple : [color=#0000FF]그가 그것을 하게 만들었다.[font_size=18](Geuga geugeoseul hage mandeul-eotda.)[/font_size][/color] [color=#008000](Il l'a forcé à faire cela.)[/color][/i]
 
 - Les constructions causatives peuvent aussi être utilisées pour exprimer des causes plus douces ou volontaires :
-[i]Exemple : [color=#0000FF]친구가 나에게 그림을 그리게 했다.[font_size=18pt](Chinguga naege geurimeul geurigae haetda.)[/font_size][/color] [color=#008000](Un ami m'a fait dessiner.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]친구가 나에게 그림을 그리게 했다.[font_size=18](Chinguga naege geurimeul geurigae haetda.)[/font_size][/color] [color=#008000](Un ami m'a fait dessiner.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Pour apporter plus de détails dans une phrase causative, on peut ajouter des informations sur le type d'action, le lieu, ou le temps, avant la forme causative.
 
 [indent]• Spécifier l'endroit de l'action
-[i]Exemple : [color=#0000FF]그가 아이에게 학교에서 공부하게 했다.[font_size=18pt](Geuga aie-gae hakkyo-eseo gongbu hage haetda.)[/font_size][/color] [color=#008000](Il a fait étudier l'enfant à l'école.)[/color][/i]
+[i]Exemple : [color=#0000FF]그가 아이에게 학교에서 공부하게 했다.[font_size=18](Geuga aie-gae hakkyo-eseo gongbu hage haetda.)[/font_size][/color] [color=#008000](Il a fait étudier l'enfant à l'école.)[/color][/i]
 
 - Préciser la nature de l'action
-[i]Exemple : [color=#0000FF]그녀가 날씨가 좋을 때 산책하게 했다.[font_size=18pt](Geunyeoga nalssiga joeul ttae sanchaek hage haetda.)[/font_size][/color] [color=#008000](Elle m'a fait me promener quand il faisait beau.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그녀가 날씨가 좋을 때 산책하게 했다.[font_size=18](Geunyeoga nalssiga joeul ttae sanchaek hage haetda.)[/font_size][/color] [color=#008000](Elle m'a fait me promener quand il faisait beau.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

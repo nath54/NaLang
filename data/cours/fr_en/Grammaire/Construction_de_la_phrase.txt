@@ -18,7 +18,7 @@ We (nous)
 They (ils/elles)
 [/code]
 
-[i]Exemple : [color=#0000FF]She runs.[font_size=18pt](Elle court.)[/font_size][/color] [color=#008000](Elle court.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She runs.[font_size=18](Elle court.)[/font_size][/color] [color=#008000](Elle court.)[/color][/i][/indent]
 
 [b]b) Verbe (Verb)[/b]
 [indent]Le verbe indique l'action ou l'état du sujet.
@@ -29,7 +29,7 @@ is (être)
 have (avoir)
 [/code]
 
-[i]Exemple : [color=#0000FF]They eat.[font_size=18pt](Ils mangent.)[/font_size][/color] [color=#008000](Ils mangent.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]They eat.[font_size=18](Ils mangent.)[/font_size][/color] [color=#008000](Ils mangent.)[/color][/i][/indent]
 
 [b]c) Objet (Object)[/b]
 [indent]L'objet reçoit l'action du verbe.
@@ -40,7 +40,7 @@ dog (chien)
 book (livre)
 [/code]
 
-[i]Exemple : [color=#0000FF]He reads a book.[font_size=18pt](Il lit un livre.)[/font_size][/color] [color=#008000](Il lit un livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He reads a book.[font_size=18](Il lit un livre.)[/font_size][/color] [color=#008000](Il lit un livre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Phrases complexes[/color][/font_size]
 
@@ -53,7 +53,7 @@ beautiful (beau/belle) [color=#008000](adjectif)[/color]
 quickly (rapidement) [color=#008000](adverbe)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]They run quickly.[font_size=18pt](Ils courent rapidement.)[/font_size][/color] [color=#008000](Ils courent rapidement.)[/color][/i]
+[i]Exemple : [color=#0000FF]They run quickly.[font_size=18](Ils courent rapidement.)[/font_size][/color] [color=#008000](Ils courent rapidement.)[/color][/i]
 
 - Prépositions
 Les prépositions relient les noms et les verbes à d'autres éléments de la phrase.
@@ -64,7 +64,7 @@ at (à)
 with (avec)
 [/code]
 
-[i]Exemple : [color=#0000FF]She sits on the chair.[font_size=18pt](Elle est assise sur la chaise.)[/font_size][/color] [color=#008000](Elle est assise sur la chaise.)[/color][/i][/indent][/indent]
+[i]Exemple : [color=#0000FF]She sits on the chair.[font_size=18](Elle est assise sur la chaise.)[/font_size][/color] [color=#008000](Elle est assise sur la chaise.)[/color][/i][/indent][/indent]
 
 [font_size=24][color=#4B0082]3. Phrases interrogatives et négatives[/color][/font_size]
 
@@ -77,7 +77,7 @@ Do you eat? (Est-ce que tu manges ?)
 Is he here? (Est-il ici ?)
 [/code]
 
-[i]Exemple : [color=#0000FF]Does she run? [font_size=18pt](Est-ce qu'elle court ?)[/font_size][/color] [color=#008000](Est-ce qu'elle court ?)[/color][/i]
+[i]Exemple : [color=#0000FF]Does she run? [font_size=18](Est-ce qu'elle court ?)[/font_size][/color] [color=#008000](Est-ce qu'elle court ?)[/color][/i]
 
 - Phrases négatives
 Pour nier une phrase, on utilise "not" avec un auxiliaire.
@@ -86,7 +86,7 @@ do not (ne pas) -> don't
 is not (n'est pas) -> isn't
 [/code]
 
-[i]Exemple : [color=#0000FF]They do not eat. [font_size=18pt](Ils ne mangent pas.)[/font_size][/color] [color=#008000](Ils ne mangent pas.)[/color][/i][/indent][/indent]
+[i]Exemple : [color=#0000FF]They do not eat. [font_size=18](Ils ne mangent pas.)[/font_size][/color] [color=#008000](Ils ne mangent pas.)[/color][/i][/indent][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

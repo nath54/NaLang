@@ -24,41 +24,41 @@ Les verbes du groupe 1 se terminent par une syllabe du type "~u" et leur radical
 La forme de base (ou dictionnaire) des verbes est utilisée pour le présent affirmatif. Pour conjuguer au présent affirmatif, on n'apporte aucune modification spécifique au radical :
 
 [indent]• Radical + う (u)
-[i]Exemple : [color=#0000FF]彼は毎日書く。[font_size=18pt](Kare wa mainichi kaku.)[/font_size][/color] [color=#008000](Il écrit tous les jours.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は毎日書く。[font_size=18](Kare wa mainichi kaku.)[/font_size][/color] [color=#008000](Il écrit tous les jours.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Conjugaison au présent négatif[/color][/font_size]
 
 Pour convertir un verbe du groupe 1 au présent négatif, on remplace la terminaison "~u" par "~anai" (あない).
 
 [indent]• Radical + あない (anai)
-[i]Exemple : [color=#0000FF]彼は毎日書かない。[font_size=18pt](Kare wa mainichi kakanai.)[/font_size][/color] [color=#008000](Il n'écrit pas tous les jours.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は毎日書かない。[font_size=18](Kare wa mainichi kakanai.)[/font_size][/color] [color=#008000](Il n'écrit pas tous les jours.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Conjugaison au passé affirmatif[/color][/font_size]
 
 Pour conjuguer un verbe du groupe 1 au passé affirmatif, la terminaison de certains verbes change de manière spécifique. Voici les règles générales :
 
 [indent]• く (ku) devient いた (ita)
-[i]Exemple : [color=#0000FF]彼は昨日書いた。[font_size=18pt](Kare wa kinou kaita.)[/font_size][/color] [color=#008000](Il a écrit hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は昨日書いた。[font_size=18](Kare wa kinou kaita.)[/font_size][/color] [color=#008000](Il a écrit hier.)[/color][/i]
 
 - ぐ (gu) devient いだ (ida)
-[i]Exemple : [color=#0000FF]彼は昨日泳いだ。[font_size=18pt](Kare wa kinou oyoida.)[/font_size][/color] [color=#008000](Il a nagé hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は昨日泳いだ。[font_size=18](Kare wa kinou oyoida.)[/font_size][/color] [color=#008000](Il a nagé hier.)[/color][/i]
 
 - す (su) devient した (shita)
-[i]Exemple : [color=#0000FF]彼は昨日話した。[font_size=18pt](Kare wa kinou hanashita.)[/font_size][/color] [color=#008000](Il a parlé hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は昨日話した。[font_size=18](Kare wa kinou hanashita.)[/font_size][/color] [color=#008000](Il a parlé hier.)[/color][/i]
 
 - つ (tsu), る (ru), う (u) deviennent った (tta)
-[i]Exemple : [color=#0000FF]彼は昨日待った。[font_size=18pt](Kare wa kinou matta.)[/font_size][/color] [color=#008000](Il a attendu hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は昨日待った。[font_size=18](Kare wa kinou matta.)[/font_size][/color] [color=#008000](Il a attendu hier.)[/color][/i]
 
 - ぬ (nu), む (mu), ぶ (bu) deviennent んだ (nda)
-[i]Exemple : [color=#0000FF]彼は昨日遊んだ。[font_size=18pt](Kare wa kinou asonda.)[/font_size][/color] [color=#008000](Il a joué hier.)[/color][/i]
-[i]Exemple : [color=#0000FF]彼は昨日飲んだ。[font_size=18pt](Kare wa kinou nonda.)[/font_size][/color] [color=#008000](Il a bu hier.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は昨日遊んだ。[font_size=18](Kare wa kinou asonda.)[/font_size][/color] [color=#008000](Il a joué hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は昨日飲んだ。[font_size=18](Kare wa kinou nonda.)[/font_size][/color] [color=#008000](Il a bu hier.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]5. Conjugaison au passé négatif[/color][/font_size]
 
 Pour conjuguer un verbe du groupe 1 au passé négatif, utilisez la forme négative au présent et ajoutez かった (katta).
 
 [indent]• Radical + あなかった (anakatta)
-[i]Exemple : [color=#0000FF]彼は昨日書かなかった。[font_size=18pt](Kare wa kinou kakanakatta.)[/font_size][/color] [color=#008000](Il n'a pas écrit hier.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は昨日書かなかった。[font_size=18](Kare wa kinou kakanakatta.)[/font_size][/color] [color=#008000](Il n'a pas écrit hier.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

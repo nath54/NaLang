@@ -11,43 +11,43 @@ La façon de former la forme potentielle dépend du groupe auquel appartient le 
 [b]a) Verbes en -u[/b]
 [indent]Pour les verbes en -u, remplacez la terminaison -u par -eru.
 [code]
-書く (kaku) [color=#008000](écrire) --> 書ける (kakeru) [color=#008000](pouvoir écrire)[/color]
-話す (hanasu) [color=#008000](parler) --> 話せる (hanaseru) [color=#008000](pouvoir parler)[/color]
-泳ぐ (oyogu) [color=#008000](nager) --> 泳げる (oyogeru) [color=#008000](pouvoir nager)[/color]
-会う (au) [color=#008000](rencontrer) --> 会える (aeru) [color=#008000](pouvoir rencontrer)[/color]
+書く (kaku) [color=#008000](écrire) --> 書ける (kakeru)[/color] [color=#008000](pouvoir écrire)[/color]
+話す (hanasu) [color=#008000](parler) --> 話せる (hanaseru)[/color] [color=#008000](pouvoir parler)[/color]
+泳ぐ (oyogu) [color=#008000](nager) --> 泳げる (oyogeru)[/color] [color=#008000](pouvoir nager)[/color]
+会う (au) [color=#008000](rencontrer) --> 会える (aeru)[/color] [color=#008000](pouvoir rencontrer)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は日本語で話せます。[font_size=18pt](Watashi wa Nihongo de hanasemasu.)[/font_size][/color] [color=#008000](Je peux parler en japonais.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は日本語で話せます。[font_size=18](Watashi wa Nihongo de hanasemasu.)[/font_size][/color] [color=#008000](Je peux parler en japonais.)[/color][/i][/indent]
 
 [b]b) Verbes en -ru[/b]
 [indent]Pour les verbes en -ru, remplacez simplement la terminaison -ru par -rareru.
 [code]
-見る (miru) [color=#008000](voir) --> 見られる (mirareru) [color=#008000](pouvoir voir)[/color]
-食べる (taberu) [color=#008000](manger) --> 食べられる (taberareru) [color=#008000](pouvoir manger)[/color]
-起きる (okiru) [color=#008000](se lever) --> 起きられる (okirareru) [color=#008000](pouvoir se lever)[/color]
-考える (kangaeru) [color=#008000](penser) --> 考えられる (kangaerareru) [color=#008000](pouvoir penser)[/color]
+見る (miru) [color=#008000](voir) --> 見られる (mirareru[/color]) [color=#008000](pouvoir voir)[/color]
+食べる (taberu) [color=#008000](manger) --> 食べられる[/color] (taberareru) [color=#008000](pouvoir manger)[/color]
+起きる (okiru) [color=#008000](se lever) --> 起きられる[/color] (okirareru) [color=#008000](pouvoir se lever)[/color]
+考える (kangaeru) [color=#008000](penser) --> 考えられる[/color] (kangaerareru) [color=#008000](pouvoir penser)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼女は英語を読めます。[font_size=18pt](Kanojo wa eigo o yomeru.)[/font_size][/color] [color=#008000](Elle peut lire en anglais.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼女は英語を読めます。[font_size=18](Kanojo wa eigo o yomeru.)[/font_size][/color] [color=#008000](Elle peut lire en anglais.)[/color][/i][/indent]
 
 [b]c) Verbes Irreguliers[/b]
 [indent]Les deux verbes irréguliers japonais ont des formes potentielles spécifiques :
 [code]
-する (suru) [color=#008000](faire) --> できる (dekiru) [color=#008000](pouvoir faire)[/color]
-来る (kuru) [color=#008000](venir) --> 来られる (korareru) [color=#008000](pouvoir venir)[/color]
+する (suru) [color=#008000](faire) --> できる (dekiru)[/color] [color=#008000](pouvoir faire)[/color]
+来る (kuru) [color=#008000](venir) --> 来られる (korareru)[/color] [color=#008000](pouvoir venir)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私はそれをできます。[font_size=18pt](Watashi wa sore o dekimasu.)[/color][/font_size] [color=#008000](Je peux le faire.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私はそれをできます。[font_size=18](Watashi wa sore o dekimasu.)[/font_size][/color] [color=#008000](Je peux le faire.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de la Forme Potentielle[/color][/font_size]
 
 La forme potentielle est utilisée pour exprimer qu'une action est faisable ou que quelqu'un a la capacité de faire quelque chose. Voici quelques points clés sur son utilisation :
 
 [indent]• On utilise les particules が (ga) ou は (wa) pour marquer le sujet qui a la capacité de faire l'action.
-[i]Exemple : [color=#0000FF]彼は泳げます。[font_size=18pt](Kare wa oyogemasu.)[/font_size][/color] [color=#008000](Il peut nager.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は泳げます。[font_size=18](Kare wa oyogemasu.)[/font_size][/color] [color=#008000](Il peut nager.)[/color][/i]
 
 - La forme potentielle peut également être utilisée pour exprimer la possibilité dans des contextes plus spécifiques ou conditionnels.
-[i]Exemple : [color=#0000FF]雨が降れば、行けません。[font_size=18pt](Ame ga fureba, ikemasen.)[/font_size][/color] [color=#008000](S'il pleut, je ne pourrai pas y aller.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]雨が降れば、行けません。[font_size=18](Ame ga fureba, ikemasen.)[/font_size][/color] [color=#008000](S'il pleut, je ne pourrai pas y aller.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Conjugaison au Passé et négation de la forme potentielle[/color][/font_size]
 
@@ -61,7 +61,7 @@ Pour former le passé ou la négation de la forme potentielle, suivez ces règle
 できない (dekinai) [color=#008000](ne pas pouvoir faire)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は日本語で話せません。[font_size=18pt](Watashi wa Nihongo de hanasemasen.)[/font_size][/color] [color=#008000](Je ne peux pas parler en japonais.)[/color][/i]
+[i]Exemple : [color=#0000FF]私は日本語で話せません。[font_size=18](Watashi wa Nihongo de hanasemasen.)[/font_size][/color] [color=#008000](Je ne peux pas parler en japonais.)[/color][/i]
 
 • Conjugaison au passé de la forme Potentielle :
 [code]
@@ -71,7 +71,7 @@ Pour former le passé ou la négation de la forme potentielle, suivez ces règle
 できた (dekita) [color=#008000](avoir pu faire)[/color] 
 [/code]
 
-[i]Exemple : [color=#0000FF]昨日、私は日本語で話せました。[font_size=18pt](Kinō, watashi wa Nihongo de hanasemashita.)[/font_size][/color] [color=#008000](Hier, j'ai pu parler en japonais.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]昨日、私は日本語で話せました。[font_size=18](Kinō, watashi wa Nihongo de hanasemashita.)[/font_size][/color] [color=#008000](Hier, j'ai pu parler en japonais.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

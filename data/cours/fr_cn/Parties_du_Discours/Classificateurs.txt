@@ -37,13 +37,13 @@ Les classificateurs sont utilisés en combinaison avec un nombre, un pronom dém
 Les classificateurs doivent être utilisés avec un nom, qui précise l’objet ou la personne comptée. La structure de la phrase est généralement : [Nombre + Classificateur + Nom].
 
 [indent]• Utiliser un nombre :
-[i]Exemple : [color=#0000FF]我有一只猫。[font_size=18pt](Wǒ yǒu yī zhī māo.)[/font_size][/color] [color=#008000](J'ai un chat.)[/color][/i]
+[i]Exemple : [color=#0000FF]我有一只猫。[font_size=18](Wǒ yǒu yī zhī māo.)[/font_size][/color] [color=#008000](J'ai un chat.)[/color][/i]
 
 - Utiliser un pronom démonstratif :
-[i]Exemple : [color=#0000FF]这本书很有趣。[font_size=18pt](Zhè běn shū hěn yǒuqù.)[/font_size][/color] [color=#008000](Ce livre est très intéressant.)[/color][/i]
+[i]Exemple : [color=#0000FF]这本书很有趣。[font_size=18](Zhè běn shū hěn yǒuqù.)[/font_size][/color] [color=#008000](Ce livre est très intéressant.)[/color][/i]
 
 - Utiliser un quantificateur :
-[i]Exemple : [color=#0000FF]几个人在这里？[font_size=18pt](Jǐ gè rén zài zhèli?) [/font_size][/color] [color=#008000](Combien de personnes sont ici ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]几个人在这里？[font_size=18](Jǐ gè rén zài zhèli?) [/font_size][/color] [color=#008000](Combien de personnes sont ici ?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Classificateurs spécifiques[/color][/font_size]
 

@@ -18,7 +18,7 @@ Les onomatopées en coréen peuvent être divisées en plusieurs catégories, en
 야옹 (ya-ong) [color=#008000](miaulement d'un chat)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]강이 쏴쏴 흘러요.[font_size=18pt](Gang-i sswa-sswa heulleoyo.)[/font_size][/color] [color=#008000](La rivière coule en faisant un bruit de courant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]강이 쏴쏴 흘러요.[font_size=18](Gang-i sswa-sswa heulleoyo.)[/font_size][/color] [color=#008000](La rivière coule en faisant un bruit de courant.)[/color][/i][/indent]
 
 [b]b) Sons de la vie quotidienne[/b]
 [indent]Ces onomatopées décrivent les sons courant dans la vie de tous les jours.
@@ -30,7 +30,7 @@ Les onomatopées en coréen peuvent être divisées en plusieurs catégories, en
 가르랑 (ga-reu-rang) [color=#008000](ronronnement d'un chat)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그는 문을 똑똑 두드렸어요.[font_size=18pt](Geuneun muneul ttok-ttok dudeuryeosseoyo.)[/font_size][/color] [color=#008000](Il a frappé à la porte.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 문을 똑똑 두드렸어요.[font_size=18](Geuneun muneul ttok-ttok dudeuryeosseoyo.)[/font_size][/color] [color=#008000](Il a frappé à la porte.)[/color][/i][/indent]
 
 [b]c) Sons exprimant des émotions ou des sensations[/b]
 [indent]Ces onomatopées sont utilisées pour décrire des sensations physiques ou des états émotionnels.
@@ -42,30 +42,30 @@ Les onomatopées en coréen peuvent être divisées en plusieurs catégories, en
 흠흠 (heum-heum) [color=#008000](racler la gorge pour attirer l'attention)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그녀의 심장은 두근두근 뛰고 있었어요.[font_size=18pt](Geunyeoui simjangeun dugeun-dugeun ttwigo isseosseoyo.)[/font_size][/color] [color=#008000](Son cœur battait fort.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그녀의 심장은 두근두근 뛰고 있었어요.[font_size=18](Geunyeoui simjangeun dugeun-dugeun ttwigo isseosseoyo.)[/font_size][/color] [color=#008000](Son cœur battait fort.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des onomatopées dans les phrases[/color][/font_size]
 
 Les onomatopées peuvent être utilisées de manière autonome ou intégrées dans des phrases pour ajouter de la vivacité et du réalisme aux descriptions. Voici quelques règles et exemples pour leur utilisation correcte.
 
 [indent]• Utilisation autonome :
-[i]Exemple : [color=#0000FF]멍멍! (Meong-meong!)[/font_size][/color] [color=#008000](Woof! Woof!)[/color][/i]
+[i]Exemple : [color=#0000FF]멍멍! (Meong-meong!)[/color] [color=#008000](Woof! Woof!)[/color][/i]
 
 - Intégration dans une phrase :
-[i]Exemple : [color=#0000FF]비가 펑펑 내리고 있어요.[font_size=18pt](Biga peong-peong naerigo isseoyo.)[/font_size][/color] [color=#008000](Il pleut à verse.)[/color][/i]
+[i]Exemple : [color=#0000FF]비가 펑펑 내리고 있어요.[font_size=18](Biga peong-peong naerigo isseoyo.)[/font_size][/color] [color=#008000](Il pleut à verse.)[/color][/i]
 
 - Pour exprimer une émotion intense :
-[i]Exemple : [color=#0000FF]그는 두근두근 거리는 마음을 진정시키려고 노력했어요.[font_size=18pt](Geuneun dugeun-dugeun georineun maeumeul jinjeongsikiryogo noryeokhaesseoyo.)[/font_size][/color] [color=#008000](Il essayait de calmer son cœur battant fort.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 두근두근 거리는 마음을 진정시키려고 노력했어요.[font_size=18](Geuneun dugeun-dugeun georineun maeumeul jinjeongsikiryogo noryeokhaesseoyo.)[/font_size][/color] [color=#008000](Il essayait de calmer son cœur battant fort.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Diversité et richesse des onomatopées coréennes[/color][/font_size]
 
 Le coréen est une langue riche en onomatopées, avec des nuances subtiles qui ajoutent de la profondeur et de la précision à la description des actions et des émotions. Elles sont souvent utilisées dans la littérature, les bandes dessinées (manhwa), les films, et même au quotidien pour rendre la communication plus expressive et vivante.
 
 [indent]• Usage dans la littérature :
-[i]Exemple : [color=#0000FF]그 고양이는 가르랑거리며 주인의 품에 안겼어요.[font_size=18pt](Geu goyangineun ga-reu-rang-georimyeo juineui pume angyeosseoyo.)[/font_size][/color] [color=#008000](Le chat ronronnait en étant blotti dans les bras de son maître.)[/color][/i]
+[i]Exemple : [color=#0000FF]그 고양이는 가르랑거리며 주인의 품에 안겼어요.[font_size=18](Geu goyangineun ga-reu-rang-georimyeo juineui pume angyeosseoyo.)[/font_size][/color] [color=#008000](Le chat ronronnait en étant blotti dans les bras de son maître.)[/color][/i]
 
 - Usage dans les bandes dessinées :
-[i]Exemple : [color=#0000FF]하늘에서 비 쏴쏴 내리기 시작했어요.[font_size=18pt](Haneul-eseo bi sswa-sswa naerigi sijakhaesseoyo.)[/font_size][/color] [color=#008000](La pluie a commencé à tomber fortement du ciel.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]하늘에서 비 쏴쏴 내리기 시작했어요.[font_size=18](Haneul-eseo bi sswa-sswa naerigi sijakhaesseoyo.)[/font_size][/color] [color=#008000](La pluie a commencé à tomber fortement du ciel.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

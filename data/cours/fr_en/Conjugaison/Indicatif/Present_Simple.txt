@@ -19,7 +19,7 @@ You walk (Vous marchez)
 They walk (Ils/Elles marchent)
 [/code]
 
-[i]Exemple : [color=#0000FF]She reads every day.[font_size=18pt](Elle lit tous les jours.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She reads every day.[font_size=18](Elle lit tous les jours.)[/font_size][/color][/i][/indent]
 
 [b]b) Negative[/b]
 [indent]Pour former des phrases négatives, on utilise l'auxiliaire [i]do[/i] et la négation [i]not[/i]. À la troisième personne du singulier, [i]does[/i] est utilisé.
@@ -32,7 +32,7 @@ You do not (don't) walk (Vous ne marchez pas)
 They do not (don't) walk (Ils/Elles ne marchent pas)
 [/code]
 
-[i]Exemple : [color=#0000FF]He does not (doesn't) play football.[font_size=18pt](Il ne joue pas au football.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He does not (doesn't) play football.[font_size=18](Il ne joue pas au football.)[/font_size][/color][/i][/indent]
 
 [b]c) Interrogative[/b]
 [indent]Pour former des questions, on inverse l'ordre du sujet et de l'auxiliaire [i]do[/i]. Pour la troisième personne du singulier, on utilise [i]does[/i].
@@ -45,23 +45,23 @@ Do you walk? (Est-ce que vous marchez?)
 Do they walk? (Est-ce qu'ils/elles marchent?)
 [/code]
 
-[i]Exemple : [color=#0000FF]Do they live in Paris?[font_size=18pt](Est-ce qu'ils vivent à Paris?) [/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Do they live in Paris?[font_size=18](Est-ce qu'ils vivent à Paris?) [/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du présent simple[/color][/font_size]
 
 Le présent simple est utilisé dans plusieurs contextes spécifiques en anglais.
 
 [indent]• [b]Habitudes et actions répétées[/b]
-[i]Exemple : [color=#0000FF]She drinks coffee every morning. [font_size=18pt](Elle boit du café tous les matins.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]She drinks coffee every morning. [font_size=18](Elle boit du café tous les matins.)[/font_size][/color][/i]
 
 - [b]Vérités générales et faits scientifiques[/b]
-[i]Exemple : [color=#0000FF]The sun rises in the east.[font_size=18pt](Le soleil se lève à l'est.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]The sun rises in the east.[font_size=18](Le soleil se lève à l'est.)[/font_size][/color][/i]
 
 - [b]Situations permanentes ou à long terme[/b]
-[i]Exemple : [color=#0000FF]They work in a bank.[font_size=18pt](Ils travaillent dans une banque.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]They work in a bank.[font_size=18](Ils travaillent dans une banque.)[/font_size][/color][/i]
 
 - [b]Événements futurs fixes (horaires, programmes)[/b]
-[i]Exemple : [color=#0000FF]The train leaves at 6 PM.[font_size=18pt](Le train part à 18 heures.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]The train leaves at 6 PM.[font_size=18](Le train part à 18 heures.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Les verbes irréguliers au présent simple[/color][/font_size]
 
@@ -99,7 +99,7 @@ You do (Vous faites)
 They do (Ils/Elles font)
 [/code]
 
-[i]Exemple : [color=#0000FF]She has a pen.[font_size=18pt](Elle a un stylo.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She has a pen.[font_size=18](Elle a un stylo.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

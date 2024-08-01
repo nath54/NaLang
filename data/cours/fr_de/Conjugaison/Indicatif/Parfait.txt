@@ -11,15 +11,15 @@ Pour former le parfait, on utilise le verbe auxiliaire "[b]haben[/b]" (avoir) ou
 [b]a) Choix de l'auxiliaire[/b]
 [indent]
 - Utilisez [b]haben[/b] pour la plupart des verbes.
-[i]Exemple : [color=#0000FF]Ich habe gegessen.[font_size=18pt](Je habe gegessen.)[/font_size][/color] [color=#008000](J'ai mangé.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich habe gegessen.[font_size=18](Je habe gegessen.)[/font_size][/color] [color=#008000](J'ai mangé.)[/color][/i]
 
 - Utilisez [b]sein[/b] avec :
-[indent]- Les verbes de mouvement[font_size=18pt](kommen, gehen, fahren...)[/font_size] (venir, aller, conduire...).
-- Les verbes de changement d'état[font_size=18pt](werden, sterben...)[/font_size] (devenir, mourir...).
-- Quelques exceptions courantes[font_size=18pt](bleiben, passieren...)[/font_size] (rester, se passer...).
+[indent]- Les verbes de mouvement[font_size=18](kommen, gehen, fahren...)[/font_size] (venir, aller, conduire...).
+- Les verbes de changement d'état[font_size=18](werden, sterben...)[/font_size] (devenir, mourir...).
+- Quelques exceptions courantes[font_size=18](bleiben, passieren...)[/font_size] (rester, se passer...).
 
-[i]Exemple : [color=#0000FF]Er ist gegangen.[font_size=18pt](Er ist gegangen.)[/font_size][/color] [color=#008000](Il est allé.)[/color][/i]
-[i]Exemple : [color=#0000FF]Sie ist geblieben.[font_size=18pt](Sie ist geblieben.)[/font_size][/color] [color=#008000](Elle est restée.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er ist gegangen.[font_size=18](Er ist gegangen.)[/font_size][/color] [color=#008000](Il est allé.)[/color][/i]
+[i]Exemple : [color=#0000FF]Sie ist geblieben.[font_size=18](Sie ist geblieben.)[/font_size][/color] [color=#008000](Elle est restée.)[/color][/i][/indent]
 [/indent]
 
 [b]b) Participe passé des verbes réguliers et irréguliers[/b]
@@ -27,8 +27,8 @@ Pour former le parfait, on utilise le verbe auxiliaire "[b]haben[/b]" (avoir) ou
 - Ajoutez le préfixe "[b]ge-[/b]" au radical du verbe.
 - Ajoutez la terminaison "[b]-t[/b]" pour les verbes réguliers, et "[b]-en[/b]" pour la plupart des verbes irréguliers.
 
-[i]Exemple : [color=#0000FF]machen -> gemacht[font_size=18pt](faire -> fait)[/font_size][/color]
-[i]Exemple : [color=#0000FF]sehen -> gesehen[font_size=18pt](voir -> vu)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]machen -> gemacht[font_size=18](faire -> fait)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]sehen -> gesehen[font_size=18](voir -> vu)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Conjugaison au parfait[/color][/font_size]
 
@@ -59,13 +59,13 @@ Sie sind gegangen [color=#008000](Ils/elles sont allés)[/color]
 Le parfait est principalement utilisé dans la langue parlée et les correspondances informelles pour décrire des actions passées achevées. Voici quelques règles et exemples :
 
 [indent]• Actions achevées dans le passé
-[i]Exemple : [color=#0000FF]Sie haben gestern einen Film gesehen.[font_size=18pt](Sie haben gestern einen Film gesehen.)[/font_size][/color] [color=#008000](Ils ont regardé un film hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]Sie haben gestern einen Film gesehen.[font_size=18](Sie haben gestern einen Film gesehen.)[/font_size][/color] [color=#008000](Ils ont regardé un film hier.)[/color][/i]
 
 - Changements d'état ou de situation
-[i]Exemple : [color=#0000FF]Er ist Arzt geworden.[font_size=18pt](Er ist Arzt geworden.)[/font_size][/color] [color=#008000](Il est devenu médecin.)[/color][/i]
+[i]Exemple : [color=#0000FF]Er ist Arzt geworden.[font_size=18](Er ist Arzt geworden.)[/font_size][/color] [color=#008000](Il est devenu médecin.)[/color][/i]
 
 - Mouvements terminés vers un point précis
-[i]Exemple : [color=#0000FF]Ich bin nach Hause gegangen.[font_size=18pt](Ich bin nach Hause gegangen.)[/font_size][/color] [color=#008000](Je suis rentré à la maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich bin nach Hause gegangen.[font_size=18](Ich bin nach Hause gegangen.)[/font_size][/color] [color=#008000](Je suis rentré à la maison.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

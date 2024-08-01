@@ -16,7 +16,7 @@ HAPpy [color=#008000](heureux)[/color]
 DOCtor [color=#008000](docteur)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]The DOCtor is in.[font_size=18pt](Le docTEUR est là.)[/font_size][/color] [color=#008000](docteur accentué sur la première syllabe)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]The DOCtor is in.[font_size=18](Le docTEUR est là.)[/font_size][/color] [color=#008000](docteur accentué sur la première syllabe)[/color][/i][/indent]
 
 [b]b) Accentuation sur la deuxième syllabe[/b]
 [indent]Certains mots de deux syllabes, surtout les verbes, sont accentués sur la deuxième syllabe.
@@ -26,27 +26,27 @@ to inCREASE [color=#008000](augmenter)[/color]
 to deCIDE [color=#008000](décider)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]I need to reLAX.[font_size=18pt](J'ai besoin de me déTENDre.)[/font_size][/color] [color=#008000](relax accentué sur la deuxième syllabe)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I need to reLAX.[font_size=18](J'ai besoin de me déTENDre.)[/font_size][/color] [color=#008000](relax accentué sur la deuxième syllabe)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Accentuation de mots dans les phrases[/color][/font_size]
 
 En anglais, certains mots dans une phrase sont plus accentués que d'autres pour donner du sens ou de l'emphase. Les mots accentués sont souvent les mots importants du point de vue du contexte ou du sens.
 
 [indent]• Les mots de contenu (noms, verbes principaux, adjectifs et adverbes) sont généralement accentués.
-[i]Exemple : [color=#0000FF]She LOVES ice CREAM.[font_size=18pt](Elle ADOrE la GLACE.)[/font_size][/color] [color=#008000](Amour et glace sont accentués car ils sont importants pour le sens.)[/color][/i]
+[i]Exemple : [color=#0000FF]She LOVES ice CREAM.[font_size=18](Elle ADOrE la GLACE.)[/font_size][/color] [color=#008000](Amour et glace sont accentués car ils sont importants pour le sens.)[/color][/i]
 
 - Les mots de structure (articles, prépositions, conjonctions et pronoms) sont généralement non accentués.
-[i]Exemple : [color=#0000FF]I have a new CAR.[font_size=18pt](J'ai une nouVELLE voiTURE.)[/font_size][/color] [color=#008000](have et a ne sont pas accentués car ils sont structuraux.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I have a new CAR.[font_size=18](J'ai une nouVELLE voiTURE.)[/font_size][/color] [color=#008000](have et a ne sont pas accentués car ils sont structuraux.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Accentuation pour l'emphase[/color][/font_size]
 
 Parfois, l'accentuation est utilisée pour donner de l'emphase ou changer le sens d'une phrase. Cela se produit souvent dans les phrases interrogatives et exclamatives.
 
 [indent]• Emphase sur un mot spécifique pour donner une intention particulière.
-[i]Exemple : [color=#0000FF]I did NOT say he stole it.[font_size=18pt](Je n'AI pas dit qu'il l'a volé.)[/font_size][/color] [color=#008000](Accent sur NOT pour indiquer la négation claire.)[/color][/i]
+[i]Exemple : [color=#0000FF]I did NOT say he stole it.[font_size=18](Je n'AI pas dit qu'il l'a volé.)[/font_size][/color] [color=#008000](Accent sur NOT pour indiquer la négation claire.)[/color][/i]
 
 - Changer l'accent pour des questions ou des exclamations.
-[i]Exemple : [color=#0000FF]Are you GOing to the party? [font_size=18pt](Tu vas à la FÊTE?)[/font_size][/color] [color=#008000](Accent sur going pour indiquer la question.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Are you GOing to the party? [font_size=18](Tu vas à la FÊTE?)[/font_size][/color] [color=#008000](Accent sur going pour indiquer la question.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -17,7 +17,7 @@ sie (elle)
 es (il/elle neutre)
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich spreche Deutsch.[font_size=18pt](Je parle allemand.)[/font_size][/color] [color=#008000](je)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich spreche Deutsch.[font_size=18](Je parle allemand.)[/font_size][/color] [color=#008000](je)[/color][/i][/indent]
 
 [b]b) Les pronoms personnels pluriels[/b]
 [indent][code]
@@ -27,7 +27,7 @@ sie (ils/elles)
 Sie (vous - forme polie)
 [/code]
 
-[i]Exemple : [color=#0000FF]Wir gehen ins Kino.[font_size=18pt](Nous allons au cinéma.)[/font_size][/color] [color=#008000](nous)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wir gehen ins Kino.[font_size=18](Nous allons au cinéma.)[/font_size][/color] [color=#008000](nous)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Les pronoms personnels à l'accusatif[/color][/font_size]
 
@@ -42,7 +42,7 @@ sie (la)
 es (le/la neutre)
 [/code]
 
-[i]Exemple : [color=#0000FF]Er sieht mich.[font_size=18pt](Il me voit.)[/font_size][/color] [color=#008000](me)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er sieht mich.[font_size=18](Il me voit.)[/font_size][/color] [color=#008000](me)[/color][/i][/indent]
 
 [b]b) Les pronoms personnels pluriels[/b]
 [indent][code]
@@ -52,7 +52,7 @@ sie (les)
 Sie (vous - forme polie)
 [/code]
 
-[i]Exemple : [color=#0000FF]Sie hören uns.[font_size=18pt](Ils nous entendent.)[/font_size][/color] [color=#008000](nous)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Sie hören uns.[font_size=18](Ils nous entendent.)[/font_size][/color] [color=#008000](nous)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Les pronoms personnels au datif[/color][/font_size]
 
@@ -66,7 +66,7 @@ ihm (lui - masculin/neutre)
 ihr (lui - féminin)
 [/code]
 
-[i]Exemple : [color=#0000FF]Er gibt mir ein Buch.[font_size=18pt](Il me donne un livre.)[/font_size][/color] [color=#008000](me)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er gibt mir ein Buch.[font_size=18](Il me donne un livre.)[/font_size][/color] [color=#008000](me)[/color][/i][/indent]
 
 [b]b) Les pronoms personnels pluriels[/b]
 [indent][code]
@@ -76,7 +76,7 @@ ihnen (leur)
 Ihnen (vous - forme polie)
 [/code]
 
-[i]Exemple : [color=#0000FF]Wir geben Ihnen die Schlüssel.[font_size=18pt](Nous vous donnons les clés.)[/font_size][/color] [color=#008000](vous - forme polie)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wir geben Ihnen die Schlüssel.[font_size=18](Nous vous donnons les clés.)[/font_size][/color] [color=#008000](vous - forme polie)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Table récapitulative des pronoms personnels[/color][/font_size]
 
@@ -94,13 +94,13 @@ Datif:      mir, dir, ihm, ihr, ihm, uns, euch, ihnen, Ihnen
 Il est essentiel de savoir quand utiliser chaque cas (nominatif, accusatif, datif) pour bien former vos phrases. Voici quelques conseils pratiques :
 
 [indent]• Le nominatif est principalement utilisé pour le sujet de la phrase.
-[i]Exemple : [color=#0000FF]Er ist Lehrer.[font_size=18pt](Il est professeur.)[/font_size][/color] [color=#008000](Il)[/color][/i]
+[i]Exemple : [color=#0000FF]Er ist Lehrer.[font_size=18](Il est professeur.)[/font_size][/color] [color=#008000](Il)[/color][/i]
 
 • L'accusatif est utilisé pour le complément d'objet direct.
-[i]Exemple : [color=#0000FF]Ich sehe dich.[font_size=18pt](Je te vois.)[/font_size][/color] [color=#008000](te)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich sehe dich.[font_size=18](Je te vois.)[/font_size][/color] [color=#008000](te)[/color][/i]
 
 • Le datif est utilisé pour le complément d'objet indirect.
-[i]Exemple : [color=#0000FF]Sie gibt ihm das Buch.[font_size=18pt](Elle lui donne le livre.)[/font_size][/color] [color=#008000](lui)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Sie gibt ihm das Buch.[font_size=18](Elle lui donne le livre.)[/font_size][/color] [color=#008000](lui)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

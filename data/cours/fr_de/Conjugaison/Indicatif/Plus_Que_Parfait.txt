@@ -34,10 +34,10 @@ sehen (voir) -> gesehen (vu)
 Utilisez le Plus-Que-Parfait pour indiquer une action qui s'était achevée avant une autre dans le passé.
 
 [indent]• Lorsqu’une action antérieure est mentionnée
-[i]Exemple : [color=#0000FF]Nachdem er gekommen war, gingen wir ins Kino.[font_size=18pt](Après qu'il fut arrivé, nous sommes allés au cinéma.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Nachdem er gekommen war, gingen wir ins Kino.[font_size=18](Après qu'il fut arrivé, nous sommes allés au cinéma.)[/font_size][/color][/i]
 
 - Pour souligner la chaîne d'événements passés
-[i]Exemple : [color=#0000FF]Er hatte das Buch gelesen, bevor er schlafen ging.[font_size=18pt](Il avait lu le livre avant d'aller dormir.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er hatte das Buch gelesen, bevor er schlafen ging.[font_size=18](Il avait lu le livre avant d'aller dormir.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Particules séparables et inséparables au Plus-Que-Parfait[/color][/font_size]
 

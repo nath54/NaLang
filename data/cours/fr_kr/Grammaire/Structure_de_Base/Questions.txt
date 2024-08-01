@@ -10,59 +10,59 @@ Voici quelques mots interrogatifs de base en coréen, qui vous aideront à poser
 
 [b]a) Qui[/b]
 [indent]• [b]누구 (nugu)[/b] : qui
-[i]Exemple : [color=#0000FF]누구예요? [font_size=18pt](Nugu-yeyo?)[/font_size][/color] [color=#008000](Qui est-ce ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]누구예요? [font_size=18](Nugu-yeyo?)[/font_size][/color] [color=#008000](Qui est-ce ?)[/color][/i][/indent]
 
 [b]b) Quoi[/b]
 [indent]• [b]뭐 / 무엇 (mwo / mueot)[/b] : quoi
-[i]Exemple : [color=#0000FF]뭐 해요? [font_size=18pt](Mwo haeyo?)[/font_size][/color] [color=#008000](Que faites-vous ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]뭐 해요? [font_size=18](Mwo haeyo?)[/font_size][/color] [color=#008000](Que faites-vous ?)[/color][/i][/indent]
 
 [b]c) Où[/b]
 [indent]• [b]어디 (eodi)[/b] : où
-[i]Exemple : [color=#0000FF]어디에 가요? [font_size=18pt](Eodie gayo?)[/font_size][/color] [color=#008000](Où allez-vous ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]어디에 가요? [font_size=18](Eodie gayo?)[/font_size][/color] [color=#008000](Où allez-vous ?)[/color][/i][/indent]
 
 [b]d) Quand[/b]
 [indent]• [b]언제 (eonje)[/b] : quand
-[i]Exemple : [color=#0000FF]언제 와요? [font_size=18pt](Eonje wayo?)[/font_size][/color] [color=#008000](Quand venez-vous ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]언제 와요? [font_size=18](Eonje wayo?)[/font_size][/color] [color=#008000](Quand venez-vous ?)[/color][/i][/indent]
 
 [b]e) Pourquoi[/b]
 [indent]• [b]왜 (wae)[/b] : pourquoi
-[i]Exemple : [color=#0000FF]왜 울어요? [font_size=18pt](Wae uroyo?)[/font_size][/color] [color=#008000](Pourquoi pleures-tu ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]왜 울어요? [font_size=18](Wae uroyo?)[/font_size][/color] [color=#008000](Pourquoi pleures-tu ?)[/color][/i][/indent]
 
 [b]f) Comment[/b]
 [indent]• [b]어떻게 (eotteoke)[/b] : comment
-[i]Exemple : [color=#0000FF]어떻게 지내요? [font_size=18pt](Eotteoke jinaeyo?)[/font_size][/color] [color=#008000](Comment ça va ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]어떻게 지내요? [font_size=18](Eotteoke jinaeyo?)[/font_size][/color] [color=#008000](Comment ça va ?)[/color][/i][/indent]
 
 [b]g) Combien[/b]
 [indent]• [b]얼마나 / 얼마 (eolmana / eolma)[/b] : combien
-[i]Exemple : [color=#0000FF]이거 얼마예요? [font_size=18pt](Igeo eolmayeyo?)[/font_size][/color] [color=#008000](Combien ça coûte ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]이거 얼마예요? [font_size=18](Igeo eolmayeyo?)[/font_size][/color] [color=#008000](Combien ça coûte ?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Construction des Phrases Interrogatives[/color][/font_size]
 
 En coréen, les phrases interrogatives suivent une structure similaire aux phrases déclaratives, mais avec une intonation montante. Voici quelques exemples pour illustrer cela.
 
 [indent]• Les phrases déclaratives se transforment en questions par l'intonation.
-[i]Exemple : [color=#0000FF]당신은 학생이에요. [font_size=18pt](Dangsin-eun haksaeng-ieyo.)[/font_size][/color] [color=#008000](Vous êtes étudiant.)[/color]
-⇨ [color=#0000FF]당신은 학생이에요? [font_size=18pt](Dangsin-eun haksaeng-ieyo?)[/font_size][/color] [color=#008000](Êtes-vous étudiant ?)[/color][/i]
+[i]Exemple : [color=#0000FF]당신은 학생이에요. [font_size=18](Dangsin-eun haksaeng-ieyo.)[/font_size][/color] [color=#008000](Vous êtes étudiant.)[/color]
+⇨ [color=#0000FF]당신은 학생이에요? [font_size=18](Dangsin-eun haksaeng-ieyo?)[/font_size][/color] [color=#008000](Êtes-vous étudiant ?)[/color][/i]
 
 - Ajouter des mots interrogatifs en début de phrase pour des questions spécifiques.
-[i]Exemple : [color=#0000FF]이것은 무엇이에요? [font_size=18pt](Igeoseun mueos-ieyo?)[/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]이것은 무엇이에요? [font_size=18](Igeoseun mueos-ieyo?)[/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisation des Particules Interrogatives[/color][/font_size]
 
 Les particules interrogatives sont souvent utilisées dans les questions pour exprimer différents niveaux de politesses et nuances.
 
 [indent]• [color=#FF0000]-ㅂ니까? / -습니까? (-bnikka? / -seubnikka?)[/color] : utilisé pour poser une question formelle ou polie.
-[i]Exemple : [color=#0000FF]무엇을 합니까? [font_size=18pt](Mueoseul hamnikka?)[/font_size][/color] [color=#008000](Que faites-vous ?)[/color][/i]
+[i]Exemple : [color=#0000FF]무엇을 합니까? [font_size=18](Mueoseul hamnikka?)[/font_size][/color] [color=#008000](Que faites-vous ?)[/color][/i]
 
 - [color=#FF0000]-나요? / -가요? (-nayo? / -gayo?)[/color] : utilisé pour poser des questions avec une nuance plus légère ou amicale.
-[i]Exemple : [color=#0000FF]여기가 어디인가요? [font_size=18pt](Yeogiga eodi-ingayo?)[/font_size][/color] [color=#008000](Où est-ce ici ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]여기가 어디인가요? [font_size=18](Yeogiga eodi-ingayo?)[/font_size][/color] [color=#008000](Où est-ce ici ?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Précisions Supplémentaires[/color][/font_size]
 
 Il est important de se rappeler que la politesse et le contexte sont très importants en coréen. Choisissez le niveau de formalité approprié selon la situation.
 
 [indent]• Utilisez des suffixes et des particules comme 요 (yo) pour rendre la question plus polie.
-[i]Exemple : [color=#0000FF]어디 가요? [font_size=18pt](Eodi gayo?)[/font_size][/color] [color=#008000](Où allez-vous ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]어디 가요? [font_size=18](Eodi gayo?)[/font_size][/color] [color=#008000](Où allez-vous ?)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

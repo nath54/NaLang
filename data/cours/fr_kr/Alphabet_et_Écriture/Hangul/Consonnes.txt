@@ -26,7 +26,7 @@ Les consonnes de base en coréen sont simples et chacune a une seule forme indé
 ㅎ (h) [color=#008000](hieut)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]간다.[font_size=18pt](ganda.)[/font_size][/color] [color=#008000](Il/Elle/On va.)[/color][/i]
+[i]Exemple : [color=#0000FF]간다.[font_size=18](ganda.)[/font_size][/color] [color=#008000](Il/Elle/On va.)[/color][/i]
 
 [font_size=24][color=#4B0082]2. Consonnes Fortes et Consonnes Aspirées[/color][/font_size]
 
@@ -44,7 +44,7 @@ Les consonnes fortes sont prononcées avec plus de tension dans la gorge. Elles 
 ㅉ (jj) [color=#008000](ssang jieut)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]빵.[font_size=18pt](ppang.)[/font_size][/color] [color=#008000](Pain.)[/color][/i]
+[i]Exemple : [color=#0000FF]빵.[font_size=18](ppang.)[/font_size][/color] [color=#008000](Pain.)[/color][/i]
 [/indent]
 
 [b]b) Consonnes Aspirées[/b]
@@ -58,7 +58,7 @@ Les consonnes aspirées sont prononcées avec un souffle d'air supplémentaire. 
 ㅎ (h) [color=#008000](hieut)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]표.[font_size=18pt](pyo.)[/font_size][/color] [color=#008000](Billet.)[/color][/i]
+[i]Exemple : [color=#0000FF]표.[font_size=18](pyo.)[/font_size][/color] [color=#008000](Billet.)[/color][/i]
 [/indent]
 
 [font_size=24][color=#4B0082]3. Comment les Utiliser[/color][/font_size]
@@ -66,7 +66,7 @@ Les consonnes aspirées sont prononcées avec un souffle d'air supplémentaire. 
 Les consonnes en coréen sont combinées avec des voyelles pour former des syllabes. Chaque syllabe peut avoir jusqu'à trois parties : une consonne initiale, une voyelle et éventuellement une consonne finale.
 
 [indent]
-[i]Exemple : [color=#0000FF]한글.[font_size=18pt](Hangeul.)[/font_size][/color] [color=#008000](Alphabet coréen.)[/color][/i]
+[i]Exemple : [color=#0000FF]한글.[font_size=18](Hangeul.)[/font_size][/color] [color=#008000](Alphabet coréen.)[/color][/i]
 
 - 'ㅎ' ([color=#008000]hieut[/color]) est la consonne initiale.
 - 'ㅏ' ([color=#008000]a[/color]) est la voyelle.

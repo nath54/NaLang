@@ -26,20 +26,20 @@ Présent parfait : The book has been read. [color=#008000](Le livre a été lu.)
 La voix passive est souvent utilisée pour les raisons suivantes :
 
 [indent]• Mettre l'accent sur l'objet de l'action plutôt que sur l'agent.
-[i]Exemple : [color=#0000FF]The cake was eaten by the children.[font_size=18pt] (Le gâteau a été mangé par les enfants.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]The cake was eaten by the children.[font_size=18] (Le gâteau a été mangé par les enfants.)[/font_size][/color][/i]
 
 - Lorsque l'agent de l'action est inconnu ou sans importance.
-[i]Exemple : [color=#0000FF]The window was broken.[font_size=18pt] (La fenêtre a été cassée.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]The window was broken.[font_size=18] (La fenêtre a été cassée.)[/font_size][/color][/i]
 
 - Pour éviter d'accuser ou d'attribuer la faute à quelqu'un.
-[i]Exemple : [color=#0000FF]Mistakes were made.[font_size=18pt] (Des erreurs ont été commises.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Mistakes were made.[font_size=18] (Des erreurs ont été commises.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Complément d'agent en voix passive[/color][/font_size]
 
 Le complément d'agent en voix passive introduit la personne ou la chose qui réalise l'action. Il est introduit par la préposition "by".
 
 [indent][b]Exemple :[/b]
-[i]Exemple : [color=#0000FF]The novel was written by the author.[font_size=18pt] (Le roman a été écrit par l'auteur.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]The novel was written by the author.[font_size=18] (Le roman a été écrit par l'auteur.)[/font_size][/color][/i][/indent]
 Cependant, le complément d'agent est souvent omis si l'identité du sujet est évidente ou non pertinente.
 
 [font_size=24][color=#4B0082]4. Transformation active-passive[/color][/font_size]
@@ -47,9 +47,9 @@ Cependant, le complément d'agent est souvent omis si l'identité du sujet est �
 Lorsqu'une phrase active est transformée en phrase passive, l'objet direct de la phrase active devient le sujet de la phrase passive.
 
 [indent][b]Exemple :[/b]
-[i]Phrase active : [color=#0000FF]The chef cooks the meal.[font_size=18pt] (Le chef cuisine le repas.)[/font_size][/color]
+[i]Phrase active : [color=#0000FF]The chef cooks the meal.[font_size=18] (Le chef cuisine le repas.)[/font_size][/color]
 
-Phrase passive : [color=#0000FF]The meal is cooked by the chef.[font_size=18pt] (Le repas est cuisiné par le chef.)[/font_size][/color][/i][/indent]
+Phrase passive : [color=#0000FF]The meal is cooked by the chef.[font_size=18] (Le repas est cuisiné par le chef.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

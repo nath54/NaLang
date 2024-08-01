@@ -18,7 +18,7 @@ Les pronoms personnels en japonais changent en fonction du niveau de politesse e
 彼女 (かのじょ, kanojo) [color=#008000](Elle - féminin)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は学生です。[font_size=18pt](Watashi wa gakusei desu.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は学生です。[font_size=18](Watashi wa gakusei desu.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i][/indent]
 
 [b]b) Pluriel[/b]
 [indent]
@@ -30,7 +30,7 @@ Les pronoms personnels en japonais changent en fonction du niveau de politesse e
 彼女たち (かのじょたち, kanojotachi) [color=#008000](Elles - féminin)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私たちは友達です。[font_size=18pt](Watashitachi wa tomodachi desu.)[/font_size][/color] [color=#008000](Nous sommes amis.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私たちは友達です。[font_size=18](Watashitachi wa tomodachi desu.)[/font_size][/color] [color=#008000](Nous sommes amis.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Les Pronoms Possessifs[/color][/font_size]
 
@@ -46,7 +46,7 @@ Les pronoms possessifs en japonais sont formés en ajoutant le suffixe の (no) 
 彼女の (かのじょの, kanojo no) [color=#008000](Son, Sa, Ses - féminin)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]これは私の本です。[font_size=18pt](Kore wa watashi no hon desu.)[/font_size][/color] [color=#008000](Ceci est mon livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]これは私の本です。[font_size=18](Kore wa watashi no hon desu.)[/font_size][/color] [color=#008000](Ceci est mon livre.)[/color][/i][/indent]
 
 [b]b) Pluriel[/b]
 [indent]
@@ -58,7 +58,7 @@ Les pronoms possessifs en japonais sont formés en ajoutant le suffixe の (no) 
 彼女たちの (かのじょたちの, kanojotachi no) [color=#008000](Leur, Leurs - féminin)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]これは私たちの家です。[font_size=18pt](Kore wa watashitachi no ie desu.)[/font_size][/color] [color=#008000](Ceci est notre maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]これは私たちの家です。[font_size=18](Kore wa watashitachi no ie desu.)[/font_size][/color] [color=#008000](Ceci est notre maison.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Les Pronoms Démonstratifs[/color][/font_size]
 
@@ -73,7 +73,7 @@ Les pronoms démonstratifs en japonais varient en fonction de la distance par ra
 どれ (dore) [color=#008000](Lequel - question)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]これは何ですか？[font_size=18pt](Kore wa nan desu ka?)[/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]これは何ですか？[font_size=18](Kore wa nan desu ka?)[/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
 
 [b]b) Utilisés pour des personnes[/b]
 [indent]
@@ -84,7 +84,7 @@ Les pronoms démonstratifs en japonais varient en fonction de la distance par ra
 どの人 (どのひと, dono hito) [color=#008000](Quelle personne ? - question)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]この人は誰ですか？[font_size=18pt](Kono hito wa dare desu ka?)[/font_size][/color] [color=#008000](Qui est cette personne ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]この人は誰ですか？[font_size=18](Kono hito wa dare desu ka?)[/font_size][/color] [color=#008000](Qui est cette personne ?)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

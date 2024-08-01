@@ -15,7 +15,7 @@ Voici quelques exemples de phrases simples pour vous aider à comprendre cette s
 그녀는 책을 읽어요. (geunyeoneun chaekeul ilgeoyo) [color=#008000](Elle lit un livre.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]제가 학교에 가요.[font_size=18pt](jega hakgyoe gayo.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]제가 학교에 가요.[font_size=18](jega hakgyoe gayo.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
 
 [b]b) Phrases interrogatives[/b]
 [indent]Les phrases interrogatives en coréen se forment souvent en ajoutant une inflexion de la voix à la fin de la phrase ou en ajoutant un marqueur d'interrogation. Voici quelques exemples :
@@ -24,27 +24,27 @@ Voici quelques exemples de phrases simples pour vous aider à comprendre cette s
 이것은 무엇이에요? (igeoseun mueos-ieyo?) [color=#008000](Qu'est-ce que c'est ?)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]당신은 어디에 가요?[font_size=18pt](dangsin-eun eodie gayo?)[/font_size][/color] [color=#008000](Où allez-vous ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]당신은 어디에 가요?[font_size=18](dangsin-eun eodie gayo?)[/font_size][/color] [color=#008000](Où allez-vous ?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des particules[/color][/font_size]
 
 En coréen, les particules jouent un rôle crucial dans la formation des phrases. Elles indiquent la fonction grammaticale des mots dans la phrase.
 
 [indent]• [color=#FF0000]은/는[/color] (eun/neun) : Particules de sujet
-[i]Exemple : [color=#0000FF]저는 학생이에요.[font_size=18pt](jeoneun haksaeng-ieyo.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i]
+[i]Exemple : [color=#0000FF]저는 학생이에요.[font_size=18](jeoneun haksaeng-ieyo.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i]
 
 - [color=#FF0000]을/를[/color] (eul/reul) : Particules d'objet
-[i]Exemple : [color=#0000FF]나는 밥을 먹어요.[font_size=18pt](naneun bap-eul meogeoyo.)[/font_size][/color] [color=#008000](Je mange du riz.)[/color][/i]
+[i]Exemple : [color=#0000FF]나는 밥을 먹어요.[font_size=18](naneun bap-eul meogeoyo.)[/font_size][/color] [color=#008000](Je mange du riz.)[/color][/i]
 
 - [color=#FF0000]에[/color] (e) : Particule de lieu/direction
-[i]Exemple : [color=#0000FF]학교에 가요.[font_size=18pt](hakgyoe gayo.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]학교에 가요.[font_size=18](hakgyoe gayo.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 En coréen, les pronoms sujets peuvent souvent être omis si le contexte de la conversation est clair.
 
 [indent]• Omission du sujet
-[i]Exemple : [color=#0000FF]학교에 가요.[font_size=18pt](hakgyoe gayo.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]학교에 가요.[font_size=18](hakgyoe gayo.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

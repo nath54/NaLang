@@ -23,7 +23,7 @@ Le niveau N5 couvre environ 100 kanji de base. Ces caractères sont couramment u
 門 (もん [mon]) [color=#008000](porte)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]今日はいい日です。[font_size=18pt](きょうはいいひです。Kyō wa ii hi desu.)[/font_size][/color] [color=#008000](Aujourd'hui est un bon jour.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]今日はいい日です。[font_size=18](きょうはいいひです。Kyō wa ii hi desu.)[/font_size][/color] [color=#008000](Aujourd'hui est un bon jour.)[/color][/i][/indent]
 
 [b]b) Les kanji de base pour les nombres[/b]
 [indent]Les kanji pour les chiffres sont essentiels et constituent la base des nombres en japonais.
@@ -40,17 +40,17 @@ Le niveau N5 couvre environ 100 kanji de base. Ces caractères sont couramment u
 十 (じゅう, とお [jū, tō]) [color=#008000](dix)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]四つのりんごがあります。[font_size=18pt](よっつのりんごがあります。Yottsu no ringo ga arimasu.)[/font_size][/color] [color=#008000](Il y a quatre pommes.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]四つのりんごがあります。[font_size=18](よっつのりんごがあります。Yottsu no ringo ga arimasu.)[/font_size][/color] [color=#008000](Il y a quatre pommes.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des Kanji dans des Contextes Simples[/color][/font_size]
 
 Les kanji du niveau N5 s'utilisent dans des contextes simples et quotidiens. Il est crucial de les pratiquer par le biais d'exemples réels pour bien les mémoriser.
 
 [indent]• Utilisation des kanji pour les jours de la semaine :
-[i]Exemple : [color=#0000FF]月曜日に学校へ行きます。[font_size=18pt](げつようびにがっこうへいきます。Getsuyōbi ni gakkō e ikimasu.)[/font_size][/color] [color=#008000](Je vais à l'école le lundi.)[/color][/i]
+[i]Exemple : [color=#0000FF]月曜日に学校へ行きます。[font_size=18](げつようびにがっこうへいきます。Getsuyōbi ni gakkō e ikimasu.)[/font_size][/color] [color=#008000](Je vais à l'école le lundi.)[/color][/i]
 
 - Utilisation des kanji dans des phrases courtes :
-[i]Exemple : [color=#0000FF]小さな山があります。[font_size=18pt](ちいさなやまがあります。Chīsana yama ga arimasu.)[/font_size][/color] [color=#008000](Il y a une petite montagne.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]小さな山があります。[font_size=18](ちいさなやまがあります。Chīsana yama ga arimasu.)[/font_size][/color] [color=#008000](Il y a une petite montagne.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Pratique et Révision des Kanji[/color][/font_size]
 
@@ -61,7 +61,7 @@ Pour maîtriser les kanji du niveau N5, la pratique régulière et la révision 
 • Pratiquez en lisant et en écrivant des phrases simples utilisant les kanji du N5.
 
 [i]Exemple d'exercice : [color=#0000FF]Écrire une phrase avec chaque kanji appris.[/color][/i]
-[i]Exemple : [color=#0000FF]私の名前は山田です。[font_size=18pt](わたしのなまえはやまだです。Watashi no namae wa Yamada desu.)[/font_size][/color] [color=#008000](Mon nom est Yamada.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私の名前は山田です。[font_size=18](わたしのなまえはやまだです。Watashi no namae wa Yamada desu.)[/font_size][/color] [color=#008000](Mon nom est Yamada.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

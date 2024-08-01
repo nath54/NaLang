@@ -16,7 +16,7 @@ short [color=#008000](court)[/color] → shorter [color=#008000](plus court)[/co
 fast [color=#008000](rapide)[/color] → faster [color=#008000](plus rapide)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She is taller than her brother.[font_size=18pt](Elle est plus grande que son frère.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She is taller than her brother.[font_size=18](Elle est plus grande que son frère.)[/font_size][/color][/i][/indent]
 
 [b]b) Utilisation de "more"[/b]
 [indent]Pour les adjectifs longs (souvent de deux syllabes ou plus), on utilise "more" avant l'adjectif.
@@ -25,7 +25,7 @@ beautiful [color=#008000](belle)[/color] → more beautiful [color=#008000](plus
 interesting [color=#008000](intéressant)[/color] → more interesting [color=#008000](plus intéressant)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]This book is more interesting than the film.[font_size=18pt](Ce livre est plus intéressant que le film.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]This book is more interesting than the film.[font_size=18](Ce livre est plus intéressant que le film.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Structure des superlatifs[/color][/font_size]
 
@@ -39,7 +39,7 @@ short [color=#008000](court)[/color] → shortest [color=#008000](le plus court)
 fast [color=#008000](rapide)[/color] → fastest [color=#008000](le plus rapide)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She is the tallest in her class.[font_size=18pt](Elle est la plus grande de sa classe.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She is the tallest in her class.[font_size=18](Elle est la plus grande de sa classe.)[/font_size][/color][/i][/indent]
 
 [b]b) Utilisation de "most"[/b]
 [indent]Pour les adjectifs longs, on utilise "most".
@@ -48,7 +48,7 @@ beautiful [color=#008000](belle)[/color] → most beautiful [color=#008000](la p
 interesting [color=#008000](intéressant)[/color] → most interesting [color=#008000](le plus intéressant)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]This is the most beautiful place I have ever seen.[font_size=18pt](C'est l'endroit le plus beau que j'aie jamais vu.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]This is the most beautiful place I have ever seen.[font_size=18](C'est l'endroit le plus beau que j'aie jamais vu.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Cas particuliers[/color][/font_size]
 
@@ -61,7 +61,7 @@ bad [color=#008000](mauvais)[/color] → worse [color=#008000](pire)[/color] →
 far [color=#008000](loin)[/color] → farther/further [color=#008000](plus loin)[/color] → farthest/furthest [color=#008000](le plus loin)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]He is the best player in the team.[font_size=18pt](Il est le meilleur joueur de l'équipe.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He is the best player in the team.[font_size=18](Il est le meilleur joueur de l'équipe.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

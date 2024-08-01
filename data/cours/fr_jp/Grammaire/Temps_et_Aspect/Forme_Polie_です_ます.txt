@@ -28,7 +28,7 @@ En japonais, la forme polie est essentielle pour des interactions quotidiennes c
 行きます (ikimasu) [color=#008000](aller)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は寿司を食べます。[font_size=18pt](Watashi wa sushi o tabemasu.)[/font_size][/color] [color=#008000](Je mange des sushis.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は寿司を食べます。[font_size=18](Watashi wa sushi o tabemasu.)[/font_size][/color] [color=#008000](Je mange des sushis.)[/color][/i][/indent]
 
 [b]b) Présent négatif[/b]
 [indent]Pour la forme négative, ajoutez "ません" (masen) à la base verbale.
@@ -38,7 +38,7 @@ En japonais, la forme polie est essentielle pour des interactions quotidiennes c
 行きません (ikimasen) [color=#008000](ne pas aller)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は学校へ行きません。[font_size=18pt](Kare wa gakkō e ikimasen.)[/font_size][/color] [color=#008000](Il ne va pas à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は学校へ行きません。[font_size=18](Kare wa gakkō e ikimasen.)[/font_size][/color] [color=#008000](Il ne va pas à l'école.)[/color][/i][/indent]
 
 [b]c) Passé affirmatif[/b]
 [indent]Pour exprimer une action passée, utilisez "ました" (mashita) après la base verbale.
@@ -48,7 +48,7 @@ En japonais, la forme polie est essentielle pour des interactions quotidiennes c
 行きました (ikimashita) [color=#008000](allé)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は手紙を書きました。[font_size=18pt](Watashi wa tegami o kakimashita.)[/font_size][/color] [color=#008000](J'ai écrit une lettre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は手紙を書きました。[font_size=18](Watashi wa tegami o kakimashita.)[/font_size][/color] [color=#008000](J'ai écrit une lettre.)[/color][/i][/indent]
 
 [b]d) Passé négatif[/b]
 [indent]Pour la forme négative du passé, utilisez "ませんでした" (masen deshita) après la base verbale.
@@ -58,7 +58,7 @@ En japonais, la forme polie est essentielle pour des interactions quotidiennes c
 行きませんでした (ikimasen deshita) [color=#008000](n'est pas allé)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は昨日学校へ行きませんでした。[font_size=18pt](Kare wa kinō gakkō e ikimasen deshita.)[/font_size][/color] [color=#008000](Il n'est pas allé à l'école hier.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は昨日学校へ行きませんでした。[font_size=18](Kare wa kinō gakkō e ikimasen deshita.)[/font_size][/color] [color=#008000](Il n'est pas allé à l'école hier.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -15,7 +15,7 @@ Les phrases avec verbes en série se composent de plusieurs verbes successifs sa
 回来吃饭 (huí lái chīfàn) [color=#008000](revenir et manger)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他去图书馆看书。[font_size=18pt](Tā qù túshūguǎn kàn shū.)[/font_size][/color] [color=#008000](Il est allé à la bibliothèque pour lire.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他去图书馆看书。[font_size=18](Tā qù túshūguǎn kàn shū.)[/font_size][/color] [color=#008000](Il est allé à la bibliothèque pour lire.)[/color][/i][/indent]
 
 [b]b) Actions simultanées[/b]
 [indent]Quand plusieurs actions se produisent en même temps, elles peuvent être exprimées par une série de verbes.
@@ -24,14 +24,14 @@ Les phrases avec verbes en série se composent de plusieurs verbes successifs sa
 看电视喝茶 (kàn diànshì hē chá) [color=#008000](regarder la télévision en buvant du thé)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他听音乐写作业。[font_size=18pt](Tā tīng yīnyuè xiě zuòyè.)[/font_size][/color] [color=#008000](Il écoute de la musique en faisant ses devoirs.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他听音乐写作业。[font_size=18](Tā tīng yīnyuè xiě zuòyè.)[/font_size][/color] [color=#008000](Il écoute de la musique en faisant ses devoirs.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des verbes en série[/color][/font_size]
 
 Les verbes en série sont fréquemment utilisés pour décrire des actions quotidiennes. Voici quelques règles et exemples pour bien les maîtriser.
 
 [indent]• Les verbes en série doivent partager le même sujet. La continuité des actions doit être fluide.
-[i]Exemple : [color=#0000FF]我去银行取钱。[font_size=18pt](Wǒ qù yínháng qǔ qián.)[/font_size][/color] [color=#008000](Je vais à la banque pour retirer de l'argent.)[/color][/i]
+[i]Exemple : [color=#0000FF]我去银行取钱。[font_size=18](Wǒ qù yínháng qǔ qián.)[/font_size][/color] [color=#008000](Je vais à la banque pour retirer de l'argent.)[/color][/i]
 
 - Certains verbes sont souvent utilisés en première position pour indiquer le sens général de l'action :
 [code]
@@ -42,17 +42,17 @@ Les verbes en série sont fréquemment utilisés pour décrire des actions quoti
 让 (ràng) [color=#008000](laisser faire)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]她请我吃饭。[font_size=18pt](Tā qǐng wǒ chīfàn.)[/font_size][/color] [color=#008000](Elle m'a invité à manger.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]她请我吃饭。[font_size=18](Tā qǐng wǒ chīfàn.)[/font_size][/color] [color=#008000](Elle m'a invité à manger.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Pour clarifier le contexte ou le but des actions, des compléments additionnels peuvent être insérés dans la structure de la phrase.
 
 [indent]• Ajouter un complément de lieu ou de temps.
-[i]Exemple : [color=#0000FF]明天我们去公园散步。[font_size=18pt](Míngtiān wǒmen qù gōngyuán sànbù.)[/font_size][/color] [color=#008000](Demain, nous irons nous promener au parc.)[/color][/i]
+[i]Exemple : [color=#0000FF]明天我们去公园散步。[font_size=18](Míngtiān wǒmen qù gōngyuán sànbù.)[/font_size][/color] [color=#008000](Demain, nous irons nous promener au parc.)[/color][/i]
 
 - Utiliser des adverbes pour préciser l'action.
-[i]Exemple : [color=#0000FF]他慢慢地走上来。[font_size=18pt](Tā mànmàn de zǒu shàng lái.)[/font_size][/color] [color=#008000](Il est monté lentement.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他慢慢地走上来。[font_size=18](Tā mànmàn de zǒu shàng lái.)[/font_size][/color] [color=#008000](Il est monté lentement.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

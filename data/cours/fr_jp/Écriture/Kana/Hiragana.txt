@@ -59,7 +59,7 @@ Le tableau des Hiragana comprend 46 caractères de base, appelés "gana" (仮名
 ん (n) [color=#008000](n)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]こんにちは。[font_size=18pt](Konnichiwa.)[/font_size][/color] [color=#008000](Bonjour.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]こんにちは。[font_size=18](Konnichiwa.)[/font_size][/color] [color=#008000](Bonjour.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Les diacritiques et combinaisons des Hiragana[/color][/font_size]
 
@@ -74,7 +74,7 @@ Les diacritiques et les combinaisons permettent de créer d'autres sons à parti
 ば (ba), び (bi), ぶ (bu), べ (be), ぼ (bo)
 [/code]
 
-[i]Exemple : [color=#0000FF]がっこう。[font_size=18pt](Gakkou.)[/font_size][/color] [color=#008000](École.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]がっこう。[font_size=18](Gakkou.)[/font_size][/color] [color=#008000](École.)[/color][/i][/indent]
 
 [b]Handakuten[/b]
 [indent]Les handakuten (°) transforment les sons en "p" (plosive sound).
@@ -82,7 +82,7 @@ Les diacritiques et les combinaisons permettent de créer d'autres sons à parti
 ぱ (pa), ぴ (pi), ぷ (pu), ぺ (pe), ぽ (po)
 [/code]
 
-[i]Exemple : [color=#0000FF]ぱん。[font_size=18pt](Pan.)[/font_size][/color] [color=#008000](Pain.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]ぱん。[font_size=18](Pan.)[/font_size][/color] [color=#008000](Pain.)[/color][/i][/indent]
 
 [b]Combinaisons de Hiragana[/b]
 [indent]Les petits caractères ゃ (ya), ゅ (yu), et ょ (yo) peuvent être combinés avec d'autres Hiragana pour former des sons combinés :
@@ -100,7 +100,7 @@ Les diacritiques et les combinaisons permettent de créer d'autres sons à parti
 ぴゃ (pya), ぴゅ (pyu), ぴょ (pyo)
 [/code]
 
-[i]Exemple : [color=#0000FF]きょう。[font_size=18pt](Kyou.)[/font_size][/color] [color=#008000](Aujourd'hui.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]きょう。[font_size=18](Kyou.)[/font_size][/color] [color=#008000](Aujourd'hui.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Pratique et mémorisation[/color][/font_size]
 
@@ -110,7 +110,7 @@ Apprendre les Hiragana nécessite de la pratique régulière et l'utilisation de
 [i]Exemple : [color=#0000FF]あ (a) - Une carte avec ce caractère d'un côté et sa prononciation/l'image correspondante de l'autre.[/color][/i]
 
 - Pratiquez l'écriture pour renforcer la mémorisation des formes.
-[i]Exemple : [color=#0000FF]毎日5回ずつ書く。[font_size=18pt](Mainichi 5-kai zutsu kaku.)[/font_size][/color] [color=#008000](Écrire chaque caractère 5 fois par jour.)[/color][/i]
+[i]Exemple : [color=#0000FF]毎日5回ずつ書く。[font_size=18](Mainichi 5-kai zutsu kaku.)[/font_size][/color] [color=#008000](Écrire chaque caractère 5 fois par jour.)[/color][/i]
 
 - Utilisez des applications et des jeux pour rendre l'apprentissage amusant.
 [i]Exemple : [color=#0000FF]Essayez des applications dédiées à la pratique des Hiragana comme "Anki" ou "LingoDeer".[/color][/i][/indent]

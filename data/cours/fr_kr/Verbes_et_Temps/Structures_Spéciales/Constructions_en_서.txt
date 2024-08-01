@@ -25,17 +25,17 @@ Ajoutez "서" à la racine du verbe. Par exemple :
 [/code][/indent]
 
 [b][i]Exemples :[/i][/b]
-[indent][i][color=#0000FF]나는 학교에 가서 공부해요.[font_size=18pt](naneun hakgyoe gaseo gongbuhaeyo.)[/font_size][/color] [color=#008000](Je vais à l'école et ensuite j'étudie.)[/color][/i][/indent]
+[indent][i][color=#0000FF]나는 학교에 가서 공부해요.[font_size=18](naneun hakgyoe gaseo gongbuhaeyo.)[/font_size][/color] [color=#008000](Je vais à l'école et ensuite j'étudie.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des constructions en "서"[/color][/font_size]
 
 Les constructions en "서" (seo) s'utilisent pour exprimer la séquence d'actions ou la cause et l'effet. Voici quelques règles et exemples pour bien les utiliser :
 
 [indent]• [b]Séquence d'actions :[/b] Utilisez "서" pour indiquer des actions qui se déroulent les unes après les autres.
-[i]Exemple : [color=#0000FF]저는 아침을 먹어서 학교에 가요.[font_size=18pt](jeoneun achimeul meogeoseo hakgyoe gayo.)[/font_size][/color] [color=#008000](Je prends le petit-déjeuner et ensuite je vais à l'école.)[/color][/i]
+[i]Exemple : [color=#0000FF]저는 아침을 먹어서 학교에 가요.[font_size=18](jeoneun achimeul meogeoseo hakgyoe gayo.)[/font_size][/color] [color=#008000](Je prends le petit-déjeuner et ensuite je vais à l'école.)[/color][/i]
 
 - [b]Cause et effet :[/b] Utilisez "서" pour montrer que la première action cause la deuxième.
-[i]Exemple : [color=#0000FF]비가 와서 집에 있었어요.[font_size=18pt](biga waseo jibe isseosseoyo.)[/font_size][/color] [color=#008000](Il a plu, donc je suis resté à la maison.)[/color][/i]
+[i]Exemple : [color=#0000FF]비가 와서 집에 있었어요.[font_size=18](biga waseo jibe isseosseoyo.)[/font_size][/color] [color=#008000](Il a plu, donc je suis resté à la maison.)[/color][/i]
 
 - [b]Constructions courantes :[/b] Voici quelques constructions fréquentes avec "서" :
 [indent]
@@ -51,10 +51,10 @@ Les constructions en "서" (seo) s'utilisent pour exprimer la séquence d'action
 Vous pouvez insérer des compléments entre les verbes pour ajouter plus d'informations contextuelles, comme le lieu, la manière, ou le but de l'action.
 
 [indent]• [b]Ajouter un lieu :[/b]
-[i]Exemple : [color=#0000FF]그는 집에 가서 쉬었어요.[font_size=18pt](geuneun jibe gaseo swieosseoyo.)[/font_size][/color] [color=#008000](Il est allé à la maison et ensuite il s'est reposé.)[/color][/i]
+[i]Exemple : [color=#0000FF]그는 집에 가서 쉬었어요.[font_size=18](geuneun jibe gaseo swieosseoyo.)[/font_size][/color] [color=#008000](Il est allé à la maison et ensuite il s'est reposé.)[/color][/i]
 
 - [b]Ajouter un complément de manière :[/b]
-[i]Exemple : [color=#0000FF]아침을 빨리 먹어서 지각 안 했어요.[font_size=18pt](achimeul ppalli meogeoseo jigak an haesseoyo.)[/font_size][/color] [color=#008000](J'ai rapidement pris le petit-déjeuner, donc je ne suis pas arrivé en retard.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]아침을 빨리 먹어서 지각 안 했어요.[font_size=18](achimeul ppalli meogeoseo jigak an haesseoyo.)[/font_size][/color] [color=#008000](J'ai rapidement pris le petit-déjeuner, donc je ne suis pas arrivé en retard.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

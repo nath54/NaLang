@@ -12,43 +12,43 @@ Pour former l'aspect habituel en japonais, on utilise la forme en て (te) du ve
 [indent]Les verbes d'action décrivent des activités ou des mouvements.
 
 [code]
-食べる (taberu) [color=#008000](manger) -> 食べている (tabete iru) [color=#008000](être en train de manger)[/color]
-読む (yomu) [color=#008000](lire) -> 読んでいる (yonde iru) [color=#008000](être en train de lire)[/color]
-書く (kaku) [color=#008000](écrire) -> 書いている (kaite iru) [color=#008000](être en train d'écrire)[/color]
+食べる (taberu) [color=#008000](manger) -> 食べている (tabete iru)[/color] [color=#008000](être en train de manger)[/color]
+読む (yomu) [color=#008000](lire) -> 読んでいる (yonde iru)[/color] [color=#008000](être en train de lire)[/color]
+書く (kaku) [color=#008000](écrire) -> 書いている (kaite iru)[/color] [color=#008000](être en train d'écrire)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は本を読んでいる。[font_size=18pt](Kare wa hon o yonde iru.)[/font_size][/color] [color=#008000](Il est en train de lire un livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は本を読んでいる。[font_size=18](Kare wa hon o yonde iru.)[/font_size][/color] [color=#008000](Il est en train de lire un livre.)[/color][/i][/indent]
 
 [b]b) Verbes d'état[/b]
 [indent]Les verbes d'état décrivent des conditions ou des états.
 
 [code]
-いる (iru) [color=#008000](être présent) -> いている (ite iru) [color=#008000](être présent (habituellement))[/color]
-ある (aru) [color=#008000](avoir/exister) -> あっている (atte iru) [color=#008000](exister (habituellement))[/color]
-知っている (shitte iru) [color=#008000](savoir) -> 知っている (shitte iru) [color=#008000](savoir)[/color]
+いる (iru) [color=#008000](être présent) -> いている (ite iru)[/color] [color=#008000](être présent (habituellement))[/color]
+ある (aru) [color=#008000](avoir/exister) -> あっている (atte iru)[/color] [color=#008000](exister (habituellement))[/color]
+知っている (shitte iru) [color=#008000](savoir) -> 知っている (shitte iru)[/color] [color=#008000](savoir)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は東京に住んでいる。[font_size=18pt](Kare wa Tōkyō ni sunde iru.)[/font_size][/color] [color=#008000](Il vit à Tokyo.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は東京に住んでいる。[font_size=18](Kare wa Tōkyō ni sunde iru.)[/font_size][/color] [color=#008000](Il vit à Tokyo.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de ている pour des actions habituelles[/color][/font_size]
 
 La forme ている (te iru) peut également être utilisée pour décrire des actions habituelles ou répétitives. Voici comment :
 
 [indent]• Action répétitive ou habituelle
-[i]Exemple : [color=#0000FF]毎朝、ジョギングをしている。[font_size=18pt](Maiasa, jogingu o shite iru.)[/font_size][/color] [color=#008000](Je fais du jogging tous les matins.)[/color][/i]
+[i]Exemple : [color=#0000FF]毎朝、ジョギングをしている。[font_size=18](Maiasa, jogingu o shite iru.)[/font_size][/color] [color=#008000](Je fais du jogging tous les matins.)[/color][/i]
 
 - Habitudes ou routines
-[i]Exemple : [color=#0000FF]彼は毎日コーヒーを飲んでいる。[font_size=18pt](Kare wa mainichi kōhī o nonde iru.)[/font_size][/color] [color=#008000](Il boit du café tous les jours.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は毎日コーヒーを飲んでいる。[font_size=18](Kare wa mainichi kōhī o nonde iru.)[/font_size][/color] [color=#008000](Il boit du café tous les jours.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Autres usages de ている[/color][/font_size]
 
 En plus de décrire des actions en cours et des habitudes, la forme ている (te iru) peut également indiquer des résultats d'actions passées qui persistent dans le présent.
 
 [indent]• Résultat d'une action passée
-[i]Exemple : [color=#0000FF]窓が開いている。[font_size=18pt](Mado ga aite iru.)[/font_size][/color] [color=#008000](La fenêtre est ouverte.)[/color][/i]
+[i]Exemple : [color=#0000FF]窓が開いている。[font_size=18](Mado ga aite iru.)[/font_size][/color] [color=#008000](La fenêtre est ouverte.)[/color][/i]
 
 - Actions qui demandent du temps
-[i]Exemple : [color=#0000FF]彼は日本語を勉強している。[font_size=18pt](Kare wa Nihongo o benkyō shite iru.)[/font_size][/color] [color=#008000](Il étudie le japonais.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は日本語を勉強している。[font_size=18](Kare wa Nihongo o benkyō shite iru.)[/font_size][/color] [color=#008000](Il étudie le japonais.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 
@@ -59,4 +59,4 @@ En plus de décrire des actions en cours et des habitudes, la forme ている (t
 [color=#FF0000]3.[/color] Sachez distinguer entre les verbes d'action et les verbes d'état pour une utilisation correcte.
 [color=#FF0000]4.[/color] Le contexte est crucial pour comprendre si ている (te iru) indique une action en cours ou une habitude.[/indent]
 
-[center][font_size=18][color=#808080]適切に ている (te iru) を使って、日本語の表現力を向上させましょう！(tekisetsu ni te iru o tsukatte, nihongo no hyōgenryoku o kōjō sasemashō!)[/font_size][/color][/center]
+[center][font_size=18][color=#808080]適切に ている (te iru) を使って、日本語の表現力を向上させましょう！(tekisetsu ni te iru o tsukatte, nihongo no hyōgenryoku o kōjō sasemashō!)[/color][/font_size][/center]

@@ -28,30 +28,30 @@ play - playing (jouer - jouant)
 read - reading (lire - lisant)
 [/code][/indent]
 
-[i]Exemple : [color=#0000FF]I am speaking English.[font_size=18pt] (Je parle anglais en ce moment.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]I am speaking English.[font_size=18] (Je parle anglais en ce moment.)[/font_size][/color][/i]
 
 [font_size=24][color=#4B0082]2. Utilisation du Present Continuous[/color][/font_size]
 
 Le Present Continuous s'utilise dans plusieurs contextes. Voici quelques règles et exemples pour vous aider à bien l'utiliser.
 
 [indent]• Pour décrire une action en cours au moment où l'on parle.
-[i]Exemple : [color=#0000FF]She is eating.[font_size=18pt] (Elle est en train de manger.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]She is eating.[font_size=18] (Elle est en train de manger.)[/font_size][/color][/i]
 
 - Pour parler de plans ou arrangements futurs proches.
-[i]Exemple : [color=#0000FF]We are meeting at 5 PM.[font_size=18pt] (Nous nous rencontrons à 17h.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]We are meeting at 5 PM.[font_size=18] (Nous nous rencontrons à 17h.)[/font_size][/color][/i]
 
 - Pour décrire des actions temporaires.
-[i]Exemple : [color=#0000FF]I am living in London this month.[font_size=18pt](Je vis à Londres ce mois-ci.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]I am living in London this month.[font_size=18](Je vis à Londres ce mois-ci.)[/font_size][/color][/i]
 
 - Pour indiquer des actions répétitives ou ennuyeuses souvent avec un adverbe comme "always" (toujours).
-[i]Exemple : [color=#0000FF]He is always complaining.[font_size=18pt] (Il se plaint toujours.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He is always complaining.[font_size=18] (Il se plaint toujours.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Il est important de noter certaines exceptions et nuances quand on utilise le Present Continuous.
 
 [indent]• Certains verbes ne sont généralement pas utilisés au Present Continuous, notamment les verbes de perception, de possession, et d'état comme : know (savoir), like (aimer), belong (appartenir).
-[i]Exemple : [color=#0000FF]I know the answer.[font_size=18pt] (Je connais la réponse.)[/font_size][/color] et non [color=#FF0000]I am knowing the answer.[/color][/i]
+[i]Exemple : [color=#0000FF]I know the answer.[font_size=18] (Je connais la réponse.)[/font_size][/color] et non [color=#FF0000]I am knowing the answer.[/color][/i]
 
 - Ajout de "-ing" à des verbes se terminant par "e" : on enlève le "e" avant d'ajouter "-ing".
 [i]Exemple : write (écrire) devient writing (en train d'écrire)[/i]

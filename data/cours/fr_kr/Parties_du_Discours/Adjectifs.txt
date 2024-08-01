@@ -20,7 +20,7 @@ En coréen, les adjectifs sont souvent appelés "verbes descriptifs" car ils peu
 슬프다 (seulpeuda) [color=#008000](être triste)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그 여자는 예쁘다.[font_size=18pt](Geu yeojaneun yeppeuda.)[/font_size][/color] [color=#008000](Cette femme est jolie.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그 여자는 예쁘다.[font_size=18](Geu yeojaneun yeppeuda.)[/font_size][/color] [color=#008000](Cette femme est jolie.)[/color][/i][/indent]
 
 [b]b) Forme de conjugaison des adjectifs[/b]
 [indent]Lorsque les adjectifs sont utilisés pour décrire un nom directement sans verbe, ils doivent être conjugués. Par exemple :
@@ -30,17 +30,17 @@ En coréen, les adjectifs sont souvent appelés "verbes descriptifs" car ils peu
 예쁜 꽃 (yeppeun kkot) [color=#008000](une jolie fleur)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]큰 나무가 있다.[font_size=18pt](Keun namu-ga itda.)[/font_size][/color] [color=#008000](Il y a un grand arbre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]큰 나무가 있다.[font_size=18](Keun namu-ga itda.)[/font_size][/color] [color=#008000](Il y a un grand arbre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des adjectifs en phrase[/color][/font_size]
 
 Les adjectifs peuvent être utilisés comme prédicats en fin de phrase ou pour modifier des noms. Voici quelques règles et exemples pour leur utilisation :
 
 [indent]• Utilisation comme prédicat
-[i]Exemple : [color=#0000FF]이 음식이 맛있다.[font_size=18pt](I eumsik-i masitda.)[/font_size][/color] [color=#008000](Cette nourriture est délicieuse.)[/color][/i]
+[i]Exemple : [color=#0000FF]이 음식이 맛있다.[font_size=18](I eumsik-i masitda.)[/font_size][/color] [color=#008000](Cette nourriture est délicieuse.)[/color][/i]
 
 - Utilisation pour modifier un nom
-[i]Exemple : [color=#0000FF]나는 작은 고양이를 좋아한다.[font_size=18pt](Naneun jageun goyang-ireul joahanda.)[/font_size][/color] [color=#008000](J'aime les petits chats.)[/color][/i]
+[i]Exemple : [color=#0000FF]나는 작은 고양이를 좋아한다.[font_size=18](Naneun jageun goyang-ireul joahanda.)[/font_size][/color] [color=#008000](J'aime les petits chats.)[/color][/i]
 
 - Conjugaison au passé et au futur
 [code]
@@ -48,7 +48,7 @@ Les adjectifs peuvent être utilisés comme prédicats en fin de phrase ou pour 
 그는 행복할 것이다 (geuneun haengbokhal geos-ida) [color=#008000](Il sera heureux.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]어제 음식이 맛있었다.[font_size=18pt](Eoje eumsik-i masiseotda.)[/font_size][/color] [color=#008000](La nourriture était délicieuse hier.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]어제 음식이 맛있었다.[font_size=18](Eoje eumsik-i masiseotda.)[/font_size][/color] [color=#008000](La nourriture était délicieuse hier.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
@@ -60,14 +60,14 @@ Les adjectifs peuvent également être utilizzé pour exprimer des comparaisons,
 덜 비싸다 (deol bissada) [color=#008000](être moins cher)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]이 책이 저 책보다 더 두껍다.[font_size=18pt](I chaeki jeo chaekboda deo dukkeopda.)[/font_size][/color] [color=#008000](Ce livre est plus épais que cet autre livre.)[/color][/i]
+[i]Exemple : [color=#0000FF]이 책이 저 책보다 더 두껍다.[font_size=18](I chaeki jeo chaekboda deo dukkeopda.)[/font_size][/color] [color=#008000](Ce livre est plus épais que cet autre livre.)[/color][/i]
 
 - Superlatif
 [code]
 가장 아름답다 (gajang areumdabda) [color=#008000](être le plus beau)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그녀는 가장 아름답다.[font_size=18pt](Geunyeoneun gajang areumdabda.)[/font_size][/color] [color=#008000](Elle est la plus belle.)[/color][/i]
+[i]Exemple : [color=#0000FF]그녀는 가장 아름답다.[font_size=18](Geunyeoneun gajang areumdabda.)[/font_size][/color] [color=#008000](Elle est la plus belle.)[/color][/i]
 
 - Opposition
 [code]
@@ -75,7 +75,7 @@ Les adjectifs peuvent également être utilizzé pour exprimer des comparaisons,
 더 좋다 (deo jota) [color=#008000](être meilleur)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]이 것은 저 것보다 덜 맛있다.[font_size=18pt](I geoseun jeo geosboda deol masitda.)[/font_size][/color] [color=#008000](Ceci est moins délicieux que cela.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]이 것은 저 것보다 덜 맛있다.[font_size=18](I geoseun jeo geosboda deol masitda.)[/font_size][/color] [color=#008000](Ceci est moins délicieux que cela.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

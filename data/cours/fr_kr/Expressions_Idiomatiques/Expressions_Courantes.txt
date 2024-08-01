@@ -56,7 +56,7 @@ Ces expressions sont fréquemment utilisées dans les conversations courantes et
 괜찮아요? (gwaenchanayo?) [color=#008000](Ça va ?)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]네, 괜찮아요.[font_size=18pt](Ne, gwaenchanayo.)[/font_size][/color] [color=#008000](Oui, ça va.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]네, 괜찮아요.[font_size=18](Ne, gwaenchanayo.)[/font_size][/color] [color=#008000](Oui, ça va.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Expressions de Temps[/color][/font_size]
 

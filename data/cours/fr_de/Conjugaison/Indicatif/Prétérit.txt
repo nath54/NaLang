@@ -21,7 +21,7 @@ ihr machtet [color=#008000](vous faisiez)[/color]
 sie/Sie machten [color=#008000](ils/elles faisaient; vous faisiez - formel)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich machte meine Hausaufgaben.[font_size=18pt] (Je faisais mes devoirs.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich machte meine Hausaufgaben.[font_size=18] (Je faisais mes devoirs.)[/font_size][/color][/i][/indent]
 
 [b]b) Verbes forts[/b]
 [indent]Les verbes forts changent leur voyelle radicale au prétérit et utilisent des terminaisons spécifiques différentes de celles des verbes faibles.
@@ -36,17 +36,17 @@ ihr gingt [color=#008000](vous alliez)[/color]
 sie/Sie gingen [color=#008000](ils/elles allaient; vous alliez - formel)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Er ging in den Park.[font_size=18pt] (Il allait au parc.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er ging in den Park.[font_size=18] (Il allait au parc.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du prétérit[/color][/font_size]
 
 Le prétérit est principalement utilisé dans les écrits formels, les narrations, et les descriptions d'événements passés. Il est couramment trouvé dans les livres, les journaux et les histoires.
 
 [indent]• Il est souvent utilisé avec des expressions de temps:
-[i]Exemple : [color=#0000FF]Letztes Jahr besuchten wir Berlin.[font_size=18pt] (L'année dernière, nous avons visité Berlin.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Letztes Jahr besuchten wir Berlin.[font_size=18] (L'année dernière, nous avons visité Berlin.)[/font_size][/color][/i]
 
 - Dans les contes et récits :
-[i]Exemple : [color=#0000FF]Es war einmal ein König.[font_size=18pt] (Il était une fois un roi.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Es war einmal ein König.[font_size=18] (Il était une fois un roi.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Quelques verbes irréguliers courants[/color][/font_size]
 
@@ -61,8 +61,8 @@ sehen (voir) : ich sah [color=#008000](je voyais)[/color]
 [/code]
 
 [i]Exemples : 
-[color=#0000FF]Ich war gestern müde.[font_size=18pt] (J'étais fatigué hier.)[/font_size][/color]
-[color=#0000FF]Wir hatten viel Spaß.[font_size=18pt] (Nous avons eu beaucoup de plaisir.)[/font_size][/color][/i]
+[color=#0000FF]Ich war gestern müde.[font_size=18] (J'étais fatigué hier.)[/font_size][/color]
+[color=#0000FF]Wir hatten viel Spaß.[font_size=18] (Nous avons eu beaucoup de plaisir.)[/font_size][/color][/i]
 
 [center][color=#808080]__________[/color][/center]
 

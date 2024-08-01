@@ -16,7 +16,7 @@ groß (grand) -> größer (plus grand)
 stark (fort) -> stärker (plus fort)
 [/code][/indent][/indent]
 
-[i]Exemple : [color=#0000FF]Er ist schneller als ich.[font_size=18pt] (Il est plus rapide que moi.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Er ist schneller als ich.[font_size=18] (Il est plus rapide que moi.)[/font_size][/color][/i]
 
 [font_size=24][color=#4B0082]2. Utilisation de "als" dans les comparatifs[/color][/font_size]
 
@@ -24,7 +24,7 @@ Le mot [color=#800080]als[/color] est utilisé pour exprimer la différence comp
 
 [indent][b]Structure de la phrase comparative :[/b] [indent]Sujet + verbe + adjectif-comparatif + als + élément comparé[/indent]
 
-[i]Exemple : [color=#0000FF]Dieses Buch ist interessanter als das andere.[font_size=18pt] (Ce livre est plus intéressant que l'autre.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Dieses Buch ist interessanter als das andere.[font_size=18] (Ce livre est plus intéressant que l'autre.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Comparatifs irréguliers[/color][/font_size]
 
@@ -38,7 +38,7 @@ hoch (haut) -> höher (plus haut)
 nah (proche) -> näher (plus proche)
 [/code][/indent]
 
-[i]Exemple : [color=#0000FF]Er spricht besser Deutsch als ich.[font_size=18pt] (Il parle mieux allemand que moi.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Er spricht besser Deutsch als ich.[font_size=18] (Il parle mieux allemand que moi.)[/font_size][/color][/i]
 
 [font_size=24][color=#4B0082]4. Précisions supplémentaires[/color][/font_size]
 
@@ -50,7 +50,7 @@ teuer (cher) -> teurer (plus cher)
 edel (noble) -> edler (plus noble)
 [/code][/indent]
 
-[i]Exemple : [color=#0000FF]Dieses Auto ist teurer als das andere.[font_size=18pt] (Cette voiture est plus chère que l'autre.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Dieses Auto ist teurer als das andere.[font_size=18] (Cette voiture est plus chère que l'autre.)[/font_size][/color][/i]
 
 [center][color=#808080]__________[/color][/center]
 

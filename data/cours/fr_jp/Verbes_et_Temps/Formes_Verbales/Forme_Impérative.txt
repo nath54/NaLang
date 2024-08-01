@@ -11,23 +11,23 @@ La forme impérative informelle est souvent utilisée entre amis proches, au sei
 [b]a) Verbes du groupe 1 (godan dōshi)[/b]
 [indent]Pour les verbes du groupe 1, changez la terminaison du verbe en "-e". Par exemple :
 [code]
-書く (kaku) [color=#008000](écrire) → 書け (kake) [color=#008000](écris !)[/color]
-読む (yomu) [color=#008000](lire) → 読め (yome) [color=#008000](lis !)[/color]
-話す (hanasu) [color=#008000](parler) → 話せ (hanase) [color=#008000](parle !)[/color]
+書く (kaku) [color=#008000](écrire) → 書け (kake)[/color] [color=#008000](écris !)[/color]
+読む (yomu) [color=#008000](lire) → 読め (yome)[/color] [color=#008000](lis !)[/color]
+話す (hanasu) [color=#008000](parler) → 話せ (hanase)[/color] [color=#008000](parle !)[/color]
 [/code][/indent]
 
 [b]b) Verbes du groupe 2 (ichidan dōshi)[/b]
 [indent]Pour les verbes du groupe 2, remplacez la terminaison "-ru" par "-ro". Par exemple :
 [code]
-食べる (taberu) [color=#008000](manger) → 食べろ (tabero) [color=#008000](mange !)[/color]
-見る (miru) [color=#008000](voir) → 見ろ (miro) [color=#008000](regarde !)[/color]
+食べる (taberu) [color=#008000](manger) → 食べろ (tabero)[/color] [color=#008000](mange !)[/color]
+見る (miru) [color=#008000](voir) → 見ろ (miro)[/color] [color=#008000](regarde !)[/color]
 [/code][/indent]
 
 [b]c) Verbes irréguliers (fukisoku dōshi)[/b]
 [indent]Les verbes irréguliers suivent des règles spécifiques pour former l'impératif :
 [code]
-する (suru) [color=#008000](faire) → しろ (shiro) [color=#008000](fais !)[/color]
-来る (kuru) [color=#008000](venir) → 来い (koi) [color=#008000](viens !)[/color]
+する (suru) [color=#008000](faire) → しろ (shiro)[/color] [color=#008000](fais !)[/color]
+来る (kuru) [color=#008000](venir) → 来い (koi)[/color] [color=#008000](viens !)[/color]
 [/code][/indent]
 
 [font_size=24][color=#4B0082]2. Forme impérative polie[/color][/font_size]
@@ -37,11 +37,11 @@ Pour donner des directives de manière respectueuse ou formelle, on utilise des 
 [b]a) Verbes avec てください (te kudasai)[/b]
 [indent]Cette forme est très polie et utilisée pour faire des demandes. Cette structure est formée comme suit :
 [code]
-書く (kaku) [color=#008000](écrire) → 書いてください (kaite kudasai) [color=#008000](s'il vous plaît, écrivez !)[/color]
-読む (yomu) [color=#008000](lire) → 読んでください (yonde kudasai) [color=#008000](s'il vous plaît, lisez !)[/color]
-食べる (taberu) [color=#008000](manger) → 食べてください (tabete kudasai) [color=#008000](s'il vous plaît, mangez !)[/color]
-する (suru) [color=#008000](faire) → してください (shite kudasai) [color=#008000](s'il vous plaît, faites !)[/color]
-来る (kuru) [color=#008000](venir) → 来てください (kite kudasai) [color=#008000](s'il vous plaît, venez !)[/color]
+書く (kaku) [color=#008000](écrire) → 書いてください (kaite kudasai)[/color] [color=#008000](s'il vous plaît, écrivez !)[/color]
+読む (yomu) [color=#008000](lire) → 読んでください (yonde kudasai)[/color] [color=#008000](s'il vous plaît, lisez !)[/color]
+食べる (taberu) [color=#008000](manger) → 食べてください (tabete kudasai)[/color] [color=#008000](s'il vous plaît, mangez !)[/color]
+する (suru) [color=#008000](faire) → してください (shite kudasai)[/color] [color=#008000](s'il vous plaît, faites !)[/color]
+来る (kuru) [color=#008000](venir) → 来てください (kite kudasai)[/color] [color=#008000](s'il vous plaît, venez !)[/color]
 [/code][/indent]
 
 [font_size=24][color=#4B0082]3. Forme impérative négative[/color][/font_size]
@@ -51,11 +51,11 @@ Il est également possible de former des impératifs négatifs pour interdire ou
 [b]a) Verbes avec な (na)[/b]
 [indent]Ajouter な (na) à la base du verbe en plaine forme pour former une interdiction :
 [code]
-書く (kaku) [color=#008000](écrire) → 書くな (kaku na) [color=#008000](n'écris pas !)[/color]
-読む (yomu) [color=#008000](lire) → 読むな (yomu na) [color=#008000](ne lis pas !)[/color]
-食べる (taberu) [color=#008000](manger) → 食べるな (taberu na) [color=#008000](ne mange pas !)[/color]
-する (suru) [color=#008000](faire) → するな (suru na) [color=#008000](ne fais pas !)[/color]
-来る (kuru) [color=#008000](venir) → 来るな (kuru na) [color=#008000](ne viens pas !)[/color]
+書く (kaku) [color=#008000](écrire) → 書くな (kaku na)[/color] [color=#008000](n'écris pas !)[/color]
+読む (yomu) [color=#008000](lire) → 読むな (yomu na)[/color] [color=#008000](ne lis pas !)[/color]
+食べる (taberu) [color=#008000](manger) → 食べるな (taberu na)[/color] [color=#008000](ne mange pas !)[/color]
+する (suru) [color=#008000](faire) → するな (suru na)[/color] [color=#008000](ne fais pas !)[/color]
+来る (kuru) [color=#008000](venir) → 来るな (kuru na)[/color] [color=#008000](ne viens pas !)[/color]
 [/code][/indent]
 
 [center][color=#808080]__________[/color][/center]

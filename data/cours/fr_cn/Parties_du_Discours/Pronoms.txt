@@ -16,7 +16,7 @@ Les pronoms personnels en chinois sont utilisés pour représenter les différen
 它 (tā) [color=#008000](il/elle, pour les objets ou les animaux)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我是学生。[font_size=18pt](Wǒ shì xuéshēng.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我是学生。[font_size=18](Wǒ shì xuéshēng.)[/font_size][/color] [color=#008000](Je suis étudiant.)[/color][/i][/indent]
 
 [b]b) Pronoms personnels pluriels[/b]
 [indent][code]
@@ -26,7 +26,7 @@ Les pronoms personnels en chinois sont utilisés pour représenter les différen
 它们 (tāmen) [color=#008000](ils/elles, pour les objets ou les animaux)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他们在学习。[font_size=18pt](Tāmen zài xuéxí.)[/font_size][/color] [color=#008000](Ils sont en train d'étudier.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他们在学习。[font_size=18](Tāmen zài xuéxí.)[/font_size][/color] [color=#008000](Ils sont en train d'étudier.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Pronoms démonstratifs[/color][/font_size]
 
@@ -36,9 +36,9 @@ Les pronoms démonstratifs en chinois sont utilisés pour indiquer des objets, d
 [indent][code]
 这 (zhè) [color=#008000](ce, cet, cette - proche)[/color]
 这儿 (zhèr) [color=#008000](ici)[/color]
-[/code]
+[/code][/indent]
 
-[i]Exemple : [color=#0000FF]这是我的书。[font_size=18pt](Zhè shì wǒ de shū.)[/font_size][/color] [color=#008000](C'est mon livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]这是我的书。[font_size=18](Zhè shì wǒ de shū.)[/font_size][/color] [color=#008000](C'est mon livre.)[/color][/i][/indent]
 
 [b]b) Éloigné de l'interlocuteur[/b]
 [indent][code]
@@ -46,7 +46,7 @@ Les pronoms démonstratifs en chinois sont utilisés pour indiquer des objets, d
 那儿 (nàr) [color=#008000](là-bas)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]那是他的学校。[font_size=18pt](Nà shì tā de xuéxiào.)[/font_size][/color] [color=#008000](C'est son école là-bas.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]那是他的学校。[font_size=18](Nà shì tā de xuéxiào.)[/font_size][/color] [color=#008000](C'est son école là-bas.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Pronoms interrogatifs[/color][/font_size]
 
@@ -60,8 +60,8 @@ Les pronoms interrogatifs sont utilisés pour poser des questions en chinois. Il
 多少 (duōshǎo) [color=#008000](combien)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]你是谁？[font_size=18pt](Nǐ shì shéi?) [/font_size][/color] [color=#008000](Qui es-tu ?)[/color][/i]
-[i]Exemple : [color=#0000FF]这是什么？[font_size=18pt](Zhè shì shénme?) [/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]你是谁？[font_size=18](Nǐ shì shéi?) [/font_size][/color] [color=#008000](Qui es-tu ?)[/color][/i]
+[i]Exemple : [color=#0000FF]这是什么？[font_size=18](Zhè shì shénme?) [/font_size][/color] [color=#008000](Qu'est-ce que c'est ?)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -36,17 +36,17 @@ Pour comprendre quand utiliser `は` (wa) ou `が` (ga), il est nécessaire de s
 
 [indent][b]a) Emphase et introduction[/b]
 [indent]• Utilisez `が` (ga) pour introduire ou identifier quelque chose de nouveau dans la conversation.
-[i]Exemple : [color=#0000FF]新しい先生が来ました。[font_size=18pt](Atarashii sensei ga kimashita.)[/font_size][/color] [color=#008000](Un nouveau professeur est arrivé.)[/color][/i]
+[i]Exemple : [color=#0000FF]新しい先生が来ました。[font_size=18](Atarashii sensei ga kimashita.)[/font_size][/color] [color=#008000](Un nouveau professeur est arrivé.)[/color][/i]
 
 • Utilisez `は` (wa) pour faire référence à quelque chose dont on a déjà parlé ou qui est déjà connu dans le contexte.
-[i]Exemple : [color=#0000FF]新しい先生は親切です。[font_size=18pt](Atarashii sensei wa shinsetsu desu.)[/font_size][/color] [color=#008000](Le nouveau professeur est gentil.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]新しい先生は親切です。[font_size=18](Atarashii sensei wa shinsetsu desu.)[/font_size][/color] [color=#008000](Le nouveau professeur est gentil.)[/color][/i][/indent]
 
 [b]b) Contraste et spécificité[/b]
 [indent]• `は` (wa) met souvent en contraste.
-[i]Exemple : [color=#0000FF]コーヒーは好きですが、紅茶は好きではありません。[font_size=18pt](Koohii wa suki desu ga, koucha wa suki de wa arimasen.)[/font_size][/color] [color=#008000](J'aime le café, mais je n'aime pas le thé.)[/color][/i]
+[i]Exemple : [color=#0000FF]コーヒーは好きですが、紅茶は好きではありません。[font_size=18](Koohii wa suki desu ga, koucha wa suki de wa arimasen.)[/font_size][/color] [color=#008000](J'aime le café, mais je n'aime pas le thé.)[/color][/i]
 
 • `が` (ga) est utilisé pour spécifier un sujet dans une phrase où plusieurs sujets pourraient être possibles.
-[i]Exemple : [color=#0000FF]この映画が一番好きです。[font_size=18pt](Kono eiga ga ichiban suki desu.)[/font_size][/color] [color=#008000](C'est ce film que je préfère.)[/color][/i][/indent][/indent]
+[i]Exemple : [color=#0000FF]この映画が一番好きです。[font_size=18](Kono eiga ga ichiban suki desu.)[/font_size][/color] [color=#008000](C'est ce film que je préfère.)[/color][/i][/indent][/indent]
 
 [font_size=24][color=#4B0082]4. Précisions supplémentaires[/color][/font_size]
 
@@ -54,11 +54,11 @@ Certaines structures et expressions spécifiques favorisent naturellement l'usag
 
 [indent][b]a) Sentiments et goûts[/b]
 [indent]Les sentiments, goûts et désirs utilisent généralement `が` (ga).
-[i]Exemple : [color=#0000FF]寿司が食べたい。[font_size=18pt](Sushi ga tabetai.)[/font_size][/color] [color=#008000](Je veux manger des sushis.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]寿司が食べたい。[font_size=18](Sushi ga tabetai.)[/font_size][/color] [color=#008000](Je veux manger des sushis.)[/color][/i][/indent]
 
 [b]b) Position et existence[/b]
 [indent]Pour parler de la présence ou de l'existence de quelque chose, `が` (ga) est souvent utilisé.
-[i]Exemple : [color=#0000FF]猫がいます。[font_size=18pt](Neko ga imasu.)[/font_size][/color] [color=#008000](Il y a un chat.)[/color][/i][/indent][/indent]
+[i]Exemple : [color=#0000FF]猫がいます。[font_size=18](Neko ga imasu.)[/font_size][/color] [color=#008000](Il y a un chat.)[/color][/i][/indent][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

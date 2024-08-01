@@ -26,7 +26,7 @@ Le Hangeul est l'alphabet du coréen. Il est constitué de 14 consonnes de base 
 ㅎ (h)
 [/code]
 
-[i]Exemple : [color=#0000FF]한국 (Hanguk)[font_size=18pt](Corée du Sud)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]한국 (Hanguk)[font_size=18](Corée du Sud)[/font_size][/color][/i][/indent]
 
 [b]b) Voyelles de base[/b]
 [indent][code]
@@ -42,14 +42,14 @@ Le Hangeul est l'alphabet du coréen. Il est constitué de 14 consonnes de base 
 ㅣ (i)
 [/code]
 
-[i]Exemple : [color=#0000FF]안녕 (annyeong)[font_size=18pt](salut)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]안녕 (annyeong)[font_size=18](salut)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Combinaison de lettres pour former des syllabes[/color][/font_size]
 
 Les lettres Hangeul se combinent pour former des syllabes. Une syllabe est structurée par une consonne initiale, une voyelle, et parfois une consonne finale.
 
 [indent]• Structure commune : [C + V] ou [C + V + C]
-[i]Exemple : [color=#0000FF]가 (ga)[font_size=18pt](aller)[/font_size], 집 (jib)[font_size=18pt](maison)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]가 (ga)[font_size=18](aller)[/font_size], 집 (jib)[font_size=18](maison)[/font_size][/color][/i][/indent]
 
 - Les consonnes et voyelles de base peuvent également se combiner pour créer des sons plus complexes.
 [indent][code]
@@ -59,17 +59,17 @@ Les lettres Hangeul se combinent pour former des syllabes. Une syllabe est struc
 ㅢ (ui)
 [/code]
 
-[i]Exemple : [color=#0000FF]사랑 (sarang)[font_size=18pt](amour)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]사랑 (sarang)[font_size=18](amour)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Système de transcription du Hangeul[/color][/font_size]
 
 Pour les débutants, il est essentiel de connaître le système de transcription romanisé du Hangeul. Cette transcription aide à lire correctement les mots coréens en utilisant l'alphabet latin.
 
 [indent]• Romanisation révisée
-[i]Exemple : [color=#0000FF]한글 (Hangeul)[font_size=18pt](alphabet coréen)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]한글 (Hangeul)[font_size=18](alphabet coréen)[/font_size][/color][/i][/indent]
 
 - Exercez-vous à lire le Hangeul et sa transcription pour améliorer votre compréhension et prononciation.
-[i]Exemple : [color=#0000FF]서울 (Seoul)[font_size=18pt](Séoul)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]서울 (Seoul)[font_size=18](Séoul)[/font_size][/color][/i]
 
 [font_size=24][color=#4B0082]4. Premiers mots et phrases à connaître[/color][/font_size]
 
@@ -82,7 +82,7 @@ Pour vous familiariser avec l'utilisation du Hangeul, voici quelques mots et phr
 죄송합니다 (joesonghamnida) [color=#008000](je suis désolé)[/color]
 [/code][/indent]
 
-[i]Exemple : [color=#0000FF]안녕하세요, 만나서 반갑습니다. [font_size=18pt](Annyeonghaseyo, mannaseo bangapseumnida.)[/font_size][/color] [color=#008000](Bonjour, ravi de vous rencontrer.)[/color][/i]
+[i]Exemple : [color=#0000FF]안녕하세요, 만나서 반갑습니다. [font_size=18](Annyeonghaseyo, mannaseo bangapseumnida.)[/font_size][/color] [color=#008000](Bonjour, ravi de vous rencontrer.)[/color][/i]
 
 [b]b) Questions de base[/b]
 [indent][code]
@@ -91,7 +91,7 @@ Pour vous familiariser avec l'utilisation du Hangeul, voici quelques mots et phr
 얼마에요? (eolmaeyo?) [color=#008000](Combien ça coûte?)[/color]
 [/code][/indent]
 
-[i]Exemple : [color=#0000FF]물은 얼마에요? [font_size=18pt](Mureun eolmaeyo?)[/font_size][/color] [color=#008000](Combien ça coûte pour l'eau?)[/color][/i]
+[i]Exemple : [color=#0000FF]물은 얼마에요? [font_size=18](Mureun eolmaeyo?)[/font_size][/color] [color=#008000](Combien ça coûte pour l'eau?)[/color][/i]
 
 [center][color=#808080]__________[/color][/center]
 

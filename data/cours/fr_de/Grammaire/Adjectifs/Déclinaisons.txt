@@ -73,20 +73,20 @@ En allemand, les déclinaisons des adjectifs varient en fonction de trois critè
 Pour utiliser correctement les déclinaisons des adjectifs en allemand, il est important de connaître le genre, le nombre et le cas du nom auquel l'adjectif se réfère. Voici quelques exemples pour illustrer :
 
 [indent]• Avec un déterminant défini :
-[i]Exemple : [color=#0000FF]Der große Hund spielt im Garten.[font_size=18pt](Der große Hund spielt im Garten.)[/font_size][/color] [color=#008000](Le grand chien joue dans le jardin.)[/color][/i]
+[i]Exemple : [color=#0000FF]Der große Hund spielt im Garten.[font_size=18](Der große Hund spielt im Garten.)[/font_size][/color] [color=#008000](Le grand chien joue dans le jardin.)[/color][/i]
 
 - Avec un déterminant indéfini :
-[i]Exemple : [color=#0000FF]Ein großer Hund spielt im Garten.[font_size=18pt](Ein großer Hund spielt im Garten.)[/font_size][/color] [color=#008000](Un grand chien joue dans le jardin.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ein großer Hund spielt im Garten.[font_size=18](Ein großer Hund spielt im Garten.)[/font_size][/color] [color=#008000](Un grand chien joue dans le jardin.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Cas particuliers et précisions[/color][/font_size]
 
 Il existe quelques cas particuliers et nuances à prendre en compte lors de la déclinaison des adjectifs.
 
 [indent]• Après les possessifs, les adjectifs se déclinent de la même façon qu'après les déterminants indéfinis.
-[i]Exemple : [color=#0000FF]Mein großer Hund ist alt.[font_size=18pt](Mein großer Hund ist alt.)[/font_size][/color] [color=#008000](Mon grand chien est vieux.)[/color][/i]
+[i]Exemple : [color=#0000FF]Mein großer Hund ist alt.[font_size=18](Mein großer Hund ist alt.)[/font_size][/color] [color=#008000](Mon grand chien est vieux.)[/color][/i]
 
 - Dans certains contextes, les adjectifs peuvent également se décliner sans déterminant.
-[i]Exemple : [color=#0000FF]Großer Hund spielt im Garten.[font_size=18pt](Großer Hund spielt im Garten.)[/font_size][/color] [color=#008000](Grand chien joue dans le jardin.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Großer Hund spielt im Garten.[font_size=18](Großer Hund spielt im Garten.)[/font_size][/color] [color=#008000](Grand chien joue dans le jardin.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

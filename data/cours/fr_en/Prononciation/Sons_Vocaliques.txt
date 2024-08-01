@@ -20,7 +20,7 @@ Les sons vocaliques simples, ou voyelles pures, sont les sons produits par une s
 ə [i](comme dans "the" - le, la, les)[/i]
 [/code]
 
-[i]Exemple : [color=#0000FF]The cat sat on the bed.[font_size=18pt]([ðə kæt sæt ɒn ðə bɛd].)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]The cat sat on the bed.[font_size=18]([ðə kæt sæt ɒn ðə bɛd].)[/font_size][/color][/i][/indent]
 
 [b]b) Les voyelles longues[/b]
 [indent]Les voyelles longues sont tenues plus longtemps que les voyelles courtes.
@@ -33,7 +33,7 @@ uː [i](comme dans "boot" - botte)[/i]
 ɑː [i](comme dans "car" - voiture)[/i]
 [/code]
 
-[i]Exemple : [color=#0000FF]She sees the moon.[font_size=18pt]([ʃiː siːz ðə muːn].)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She sees the moon.[font_size=18]([ʃiː siːz ðə muːn].)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Diphtongues[/color][/font_size]
 
@@ -49,20 +49,20 @@ aʊ [i](comme dans "now" - maintenant)[/i]
 eə [i](comme dans "air" - air)[/i]
 ʊə [i](comme dans "tour" - tour)[/i]
 
-[i]Exemple : [color=#0000FF]The boy is playing in the air.[font_size=18pt]( [ðə bɔɪ ɪz ˈpleɪɪŋ ɪn ðə eə].)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]The boy is playing in the air.[font_size=18]( [ðə bɔɪ ɪz ˈpleɪɪŋ ɪn ðə eə].)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisation des sons vocaliques en contextes[/color][/font_size]
 
 Il est important de connaître comment les sons vocaliques fonctionnent dans des contextes de mots et de phrases pour améliorer votre fluidité.
 
 [indent]• Les voyelles changent souvent de son en fonction de leur position dans le mot et du stress de la syllabe.
-[i]Exemple : [color=#0000FF]Present - to present.[font_size=18pt]( ˈprɛzənt - prɪˈzɛnt).[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Present - to present.[font_size=18]( ˈprɛzənt - prɪˈzɛnt).[/font_size][/color][/i]
 
 - Certaines voyelles peuvent être réduites à des schwas ([ə]) dans des syllabes non accentuées.
-[i]Exemple : [color=#0000FF]About.[font_size=18pt]( əˈbaʊt).[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]About.[font_size=18]( əˈbaʊt).[/font_size][/color][/i]
 
 - Pratiquez avec des phrases et des textes pour vous habituer aux différents sons vocaliques.
-[i]Exemple : [color=#0000FF]She sells sea shells by the sea shore.[font_size=18pt]( [ʃi sɛlz si ʃɛlz baɪ ðə si ʃɔːr]).[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She sells sea shells by the sea shore.[font_size=18]( [ʃi sɛlz si ʃɛlz baɪ ðə si ʃɔːr]).[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

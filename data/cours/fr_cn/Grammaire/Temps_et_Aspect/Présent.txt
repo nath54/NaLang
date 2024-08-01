@@ -52,7 +52,7 @@ Pour transformer une phrase affirmative en phrase négative ou interrogative, on
 
 [code]
 [color=#0000FF]我不看书。[/color] (wǒ bù kàn shū) [color=#008000](Je ne lis pas de livre.)[/color]
-[/code]
+[/code][/indent]
 
 [b]b) Forme interrogative[/b]
 [indent]Pour poser une question, on utilise la particule "吗" (ma) à la fin de la phrase, ou bien on utilise la forme affirmative-négative

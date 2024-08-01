@@ -42,26 +42,26 @@ Voici les principales particules de cas que vous rencontrerez en japonais :
 L'utilisation correcte des particules de cas est essentielle pour la clarté et la précision des phrases japonaises. Voici quelques règles et exemples pour vous aider :
 
 [indent]• Pour indiquer le sujet de la phrase, utilisez [color=#FF0000]が[/color] (ga).
-[i]Exemple : 彼が来ます。[font_size=18pt](kare ga kimasu)[/font_size] [color=#008000](Il vient.)[/color][/i]
+[i]Exemple : 彼が来ます。[font_size=18](kare ga kimasu)[/font_size] [color=#008000](Il vient.)[/color][/i]
 
 - Pour indiquer l'objet direct de l'action, utilisez [color=#FF0000]を[/color] (wo).
-[i]Exemple : 映画を見ます。[font_size=18pt](eiga o mimasu)[/font_size] [color=#008000](Je regarde un film.)[/color][/i]
+[i]Exemple : 映画を見ます。[font_size=18](eiga o mimasu)[/font_size] [color=#008000](Je regarde un film.)[/color][/i]
 
 - Pour indiquer la destination, le lieu, ou le moment, utilisez [color=#FF0000]に[/color] (ni).
-[i]Exemple : 公園に行きます。[font_size=18pt](kōen ni ikimasu)[/font_size] [color=#008000](Je vais au parc.)[/color][/i]
+[i]Exemple : 公園に行きます。[font_size=18](kōen ni ikimasu)[/font_size] [color=#008000](Je vais au parc.)[/color][/i]
 
 - Pour indiquer le lieu de l'action ou le moyen, utilisez [color=#FF0000]で[/color] (de).
-[i]Exemple : 家でテレビを見ます。[font_size=18pt](ie de terebi o mimasu)[/font_size] [color=#008000](Je regarde la télévision à la maison.)[/color][/i][/indent]
+[i]Exemple : 家でテレビを見ます。[font_size=18](ie de terebi o mimasu)[/font_size] [color=#008000](Je regarde la télévision à la maison.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Les particules peuvent parfois être utilisées ensemble dans une phrase pour indiquer des relations plus complexes entre les éléments.
 
 [indent]• Combinées pour indiquer des actions plus complexes :
-[i]Exemple : 友達と公園で遊びます。[font_size=18pt](tomodachi to kōen de asobimasu)[/font_size] [color=#008000](Je joue avec mes amis au parc.)[/color][/i]
+[i]Exemple : 友達と公園で遊びます。[font_size=18](tomodachi to kōen de asobimasu)[/font_size] [color=#008000](Je joue avec mes amis au parc.)[/color][/i]
 
 - Pour exprimer un temps précis et un lieu :
-[i]Exemple : 明日、学校に行きます。[font_size=18pt](ashita, gakkō ni ikimasu)[/font_size] [color=#008000](Je vais à l'école demain.)[/color][/i][/indent]
+[i]Exemple : 明日、学校に行きます。[font_size=18](ashita, gakkō ni ikimasu)[/font_size] [color=#008000](Je vais à l'école demain.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

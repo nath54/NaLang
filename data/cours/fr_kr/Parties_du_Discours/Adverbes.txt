@@ -22,7 +22,7 @@ Les adverbes peuvent être classés en plusieurs catégories selon leur fonction
 벌써 (beolsseo) [color=#008000](déjà)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]저는 지금 공부하고 있어요.[font_size=18pt](Jeoneun jigeum gongbuhago isseoyo.)[/font_size][/color] [color=#008000](Je suis en train d'étudier maintenant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]저는 지금 공부하고 있어요.[font_size=18](Jeoneun jigeum gongbuhago isseoyo.)[/font_size][/color] [color=#008000](Je suis en train d'étudier maintenant.)[/color][/i][/indent]
 
 [b]b) Adverbes de Lieu[/b]
 [indent]Les adverbes de lieu nous indiquent où une action a lieu.
@@ -37,7 +37,7 @@ Les adverbes peuvent être classés en plusieurs catégories selon leur fonction
 사이에 (saie) [color=#008000](entre)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]책은 책상 위에 있어요.[font_size=18pt](Chaekeun chaeksang wie isseoyo.)[/font_size][/color] [color=#008000](Le livre est sur la table.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]책은 책상 위에 있어요.[font_size=18](Chaekeun chaeksang wie isseoyo.)[/font_size][/color] [color=#008000](Le livre est sur la table.)[/color][/i][/indent]
 
 [b]c) Adverbes de Manière[/b]
 [indent]Les adverbes de manière nous indiquent comment une action est réalisée.
@@ -50,7 +50,7 @@ Les adverbes peuvent être classés en plusieurs catégories selon leur fonction
 못 (mot) [color=#008000](mal)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그는 빨리 달려요.[font_size=18pt](Geuneun ppalli dallyeoyo.)[/font_size][/color] [color=#008000](Il court rapidement.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 빨리 달려요.[font_size=18](Geuneun ppalli dallyeoyo.)[/font_size][/color] [color=#008000](Il court rapidement.)[/color][/i][/indent]
 
 [b]d) Adverbes de Degré[/b]
 [indent]Les adverbes de degré modifient l'intensité d'un adjectif ou d'un autre adverbe.
@@ -63,33 +63,33 @@ Les adverbes peuvent être classés en plusieurs catégories selon leur fonction
 덜 (deol) [color=#008000](moins)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]이것은 매우 비싸요.[font_size=18pt](Igeoseun maeu bissayo.)[/font_size][/color] [color=#008000](Ceci est très cher.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]이것은 매우 비싸요.[font_size=18](Igeoseun maeu bissayo.)[/font_size][/color] [color=#008000](Ceci est très cher.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Règles et Utilisation des Adverbes[/color][/font_size]
 
 Lorsque vous utilisez des adverbes en coréen, il est important de connaître quelques règles essentielles pour leur positionnement et leur concordance avec les verbes, adjectifs, ou autres adverbes. Voici quelques points pratiques à garder à l'esprit :
 
 [indent]• [b]Position de l'Adverbe :[/b] En coréen, les adverbes se placent généralement avant le verbe.
-[i]Exemple : [color=#0000FF]나는 자주 그곳에 가요.[font_size=18pt](Naneun jaju geugose gayo.)[/font_size][/color] [color=#008000](Je vais souvent là-bas.)[/color][/i]
+[i]Exemple : [color=#0000FF]나는 자주 그곳에 가요.[font_size=18](Naneun jaju geugose gayo.)[/font_size][/color] [color=#008000](Je vais souvent là-bas.)[/color][/i]
 
 - [b]Combinaison avec les Verbes :[/b] Les adverbes peuvent être combinés avec des verbes pour décrire l'action de manière plus précise.
-[i]Exemple : [color=#0000FF]그녀는 조용히 이야기했어요.[font_size=18pt](Geunyeoneun joyonghi iyagihayeosseoyo.)[/font_size][/color] [color=#008000](Elle a parlé doucement.)[/color][/i]
+[i]Exemple : [color=#0000FF]그녀는 조용히 이야기했어요.[font_size=18](Geunyeoneun joyonghi iyagihayeosseoyo.)[/font_size][/color] [color=#008000](Elle a parlé doucement.)[/color][/i]
 
 - [b]Intensification avec 다른 Adverbes :[/b] Parfois, plusieurs adverbes peuvent être utilisés ensemble pour intensifier ou adoucir le sens.
-[i]Exemple : [color=#0000FF]그는 정말 천천히 걸었어요.[font_size=18pt](Geuneun jeongmal cheoncheonhi georeosseoyo.)[/font_size][/color] [color=#008000](Il a vraiment marché lentement.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 정말 천천히 걸었어요.[font_size=18](Geuneun jeongmal cheoncheonhi georeosseoyo.)[/font_size][/color] [color=#008000](Il a vraiment marché lentement.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Adverbes et Expressions Courantes[/color][/font_size]
 
 Il existe diverses expressions courantes en coréen qui utilisent des adverbes pour exprimer des concepts ou des idées de manière concise et efficace :
 
 [indent]• [b]천천히 하세요 (cheoncheonhi haseyo) :[/b] Prenez votre temps.
-[i]Exemple : [color=#0000FF]천천히 하세요, 서두르지 마세요.[font_size=18pt](Cheoncheonhi haseyo, seodureuji maseyo.)[/font_size][/color] [color=#008000](Prenez votre temps, ne vous dépêchez pas.)[/color][/i]
+[i]Exemple : [color=#0000FF]천천히 하세요, 서두르지 마세요.[font_size=18](Cheoncheonhi haseyo, seodureuji maseyo.)[/font_size][/color] [color=#008000](Prenez votre temps, ne vous dépêchez pas.)[/color][/i]
 
 - [b]빨리 와요 (ppalli wayo) :[/b] Dépêchez-vous.
-[i]Exemple : [color=#0000FF]지금 빨리 와요![font_size=18pt](Jigeum ppalli wayo!)[/font_size][/color] [color=#008000](Venez vite maintenant!)[/color][/i]
+[i]Exemple : [color=#0000FF]지금 빨리 와요![font_size=18](Jigeum ppalli wayo!)[/font_size][/color] [color=#008000](Venez vite maintenant!)[/color][/i]
 
 - [b]아주 좋아요 (aju joayo) :[/b] C'est très bien.
-[i]Exemple : [color=#0000FF]그것은 아주 좋아요.[font_size=18pt](Geugeoseun aju joayo.)[/font_size][/color] [color=#008000](C'est très bien.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그것은 아주 좋아요.[font_size=18](Geugeoseun aju joayo.)[/font_size][/color] [color=#008000](C'est très bien.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

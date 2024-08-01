@@ -19,7 +19,7 @@ Manger (essen):
 •vous mangez : ihr esst
 •ils/elles mangent : sie/Sie essen[/indent]
 [/code]
-Exemple : [color=#0000FF]Ich lerne Deutsch.[font_size=18pt](Je apprends allemand.)[/font_size][/color] [color=#008000](Je viens d'apprendre l'allemand.)[/color][/indent]
+Exemple : [color=#0000FF]Ich lerne Deutsch.[font_size=18](Je apprends allemand.)[/font_size][/color] [color=#008000](Je viens d'apprendre l'allemand.)[/color][/indent]
 
 [b]b) Verbes irréguliers[/b]
 [indent]Les verbes irréguliers changent souvent de radical lorsqu'ils sont conjugués. Il est important de les apprendre par cœur.
@@ -54,13 +54,13 @@ Exemple : [color=#0000FF]Wir können Deutsch sprechen.[/color] [color=#008000](N
 Le présent de l'indicatif s'utilise dans plusieurs contextes en allemand. Voici quelques exemples pour mieux comprendre :
 
 [indent]• Pour exprimer des actions qui se passent actuellement :
-[i]Exemple : [color=#0000FF]Ich lese ein Buch.[font_size=18pt](Je lis un livre.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich lese ein Buch.[font_size=18](Je lis un livre.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i]
 
 • Pour parler d'actions habituelles ou récurrentes :
-[i]Exemple : [color=#0000FF]Jeden Morgen trinke ich Kaffee.[font_size=18pt](Chaque matin je bois du café.)[/font_size][/color] [color=#008000](Chaque matin, je bois du café.)[/color][/i]
+[i]Exemple : [color=#0000FF]Jeden Morgen trinke ich Kaffee.[font_size=18](Chaque matin je bois du café.)[/font_size][/color] [color=#008000](Chaque matin, je bois du café.)[/color][/i]
 
 • Pour des faits généraux ou des vérités universelles :
-[i]Exemple : [color=#0000FF]Die Erde ist rund.[font_size=18pt](La Terre est ronde.)[/font_size][/color] [color=#008000](La Terre est ronde.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Die Erde ist rund.[font_size=18](La Terre est ronde.)[/font_size][/color] [color=#008000](La Terre est ronde.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Expressions courantes au présent de l'indicatif[/color][/font_size]
 

@@ -23,7 +23,7 @@ Next to [color=#008000](à côté de)[/color]
 In front of [color=#008000](en face de)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She is sitting on the chair.[font_size=18pt](Elle est assise sur la chaise.)[/font_size][/color] [color=#008000](sur la chaise)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She is sitting on the chair.[font_size=18](Elle est assise sur la chaise.)[/font_size][/color] [color=#008000](sur la chaise)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Prépositions de temps[/color][/font_size]
 
@@ -37,9 +37,9 @@ On [color=#008000](jour/date précise)[/color]
 During [color=#008000](pendant)[/color]
 Before [color=#008000](avant)[/color]
 After [color=#008000](après)[/color]
-[/code]
+[/code][/indent]
 
-[i]Exemple : [color=#0000FF]They arrived at 9 o'clock.[font_size=18pt](Ils sont arrivés à 9 heures.)[/font_size][/color] [color=#008000](à 9 heures)[/color][/i]
+[i]Exemple : [color=#0000FF]They arrived at 9 o'clock.[font_size=18](Ils sont arrivés à 9 heures.)[/font_size][/color] [color=#008000](à 9 heures)[/color][/i]
 
 [b]b) Expressions courantes avec prépositions de temps[/b]
 [indent][code]
@@ -52,7 +52,7 @@ Before the event [color=#008000](avant l'événement)[/color]
 After lunch [color=#008000](après le déjeuner)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]I will call you in the morning.[font_size=18pt](Je t'appellerai le matin.)[/font_size][/color] [color=#008000](le matin)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I will call you in the morning.[font_size=18](Je t'appellerai le matin.)[/font_size][/color] [color=#008000](le matin)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Prépositions de direction[/color][/font_size]
 
@@ -68,20 +68,20 @@ From [color=#008000](de, venant de)[/color]
 Through [color=#008000](à travers)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She walked into the room.[font_size=18pt](Elle est entrée dans la pièce.)[/font_size][/color] [color=#008000](dans la pièce)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She walked into the room.[font_size=18](Elle est entrée dans la pièce.)[/font_size][/color] [color=#008000](dans la pièce)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Utilisation des prépositions: Règles et Exceptions[/color][/font_size]
 
 Certaines prépositions peuvent prêter à confusion. Voici quelques règles et exceptions courantes.
 
 [indent]• Prépositions suivies du gérondif (verbe en -ing)
-[i]Exemple : [color=#0000FF]I am interested in learning English.[font_size=18pt](Je suis intéressé par l'apprentissage de l'anglais.)[/font_size][/color] [color=#008000](par l'apprentissage)[/color][/i]
+[i]Exemple : [color=#0000FF]I am interested in learning English.[font_size=18](Je suis intéressé par l'apprentissage de l'anglais.)[/font_size][/color] [color=#008000](par l'apprentissage)[/color][/i]
 
 - Prépositions avec expressions idiomatiques
-[i]Exemple : [color=#0000FF]She is good at playing tennis.[font_size=18pt](Elle est douée pour jouer au tennis.)[/font_size][/color] [color=#008000](pour jouer)[/color][/i]
+[i]Exemple : [color=#0000FF]She is good at playing tennis.[font_size=18](Elle est douée pour jouer au tennis.)[/font_size][/color] [color=#008000](pour jouer)[/color][/i]
 
 - Prépositions dans des questions indirectes
-[i]Exemple : [color=#0000FF]Can you tell me where the library is?[font_size=18pt](Peux-tu me dire où se trouve la bibliothèque ?)[/font_size][/color] [color=#008000](où se trouve)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Can you tell me where the library is?[font_size=18](Peux-tu me dire où se trouve la bibliothèque ?)[/font_size][/color] [color=#008000](où se trouve)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

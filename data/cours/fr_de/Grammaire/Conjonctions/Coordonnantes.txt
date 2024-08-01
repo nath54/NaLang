@@ -20,39 +20,39 @@ sondern [color=#008000](mais/ au contraire)[/color]
 doch [color=#008000](cependant/ pourtant)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich mag Tee und Kaffee.[font_size=18pt](Ich mag Tee und Kaffee.)[/font_size][/color] [color=#008000](J'aime le thé et le café.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich mag Tee und Kaffee.[font_size=18](Ich mag Tee und Kaffee.)[/font_size][/color] [color=#008000](J'aime le thé et le café.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation et spécificités des conjonctions[/color][/font_size]
 
 La compréhension de l'usage spécifique de chaque conjonction est cruciale pour structurer des phrases correctes. Voici quelques détails et exemples pour chaque conjonction :
 
 [indent]• [b]und[/b] (et) : Utilisée pour ajouter des éléments égaux. 
-[i]Exemple : [color=#0000FF]Sie spielt Klavier und Gitarre.[font_size=18pt](Sie spielt Klavier und Gitarre.)[/font_size][/color] [color=#008000](Elle joue du piano et de la guitare.)[/color][/i]
+[i]Exemple : [color=#0000FF]Sie spielt Klavier und Gitarre.[font_size=18](Sie spielt Klavier und Gitarre.)[/font_size][/color] [color=#008000](Elle joue du piano et de la guitare.)[/color][/i]
 
 - [b]oder[/b] (ou) : Utilisée pour offrir des alternatives. 
-[i]Exemple : [color=#0000FF]Möchtest du Tee oder Kaffee?[font_size=18pt](Möchtest du Tee oder Kaffee?)[/font_size][/color] [color=#008000](Veux-tu du thé ou du café?) [/color][/i]
+[i]Exemple : [color=#0000FF]Möchtest du Tee oder Kaffee?[font_size=18](Möchtest du Tee oder Kaffee?)[/font_size][/color] [color=#008000](Veux-tu du thé ou du café?) [/color][/i]
 
 - [b]aber[/b] (mais) : Utilisée pour exprimer une contradiction.
-[i]Exemple : [color=#0000FF]Er ist müde, aber glücklich.[font_size=18pt](Er ist müde, aber glücklich.)[/font_size][/color] [color=#008000](Il est fatigué, mais heureux.)[/color][/i]
+[i]Exemple : [color=#0000FF]Er ist müde, aber glücklich.[font_size=18](Er ist müde, aber glücklich.)[/font_size][/color] [color=#008000](Il est fatigué, mais heureux.)[/color][/i]
 
 - [b]denn[/b] (car/ parce que) : Utilisée pour expliquer quelque chose ou donner une raison.
-[i]Exemple : [color=#0000FF]Ich bleibe zu Hause, denn ich bin krank.[font_size=18pt](Ich bleibe zu Hause, denn ich bin krank.)[/font_size][/color] [color=#008000](Je reste à la maison car je suis malade.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich bleibe zu Hause, denn ich bin krank.[font_size=18](Ich bleibe zu Hause, denn ich bin krank.)[/font_size][/color] [color=#008000](Je reste à la maison car je suis malade.)[/color][/i]
 
 - [b]sondern[/b] (mais/ au contraire) : Utilisée après une négation pour exprimer une alternative positive.
-[i]Exemple : [color=#0000FF]Er kommt nicht heute, sondern morgen.[font_size=18pt](Er kommt nicht heute, sondern morgen.)[/font_size][/color] [color=#008000](Il ne vient pas aujourd'hui, mais demain.)[/color][/i]
+[i]Exemple : [color=#0000FF]Er kommt nicht heute, sondern morgen.[font_size=18](Er kommt nicht heute, sondern morgen.)[/font_size][/color] [color=#008000](Il ne vient pas aujourd'hui, mais demain.)[/color][/i]
 
 - [b]doch[/b] (cependant/ pourtant) : Utilisée pour introduire une opposition ou une contradiction.
-[i]Exemple : [color=#0000FF]Es regnet, doch wir gehen spazieren.[font_size=18pt](Es regnet, doch wir gehen spazieren.)[/font_size][/color] [color=#008000](Il pleut, cependant nous sortons nous promener.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Es regnet, doch wir gehen spazieren.[font_size=18](Es regnet, doch wir gehen spazieren.)[/font_size][/color] [color=#008000](Il pleut, cependant nous sortons nous promener.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Règles d'utilisation[/color][/font_size]
 
 Les conjonctions de coordination suivent des règles précises concernant leur position dans la phrase et l'ordre des mots. Il est important de se rappeler les points suivants :
 
 [indent]• Les conjonctions de coordination ne changent pas l'ordre des mots dans les phrases qu'elles lient.
-[i]Exemple : [color=#0000FF]Ich besuche meine Eltern und sie backen Kuchen.[font_size=18pt](Ich besuche meine Eltern und sie backen Kuchen.)[/font_size][/color] [color=#008000](Je rends visite à mes parents et ils font des gâteaux.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich besuche meine Eltern und sie backen Kuchen.[font_size=18](Ich besuche meine Eltern und sie backen Kuchen.)[/font_size][/color] [color=#008000](Je rends visite à mes parents et ils font des gâteaux.)[/color][/i]
 
 - Quand une conjonction de coordination relie deux propositions complètes, le verbe de la deuxième proposition reste en deuxième position.
-[i]Exemple : [color=#0000FF]Ich habe Hunger, aber ich esse nicht.[font_size=18pt](Ich habe Hunger, aber ich esse nicht.)[/font_size][/color] [color=#008000](J'ai faim, mais je ne mange pas.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich habe Hunger, aber ich esse nicht.[font_size=18](Ich habe Hunger, aber ich esse nicht.)[/font_size][/color] [color=#008000](J'ai faim, mais je ne mange pas.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

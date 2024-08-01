@@ -18,7 +18,7 @@ ihr → euer [color=#008000](votre, vos)[/color]
 sie/Sie → ihr/Ihr [color=#008000](leur, leurs; votre, vos - formel)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Das ist mein Buch.[font_size=18pt](Das ist mein Buch.)[/font_size][/color] [color=#008000](C'est mon livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das ist mein Buch.[font_size=18](Das ist mein Buch.)[/font_size][/color] [color=#008000](C'est mon livre.)[/color][/i][/indent]
 
 [b]b) Accord des pronoms possessifs avec le nom[/b]
 [indent]Les pronoms possessifs s'accordent en genre (masculin, féminin, neutre) et en nombre (singulier, pluriel) avec le nom qu'ils déterminent. Voici un tableau récapitulatif :
@@ -33,7 +33,7 @@ sie/Sie → ihr/Ihr [color=#008000](leur, leurs; votre, vos - formel)[/color]
 •ihr/Ihr (leur / vos - formel) - ihr/Ihr - ihre/Ihre - ihr/Ihr - ihre/Ihre
 
 
-[i]Exemple : [color=#0000FF]Das ist ihre Tasche.[font_size=18pt](Das ist ihre Tasche.)[/font_size][/color] [color=#008000](C'est son sac (à elle).)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das ist ihre Tasche.[font_size=18](Das ist ihre Tasche.)[/font_size][/color] [color=#008000](C'est son sac (à elle).)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation selon les cas grammaticaux[/color][/font_size]
 
@@ -75,9 +75,9 @@ meiner (meiner Kinder - de mes enfants)
 
 Dans la langue allemande, il est également courant d'utiliser les pronoms possessifs dans des expressions idiomatiques et des phrases courantes. Voici quelques exemples intéressants :
 
-[indent][i]Exemple : [color=#0000FF]Das ist nicht mein Bier.[font_size=18pt](Das ist nicht mein Bier.)[/font_size][/color] [color=#008000](Ce n'est pas mon problème.)[/color]
+[indent][i]Exemple : [color=#0000FF]Das ist nicht mein Bier.[font_size=18](Das ist nicht mein Bier.)[/font_size][/color] [color=#008000](Ce n'est pas mon problème.)[/color]
 
-Exemple : [color=#0000FF]Ich habe mein Bestes gegeben.[font_size=18pt](Ich habe mein Bestes gegeben.)[/font_size][/color] [color=#008000](J'ai fait de mon mieux.)[/color][/i][/indent]
+Exemple : [color=#0000FF]Ich habe mein Bestes gegeben.[font_size=18](Ich habe mein Bestes gegeben.)[/font_size][/color] [color=#008000](J'ai fait de mon mieux.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

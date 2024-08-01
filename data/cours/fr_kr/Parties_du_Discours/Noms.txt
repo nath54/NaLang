@@ -17,43 +17,43 @@ Les noms en coréen peuvent être classés en plusieurs catégories. Voici les p
 음식 (eumsig) [color=#008000](nourriture)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그는 좋은 사람입니다.[font_size=18pt] (Geuneun joeun saramimnida.)[/font_size][/color] [color=#008000](C'est une bonne personne.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 좋은 사람입니다.[font_size=18] (Geuneun joeun saramimnida.)[/font_size][/color] [color=#008000](C'est une bonne personne.)[/color][/i][/indent]
 
 [b]b) Noms composés[/b]
 [indent]Les noms composés en coréen sont formés en combinant deux ou plusieurs mots ensemble pour créer une nouvelle signification.
 [code]
-학교 (hakgyo) [color=#008000](école) -> 학 (hak) [color=#008000](apprendre) + 교 (gyo) [color=#008000](institution)[/color][/color]
-자동차 (jadongcha) [color=#008000](voiture) -> 자 (ja) [color=#008000](automatique) + 동 (dong) [color=#008000](mouvement) + 차 (cha) [color=#008000](véhicule)[/color][/color]
-이메일 (imeil) [color=#008000](e-mail) -> 이 (i) [color=#008000](électronique) + 메일 (meil) [color=#008000](courrier)[/color][/color]
+학교 (hakgyo) [color=#008000](école) -> 학 (hak)[/color] [color=#008000](apprendre) + 교 (gyo)[/color] [color=#008000](institution)[/color]
+자동차 (jadongcha) [color=#008000](voiture) -> 자 (ja)[/color] [color=#008000](automatique) + 동 (dong)[/color] [color=#008000](mouvement) + 차 (cha)[/color] [color=#008000](véhicule)[/color]
+이메일 (imeil) [color=#008000](e-mail) -> 이 (i)[/color] [color=#008000](électronique) + 메일 (meil)[/color] [color=#008000](courrier)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]학생들이 학교에서 공부합니다.[font_size=18pt] (Haksaengdeuri hakgyoeseo gongbuhamnida.)[/font_size][/color] [color=#008000](Les étudiants étudient à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]학생들이 학교에서 공부합니다.[font_size=18] (Haksaengdeuri hakgyoeseo gongbuhamnida.)[/font_size][/color] [color=#008000](Les étudiants étudient à l'école.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des noms[/color][/font_size]
 
 Les noms sont utilisés pour désigner des personnes, des lieux, des objets ou des concepts. Voici quelques règles et exemples pour vous aider à bien les utiliser.
 
 [indent]• Les noms propres commencent par une majuscule : 
-[i]Exemple : [color=#0000FF]저는 서울에 삽니다.[font_size=18pt] (Jeoneun Seoul-e samnida.)[/font_size][/color] [color=#008000](Je vis à Séoul.)[/color][/i]
+[i]Exemple : [color=#0000FF]저는 서울에 삽니다.[font_size=18] (Jeoneun Seoul-e samnida.)[/font_size][/color] [color=#008000](Je vis à Séoul.)[/color][/i]
 
 - Les noms communs sont souvent précédés de particules pour indiquer leur rôle grammatical : 
-[i]Exemple : [color=#0000FF]그 학생은 천재입니다.[font_size=18pt] (Geu haksaengeun cheonjaeimnida.)[/font_size][/color] [color=#008000](Cet étudiant est un génie.)[/color][/i]
+[i]Exemple : [color=#0000FF]그 학생은 천재입니다.[font_size=18] (Geu haksaengeun cheonjaeimnida.)[/font_size][/color] [color=#008000](Cet étudiant est un génie.)[/color][/i]
 
 - Les noms composés peuvent ajouter de la précision et de la nuance à vos phrases :
-[i]Exemple : [color=#0000FF]저는 저녁에 이메일을 씁니다.[font_size=18pt] (Jeoneun jeonyeoge imeireul sseumnida.)[/font_size][/color] [color=#008000](J'écris un e-mail le soir.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]저는 저녁에 이메일을 씁니다.[font_size=18] (Jeoneun jeonyeoge imeireul sseumnida.)[/font_size][/color] [color=#008000](J'écris un e-mail le soir.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Particules associées aux noms[/color][/font_size]
 
 En coréen, les noms sont souvent suivis de particules qui indiquent leur fonction dans la phrase. Voici quelques-unes des particules les plus courantes :
 
 [indent]• [b]이/가 (i/ga)[/b] - Sujet de la phrase
-[i]Exemple : [color=#0000FF]책이 테이블 위에 있습니다.[font_size=18pt] (Chaegi teibeul wie itsseumnida.)[/font_size][/color] [color=#008000](Le livre est sur la table.)[/color][/i]
+[i]Exemple : [color=#0000FF]책이 테이블 위에 있습니다.[font_size=18] (Chaegi teibeul wie itsseumnida.)[/font_size][/color] [color=#008000](Le livre est sur la table.)[/color][/i]
 
 - [b]을/를 (eul/reul)[/b] - Objet direct
-[i]Exemple : [color=#0000FF]저는 책을 읽습니다.[font_size=18pt] (Jeoneun chaekeul ilseumnida.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i]
+[i]Exemple : [color=#0000FF]저는 책을 읽습니다.[font_size=18] (Jeoneun chaekeul ilseumnida.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i]
 
 - [b]은/는 (eun/neun)[/b] - Sujet de la phrase avec une nuance de contraste ou d'importance
-[i]Exemple : [color=#0000FF]사과는 빨갛습니다.[font_size=18pt] (Sagwaneun ppalgatsseumnida.)[/font_size][/color] [color=#008000](La pomme est rouge.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]사과는 빨갛습니다.[font_size=18] (Sagwaneun ppalgatsseumnida.)[/font_size][/color] [color=#008000](La pomme est rouge.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -14,7 +14,7 @@ Er ist nicht glücklich. [color=#008000](Il n'est pas heureux.)[/color]
 Sie arbeitet nicht heute. [color=#008000](Elle ne travaille pas aujourd'hui.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Der Film war nicht interessant.[font_size=18pt](Der Film war nicht interessant.)[/font_size][/color] [color=#008000](Le film n'était pas intéressant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Der Film war nicht interessant.[font_size=18](Der Film war nicht interessant.)[/font_size][/color] [color=#008000](Le film n'était pas intéressant.)[/color][/i][/indent]
 
 [b]b) Position de "nicht"[/b]
 [indent]La position de "nicht" dépend de ce que vous voulez nier dans la phrase.
@@ -35,7 +35,7 @@ Du hast keine Zeit. [color=#008000](Tu n'as pas de temps.)[/color]
 Er hat keinen Hund. [color=#008000](Il n'a pas de chien.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Sie hat keine Freunde.[font_size=18pt](Sie hat keine Freunde.)[/font_size][/color] [color=#008000](Elle n'a pas d'amis.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Sie hat keine Freunde.[font_size=18](Sie hat keine Freunde.)[/font_size][/color] [color=#008000](Elle n'a pas d'amis.)[/color][/i][/indent]
 
 [b]b) Formation et déclinaison de "kein"[/b]
 [indent]La forme de "kein" varie selon le genre et le cas du nom qu'il nie.
@@ -56,10 +56,10 @@ Keine Bücher [color=#008000](aucun livre [pluriel])[/color] — pluriel, accusa
 La différence entre "nicht" et "kein" peut parfois prêter à confusion, mais voici quelques règles simples pour vous aider :
 
 [indent]• Utilisez "[color=#FF0000]nicht[/color]" pour nier des actions, des qualités, des états et des compléments circonstanciels.
-[i]Exemple : [color=#0000FF]Ich bin nicht müde.[font_size=18pt](Ich bin nicht müde.)[/font_size][/color] [color=#008000](Je ne suis pas fatigué.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich bin nicht müde.[font_size=18](Ich bin nicht müde.)[/font_size][/color] [color=#008000](Je ne suis pas fatigué.)[/color][/i]
 
 - Utilisez "[color=#FF0000]kein[/color]" pour nier des noms ou des groupes nominaux.
-[i]Exemple : [color=#0000FF]Ich habe kein Geld.[font_size=18pt](Ich habe kein Geld.)[/font_size][/color] [color=#008000](Je n'ai pas d'argent.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich habe kein Geld.[font_size=18](Ich habe kein Geld.)[/font_size][/color] [color=#008000](Je n'ai pas d'argent.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Négation et double négation[/color][/font_size]
 

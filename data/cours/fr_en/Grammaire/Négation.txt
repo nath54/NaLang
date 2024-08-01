@@ -18,7 +18,7 @@ We do not like (nous n'aimons pas)
 They do not like (ils/elles n'aiment pas)
 [/code]
 
-[i]Exemple : [color=#0000FF]I don't like apples.[font_size=18pt](Je n'aime pas les pommes.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I don't like apples.[font_size=18](Je n'aime pas les pommes.)[/font_size][/color][/i][/indent]
 
 [b]b) Passé simple[/b]
 [indent]Pour parler du passé, on utilise "did not" ou sa forme contractée "didn't".
@@ -30,7 +30,7 @@ We did not like (nous n'aimions pas)
 They did not like (ils/elles n'aimaient pas)
 [/code]
 
-[i]Exemple : [color=#0000FF]He didn't go to school yesterday.[font_size=18pt](Il n'est pas allé à l'école hier.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He didn't go to school yesterday.[font_size=18](Il n'est pas allé à l'école hier.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. La négation avec "be" et autres verbes auxiliaires[/color][/font_size]
 
@@ -46,7 +46,7 @@ We are not (nous ne sommes pas)
 They are not (ils/elles ne sont pas)
 [/code]
 
-[i]Exemple : [color=#0000FF]They aren't ready yet.[font_size=18pt](Ils ne sont pas encore prêts.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]They aren't ready yet.[font_size=18](Ils ne sont pas encore prêts.)[/font_size][/color][/i][/indent]
 
 [b]b) Verbes modaux (can, will, must, etc.)[/b]
 [indent]
@@ -64,8 +64,8 @@ We will not (nous n'allons pas)
 They will not (ils/elles ne vont pas)
 [/code]
 
-[i]Exemple : [color=#0000FF]She can't find her keys.[font_size=18pt](Elle ne trouve pas ses clés.)[/font_size][/color][/i]
-[i]Exemple : [color=#0000FF]We won't attend the meeting.[font_size=18pt](Nous n'assisterons pas à la réunion.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She can't find her keys.[font_size=18](Elle ne trouve pas ses clés.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]We won't attend the meeting.[font_size=18](Nous n'assisterons pas à la réunion.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. La négation avec "have"[/color][/font_size]
 
@@ -81,7 +81,7 @@ We do not have (nous n'avons pas)
 They do not have (ils/elles n'ont pas)
 [/code]
 
-[i]Exemple : [color=#0000FF]I don't have a car.[font_size=18pt](Je n'ai pas de voiture.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I don't have a car.[font_size=18](Je n'ai pas de voiture.)[/font_size][/color][/i][/indent]
 
 [b]b) "Have" comme auxiliaire (have not)[/b]
 [indent]
@@ -93,7 +93,7 @@ We have not (nous n'avons pas)
 They have not (ils/elles n'ont pas)
 [/code]
 
-[i]Exemple : [color=#0000FF]They haven't finished their homework.[font_size=18pt](Ils n'ont pas fini leurs devoirs.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]They haven't finished their homework.[font_size=18](Ils n'ont pas fini leurs devoirs.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

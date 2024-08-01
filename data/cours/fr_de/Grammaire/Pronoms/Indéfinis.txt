@@ -20,33 +20,33 @@ irgendwo [color=#008000](quelque part)[/color]
 nirgendwo [color=#008000](nulle part)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Jemand hat geklopft.[font_size=18pt] (Quelqu'un a frappé.)[/font_size][/color] [color=#008000](jemand)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Jemand hat geklopft.[font_size=18] (Quelqu'un a frappé.)[/font_size][/color] [color=#008000](jemand)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des pronoms indéfinis[/color][/font_size]
 
 Ces pronoms sont utilisés pour généraliser ou pour renvoyer à des entités non spécifiées. Voici des règles et exemples pour leur utilisation :
 
 [indent]• Pour désigner quelqu'un de non spécifié, utilisez [color=#FF0000]jemand[/color] (quelqu’un).
-[i]Exemple : [color=#0000FF]Kann jemand mir helfen?[font_size=18pt] (Quelqu'un peut-il m'aider?) [/font_size][/color] [color=#008000](jemand)[/color][/i]
+[i]Exemple : [color=#0000FF]Kann jemand mir helfen?[font_size=18] (Quelqu'un peut-il m'aider?) [/font_size][/color] [color=#008000](jemand)[/color][/i]
 
 - Pour une négation, utilisez [color=#FF0000]niemand[/color] (personne).
-[i]Exemple : [color=#0000FF]Niemand ist hier.[font_size=18pt] (Il n'y a personne ici.)[/font_size][/color] [color=#008000](niemand)[/color][/i]
+[i]Exemple : [color=#0000FF]Niemand ist hier.[font_size=18] (Il n'y a personne ici.)[/font_size][/color] [color=#008000](niemand)[/color][/i]
 
 - Pour parler de quelque chose en général, utilisez [color=#FF0000]etwas[/color] (quelque chose).
-[i]Exemple : [color=#0000FF]Ich will etwas essen.[font_size=18pt] (Je veux manger quelque chose.)[/font_size][/color] [color=#008000](etwas)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich will etwas essen.[font_size=18] (Je veux manger quelque chose.)[/font_size][/color] [color=#008000](etwas)[/color][/i]
 
 - Utilisez [color=#FF0000]nichts[/color] (rien) pour une négation absolue.
-[i]Exemple : [color=#0000FF]Es gibt nichts im Kühlschrank.[font_size=18pt] (Il n'y a rien dans le frigo.)[/font_size][/color] [color=#008000](nichts)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Es gibt nichts im Kühlschrank.[font_size=18] (Il n'y a rien dans le frigo.)[/font_size][/color] [color=#008000](nichts)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Pronoms indéfinis avec prépositions[/color][/font_size]
 
 Les pronoms indéfinis peuvent également être utilisés avec des prépositions pour parler de manière plus précise ou plus générale.
 
 [indent]• Pour évoquer la généralité avec un lieu, utilisez [color=#FF0000]irgendwo[/color] (quelque part).
-[i]Exemple : [color=#0000FF]Er muss irgendwo sein.[font_size=18pt] (Il doit être quelque part.)[/font_size][/color] [color=#008000](irgendwo)[/color][/i]
+[i]Exemple : [color=#0000FF]Er muss irgendwo sein.[font_size=18] (Il doit être quelque part.)[/font_size][/color] [color=#008000](irgendwo)[/color][/i]
 
 - Pour une négation d'un lieu, utilisez [color=#FF0000]nirgendwo[/color] (nulle part).
-[i]Exemple : [color=#0000FF]Ich habe ihn nirgendwo gesehen.[font_size=18pt] (Je ne l'ai vu nulle part.)[/font_size][/color] [color=#008000](nirgendwo)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich habe ihn nirgendwo gesehen.[font_size=18] (Je ne l'ai vu nulle part.)[/font_size][/color] [color=#008000](nirgendwo)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

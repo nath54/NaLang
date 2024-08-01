@@ -20,31 +20,31 @@ sie/Sie werden [color=#008000](ils/Elles/Vous deviendront/Deviennent)[/color]
 [/code]
 
 [i]Exemples :
-[color=#0000FF]Ich werde morgen arbeiten.[font_size=18pt](Ich werde morgen arbeiten.)[/font_size][/color] [color=#008000](Je travaillerai demain.)[/color]
-[color=#0000FF]Sie wird nächste Woche verreisen.[font_size=18pt](Sie wird nächste Woche verreisen.)[/font_size][/color] [color=#008000](Elle voyagera la semaine prochaine.)[/color][/i]
+[color=#0000FF]Ich werde morgen arbeiten.[font_size=18](Ich werde morgen arbeiten.)[/font_size][/color] [color=#008000](Je travaillerai demain.)[/color]
+[color=#0000FF]Sie wird nächste Woche verreisen.[font_size=18](Sie wird nächste Woche verreisen.)[/font_size][/color] [color=#008000](Elle voyagera la semaine prochaine.)[/color][/i]
 
 [font_size=24][color=#4B0082]2. Utilisation du futur simple[/color][/font_size]
 
 Le futur simple est principalement utilisé pour parler de faits ou événements futurs. Voici quelques contextes et exemples pour mieux comprendre son utilisation.
 
 [indent]• Pour décrire des plans ou des intentions futures :
-[i]Exemple : [color=#0000FF]Wir werden in den Urlaub fahren.[font_size=18pt](Wir werden in den Urlaub fahren.)[/font_size][/color] [color=#008000](Nous partirons en vacances.)[/color][/i]
+[i]Exemple : [color=#0000FF]Wir werden in den Urlaub fahren.[font_size=18](Wir werden in den Urlaub fahren.)[/font_size][/color] [color=#008000](Nous partirons en vacances.)[/color][/i]
 
 - Pour faire des prédictions sur l'avenir :
-[i]Exemple : [color=#0000FF]Das Wetter wird morgen schön sein.[font_size=18pt](Das Wetter wird morgen schön sein.)[/font_size][/color] [color=#008000](Le temps sera beau demain.)[/color][/i]
+[i]Exemple : [color=#0000FF]Das Wetter wird morgen schön sein.[font_size=18](Das Wetter wird morgen schön sein.)[/font_size][/color] [color=#008000](Le temps sera beau demain.)[/color][/i]
 
 - Pour des promesses ou des engagements :
-[i]Exemple : [color=#0000FF]Ich werde pünktlich sein.[font_size=18pt](Ich werde pünktlich sein.)[/font_size][/color] [color=#008000](Je serai ponctuel.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich werde pünktlich sein.[font_size=18](Ich werde pünktlich sein.)[/font_size][/color] [color=#008000](Je serai ponctuel.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Lors de l'utilisation du futur simple, il est important de prêter attention à l'ordre des mots, en particulier dans les phrases subordonnées.
 
 [indent]• Dans une phrase subordonnée introduite par une conjonction comme « wenn » (quand) ou « dass » (que), le verbe à l'infinitif se place à la fin de la proposition subordonnée.
-[i]Exemple : [color=#0000FF]Sie hofft, dass er morgen zurückkommen wird.[font_size=18pt](Sie hofft, dass er morgen zurückkommen wird.)[/font_size][/color] [color=#008000](Elle espère qu'il reviendra demain.)[/color][/i]
+[i]Exemple : [color=#0000FF]Sie hofft, dass er morgen zurückkommen wird.[font_size=18](Sie hofft, dass er morgen zurückkommen wird.)[/font_size][/color] [color=#008000](Elle espère qu'il reviendra demain.)[/color][/i]
 
 - Dans les questions directes, le verbe auxiliaire « werden » se place en première position :
-[i]Exemple : [color=#0000FF]Wirst du bald ankommen?[font_size=18pt](Wirst du bald ankommen?)[/font_size][/color] [color=#008000](Arriveras-tu bientôt ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wirst du bald ankommen?[font_size=18](Wirst du bald ankommen?)[/font_size][/color] [color=#008000](Arriveras-tu bientôt ?)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

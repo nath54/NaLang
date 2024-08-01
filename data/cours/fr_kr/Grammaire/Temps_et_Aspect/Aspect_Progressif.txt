@@ -21,25 +21,25 @@ Verbe radical + -고 있다 (go itda)
 L'aspect progressif peut être conjugué au passé, au présent ou au futur :
 
 [indent][b]a) Au présent[/b]
-[i]Exemple : [color=#0000FF]지금 먹고 있어요.[font_size=18pt](Jigeum meokgo isseoyo.)[/font_size][/color] [color=#008000](Je suis en train de manger.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]지금 먹고 있어요.[font_size=18](Jigeum meokgo isseoyo.)[/font_size][/color] [color=#008000](Je suis en train de manger.)[/color][/i][/indent]
 
 [indent][b]b) Au passé[/b] 
 Ajoutez `-고 있었어요` (go isseoyo) après le verbe radical pour le passé continu :
-[i]Exemple : [color=#0000FF]어제 공부하고 있었어요.[font_size=18pt](Eoje gongbuha-go isseosseoyo.)[/font_size][/color] [color=#008000](Hier, j'étais en train d'étudier.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]어제 공부하고 있었어요.[font_size=18](Eoje gongbuha-go isseosseoyo.)[/font_size][/color] [color=#008000](Hier, j'étais en train d'étudier.)[/color][/i][/indent]
 
 [indent][b]c) Au futur[/b]
 Pour le futur progressif, utilisez `-고 있을 거예요` (go isseul geoyeyo) :
-[i]Exemple : [color=#0000FF]내일 이 시간에 일하고 있을 거예요.[font_size=18pt](Naeil i sigane ilhago isseul geoyeyo.)[/font_size][/color] [color=#008000](Demain à cette heure-ci, je serai en train de travailler.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]내일 이 시간에 일하고 있을 거예요.[font_size=18](Naeil i sigane ilhago isseul geoyeyo.)[/font_size][/color] [color=#008000](Demain à cette heure-ci, je serai en train de travailler.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisations spécifiques et nuances[/color][/font_size]
 
 L'aspect progressif sert non seulement à indiquer une action en cours, mais peut également impliquer une action répétée ou habituelle dans certains contextes.
 
 [indent]• Pour une action en cours :
-[i]Exemple : [color=#0000FF]비디오를 보고 있어요.[font_size=18pt](Bidioreul bogo isseoyo.)[/font_size][/color] [color=#008000](Je suis en train de regarder une vidéo.)[/color][/i]
+[i]Exemple : [color=#0000FF]비디오를 보고 있어요.[font_size=18](Bidioreul bogo isseoyo.)[/font_size][/color] [color=#008000](Je suis en train de regarder une vidéo.)[/color][/i]
 
 - Pour des actions répétées ou habituelles :
-[i]Exemple : [color=#0000FF]요즘 운동을 하고 있어요.[font_size=18pt](Yojeum undongeul hago isseoyo.)[/font_size][/color] [color=#008000](Ces jours-ci, je fais de l'exercice (régulièrement).)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]요즘 운동을 하고 있어요.[font_size=18](Yojeum undongeul hago isseoyo.)[/font_size][/color] [color=#008000](Ces jours-ci, je fais de l'exercice (régulièrement).)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Différences avec d'autres aspects[/color][/font_size]
 

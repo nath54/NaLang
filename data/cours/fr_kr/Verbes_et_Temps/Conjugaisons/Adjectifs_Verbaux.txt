@@ -10,26 +10,26 @@ Les adjectifs verbaux en coréen se distinguent par des terminaisons spécifique
 
 [indent][b]a) Présent (forme courante)[/b]
 - 크다 (keuda) [color=#008000](être grand)[/color]
-  [i]Exemple : [color=#0000FF]이 건물은 크다. [font_size=18pt](I geonmureun keuda.)[/font_size][/color] [color=#008000](Ce bâtiment est grand.)[/color]
+  [i]Exemple : [color=#0000FF]이 건물은 크다. [font_size=18](I geonmureun keuda.)[/font_size][/color] [color=#008000](Ce bâtiment est grand.)[/color][/i]
 
 - 작다 (jakda) [color=#008000](être petit)[/color]
-  [i]Exemple : [color=#0000FF]이 상자는 작다. [font_size=18pt](I sangjaneun jakda.)[/font_size][/color] [color=#008000](Cette boîte est petite.)[/color][/i][/indent]
+  [i]Exemple : [color=#0000FF]이 상자는 작다. [font_size=18](I sangjaneun jakda.)[/font_size][/color] [color=#008000](Cette boîte est petite.)[/color][/i][/indent]
 
 [indent][b]b) Passé[/b]
 Les verbes d'état se conjuguent au passé en ajoutant la terminaison -었다 (-eotda) ou -았다 (-atda) en fonction des voyelles présentes dans la racine du verbe.
 - 컸다 (keotda) [color=#008000](était grand)[/color]
-  [i]Exemple : [color=#0000FF]그 건물은 컸다. [font_size=18pt](Geu geonmureun keotda.)[/font_size][/color] [color=#008000](Ce bâtiment était grand.)[/color]
+  [i]Exemple : [color=#0000FF]그 건물은 컸다. [font_size=18](Geu geonmureun keotda.)[/font_size][/color] [color=#008000](Ce bâtiment était grand.)[/color][/i]
 
 - 작았다 (jakatda) [color=#008000](était petit)[/color]
-  [i]Exemple : [color=#0000FF]그 상자는 작았다. [font_size=18pt](Geu sangjaneun jakatda.)[/font_size][/color] [color=#008000](Cette boîte était petite.)[/color][/i][/indent]
+  [i]Exemple : [color=#0000FF]그 상자는 작았다. [font_size=18](Geu sangjaneun jakatda.)[/font_size][/color] [color=#008000](Cette boîte était petite.)[/color][/i][/indent]
 
 [indent][b]c) Futur[/b]
 Le futur des adjectifs verbaux se forme en ajoutant -ㄹ/을 것이다 (-l/eul geosida) après la racine descriptive.
 - 클 것이다 (keul geosida) [color=#008000](sera grand)[/color]
-  [i]Exemple : [color=#0000FF]그 건물은 클 것이다. [font_size=18pt](Geu geonmureun keul geosida.)[/font_size][/color] [color=#008000](Ce bâtiment sera grand.)[/color]
+  [i]Exemple : [color=#0000FF]그 건물은 클 것이다. [font_size=18](Geu geonmureun keul geosida.)[/font_size][/color] [color=#008000](Ce bâtiment sera grand.)[/color][/i]
 
 - 작을 것이다 (jageul geosida) [color=#008000](sera petit)[/color]
-  [i]Exemple : [color=#0000FF]그 상자는 작을 것이다. [font_size=18pt](Geu sangjaneun jageul geosida.)[/font_size][/color] [color=#008000](Cette boîte sera petite.)[/color][/i][/indent]
+  [i]Exemple : [color=#0000FF]그 상자는 작을 것이다. [font_size=18](Geu sangjaneun jageul geosida.)[/font_size][/color] [color=#008000](Cette boîte sera petite.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Politesse et formalité[/color][/font_size]
 
@@ -38,18 +38,18 @@ Les adjectifs verbaux suivent les mêmes règles de conjugaison de politesse que
 [indent][b]a) Forme honorifique[/b]
 Pour utiliser un ton honorifique, on ajoute -으시/-시 (-eusi/-si) à la racine descriptive.
 - 크시다 (keusida) [color=#008000](être grand (honorifique))[/color]
-  [i]Exemple : [color=#0000FF]이 건물은 크십니다. [font_size=18pt](I geonmureun keusimnida.)[/font_size][/color] [color=#008000](Ce bâtiment est grand (formel/honorifique).)[/color]
+  [i]Exemple : [color=#0000FF]이 건물은 크십니다. [font_size=18](I geonmureun keusimnida.)[/font_size][/color] [color=#008000](Ce bâtiment est grand (formel/honorifique).)[/color][/i]
 
 - 작으시다 (jageusida) [color=#008000](être petit (honorifique))[/color]
-  [i]Exemple : [color=#0000FF]이 상자는 작으십니다. [font_size=18pt](I sangjaneun jageusimnida.)[/font_size][/color] [color=#008000](Cette boîte est petite (formel/honorifique).)[/color][/i][/indent]
+  [i]Exemple : [color=#0000FF]이 상자는 작으십니다. [font_size=18](I sangjaneun jageusimnida.)[/font_size][/color] [color=#008000](Cette boîte est petite (formel/honorifique).)[/color][/i][/indent]
 
 [indent][b]b) Forme familière[/b]
 Pour une forme plus familière, on utilise la terminaison -어/아 (-eo/a) de manière détendue.
 - 커 (keo) [color=#008000](être grand (informel))[/color]
-  [i]Exemple : [color=#0000FF]이 건물은 커. [font_size=18pt](I geonmureun keo.)[/font_size][/color] [color=#008000](Ce bâtiment est grand (informel).)[/color]
+  [i]Exemple : [color=#0000FF]이 건물은 커. [font_size=18](I geonmureun keo.)[/font_size][/color] [color=#008000](Ce bâtiment est grand (informel).)[/color][/i]
 
 - 작아 (jaga) [color=#008000](être petit (informel))[/color]
-  [i]Exemple : [color=#0000FF]이 상자는 작아. [font_size=18pt](I sangjaneun jaga.)[/font_size][/color] [color=#008000](Cette boîte est petite (informel).)[/color][/i][/indent]
+  [i]Exemple : [color=#0000FF]이 상자는 작아. [font_size=18](I sangjaneun jaga.)[/font_size][/color] [color=#008000](Cette boîte est petite (informel).)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Usage des adjectifs verbaux dans les phrases[/color][/font_size]
 
@@ -57,12 +57,12 @@ Les adjectifs verbaux peuvent fonctionner seuls dans une phrase ou être utilis�
 
 [indent][b]a) Utilisation seule[/b]
 Les adjectifs verbaux peuvent être utilisés comme prédicat dans une phrase.
-[i]Exemple : [color=#0000FF]하늘이 맑다. [font_size=18pt](Haneuli malgda.)[/font_size][/color] [color=#008000](Le ciel est clair.)[/color][/i]
+[i]Exemple : [color=#0000FF]하늘이 맑다. [font_size=18](Haneuli malgda.)[/font_size][/color] [color=#008000](Le ciel est clair.)[/color][/i]
 
 [b]b) Utilisation devant un nom[/b]
 Pour décrire un nom, on conjugue l'adjectif verbeal selon le temps et l'insère avant le nom.
-[i]Exemple : [color=#0000FF]맑은 하늘 [font_size=18pt](malgeun haneul)[/font_size][/color] [color=#008000](ciel clair)[/color]
-[color=#0000FF]작은 집 [font_size=18pt](jageun jib)[/font_size][/color] [color=#008000](petite maison)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]맑은 하늘 [font_size=18](malgeun haneul)[/font_size][/color] [color=#008000](ciel clair)[/color]
+[color=#0000FF]작은 집 [font_size=18](jageun jib)[/font_size][/color] [color=#008000](petite maison)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

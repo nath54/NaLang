@@ -98,7 +98,7 @@ Está listo. [color=#008000](Il est prêt.)[/color]
 
 Es verde. [color=#008000](Il est vert - intrinsèquement.)[/color]
 Está verde. [color=#008000](Il est vert - pas mûr.)[/color]
-[/code]
+[/code][/indent]
 
 La distinction peut être subtile, mais elle change le sens de la phrase.
 

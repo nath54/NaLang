@@ -35,27 +35,27 @@ Les verbes irréguliers ont des formes passives spéciales :
 行く (iku) -> 行かれる (ikareru) [color=#008000](être allé)[/color]
 [/code][/indent]
 
-[i]Exemple : [color=#0000FF]この本は多くの人に読まれています[font_size=18pt](Kono hon wa ooku no hito ni yomareteimasu.)[/font_size][/color] [color=#008000](Ce livre est lu par beaucoup de personnes.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]この本は多くの人に読まれています[font_size=18](Kono hon wa ooku no hito ni yomareteimasu.)[/font_size][/color] [color=#008000](Ce livre est lu par beaucoup de personnes.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de la forme passive[/color][/font_size]
 
 La forme passive en japonais peut être utilisée de différentes manières pour donner des nuances spécifiques à vos phrases. Voici quelques contextes où elle est fréquemment utilisée :
 
 [indent]• Pour indiquer qu'une action est subie par le sujet
-[i]Exemple : [color=#0000FF]彼は先生に褒められました[font_size=18pt](Kare wa sensei ni homeraremashita.)[/font_size][/color] [color=#008000](Il a été félicité par le professeur.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は先生に褒められました[font_size=18](Kare wa sensei ni homeraremashita.)[/font_size][/color] [color=#008000](Il a été félicité par le professeur.)[/color][/i]
 
 - Pour souligner l'action plutôt que le sujet
-[i]Exemple : [color=#0000FF]会社は昨日新しいビルが建てられました[font_size=18pt](Kaisha wa kinou atarashii biru ga tateraremashita.)[/font_size][/color] [color=#008000](Une nouvelle entreprise a été construite hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]会社は昨日新しいビルが建てられました[font_size=18](Kaisha wa kinou atarashii biru ga tateraremashita.)[/font_size][/color] [color=#008000](Une nouvelle entreprise a été construite hier.)[/color][/i]
 
 - Pour exprimer des sentiments négatifs ou involontaires
-[i]Exemple : [color=#0000FF]彼は弟に携帯を壊されました[font_size=18pt](Kare wa otouto ni keitai wo kowasaremashita.)[/font_size][/color] [color=#008000](Son téléphone a été cassé par son petit frère.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は弟に携帯を壊されました[font_size=18](Kare wa otouto ni keitai wo kowasaremashita.)[/font_size][/color] [color=#008000](Son téléphone a été cassé par son petit frère.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Forme passive honorifique[/color][/font_size]
 
 En japonais, la forme passive peut également être utilisée pour exprimer le respect, surtout en contexte formel ou envers des personnes de statut social ou professionnel supérieur.
 
 [indent]• Utilisation de la forme passive pour marquer le respect
-[i]Exemple : [color=#0000FF]社長は今朝会議に出席されました[font_size=18pt](Shachou wa kesa kaigi ni shusseki saremashita.)[/font_size][/color] [color=#008000](Le président a assisté à la réunion ce matin.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]社長は今朝会議に出席されました[font_size=18](Shachou wa kesa kaigi ni shusseki saremashita.)[/font_size][/color] [color=#008000](Le président a assisté à la réunion ce matin.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

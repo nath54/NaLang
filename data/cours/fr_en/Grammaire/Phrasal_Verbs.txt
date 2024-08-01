@@ -16,7 +16,7 @@ Get up [color=#008000](Se lever)[/color]
 Come over [color=#008000](Venir)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]My car broke down.[font_size=18pt](Ma voiture est tombée en panne.)[/font_size][/color] [color=#008000](My car broke down.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]My car broke down.[font_size=18](Ma voiture est tombée en panne.)[/font_size][/color] [color=#008000](My car broke down.)[/color][/i][/indent]
 
 [b]b) Phrasal verbs transitifs[/b]
 [indent]Les phrasal verbs transitifs nécessitent un complément d'objet direct. Certains d'entre eux sont séparables, d'autres non.
@@ -26,22 +26,22 @@ Give up [color=#008000](Abandonner)[/color]
 Put off [color=#008000](Reporter)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She found out the truth.[font_size=18pt](Elle a découvert la vérité.)[/font_size][/color] [color=#008000](She found out the truth.)[/color][/i]
+[i]Exemple : [color=#0000FF]She found out the truth.[font_size=18](Elle a découvert la vérité.)[/font_size][/color] [color=#008000](She found out the truth.)[/color][/i]
 
 - Phrasal verbs séparables
 [indent]Les phrasal verbs séparables peuvent avoir le complément d'objet placé entre le verbe et la particule.
 [code]
 Turn off (éteindre)
-Example: [color=#0000FF]Turn off the light.[font_size=18pt](Éteins la lumière.)[/font_size][/color] [color=#008000](Turn off the light.)[/color]
-Example: [color=#0000FF]Turn the light off.[font_size=18pt](Éteins la lumière.)[/font_size][/color] [color=#008000](Turn the light off.)[/color]
+Example: [color=#0000FF]Turn off the light.[font_size=18](Éteins la lumière.)[/font_size][/color] [color=#008000](Turn off the light.)[/color]
+Example: [color=#0000FF]Turn the light off.[font_size=18](Éteins la lumière.)[/font_size][/color] [color=#008000](Turn the light off.)[/color]
 [/code][/indent]
 
 - Phrasal verbs inséparables
 [indent]Les phrasal verbs inséparables ne peuvent pas séparer le verbe et la particule par le complément d'objet.
 [code]
 Look after (prendre soin de)
-Example: [color=#0000FF]Look after the baby.[font_size=18pt](Prends soin du bébé.)[/font_size][/color] [color=#008000](Look after the baby.)[/color]
-Example: [color=#0000FF]She looks after her sister.[font_size=18pt](Elle prend soin de sa sœur.)[/font_size][/color] [color=#008000](She looks after her sister.)[/color]
+Example: [color=#0000FF]Look after the baby.[font_size=18](Prends soin du bébé.)[/font_size][/color] [color=#008000](Look after the baby.)[/color]
+Example: [color=#0000FF]She looks after her sister.[font_size=18](Elle prend soin de sa sœur.)[/font_size][/color] [color=#008000](She looks after her sister.)[/color]
 [/code][/indent][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des phrasal verbs[/color][/font_size]
@@ -49,25 +49,25 @@ Example: [color=#0000FF]She looks after her sister.[font_size=18pt](Elle prend s
 Les phrasal verbs s'utilisent comme des verbes normaux mais ajoutent souvent une nuance précise ou idiomatique à l'action qu'ils décrivent. Voici quelques conseils et exemples pour bien les utiliser :
 
 [indent]• Utiliser des phrasal verbs pour simplifier des phrases complexes :
-[i]Exemple : [color=#0000FF]He handed in his assignment.[font_size=18pt](Il a rendu son devoir.)[/font_size][/color] [color=#008000](He handed in his assignment.)[/color][/i]
+[i]Exemple : [color=#0000FF]He handed in his assignment.[font_size=18](Il a rendu son devoir.)[/font_size][/color] [color=#008000](He handed in his assignment.)[/color][/i]
 
 - Remplacer des verbes formels par des phrasal verbs pour un langage plus courant :
-[i]Exemple : [color=#0000FF]She turned down the offer.[font_size=18pt](Elle a refusé l'offre.)[/font_size][/color] [color=#008000](She turned down the offer.)[/color][/i]
+[i]Exemple : [color=#0000FF]She turned down the offer.[font_size=18](Elle a refusé l'offre.)[/font_size][/color] [color=#008000](She turned down the offer.)[/color][/i]
 
 - Prendre note des changements de sens entre le verbe seul et le phrasal verb :
-[i]Exemple : [color=#0000FF]She ran out of time.[font_size=18pt](Elle a manqué de temps.)[/font_size][/color] [color=#008000](She ran out of time.)[/color] vs. [color=#0000FF]She ran out.[font_size=18pt](Elle est sortie en courant.)[/font_size][/color] [color=#008000](She ran out.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She ran out of time.[font_size=18](Elle a manqué de temps.)[/font_size][/color] [color=#008000](She ran out of time.)[/color] vs. [color=#0000FF]She ran out.[font_size=18](Elle est sortie en courant.)[/font_size][/color] [color=#008000](She ran out.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Pour certaines expressions, la compréhension du contexte est essentielle pour interpréter correctement le sens du phrasal verb. Voici quelques phrasal verbs contextuellement sensibles avec des exemples :
 
 [indent]• Set up
-[i]Exemple : [color=#0000FF]He set up the equipment.[font_size=18pt](Il a installé le matériel.)[/font_size][/color] [color=#008000](He set up the equipment.)[/color]
-[i]Exemple : [color=#0000FF]It was a set up![font_size=18pt](C'était un coup monté !)[/font_size][/color] [color=#008000](It was a set up!)[/color][/i]
+[i]Exemple : [color=#0000FF]He set up the equipment.[font_size=18](Il a installé le matériel.)[/font_size][/color] [color=#008000](He set up the equipment.)[/color][/i]
+[i]Exemple : [color=#0000FF]It was a set up![font_size=18](C'était un coup monté !)[/font_size][/color] [color=#008000](It was a set up!)[/color][/i]
 
 - Take off
-[i]Exemple : [color=#0000FF]The plane took off.[font_size=18pt](L'avion a décollé.)[/font_size][/color] [color=#008000](The plane took off.)[/color]
-[i]Exemple : [color=#0000FF]He took off his coat.[font_size=18pt](Il a enlevé son manteau.)[/font_size][/color] [color=#008000](He took off his coat.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]The plane took off.[font_size=18](L'avion a décollé.)[/font_size][/color] [color=#008000](The plane took off.)[/color][/i]
+[i]Exemple : [color=#0000FF]He took off his coat.[font_size=18](Il a enlevé son manteau.)[/font_size][/color] [color=#008000](He took off his coat.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

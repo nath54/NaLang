@@ -48,20 +48,20 @@ gespielt [color=#008000](joué)[/color]
 gelernt [color=#008000](appris)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich habe das Buch gelesen.[font_size=18pt](Ich habe das Buch gelesen.)[/font_size][/color] [color=#008000](J'ai lu le livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich habe das Buch gelesen.[font_size=18](Ich habe das Buch gelesen.)[/font_size][/color] [color=#008000](J'ai lu le livre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des Verbes Faibles[/color][/font_size]
 
 Les verbes faibles sont couramment utilisés en allemand. Leur régularité les rend essentiels pour les apprenants. Voici quelques conseils pour les utiliser de manière efficace :
 
 [indent]• Apprenez les modèles de conjugaison par cœur pour les reconnaître facilement.
-[i]Exemple : [color=#0000FF]Er macht seine Hausaufgaben jeden Tag.[font_size=18pt](Er macht seine Hausaufgaben jeden Tag.)[/font_size][/color] [color=#008000](Il fait ses devoirs tous les jours.)[/color][/i]
+[i]Exemple : [color=#0000FF]Er macht seine Hausaufgaben jeden Tag.[font_size=18](Er macht seine Hausaufgaben jeden Tag.)[/font_size][/color] [color=#008000](Il fait ses devoirs tous les jours.)[/color][/i]
 
 - Pratiquez les conjugaisons à différents temps pour renforcer votre maîtrise.
-[i]Exemple : [color=#0000FF]Wir haben gestern Fußball gespielt.[font_size=18pt](Wir haben gestern Fußball gespielt.)[/font_size][/color] [color=#008000](Nous avons joué au football hier.)[/color][/i]
+[i]Exemple : [color=#0000FF]Wir haben gestern Fußball gespielt.[font_size=18](Wir haben gestern Fußball gespielt.)[/font_size][/color] [color=#008000](Nous avons joué au football hier.)[/color][/i]
 
 - Utilisez des exercices et des exemples pour voir comment ces verbes sont employés dans des phrases réelles.
-[i]Exemple : [color=#0000FF]Sie lernt Deutsch in der Schule.[font_size=18pt](Sie lernt Deutsch in der Schule.)[/font_size][/color] [color=#008000](Elle apprend l'allemand à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Sie lernt Deutsch in der Schule.[font_size=18](Sie lernt Deutsch in der Schule.)[/font_size][/color] [color=#008000](Elle apprend l'allemand à l'école.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Verbes Faibles Courants[/color][/font_size]
 
@@ -77,7 +77,7 @@ wohnen (habiter)
 fragen (demander)
 antworten (répondre)
 [/code]
-[i]Exemple : [color=#0000FF]Er wohnt in Berlin.[font_size=18pt](Er wohnt in Berlin.)[/font_size][/color] [color=#008000](Il habite à Berlin.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er wohnt in Berlin.[font_size=18](Er wohnt in Berlin.)[/font_size][/color] [color=#008000](Il habite à Berlin.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

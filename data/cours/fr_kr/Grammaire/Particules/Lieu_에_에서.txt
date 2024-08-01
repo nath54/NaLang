@@ -14,7 +14,7 @@ La particule [color=#FF0000]에[/color] (e) est utilisée pour indiquer la desti
 저는 학교에 갑니다 (jeoneun hakgyo-e gamnida) [color=#008000](Je vais à l'école)[/color]
 그는 집에 돌아갑니다 (geuneun jib-e doragamnida) [color=#008000](Il retourne à la maison)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]학원을 다녀요.[font_size=18pt](hagwon-e danyeo.)[/font_size][/color] [color=#008000](Je vais au cours privé.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]학원을 다녀요.[font_size=18](hagwon-e danyeo.)[/font_size][/color] [color=#008000](Je vais au cours privé.)[/color][/i][/indent]
 
 [b]b) Lieu d'une action statique[/b]
 [indent]Utilisé pour parler du lieu où se trouve quelqu'un ou quelque chose ou où une action, sans déplacement, a lieu.
@@ -23,14 +23,14 @@ La particule [color=#FF0000]에[/color] (e) est utilisée pour indiquer la desti
 방에 (bang-e) [color=#008000](dans la chambre)[/color]
 사무실에 있어요 (samusil-e isseo) [color=#008000](être dans le bureau)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]그는 방에 있어요.[font_size=18pt](geuneun bang-e isseoyo.)[/font_size][/color] [color=#008000](Il est dans la chambre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 방에 있어요.[font_size=18](geuneun bang-e isseoyo.)[/font_size][/color] [color=#008000](Il est dans la chambre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Particule 에서 (eseo)[/color][/font_size]
 
 La particule [color=#FF0000]에서[/color] (eseo) est utilisée pour désigner l'endroit où une action dynamique ou un événement se produit.
 
 [indent]• Lieu d'une action ou d'un événement dynamique
-[i]Exemple : [color=#0000FF]학교에서 공부합니다.[font_size=18pt](hakgyo-eseo gongbuhamnida.)[/font_size][/color] [color=#008000](Il/Elle étudie à l'école.)[/color][/i]
+[i]Exemple : [color=#0000FF]학교에서 공부합니다.[font_size=18](hakgyo-eseo gongbuhamnida.)[/font_size][/color] [color=#008000](Il/Elle étudie à l'école.)[/color][/i][/indent]
 
 [indent] - Lieu où se déroule une activité ou un événement :
 [code]
@@ -38,7 +38,7 @@ La particule [color=#FF0000]에서[/color] (eseo) est utilisée pour désigner l
 공원에서 (gongwon-eseo) [color=#008000](dans le parc)[/color]
 사무실에서 일해요 (samusil-eseo ilhaeyo) [color=#008000](travailler au bureau)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]백화점에서 쇼핑해요.[font_size=18pt](baekhwajeom-eseo syopinghaeyo.)[/font_size][/color] [color=#008000](Il/Elle fait du shopping au centre commercial.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]백화점에서 쇼핑해요.[font_size=18](baekhwajeom-eseo syopinghaeyo.)[/font_size][/color] [color=#008000](Il/Elle fait du shopping au centre commercial.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Différences et Utilisation[/color][/font_size]
 
@@ -46,11 +46,11 @@ Pour choisir entre [color=#FF0000]에[/color] (e) et [color=#FF0000]에서[/colo
 
 [indent]• Utilisez [color=#FF0000]에[/color] (e) pour :
  indiquer une destination ou un lieu statique.
-[i]Exemple : [color=#0000FF]도서관에 가요.[font_size=18pt](doseogwan-e gayo.)[/font_size][/color] [color=#008000](Je vais à la bibliothèque.)[/color][/i]
+[i]Exemple : [color=#0000FF]도서관에 가요.[font_size=18](doseogwan-e gayo.)[/font_size][/color] [color=#008000](Je vais à la bibliothèque.)[/color][/i]
 
 - Utilisez [color=#FF0000]에서[/color] (eseo) pour :
  indiquer un lieu où se produit une action dynamique.
-[i]Exemple : [color=#0000FF]커피숍에서 만나요.[font_size=18pt](keopisyop-eseo mannayo.)[/font_size][/color] [color=#008000](Vous rencontrez au café.)[/color][/i]
+[i]Exemple : [color=#0000FF]커피숍에서 만나요.[font_size=18](keopisyop-eseo mannayo.)[/font_size][/color] [color=#008000](Vous rencontrez au café.)[/color][/i]
 [/indent]
 
 [center][color=#808080]__________[/color][/center]

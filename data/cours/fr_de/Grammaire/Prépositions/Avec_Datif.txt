@@ -22,7 +22,7 @@ außer [color=#008000](excepté, sauf)[/color]
 gegenüber [color=#008000](en face de, vis-à-vis de)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich gehe mit meinem Freund ins Kino.[font_size=18pt](Ich gehe mit meinem Freund ins Kino.)[/font_size][/color] [color=#008000](Je vais au cinéma avec mon ami.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich gehe mit meinem Freund ins Kino.[font_size=18](Ich gehe mit meinem Freund ins Kino.)[/font_size][/color] [color=#008000](Je vais au cinéma avec mon ami.)[/color][/i][/indent]
 
 [b]b) Prépositions composées[/b]
 [indent]
@@ -36,30 +36,30 @@ während [color=#008000](pendant)[/color]
 wegen [color=#008000](à cause de)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Trotz des schlechten Wetters gingen wir spazieren.[font_size=18pt](Trotz des schlechten Wetters gingen wir spazieren.)[/font_size][/color] [color=#008000](Malgré le mauvais temps, nous sommes allés nous promener.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Trotz des schlechten Wetters gingen wir spazieren.[font_size=18](Trotz des schlechten Wetters gingen wir spazieren.)[/font_size][/color] [color=#008000](Malgré le mauvais temps, nous sommes allés nous promener.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Usage des prépositions avec le datif[/color][/font_size]
 
 Les prépositions de datif affectent le cas des noms et des pronoms qui les suivent. Voici quelques règles pour bien utiliser ces prépositions.
 
 [indent]• Action continue et état :
-[i]Exemple : [color=#0000FF]Ich wohne seit einem Jahr in Berlin.[font_size=18pt](Ich wohne seit einem Jahr in Berlin.)[/font_size][/color] [color=#008000](Je vis à Berlin depuis un an.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich wohne seit einem Jahr in Berlin.[font_size=18](Ich wohne seit einem Jahr in Berlin.)[/font_size][/color] [color=#008000](Je vis à Berlin depuis un an.)[/color][/i]
 
 - Direction et destination :
-[i]Exemple : [color=#0000FF]Er geht zu seiner Freundin.[font_size=18pt](Er geht zu seiner Freundin.)[/font_size][/color] [color=#008000](Il va chez sa copine.)[/color][/i]
+[i]Exemple : [color=#0000FF]Er geht zu seiner Freundin.[font_size=18](Er geht zu seiner Freundin.)[/font_size][/color] [color=#008000](Il va chez sa copine.)[/color][/i]
 
 - Association et accompaniment :
-[i]Exemple : [color=#0000FF]Wir sprechen mit unserem Lehrer.[font_size=18pt](Wir sprechen mit unserem Lehrer.)[/font_size][/color] [color=#008000](Nous parlons avec notre professeur.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wir sprechen mit unserem Lehrer.[font_size=18](Wir sprechen mit unserem Lehrer.)[/font_size][/color] [color=#008000](Nous parlons avec notre professeur.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Pour ajouter des informations supplémentaires comme le lieu ou l'heure, il est possible de combiner plusieurs datifs dans une même phrase. 
 
 [indent]• Combinaison avec indication de temps :
-[i]Exemple : [color=#0000FF]Ich bin seit Montag bei meinen Eltern.[font_size=18pt](Ich bin seit Montag bei meinen Eltern.)[/font_size][/color] [color=#008000](Je suis chez mes parents depuis lundi.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich bin seit Montag bei meinen Eltern.[font_size=18](Ich bin seit Montag bei meinen Eltern.)[/font_size][/color] [color=#008000](Je suis chez mes parents depuis lundi.)[/color][/i]
 
 - Précision du lieu :
-[i]Exemple : [color=#0000FF]Der Park ist gegenüber dem Bahnhof.[font_size=18pt](Der Park ist gegenüber dem Bahnhof.)[/font_size][/color] [color=#008000](Le parc est en face de la gare.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Der Park ist gegenüber dem Bahnhof.[font_size=18](Der Park ist gegenüber dem Bahnhof.)[/font_size][/color] [color=#008000](Le parc est en face de la gare.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

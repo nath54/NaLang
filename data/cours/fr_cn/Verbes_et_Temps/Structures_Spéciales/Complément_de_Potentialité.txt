@@ -17,7 +17,7 @@ Pour exprimer la potentialité en chinois, on utilise généralement des verbes 
 听得到 (tīng de dào) [color=#008000](pouvoir entendre)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我看得到黑板。[font_size=18pt](Wǒ kàn de dào hēibǎn.)[/font_size][/color] [color=#008000](Je peux voir le tableau noir.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我看得到黑板。[font_size=18](Wǒ kàn de dào hēibǎn.)[/font_size][/color] [color=#008000](Je peux voir le tableau noir.)[/color][/i][/indent]
 
 [b]b) Négatif : Potentialité négative[/b]
 [indent]Pour exprimer l'impossibilité, on utilise "不" (bù) ou "不能" (bù néng) avant le verbe.
@@ -28,30 +28,30 @@ Pour exprimer la potentialité en chinois, on utilise généralement des verbes 
 听不到 (tīng bù dào) [color=#008000](ne pas pouvoir entendre)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我听不到音乐。[font_size=18pt](Wǒ tīng bù dào yīnyuè.)[/font_size][/color] [color=#008000](Je ne peux pas entendre la musique.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我听不到音乐。[font_size=18](Wǒ tīng bù dào yīnyuè.)[/font_size][/color] [color=#008000](Je ne peux pas entendre la musique.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des compléments de potentialité[/color][/font_size]
 
 Les compléments de potentialité servent à décrire la capacité ou l'incapacité de réaliser une action. Voici quelques règles et exemples pour vous aider à bien les utiliser.
 
 [indent]• Quand l'action est possible, utilisez [color=#FF0000]得[/color] (de) entre le verbe et le complément.
-[i]Exemple : [color=#0000FF]我们走得到那里。[font_size=18pt](Wǒmen zǒu de dào nàli.)[/font_size][/color] [color=#008000](Nous pouvons aller là-bas.)[/color][/i]
+[i]Exemple : [color=#0000FF]我们走得到那里。[font_size=18](Wǒmen zǒu de dào nàli.)[/font_size][/color] [color=#008000](Nous pouvons aller là-bas.)[/color][/i]
 
 - Quand l'action est impossible, utilisez [color=#FF0000]不[/color] (bù) ou [color=#FF0000]不能[/color] (bù néng) avant le verbe.
-[i]Exemple : [color=#0000FF]孩子拿不到那个书。[font_size=18pt](Háizi ná bù dào nàge shū.)[/font_size][/color] [color=#008000](L'enfant ne peut pas atteindre ce livre.)[/color][/i]
+[i]Exemple : [color=#0000FF]孩子拿不到那个书。[font_size=18](Háizi ná bù dào nàge shū.)[/font_size][/color] [color=#008000](L'enfant ne peut pas atteindre ce livre.)[/color][/i]
 
 - Pour exprimer la permission ou la capacité, on utilise [color=#FF0000]能[/color] (néng) avant le verbe.
-[i]Exemple : [color=#0000FF]他能吃得完这些饭。[font_size=18pt](Tā néng chī de wán zhèxiē fàn.)[/font_size][/color] [color=#008000](Il peut finir ce repas.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他能吃得完这些饭。[font_size=18](Tā néng chī de wán zhèxiē fàn.)[/font_size][/color] [color=#008000](Il peut finir ce repas.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Il existe plusieurs nuances et façons d'utiliser les compléments de potentialité pour indiquer différents degrés de capacité ou d'incapacité.
 
 [indent]• Utilisation des adverbes pour renforcer ou atténuer la capacité.
-[i]Exemple : [color=#0000FF]他总是看得到远处的山。[font_size=18pt](Tā zǒng shì kàn de dào yuǎnchù de shān.)[/font_size][/color] [color=#008000](Il peut toujours voir les montagnes au loin.)[/color][/i]
+[i]Exemple : [color=#0000FF]他总是看得到远处的山。[font_size=18](Tā zǒng shì kàn de dào yuǎnchù de shān.)[/font_size][/color] [color=#008000](Il peut toujours voir les montagnes au loin.)[/color][/i]
 
 - Indiquer une limite de capacité ou d'incapacité.
-[i]Exemple : [color=#0000FF]我只能看到这个远度。[font_size=18pt](Wǒ zhǐ néng kàn dào zhège yuǎndù.)[/font_size][/color] [color=#008000](Je ne peux voir que jusqu'à cette distance.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我只能看到这个远度。[font_size=18](Wǒ zhǐ néng kàn dào zhège yuǎndù.)[/font_size][/color] [color=#008000](Je ne peux voir que jusqu'à cette distance.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

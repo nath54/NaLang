@@ -23,7 +23,7 @@ Les numéraux sino-coréens sont basés sur les chiffres chinois et sont utilis�
 10 십 (sip)
 [/code]
 
-[i]Exemple : [color=#0000FF]오늘은 7월 15일입니다.[font_size=18pt](Oneureun chirwol sibilimnida.)[/font_size][/color] [color=#008000](Aujourd'hui, c'est le 15 juillet.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]오늘은 7월 15일입니다.[font_size=18](Oneureun chirwol sibilimnida.)[/font_size][/color] [color=#008000](Aujourd'hui, c'est le 15 juillet.)[/color][/i][/indent]
 
 [b]b) Nombres composés jusqu'à 100[/b]
 [indent]Les nombres sino-coréens se forment de manière additive pour les dizaines et les unités.
@@ -40,7 +40,7 @@ Les numéraux sino-coréens sont basés sur les chiffres chinois et sont utilis�
 100 백 (baek)
 [/code]
 
-[i]Exemple : [color=#0000FF]이 책은 25,000원입니다.[font_size=18pt](I chaegeun imanocheon wonimnida.)[/font_size][/color] [color=#008000](Ce livre coûte 25,000 wons.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]이 책은 25,000원입니다.[font_size=18](I chaegeun imanocheon wonimnida.)[/font_size][/color] [color=#008000](Ce livre coûte 25,000 wons.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Les numéraux natifs coréens (고유어 수 goyu-eo su)[/color][/font_size]
 
@@ -61,7 +61,7 @@ Les numéraux natifs coréens sont utilisés principalement pour compter les obj
 10 열 (yeol)
 [/code]
 
-[i]Exemple : [color=#0000FF]사과 다섯개 주세요.[font_size=18pt](Sagwa daseotgae juseyo.)[/font_size][/color] [color=#008000](Donnez-moi cinq pommes, s'il vous plaît.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]사과 다섯개 주세요.[font_size=18](Sagwa daseotgae juseyo.)[/font_size][/color] [color=#008000](Donnez-moi cinq pommes, s'il vous plaît.)[/color][/i][/indent]
 
 [b]b) Les dizaines[/b]
 [indent]Les dizaines suivent une structure logarithmique pour les numéraux natifs.
@@ -77,7 +77,7 @@ Les numéraux natifs coréens sont utilisés principalement pour compter les obj
 90 아흔 (aheon)
 [/code]
 
-[i]Exemple : [color=#0000FF]저는 서른살입니다.[font_size=18pt](Jeoneun seoreunsalimnida.)[/font_size][/color] [color=#008000](J'ai trente ans.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]저는 서른살입니다.[font_size=18](Jeoneun seoreunsalimnida.)[/font_size][/color] [color=#008000](J'ai trente ans.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Combinaison et utilisation des numéraux[/color][/font_size]
 
@@ -91,7 +91,7 @@ En coréen, l'utilisation des numéraux natifs ou sino-coréens dépend souvent 
   - Utilisez les numéraux natifs avec les compteurs appropriés.
   - Exemples de compteurs courants : 개 (gae) pour les objets, 명 (myeong) pour les personnes, 권 (gwon) pour les livres.
 
-[i]Exemple : [color=#0000FF]책 세권을 샀습니다.[font_size=18pt](Chaek segwoneul satseumnida.)[/font_size][/color] [color=#008000](J'ai acheté trois livres.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]책 세권을 샀습니다.[font_size=18](Chaek segwoneul satseumnida.)[/font_size][/color] [color=#008000](J'ai acheté trois livres.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

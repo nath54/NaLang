@@ -12,48 +12,48 @@ Pour conjuguer un verbe au présent en japonais, il est important de distinguer 
 [indent]Les verbes de type 1 se terminent souvent par le son -u en forme de dictionnaire. Pour les conjuguer au présent, on remplace la terminaison -u par -imasu (pour la forme polie).
 
 [code]
-話す (hanasu) [color=#008000](parler) → 話します (hanashimasu)
-書く (kaku) [color=#008000](écrire) → 書きます (kakimasu)
-聞く (kiku) [color=#008000](écouter) → 聞きます (kikimasu)
-行く (iku) [color=#008000](aller) → 行きます (ikimasu)
+話す (hanasu) [color=#008000](parler) → 話します (hanashimasu)[/color]
+書く (kaku) [color=#008000](écrire) → 書きます (kakimasu)[/color]
+聞く (kiku) [color=#008000](écouter) → 聞きます (kikimasu)[/color]
+行く (iku) [color=#008000](aller) → 行きます (ikimasu)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は日本語を話します。[font_size=18pt](Watashi wa nihongo o hanashimasu.)[/font_size][/color] [color=#008000](Je parle japonais.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は日本語を話します。[font_size=18](Watashi wa nihongo o hanashimasu.)[/font_size][/color] [color=#008000](Je parle japonais.)[/color][/i][/indent]
 
 [b]b) Verbes de type 2 (一段動詞 ichidan doushi)[/b]
 [indent]Les verbes de type 2 se terminent souvent par -iru ou -eru en forme de dictionnaire. Pour les conjuguer au présent, on remplace la terminaison -ru par -masu (pour la forme polie).
 
 [code]
-食べる (taberu) [color=#008000](manger) → 食べます (tabemasu)
-見る (miru) [color=#008000](voir) → 見ます (mimasu)
-起きる (okiru) [color=#008000](se lever) → 起きます (okimasu)
-寝る (neru) [color=#008000](dormir) → 寝ます (nemasu)
+食べる (taberu) [color=#008000](manger) → 食べます (tabemasu)[/color]
+見る (miru) [color=#008000](voir) → 見ます (mimasu)[/color]
+起きる (okiru) [color=#008000](se lever) → 起きます (okimasu)[/color]
+寝る (neru) [color=#008000](dormir) → 寝ます (nemasu)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私はご飯を食べます。[font_size=18pt](Watashi wa gohan o tabemasu.)[/font_size][/color] [color=#008000](Je mange du riz.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私はご飯を食べます。[font_size=18](Watashi wa gohan o tabemasu.)[/font_size][/color] [color=#008000](Je mange du riz.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du présent[/color][/font_size]
 
 Le présent en japonais est utilisé pour indiquer des actions répétitives, des habitudes, des vérités générales ou des événements à venir. Voici quelques règles importantes et exemples pour illustrer cela :
 
 [indent]• Pour parler de vérités générales ou de lois.
-[i]Exemple : [color=#0000FF]太陽は東から昇ります。[font_size=18pt](Taiyou wa higashi kara noborimasu.)[/font_size][/color] [color=#008000](Le soleil se lève à l'est.)[/color][/i]
+[i]Exemple : [color=#0000FF]太陽は東から昇ります。[font_size=18](Taiyou wa higashi kara noborimasu.)[/font_size][/color] [color=#008000](Le soleil se lève à l'est.)[/color][/i]
 
 - Pour exprimer une habitude ou une action habituelle.
-[i]Exemple : [color=#0000FF]毎日運動します。[font_size=18pt](Mainichi undou shimasu.)[/font_size][/color] [color=#008000](Je fais de l'exercice tous les jours.)[/color][/i]
+[i]Exemple : [color=#0000FF]毎日運動します。[font_size=18](Mainichi undou shimasu.)[/font_size][/color] [color=#008000](Je fais de l'exercice tous les jours.)[/color][/i]
 
 - Pour parler d’événements futurs planifiés.
-[i]Exemple : [color=#0000FF]明日、友達に会います。[font_size=18pt](Ashita, tomodachi ni aimasu.)[/font_size][/color] [color=#008000](Je vais rencontrer un ami demain.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]明日、友達に会います。[font_size=18](Ashita, tomodachi ni aimasu.)[/font_size][/color] [color=#008000](Je vais rencontrer un ami demain.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Quand on utilise les verbes au présent en japonais, il est souvent utile d'ajouter des compléments de temps pour situer l'action dans le contexte approprié.
 
 [indent]• Compléments de temps pour indiquer la fréquence
-[i]Exemple : [color=#0000FF]時々映画を見ます。[font_size=18pt](Tokidoki eiga o mimasu.)[/font_size][/color] [color=#008000](Je regarde des films de temps en temps.)[/color][/i]
+[i]Exemple : [color=#0000FF]時々映画を見ます。[font_size=18](Tokidoki eiga o mimasu.)[/font_size][/color] [color=#008000](Je regarde des films de temps en temps.)[/color][/i]
 
 - Indiquer le moment de l’action
-[i]Exemple : [color=#0000FF]今、朝ご飯を食べます。[font_size=18pt](Ima, asagohan o tabemasu.)[/font_size][/color] [color=#008000](Je mange le petit déjeuner maintenant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]今、朝ご飯を食べます。[font_size=18](Ima, asagohan o tabemasu.)[/font_size][/color] [color=#008000](Je mange le petit déjeuner maintenant.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

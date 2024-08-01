@@ -16,7 +16,7 @@ er/sie/es muss [color=#008000](il/elle/on doit)[/color]
 wir müssen [color=#008000](nous devons)[/color]
 ihr müsst [color=#008000](vous devez)[/color]
 sie/Sie müssen [color=#008000](ils/elles/Vous doivent)[/color]
-[/code]
+[/code][/indent]
 
 [b]b) sollen (devoir moral, conseil)[/b]
 [code]
@@ -68,40 +68,40 @@ ihr mögt [color=#008000](vous aimez)[/color]
 sie/Sie mögen [color=#008000](ils/elles/Vous aiment)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich muss heute arbeiten.[font_size=18pt] (Je dois travailler aujourd'hui.)[/font_size][/color] [color=#008000](Je dois travailler aujourd'hui.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich muss heute arbeiten.[font_size=18] (Je dois travailler aujourd'hui.)[/font_size][/color] [color=#008000](Je dois travailler aujourd'hui.)[/color][/i]
 
 [font_size=24][color=#4B0082]2. Utilisation des verbes de modalité[/color][/font_size]
 
 Les verbes de modalité modifient le sens des verbes qu'ils accompagnent et leur infinitif se place généralement en fin de phrase.
 
 [indent]• Pour indiquer la capacité ou la possibilité, utilisez [color=#FF0000]können[/color]:
-[i]Exemple : [color=#0000FF]Er kann Deutsch sprechen.[font_size=18pt] (Il peut parler allemand.)[/font_size][/color] [color=#008000](Il peut parler allemand.)[/color][/i]
+[i]Exemple : [color=#0000FF]Er kann Deutsch sprechen.[font_size=18] (Il peut parler allemand.)[/font_size][/color] [color=#008000](Il peut parler allemand.)[/color][/i]
 
 - Pour exprimer une permission ou une autorisation, utilisez [color=#FF0000]dürfen[/color]:
-[i]Exemple : [color=#0000FF]Darf ich hier rauchen?[font_size=18pt](Puis-je fumer ici ?)[/font_size][/color] [color=#008000](Puis-je fumer ici ?)[/color][/i]
+[i]Exemple : [color=#0000FF]Darf ich hier rauchen?[font_size=18](Puis-je fumer ici ?)[/font_size][/color] [color=#008000](Puis-je fumer ici ?)[/color][/i]
 
 - Pour exprimer une nécessité ou une obligation, utilisez [color=#FF0000]müssen[/color]:
-[i]Exemple : [color=#0000FF]Wir müssen morgen früh aufstehen.[font_size=18pt](Nous devons nous lever tôt demain.)[/font_size][/color] [color=#008000](Nous devons nous lever tôt demain.)[/color][/i]
+[i]Exemple : [color=#0000FF]Wir müssen morgen früh aufstehen.[font_size=18](Nous devons nous lever tôt demain.)[/font_size][/color] [color=#008000](Nous devons nous lever tôt demain.)[/color][/i]
 
 - Pour indiquer une volonté ou un souhait, utilisez [color=#FF0000]wollen[/color]:
-[i]Exemple : [color=#0000FF]Ich will ein neues Handy kaufen.[font_size=18pt](Je veux acheter un nouveau téléphone.)[/font_size][/color] [color=#008000](Je veux acheter un nouveau téléphone.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich will ein neues Handy kaufen.[font_size=18](Je veux acheter un nouveau téléphone.)[/font_size][/color] [color=#008000](Je veux acheter un nouveau téléphone.)[/color][/i]
 
 - Pour exprimer le devoir moral ou donner un conseil, utilisez [color=#FF0000]sollen[/color]:
-[i]Exemple : [color=#0000FF]Du sollst mehr Wasser trinken.[font_size=18pt](Tu devrais boire plus d'eau.)[/font_size][/color] [color=#008000](Tu devrais boire plus d'eau.)[/color][/i]
+[i]Exemple : [color=#0000FF]Du sollst mehr Wasser trinken.[font_size=18](Tu devrais boire plus d'eau.)[/font_size][/color] [color=#008000](Tu devrais boire plus d'eau.)[/color][/i]
 
 - Pour exprimer une préférence ou un désir, utilisez [color=#FF0000]mögen[/color]:
-[i]Exemple : [color=#0000FF]Ich mag Schokolade.[font_size=18pt](J'aime le chocolat.)[/font_size][/color] [color=#008000](J'aime le chocolat.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich mag Schokolade.[font_size=18](J'aime le chocolat.)[/font_size][/color] [color=#008000](J'aime le chocolat.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Particularités des verbes de modalité[/color][/font_size]
 
 Les verbes de modalité ont certaines particularités qui les distinguent des autres verbes :
 
 [indent]• Au passé, ils se conjuguent souvent avec le prétérit plutôt qu'avec le parfait :
-[i]Exemple : [color=#0000FF]Ich musste gehen.[font_size=18pt](Je devais partir.)[/font_size][/color] [color=#008000](Je devais partir.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich musste gehen.[font_size=18](Je devais partir.)[/font_size][/color] [color=#008000](Je devais partir.)[/color][/i]
 
 - Les phrases négatives avec des verbes de modalité peuvent changer de sens :
-[i]Exemple : [color=#0000FF]Ich kann nicht kommen.[font_size=18pt](Je ne peux pas venir.)[/font_size][/color] [color=#008000](Je ne peux pas venir.)[/color][/i]
-[i] Ich darf nicht kommen.[font_size=18pt](Je n'ai pas la permission de venir.)[/font_size][/color] [color=#008000](Je n'ai pas la permission de venir.)[/color][/i] [/indent]
+[i]Exemple : [color=#0000FF]Ich kann nicht kommen.[font_size=18](Je ne peux pas venir.)[/font_size][/color] [color=#008000](Je ne peux pas venir.)[/color][/i]
+[i] Ich darf nicht kommen.[font_size=18](Je n'ai pas la permission de venir.)[/font_size] [color=#008000](Je n'ai pas la permission de venir.)[/color][/i] [/indent]
 
 [center][color=#808080]__________[/color][/center]
 

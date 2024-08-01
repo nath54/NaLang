@@ -17,7 +17,7 @@ En coréen, les phrases conditionnelles sont souvent construites en ajoutant des
 -라면 (ramyeon) [color=#008000](si c'est... alors)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]비가 오면 우산을 쓰세요。[font_size=18pt](Biga omyeon usaneul sseuseyo.)[/font_size][/color] [color=#008000](S'il pleut, utilisez un parapluie.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]비가 오면 우산을 쓰세요。[font_size=18](Biga omyeon usaneul sseuseyo.)[/font_size][/color] [color=#008000](S'il pleut, utilisez un parapluie.)[/color][/i][/indent]
 
 [b]b) Formule conditionnelle composée[/b]
 [indent]Les formules conditionnelles composées utilisent des combinaisons de verbes et suffixes pour exprimer des conditions complexes.
@@ -27,30 +27,30 @@ En coréen, les phrases conditionnelles sont souvent construites en ajoutant des
 -려고 하면 (ryeogo hamyeon) [color=#008000](si vous avez l'intention de)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]끝났으면 나가도 됩니다。[font_size=18pt](Kkeutnasseumyeon nagado dwaemnida.)[/font_size][/color] [color=#008000](Si vous avez terminé, vous pouvez partir.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]끝났으면 나가도 됩니다。[font_size=18](Kkeutnasseumyeon nagado dwaemnida.)[/font_size][/color] [color=#008000](Si vous avez terminé, vous pouvez partir.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des phrases conditionnelles[/color][/font_size]
 
 Les phrases conditionnelles permettent de décrire non seulement les conditions et leurs conséquences, mais aussi des souhaits, des suggestions et des intentions. Voici quelques exemples typiques et règles d'utilisation.
 
 [indent]• Exprimer une condition et une conséquence :
-[i]Exemple : [color=#0000FF]날씨가 좋으면 공원에 갈 거예요。[font_size=18pt](Nalssiga joeumyeon gongwon-e gal geoyeyo.)[/font_size][/color] [color=#008000](S'il fait beau, j'irai au parc.)[/color][/i]
+[i]Exemple : [color=#0000FF]날씨가 좋으면 공원에 갈 거예요。[font_size=18](Nalssiga joeumyeon gongwon-e gal geoyeyo.)[/font_size][/color] [color=#008000](S'il fait beau, j'irai au parc.)[/color][/i]
 
 - Exprimer un souhait :
-[i]Exemple : [color=#0000FF]돈이 많았으면 좋겠어요。[font_size=18pt](Doni manhasseumyeon jokesseoyo.)[/font_size][/color] [color=#008000](Si seulement j'avais beaucoup d'argent.)[/color][/i]
+[i]Exemple : [color=#0000FF]돈이 많았으면 좋겠어요。[font_size=18](Doni manhasseumyeon jokesseoyo.)[/font_size][/color] [color=#008000](Si seulement j'avais beaucoup d'argent.)[/color][/i]
 
 - Faire une suggestion :
-[i]Exemple : [color=#0000FF]시간이 있으면 같이 영화 볼래요。[font_size=18pt](Sigani itseumyeon gachi yeonghwa bolraeyo.)[/font_size][/color] [color=#008000](Si vous avez le temps, regardons un film ensemble.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]시간이 있으면 같이 영화 볼래요。[font_size=18](Sigani itseumyeon gachi yeonghwa bolraeyo.)[/font_size][/color] [color=#008000](Si vous avez le temps, regardons un film ensemble.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Pour ajouter des précisions sur le contexte ou le but, on peut insérer des compléments entre le sujet et la proposition conditionnelle.
 
 [indent]• Insertion d'un contexte spécifique
-[i]Exemple : [color=#0000FF]저녁 먹기 전에 오면 좋겠어요。[font_size=18pt](Jeonyeok meokgi jeone omyeon jokesseoyo.)[/font_size][/color] [color=#008000](Ce serait bien si vous veniez avant le dîner.)[/color][/i]
+[i]Exemple : [color=#0000FF]저녁 먹기 전에 오면 좋겠어요。[font_size=18](Jeonyeok meokgi jeone omyeon jokesseoyo.)[/font_size][/color] [color=#008000](Ce serait bien si vous veniez avant le dîner.)[/color][/i]
 
 - Préciser l'intention ou un but
-[i]Exemple : [color=#0000FF]시험에 합격하려면 열심히 공부해야 돼요。[font_size=18pt](Siheom-e hapgyeokharyeomyeon yeolsimhi gongbuhaeya dwaeyo.)[/font_size][/color] [color=#008000](Si vous voulez réussir l'examen, vous devez étudier dur.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]시험에 합격하려면 열심히 공부해야 돼요。[font_size=18](Siheom-e hapgyeokharyeomyeon yeolsimhi gongbuhaeya dwaeyo.)[/font_size][/color] [color=#008000](Si vous voulez réussir l'examen, vous devez étudier dur.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

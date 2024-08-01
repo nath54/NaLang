@@ -18,7 +18,7 @@ Les salutations en Corée du Sud sont très importantes et suivent des règles s
 죄송합니다 (joesonghamnida) [color=#008000](Je suis désolé)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]안녕하세요, 만나서 반갑습니다.[font_size=18pt](annyeong haseyo, mannaseo bangapseumnida)[/font_size][/color] [color=#008000](Bonjour, enchanté)[/color][/i][/indent][/indent]
+[i]Exemple : [color=#0000FF]안녕하세요, 만나서 반갑습니다.[font_size=18](annyeong haseyo, mannaseo bangapseumnida)[/font_size][/color] [color=#008000](Bonjour, enchanté)[/color][/i][/indent][/indent]
 
 [font_size=24][color=#4B0082]2. Repas et boissons[/color][/font_size]
 
@@ -30,7 +30,7 @@ Lorsque vous prenez un repas ou une boisson avec des Coréens, il y a des règle
 [b]b) Manier les baguettes[/b]
 [indent]Ne plantez jamais vos baguettes verticalement dans un bol de riz ; cela rappelle les rites funéraires.
 
-[i]Exemple : [color=#0000FF]우리 같이 먹어요.[font_size=18pt](uri gachi meog-eoyo)[/font_size][/color] [color=#008000](Mangeons ensemble.)[/color][/i][/indent][/indent]
+[i]Exemple : [color=#0000FF]우리 같이 먹어요.[font_size=18](uri gachi meog-eoyo)[/font_size][/color] [color=#008000](Mangeons ensemble.)[/color][/i][/indent][/indent]
 
 [font_size=24][color=#4B0082]3. Interaction sociale[/color][/font_size]
 
@@ -42,7 +42,7 @@ Les interactions sociales en Corée du Sud sont marquées par le respect des aî
 [b]b) Échanger des cartes de visite[/b]
 [indent]Offrez et recevez des cartes de visite avec les deux mains.
 
-[i]Exemple : [color=#0000FF]김 선생님, 감사합니다.[font_size=18pt](Kim seonsaengnim, gamsahamnida)[/font_size][/color] [color=#008000](Merci, Monsieur Kim.)[/color][/i][/indent][/indent]
+[i]Exemple : [color=#0000FF]김 선생님, 감사합니다.[font_size=18](Kim seonsaengnim, gamsahamnida)[/font_size][/color] [color=#008000](Merci, Monsieur Kim.)[/color][/i][/indent][/indent]
 
 [font_size=24][color=#4B0082]4. Gestes et comportements à éviter[/color][/font_size]
 
@@ -54,7 +54,7 @@ Certains comportements peuvent être mal perçus en Corée du Sud.
 [b]b) Bruits de bouche[/b]
 [indent]Évitez de faire des bruits en mangeant ou en buvant ; cela peut être perçu comme un manque de respect.
 
-[i]Exemple : [color=#0000FF]조용히 하세요.[font_size=18pt](joyonghi haseyo)[/font_size][/color] [color=#008000](Veuillez faire silence.)[/color][/i][/indent][/indent]
+[i]Exemple : [color=#0000FF]조용히 하세요.[font_size=18](joyonghi haseyo)[/font_size][/color] [color=#008000](Veuillez faire silence.)[/color][/i][/indent][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

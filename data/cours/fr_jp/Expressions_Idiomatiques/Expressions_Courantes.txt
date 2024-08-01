@@ -19,7 +19,7 @@ Voici quelques expressions courantes que vous pouvez entendre ou utiliser tous l
 すみません (sumimasen) [color=#008000](Excusez-moi / Pardon)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]おはようございます。[font_size=18pt](Ohayou gozaimasu.)[/font_size][/color] [color=#008000](Bonjour (le matin).)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]おはようございます。[font_size=18](Ohayou gozaimasu.)[/font_size][/color] [color=#008000](Bonjour (le matin).)[/color][/i][/indent]
 
 [b]b) Expressions de base pour la conversation[/b]
 [indent]Ces expressions sont fréquemment utilisées pour interagir avec les autres.
@@ -32,7 +32,7 @@ Voici quelques expressions courantes que vous pouvez entendre ou utiliser tous l
 分からない (wakarana i) [color=#008000](Je ne comprends pas)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]はい、わかります。[font_size=18pt](Hai, wakarimasu.)[/font_size][/color] [color=#008000](Oui, je comprends.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]はい、わかります。[font_size=18](Hai, wakarimasu.)[/font_size][/color] [color=#008000](Oui, je comprends.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Expressions idiomatiques courantes[/color][/font_size]
 
@@ -48,20 +48,20 @@ Les idiomes peuvent enrichir votre vocabulaire et vous donner un aperçu unique 
 馬鹿にならない (baka ni naranai) [color=#008000](Ne pas être négligeable (être significatif))[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]今日は猫の手も借りたいほど忙しいです。[font_size=18pt](Kyou wa neko no te mo karitai hodo isogashii desu.)[/font_size][/color] [color=#008000](Aujourd'hui, j'ai besoin de toute l'aide possible, même celle d'un chat. (Je suis vraiment occupé.))[color/#008000][/i][/indent]
+[i]Exemple : [color=#0000FF]今日は猫の手も借りたいほど忙しいです。[font_size=18](Kyou wa neko no te mo karitai hodo isogashii desu.)[/font_size][/color] [color=#008000](Aujourd'hui, j'ai besoin de toute l'aide possible, même celle d'un chat. (Je suis vraiment occupé.))[/color][/i][/indent]
 
 [b]b) Autres expressions idiomatiques notables[/b]
 [indent]Ces idiomes sont souvent utilisés pour exprimer des concepts plus spécifiques ou émotionnels.
 [code]
-頭が切れる (atama ga kireru) [color=#008000](Être très intelligent (avoir un esprit tranchant))[color/#008000]
-手を抜く (te o nuku) [color=#008000](Travailler de manière bâclée (enlever les mains du travail))[color/#008000]
-耳が痛い (mimi ga itai) [color=#008000](Litt. avoir mal aux oreilles : se sentir gêné par ce que l'on entend)[color/#008000]
-足を引っ張る (ashi o hipparu) [color=#008000](Freiner les autres (tirer les pieds de quelqu'un))[color/#008000]
-顔が広い (kao ga hiroi) [color=#008000](Connaître beaucoup de gens (avoir un large visage))[color/#008000]
-腹を割る (hara o waru) [color=#008000](Être franc et honnête (ouvrir son ventre))[color/#008000]
+頭が切れる (atama ga kireru) [color=#008000](Être très intelligent (avoir un esprit tranchant))[/color]
+手を抜く (te o nuku) [color=#008000](Travailler de manière bâclée (enlever les mains du travail))[/color]
+耳が痛い (mimi ga itai) [color=#008000](Litt. avoir mal aux oreilles : se sentir gêné par ce que l'on entend)[/color]
+足を引っ張る (ashi o hipparu) [color=#008000](Freiner les autres (tirer les pieds de quelqu'un))[/color]
+顔が広い (kao ga hiroi) [color=#008000](Connaître beaucoup de gens (avoir un large visage))[/color]
+腹を割る (hara o waru) [color=#008000](Être franc et honnête (ouvrir son ventre))[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]その話は耳が痛いです。[font_size=18pt](Sono hanashi wa mimi ga itai desu.)[/font_size][/color] [color=#008000](Cette conversation me gêne.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]その話は耳が痛いです。[font_size=18](Sono hanashi wa mimi ga itai desu.)[/font_size][/color] [color=#008000](Cette conversation me gêne.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

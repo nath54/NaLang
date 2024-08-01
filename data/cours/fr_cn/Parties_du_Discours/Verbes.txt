@@ -23,7 +23,7 @@ Voici quelques verbes courants en chinois. Apprendre ces verbes vous donnera une
 听 (tīng) [color=#008000](entendre/écouter)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我有一本书。[font_size=18pt](Wǒ yǒu yì běn shū.)[/font_size][/color] [color=#008000](J'ai un livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我有一本书。[font_size=18](Wǒ yǒu yì běn shū.)[/font_size][/color] [color=#008000](J'ai un livre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Formes verbales[/color][/font_size]
 
@@ -32,19 +32,19 @@ Les verbes en chinois peuvent être modifiés pour indiquer le temps et l'aspect
 [b]a) Forme affirmative[/b]
 [indent]En chinois, la forme affirmative se construit simplement en utilisant le verbe sans modification. Le contexte (ou des marqueurs de temps) indique généralement le temps.
 
-[i]Exemple : [color=#0000FF]他吃苹果。[font_size=18pt](Tā chī píngguǒ.)[/font_size][/color] [color=#008000](Il mange une pomme.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他吃苹果。[font_size=18](Tā chī píngguǒ.)[/font_size][/color] [color=#008000](Il mange une pomme.)[/color][/i][/indent]
 
 [b]b) Forme négative[/b]
 [indent]Pour nier une action, on utilise souvent 再 (bù) ou 没 (méi) avant le verbe. 再 (bù) est utilisé pour les temps futurs ou présents, tandis que 没 (méi) est utilisé pour le passé.
 
-[i]Exemple : [color=#0000FF]他不吃苹果。[font_size=18pt](Tā bù chī píngguǒ.)[/font_size][/color] [color=#008000](Il ne mange pas de pomme.)[/color][/i]
+[i]Exemple : [color=#0000FF]他不吃苹果。[font_size=18](Tā bù chī píngguǒ.)[/font_size][/color] [color=#008000](Il ne mange pas de pomme.)[/color][/i]
 
-[i]Exemple : [color=#0000FF]他没吃苹果。[font_size=18pt](Tā méi chī píngguǒ.)[/font_size][/color] [color=#008000](Il n'a pas mangé de pomme.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他没吃苹果。[font_size=18](Tā méi chī píngguǒ.)[/font_size][/color] [color=#008000](Il n'a pas mangé de pomme.)[/color][/i][/indent]
 
 [b]c) Forme interrogative[/b]
 [indent]Pour poser une question en chinois, il suffit généralement d'ajouter 吗 (ma) à la fin de la phrase.
 
-[i]Exemple : [color=#0000FF]你吃苹果吗？[font_size=18pt](Nǐ chī píngguǒ ma?) [/font_size][/color] [color=#008000](Manges-tu une pomme ?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]你吃苹果吗？[font_size=18](Nǐ chī píngguǒ ma?) [/font_size][/color] [color=#008000](Manges-tu une pomme ?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Verbes composés[/color][/font_size]
 
@@ -59,7 +59,7 @@ Les verbes composés sont formés en combinant deux ou plusieurs caractères pou
 帮助 (bāng zhù) [color=#008000](aider)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我喜欢学习中文。[font_size=18pt](Wǒ xǐhuan xuéxí zhōngwén.)[/font_size][/color] [color=#008000](J'aime apprendre le chinois.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我喜欢学习中文。[font_size=18](Wǒ xǐhuan xuéxí zhōngwén.)[/font_size][/color] [color=#008000](J'aime apprendre le chinois.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

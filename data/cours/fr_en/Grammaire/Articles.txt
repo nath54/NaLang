@@ -21,7 +21,7 @@ an apple [color=#008000](une pomme)[/color]
 an hour [color=#008000](une heure)[/color] (notez que le "h" initial n'est pas prononcé)
 [/code]
 
-[i]Exemple : [color=#0000FF]She has an idea.[font_size=18pt](Elle a une idée.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She has an idea.[font_size=18](Elle a une idée.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. L'Article Défini[/color][/font_size]
 
@@ -36,7 +36,7 @@ the egg [color=#008000](l'œuf)[/color]
 the eggs [color=#008000](les œufs)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]The book on the table is mine.[font_size=18pt](Le livre sur la table est le mien.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]The book on the table is mine.[font_size=18](Le livre sur la table est le mien.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Absence d'Article[/color][/font_size]
 
@@ -49,7 +49,7 @@ Milk is good for health. [color=#008000](Le lait est bon pour la santé.)[/color
 Sugar is sweet. [color=#008000](Le sucre est sucré.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Water is essential for life.[font_size=18pt](L'eau est essentielle à la vie.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Water is essential for life.[font_size=18](L'eau est essentielle à la vie.)[/font_size][/color][/i][/indent]
 
 [b]Concepts abstraits[/b]
 [indent]Les concepts abstraits utilisés de manière générale ne prennent pas d'articles.
@@ -58,7 +58,7 @@ Love is important. [color=#008000](L'amour est important.)[/color]
 Freedom is precious. [color=#008000](La liberté est précieuse.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Happiness is the key to success.[font_size=18pt](Le bonheur est la clé du succès.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Happiness is the key to success.[font_size=18](Le bonheur est la clé du succès.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

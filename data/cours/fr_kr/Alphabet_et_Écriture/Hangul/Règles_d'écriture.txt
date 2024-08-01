@@ -23,7 +23,7 @@ Chaque syllabe en Hangul est formée par une combinaison de consonnes et de voye
 ㅎ (h) [color=#008000](hieut)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]ㅎ (h)[font_size=18pt](hieut.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]ㅎ (h)[font_size=18](hieut.)[/font_size][/color][/i][/indent]
 
 [b]b) Voyelles de base[/b]
 [indent]Les voyelles de base en Hangul sont :
@@ -40,7 +40,7 @@ Chaque syllabe en Hangul est formée par une combinaison de consonnes et de voye
 ㅣ (i) [color=#008000](i)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]ㅏ (a)[font_size=18pt](a.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]ㅏ (a)[font_size=18](a.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Combinaison des sons[/color][/font_size]
 
@@ -50,20 +50,20 @@ Pour former des syllabes, les combinaisons de consonnes et de voyelles suivent u
 • Une voyelle médiale
 • Une consonne finale optionnelle[/indent]
 
-[i]Exemple : [color=#0000FF]한 (han)[font_size=18pt](hân = ㅎ (h) + ㅏ (a) + ㄴ (n))[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]한 (han)[font_size=18](hân = ㅎ (h) + ㅏ (a) + ㄴ (n))[/font_size][/color][/i]
 
-[font_size=24][color=#4B0082]3. Règles d'écriture</color][/font_size]
+[font_size=24][color=#4B0082]3. Règles d'écriture[/color][/font_size]
 
 Les règles de combinaison des lettres Hangul sont simples mais doivent être respectées pour une écriture correcte.
 
 [indent]• [b]Disposition horizontale et verticale[/b] : Les caractères Hangul peuvent être disposés horizontalement ou verticalement selon la combinaison.
-[i]Exemple : [color=#0000FF]물 (mul)[font_size=18pt](eau = ㅁ (m) + ㅜ (u) + ㄹ (l))[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]물 (mul)[font_size=18](eau = ㅁ (m) + ㅜ (u) + ㄹ (l))[/font_size][/color][/i]
 
 - [b]Bloc syllabique[/b] : Chaque syllabe est écrite dans un bloc carré.
-[i]Exemple : [color=#0000FF]학교 (hakgyo)[font_size=18pt](école = 학 (hak) + 교 (gyo))[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]학교 (hakgyo)[font_size=18](école = 학 (hak) + 교 (gyo))[/font_size][/color][/i]
 
 - [b]Ordre d'écriture[/b] : L'ordre est toujours de gauche à droite puis de haut en bas, à l'intérieur d'un bloc syllabique.
-[i]Exemple : [color=#0000FF]한글 (Hangeul)[font_size=18pt](alphabet coréen = 한 (han) + 글 (geul))[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]한글 (Hangeul)[font_size=18](alphabet coréen = 한 (han) + 글 (geul))[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Variation des Voyelles et Consonnes[/color][/font_size]
 
@@ -78,7 +78,7 @@ Certaines consonnes et voyelles ont des variantes doubles qui modifient le son o
 ㅉ (jj) [color=#008000](ssang-jieut)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]빨리 (ppalli)[font_size=18pt](vite = ㅃ (pp) + ㅏ (a) + ㄹ (l) + 리 (li))[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]빨리 (ppalli)[font_size=18](vite = ㅃ (pp) + ㅏ (a) + ㄹ (l) + 리 (li))[/font_size][/color][/i][/indent]
 
 - [b]Voyelles composées[/b], formant des diphtongues :
 [code]
@@ -95,7 +95,7 @@ Certaines consonnes et voyelles ont des variantes doubles qui modifient le son o
 ㅢ (ui) [color=#008000](ui)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]외국 (oe-guk)[font_size=18pt](étranger = ㅇ (oe) + ㅣ (g) + ㄱ (uk))[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]외국 (oe-guk)[font_size=18](étranger = ㅇ (oe) + ㅣ (g) + ㄱ (uk))[/font_size][/color][/i]
 
 [center][color=#808080]__________[/color][/center]
 

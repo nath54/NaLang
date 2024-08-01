@@ -16,7 +16,7 @@ talk (parler) ➔ talked (parlé)
 play (jouer) ➔ played (joué)
 [/code]
 
-[i]Exemple : [color=#0000FF]She has walked to the store.[font_size=18pt] (Elle a marché jusqu'au magasin.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She has walked to the store.[font_size=18] (Elle a marché jusqu'au magasin.)[/font_size][/color][/i][/indent]
 
 [b]b) Verbes irréguliers[/b]
 [indent]Les verbes irréguliers ne suivent pas une règle fixe pour la formation du participe passé. Il faut mémoriser chacune de ces formes uniques.
@@ -26,20 +26,20 @@ see (voir) ➔ seen (vu)
 take (prendre) ➔ taken (pris)
 [/code]
 
-[i]Exemple : [color=#0000FF]They have taken the bus.[font_size=18pt] (Ils ont pris le bus.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]They have taken the bus.[font_size=18] (Ils ont pris le bus.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation du Participe Passé[/color][/font_size]
 
 Le participe passé est utilisé dans plusieurs contextes grammaticaux, notamment :
 
 [indent]• Pour former le passé composé avec l'auxiliaire "have"
-[i]Exemple : [color=#0000FF]We have seen this movie.[font_size=18pt] (Nous avons vu ce film.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]We have seen this movie.[font_size=18] (Nous avons vu ce film.)[/font_size][/color][/i]
 
 - Pour former le passif avec l'auxiliaire "be"
-[i]Exemple : [color=#0000FF]The book was written by Jane.[font_size=18pt] (Le livre a été écrit par Jane.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]The book was written by Jane.[font_size=18] (Le livre a été écrit par Jane.)[/font_size][/color][/i]
 
 - Comme adjectif pour décrire un état
-[i]Exemple : [color=#0000FF]The broken window needs to be fixed.[font_size=18pt] (La fenêtre cassée doit être réparée.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]The broken window needs to be fixed.[font_size=18] (La fenêtre cassée doit être réparée.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Participes Passés Irréguliers Courants[/color][/font_size]
 
@@ -69,13 +69,13 @@ write (écrire) ➔ written (écrit)
 Pour bien utiliser le participe passé en anglais, il est important de connaître les auxiliaires et la structure des phrases. Voici quelques conseils supplémentaires :
 
 [indent]• Conjuguez correctement l'auxiliaire "have" selon le sujet de la phrase.
-[i]Exemple : [color=#0000FF]I have eaten. / She has eaten.[font_size=18pt] (J'ai mangé. / Elle a mangé.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]I have eaten. / She has eaten.[font_size=18] (J'ai mangé. / Elle a mangé.)[/font_size][/color][/i]
 
 - Conjuguez correctement l'auxiliaire "be" pour les formes passives.
-[i]Exemple : [color=#0000FF]The room is cleaned. / The rooms are cleaned.[font_size=18pt] (La chambre est nettoyée. / Les chambres sont nettoyées.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]The room is cleaned. / The rooms are cleaned.[font_size=18] (La chambre est nettoyée. / Les chambres sont nettoyées.)[/font_size][/color][/i]
 
 - Fermes idiomatiques avec le participe passé.
-[i]Exemple : [color=#0000FF]It is given that ... / He was seen as ...[font_size=18pt] (Il est évident que ... / Il était considéré comme ...)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]It is given that ... / He was seen as ...[font_size=18] (Il est évident que ... / Il était considéré comme ...)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

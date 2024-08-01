@@ -17,7 +17,7 @@ Voici la décomposition :
 - Verbe + -ing pour montrer que c'est une action continue
 [/code]
 
-[i]Exemple : [color=#0000FF]By next year, I will have been working here for five years.[font_size=18pt](D'ici l'année prochaine, j'aurai travaillé ici pendant cinq ans.)[/font_size][/color]
+[i]Exemple : [color=#0000FF]By next year, I will have been working here for five years.[font_size=18](D'ici l'année prochaine, j'aurai travaillé ici pendant cinq ans.)[/font_size][/color]
 [/i]
 [/indent]
 
@@ -27,17 +27,17 @@ L'utilisation principale du futur antérieur continu est de parler de la durée 
 
 [indent] - Pour indiquer combien de temps une action aura duré à un point donné dans le futur.
 
-[i]Exemple : [color=#0000FF]In June, she will have been studying for three years.[font_size=18pt](En juin, elle aura étudié pendant trois ans.)[/font_size][/color]
+[i]Exemple : [color=#0000FF]In June, she will have been studying for three years.[font_size=18](En juin, elle aura étudié pendant trois ans.)[/font_size][/color]
 [/i]
 
 - Pour expliquer la durée d'une action qui se terminera à un point spécifique dans le futur.
 
-[i]Exemple : [color=#0000FF]By the time you arrive, they will have been playing for an hour.[font_size=18pt](Quand tu arriveras, ils auront joué pendant une heure.)[/font_size][/color]
+[i]Exemple : [color=#0000FF]By the time you arrive, they will have been playing for an hour.[font_size=18](Quand tu arriveras, ils auront joué pendant une heure.)[/font_size][/color]
 [/i]
 
 - Pour montrer une action en cours dans le futur à un moment précis.
 
-[i]Exemple : [color=#0000FF]By 2025, he will have been working in this company for 10 years.[font_size=18pt](En 2025, il aura travaillé dans cette entreprise pendant 10 ans.)[/font_size][/color]
+[i]Exemple : [color=#0000FF]By 2025, he will have been working in this company for 10 years.[font_size=18](En 2025, il aura travaillé dans cette entreprise pendant 10 ans.)[/font_size][/color]
 [/i]
 [/indent]
 
@@ -48,13 +48,13 @@ Voici quelques règles supplémentaires sur l'utilisation du futur antérieur co
 [indent]• On utilise souvent des expressions de temps pour indiquer la période future spécifique, telles que :
 [indent]- By (d'ici)[/indent]
 [indent]- For (pendant)[/indent]
-[indent]- In (dans)[/indent]
-[i]Exemple : [color=#0000FF]By the end of this month, she will have been teaching for ten years.[font_size=18pt](À la fin de ce mois, elle aura enseigné pendant dix ans.)[/font_size][/color]
+[indent]- In (dans)[/indent][/indent]
+[i]Exemple : [color=#0000FF]By the end of this month, she will have been teaching for ten years.[font_size=18](À la fin de ce mois, elle aura enseigné pendant dix ans.)[/font_size][/color]
 [/i]
 
 • Il est important de noter que ce temps se concentre sur la durée et non sur l'action en elle-même.
 
-[i]Exemple : [color=#0000FF]By next week, they will have been traveling for a month.[font_size=18pt](D'ici la semaine prochaine, ils auront voyagé pendant un mois.)[/font_size][/color]
+[i]Exemple : [color=#0000FF]By next week, they will have been traveling for a month.[font_size=18](D'ici la semaine prochaine, ils auront voyagé pendant un mois.)[/font_size][/color]
 [/i]
 
 [center][color=#808080]__________[/color][/center]

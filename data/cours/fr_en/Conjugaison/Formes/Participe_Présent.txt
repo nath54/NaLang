@@ -40,17 +40,17 @@ Le participe présent est utilisé dans plusieurs contextes en anglais. Voici le
 [indent][b]a) Les temps progressifs[/b]
 Le participe présent est utilisé avec l'auxiliaire "to be" pour former les temps progressifs, qui indiquent une action en cours.
 
-[i]Exemple : [color=#0000FF]She is reading a book.[font_size=18pt](Elle est en train de lire un livre.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]She is reading a book.[font_size=18](Elle est en train de lire un livre.)[/font_size][/color][/i]
 
 [b]b) Les adjectifs[/b]
 Le participe présent peut aussi être utilisé comme adjectif pour décrire une caractéristique ou une qualité.
 
-[i]Exemple : [color=#0000FF]It was an interesting movie.[font_size=18pt](C'était un film intéressant.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]It was an interesting movie.[font_size=18](C'était un film intéressant.)[/font_size][/color][/i]
 
 [b]c) Les noms dérivés des verbes (gérondifs)[/b]
 Le participe présent peut être utilisé comme un nom pour désigner une action ou un état d'être.
 
-[i]Exemple : [color=#0000FF]Swimming is fun.[font_size=18pt](Nager est amusant.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Swimming is fun.[font_size=18](Nager est amusant.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
@@ -59,12 +59,12 @@ Il y a quelques particularités à noter concernant l'utilisation du participe p
 [indent][b]a) Après certaines prépositions[/b]
 Le participe présent est souvent utilisé après certaines prépositions pour indiquer une action en relation avec un nom ou un pronom.
 
-[i]Exemple : [color=#0000FF]She is good at drawing.[font_size=18pt](Elle est douée pour dessiner.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]She is good at drawing.[font_size=18](Elle est douée pour dessiner.)[/font_size][/color][/i]
 
 [b]b) Actions simultanées[/b]
 Le participe présent peut être utilisé pour indiquer des actions qui se produisent en même temps.
 
-[i]Exemple : [color=#0000FF]She listened to music while working.[font_size=18pt](Elle écoutait de la musique en travaillant.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She listened to music while working.[font_size=18](Elle écoutait de la musique en travaillant.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

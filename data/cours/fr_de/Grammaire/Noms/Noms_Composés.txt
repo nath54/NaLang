@@ -10,32 +10,32 @@ Les noms composés en allemand sont généralement formés de deux parties : un 
 
 [b]a) Éléments déterminants[/b]
 [indent]Le premier élément d'un nom composé précise ou qualifie le deuxième élément. Il peut s'agir de n'importe quel type de mot.
-[i]Exemple : [color=#0000FF]Autohaus [font_size=18pt](maison de voiture : concessionnaire automobile)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Autohaus [font_size=18](maison de voiture : concessionnaire automobile)[/font_size][/color][/i][/indent]
 
 [b]b) Élément principal[/b]
 [indent]Le deuxième élément est le mot principal qui donne la catégorie du mot composé.
-[i]Exemple : [color=#0000FF]Haus [font_size=18pt](maison)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Haus [font_size=18](maison)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Formation des noms composés[/color][/font_size]
 
 Les noms composés peuvent être formés de différentes combinaisons de mots. La plupart du temps, il s'agit de combinaisons de noms, mais d'autres types de combinaisons existent.
 
 [indent]• Nom + Nom : 
-[i]Exemple : [color=#0000FF]Telefonnummer [font_size=18pt](numéro de téléphone)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Telefonnummer [font_size=18](numéro de téléphone)[/font_size][/color][/i]
 • Verbe + Nom :
-[i]Exemple : [color=#0000FF]Waschmaschine [font_size=18pt](machine à laver)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Waschmaschine [font_size=18](machine à laver)[/font_size][/color][/i]
 • Adjectif + Nom :
-[i]Exemple : [color=#0000FF]Hochschule [font_size=18pt](haute école : université)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Hochschule [font_size=18](haute école : université)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Genre et pluriel des noms composés[/color][/font_size]
 
 Le genre et le pluriel des noms composés sont déterminés par l'élément principal (le deuxième mot).
 
 [indent]• Genre
-[i]Exemple : [color=#0000FF]Das Autohaus (la concession automobile), Die Schule (l'école), Die Waschmaschine (la machine à laver)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]Das Autohaus (la concession automobile), Die Schule (l'école), Die Waschmaschine (la machine à laver)[/color][/i]
 
 • Pluriel
-[i]Exemple : [color=#0000FF]Die Autohäuser (les concessions automobiles), Die Schulen (les écoles), Die Waschmaschinen (les machines à laver)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Die Autohäuser (les concessions automobiles), Die Schulen (les écoles), Die Waschmaschinen (les machines à laver)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Exemples courants de noms composés[/color][/font_size]
 
@@ -49,7 +49,7 @@ Fahrstuhl [color=#008000](ascenseur : conduire + chaise)[/color]
 Fußball [color=#008000](football : pied + balle)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Er trägt Handschuhe im Winter. [font_size=18pt](Il porte des gants en hiver.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er trägt Handschuhe im Winter. [font_size=18](Il porte des gants en hiver.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

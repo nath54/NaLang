@@ -16,7 +16,7 @@ La forme en て (te) est une conjugaison verbale qui sert principalement à reli
 見て (mite) [color=#008000](voir)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]ご飯を食べてください。[font_size=18pt](Gohan o tabete kudasai.)[/font_size][/color] [color=#008000](Veuillez manger le repas.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]ご飯を食べてください。[font_size=18](Gohan o tabete kudasai.)[/font_size][/color] [color=#008000](Veuillez manger le repas.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Conjugaison des verbes en forme en て[/color][/font_size]
 
@@ -31,7 +31,7 @@ Les verbes japonais se divisent en plusieurs groupes, chacun ayant sa propre rè
 立つ (tatsu) -> 立って (tatte) [color=#008000](se lever)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]本を読んでいます。[font_size=18pt](Hon o yonde imasu.)[/font_size][/color] [color=#008000](Je suis en train de lire un livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]本を読んでいます。[font_size=18](Hon o yonde imasu.)[/font_size][/color] [color=#008000](Je suis en train de lire un livre.)[/color][/i][/indent]
 
 [b]• Verbes de type 2 (一段動詞 (ichidan doushi))[/b]
 [indent]Pour les verbes de type 2, il suffit de remplacer la terminaison る (ru) par て (te).
@@ -42,7 +42,7 @@ Les verbes japonais se divisent en plusieurs groupes, chacun ayant sa propre rè
 寝る (neru) -> 寝て (nete) [color=#008000](dormir)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]テレビを見てください。[font_size=18pt](Terebi o mite kudasai.)[/font_size][/color] [color=#008000](Veuillez regarder la télévision.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]テレビを見てください。[font_size=18](Terebi o mite kudasai.)[/font_size][/color] [color=#008000](Veuillez regarder la télévision.)[/color][/i][/indent]
 
 [c]• Verbes irréguliers[/c]
 [indent]Les verbes irréguliers ne suivent pas les règles standard et doivent être mémorisés individuellement.
@@ -51,27 +51,27 @@ Les verbes japonais se divisent en plusieurs groupes, chacun ayant sa propre rè
 来る (kuru) -> 来て (kite) [color=#008000](venir)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]宿題をしてね。[font_size=18pt](Shukudai o shite ne.)[/font_size][/color] [color=#008000](Fais tes devoirs, d'accord?)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]宿題をしてね。[font_size=18](Shukudai o shite ne.)[/font_size][/color] [color=#008000](Fais tes devoirs, d'accord?)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisations courantes de la forme en て[/color][/font_size]
 
 La forme en て (te) est utilisée dans de nombreuses structures grammaticales en japonais. En voici quelques-unes :
 
 [indent]• Pour relier des actions
-[i]Exemple : [color=#0000FF]朝ご飯を食べて、学校に行きます。[font_size=18pt](Asagohan o tabete, gakko ni ikimasu.)[/font_size][/color] [color=#008000](Je mange le petit-déjeuner et vais à l'école.)[/color][/i]
+[i]Exemple : [color=#0000FF]朝ご飯を食べて、学校に行きます。[font_size=18](Asagohan o tabete, gakko ni ikimasu.)[/font_size][/color] [color=#008000](Je mange le petit-déjeuner et vais à l'école.)[/color][/i]
 
 - Pour exprimer une action en cours avec いる (iru)
-[i]Exemple : [color=#0000FF]本を読んでいます。[font_size=18pt](Hon o yonde imasu.)[/font_size][/color] [color=#008000](Je suis en train de lire un livre.)[/color][/i]
+[i]Exemple : [color=#0000FF]本を読んでいます。[font_size=18](Hon o yonde imasu.)[/font_size][/color] [color=#008000](Je suis en train de lire un livre.)[/color][/i]
 
 - Pour demander quelque chose poliment
-[i]Exemple : [color=#0000FF]待ってください。[font_size=18pt](Matte kudasai.)[/font_size][/color] [color=#008000](Veuillez attendre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]待ってください。[font_size=18](Matte kudasai.)[/font_size][/color] [color=#008000](Veuillez attendre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Précisions supplémentaires[/color][/font_size]
 
 La forme en て (te) permet également de donner des ordres ou de faire des demandes informelles dans le contexte amical ou familial. Il est important de noter le degré de politesse approprié à chaque situation.
 
 [indent]• Faire une demande informelle
-[i]Exemple : [color=#0000FF]手伝って。[font_size=18pt](Tetsudatte.)[/font_size][/color] [color=#008000](Aide-moi.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]手伝って。[font_size=18](Tetsudatte.)[/font_size][/color] [color=#008000](Aide-moi.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

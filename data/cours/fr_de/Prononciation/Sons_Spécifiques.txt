@@ -16,7 +16,7 @@ Buch (livre) [buːx]
 Achtung (Attention) ['ɑxtʊŋ]
 [/code]
 
-[i]Exemple : [color=#0000FF]Die Nacht ist schön. [font_size=18pt](La nuit est belle.)[/font_size][/color] [color=#008000](Die Nacht ist schön. [diː nɑxt ɪst ʃøːn.])[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Die Nacht ist schön. [font_size=18](La nuit est belle.)[/font_size][/color] [color=#008000](Die Nacht ist schön. [diː nɑxt ɪst ʃøːn.])[/color][/i][/indent]
 
 [b]b) Après les voyelles [i]e, i, ä, ö, ü[/i] et les diphtongues [i]ei, eu[/i][/b]
 [indent]Dans ces cas, le son "ch" est palatal, ressemblant au "y" dans "yes" en anglais.
@@ -26,7 +26,7 @@ Möchte (voudrais) [ˈmœçtə]
 Lächeln (sourire) [ˈlɛçln̩]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich möchte ein Eis. [font_size=18pt](Je voudrais une glace.)[/font_size][/color] [color=#008000](Ich möchte ein Eis. [ɪç ˈmœçtə aɪn aɪs.])[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich möchte ein Eis. [font_size=18](Je voudrais une glace.)[/font_size][/color] [color=#008000](Ich möchte ein Eis. [ɪç ˈmœçtə aɪn aɪs.])[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Le son "r"[/color][/font_size]
 
@@ -40,7 +40,7 @@ Zimmer (chambre) [ˈʦɪmɐ]
 Auto (voiture) [ˈaʊ̯to]
 [/code]
 
-[i]Exemple : [color=#0000FF]Das Auto ist rot. [font_size=18pt](La voiture est rouge.)[/font_size][/color] [color=#008000](Das Auto ist rot. [das ˈaʊ̯to ɪst ʁoːt.])[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das Auto ist rot. [font_size=18](La voiture est rouge.)[/font_size][/color] [color=#008000](Das Auto ist rot. [das ˈaʊ̯to ɪst ʁoːt.])[/color][/i][/indent]
 
 [b]b) Le "r" roulé[/b]
 [indent]Roulement de la langue contre le palais, principalement dans les régions du sud.
@@ -50,7 +50,7 @@ Tür (porte) [tyːɐ̯]
 Reise (voyage) [ˈʁaɪ̯zə]
 [/code]
 
-[i]Exemple : [color=#0000FF]Die Frau reist gerne. [font_size=18pt](La femme aime voyager.)[/font_size][/color] [color=#008000](Die Frau reist gerne. [diː fraʊ̯ ʁaɪ̯st ˈɡɛrnə.])[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Die Frau reist gerne. [font_size=18](La femme aime voyager.)[/font_size][/color] [color=#008000](Die Frau reist gerne. [diː fraʊ̯ ʁaɪ̯st ˈɡɛrnə.])[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Le son "ü"[/color][/font_size]
 
@@ -62,7 +62,7 @@ Grün (vert) [ɡʁyːn]
 Süß (doux) [zyːs]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich bin müde. [font_size=18pt](Je suis fatigué.)[/font_size][/color] [color=#008000](Ich bin müde. [ɪç bɪn ˈmyːdə.])[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich bin müde. [font_size=18](Je suis fatigué.)[/font_size][/color] [color=#008000](Ich bin müde. [ɪç bɪn ˈmyːdə.])[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Le son "ö"[/color][/font_size]
 
@@ -74,7 +74,7 @@ Schön (beau) [ʃøːn]
 König (roi) [ˈkøːnɪç]
 [/code]
 
-[i]Exemple : [color=#0000FF]Das ist schön. [font_size=18pt](C'est beau.)[/font_size][/color] [color=#008000](Das ist schön. [das ɪst ʃøːn.])[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das ist schön. [font_size=18](C'est beau.)[/font_size][/color] [color=#008000](Das ist schön. [das ɪst ʃøːn.])[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]5. Le son "ä"[/color][/font_size]
 
@@ -86,7 +86,7 @@ Mädchen (fille) [ˈmæːtçən]
 Käse (fromage) [ˈkɛːzə]
 [/code]
 
-[i]Exemple : [color=#0000FF]Der Bär ist groß. [font_size=18pt](L'ours est grand.)[/font_size][/color] [color=#008000](Der Bär ist groß. [deːɐ̯ bɛːɐ̯ ɪst ɡʁoːs.])[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Der Bär ist groß. [font_size=18](L'ours est grand.)[/font_size][/color] [color=#008000](Der Bär ist groß. [deːɐ̯ bɛːɐ̯ ɪst ɡʁoːs.])[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

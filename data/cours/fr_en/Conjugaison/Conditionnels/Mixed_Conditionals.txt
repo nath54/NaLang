@@ -15,7 +15,7 @@ Il existe principalement deux types de conditionnels mixtes :
 If + past perfect, would + base verb
 [/code]
 
-[i]Exemple : [color=#0000FF]If I had studied harder, I would be more successful now.[font_size=18pt](Si j'avais étudié plus sérieusement, je serais plus réussi maintenant.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]If I had studied harder, I would be more successful now.[font_size=18](Si j'avais étudié plus sérieusement, je serais plus réussi maintenant.)[/font_size][/color][/i][/indent]
 
 [b]b) Conditionnel mixte du présent au passé[/b]
 [indent]Ce type de conditionnel mélange une condition présente avec un résultat passé.
@@ -24,24 +24,24 @@ If + past perfect, would + base verb
 If + simple past, would have + past participle
 [/code]
 
-[i]Exemple : [color=#0000FF]If I were rich, I would have traveled the world by now.[font_size=18pt](Si j'étais riche, j'aurais déjà fait le tour du monde.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]If I were rich, I would have traveled the world by now.[font_size=18](Si j'étais riche, j'aurais déjà fait le tour du monde.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des conditionnels mixtes[/color][/font_size]
 
 Les conditionnels mixtes s'utilisent pour exprimer des situations de cause à effet entre différents moments dans le temps. Voici quelques règles et exemples pour vous aider à bien les utiliser.
 
 [indent]• Utilisez des conditionnels passés pour évoquer des conditions non réalisées, ayant un impact sur le présent :
-[i]Exemple : [color=#0000FF]If she had taken the job, she would be living in New York now.[font_size=18pt](Si elle avait pris le travail, elle vivrait à New York maintenant.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]If she had taken the job, she would be living in New York now.[font_size=18](Si elle avait pris le travail, elle vivrait à New York maintenant.)[/font_size][/color][/i]
 
 - Utilisez des conditionnels présents pour évoquer des conditions présentes non vérifiées, ayant un impact sur le passé :
-[i]Exemple : [color=#0000FF]If he weren’t afraid of flying, he would have visited us last summer.[font_size=18pt](S'il n'avait pas peur de voler, il nous aurait rendu visite l'été dernier.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]If he weren’t afraid of flying, he would have visited us last summer.[font_size=18](S'il n'avait pas peur de voler, il nous aurait rendu visite l'été dernier.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Pour ajouter des nuances supplémentaires, les conditionnels peuvent être enrichis par des éléments de contexte additionnels comme des lieux ou des buts spécifiques.
 
 [indent]• Insertion de détails sur le lieu ou le but :
-[i]Exemple : [color=#0000FF]If they hadn’t missed the train, they would be in Paris now, enjoying the sights.[font_size=18pt](S'ils n'avaient pas manqué le train, ils seraient à Paris maintenant, profitant des attractions.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]If they hadn’t missed the train, they would be in Paris now, enjoying the sights.[font_size=18](S'ils n'avaient pas manqué le train, ils seraient à Paris maintenant, profitant des attractions.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

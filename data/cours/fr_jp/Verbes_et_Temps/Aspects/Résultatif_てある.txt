@@ -14,7 +14,7 @@ Pour former une phrase en utilisant てある (te aru), on utilise une construct
 テーブルの上に本が置いてある (Tēburu no ue ni hon ga oite aru) [color=#008000](Il y a un livre posé sur la table.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]玄関の前に靴が並べてある。[font_size=18pt](Genkan no mae ni kutsu ga narabete aru.)[/font_size][/color] [color=#008000](Les chaussures sont alignées devant l'entrée.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]玄関の前に靴が並べてある。[font_size=18](Genkan no mae ni kutsu ga narabete aru.)[/font_size][/color] [color=#008000](Les chaussures sont alignées devant l'entrée.)[/color][/i][/indent]
 
 [b]b) Contextes d'utilisation[/b]
 [indent]- Utilisez cette forme pour montrer que quelque chose a été fait et que son effet persiste.
@@ -24,7 +24,7 @@ Pour former une phrase en utilisant てある (te aru), on utilise une construct
 食べ物がテーブルに置いてある (Tabemono ga tēburu ni oite aru) [color=#008000](La nourriture est posée sur la table (et elle y est toujours).)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]庭に花が植えてある。[font_size=18pt](Niwa ni hana ga uete aru.)[/font_size][/color] [color=#008000](Les fleurs sont plantées dans le jardin (et elles y sont encore).)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]庭に花が植えてある。[font_size=18](Niwa ni hana ga uete aru.)[/font_size][/color] [color=#008000](Les fleurs sont plantées dans le jardin (et elles y sont encore).)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Différence entre てある (te aru) et ている (te iru)[/color][/font_size]
 
@@ -48,13 +48,13 @@ Il est important de distinguer てある (te aru) de ている (te iru). Alors q
 Voici quelques exemples pratiques pour illustrer l'utilisation de てある (te aru) :
 
 [indent]• Commandes et tâches complétées
-[i]Exemple : [color=#0000FF]買い物リストが書いてある。[font_size=18pt](Kaimono risuto ga kaite aru.)[/font_size][/color] [color=#008000](La liste de courses est écrite.)[/color][/i]
+[i]Exemple : [color=#0000FF]買い物リストが書いてある。[font_size=18](Kaimono risuto ga kaite aru.)[/font_size][/color] [color=#008000](La liste de courses est écrite.)[/color][/i]
 
 • États résultants dans la maison
-[i]Exemple : [color=#0000FF]掃除機がかけてある。[font_size=18pt](Sōjiki ga kakete aru.)[/font_size][/color] [color=#008000](L'aspirateur est passé (et le sol est propre).)[/color][/i]
+[i]Exemple : [color=#0000FF]掃除機がかけてある。[font_size=18](Sōjiki ga kakete aru.)[/font_size][/color] [color=#008000](L'aspirateur est passé (et le sol est propre).)[/color][/i]
 
 • Préparations pour un événement
-[i]Exemple : [color=#0000FF]会議室が準備してある。[font_size=18pt](Kaigishitsu ga junbi shite aru.)[/font_size][/color] [color=#008000](La salle de réunion est préparée.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]会議室が準備してある。[font_size=18](Kaigishitsu ga junbi shite aru.)[/font_size][/color] [color=#008000](La salle de réunion est préparée.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

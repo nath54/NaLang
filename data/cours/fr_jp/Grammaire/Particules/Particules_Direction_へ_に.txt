@@ -8,7 +8,7 @@ Les particules へ (e) et に (ni) sont utilisées en japonais pour indiquer la 
 
 La particule へ (e) indique la direction générale vers laquelle une action est dirigée. Elle est souvent utilisée après les noms de lieux ou de destinations.
 
-[indent][i]Exemple : [color=#0000FF]私は学校へ行きます。[font_size=18pt](Watashi wa gakkō e ikimasu.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+[indent][i]Exemple : [color=#0000FF]私は学校へ行きます。[font_size=18](Watashi wa gakkō e ikimasu.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
 
 Points clés sur la particule へ (e) :
 [indent][color=#FF0000]1.[/color] Utilisée pour indiquer la direction générale.
@@ -19,11 +19,11 @@ Points clés sur la particule へ (e) :
 
 La particule に (ni) peut également indiquer la direction, mais elle est souvent plus précise que へ (e). Elle est utilisée pour indiquer non seulement la direction, mais aussi la destination finale, et peut également indiquer l'heure ou le destinataire.
 
-[indent][i]Exemple : [color=#0000FF]図書館に行きます。[font_size=18pt](Toshokan ni ikimasu.)[/font_size][/color] [color=#008000](Je vais à la bibliothèque.)[/color][/i][/indent]
+[indent][i]Exemple : [color=#0000FF]図書館に行きます。[font_size=18](Toshokan ni ikimasu.)[/font_size][/color] [color=#008000](Je vais à la bibliothèque.)[/color][/i]
 
-[i]Exemple (temps) : [color=#0000FF]7時に起きます。[font_size=18pt](Shichi-ji ni okimasu.)[/font_size][/color] [color=#008000](Je me lève à 7 heures.)[/color][/i][/indent]
+[i]Exemple (temps) : [color=#0000FF]7時に起きます。[font_size=18](Shichi-ji ni okimasu.)[/font_size][/color] [color=#008000](Je me lève à 7 heures.)[/color][/i]
 
-[i]Exemple (destinataire) : [color=#0000FF]彼に本をあげます。[font_size=18pt](Kare ni hon wo agemasu.)[/font_size][/color] [color=#008000](Je donne un livre à lui.)[/color][/i][/indent]
+[i]Exemple (destinataire) : [color=#0000FF]彼に本をあげます。[font_size=18](Kare ni hon wo agemasu.)[/font_size][/color] [color=#008000](Je donne un livre à lui.)[/color][/i][/indent]
 
 Points clés sur la particule に (ni) :
 [indent][color=#FF0000]1.[/color] Utilisée pour indiquer une destination précise.
@@ -32,17 +32,17 @@ Points clés sur la particule に (ni) :
 
 [font_size=24][color=#4B0082]3. Comparaison entre へ (e) et に (ni)[/color][/font_size]
 
-[center][table=2,1]
-[tr]
-[td][font_size=20][b][color=#FF0000]へ (e)[/color][/b][/font_size][/td]
-[td][font_size=20][b][color=#FF0000]に (ni)[/color][/b][/font_size][/td]
-[/tr]
-[tr]
-[td][indent]- Indique la direction générale. 
-- Utilisée principalement pour les lieux.[/indent][/td]
-[td][indent]- Indique une destination précise.
-- Peut aussi indiquer l'heure ou le destinataire.[/indent][/td]
-[/tr]
+[center][table=2]
+
+[cell][font_size=20][b][color=#FF0000]へ (e)[/color][/b][/font_size][/cell]
+[cell][font_size=20][b][color=#FF0000]に (ni)[/color][/b][/font_size][/cell]
+
+
+[cell]- Indique la direction générale. 
+- Utilisée principalement pour les lieux.[/cell]
+[cell]- Indique une destination précise.
+- Peut aussi indiquer l'heure ou le destinataire.[/cell]
+
 [/table][/center]
 
 [indent][i]Exemples :[/i]

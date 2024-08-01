@@ -18,7 +18,7 @@ hope [color=#008000](espérer)[/color]
 learn [color=#008000](apprendre)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She wants to learn Spanish.[font_size=18pt](Elle veut apprendre l'espagnol.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She wants to learn Spanish.[font_size=18](Elle veut apprendre l'espagnol.)[/font_size][/color][/i][/indent]
 
 [indent][b]b) Après adjectifs et noms[/b]
 On utilise également "to" + infinitif après certains adjectifs et noms pour donner des informations supplémentaires.
@@ -28,7 +28,7 @@ ready [color=#008000](prêt)[/color]
 ability [color=#008000](capacité)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]He is ready to leave.[font_size=18pt](Il est prêt à partir.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]He is ready to leave.[font_size=18](Il est prêt à partir.)[/font_size][/color][/i][/indent]
 
 [indent][b]c) Avec certaines expressions[/b]
 Certaines expressions suivent la structure "to" + infinitif.
@@ -38,7 +38,7 @@ be able to [color=#008000](être capable de)[/color]
 have to [color=#008000](devoir)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]I need a dictionary in order to translate this text.[font_size=18pt](J'ai besoin d'un dictionnaire afin de traduire ce texte.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I need a dictionary in order to translate this text.[font_size=18](J'ai besoin d'un dictionnaire afin de traduire ce texte.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. L'infinitif sans "to"[/color][/font_size]
 
@@ -54,7 +54,7 @@ will [color=#008000](vouloir)[/color]
 shall [color=#008000](devoir)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]She can swim very well.[font_size=18pt](Elle sait très bien nager.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She can swim very well.[font_size=18](Elle sait très bien nager.)[/font_size][/color][/i][/indent]
 
 [indent][b]b) Après certains verbes de perception et des verbes causatifs[/b]
 On utilise également l'infinitif nu après certains verbes tels que see, watch, hear, let, make.
@@ -66,20 +66,20 @@ let [color=#008000](laisser)[/color]
 make [color=#008000](faire)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]I saw him leave.[font_size=18pt](Je l'ai vu partir.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I saw him leave.[font_size=18](Je l'ai vu partir.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Structures et exceptions[/color][/font_size]
 
 Il existe également des structures et des exceptions spécifiques où l'infinitif avec ou sans "to" peut être utilisé. Voici quelques exemples :
 
 [indent]• Après "why" dans des questions informelles
-[i]Exemple : [color=#0000FF]Why wait?[font_size=18pt](Pourquoi attendre ?)[/font_size][/color] [color=#008000](Pourquoi attendre ?)[/color][/i]
+[i]Exemple : [color=#0000FF]Why wait?[font_size=18](Pourquoi attendre ?)[/font_size][/color] [color=#008000](Pourquoi attendre ?)[/color][/i]
 
 - Après "but" et "except"
-[i]Exemple : [color=#0000FF]He did nothing but complain.[font_size=18pt](Il n'a fait que se plaindre.)[/font_size][/color] [color=#008000](Il n'a fait que se plaindre.)[/color][/i]
+[i]Exemple : [color=#0000FF]He did nothing but complain.[font_size=18](Il n'a fait que se plaindre.)[/font_size][/color] [color=#008000](Il n'a fait que se plaindre.)[/color][/i]
 
 - Utilisation de la forme continue de l'infinitif avec "to be" + verbe-ing
-[i]Exemple : [color=#0000FF]She seems to be running late.[font_size=18pt](Il semble qu'elle soit en retard.)[/font_size][/color] [color=#008000](Il semble qu'elle soit en retard.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She seems to be running late.[font_size=18](Il semble qu'elle soit en retard.)[/font_size][/color] [color=#008000](Il semble qu'elle soit en retard.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

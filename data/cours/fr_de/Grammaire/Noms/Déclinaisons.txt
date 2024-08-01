@@ -16,7 +16,7 @@ Die Frau (la femme) [color=#008000](Frauen pour le pluriel)[/color]
 Das Kind (l'enfant) [color=#008000](Kinder pour le pluriel)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Der Mann liest ein Buch.[font_size=18pt](Der Mann liest ein Buch.)[/font_size][/color] [color=#008000](L'homme lit un livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Der Mann liest ein Buch.[font_size=18](Der Mann liest ein Buch.)[/font_size][/color] [color=#008000](L'homme lit un livre.)[/color][/i][/indent]
 
 [b]b) Accusatif[/b]
 [indent]L'accusatif désigne le complément d'objet direct, c'est-à-dire celui qui subit l'action.
@@ -26,7 +26,7 @@ Die Frau (la femme) [color=#008000](au pluriel : die Frauen)[/color]
 Das Kind (l'enfant) [color=#008000](au pluriel : die Kinder)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich sehe den Mann.[font_size=18pt](Ich sehe den Mann.)[/font_size][/color] [color=#008000](Je vois l'homme.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich sehe den Mann.[font_size=18](Ich sehe den Mann.)[/font_size][/color] [color=#008000](Je vois l'homme.)[/color][/i][/indent]
 
 [b]c) Datif[/b]
 [indent]Le datif est utilisé pour le complément d'objet indirect, souvent marqué par des prépositions.
@@ -36,7 +36,7 @@ Der Frau (à la femme) [color=#008000](au pluriel : den Frauen)[/color]
 Dem Kind (à l'enfant) [color=#008000](au pluriel : den Kindern)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich gebe dem Kind ein Geschenk.[font_size=18pt](Ich gebe dem Kind ein Geschenk.)[/font_size][/color] [color=#008000](Je donne un cadeau à l'enfant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich gebe dem Kind ein Geschenk.[font_size=18](Ich gebe dem Kind ein Geschenk.)[/font_size][/color] [color=#008000](Je donne un cadeau à l'enfant.)[/color][/i][/indent]
 
 [b]d) Génitif[/b]
 [indent]Le génitif indique la possession ou la relation entre deux noms.
@@ -46,7 +46,7 @@ Der Frau (de la femme) [color=#008000](au pluriel : der Frauen)[/color]
 Des Kindes (de l'enfant) [color=#008000](au pluriel : der Kinder)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Das Buch des Mannes.[font_size=18pt](Das Buch des Mannes.)[/font_size][/color] [color=#008000](Le livre de l'homme.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das Buch des Mannes.[font_size=18](Das Buch des Mannes.)[/font_size][/color] [color=#008000](Le livre de l'homme.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Les Articles Définis et Indéfinis[/color][/font_size]
 
@@ -69,10 +69,10 @@ Génitif : eines (d'un), einer (d'une), eines (d'un/une)
 [/code]
 
 [b]c) Exemples d'utilisation des articles[/b]
-[indent]• Nominatif : [color=#0000FF]Ein Mann läuft.[font_size=18pt](Ein Mann läuft.)[/font_size][/color] [color=#008000](Un homme marche.)[/color]
-• Accusatif : [color=#0000FF]Ich habe einen Hund.[font_size=18pt](Ich habe einen Hund.)[/font_size][/color] [color=#008000](J'ai un chien.)[/color]
-• Datif : [color=#0000FF]Ich helfe einer Frau.[font_size=18pt](Ich helfe einer Frau.)[/font_size][/color] [color=#008000](J'aide une femme.)[/color]
-• Génitif : [color=#0000FF]Erinnerungen eines Kindes.[font_size=18pt](Erinnerungen eines Kindes.)[/font_size][/color] [color=#008000](Souvenirs d'un enfant.)[/color]
+[indent]• Nominatif : [color=#0000FF]Ein Mann läuft.[font_size=18](Ein Mann läuft.)[/font_size][/color] [color=#008000](Un homme marche.)[/color]
+• Accusatif : [color=#0000FF]Ich habe einen Hund.[font_size=18](Ich habe einen Hund.)[/font_size][/color] [color=#008000](J'ai un chien.)[/color]
+• Datif : [color=#0000FF]Ich helfe einer Frau.[font_size=18](Ich helfe einer Frau.)[/font_size][/color] [color=#008000](J'aide une femme.)[/color]
+• Génitif : [color=#0000FF]Erinnerungen eines Kindes.[font_size=18](Erinnerungen eines Kindes.)[/font_size][/color] [color=#008000](Souvenirs d'un enfant.)[/color]
 [/indent]
 
 [font_size=24][color=#4B0082]3. Déclinaisons des Noms selon le Genre[/color][/font_size]

@@ -18,7 +18,7 @@ Les verbes du groupe 2 comprennent tous les verbes dont la forme du dictionnaire
 教える (oshieru) [color=#008000](enseigner)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は日本語を勉強します。[font_size=18pt](Watashi wa nihongo o benkyou shimasu.)[/font_size][/color] [color=#008000](J'étudie le japonais.)[/color][/i]
+[i]Exemple : [color=#0000FF]私は日本語を勉強します。[font_size=18](Watashi wa nihongo o benkyou shimasu.)[/font_size][/color] [color=#008000](J'étudie le japonais.)[/color][/i]
 
 [font_size=24][color=#4B0082]2. Conjugaison des Verbes du Groupe 2[/color][/font_size]
 
@@ -58,7 +58,7 @@ Les verbes du groupe 2 ont d'autres formes utilisées dans la conversation quoti
 [i]Exemple : [color=#0000FF]見られる (mirareru)[/color] [color=#008000](pouvoir regarder)[/color][/i]
 
 • Forme impérative (-ろ (-ro)) et (-なさい (-nasai)): Utilisée pour donner un ordre.
-[i]Exemple : [color=#0000FF]見ろ (miro), 見なさい (minasai)[/color] [color=#008000](regarde, regarde (forme polie))[color=#008000](aussi forme polie)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]見ろ (miro), 見なさい (minasai)[/color] [color=#008000](regarde, regarde (forme polie))[/color][color=#008000](aussi forme polie)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

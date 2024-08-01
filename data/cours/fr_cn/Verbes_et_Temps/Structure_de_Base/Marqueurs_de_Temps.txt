@@ -12,14 +12,14 @@ Les marqueurs de temps pour le passé aident à indiquer que l'action a déjà e
 [code]
 了 (le) [color=#008000](marqueur de l'accompli)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]我吃了饭。[font_size=18pt](Wǒ chī le fàn.)[/font_size][/color] [color=#008000](J'ai mangé.)[/color][/i]
+[i]Exemple : [color=#0000FF]我吃了饭。[font_size=18](Wǒ chī le fàn.)[/font_size][/color] [color=#008000](J'ai mangé.)[/color][/i]
 
 [b]b) Le mot « 过 » (guò) :[/b]
 [indent]Utilisé pour exprimer une expérience passée.
 [code]
 过 (guò) [color=#008000](avoir déjà fait)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]我吃过北京烤鸭。[font_size=18pt](Wǒ chī guò Běijīng kǎoyā.)[/font_size][/color] [color=#008000](J'ai déjà mangé du canard laqué de Pékin.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我吃过北京烤鸭。[font_size=18](Wǒ chī guò Běijīng kǎoyā.)[/font_size][/color] [color=#008000](J'ai déjà mangé du canard laqué de Pékin.)[/color][/i][/indent]
 
 [b]c) D'autres mots temporels pour le passé :[/b]
 [code]
@@ -28,7 +28,7 @@ Les marqueurs de temps pour le passé aident à indiquer que l'action a déjà e
 去年 (qùnián) [color=#008000](l'année dernière)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他去年去了中国。[font_size=18pt](Tā qùnián qù le Zhōngguó.)[/font_size][/color] [color=#008000](Il est allé en Chine l'année dernière.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他去年去了中国。[font_size=18](Tā qùnián qù le Zhōngguó.)[/font_size][/color] [color=#008000](Il est allé en Chine l'année dernière.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Marqueurs de temps pour le présent[/color][/font_size]
 
@@ -38,7 +38,7 @@ Les marqueurs de temps pour le présent permettent d'indiquer des actions qui se
 [code]
 正在 (zhèngzài) [color=#008000](en train de)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]我正在看电视。[font_size=18pt](Wǒ zhèngzài kàn diànshì.)[/font_size][/color] [color=#008000](Je suis en train de regarder la télévision.)[/color][/i]
+[i]Exemple : [color=#0000FF]我正在看电视。[font_size=18](Wǒ zhèngzài kàn diànshì.)[/font_size][/color] [color=#008000](Je suis en train de regarder la télévision.)[/color][/i]
 
 [b]b) Autres marqueurs de présent :[/b]
 [code]
@@ -47,7 +47,7 @@ Les marqueurs de temps pour le présent permettent d'indiquer des actions qui se
 这 (zhè) [color=#008000](ce, cet, cette)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我今天很忙。[font_size=18pt](Wǒ jīntiān hěn máng.)[/font_size][/color] [color=#008000](Je suis très occupé aujourd'hui.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我今天很忙。[font_size=18](Wǒ jīntiān hěn máng.)[/font_size][/color] [color=#008000](Je suis très occupé aujourd'hui.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Marqueurs de temps pour le futur[/color][/font_size]
 
@@ -57,13 +57,13 @@ Les marqueurs de temps pour le futur permettent d'indiquer des actions qui se d�
 [code]
 会 (huì) [color=#008000](va / va faire, expression du futur)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]我会去北京。[font_size=18pt](Wǒ huì qù Běijīng.)[/font_size][/color] [color=#008000](Je vais aller à Pékin.)[/color][/i]
+[i]Exemple : [color=#0000FF]我会去北京。[font_size=18](Wǒ huì qù Běijīng.)[/font_size][/color] [color=#008000](Je vais aller à Pékin.)[/color][/i]
 
 [b]b) Le mot « 要 » (yào) :[/b]
 [code]
 要 (yào) [color=#008000](être sur le point de, vouloir, devoir)[/color]
 [/code]
-[i]Exemple : [color=#0000FF]他要买一个新手机。[font_size=18pt](Tā yào mǎi yī ge xīn shǒujī.)[/font_size][/color] [color=#008000](Il va acheter un nouveau téléphone portable.)[/color][/i]
+[i]Exemple : [color=#0000FF]他要买一个新手机。[font_size=18](Tā yào mǎi yī ge xīn shǒujī.)[/font_size][/color] [color=#008000](Il va acheter un nouveau téléphone portable.)[/color][/i]
 
 [b]c) Autres marqueurs de futur :[/b]
 [code]
@@ -72,17 +72,17 @@ Les marqueurs de temps pour le futur permettent d'indiquer des actions qui se d�
 明年 (míngnián) [color=#008000](l'année prochaine)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]我们下个星期见。[font_size=18pt](Wǒmen xià ge xīngqī jiàn.)[/font_size][/color] [color=#008000](On se voit la semaine prochaine.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]我们下个星期见。[font_size=18](Wǒmen xià ge xīngqī jiàn.)[/font_size][/color] [color=#008000](On se voit la semaine prochaine.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Utilisation des marqueurs de temps dans les phrases[/color][/font_size]
 
 Pour utiliser les marqueurs de temps, placez-les généralement avant le verbe principal ou au début de la phrase pour contextualiser l'action. Voici quelques règles générales :
 
 [indent][b]a) Placer les marqueurs de temps avant le verbe principal :[/b]
-[i]Exemple : [color=#0000FF]她早上喝咖啡。[font_size=18pt](Tā zǎoshang hē kāfēi.)[/font_size][/color] [color=#008000](Elle boit du café le matin.)[/color][/i]
+[i]Exemple : [color=#0000FF]她早上喝咖啡。[font_size=18](Tā zǎoshang hē kāfēi.)[/font_size][/color] [color=#008000](Elle boit du café le matin.)[/color][/i]
 
 [b]b) Placer les marqueurs de temps au début de la phrase pour le contexte général :[/b]
-[i]Exemple : [color=#0000FF]明天我们去看电影。[font_size=18pt](Míngtiān wǒmen qù kàn diànyǐng.)[/font_size][/color] [color=#008000](Demain, nous allons voir un film.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]明天我们去看电影。[font_size=18](Míngtiān wǒmen qù kàn diànyǐng.)[/font_size][/color] [color=#008000](Demain, nous allons voir un film.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

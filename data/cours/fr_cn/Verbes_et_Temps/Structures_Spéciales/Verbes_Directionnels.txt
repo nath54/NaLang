@@ -20,7 +20,7 @@ Les verbes directionnels en chinois combinent des verbes de base avec des direct
 起 (qǐ) [color=#008000](se lever)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他上楼了。[font_size=18pt](Tā shàng lóu le.)[/font_size][/color] [color=#008000](Il est monté (à l'étage).)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他上楼了。[font_size=18](Tā shàng lóu le.)[/font_size][/color] [color=#008000](Il est monté (à l'étage).)[/color][/i][/indent]
 
 
 [b]b) Directions composées[/b]
@@ -41,30 +41,30 @@ Les verbes directionnels en chinois combinent des verbes de base avec des direct
 起来 (qǐ lái) [color=#008000](se lever vers le haut)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]他走过来了。[font_size=18pt](Tā zǒu guò lái le.)[/font_size][/color] [color=#008000](Il est venu ici (en marchant).)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他走过来了。[font_size=18](Tā zǒu guò lái le.)[/font_size][/color] [color=#008000](Il est venu ici (en marchant).)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des verbes directionnels[/color][/font_size]
 
 Les verbes directionnels s'utilisent pour indiquer la trajectoire de l'action. Voici quelques exemples pour illustrer leur usage dans différentes situations.
 
 [indent]• Lorsque l'action se dirige vers le locuteur, utilisez [color=#FF0000]来[/color] (lái).
-[i]Exemple : [color=#0000FF]他跑上来了。[font_size=18pt](Tā pǎo shàng lái le.)[/font_size][/color] [color=#008000](Il a couru ici (vers moi).)[/color][/i]
+[i]Exemple : [color=#0000FF]他跑上来了。[font_size=18](Tā pǎo shàng lái le.)[/font_size][/color] [color=#008000](Il a couru ici (vers moi).)[/color][/i]
 
 - Lorsque l'action s'éloigne du locuteur, utilisez [color=#FF0000]去[/color] (qù).
-[i]Exemple : [color=#0000FF]她跑出去。[font_size=18pt](Tā pǎo chū qù.)[/font_size][/color] [color=#008000](Elle est sortie (en courant) (loin de moi).)[/color][/i]
+[i]Exemple : [color=#0000FF]她跑出去。[font_size=18](Tā pǎo chū qù.)[/font_size][/color] [color=#008000](Elle est sortie (en courant) (loin de moi).)[/color][/i]
 
 - Combinez plusieurs verbes directionnels pour décrire des actions complexes :
-[i]Exemple : [color=#0000FF]他走进来了然后上楼了。[font_size=18pt](Tā zǒu jìn lái le rán hòu shàng lóu le.)[/font_size][/color] [color=#008000](Il est entré dans la pièce et ensuite est monté (à l'étage).)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]他走进来了然后上楼了。[font_size=18](Tā zǒu jìn lái le rán hòu shàng lóu le.)[/font_size][/color] [color=#008000](Il est entré dans la pièce et ensuite est monté (à l'étage).)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Ajouter des contextes supplémentaires[/color][/font_size]
 
 Pour rendre les phrases plus descriptives, il est possible d'ajouter des éléments contextuels tels que le lieu ou l'objectif de l'action.
 
 [indent]• Insertion d'un lieu
-[i]Exemple : [color=#0000FF]他跑进学校来了。[font_size=18pt](Tā pǎo jìn xué xiào lái le.)[/font_size][/color] [color=#008000](Il a couru vers l'école (venant vers moi).)[/color][/i]
+[i]Exemple : [color=#0000FF]他跑进学校来了。[font_size=18](Tā pǎo jìn xué xiào lái le.)[/font_size][/color] [color=#008000](Il a couru vers l'école (venant vers moi).)[/color][/i]
 
 • Spécifier le but de l'action
-[i]Exemple : [color=#0000FF]她走上楼去看书。[font_size=18pt](Tā zǒu shàng lóu qù kàn shū.)[/font_size][/color] [color=#008000](Elle est montée à l'étage pour lire un livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]她走上楼去看书。[font_size=18](Tā zǒu shàng lóu qù kàn shū.)[/font_size][/color] [color=#008000](Elle est montée à l'étage pour lire un livre.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

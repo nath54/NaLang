@@ -15,7 +15,7 @@ Le coréen utilise le format Sujet-Objet-Verbe pour construire des phrases simpl
 그녀가 편지를 써요. (geunyeoga pyeonjireul sseoyo) [color=#008000](Elle écrit une lettre.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 물을 마셔요. [font_size=18pt](naneun mureul masyeoyo)[/font_size][/color] [color=#008000](Je bois de l'eau.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 물을 마셔요. [font_size=18](naneun mureul masyeoyo)[/font_size][/color] [color=#008000](Je bois de l'eau.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Structure étendue avec des compléments[/color][/font_size]
 
@@ -28,20 +28,20 @@ La structure Sujet-Objet-Verbe peut être étendue avec des compléments de lieu
 우리는 저녁에 식당에서 저녁을 먹어요. (urineun jeonyeoge sikdangeseo jeonyeogeul meogeoyo) [color=#008000](Nous dînons au restaurant le soir.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그녀는 매일 집에서 요리해요. [font_size=18pt](geunyeoneun maeil jibeseo yorihaeyo)[/font_size][/color] [color=#008000](Elle cuisine à la maison tous les jours.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그녀는 매일 집에서 요리해요. [font_size=18](geunyeoneun maeil jibeseo yorihaeyo)[/font_size][/color] [color=#008000](Elle cuisine à la maison tous les jours.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Règles spéciales et précisions[/color][/font_size]
 
 Il existe des particularités et des exceptions à connaître pour bien structurer les phrases en coréen.
 
 [indent]• Pronoms sujets peuvent souvent être omis si le contexte est clair.
-[i]Exemple : [color=#0000FF]사과를 먹어요. [font_size=18pt](sagwareul meogeoyo)[/font_size][/color] [color=#008000](Je (ou Tu, Il/Elle) mange une pomme.)[/color][/i]
+[i]Exemple : [color=#0000FF]사과를 먹어요. [font_size=18](sagwareul meogeoyo)[/font_size][/color] [color=#008000](Je (ou Tu, Il/Elle) mange une pomme.)[/color][/i]
 
 • Particules de sujet/objet (는/은 (neun/eun), 이/가 (i/ga), 를/을 (reul/eul)) sont essentielles pour la clarté de la phrase.
-[i]Exemple : [color=#0000FF]학생이 책을 읽어요. [font_size=18pt](haksaengi chaegeul ilgeoyo)[/font_size][/color] [color=#008000](L'étudiant lit un livre.)[/color][/i]
+[i]Exemple : [color=#0000FF]학생이 책을 읽어요. [font_size=18](haksaengi chaegeul ilgeoyo)[/font_size][/color] [color=#008000](L'étudiant lit un livre.)[/color][/i]
 
 • Les verbes descriptifs (adjectifs) sont utilisés comme des verbes et se placent en fin de phrase.
-[i]Exemple : [color=#0000FF]그녀는 예뻐요. [font_size=18pt](geunyeoneun yeppeoyo)[/font_size][/color] [color=#008000](Elle est jolie.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그녀는 예뻐요. [font_size=18](geunyeoneun yeppeoyo)[/font_size][/color] [color=#008000](Elle est jolie.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

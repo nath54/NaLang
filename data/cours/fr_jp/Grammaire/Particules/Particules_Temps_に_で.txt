@@ -16,7 +16,7 @@ La particule [に] (ni) est utilisée pour indiquer un moment spécifique où qu
 8月に (hachigatsu ni) [color=#008000](en août)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私は七時に起きます。[font_size=18pt](Watashi wa shichiji ni okimasu.)[/font_size][/color] [color=#008000](Je me lève à sept heures.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私は七時に起きます。[font_size=18](Watashi wa shichiji ni okimasu.)[/font_size][/color] [color=#008000](Je me lève à sept heures.)[/color][/i][/indent]
 
 [b]b) Indiquer un événement précis[/b]
 [indent]La particule [に] (ni) est également utilisée pour indiquer un moment important ou un événement.
@@ -25,7 +25,7 @@ La particule [に] (ni) est utilisée pour indiquer un moment spécifique où qu
 祝日に (shukujitsu ni) [color=#008000](à un jour férié)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼はクリスマスにプレゼントをもらいました。[font_size=18pt](Kare wa kurisumasu ni purezento o moraimashita.)[/font_size][/color] [color=#008000](Il a reçu un cadeau à Noël.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼はクリスマスにプレゼントをもらいました。[font_size=18](Kare wa kurisumasu ni purezento o moraimashita.)[/font_size][/color] [color=#008000](Il a reçu un cadeau à Noël.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Particule で (de)[/color][/font_size]
 
@@ -39,7 +39,7 @@ La particule [で] (de) est utilisée pour indiquer un délai ou une durée dans
 一年で (ichinen de) [color=#008000](en un an)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]彼は一時間で宿題を終えました。[font_size=18pt](Kare wa ichijikan de shukudai o oemashita.)[/font_size][/color] [color=#008000](Il a terminé ses devoirs en une heure.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は一時間で宿題を終えました。[font_size=18](Kare wa ichijikan de shukudai o oemashita.)[/font_size][/color] [color=#008000](Il a terminé ses devoirs en une heure.)[/color][/i][/indent]
 
 [b]b) Utilisations supplémentaires[/b]
 [indent]La particule [で] (de) peut aussi être utilisée pour indiquer des échéances ou des délais.
@@ -48,17 +48,17 @@ La particule [で] (de) est utilisée pour indiquer un délai ou une durée dans
 今月で (kongetsu de) [color=#008000](avant la fin de ce mois)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]私はこの仕事を今月で終わらせます。[font_size=18pt](Watashi wa kono shigoto o kongetsu de owarasemasu.)[/font_size][/color] [color=#008000](Je finirai ce travail avant la fin de ce mois.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]私はこの仕事を今月で終わらせます。[font_size=18](Watashi wa kono shigoto o kongetsu de owarasemasu.)[/font_size][/color] [color=#008000](Je finirai ce travail avant la fin de ce mois.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Distinction entre に (ni) et で (de)[/color][/font_size]
 
 Bien que les deux particules se rapportent au temps, leur usage est distinct. [に] (ni) indique un moment précis alors que [で] (de) met l'accent sur la durée ou le délai d'une action.
 
 [indent]• Utilisez [color=#FF0000]に[/color] (ni) pour indiquer un moment spécifique :
-[i]Exemple : [color=#0000FF]彼は八時に来ます。[font_size=18pt](Kare wa hachiji ni kimasu.)[/font_size][/color] [color=#008000](Il viendra à huit heures.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は八時に来ます。[font_size=18](Kare wa hachiji ni kimasu.)[/font_size][/color] [color=#008000](Il viendra à huit heures.)[/color][/i]
 
 - Utilisez [color=#FF0000]で[/color] (de) pour indiquer la durée ou le délai :
-[i]Exemple : [color=#0000FF]彼は三日で東京に行きます。[font_size=18pt](Kare wa mikka de Tōkyō ni ikimasu.)[/font_size][/color] [color=#008000](Il ira à Tokyo en trois jours.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]彼は三日で東京に行きます。[font_size=18](Kare wa mikka de Tōkyō ni ikimasu.)[/font_size][/color] [color=#008000](Il ira à Tokyo en trois jours.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

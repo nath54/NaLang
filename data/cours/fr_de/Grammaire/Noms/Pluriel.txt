@@ -16,7 +16,7 @@ das Buch (le livre) -> die Bücher (les livres)
 die Stadt (la ville) -> die Städte (les villes)
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich habe zwei Hunde.[font_size=18pt](Ih habe tsvaï hunde.)[/font_size][/color] [color=#008000](J'ai deux chiens.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich habe zwei Hunde.[font_size=18](Ih habe tsvaï hunde.)[/font_size][/color] [color=#008000](J'ai deux chiens.)[/color][/i][/indent]
 
 [b]b) Terminaison en -er[/b]
 [indent]Certains noms neutres forment leur pluriel avec -er et subissent souvent une modification de voyelle.
@@ -26,7 +26,7 @@ das Haus (la maison) -> die Häuser (les maisons)
 das Wort (le mot) -> die Wörter (les mots)
 [/code]
 
-[i]Exemple : [color=#0000FF]Die Kinder spielen draußen.[font_size=18pt](Di kinder shpiel-en drowsen.)[/font_size][/color] [color=#008000](Les enfants jouent dehors.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Die Kinder spielen draußen.[font_size=18](Di kinder shpiel-en drowsen.)[/font_size][/color] [color=#008000](Les enfants jouent dehors.)[/color][/i][/indent]
 
 [b]c) Terminaison en -n ou -en[/b]
 [indent]De nombreux noms féminins ajoutent -n ou -en pour le pluriel.
@@ -36,7 +36,7 @@ die Blume (la fleur) -> die Blumen (les fleurs)
 die Lehrerin (la professeure) -> die Lehrerinnen (les professeures)
 [/code]
 
-[i]Exemple : [color=#0000FF]Die Blumen sind schön.[font_size=18pt](Di bloom-en zint shurn.)[/font_size][/color] [color=#008000](Les fleurs sont belles.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Die Blumen sind schön.[font_size=18](Di bloom-en zint shurn.)[/font_size][/color] [color=#008000](Les fleurs sont belles.)[/color][/i][/indent]
 
 [b]d) Terminaison en -s[/b]
 [indent]Les noms étrangers ou abrégés prennent souvent un -s pour le pluriel.
@@ -46,20 +46,20 @@ das Hotel (l'hôtel) -> die Hotels (les hôtels)
 der Park (le parc) -> die Parks (les parcs)
 [/code]
 
-[i]Exemple : [color=#0000FF]Wir haben zwei Autos.[font_size=18pt](Vir hab-en tsvaï aut-os.)[/font_size][/color] [color=#008000](Nous avons deux voitures.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Wir haben zwei Autos.[font_size=18](Vir hab-en tsvaï aut-os.)[/font_size][/color] [color=#008000](Nous avons deux voitures.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Variations et irrégularités[/color][/font_size]
 
 Certains noms en allemand peuvent avoir des formes de pluriel irrégulières ou ne suivent pas les règles standards. Apprenez ces exceptions pour bien les maîtriser.
 
 [indent]• Noms sans changement de forme
-[i]Exemple : [color=#0000FF]das Mädchen (la fille) -> die Mädchen (les filles)[font_size=18pt](das med-chen -> di med-chen)[/font_size][/color]
+[i]Exemple : [color=#0000FF]das Mädchen (la fille) -> die Mädchen (les filles)[font_size=18](das med-chen -> di med-chen)[/font_size][/color][/i]
 
 • Noms avec modification de voyelle
-[i]Exemple : [color=#0000FF]der Mann (l'homme) -> die Männer (les hommes)[font_size=18pt](der man -> di men-er)[/font_size][/color]
+[i]Exemple : [color=#0000FF]der Mann (l'homme) -> die Männer (les hommes)[font_size=18](der man -> di men-er)[/font_size][/color][/i]
 
 • Noms ayant des terminaisons spéciales
-[i]Exemple : [color=#0000FF]der Mann (l'homme) -> die Männer (les hommes)[font_size=18pt](der man -> di men-er)[/font_size][/color][/indent]
+[i]Exemple : [color=#0000FF]der Mann (l'homme) -> die Männer (les hommes)[font_size=18](der man -> di men-er)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisation des pluriels[/color][/font_size]
 

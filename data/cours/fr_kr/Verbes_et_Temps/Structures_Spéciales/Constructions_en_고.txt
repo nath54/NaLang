@@ -14,7 +14,7 @@ Pour assembler deux actions ou clauses en utilisant 고 (go), il suffit de prend
 나는 학교에 가고 도서관에서 공부했어요 (naneun hakgyoe gago doseogwaneseo gongbuhasseoyo) [color=#008000](Je suis allé à l'école et j'ai étudié à la bibliothèque.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 아침을 먹고 회사에 갔어요.[font_size=18pt](naneun achimeul meokgo hoesae gasseoyo.)[/font_size][/color] [color=#008000](J'ai pris mon petit déjeuner et je suis allé au travail.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 아침을 먹고 회사에 갔어요.[font_size=18](naneun achimeul meokgo hoesae gasseoyo.)[/font_size][/color] [color=#008000](J'ai pris mon petit déjeuner et je suis allé au travail.)[/color][/i][/indent]
 
 [b]b) Ajouter des informations[/b]
 [indent]Vous pouvez utiliser 고 (go) pour ajouter des informations supplémentaires à une action ou une situation.
@@ -22,30 +22,30 @@ Pour assembler deux actions ou clauses en utilisant 고 (go), il suffit de prend
 그는 피곤하고 배고팠어요 (geuneun pigonhago baegopasseoyo) [color=#008000](Il était fatigué et avait faim.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그녀는 친절하고 똑똑해요.[font_size=18pt](geunyeoneun chinjeolhago ttokttokhaeyo.)[/font_size][/color] [color=#008000](Elle est gentille et intelligente.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그녀는 친절하고 똑똑해요.[font_size=18](geunyeoneun chinjeolhago ttokttokhaeyo.)[/font_size][/color] [color=#008000](Elle est gentille et intelligente.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des constructions en 고[/color][/font_size]
 
 Les constructions en 고 (go) s’utilisent pour relier diverses clauses ou actions. Voici quelques règles et exemples pour vous aider à les utiliser correctement.
 
 [indent]• Pour exprimer une séquence d'actions de manière simple :
-[i]Exemple : [color=#0000FF]나는 집에 가고 TV를 봤어요.[font_size=18pt](naneun jibe gago TVreul bwasseoyo.)[/font_size][/color] [color=#008000](Je suis allé à la maison et j'ai regardé la télévision.)[/color][/i]
+[i]Exemple : [color=#0000FF]나는 집에 가고 TV를 봤어요.[font_size=18](naneun jibe gago TVreul bwasseoyo.)[/font_size][/color] [color=#008000](Je suis allé à la maison et j'ai regardé la télévision.)[/color][/i]
 
 - Pour décrire des états ou caractéristiques :
-[i]Exemple : [color=#0000FF]그녀는 예쁘고 키가 커요.[font_size=18pt](geunyeoneun yeppeugo kiga keoyo.)[/font_size][/color] [color=#008000](Elle est belle et grande.)[/color][/i]
+[i]Exemple : [color=#0000FF]그녀는 예쁘고 키가 커요.[font_size=18](geunyeoneun yeppeugo kiga keoyo.)[/font_size][/color] [color=#008000](Elle est belle et grande.)[/color][/i]
 
 - Pour ajouter des détails additionnels à une action accomplie :
-[i]Exemple : [color=#0000FF]그는 공부하고 한국어를 배웠어요.[font_size=18pt](geuneun gongbuhago hangugeoreul baewosseoyo.)[/font_size][/color] [color=#008000](Il a étudié et appris le coréen.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 공부하고 한국어를 배웠어요.[font_size=18](geuneun gongbuhago hangugeoreul baewosseoyo.)[/font_size][/color] [color=#008000](Il a étudié et appris le coréen.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Les constructions en 고 peuvent également être utilisées pour indiquer une cause ou un effet, bien que ce soit moins courant. Il est aussi possible d'insérer d'autres compléments pour enrichir les phrases.
 
 [indent]• Insertion d'un complément de temps ou de lieu
-[i]Exemple : [color=#0000FF]나는 친구 집에서 자고 아침에 일어났어요.[font_size=18pt](naneun chingu jibeseo jago achime ireonasseoyo.)[/font_size][/color] [color=#008000](J'ai dormi chez un ami et je me suis réveillé le matin.)[/color][/i]
+[i]Exemple : [color=#0000FF]나는 친구 집에서 자고 아침에 일어났어요.[font_size=18](naneun chingu jibeseo jago achime ireonasseoyo.)[/font_size][/color] [color=#008000](J'ai dormi chez un ami et je me suis réveillé le matin.)[/color][/i]
 
 - Préciser les émotions ou les raisons
-[i]Exemple : [color=#0000FF]그는 노래를 들으면서 행복하고 즐거웠어요.[font_size=18pt](geuneun noraereul deureumyeonseo haengbokhago jeulgeowosseoyo.)[/font_size][/color] [color=#008000](Il était heureux et amusé en écoutant la musique.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 노래를 들으면서 행복하고 즐거웠어요.[font_size=18](geuneun noraereul deureumyeonseo haengbokhago jeulgeowosseoyo.)[/font_size][/color] [color=#008000](Il était heureux et amusé en écoutant la musique.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

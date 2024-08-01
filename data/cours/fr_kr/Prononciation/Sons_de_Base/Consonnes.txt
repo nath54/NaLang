@@ -26,7 +26,7 @@ Les consonnes simples en coréen sont les sons de base que l'on apprend en premi
 ㅎ (히읗, hieut) [color=#008000]h[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]감사합니다.[font_size=18pt](gamsahamnida)[/font_size][/color] [color=#008000](Merci.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]감사합니다.[font_size=18](gamsahamnida)[/font_size][/color] [color=#008000](Merci.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Les Consonnes Doubles[/color][/font_size]
 
@@ -41,7 +41,7 @@ Les consonnes doubles, ou "consonnes fortifiées", sont des sons plus intenses e
 ㅉ (쌍지읒, ssang jieut) [color=#008000]jj[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]빵.[font_size=18pt](ppang)[/font_size][/color] [color=#008000](Pain.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]빵.[font_size=18](ppang)[/font_size][/color] [color=#008000](Pain.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Les Consonnes Aspirées[/color][/font_size]
 
@@ -55,7 +55,7 @@ Les consonnes aspirées sont prononcées avec une légère émission d'air, ce q
 ㅊ (치읓, chieut) [color=#008000]cʰ[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]학교.[font_size=18pt](hakgyo)[/font_size][/color] [color=#008000](École.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]학교.[font_size=18](hakgyo)[/font_size][/color] [color=#008000](École.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

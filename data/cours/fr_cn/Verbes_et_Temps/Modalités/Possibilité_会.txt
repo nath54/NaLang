@@ -60,11 +60,11 @@ Il existe certaines locutions adverbiales composées avec 会 (huì) qui peuvent
 
 [indent][color=#FF0000]会不会 (huì bù huì)[/color] - pour poser une question de possibilité
 [b]Exemple :[/b]
-[indent][color=#0000FF]他会不会来？ (tā huì bù huì lái?)[/color] [color=#008000](Est-ce qu'il viendra ?)[/color][/indent]
+[indent][color=#0000FF]他会不会来？ (tā huì bù huì lái?)[/color] [color=#008000](Est-ce qu'il viendra ?)[/color][/indent][/indent]
 
 [color=#FF0000]偶尔会 (ǒu’ěr huì)[/color] - parfois il peut
 [b]Exemple :[/b]
-[indent][color=#0000FF]他偶尔会迟到 (tā ǒu’ěr huì chídào)[/color] [color=#008000](Il peut parfois être en retard.)[/color][/indent][indent]
+[indent][color=#0000FF]他偶尔会迟到 (tā ǒu’ěr huì chídào)[/color] [color=#008000](Il peut parfois être en retard.)[/color][/indent]
 
 Ces expressions permettent de poser des questions et de faire des déclarations sur des possibilités de manière plus nuancée. 
 

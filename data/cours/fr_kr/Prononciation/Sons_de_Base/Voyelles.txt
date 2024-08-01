@@ -21,7 +21,7 @@ Le coréen comporte 10 voyelles simples, chacune avec un son distinct. Voici une
 ㅣ (i) [color=#008000](i comme dans "si")[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]안녕하세요。[font_size=18pt](annyeong haseyo)[/font_size][/color] [color=#008000](Bonjour)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]안녕하세요。[font_size=18](annyeong haseyo)[/font_size][/color] [color=#008000](Bonjour)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Voyelles Composées[/color][/font_size]
 
@@ -41,7 +41,7 @@ Les voyelles composées sont formées en combinant les voyelles simples. Voici l
 ㅢ (ui) [color=#008000](ui comme dans "oui" en français mais plus court)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]괜찮아요。[font_size=18pt](gwaenchanayo)[/font_size][/color] [color=#008000](Ça va)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]괜찮아요。[font_size=18](gwaenchanayo)[/font_size][/color] [color=#008000](Ça va)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Prononciation et Usage[/color][/font_size]
 
@@ -51,7 +51,7 @@ Pour la prononciation correcte des voyelles coréennes, il est crucial d'écoute
 • Utilisez des applications d'apprentissage de la langue avec des enregistrements de locuteurs natifs.
 • Essayez de lire des mots simples écrits en Hangeul (한글).
 
-[i]Exemple : [color=#0000FF]학교에 가요。[font_size=18pt](hakgyoe gayo)[/font_size][/color] [color=#008000](Je vais à l'école)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]학교에 가요。[font_size=18](hakgyoe gayo)[/font_size][/color] [color=#008000](Je vais à l'école)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

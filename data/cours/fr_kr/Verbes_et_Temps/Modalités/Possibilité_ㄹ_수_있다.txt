@@ -18,7 +18,7 @@ Pour former des phrases en utilisant la structure "ㄹ 수 있다", il faut suiv
 가다 (gada) [color=#008000](aller)[/color] → 갈 수 있다 (gal su itda) [color=#008000](pouvoir aller)[/color]
 보다 (boda) [color=#008000](voir)[/color] → 볼 수 있다 (bol su itda) [color=#008000](pouvoir voir)[/color]
 먹다 (meokda) [color=#008000](manger)[/color] → 먹을 수 있다 (meogeul su itda) [color=#008000](pouvoir manger)[/color]
-[/code]
+[/code][/indent]
 
 [b]Exemples de verbes se terminant par une consonne[/b]
 [indent][code]
@@ -32,26 +32,26 @@ Pour former des phrases en utilisant la structure "ㄹ 수 있다", il faut suiv
 La structure "ㄹ 수 있다" est utilisée pour indiquer la possibilité ou la capacité de réaliser une action. Voici quelques exemples pour illustrer son utilisation :
 
 [indent] 
-[i]Exemple : [color=#0000FF]나는 갈 수 있다.[font_size=18pt](Naneun gal su itda.)[/font_size][/color] [color=#008000](Je peux y aller.)[/color][/i]
+[i]Exemple : [color=#0000FF]나는 갈 수 있다.[font_size=18](Naneun gal su itda.)[/font_size][/color] [color=#008000](Je peux y aller.)[/color][/i]
 
-[i]Exemple : [color=#0000FF]그녀는 피아노를 칠 수 있다.[font_size=18pt](Geunyeoneun pianoreul chil su itda.)[/font_size][/color] [color=#008000](Elle peut jouer du piano.)[/color][/i]
+[i]Exemple : [color=#0000FF]그녀는 피아노를 칠 수 있다.[font_size=18](Geunyeoneun pianoreul chil su itda.)[/font_size][/color] [color=#008000](Elle peut jouer du piano.)[/color][/i]
 
-[i]Exemple : [color=#0000FF]우리는 함께 먹을 수 있다.[font_size=18pt](Urineun hamkke meogeul su itda.)[/font_size][/color] [color=#008000](Nous pouvons manger ensemble.)[/color][/i]
+[i]Exemple : [color=#0000FF]우리는 함께 먹을 수 있다.[font_size=18](Urineun hamkke meogeul su itda.)[/font_size][/color] [color=#008000](Nous pouvons manger ensemble.)[/color][/i]
 
-[i]Exemple : [color=#0000FF]그들은 책을 읽을 수 있다.[font_size=18pt](Geudeureun chaegeul ilgeul su itda.)[/font_size][/color] [color=#008000](Ils peuvent lire le livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그들은 책을 읽을 수 있다.[font_size=18](Geudeureun chaegeul ilgeul su itda.)[/font_size][/color] [color=#008000](Ils peuvent lire le livre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Forme négative avec ㄹ 수 없다[/color][/font_size]
 
 Pour exprimer l'impossibilité de faire quelque chose, on utilise la structure "ㄹ 수 없다 (ㄹ su eopda)" ou "을 수 없다 (eul su eopda)" en suivant les mêmes règles de formation que pour "ㄹ 수 있다 (ㄹ su itda)".
 
 [indent] 
-[i]Exemple : [color=#0000FF]나는 갈 수 없다.[font_size=18pt](Naneun gal su eopda.)[/font_size][/color] [color=#008000](Je ne peux pas y aller.)[/color][/i]
+[i]Exemple : [color=#0000FF]나는 갈 수 없다.[font_size=18](Naneun gal su eopda.)[/font_size][/color] [color=#008000](Je ne peux pas y aller.)[/color][/i]
 
-[i]Exemple : [color=#0000FF]그녀는 피아노를 칠 수 없다.[font_size=18pt](Geunyeoneun pianoreul chil su eopda.)[/font_size][/color] [color=#008000](Elle ne peut pas jouer du piano.)[/color][/i]
+[i]Exemple : [color=#0000FF]그녀는 피아노를 칠 수 없다.[font_size=18](Geunyeoneun pianoreul chil su eopda.)[/font_size][/color] [color=#008000](Elle ne peut pas jouer du piano.)[/color][/i]
 
-[i]Exemple : [color=#0000FF]우리는 함께 먹을 수 없다.[font_size=18pt](Urineun hamkke meogeul su eopda.)[/font_size][/color] [color=#008000](Nous ne pouvons pas manger ensemble.)[/color][/i]
+[i]Exemple : [color=#0000FF]우리는 함께 먹을 수 없다.[font_size=18](Urineun hamkke meogeul su eopda.)[/font_size][/color] [color=#008000](Nous ne pouvons pas manger ensemble.)[/color][/i]
 
-[i]Exemple : [color=#0000FF]그들은 책을 읽을 수 없다.[font_size=18pt](Geudeureun chaegeul ilgeul su eopda.)[/font_size][/color] [color=#008000](Ils ne peuvent pas lire le livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그들은 책을 읽을 수 없다.[font_size=18](Geudeureun chaegeul ilgeul su eopda.)[/font_size][/color] [color=#008000](Ils ne peuvent pas lire le livre.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

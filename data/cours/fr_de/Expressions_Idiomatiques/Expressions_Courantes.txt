@@ -16,7 +16,7 @@ Guten Abend [color=#008000](Bonsoir)[/color]
 Gute Nacht [color=#008000](Bonne nuit)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Guten Morgen, wie geht es Ihnen?[font_size=18pt] (Bonjour, comment allez-vous ?)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Guten Morgen, wie geht es Ihnen?[font_size=18] (Bonjour, comment allez-vous ?)[/font_size][/color][/i][/indent]
 
 [b]b) Dire au revoir[/b]
 [indent][code]
@@ -26,7 +26,7 @@ Bis bald [color=#008000](À bientôt)[/color]
 Bis später [color=#008000](À plus tard)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Auf Wiedersehen! Bis morgen.[font_size=18pt] (Au revoir! À demain.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Auf Wiedersehen! Bis morgen.[font_size=18] (Au revoir! À demain.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Expressions courantes pour la vie quotidienne [/color][/font_size]
 
@@ -41,7 +41,7 @@ Alles Gute [color=#008000](Tout de bon / Bonne chance)[/color]
 Gute Besserung [color=#008000](Prompt rétablissement)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Vielen Dank für Ihre Hilfe.[font_size=18pt] (Merci beaucoup pour votre aide.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Vielen Dank für Ihre Hilfe.[font_size=18] (Merci beaucoup pour votre aide.)[/font_size][/color][/i][/indent]
 
 [b]b) Excuses et regrets[/b]
 [indent][code]
@@ -51,7 +51,7 @@ Leider [color=#008000](Malheureusement)[/color]
 Kein Problem [color=#008000](Pas de problème)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Es tut mir leid, dass ich zu spät bin.[font_size=18pt] (Je suis désolé d'être en retard.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Es tut mir leid, dass ich zu spät bin.[font_size=18] (Je suis désolé d'être en retard.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Expressions idiomatiques communes [/color][/font_size]
 
@@ -63,7 +63,7 @@ Da steppt der Bär [color=#008000](Ça va être une fête de folie (littéraleme
 Einen Frosch im Hals haben [color=#008000](Avoir un chat dans la gorge (littéralement "avoir une grenouille dans la gorge"))[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Auf der Party gestern, da hat wirklich der Bär gesteppt![font_size=18pt] (La fête hier était vraiment folle !)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Auf der Party gestern, da hat wirklich der Bär gesteppt![font_size=18] (La fête hier était vraiment folle !)[/font_size][/color][/i][/indent]
 
 [b]b) Expressions diverses[/b]
 [indent][code]
@@ -71,7 +71,7 @@ Ich verstehe nur Bahnhof [color=#008000](Je n'y comprends rien du tout (littéra
 Ins Gras beißen [color=#008000](Mourir (littéralement "mordre l'herbe"))[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Er hat so kompliziert gesprochen, ich habe nur Bahnhof verstanden.[font_size=18pt] (Il parlait si compliqué que je n'y comprenais rien du tout.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er hat so kompliziert gesprochen, ich habe nur Bahnhof verstanden.[font_size=18] (Il parlait si compliqué que je n'y comprenais rien du tout.)[/font_size][/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

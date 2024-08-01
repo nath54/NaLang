@@ -15,7 +15,7 @@ La forme intime se construit en ajoutant les terminaisons [color=#FF0000]아[/co
 오다 (oda) → 오 (o) + 아 (a) → 와 (wa)
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 학교에 가.[font_size=18pt](Naneun hakgyoe ga.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 학교에 가.[font_size=18](Naneun hakgyoe ga.)[/font_size][/color] [color=#008000](Je vais à l'école.)[/color][/i][/indent]
 
 [b]b) Si la dernière voyelle est autre que ㅏ (a) ou ㅗ (o)[/b]
 [indent]On utilise la terminaison [color=#FF0000]어[/color] (eo).
@@ -24,7 +24,7 @@ La forme intime se construit en ajoutant les terminaisons [color=#FF0000]아[/co
 배우다 (baeu-da) → 배우 (baeu) + 어 (eo) → 배워 (baewo)
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 밥을 먹어.[font_size=18pt](Naneun babeul meog-eo.)[/font_size][/color] [color=#008000](Je mange du riz.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 밥을 먹어.[font_size=18](Naneun babeul meog-eo.)[/font_size][/color] [color=#008000](Je mange du riz.)[/color][/i][/indent]
 
 [b]c) Verbes se terminant par 하다 (hada)[/b]
 [indent]On transforme 하다 (hada) en 해 (hae).
@@ -33,30 +33,30 @@ La forme intime se construit en ajoutant les terminaisons [color=#FF0000]아[/co
 일하다 (il-hada) → 일해 (il-hae)
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 공부해.[font_size=18pt](Naneun gongbu-hae.)[/font_size][/color] [color=#008000](J'étudie.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 공부해.[font_size=18](Naneun gongbu-hae.)[/font_size][/color] [color=#008000](J'étudie.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation de la forme intime (아/어)[/color][/font_size]
 
 La forme intime est couramment utilisée dans des contextes informels et familiers. Voici quelques situations courantes où cette forme est appropriée.
 
 [indent]• Parler à des amis proches de même âge ou plus jeunes :
-[i]Exemple : [color=#0000FF]우리 같이 가자.[font_size=18pt](Uri gachi gaja.)[/font_size][/color] [color=#008000](Allons-y ensemble.)[/color][/i]
+[i]Exemple : [color=#0000FF]우리 같이 가자.[font_size=18](Uri gachi gaja.)[/font_size][/color] [color=#008000](Allons-y ensemble.)[/color][/i]
 
 - Parler à des membres de la famille de même âge ou plus jeunes :
-[i]Exemple : [color=#0000FF]엄마, 이거 봐.[font_size=18pt](Eomma, igeo bwa.)[/font_size][/color] [color=#008000](Maman, regarde ça.)[/color][/i]
+[i]Exemple : [color=#0000FF]엄마, 이거 봐.[font_size=18](Eomma, igeo bwa.)[/font_size][/color] [color=#008000](Maman, regarde ça.)[/color][/i]
 
 - Situations décontractées sans besoin de formalisme :
-[i]Exemple : [color=#0000FF]나 먼저 갈게.[font_size=18pt](Na meonjeo galge.)[/font_size][/color] [color=#008000](Je vais partir en premier.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나 먼저 갈게.[font_size=18](Na meonjeo galge.)[/font_size][/color] [color=#008000](Je vais partir en premier.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précautions d'usage[/color][/font_size]
 
 Même si la forme intime est utile et courante, il est important de respecter les niveaux de politesse en fonction de l'interlocuteur et de la situation.
 
 [indent]• Ne pas utiliser la forme intime avec des inconnus ou dans des situations formelles :
-[i]Corriger : [color=#0000FF]안녕하세요.[font_size=18pt](Annyeonghaseyo.)[/font_size][/color] [color=#008000](Bonjour.)[/color] au lieu de [color=#0000FF]안녕.[font_size=18pt](Annyeong.)[/font_size][/color] [color=#008000](Salut.)[/color][/i]
+[i]Corriger : [color=#0000FF]안녕하세요.[font_size=18](Annyeonghaseyo.)[/font_size][/color] [color=#008000](Bonjour.)[/color] au lieu de [color=#0000FF]안녕.[font_size=18](Annyeong.)[/font_size][/color] [color=#008000](Salut.)[/color][/i]
 
 - Utiliser la forme intime avec discernement pour maintenir des relations harmonieuses :
-[i]Exemple : Utilisez [color=#FF0000]요[/color] pour adoucir la forme intime : [color=#0000FF]가요.[font_size=18pt](Gayo.)[/font_size][/color] [color=#008000](Je vais.)[/color][/i][/indent]
+[i]Exemple : Utilisez [color=#FF0000]요[/color] pour adoucir la forme intime : [color=#0000FF]가요.[font_size=18](Gayo.)[/font_size][/color] [color=#008000](Je vais.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

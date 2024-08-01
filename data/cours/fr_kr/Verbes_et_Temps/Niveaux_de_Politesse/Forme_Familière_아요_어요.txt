@@ -11,42 +11,42 @@ La forme familière en coréen est utilisée pour montrer une certaine proximit�
 [b]a) Conjugaison avec la terminaison 아요 (a-yo)[/b]
 [indent]Utilisez la terminaison 아요 (a-yo) lorsque la racine du verbe contient une voyelle ouverte (a, o).
 [code]
-가다 (gada) [color=#008000](aller) → 가요 (gayo) [color=#008000](je vais / tu vas / il va)[/color]
-보다 (boda) [color=#008000](voir) → 봐요 (bwayo) [color=#008000](je vois / tu vois / il voit)[/color]
-끝나다 (kkeutnada) [color=#008000](finir) → 끝나요 (kkeutnayo) [color=#008000](je finis / tu finis / il finit)[/color]
+가다 (gada) [color=#008000](aller) → 가요 (gayo)[/color] [color=#008000](je vais / tu vas / il va)[/color]
+보다 (boda) [color=#008000](voir) → 봐요 (bwayo)[/color] [color=#008000](je vois / tu vois / il voit)[/color]
+끝나다 (kkeutnada) [color=#008000](finir) → 끝나요 (kkeutnayo)[/color] [color=#008000](je finis / tu finis / il finit)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 집에 가요.[font_size=18pt](Naneun jibe gayo.)[/font_size][/color] [color=#008000](Je vais à la maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 집에 가요.[font_size=18](Naneun jibe gayo.)[/font_size][/color] [color=#008000](Je vais à la maison.)[/color][/i][/indent]
 
 [b]b) Conjugaison avec la terminaison 어요 (eo-yo)[/b]
 [indent]Utilisez la terminaison 어요 (eo-yo) lorsque la racine du verbe contient une voyelle fermée (autres voyelles que a, o).
 [code]
-먹다 (meokda) [color=#008000](manger) → 먹어요 (meogeoyo) [color=#008000](je mange / tu manges / il mange)[/color]
-마시다 (masida) [color=#008000](boire) → 마셔요 (masyeoyo) [color=#008000](je bois / tu bois / il boit)[/color]
-읽다 (ikda) [color=#008000](lire) → 읽어요 (ilgeoyo) [color=#008000](je lis / tu lis / il lit)[/color]
+먹다 (meokda) [color=#008000](manger) → 먹어요 (meogeoyo)[/color] [color=#008000](je mange / tu manges / il mange)[/color]
+마시다 (masida) [color=#008000](boire) → 마셔요 (masyeoyo)[/color] [color=#008000](je bois / tu bois / il boit)[/color]
+읽다 (ikda) [color=#008000](lire) → 읽어요 (ilgeoyo)[/color] [color=#008000](je lis / tu lis / il lit)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]나는 책을 읽어요.[font_size=18pt](Naneun chaegeul ilgeoyo.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]나는 책을 읽어요.[font_size=18](Naneun chaegeul ilgeoyo.)[/font_size][/color] [color=#008000](Je lis un livre.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Exceptions et Cas Particuliers[/color][/font_size]
 
 Certains verbes en coréen ne suivent pas toujours la règle directe de la terminaison et nécessitent une attention particulière.
 
 [indent]• Lorsque la racine du verbe se termine par une voyelle, la terminaison se combine directement sans ajouter de voyelle supplémentaire.
-[i]Exemple : [color=#0000FF]하다 (hada) [color=#008000](faire) → 해요 (haeyo) [color=#008000](je fais / tu fais / il fait)[/color][/color][/i]
+[i]Exemple : [color=#0000FF]하다 (hada)[/color] [color=#008000](faire) → 해요 (haeyo) [color=#008000](je fais / tu fais / il fait)[/color][/color][/i]
 
 - Pour les verbes terminant par la voyelle 으 (eu), il faut omettre 으 (eu) avant d'ajouter la terminaison.
-[i]Exemple : [color=#0000FF]쓰다 (sseuda) [color=#008000](écrire) → 써요 (sseoyo) [color=#008000](j'écris / tu écris / il écrit)[/color][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]쓰다 (sseuda)[/color] [color=#008000](écrire) → 써요 (sseoyo) [color=#008000](j'écris / tu écris / il écrit)[/color][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Usage Pratique et Contextuel[/color][/font_size]
 
 Il est important de comprendre quand utiliser la forme familière et comment elle s'intègre dans vos conversations quotidiennes.
 
 [indent]• Utilisez cette forme principalement avec des amis, des membres de la famille ou des personnes plus jeunes que vous.
-[i]Exemple : [color=#0000FF]내 친구가 와요.[font_size=18pt](Nae chinguga wayo.)[/font_size][/color] [color=#008000](Mon ami vient.)[/color][/i]
+[i]Exemple : [color=#0000FF]내 친구가 와요.[font_size=18](Nae chinguga wayo.)[/font_size][/color] [color=#008000](Mon ami vient.)[/color][/i]
 
 - Évitez cette forme lorsque vous vous adressez à des supérieurs, des étrangers ou dans des contextes formels.
-[i]Exemple : Battez en retraite : [color=#0000FF]선생님이 학교에 가세요.[font_size=18pt](Seonsaengnim-i hakgyoe gaseyo.)[/font_size][/color] [color=#008000](Le professeur va à l'école.)[/color][/i][/indent]
+[i]Exemple : Battez en retraite : [color=#0000FF]선생님이 학교에 가세요.[font_size=18](Seonsaengnim-i hakgyoe gaseyo.)[/font_size][/color] [color=#008000](Le professeur va à l'école.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

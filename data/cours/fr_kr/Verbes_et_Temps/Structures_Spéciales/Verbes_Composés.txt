@@ -18,7 +18,7 @@ En coréen, les verbes composés se forment généralement en combinant deux ver
 걸어가다 (georeogada) [color=#008000](marcher + aller = marcher vers)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그는 집으로 달려갔다.[font_size=18pt](Geuneun jibeuro dallyeogatta.)[/font_size][/color] [color=#008000](Il a couru vers la maison.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 집으로 달려갔다.[font_size=18](Geuneun jibeuro dallyeogatta.)[/font_size][/color] [color=#008000](Il a couru vers la maison.)[/color][/i][/indent]
 
 [b]b) Utilisation d'auxiliaires pour nuancer l'action[/b]
 [indent]Les verbes auxiliaires comme 주다 (juda, donner) et 보다 (boda, voir) peuvent être combinés avec des verbes principaux pour indiquer des nuances telles que faire quelque chose pour quelqu'un ou essayer de faire quelque chose.
@@ -29,27 +29,27 @@ En coréen, les verbes composés se forment généralement en combinant deux ver
 들어보다 (deureoboda) [color=#008000](écouter + voir = essayer d'écouter)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]그는 나를 도와줬다.[font_size=18pt](Geuneun nareul dowajwotta.)[/font_size][/color] [color=#008000](Il m'a aidé.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 나를 도와줬다.[font_size=18](Geuneun nareul dowajwotta.)[/font_size][/color] [color=#008000](Il m'a aidé.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Verbes composés et direction[/color][/font_size]
 
 Les verbes composés en coréen peuvent également exprimer des mouvements directionnels, similaires à ceux utilisés en chinois. La distinction entre "vers le locuteur" et "loin du locuteur" est également importante en coréen.
 
 [indent]• Utilisez [color=#FF0000]오다[/color] (oda, venir) pour un mouvement vers le locuteur.
-[i]Exemple : [color=#0000FF]그는 집에 돌아왔다.[font_size=18pt](Geuneun jibe doraowatta.)[/font_size][/color] [color=#008000](Il est revenu à la maison (vers moi).)[/color][/i]
+[i]Exemple : [color=#0000FF]그는 집에 돌아왔다.[font_size=18](Geuneun jibe doraowatta.)[/font_size][/color] [color=#008000](Il est revenu à la maison (vers moi).)[/color][/i]
 
 - Utilisez [color=#FF0000]가다[/color] (gada, aller) pour un mouvement s'éloignant du locuteur.
-[i]Exemple : [color=#0000FF]그는 한국에 나갔다.[font_size=18pt](Geuneun hanguge nagatta.)[/font_size][/color] [color=#008000](Il est allé en Corée (s'éloignant de moi).)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 한국에 나갔다.[font_size=18](Geuneun hanguge nagatta.)[/font_size][/color] [color=#008000](Il est allé en Corée (s'éloignant de moi).)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Précisions supplémentaires[/color][/font_size]
 
 Pour ajouter plus de détails, comme le lieu ou le but de l'action, il est possible d'insérer des éléments entre les verbes principaux et auxiliaires dans la phrase.
 
 [indent]• Spécifier le lieu de l'action
-[i]Exemple : [color=#0000FF]그는 학교에 들어왔다.[font_size=18pt](Geuneun hakgyoe deureowatta.)[/font_size][/color] [color=#008000](Il est entré à l'école (vers moi).)[/color][/i]
+[i]Exemple : [color=#0000FF]그는 학교에 들어왔다.[font_size=18](Geuneun hakgyoe deureowatta.)[/font_size][/color] [color=#008000](Il est entré à l'école (vers moi).)[/color][/i]
 
 - Préciser le but de l'action
-[i]Exemple : [color=#0000FF]그는 책을 읽으려고 도서관에 갔다.[font_size=18pt](Geuneun chaegeul ilgeuryeogo doseogwane gatta.)[/font_size][/color] [color=#008000](Il est allé à la bibliothèque pour lire un livre.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]그는 책을 읽으려고 도서관에 갔다.[font_size=18](Geuneun chaegeul ilgeuryeogo doseogwane gatta.)[/font_size][/color] [color=#008000](Il est allé à la bibliothèque pour lire un livre.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

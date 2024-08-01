@@ -16,7 +16,7 @@ Sie ist Deutsche. [color=#008000](Elle est allemande.)[/color]
 Er ist mein Bruder. [color=#008000](Il est mon frère.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Er ist Arzt.[font_size=18pt](Er ist Arzt)[/font_size][/color] [color=#008000](Il est médecin.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er ist Arzt.[font_size=18](Er ist Arzt)[/font_size][/color] [color=#008000](Il est médecin.)[/color][/i][/indent]
 
 [b]b) Avec certains noms de plats et boissons[/b]
 [indent]Les articles sont omis devant certains noms de plats et de boissons, surtout dans un contexte de commande.
@@ -25,7 +25,7 @@ Ich trinke Kaffee. [color=#008000](Je bois du café.)[/color]
 Sie isst Brot. [color=#008000](Elle mange du pain.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Er möchte Wasser trinken. [font_size=18pt](Er möchte Wasser trinken.)[/font_size][/color] [color=#008000](Il veut boire de l'eau.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er möchte Wasser trinken. [font_size=18](Er möchte Wasser trinken.)[/font_size][/color] [color=#008000](Il veut boire de l'eau.)[/color][/i][/indent]
 
 [b]c) Avec les mois, les jours de la semaine et certaines parties de la journée[/b]
 [indent]Les articles sont omis lorsqu'on parle des mois, des jours de la semaine, et souvent des parties de la journée.
@@ -35,27 +35,27 @@ Wir treffen uns am Montag. [color=#008000](Nous nous rencontrons lundi.)[/color]
 Er schläft nachts. [color=#008000](Il dort la nuit.)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Sie geht sonntags spazieren. [font_size=18pt](Sie geht sonntags spazieren.)[/font_size][/color] [color=#008000](Elle va se promener les dimanches.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Sie geht sonntags spazieren. [font_size=18](Sie geht sonntags spazieren.)[/font_size][/color] [color=#008000](Elle va se promener les dimanches.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Autres Cas d'Omission d'Articles[/color][/font_size]
 
 Les articles peuvent également être omis dans d'autres situations spécifiques.
 
 [indent]• Devant certains noms de villes et de pays sans adjectif :
-[i]Exemple : [color=#0000FF]Ich komme aus Deutschland.[font_size=18pt](Ich komme aus Deutschland.)[/font_size][/color] [color=#008000](Je viens d'Allemagne.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich komme aus Deutschland.[font_size=18](Ich komme aus Deutschland.)[/font_size][/color] [color=#008000](Je viens d'Allemagne.)[/color][/i]
 
 - Avec certains noms abstraits ou génériques dans des contextes particuliers :
-[i]Exemple : [color=#0000FF]Zeit ist Geld.[font_size=18pt](Zeit ist Geld.)[/font_size][/color] [color=#008000](Le temps, c'est de l'argent.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Zeit ist Geld.[font_size=18](Zeit ist Geld.)[/font_size][/color] [color=#008000](Le temps, c'est de l'argent.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Exceptions et Précautions[/color][/font_size]
 
 Il existe des exceptions aux règles ci-dessus, où l'usage d'un article est obligatoire. Ces exceptions peuvent parfois dépendre du contexte et du sens voulu.
 
 [indent]• Certains noms de professions nécessitent un article lorsqu'ils sont suivis d'un adjectif :
-[i]Exemple : [color=#0000FF]Er ist ein guter Arzt.[font_size=18pt](Er ist ein guter Arzt.)[/font_size][/color] [color=#008000](Il est un bon médecin.)[/color][/i]
+[i]Exemple : [color=#0000FF]Er ist ein guter Arzt.[font_size=18](Er ist ein guter Arzt.)[/font_size][/color] [color=#008000](Il est un bon médecin.)[/color][/i]
 
 - Les mentions spécifiques ou emphatiques peuvent nécessiter un article :
-[i]Exemple : [color=#0000FF]Ich trinke den Kaffee.[font_size=18pt](Ich trinke den Kaffee.)[/font_size][/color] [color=#008000](Je bois le café/une certaine tasse de café.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich trinke den Kaffee.[font_size=18](Ich trinke den Kaffee.)[/font_size][/color] [color=#008000](Je bois le café/une certaine tasse de café.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

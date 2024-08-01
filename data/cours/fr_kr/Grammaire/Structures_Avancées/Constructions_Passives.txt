@@ -12,42 +12,42 @@ Les verbes passifs en coréen se forment souvent en ajoutant une terminaison sp�
 [indent]Les terminaisons suivantes sont ajoutées au radical du verbe pour former le passif :
 [code]
 -이다 (ida) [color=#008000]: généralement ajouté après les radicaux se terminant par une consonne.[/color]
-[Exemple: 보다 (boda) [color=#008000](voir) → 보이다 (boida) [color=#008000](être vu)[/color]]
+[Exemple: 보다 (boda) [color=#008000](voir) → 보이다 (boida)[/color] [color=#008000](être vu)[/color]]
 
 -히다 (hida) [color=#008000]: utilisé après certains radicaux se terminant par une consonne.[/color]
-[Exemple: 닫다 (dadda) [color=#008000](fermer) → 닫히다 (dachida) [color=#008000](être fermé)[/color]]
+[Exemple: 닫다 (dadda) [color=#008000](fermer) → 닫히다 (dachida)[/color] [color=#008000](être fermé)[/color]]
 
 -리다 (rida) [color=#008000]: utilisé après certains radicaux se terminant par une consonne.[/color]
-[Exemple: 밀다 (mil da) [color=#008000](pousser) → 밀리다 (milrida) [color=#008000](être poussé)[/color]]
+[Exemple: 밀다 (mil da) [color=#008000](pousser) → 밀리다 (milrida)[/color] [color=#008000](être poussé)[/color]]
 
 -기다 (gida) [color=#008000]: utilisé après certains radicaux se terminant par une consonne.[/color]
-[Exemple: 안다 (anda) [color=#008000](tenir) → 안기다 (angida) [color=#008000](être tenu)[/color]]
+[Exemple: 안다 (anda) [color=#008000](tenir) → 안기다 (angida)[/color] [color=#008000](être tenu)[/color]]
 [/code]
 
-[i]Exemple : [color=#0000FF]문이 닫혔다.[font_size=18pt](muni dachyeotda.)[/font_size][/color] [color=#008000](La porte a été fermée.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]문이 닫혔다.[font_size=18](muni dachyeotda.)[/font_size][/color] [color=#008000](La porte a été fermée.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des constructions passives[/color][/font_size]
 
 Les structures passives en coréen sont couramment utilisées pour exprimer des actions subies par le sujet. Voici quelques règles et exemples pour vous aider à les utiliser correctement.
 
 [indent]• Lorsque le sujet subit une action, utilisez la forme passive du verbe.
-[i]Exemple : [color=#0000FF]편지가 읽히고 있다.[font_size=18pt](pyeonjiga ilkhigo itta.)[/font_size][/color] [color=#008000](La lettre est lue.)[/color][/i]
+[i]Exemple : [color=#0000FF]편지가 읽히고 있다.[font_size=18](pyeonjiga ilkhigo itta.)[/font_size][/color] [color=#008000](La lettre est lue.)[/color][/i]
 
 - Utilisation pour indiquer un état résultant d'une action.
-[i]Exemple : [color=#0000FF]창문이 열렸다.[font_size=18pt](changmuni yeollyeotda.)[/font_size][/color] [color=#008000](La fenêtre a été ouverte.)[/color][/i]
+[i]Exemple : [color=#0000FF]창문이 열렸다.[font_size=18](changmuni yeollyeotda.)[/font_size][/color] [color=#008000](La fenêtre a été ouverte.)[/color][/i]
 
 - Parfois, après un verbe passif, on peut utiliser des particules supplémentaires pour indiquer par qui l'action est réalisée.
-[i]Exemple : [color=#0000FF]책이 학생에 의해 쓰였다.[font_size=18pt](chaeki haksaenge uihye sseuyyeotda.)[/font_size][/color] [color=#008000](Le livre a été écrit par l'étudiant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]책이 학생에 의해 쓰였다.[font_size=18](chaeki haksaenge uihye sseuyyeotda.)[/font_size][/color] [color=#008000](Le livre a été écrit par l'étudiant.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Différences culturelles et usage courant[/color][/font_size]
 
 En coréen, l'usage du passif peut varier en fonction du contexte et de la politesse. Voici quelques points à considérer pour les utilisations culturelles et courantes des constructions passives.
 
 [indent]• En coréen, les phrases passives peuvent parfois être perçues comme plus indirectes et polies.
-[i]Exemple : [color=#0000FF]제가 만든 음식이 모두 먹혔어요.[font_size=18pt](jega mandeun umsigi modu meokhyeosseoyo.)[/font_size][/color] [color=#008000](Toute la nourriture que j'ai préparée a été mangée.)[/color][/i]
+[i]Exemple : [color=#0000FF]제가 만든 음식이 모두 먹혔어요.[font_size=18](jega mandeun umsigi modu meokhyeosseoyo.)[/font_size][/color] [color=#008000](Toute la nourriture que j'ai préparée a été mangée.)[/color][/i]
 
 - Certaines formes passives sont également utilisées pour décrire des situations où le sujet n'est pas connu ou n'est pas important.
-[i]Exemple : [color=#0000FF]범인이 경찰에 체포됐다.[font_size=18pt](beomini gyeongchare chepotdoetda.)[/font_size][/color] [color=#008000](Le criminel a été arrêté par la police.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]범인이 경찰에 체포됐다.[font_size=18](beomini gyeongchare chepotdoetda.)[/font_size][/color] [color=#008000](Le criminel a été arrêté par la police.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -16,38 +16,38 @@ Voici les cinq voyelles en japonais avec leur transcription romaji (alphabet lat
 お (o) [color=#008000](prononcé comme le "o" dans "mot")[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]あい (ai) [font_size=18pt][/color] [color=#008000](amour)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]あい (ai) [/color] [color=#008000](amour)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Prononciation et astuces[/color][/font_size]
 
 La prononciation des voyelles japonaises est généralement plus courte et plus nette que celle des voyelles françaises. Voici quelques astuces pour vous aider à les prononcer correctement:
 
 [indent]• [b]あ (a)[/b] : Gardez la bouche ouverte et détendue, comme pour dire "ah".
-[i]Exemple : [color=#0000FF]ありがとう (arigatou) [font_size=18pt][/color] [color=#008000](merci)[/color][/i]
+[i]Exemple : [color=#0000FF]ありがとう (arigatou) [/color] [color=#008000](merci)[/color][/i]
 
 - [b]い (i)[/b] : La bouche est légèrement étirée sur les côtés, comme pour dire "ee".
-[i]Exemple : [color=#0000FF]いきます (ikimasu) [font_size=18pt][/color] [color=#008000](aller)[/color][/i]
+[i]Exemple : [color=#0000FF]いきます (ikimasu) [/color] [color=#008000](aller)[/color][/i]
 
 - [b]う (u)[/b] : Les lèvres sont arrondies, comme pour dire "ou".
-[i]Exemple : [color=#0000FF]すごい (sugoi) [font_size=18pt][/color] [color=#008000](incroyable)[/color][/i]
+[i]Exemple : [color=#0000FF]すごい (sugoi) [/color] [color=#008000](incroyable)[/color][/i]
 
 - [b]え (e)[/b] : La bouche est légèrement ouverte, comme pour dire "é" dans "été".
-[i]Exemple : [color=#0000FF]えき (eki) [font_size=18pt][/color] [color=#008000](gare)[/color][/i]
+[i]Exemple : [color=#0000FF]えき (eki) [/color] [color=#008000](gare)[/color][/i]
 
 - [b]お (o)[/b] : Les lèvres sont arrondies mais moins tendues que pour "u".
-[i]Exemple : [color=#0000FF]おはよう (ohayou) [font_size=18pt][/color] [color=#008000](bonjour)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]おはよう (ohayou) [/color] [color=#008000](bonjour)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Combinaisons et allongements[/color][/font_size]
 
 Les voyelles peuvent également se combiner ou être allongées. Dans ce cas, la prononciation change légèrement:
 
 [indent]• Le doublement des voyelles pour les allonger :
-[i]Exemple : [color=#0000FF]おじいさん (ojiisan) [font_size=18pt][/color] [color=#008000](grand-père)[/color][/i]
+[i]Exemple : [color=#0000FF]おじいさん (ojiisan) [/color] [color=#008000](grand-père)[/color][/i]
 
 - Combinaisons avec "i" ou "u" :
-[i]Exemple : [color=#0000FF]せんせい (sensei) [font_size=18pt][/color] [color=#008000](professeur)[/color][/i]
+[i]Exemple : [color=#0000FF]せんせい (sensei) [/color] [color=#008000](professeur)[/color][/i]
 
-[indent]Autre exemple : [color=#0000FF]ゆうびんきょく (yuubinkyoku) [font_size=18pt][/color] [color=#008000](bureau de poste)[/color][/indent][/indent]
+[indent]Autre exemple : [color=#0000FF]ゆうびんきょく (yuubinkyoku) [/color] [color=#008000](bureau de poste)[/color][/indent][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

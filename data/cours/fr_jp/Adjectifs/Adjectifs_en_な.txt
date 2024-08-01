@@ -18,33 +18,33 @@ Les adjectifs en な se comportent essentiellement comme des noms lorsqu'ils son
 簡単な (kantanna) [color=#008000](facile)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]静かな公園。[font_size=18pt](Shizukana kōen.)[/font_size][/color] [color=#008000](Un parc calme.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]静かな公園。[font_size=18](Shizukana kōen.)[/font_size][/color] [color=#008000](Un parc calme.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Utilisation des adjectifs en な[/color][/font_size]
 
 Les adjectifs en な peuvent être utilisés de différentes manières selon la structure de la phrase. Voici quelques règles et exemples pour vous aider à bien les utiliser.
 
 [indent]• Lorsqu'ils sont directement suivis par un nom, l'adjectif en な conserve la particule [color=#FF0000]な[/color] (na).
-[i]Exemple : [color=#0000FF]彼は親切な人です。[font_size=18pt](Kare wa shinsetsuna hito desu.)[/font_size][/color] [color=#008000](C'est une personne gentille.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は親切な人です。[font_size=18](Kare wa shinsetsuna hito desu.)[/font_size][/color] [color=#008000](C'est une personne gentille.)[/color][/i]
 
 - Dans les phrases affirmatives, ils peuvent être suivis de です (desu) pour la politesse.
-[i]Exemple : [color=#0000FF]その部屋はきれいです。[font_size=18pt](Sono heya wa kirei desu.)[/font_size][/color] [color=#008000](Cette chambre est propre.)[/color][/i]
+[i]Exemple : [color=#0000FF]その部屋はきれいです。[font_size=18](Sono heya wa kirei desu.)[/font_size][/color] [color=#008000](Cette chambre est propre.)[/color][/i]
 
 - Pour les phrases négatives, on utilise ではありません (de wa arimasen) ou じゃないです (ja nai desu).
-[i]Exemple : [color=#0000FF]天気は良くないです。[font_size=18pt](Tenki wa yokunai desu.)[/font_size][/color] [color=#008000](Le temps n'est pas bon.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]天気は良くないです。[font_size=18](Tenki wa yokunai desu.)[/font_size][/color] [color=#008000](Le temps n'est pas bon.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Formes variées des adjectifs en な[/color][/font_size]
 
 Les adjectifs en な peuvent également être utilisés dans différentes formes pour exprimer le passé, la négation, ou d'autres nuances. Voici quelques-unes de ces transformations :
 
 [indent]• Forme passée affirmative : [color=#FF0000]だった[/color] (datta)
-[i]Exemple : [color=#0000FF]彼は有名な俳優だった。[font_size=18pt](Kare wa yūmeina haiyū datta.)[/font_size][/color] [color=#008000](Il était un acteur célèbre.)[/color][/i]
+[i]Exemple : [color=#0000FF]彼は有名な俳優だった。[font_size=18](Kare wa yūmeina haiyū datta.)[/font_size][/color] [color=#008000](Il était un acteur célèbre.)[/color][/i]
 
 - Forme passée négative : [color=#FF0000]ではなかった[/color] (de wa nakatta)
-[i]Exemple : [color=#0000FF]その本は簡単ではなかった。[font_size=18pt](Sono hon wa kantan de wa nakatta.)[/font_size][/color] [color=#008000](Ce livre n'était pas facile.)[/color][/i]
+[i]Exemple : [color=#0000FF]その本は簡単ではなかった。[font_size=18](Sono hon wa kantan de wa nakatta.)[/font_size][/color] [color=#008000](Ce livre n'était pas facile.)[/color][/i]
 
 - Forme pour exprimer une opinion personnelle : [color=#FF0000]だと思います[/color] (da to omoimasu)
-[i]Exemple : [color=#0000FF]この映画は面白いだと思います。[font_size=18pt](Kono eiga wa omoshiroi da to omoimasu.)[/font_size][/color] [color=#008000](Je pense que ce film est intéressant.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]この映画は面白いだと思います。[font_size=18](Kono eiga wa omoshiroi da to omoimasu.)[/font_size][/color] [color=#008000](Je pense que ce film est intéressant.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

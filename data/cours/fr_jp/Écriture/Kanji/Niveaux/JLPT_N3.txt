@@ -14,7 +14,7 @@ Le JLPT N3 teste la compétence en lecture et en écriture de près de 650 kanji
 
 [b]b) Combinaisons de Kanji (Kango)[/b]
 [indent]Les mots japonais peuvent être formés en combinant plusieurs kanji. Ces combinaisons sont appelées "Kango".
-[i]Par exemple : [color=#0000FF] 学 (がく, gaku) [color=#008000](études)[/color] + 校 (こう, kou) [color=#008000](école)[/color] = 学校 (がっこう, gakkou) [color=#008000](école)[/color][/i][/indent]
+[i]Par exemple : [color=#0000FF] 学 (がく, gaku) [color=#008000](études)[/color] + 校 (こう, kou) [color=#008000](école)[/color] = 学校 (がっこう, gakkou) [color=#008000](école)[/color][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Liste des Kanji du JLPT N3[/color][/font_size]
 

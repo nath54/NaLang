@@ -24,7 +24,7 @@ Les nombres de 0 à 20 sont essentiels dans toutes les langues. Voici la liste d
 10 - Ten (dix)
 [/code]
 
-[i]Exemple : [color=#0000FF]I have two cats.[font_size=18pt] (J'ai deux chats.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]I have two cats.[font_size=18] (J'ai deux chats.)[/font_size][/color][/i][/indent]
 
 [b]b) Nombres de 11 à 20[/b]
 [indent]
@@ -41,7 +41,7 @@ Les nombres de 0 à 20 sont essentiels dans toutes les langues. Voici la liste d
 20 - Twenty (vingt)
 [/code]
 
-[i]Exemple : [color=#0000FF]She is twenty years old.[font_size=18pt] (Elle a vingt ans.)[/font_size][/color][/i][/indent]
+[i]Exemple : [color=#0000FF]She is twenty years old.[font_size=18] (Elle a vingt ans.)[/font_size][/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Nombres par dizaines jusqu'à 100[/color][/font_size]
 
@@ -60,7 +60,7 @@ Les dizaines sont également importantes et sont souvent utilisées en combinais
 100 - One hundred (cent)
 [/code]
 
-[i]Exemple : [color=#0000FF]There are ninety students in the hall.[font_size=18pt] (Il y a quatre-vingt-dix étudiants dans le hall.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]There are ninety students in the hall.[font_size=18] (Il y a quatre-vingt-dix étudiants dans le hall.)[/font_size][/color][/i]
 
 [b]Note :[/b] Pour les nombres comme 21, 22,... etc., on combine les dizaines et unités. Par exemple, 21 se dira [color=#0000FF]twenty-one[/color] (vingt-et-un), 35 se dira [color=#0000FF]thirty-five[/color] (trente-cinq).[/indent]
 
@@ -82,7 +82,7 @@ Passons maintenant aux nombres supérieurs à 100, incluant les centaines et les
 900 - Nine hundred (neuf cents)
 [/code]
 
-[i]Exemple : [color=#0000FF]There are five hundred pages in the book.[font_size=18pt] (Il y a cinq cents pages dans le livre.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]There are five hundred pages in the book.[font_size=18] (Il y a cinq cents pages dans le livre.)[/font_size][/color][/i]
 [/indent]
 
 [b]b) Les milliers[/b]
@@ -95,7 +95,7 @@ Passons maintenant aux nombres supérieurs à 100, incluant les centaines et les
 5,000 - Five thousand (cinq mille)
 [/code]
 
-[i]Exemple : [color=#0000FF]The population of the town is ten thousand.[font_size=18pt] (La population de la ville est de dix mille.)[/font_size][/color][/i]
+[i]Exemple : [color=#0000FF]The population of the town is ten thousand.[font_size=18] (La population de la ville est de dix mille.)[/font_size][/color][/i]
 [/indent]
 
 [center][color=#808080]__________[/color][/center]

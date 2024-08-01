@@ -8,14 +8,14 @@ Les sons consonantiques en anglais peuvent être un défi pour les francophones 
 
 Les consonnes plosives sont produites en bloquant puis en relâchant brusquement l'air. Voici les principales consonnes plosives en anglais :
 
-[b]a) [p] et [b][/b]
-[indent]Le son [p] est similaire en anglais et en français, mais il est souvent plus aspiré en anglais. Le son [b] est également similaire entre les deux langues.
+[b]a) [ p ] et [ b ][/b]
+[indent]Le son [ p ] est similaire en anglais et en français, mais il est souvent plus aspiré en anglais. Le son [ b ] est également similaire entre les deux langues.
 [code]
-[p] : pat [color=#008000](pɑːt)[/color]
-[b] : bat [color=#008000](bæt)[/color]
+[ p ] : pat [color=#008000](pɑːt)[/color]
+[ b ] : bat [color=#008000](bæt)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Please bring a bag.[font_size=18pt](pliz brɪŋ ə bæɡ.)[/font_size][/color] [color=#008000](Veuillez apporter un sac.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Please bring a bag.[font_size=18](pliz brɪŋ ə bæɡ.)[/font_size][/color] [color=#008000](Veuillez apporter un sac.)[/color][/i][/indent]
 
 [b]b) [t] et [d][/b]
 [indent]Le son [t] est également plus aspiré en anglais. Le son [d] est produit de manière similaire à celui du français.
@@ -24,7 +24,7 @@ Les consonnes plosives sont produites en bloquant puis en relâchant brusquement
 [d] : dog [color=#008000](dɒɡ)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Tom has a dog.[font_size=18pt](tɒm hæz ə dɒɡ.)[/font_size][/color] [color=#008000](Tom a un chien.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Tom has a dog.[font_size=18](tɒm hæz ə dɒɡ.)[/font_size][/color] [color=#008000](Tom a un chien.)[/color][/i][/indent]
 
 [b]c) [k] et [ɡ][/b]
 [indent]Ces sons sont également produits de manière similaire en anglais et en français. 
@@ -33,7 +33,7 @@ Les consonnes plosives sont produites en bloquant puis en relâchant brusquement
 [ɡ] : go [color=#008000](ɡoʊ)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Go get the cat.[font_size=18pt](ɡoʊ ɡɛt ðə kæt.)[/font_size][/color] [color=#008000](Va chercher le chat.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Go get the cat.[font_size=18](ɡoʊ ɡɛt ðə kæt.)[/font_size][/color] [color=#008000](Va chercher le chat.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Les Consonnes Fricatives[/color][/font_size]
 
@@ -46,7 +46,7 @@ Les consonnes fricatives sont produites en forçant l'air à travers un passage 
 [v] : van [color=#008000](væn)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Find the van.[font_size=18pt](faɪnd ðə væn.)[/font_size][/color] [color=#008000](Trouver la camionnette.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Find the van.[font_size=18](faɪnd ðə væn.)[/font_size][/color] [color=#008000](Trouver la camionnette.)[/color][/i][/indent]
 
 [b]b) [θ] et [ð][/b]
 [indent]Ces sons n'existent pas en français et peuvent être difficiles pour les francophones. Le son [θ] est produit en plaçant la langue entre les dents et en soufflant. Le son [ð] est produit de la même manière, mais avec des cordes vocales vibrantes.
@@ -55,16 +55,16 @@ Les consonnes fricatives sont produites en forçant l'air à travers un passage 
 [ð] : this [color=#008000](ðɪs)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Think about this.[font_size=18pt](θɪŋk əˈbaʊt ðɪs.)[/font_size][/color] [color=#008000](Pensez à ceci.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Think about this.[font_size=18](θɪŋk əˈbaʊt ðɪs.)[/font_size][/color] [color=#008000](Pensez à ceci.)[/color][/i][/indent]
 
-[b]c) [s] et [z][/b]
+[b]c) [ s ] et [z][/b]
 [indent]Ces sons sont produits de manière similaire en anglais et en français.
 [code]
-[s] : see [color=#008000](siː)[/color]
+[ s ] : see [color=#008000](siː)[/color]
 [z] : zoo [color=#008000](zuː)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]See the zebra at the zoo.[font_size=18pt](siː ðə ˈziːbrə æt ðə zuː.)[/font_size][/color] [color=#008000](Regarde le zèbre au zoo.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]See the zebra at the zoo.[font_size=18](siː ðə ˈziːbrə æt ðə zuː.)[/font_size][/color] [color=#008000](Regarde le zèbre au zoo.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Les Consonnes Affriquées[/color][/font_size]
 
@@ -77,7 +77,7 @@ Les consonnes affriquées commencent comme des plosives et se relâchent comme d
 [dʒ] : just [color=#008000](dʒʌst)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Just sit in the chair.[font_size=18pt](dʒʌst sɪt ɪn ðə tʃɛər.)[/font_size][/color] [color=#008000](Asseyez-vous simplement sur la chaise.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Just sit in the chair.[font_size=18](dʒʌst sɪt ɪn ðə tʃɛər.)[/font_size][/color] [color=#008000](Asseyez-vous simplement sur la chaise.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]4. Les Consonnes Nasales[/color][/font_size]
 
@@ -91,7 +91,7 @@ Les consonnes nasales sont produites en faisant passer l'air par le nez. Voici l
 [ŋ] : sing [color=#008000](sɪŋ)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Sing a nice song.[font_size=18pt](sɪŋ ə naɪs sɒŋ.)[/font_size][/color] [color=#008000](Chante une belle chanson.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Sing a nice song.[font_size=18](sɪŋ ə naɪs sɒŋ.)[/font_size][/color] [color=#008000](Chante une belle chanson.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]5. Les Consonnes Liquides[/color][/font_size]
 
@@ -104,7 +104,7 @@ Les consonnes liquides sont produites avec une obstruction minimale de l'air. Vo
 [r] : red [color=#008000](red)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Look at the red lamp.[font_size=18pt](lʊk æt ðə rɛd læmp.)[/font_size][/color] [color=#008000](Regarde la lampe rouge.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Look at the red lamp.[font_size=18](lʊk æt ðə rɛd læmp.)[/font_size][/color] [color=#008000](Regarde la lampe rouge.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]6. Les Consonnes Glissantes[/color][/font_size]
 
@@ -117,13 +117,13 @@ Les consonnes glissantes sont produites avec une obstruction légère et se glis
 [j] : yes [color=#008000](jɛs)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]We want water, yes.[font_size=18pt](wi wɒnt ˈwɔːtər, jɛs.)[/font_size][/color] [color=#008000](Nous voulons de l'eau, oui.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]We want water, yes.[font_size=18](wi wɒnt ˈwɔːtər, jɛs.)[/font_size][/color] [color=#008000](Nous voulons de l'eau, oui.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 
 [font_size=20][color=#4B0082]Points clés à retenir :[/color][/font_size]
 
-[indent][color=#FF0000]1.[/color] Les consonnes plosives comme [p] et [t] sont souvent plus aspirées en anglais.
+[indent][color=#FF0000]1.[/color] Les consonnes plosives comme [ p ] et [t] sont souvent plus aspirées en anglais.
 [color=#FF0000]2.[/color] Les sons [θ] et [ð] sont spécifiques à l'anglais et nécessitent une pratique particulière.
 [color=#FF0000]3.[/color] Les sons [tʃ] et [dʒ] demandent de commencer par une plosive et de finir par une fricative.
 [color=#FF0000]4.[/color] Les consonnes nasales, liquides et glissantes sont similaires entre anglais et français, mais méritent d'être pratiquées pour une prononciation précise.[/indent]

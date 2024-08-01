@@ -16,7 +16,7 @@ alt (vieux) → der älteste [color=#008000](le plus vieux)[/color]
 klug (intelligent) → der klügste [color=#008000](le plus intelligent)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Er ist der klügste Schüler.[font_size=18pt](Er ist der klügste Schüler.)[/font_size][/color] [color=#008000](Il est l'élève le plus intelligent.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Er ist der klügste Schüler.[font_size=18](Er ist der klügste Schüler.)[/font_size][/color] [color=#008000](Il est l'élève le plus intelligent.)[/color][/i][/indent]
 
 [b]b) Adjectifs longs[/b]
 [indent]Pour les adjectifs longs (en général ceux de deux syllabes ou plus), on ajoute également la terminaison [b]-ste[/b] ou [b]-sten[/b] comme pour les adjectifs courts. Certains adjectifs peuvent aussi subir des modifications internes comme une umlaut (tréma).
@@ -26,7 +26,7 @@ angenehm (agréable) → der angenehmste [color=#008000](le plus agréable)[/col
 beliebt (populaire) → der beliebteste [color=#008000](le plus populaire)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Das ist der interessanteste Film, den ich je gesehen habe.[font_size=18pt](Das ist der interessanteste Film, den ich je gesehen habe.)[/font_size][/color] [color=#008000](C'est le film le plus intéressant que j'ai jamais vu.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das ist der interessanteste Film, den ich je gesehen habe.[font_size=18](Das ist der interessanteste Film, den ich je gesehen habe.)[/font_size][/color] [color=#008000](C'est le film le plus intéressant que j'ai jamais vu.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. Particularités des superlatifs[/color][/font_size]
 
@@ -39,7 +39,7 @@ jung (jeune) → der jüngste [color=#008000](le plus jeune)[/color]
 kalt (froid) → der kälteste [color=#008000](le plus froid)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Sie ist die jüngste Tochter.[font_size=18pt](Sie ist die jüngste Tochter.)[/font_size][/color] [color=#008000](Elle est la plus jeune fille.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Sie ist die jüngste Tochter.[font_size=18](Sie ist die jüngste Tochter.)[/font_size][/color] [color=#008000](Elle est la plus jeune fille.)[/color][/i][/indent]
 
 [b]b) Terminaison -esten[/b]
 [indent]Pour les adjectifs se terminant par [b]-d[/b] ou [b]-t[/b], on utilise la terminaison [b]-esten[/b] pour le rendre plus fluide.
@@ -48,20 +48,20 @@ hart (dur) → der härteste [color=#008000](le plus dur)[/color]
 gesund (sain) → der gesündeste [color=#008000](le plus sain)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Das ist das härteste Material.[font_size=18pt](Das ist das härteste Material.)[/font_size][/color] [color=#008000](C'est le matériau le plus dur.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das ist das härteste Material.[font_size=18](Das ist das härteste Material.)[/font_size][/color] [color=#008000](C'est le matériau le plus dur.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]3. Utilisation des superlatifs dans des phrases[/color][/font_size]
 
 Il est important de comprendre comment utiliser correctement les superlatifs dans des phrases complètes.
 
 [indent]• Utilisation après des verbes comme "sein" (être)
-[i]Exemple : [color=#0000FF]Er ist der beste Lehrer.[font_size=18pt](Er ist der beste Lehrer.)[/font_size][/color] [color=#008000](Il est le meilleur professeur.)[/color][/i]
+[i]Exemple : [color=#0000FF]Er ist der beste Lehrer.[font_size=18](Er ist der beste Lehrer.)[/font_size][/color] [color=#008000](Il est le meilleur professeur.)[/color][/i]
 
 - Utilisation avant des noms avec l'article défini
-[i]Exemple : [color=#0000FF]Die schönste Stadt ist Berlin.[font_size=18pt](Die schönste Stadt ist Berlin.)[/font_size][/color] [color=#008000](La plus belle ville est Berlin.)[/color][/i]
+[i]Exemple : [color=#0000FF]Die schönste Stadt ist Berlin.[font_size=18](Die schönste Stadt ist Berlin.)[/font_size][/color] [color=#008000](La plus belle ville est Berlin.)[/color][/i]
 
 - Utilisation ponctuée pour mettre en avant une qualité extrême
-[i]Exemple : [color=#0000FF]Das ist der absolut beste Kuchen![font_size=18pt](Das ist der absolut beste Kuchen!)[/font_size][/color] [color=#008000](C'est le meilleur gâteau absolu !)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Das ist der absolut beste Kuchen![font_size=18](Das ist der absolut beste Kuchen!)[/font_size][/color] [color=#008000](C'est le meilleur gâteau absolu !)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 

@@ -16,7 +16,7 @@ Datif : einem [color=#008000](un - COI)[/color]
 Génitif : eines [color=#008000](d'un)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich habe einen Hund.[font_size=18pt](J'ai un chien.)[/font_size][/color] [color=#008000](Accusatif, car "Hund" est le complément d'objet direct.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich habe einen Hund.[font_size=18](J'ai un chien.)[/font_size][/color] [color=#008000](Accusatif, car "Hund" est le complément d'objet direct.)[/color][/i]
 
 [b]b) Féminin[/b]
 [code]
@@ -26,7 +26,7 @@ Datif : einer [color=#008000](une - COI)[/color]
 Génitif : einer [color=#008000](d'une)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Das ist eine Katze.[font_size=18pt](C'est une chatte.)[/font_size][/color] [color=#008000](Nominatif, car "Katze" est le sujet de la phrase.)[/color][/i]
+[i]Exemple : [color=#0000FF]Das ist eine Katze.[font_size=18](C'est une chatte.)[/font_size][/color] [color=#008000](Nominatif, car "Katze" est le sujet de la phrase.)[/color][/i]
 
 [b]c) Neutre[/b]
 [code]
@@ -36,7 +36,7 @@ Datif : einem [color=#008000](un / une - COI)[/color]
 Génitif : eines [color=#008000](d'un / d'une)[/color]
 [/code]
 
-[i]Exemple : [color=#0000FF]Ich habe ein Buch.[font_size=18pt](J'ai un livre.)[/font_size][/color] [color=#008000](Accusatif, car "Buch" est le complément d'objet direct.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Ich habe ein Buch.[font_size=18](J'ai un livre.)[/font_size][/color] [color=#008000](Accusatif, car "Buch" est le complément d'objet direct.)[/color][/i][/indent]
 
 [font_size=24][color=#4B0082]2. L'accord des articles indéfinis avec les adjectifs[/color][/font_size]
 
@@ -71,10 +71,10 @@ Génitif : eines guten Kindes [color=#008000](d'un enfant bon)[/color]
 Les articles indéfinis sont utilisés pour introduire quelque chose pour la première fois ou pour des choses non spécifiques. Ils accordent également des informations sur le genre et le cas du nom.
 
 [indent]• [color=#FF0000]For introducing something for the first time:[/color]
-[i]Exemple : [color=#0000FF]Ich sehe einen Mann.[font_size=18pt](Je vois un homme.)[/font_size][/color] [color=#008000](Accusatif.)[/color][/i]
+[i]Exemple : [color=#0000FF]Ich sehe einen Mann.[font_size=18](Je vois un homme.)[/font_size][/color] [color=#008000](Accusatif.)[/color][/i]
 
 - [color=#FF0000]For unspecified items:[/color]
-[i]Exemple : [color=#0000FF]Eine Frau hat angerufen.[font_size=18pt](Une femme a appelé.)[/font_size][/color] [color=#008000](Nominatif.)[/color][/i][/indent]
+[i]Exemple : [color=#0000FF]Eine Frau hat angerufen.[font_size=18](Une femme a appelé.)[/font_size][/color] [color=#008000](Nominatif.)[/color][/i][/indent]
 
 [center][color=#808080]__________[/color][/center]
 
