@@ -1,0 +1,97 @@
+{
+    "name": {
+        "fr": "Salutations et Au Revoir",
+        "es": "Saludos y Adioses",
+        "en": "Greetings and Goodbyes",
+        "cn": "问候和告别 (Wènhòu hé gàobié)",
+        "de": "Grüße und Auf Wiedersehen",
+        "jp": "ご挨拶とさようなら (Go aisatsu to sayōnara)",
+        "kr": "인사와 작별 인사 (insawa jagbyeol insa)",
+        "ru": "Приветствия и прощания (Privetstviya i proshchaniya)",
+        "ar": "تحياتي ووداعا (tahiaati wawadaean)",
+        "el": "Χαιρετισμούς και αντίο (Chairetismoús kai antío)"
+    },
+    "langs": ["fr", "es", "en", "cn", "de", "jp", "kr", "ru", "ar", "el"],
+    "discussion": {
+        "fr": [
+            "Bonjour <Nom>",
+            "Bonjour <Nom>, comment vas-tu ?",
+            "Ça va bien et toi ?",
+            "Ça va très bien, merci",
+            "Passe une bonne journée / soirée ! Au revoir.",
+            "Merci, toi aussi. Salut !"
+        ],
+        "es": [
+            "Hola <Nombre>",
+            "Hola <Nombre>, ¿cómo estás?",
+            "Estoy bien, ¿y tú?",
+            "Estoy muy bien, gracias",
+            "¡Que tengas un buen día/noche! Adiós.",
+            "Gracias, igualmente. ¡Hasta luego!"
+        ],
+        "en": [
+            "Hello <Name>",
+            "Hello <Name>, how are you?",
+            "I'm good, and you?",
+            "I'm very well, thank you",
+            "Have a nice day/evening! Goodbye.",
+            "Thank you, you too. Bye!"
+        ],
+        "cn": [
+            "你好 <名字> (Nǐ hǎo <Míngzì>)",
+            "你好 <名字>, 你好吗? (Nǐ hǎo <Míngzì>, nǐ hǎo ma?)",
+            "我很好, 你呢? (Wǒ hěn hǎo, nǐ ne?)",
+            "我很好, 谢谢 (Wǒ hěn hǎo, xièxiè)",
+            "祝你有美好的一天/晚上! 再见. (Zhù nǐ yǒu měihǎo de yītiān/wǎnshàng! Zàijiàn.)",
+            "谢谢, 你也是. 再见! (Xièxiè, nǐ yěshì. Zàijiàn!)"
+        ],
+        "de": [
+            "Hallo <Name>",
+            "Hallo <Name>, wie geht's dir?",
+            "Mir geht's gut, und dir?",
+            "Mir geht's sehr gut, danke",
+            "Einen schönen Tag/Abend noch! Auf Wiedersehen.",
+            "Danke, dir auch. Tschüss!"
+        ],
+        "jp": [
+            "こんにちは <名前> (Konnichiwa <Namae>)",
+            "こんにちは <名前>, お元気ですか？ (Konnichiwa <Namae>, o-genki desu ka?)",
+            "元気です、あなたは？ (Genki desu, anata wa?)",
+            "とても元気です、ありがとう (Totemo genki desu, arigatō)",
+            "良い一日/夜を過ごしてください！ さようなら。 (Yoi ichinichi/yoru o sugoshite kudasai! Sayōnara.)",
+            "ありがとう、あなたも。 さようなら！ (Arigatō, anata mo. Sayōnara!)"
+        ],
+        "kr": [
+            "안녕하세요 <이름> (Annyeonghaseyo <Ireum>)",
+            "안녕하세요 <이름>, 잘 지내세요? (Annyeonghaseyo <Ireum>, jal jinaeseyo?)",
+            "잘 지내요, 당신은요? (Jal jinaeyo, dangsin-eun-yo?)",
+            "아주 잘 지내요, 감사합니다 (Aju jal jinaeyo, gamsahamnida)",
+            "좋은 하루/저녁 되세요! 안녕히 가세요. (Joeun haru/jeonyeok doeseyo! Annyeonghi gaseyo.)",
+            "감사합니다, 당신도요. 안녕! (Gamsahamnida, dangsin-do-yo. Annyeong!)"
+        ],
+        "ru": [
+            "Привет <Имя> (Privet <Imya>)",
+            "Привет <Имя>, как дела? (Privet <Imya>, kak dela?)",
+            "Хорошо, а у тебя? (Khorosho, a u tebya?)",
+            "Очень хорошо, спасибо (Ochen' khorosho, spasibo)",
+            "Хорошего дня/вечера! До свидания. (Khoroshego dnya/vechera! Do svidaniya.)",
+            "Спасибо, тебе тоже. Пока! (Spasibo, tebe tozhe. Poka!)"
+        ],
+        "ar": [
+            "مرحبا <اسم> (Marhaban <Ism>)",
+            "مرحبا <اسم>, كيف حالك؟ (Marhaban <Ism>, kayfa haluk?)",
+            "أنا بخير، وأنت؟ (Ana bikhayr, wa 'ant?)",
+            "أنا بخير جدا، شكرا (Ana bikhayr jiddan, shukran)",
+            "أتمنى لك يوما/مساء جميلا! وداعا. (Atamanaa lak yawman/masaa'an jamilan! Wadaeaan.)",
+            "شكرا، وأنت أيضا. وداعا! (Shukran, wa 'ant aydan. Wadaeaan!)"
+        ],
+        "el": [
+            "Γειά σου <Όνομα> (Geiá sou <Ónoma>)",
+            "Γειά σου <Όνομα>, πώς είσαι; (Geiá sou <Ónoma>, pós eísai?)",
+            "Είμαι καλά, εσύ; (Eímai kalá, esý?)",
+            "Είμαι πολύ καλά, ευχαριστώ (Eímai polý kalá, efcharistó)",
+            "Καλή σου μέρα/νύχτα! Αντίο. (Kalí sou méra/nýchta! Antío.)",
+            "Ευχαριστώ, κι εσύ. Αντίο! (Efcharistó, ki esý. Antío!)"
+        ]
+    }
+}
