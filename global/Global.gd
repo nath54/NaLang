@@ -3,7 +3,9 @@ extends Node
 # Où sont stockées les fiches "officielles"
 const dir_fiches: String = "res://data/fiches/";
 # Où sont stockées les fiches "custom"
-const dir_custom_fiches: String = "user://custom_fiches_es/";
+const dir_custom_fiches: String = "user://custom_fiches/";
+# Où sont stockées les discussions
+const dir_discussions: String = "res://data/discussions/";
 
 # Dans quel sens le quiz se fait
 const QUIZ_SENS_DST_SRC: int = 0;
@@ -17,6 +19,9 @@ const QUIZ_TYPE_INPUT: int = 1;
 #
 var ouverture_fiche: String = "";
 var ouverture_fiche_readonly: bool = true;
+
+#
+var ouverture_discussion: String = "";
 
 # Paramètres du quiz actuel
 var quiz_selected_fiches: Array[String] = []; # list of "paths"
@@ -36,6 +41,12 @@ var current_quiz_availables_elements: Array[int] = [];
 const MAX_LOADED_FICHES: int = 100;
 var loaded_fiches: Dictionary = {}; # "path" -> fiche dict
 var fiches_uses: Dictionary = {}; # "path" -> Nb access
+
+# Charger ici les discussions
+const MAX_LOADED_DISCUSSIONS: int = 100;
+var loaded_discussions: Dictionary = {}; # "path" -> fiche dict
+var discussions_uses: Dictionary = {}; # "path" -> Nb access
+
 
 # Langues actuelles
 var current_lang_src: String = "fr";

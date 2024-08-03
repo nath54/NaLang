@@ -141,10 +141,9 @@ layout_mode = 2
 text = "Notions
 Importantes"
 
-[node name="Bt_Lexique" type="Button" parent="CenterContainer/VBoxContainer/GridContainer"]
+[node name="Bt_Discussions" type="Button" parent="CenterContainer/VBoxContainer/GridContainer"]
 custom_minimum_size = Vector2(200, 100)
 layout_mode = 2
-disabled = true
 text = "Exemples de
 discussions"
 
@@ -183,7 +182,7 @@ text = "Paramètres"
 
 [connection signal="pressed" from="CenterContainer/VBoxContainer/VBoxContainer2/HBoxContainer2/CenterContainer/Bt_Change_Lang" to="." method="_on_bt_change_lang_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_NotionsImportantes" to="." method="_on_bt_notions_importantes_pressed"]
-[connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_Lexique" to="." method="_on_bt_lexique_pressed"]
+[connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_Discussions" to="." method="_on_bt_discussions_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_FichesCustoms" to="." method="_on_bt_fiches_customs_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/GridContainer/Bt_Quiz" to="." method="_on_bt_quiz_pressed"]
 [connection signal="pressed" from="CenterContainer/VBoxContainer/HBoxContainer/Bt_Quitter" to="." method="_on_bt_quitter_pressed"]

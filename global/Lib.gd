@@ -89,6 +89,64 @@ func get_fiche_elements(fiche_path: String) -> Array:
 	# On renvoie son data
 	return Global.loaded_fiches[fiche_path]["elements"];
 
+# Retourne true si la discussion a bien été chargée
+func charge_discussion(path: String) -> bool:
+	if path in Global.loaded_discussions:
+		return true;
+	#
+	if not FileAccess.file_exists(path):
+		return false;
+	#
+	var discussion: Dictionary = load_file(path);
+	#
+	Global.loaded_discussions[path] = discussion;
+	#
+	return true;
+
+# Réupère la liste des chemins des fiches
+func get_discussions() -> Array[String]:
+	return list_files_in_directory(Global.dir_discussions);
+
+# Réupère la liste des chemins des fiches disponibles pour le couple de langue sélectionné
+func get_discussions_availables_for_theses_langs() -> Array[String]:
+	#
+	var result: Array[String] = [];
+	#
+	for path in get_fiches():
+		#
+		var discussion_langs: Array[String] = get_discussion_langs(path);
+		#
+		if (Global.current_lang_src in discussion_langs) and (Global.current_lang_dst in discussion_langs):
+			result.append(path);
+	#
+	return result;
+
+# Récupère le nom d'une fiche avec son path
+func get_discussion_nom(path: String, lang: String = Global.current_lang_src) -> String:
+	# On s'assure que la fiche soit bien chargée
+	charge_discussion(path);
+	# On renvoie son nom
+	if lang in Global.loaded_discussions[path]["name"]:
+		return Global.loaded_discussions[path]["name"][lang];
+	else:
+		return Global.loaded_discussions[path]["name"][Global.loaded_discussions[path]["name"].keys()[0]];
+
+# Récupère les langues d'une fiche avec son path
+func get_discussion_langs(path: String) -> Array[String]:
+	# On s'assure que la fiche soit bien chargée
+	charge_discussion(path);
+	# On renvoie son nom
+	var langs: Array[String] = [];
+	langs.assign(Global.loaded_discussions[path]["langs"]);
+	return langs;
+
+# Récupère les éléments d'une fiche avec son path
+func get_discussion_discussions(path: String, lang: String) -> Array:
+	# On s'assure que la fiche soit bien chargée
+	charge_discussion(path);
+	# On renvoie son data
+	return Global.loaded_discussions[path]["discussion"][lang];
+
 # Function to calculate the Levenshtein distance between two strings
 func levenshtein_distance(str1: String, str2: String) -> int:
 	#

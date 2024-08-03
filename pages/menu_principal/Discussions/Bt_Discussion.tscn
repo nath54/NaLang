@@ -1,0 +1,39 @@
+[gd_scene load_steps=6 format=3 uid="uid://6qvqo47vgr8y"]
+
+[ext_resource type="StyleBox" uid="uid://csy0b1cb3uevh" path="res://res/Theme/WBt_Normal.tres" id="1_otqus"]
+[ext_resource type="StyleBox" uid="uid://cd07p2it74hxu" path="res://res/Theme/WBt_Hover.tres" id="2_j4qla"]
+[ext_resource type="StyleBox" uid="uid://dgp6vvl6fngov" path="res://res/Theme/WBt_pressed.tres" id="3_ly1h7"]
+[ext_resource type="StyleBox" uid="uid://j58gk6jfpypn" path="res://res/Theme/WBt_Disabled.tres" id="4_08ip1"]
+[ext_resource type="Script" path="res://pages/menu_principal/Discussions/Bt_Discussion.gd" id="5_620wk"]
+
+[node name="Bt_Discussion" type="Button"]
+custom_minimum_size = Vector2(300, 55)
+mouse_filter = 1
+theme_override_styles/normal = ExtResource("1_otqus")
+theme_override_styles/hover = ExtResource("2_j4qla")
+theme_override_styles/pressed = ExtResource("3_ly1h7")
+theme_override_styles/disabled = ExtResource("4_08ip1")
+script = ExtResource("5_620wk")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 15
+
+[node name="Vide" type="Control" parent="HBoxContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer"]
+layout_mode = 2
+text = "Exemple de discussion"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Vide2" type="Control" parent="HBoxContainer"]
+layout_mode = 2
+
+[connection signal="ready" from="HBoxContainer/Label" to="." method="_on_label_ready"]

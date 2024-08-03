@@ -1,0 +1,141 @@
+[gd_scene load_steps=3 format=3 uid="uid://bghyleppmpbhv"]
+
+[ext_resource type="Script" path="res://pages/menu_principal/Discussions/Discussion.gd" id="1_mqsm0"]
+[ext_resource type="PackedScene" uid="uid://stcusqdmtyrl" path="res://pages/menu_principal/Discussions/Elt_Discussion.tscn" id="2_m7bg8"]
+
+[node name="Discussion" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_mqsm0")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Container" type="VBoxContainer" parent="CenterContainer"]
+custom_minimum_size = Vector2(600, 900)
+layout_mode = 2
+theme_override_constants/separation = 15
+
+[node name="HSeparator3" type="HSeparator" parent="CenterContainer/Container"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CenterContainer/Container"]
+layout_mode = 2
+
+[node name="Bt_Retour" type="Button" parent="CenterContainer/Container/HBoxContainer"]
+custom_minimum_size = Vector2(100, 40)
+layout_mode = 2
+text = "Retour"
+
+[node name="HSeparator2" type="HSeparator" parent="CenterContainer/Container"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="CenterContainer/Container"]
+layout_mode = 2
+
+[node name="Titre" type="Label" parent="CenterContainer/Container/HBoxContainer2"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(250, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 25
+text = "Discussion"
+vertical_alignment = 1
+autowrap_mode = 2
+
+[node name="VSeparator" type="VSeparator" parent="CenterContainer/Container/HBoxContainer2"]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 2
+size_flags_stretch_ratio = 2.0
+
+[node name="HSeparator" type="HSeparator" parent="CenterContainer/Container"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CenterContainer/Container"]
+layout_mode = 2
+size_flags_vertical = 3
+follow_focus = true
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/Container/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_constants/margin_left = 15
+theme_override_constants/margin_top = 15
+theme_override_constants/margin_right = 15
+theme_override_constants/margin_bottom = 15
+
+[node name="Elts_Container" type="VBoxContainer" parent="CenterContainer/Container/ScrollContainer/MarginContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="Elt1" parent="CenterContainer/Container/ScrollContainer/MarginContainer/Elts_Container" instance=ExtResource("2_m7bg8")]
+layout_mode = 2
+text_lang_dst = "Hi, how are you ?"
+text_lang_src = "Salut, comment ca va ?"
+color = Color(0.694118, 0.862745, 0.988235, 1)
+
+[node name="Elt2" parent="CenterContainer/Container/ScrollContainer/MarginContainer/Elts_Container" instance=ExtResource("2_m7bg8")]
+layout_mode = 2
+alignment = 2
+text_lang_dst = "Hi, I'm good, and you ?"
+text_lang_src = "Yo, je vais bien et toi ?"
+color = Color(0.729412, 0.909804, 0.717647, 1)
+align = 1
+
+[node name="Elt3" parent="CenterContainer/Container/ScrollContainer/MarginContainer/Elts_Container" instance=ExtResource("2_m7bg8")]
+layout_mode = 2
+text_lang_dst = "Fine. Its a beautiful day isn't it ?"
+text_lang_src = "Bien. Aujourd'hui est un beau jour, n'est-ce pas ?"
+color = Color(0.694118, 0.862745, 0.988235, 1)
+
+[node name="Elt4" parent="CenterContainer/Container/ScrollContainer/MarginContainer/Elts_Container" instance=ExtResource("2_m7bg8")]
+layout_mode = 2
+alignment = 2
+text_lang_dst = "Yes, nice sun in the sky."
+text_lang_src = "Oui, joli soleil dans le ciel."
+color = Color(0.729412, 0.909804, 0.717647, 1)
+align = 1
+
+[node name="Elt5" parent="CenterContainer/Container/ScrollContainer/MarginContainer/Elts_Container" instance=ExtResource("2_m7bg8")]
+layout_mode = 2
+text_lang_dst = "What are you doing ?"
+text_lang_src = "Qu'est-ce que tu fais ?"
+color = Color(0.694118, 0.862745, 0.988235, 1)
+
+[node name="Elt6" parent="CenterContainer/Container/ScrollContainer/MarginContainer/Elts_Container" instance=ExtResource("2_m7bg8")]
+layout_mode = 2
+alignment = 2
+text_lang_dst = "I'm not really doing anything..."
+text_lang_src = "Je ne fais pas grand chose..."
+color = Color(0.729412, 0.909804, 0.717647, 1)
+align = 1
+
+[node name="HSeparator4" type="HSeparator" parent="CenterContainer/Container"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+
+[connection signal="pressed" from="CenterContainer/Container/HBoxContainer/Bt_Retour" to="." method="_on_bt_retour_pressed"]
